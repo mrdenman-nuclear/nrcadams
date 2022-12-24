@@ -1,6 +1,6 @@
 Package: nrcadams
 Title: Pulls Data from NRC's ADAMS database
-Version: 0.0.0.9000
+Version: 0.1.0.0000
 Authors@R: 
     person("Matthew", "Denman", , "mrdenman@gmail.com", role = c("aut", "cre"))
 Description: This package searches the NRC ADAMS database so that you dont have to use the web GUI. 
@@ -16,6 +16,7 @@ Language: en-US
 Imports: 
     dplyr,
     lubridate,
-    xml2
+    xml2,
+    tibble
 Config/testthat/edition: 3
 URL: https://mrdenman-nuclear.github.io/nrcadams/

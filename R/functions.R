@@ -8,7 +8,8 @@
 #' @return tibble of search results
 #' @export
 #'
-#' @examples nrcadams::search_docket(c(99902088, 05000610))
+#' @examples
+#' \dontrun{nrcadams::search_docket(c(99902088, 05000610))}
 search_docket <- function(
   DocketNumber,
   search_term = NULL,
