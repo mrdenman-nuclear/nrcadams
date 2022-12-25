@@ -1,24 +1,25 @@
-#' Conduct ADAMS Search
+#' Conduct ADAMS Search on Docket Numbers
 #'
-#' @param DocketNumber dbl/vector Docket number (or numbers) to be searched on ADAMS
-#' @param days_back dbl Length of time the search extends in days? Default is all time (i.e, NULL)
-#' @param search_term chr Any search term desired. Default is nothing (i.e., NULL)
+#' @param DocketNumber dbl/vector: Docket number (or numbers) to be searched on ADAMS
+#' @param days_back dbl: Length of time the search extends in days since the document was published on ADAMS? Default is all time (i.e, NULL)
+#' @param search_term chr: Any search term desired. Default is nothing (i.e., NULL)
 #'
 #' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
 #' @return tibble of search results
 #' @export
 #'
 #' @examples
-#' \dontrun{nrcadams::search_docket(c(99902088, 05000610))}
+#'   nrcadams::docket_codex |>
+#'     dplyr::filter(Company == "ACU") |>
+#'     dplyr::pull(Docket_Number) |>
+#'     nrcadams::search_docket()
 search_docket <- function(
   DocketNumber,
   search_term = NULL,
   days_back = NULL
 ) {
-  if(DocketNumber |> is.double() ||  DocketNumber |> is.character()) {
+  if(all(DocketNumber |> is.double() ||  DocketNumber |> is.character())) {
 
-    adams_base = "https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:("
-    adams_filters = "filters:(public-library:!t),"
     adams_docket = paste0(
       "properties_search_any:!(",
       paste0(
@@ -27,7 +28,7 @@ search_docket <- function(
       ")"
     )
     if (is.null(days_back)) {
-      adams_date = ""
+      adams_publish_date = ""
     } else {
       end_date = Sys.Date() |> lubridate::ymd()
       start_date = end_date - days_back
@@ -41,7 +42,7 @@ search_docket <- function(
         '+12:00+AM'
       )
 
-      adams_date = paste0(
+      adams_publish_date = paste0(
         ",properties_search:!(!(PublishDatePARS,gt,'",
         mdy_fmt,
         "',''))")
@@ -59,15 +60,12 @@ search_docket <- function(
 
     }
 
-    adams_end = "))&qn=New&tab=content-search-pars&z=0"
-
     url = paste0(
-      adams_base,
-      adams_filters,
+      nrcadams:::adams_search_head,
       adams_docket,
-      adams_date,
+      adams_publish_date,
       adams_search_term,
-      adams_end
+      nrcadams:::adams_search_tail
     )
 
     paste("Searching with the following URL:\n", url) |>
@@ -75,7 +73,47 @@ search_docket <- function(
 
     nrcadams:::make_results_tibble(url)
   } else {
-    stop("Either no docket number was entered or the docket number was not formatted as a double or character string.")
+    stop(
+      "Either no docket number was entered or the docket number was not formatted as a double or character string."
+      )
+  }
+}
+
+#' Conduct ADAMS Search on ML numbers
+#'
+#' @param ML_number chr/vector: ML number (or numbers) to be searched on ADAMS.
+#' All searches must start with ML but partial ML numbers can be searched for
+#' in addition to full ML numbers.
+#'
+#' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
+#' @return tibble of search results
+#' @export
+#'
+#' @examples
+#' c("ML22179A346", "ML19211C119") |> nrcadams::search_ml()
+search_ml <- function(ML_number) {
+  if(all(ML_number |> stringr::str_starts("ML"))) {
+
+    adams_ML = paste0(
+      "properties_search_any:!(",
+      paste0(
+        "!(AccessionNumber,starts,", ML_number , ",'')"
+      ) |> stringr::str_c(collapse = ","),
+      ")"
+    )
+
+    url = paste0(
+      nrcadams:::adams_search_head,
+      adams_ML,
+      nrcadams:::adams_search_tail
+    )
+
+    paste("Searching with the following URL:\n", url) |>
+      message()
+
+    nrcadams:::make_results_tibble(url)
+  } else {
+    stop("No ML number was entered.")
   }
 }
 
@@ -125,3 +163,19 @@ make_results_tibble = function(adams_url) {
     dplyr::mutate(`Publish Date` = `Publish Date` - 4*3600) |>
     dplyr::arrange(dplyr::desc(`Publish Date`))
 }
+
+
+#' First URL section for any ADAMS search
+#'
+#' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
+#' @return Starting script for a ADAMS search URL
+#' @keywords Internal
+adams_search_head =  "https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),"
+
+
+#' Last URL section for any ADAMS search
+#'
+#' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
+#' @return Ending script for a ADAMS search URL
+#' @keywords Internal
+adams_search_tail = "))&qn=New&tab=content-search-pars&z=0"
