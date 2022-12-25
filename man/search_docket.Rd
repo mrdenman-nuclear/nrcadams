@@ -2,7 +2,7 @@
 % Please edit documentation in R/functions.R
 \name{search_docket}
 \alias{search_docket}
-\title{Conduct ADAMS Search}
+\title{Conduct ADAMS Search on Docket Numbers}
 \source{
 \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
 }
@@ -10,18 +10,21 @@
 search_docket(DocketNumber, search_term = NULL, days_back = NULL)
 }
 \arguments{
-\item{DocketNumber}{dbl/vector Docket number (or numbers) to be searched on ADAMS}
+\item{DocketNumber}{dbl/vector: Docket number (or numbers) to be searched on ADAMS}
 
-\item{search_term}{chr Any search term desired. Default is nothing (i.e., NULL)}
+\item{search_term}{chr: Any search term desired. Default is nothing (i.e., NULL)}
 
-\item{days_back}{dbl Length of time the search extends in days? Default is all time (i.e, NULL)}
+\item{days_back}{dbl: Length of time the search extends in days since the document was published on ADAMS? Default is all time (i.e, NULL)}
 }
 \value{
 tibble of search results
 }
 \description{
-Conduct ADAMS Search
+Conduct ADAMS Search on Docket Numbers
 }
 \examples{
-nrcadams::search_docket(c(99902088, 05000610))
+  nrcadams::docket_codex |>
+    dplyr::filter(Company == "ACU") |>
+    dplyr::pull(Docket_Number) |>
+    nrcadams::search_docket()
 }

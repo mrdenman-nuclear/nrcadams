@@ -1,4 +1,19 @@
 url: https://mrdenman-nuclear.github.io/nrcadams/
 template:
   bootstrap: 5
-
+reference:
+- title: "ADAMS Search Functions"
+  desc: >
+    The primary user fuctions for searching the ADAMS database.
+  contents:
+  - starts_with("search")
+- title: "Docket Inforamtion"
+  desc: "Exported data objects intended to make using this package a little easier."
+  contents:
+  - docket_codex
+- title: "Internal"
+  desc: "Internal functions and objects (use ::: to find) for developer use."
+  contents:
+  - extract_from_xml
+  - make_results_tibble
+  - starts_with("adams_search")

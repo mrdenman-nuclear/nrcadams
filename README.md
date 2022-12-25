@@ -1,4 +1,4 @@
-# The nrcadams R package
+# The `nrcadams` R package
 
 A R package used to pull data from NRC's ADAMS document repository.
 
@@ -6,22 +6,22 @@ Do you ever want to keep track of the most recent back and forth between
 applicants and the NRC but you find NRC web based ADAMS searches cumbersome?
 If so, this package might be for you!
 
-# How to Install
+# How to install `nrcadams`
 
 This R package is based on tidyverse, so both R and tidyverse installation
 is recommended. Web based ADAMS results are processed in xml, so the `xml2`
 package is a prerequisite. This package is programmed using base R pipes, 
 so versions of R greater than 4.1 are required. 
 
-Please install this package using `devtools`:
+Please install this package using `remotes`:
 
 ```r
-devtools::install_github("mrdenman-nuclear/nrcadams")
+remotes::install_github("mrdenman-nuclear/nrcadams")
 ```
 
-This package is unlikely to be pushed to CRAN. 
+This package is unlikely to be published on CRAN. 
 
-# How to use this Package
+# How to use this package
 
 The `nrcadams` package is fairly limited at this time. All of the key 
 functionality runs through the `search_docket`. At least one docket number
