@@ -26,7 +26,7 @@
     
     <a class="navbar-brand me-2" href="index.html">nrcadams</a>
 
-    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">0.1.0.0000</small>
+    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">0.1.1.0000</small>
 
     
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -51,22 +51,23 @@
 </nav><div class="container template-home">
 <div class="row">
   <main id="main" class="col-md-9"><div class="section level1">
-<div class="page-header"><h1 id="the-nrcadams-r-package">The nrcadams R package<a class="anchor" aria-label="anchor" href="#the-nrcadams-r-package"></a>
+<div class="page-header"><h1 id="the-nrcadams-r-package">The <code>nrcadams</code> R package<a class="anchor" aria-label="anchor" href="#the-nrcadams-r-package"></a>
 </h1></div>
 <p>A R package used to pull data from NRC’s ADAMS document repository.</p>
 <p>Do you ever want to keep track of the most recent back and forth between applicants and the NRC but you find NRC web based ADAMS searches cumbersome? If so, this package might be for you!</p>
 </div>
 <div class="section level1">
-<h1 id="how-to-install">How to Install<a class="anchor" aria-label="anchor" href="#how-to-install"></a>
+<h1 id="how-to-install-nrcadams">How to install <code>nrcadams</code>
+<a class="anchor" aria-label="anchor" href="#how-to-install-nrcadams"></a>
 </h1>
 <p>This R package is based on tidyverse, so both R and tidyverse installation is recommended. Web based ADAMS results are processed in xml, so the <code>xml2</code> package is a prerequisite. This package is programmed using base R pipes, so versions of R greater than 4.1 are required.</p>
-<p>Please install this package using <code>devtools</code>:</p>
+<p>Please install this package using <code>remotes</code>:</p>
 <div class="sourceCode" id="cb1"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="fu">devtools</span><span class="fu">::</span><span class="fu">install_github</span><span class="op">(</span><span class="st">"mrdenman-nuclear/nrcadams"</span><span class="op">)</span></span></code></pre></div>
-<p>This package is unlikely to be pushed to CRAN.</p>
+<code class="sourceCode R"><span><span class="fu">remotes</span><span class="fu">::</span><span class="fu">install_github</span><span class="op">(</span><span class="st">"mrdenman-nuclear/nrcadams"</span><span class="op">)</span></span></code></pre></div>
+<p>This package is unlikely to be published on CRAN.</p>
 </div>
 <div class="section level1">
-<h1 id="how-to-use-this-package">How to use this Package<a class="anchor" aria-label="anchor" href="#how-to-use-this-package"></a>
+<h1 id="how-to-use-this-package">How to use this package<a class="anchor" aria-label="anchor" href="#how-to-use-this-package"></a>
 </h1>
 <p>The <code>nrcadams</code> package is fairly limited at this time. All of the key functionality runs through the <code>search_docket</code>. At least one docket number is required, but you can filter the results by specifying how many days in the past you want to search for as well as search terms. The function outputs a tibble of results including URLs to the documents.</p>
 <div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
