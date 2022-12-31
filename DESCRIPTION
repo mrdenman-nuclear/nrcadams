@@ -9,13 +9,18 @@ Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.2
 Suggests: 
+    knitr,
+    rmarkdown,
     spelling,
+    DT,
     testthat (>= 3.0.0)
 Language: en-US
 Imports: 
     dplyr,
     lubridate,
     xml2,
-    tibble
+    tibble,
+    stringr
 Config/testthat/edition: 3
 URL: https://mrdenman-nuclear.github.io/nrcadams/
+VignetteBuilder: knitr

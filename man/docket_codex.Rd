@@ -19,6 +19,6 @@ keep track of them for you! This exported tibble provides the project name,
 company, and docket number for a selection of efforts.
 }
 \examples{
-  nrcadams::docket_codex
+nrcadams::docket_codex
 }
 \keyword{datasets}
