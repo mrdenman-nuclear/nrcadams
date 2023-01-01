@@ -155,7 +155,7 @@ make_results_tibble = function(adams_url) {
       nrcadams:::extract_from_xml("DocumentType"),
     Affiliation = results|>
       nrcadams:::extract_from_xml("AuthorAffiliation"),
-    ULR = results |>
+    URL = results |>
       nrcadams:::extract_from_xml("URI"),
     DocketNumber = results |>
       nrcadams:::extract_from_xml("DocketNumber")
