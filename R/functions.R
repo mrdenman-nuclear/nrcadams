@@ -11,7 +11,7 @@
 #' @examples
 #'   nrcadams::docket_codex |>
 #'     dplyr::filter(Company == "ACU") |>
-#'     dplyr::pull(Docket_Number) |>
+#'     dplyr::pull(DocketNumber) |>
 #'     nrcadams::search_docket()
 search_docket <- function(
   DocketNumber,
@@ -158,7 +158,8 @@ make_results_tibble = function(adams_url) {
     URL = results |>
       nrcadams:::extract_from_xml("URI"),
     DocketNumber = results |>
-      nrcadams:::extract_from_xml("DocketNumber")
+      nrcadams:::extract_from_xml("DocketNumber") |>
+      as.double()
   ) |>
     dplyr::mutate(`Publish Date` = `Publish Date` - 4*3600) |>
     dplyr::arrange(dplyr::desc(`Publish Date`))

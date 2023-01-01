@@ -54,7 +54,7 @@ the pre-application and docketed information.
 ```{r}
 nrcadams::docket_codex |>
   dplyr::filter(Company == "ACU") |>
-  dplyr::pull(Docket_Number) |>
+  dplyr::pull(DocketNumber) |>
   nrcadams::search_docket(days_back = 60) |>
   dplyr::mutate(Title = paste0("<a href='", URL, "'>", Title, '</a>')) |>
   dplyr::select(-URL) |>
@@ -77,7 +77,7 @@ it is simpler to use the `dplyr::filter` to filter on the returned results.
 ```{r}
 nrcadams::docket_codex |>
   dplyr::filter(Company == "X-Energy") |>
-  dplyr::pull(Docket_Number) |>
+  dplyr::pull(DocketNumber) |>
   nrcadams::search_docket() |>
   dplyr::filter(
     !stringr::str_detect(Type, "E-Mail"),
