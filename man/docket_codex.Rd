@@ -5,7 +5,7 @@
 \alias{docket_codex}
 \title{Codex of Docket Numbers}
 \format{
-A tibble with columns for project name, compnay name, and docket number.
+A tibble with columns for project names, company names, docket numbers, and logical flag for NLWR applications.
 }
 \usage{
 docket_codex
