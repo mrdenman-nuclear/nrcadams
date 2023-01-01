@@ -19,9 +19,9 @@ The following page is updated once a day. The last update was at `r Sys.time()`.
 
 # Non-Light Water Reactor Docket Search
 
-The following table summarizes all ADAMS documents for the following dockets:
+The following table summarizes all ADAMS documents for the following dockets: 
 
-* `r nrcadams::docket_codex |> dplyr::filter(NLWR) |> dplyr::pull(Project) |> cat(sep = "\n * ")`
+* `r nrcadams::docket_codex |> dplyr::filter(NLWR) |> dplyr::pull(Project) |> paste(collapse = '\n * ')`
 
 
 ```{r}
@@ -45,7 +45,7 @@ nrcadams::docket_codex |>
 
 The following table summarizes all ADAMS documents for the following dockets:
 
-* `r nrcadams::docket_codex |> dplyr::filter(!NLWR) |> dplyr::pull(Project) |> cat(sep = "\n * ")`
+* `r nrcadams::docket_codex |> dplyr::filter(!NLWR) |> dplyr::pull(Project) |> paste(collapse = '\n * ')`
 
 
 ```{r}
