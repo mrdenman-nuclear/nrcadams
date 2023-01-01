@@ -25,6 +25,6 @@ Conduct ADAMS Search on Docket Numbers
 \examples{
   nrcadams::docket_codex |>
     dplyr::filter(Company == "ACU") |>
-    dplyr::pull(Docket_Number) |>
+    dplyr::pull(DocketNumber) |>
     nrcadams::search_docket()
 }

@@ -28,7 +28,7 @@ Companies applying for a combined operating license under Part 52 will
 have a docket number that begins with `052`. 
 Even after an applicant receives a docket number for a given facility or 
 design, the applicant may still submit documents to the pre-application
-docket if the information would support future licensing sumbitals. 
+docket if the information would support future licensing submittals. 
 
 ```{r}
 nrcadams::docket_codex |>
@@ -54,11 +54,14 @@ the pre-application and docketed information.
 ```{r}
 nrcadams::docket_codex |>
   dplyr::filter(Company == "ACU") |>
-  dplyr::pull(Docket_Number) |>
+  dplyr::pull(DocketNumber) |>
   nrcadams::search_docket(days_back = 60) |>
+  dplyr::mutate(Title = paste0("<a href='", URL, "'>", Title, '</a>')) |>
+  dplyr::select(-URL) |>
   DT::datatable(
     caption = "The last 60 Days of the MSRR's Posted Licensing Documents.",
-    filter = list(position = 'top', clear = TRUE, plain = FALSE)
+    filter = list(position = 'top', clear = TRUE, plain = FALSE),
+    escape = FALSE
     )
 ```
 
@@ -74,12 +77,14 @@ it is simpler to use the `dplyr::filter` to filter on the returned results.
 ```{r}
 nrcadams::docket_codex |>
   dplyr::filter(Company == "X-Energy") |>
-  dplyr::pull(Docket_Number) |>
+  dplyr::pull(DocketNumber) |>
   nrcadams::search_docket() |>
   dplyr::filter(
     !stringr::str_detect(Type, "E-Mail"),
     !stringr::str_detect(Type, "Letter")
     )|>
+  dplyr::mutate(Title = paste0("<a href='", URL, "'>", Title, '</a>')) |>
+  dplyr::select(-URL) |>
   DT::datatable(
     caption = "X-Energy's Pre-Applicaion Docket without Letters and Emails.",
     filter = list(position = 'top', clear = TRUE, plain = FALSE)

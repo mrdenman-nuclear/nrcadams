@@ -1,0 +1,64 @@
+---
+title: "Last Week in Dockets"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Last Week in Dockets}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  echo = FALSE
+)
+```
+
+The following page is updated once a day. The last update was at `r Sys.time()`.
+
+# Non-Light Water Reactor Docket Search
+
+The following table summarizes all ADAMS documents for the following dockets:
+
+* `r nrcadams::docket_codex |> dplyr::filter(NLWR) |> dplyr::pull(Project) |> cat(sep = "\n * ")`
+
+
+```{r}
+nrcadams::docket_codex |>
+  dplyr::pull(DocketNumber) |>
+  nrcadams::search_docket(days_back = 7) |>
+  dplyr::mutate(Title = paste0("<a href='", URL, "'>", Title, '</a>')) |>
+  dplyr::left_join(nrcadams::docket_codex) |>
+  dplyr::filter(NLWR) |>
+  dplyr::select(-c(URL, Company, DocketNumber, NLWR)) |>
+  DT::datatable(
+    caption = "The Last 7 Days of Posted NLWR Licensing Documents.",
+    filter = list(position = 'top', clear = TRUE, plain = FALSE),
+    escape = FALSE
+    )
+```
+
+
+
+# Light Water Reactor Docket Search
+
+The following table summarizes all ADAMS documents for the following dockets:
+
+* `r nrcadams::docket_codex |> dplyr::filter(!NLWR) |> dplyr::pull(Project) |> cat(sep = "\n * ")`
+
+
+```{r}
+nrcadams::docket_codex |>
+  dplyr::pull(DocketNumber) |>
+  nrcadams::search_docket(days_back = 7) |>
+  dplyr::mutate(Title = paste0("<a href='", URL, "'>", Title, '</a>')) |>
+  dplyr::left_join(nrcadams::docket_codex) |>
+  dplyr::filter(!NLWR) |>
+  dplyr::select(-c(URL, Company, DocketNumber, NLWR)) |>
+  DT::datatable(
+    caption = "The Last 7 Days of Posted LWR Licensing Documents.",
+    filter = list(position = 'top', clear = TRUE, plain = FALSE),
+    escape = FALSE
+    )
+```
