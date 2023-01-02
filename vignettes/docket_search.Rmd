@@ -87,6 +87,7 @@ nrcadams::docket_codex |>
   dplyr::select(-URL) |>
   DT::datatable(
     caption = "X-Energy's Pre-Applicaion Docket without Letters and Emails.",
-    filter = list(position = 'top', clear = TRUE, plain = FALSE)
+    filter = list(position = 'top', clear = TRUE, plain = FALSE),
+    escape = FALSE
     )
 ```
