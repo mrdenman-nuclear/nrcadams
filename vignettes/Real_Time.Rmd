@@ -10,12 +10,11 @@ vignette: >
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
-  comment = "#>",
-  echo = FALSE
+  comment = "#>"
 )
 ```
 
-The following page is updated once a day. The last update was at `r Sys.time()`.
+The following page is updated once a day and presents the last week of posted ADAMS documents. The last update was at `r Sys.time()`.
 
 # Non-Light Water Reactor Docket Search
 
