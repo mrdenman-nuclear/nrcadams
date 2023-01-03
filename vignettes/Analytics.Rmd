@@ -42,7 +42,7 @@ There are too many document types coded by ADAMS to effectively show on a plot
 (i.e., > 180).
 As a result, the Type feild is binned to facilitate a bar plot of various 
 reactor applications. 
-The Shine applicaiton bar plot is topped out at the ADAMS maximum of 1,000 
+The Shine application bar plot is topped out at the ADAMS maximum of 1,000 
 documents, but it is 
 The last update to this plot was at `r Sys.time()`.
 
