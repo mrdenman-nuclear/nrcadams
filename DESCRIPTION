@@ -13,6 +13,7 @@ Suggests:
     rmarkdown,
     spelling,
     DT,
+    ggplot2,
     testthat (>= 3.0.0)
 Language: en-US
 Imports: 
