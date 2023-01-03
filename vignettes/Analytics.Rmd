@@ -43,7 +43,7 @@ There are too many document types coded by ADAMS to effectively show on a plot
 As a result, the Type feild is binned to facilitate a bar plot of various 
 reactor applications. 
 The Shine application bar plot is topped out at the ADAMS maximum of 1,000 
-documents, but it is 
+documents.
 The last update to this plot was at `r Sys.time()`.
 
 ```{r}
@@ -67,5 +67,8 @@ combined_NLWR_dockets |>
   ggplot() +
     geom_bar(aes(y = Project, fill = Type)) +
     theme_bw() +
-    ggtitle(paste("Non-Light Water Reactor ADAMS Documents as of", Sys.Date()))
+    labs(
+      title = "Non-Light Water Reactor ADAMS Documents",
+      subtitle =  paste("as of", Sys.Date())
+    )
 ```
