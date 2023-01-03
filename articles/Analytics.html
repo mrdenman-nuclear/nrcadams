@@ -145,8 +145,7 @@ is queried independently and the resulting tibbles are combined.</p>
 on a plot (i.e., &gt; 180). As a result, the Type feild is binned to
 facilitate a bar plot of various reactor applications. The Shine
 application bar plot is topped out at the ADAMS maximum of 1,000
-documents, but it is The last update to this plot was at 2023-01-03
-05:36:50.</p>
+documents. The last update to this plot was at 2023-01-03 15:49:07.</p>
 <div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="va">combined_NLWR_dockets</span> <span class="op">|&gt;</span></span>
 <span>  <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/mutate.html" class="external-link">mutate</a></span><span class="op">(</span></span>
@@ -168,7 +167,10 @@ documents, but it is The last update to this plot was at 2023-01-03
 <span>  <span class="fu">ggplot</span><span class="op">(</span><span class="op">)</span> <span class="op">+</span></span>
 <span>    <span class="fu">geom_bar</span><span class="op">(</span><span class="fu">aes</span><span class="op">(</span>y <span class="op">=</span> <span class="va">Project</span>, fill <span class="op">=</span> <span class="va">Type</span><span class="op">)</span><span class="op">)</span> <span class="op">+</span></span>
 <span>    <span class="fu">theme_bw</span><span class="op">(</span><span class="op">)</span> <span class="op">+</span></span>
-<span>    <span class="fu">ggtitle</span><span class="op">(</span><span class="fu"><a href="https://rdrr.io/r/base/paste.html" class="external-link">paste</a></span><span class="op">(</span><span class="st">"Non-Light Water Reactor ADAMS Documents as of"</span>, <span class="fu"><a href="https://rdrr.io/r/base/Sys.time.html" class="external-link">Sys.Date</a></span><span class="op">(</span><span class="op">)</span><span class="op">)</span><span class="op">)</span></span></code></pre></div>
+<span>    <span class="fu">labs</span><span class="op">(</span></span>
+<span>      title <span class="op">=</span> <span class="st">"Non-Light Water Reactor ADAMS Documents"</span>,</span>
+<span>      subtitle <span class="op">=</span>  <span class="fu"><a href="https://rdrr.io/r/base/paste.html" class="external-link">paste</a></span><span class="op">(</span><span class="st">"as of"</span>, <span class="fu"><a href="https://rdrr.io/r/base/Sys.time.html" class="external-link">Sys.Date</a></span><span class="op">(</span><span class="op">)</span><span class="op">)</span></span>
+<span>    <span class="op">)</span></span></code></pre></div>
 <p><img src="Analytics_files/figure-html/unnamed-chunk-3-1.png" width="700"></p>
   </main>
 </div>
