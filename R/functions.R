@@ -32,6 +32,9 @@ search_docket <- function(
     } else {
       end_date = Sys.Date() |> lubridate::ymd()
       start_date = end_date - days_back
+
+      # Advanced search and content search format the ADAMs publication date query differently.
+      # days_back is only supported for content searches.
       mdy_fmt = paste0(
         paste(
           start_date |> lubridate::month(),
@@ -65,16 +68,20 @@ search_docket <- function(
       adams_docket,
       adams_publish_date,
       adams_search_term,
-      nrcadams:::adams_search_tail
+      nrcadams:::adams_search_tail(!is.null(days_back))
     )
 
     paste("Searching with the following URL:\n", url) |>
       message()
 
-    nrcadams:::make_results_tibble(url)
+    results = nrcadams:::make_results_tibble(url)
+    if(results |> nrow() == 0) {
+      stop("\nEither the search return no results or the search exceeded 1000 results, resulting in an ADAMS side error.\n")
+    }
+    return(results)
   } else {
     stop(
-      "Either no docket number was entered or the docket number was not formatted as a double or character string."
+      "Either no docket number was entered or the docket number was not formatted as either a double or character string."
       )
   }
 }
@@ -105,13 +112,18 @@ search_ml <- function(ML_number) {
     url = paste0(
       nrcadams:::adams_search_head,
       adams_ML,
-      nrcadams:::adams_search_tail
+      nrcadams:::adams_search_tail()
     )
 
     paste("Searching with the following URL:\n", url) |>
       message()
 
-    nrcadams:::make_results_tibble(url)
+    results = nrcadams:::make_results_tibble(url)
+    if(results |> nrow() == 0) {
+      stop("\nEither the search return no results or the search exceeded 1000 results, resulting in an ADAMS side error.\n")
+    }
+    return(results)
+
   } else {
     stop("No ML number was entered.")
   }
@@ -142,7 +154,7 @@ extract_from_xml = function(xml_results, search_term) {
 make_results_tibble = function(adams_url) {
   results = xml2::read_xml(adams_url)
 
-  tibble::tibble(
+  adams_tbl = tibble::tibble(
     Title = results |>
       nrcadams:::extract_from_xml("DocumentTitle"),
     `Document Date` = results |>
@@ -158,11 +170,22 @@ make_results_tibble = function(adams_url) {
     URL = results |>
       nrcadams:::extract_from_xml("URI"),
     DocketNumber = results |>
-      nrcadams:::extract_from_xml("DocketNumber") |>
-      as.double()
+      nrcadams:::extract_from_xml("DocketNumber")
   ) |>
-    dplyr::mutate(`Publish Date` = `Publish Date` - 4*3600) |>
-    dplyr::arrange(dplyr::desc(`Publish Date`))
+    tidyr::separate_rows(DocketNumber) |>
+    dplyr::mutate(
+      `Publish Date` = `Publish Date` - 4*3600,
+      DocketNumber = DocketNumber |> as.double()
+    ) |>
+    dplyr::arrange(dplyr::desc(`Publish Date`)) |>
+    suppressWarnings()
+
+  if(adams_tbl |> dplyr::filter(is.na(DocketNumber)) |> nrow() == 0) {
+    return(adams_tbl)
+  } else {
+    message("Some docket numbers were returned as hybrid character and numeric strings (e.g., PROJ0792). These docket numbers were filtered out.")
+    return(adams_tbl |> dplyr::filter(!is.na(DocketNumber)))
+  }
 }
 
 
@@ -176,7 +199,29 @@ adams_search_head =  "https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(
 
 #' Last URL section for any ADAMS search
 #'
+#' @param content_lgl Default TRUE.
+#'  * TRUE: Content search supports search keywords.
+#'  * FALSE: Advanced search returns results for greater than 1,000 entries.
+#'
 #' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
 #' @return Ending script for a ADAMS search URL
 #' @keywords Internal
-adams_search_tail = "))&qn=New&tab=content-search-pars&z=0"
+adams_search_tail = function(content_lgl = TRUE) {
+  if(content_lgl) {
+    "))&qn=New&tab=content-search-pars&z=0"
+  } else {
+    "))&qn=New&tab=advanced-search-pars&z=0"
+  }
+}
+
+#' Tests for null returns
+#'
+#' @param adams_tbl
+#'
+#' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
+#' @return Logical. TRUE if rows exist, FALSE if rows dont.
+#' @keywords Internal
+test_for_results = function(adams_tbl) {
+
+
+}
