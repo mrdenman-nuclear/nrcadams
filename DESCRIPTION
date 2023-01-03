@@ -18,6 +18,7 @@ Suggests:
 Language: en-US
 Imports: 
     dplyr,
+    tidyr,
     lubridate,
     xml2,
     tibble,
