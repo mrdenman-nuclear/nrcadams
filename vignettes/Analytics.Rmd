@@ -1,0 +1,71 @@
+---
+  title: "Docket Analytics"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Docket Analytics}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+library(ggplot2)
+```
+
+
+This page provides preliminary data analytics on various NLWR dockets. 
+Note that ADAMS limits search results to a maximum of 1,000 results and some 
+documents are assigned multiple docket numbers.
+The results presented here should be interpreted with these limitations.
+
+
+Because the entire docket is being pulled for each project, the 1,000 document
+per search limit would be exceeded if all the dockets were pulled in one request. 
+To reduce the impact of this limit, each docket is queried independently and the 
+resulting tibbles are combined.
+
+```{r}
+combined_NLWR_dockets = nrcadams::docket_codex |>
+  dplyr::filter(NLWR) |>
+  dplyr::pull(DocketNumber) |>
+  purrr::map(~nrcadams::search_docket(.x)) |> 
+  purrr::reduce(dplyr::full_join) |>
+  dplyr::left_join(nrcadams::docket_codex) |>
+  dplyr::filter(NLWR) |>
+  dplyr::select(-c(URL, Company, DocketNumber, NLWR)) 
+```
+
+There are too many document types coded by ADAMS to effectively show on a plot 
+(i.e., > 180).
+As a result, the Type feild is binned to facilitate a bar plot of various 
+reactor applications. 
+The Shine applicaiton bar plot is topped out at the ADAMS maximum of 1,000 
+documents, but it is 
+The last update to this plot was at `r Sys.time()`.
+
+```{r}
+combined_NLWR_dockets |>
+  dplyr::mutate(
+    Type = dplyr::case_when(
+      Type |> stringr::str_detect("RAI") ~ "RAI",
+      Type |> stringr::str_detect("SAR") ~ "Safety Analysis",
+      Type |> stringr::str_detect("Safety Analysis") ~ "Safety Analysis",
+      Type |> stringr::str_detect("SER") ~ "Safety Eval.",
+      Type |> stringr::str_detect("Safety Evaluation") ~ "Safety Eval.",
+      Type |> stringr::str_detect("Audit") ~ "Audit",
+      Type |> stringr::str_detect("Legal") ~ "Legal",
+      Type |> stringr::str_detect("Letter") ~ "Letter",
+      Type |> stringr::str_detect("E-Mail") ~ "Letter",
+      Type |> stringr::str_detect("Report") ~ "Report",
+      Type |> stringr::str_detect("Slides") ~ "Slides",
+      TRUE ~ "Other"
+    )
+  ) |>
+  ggplot() +
+    geom_bar(aes(y = Project, fill = Type)) +
+    theme_bw() +
+    ggtitle(paste("Non-Light Water Reactor ADAMS Documents as of", Sys.Date()))
+```

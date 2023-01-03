@@ -180,11 +180,11 @@ make_results_tibble = function(adams_url) {
     dplyr::arrange(dplyr::desc(`Publish Date`)) |>
     suppressWarnings()
 
-  if(all(adams_tbl$DocketNumber |> is.na()) == FALSE) {
+  if(adams_tbl |> dplyr::filter(is.na(DocketNumber)) |> nrow() == 0) {
     return(adams_tbl)
   } else {
-    message("Some docket numbers were returned as hybrid character and numeric strings (e.g., PROJ0792). These docket numbers were converted to NA's.")
-    return(adams_tbl)
+    message("Some docket numbers were returned as hybrid character and numeric strings (e.g., PROJ0792). These docket numbers were filtered out.")
+    return(adams_tbl |> dplyr::filter(!is.na(DocketNumber)))
   }
 }
 
