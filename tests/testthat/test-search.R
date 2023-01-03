@@ -3,7 +3,7 @@ testthat::test_that("ACU Docket Files can be found", {
     dplyr::filter(Company == "ACU") |>
     dplyr::pull(DocketNumber)  |>
     nrcadams::search_docket()
-  testthat::expect_true(full_results |> length() > 0)
+  testthat::expect_true(full_results |> nrow() > 0)
 })
 
 testthat::test_that("ACU Docket Files can be found", {
@@ -15,7 +15,7 @@ testthat::test_that("ACU Docket Files can be found", {
     dplyr::filter(Company == "ACU") |>
     dplyr::pull(DocketNumber) |>
     nrcadams::search_docket(days_back = 40)
-  testthat::expect_true(full_results$Title |> length() > partial_results$Title |> length())
+  testthat::expect_true(full_results |> nrow() > partial_results |> nrow())
 })
 
 testthat::test_that("Docket Search Works", {
@@ -23,10 +23,18 @@ testthat::test_that("Docket Search Works", {
     dplyr::filter(Company == "ACU") |>
     dplyr::pull(DocketNumber) |>
     nrcadams::search_docket(search_term = "Acceptance")
-  testthat::expect_true(search_results$Title |> length() > 1)
+  testthat::expect_true(search_results |> nrow() > 1)
 })
 
 testthat::test_that("ML Search Works", {
   search_results = c("ML22179A346", "ML19211C119") |> nrcadams::search_ml()
-  testthat::expect_true(search_results$Title |> length() == 2)
+  testthat::expect_true(search_results |> nrow() == 2)
+})
+
+testthat::test_that("Searches with over 1000 entries at least return the 1000 entries", {
+  search_results = nrcadams::docket_codex |>
+    dplyr::filter(Company == "SHINE Medical Technologies") |>
+    dplyr::pull(DocketNumber) |>
+    nrcadams::search_docket()
+  testthat::expect_true(search_results |> nrow() >= 1000)
 })
