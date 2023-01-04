@@ -152,7 +152,7 @@ extract_from_xml = function(xml_results, search_term) {
 #' @return vector of search term results
 #' @keywords Internal
 make_results_tibble = function(adams_url) {
-  results = xml2::read_xml(adams_url)
+  results = xml2::read_xml(adams_url, config = httr::config(connecttimeout = 60))
 
   adams_tbl = tibble::tibble(
     Title = results |>
@@ -214,14 +214,3 @@ adams_search_tail = function(content_lgl = TRUE) {
   }
 }
 
-#' Tests for null returns
-#'
-#' @param adams_tbl
-#'
-#' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
-#' @return Logical. TRUE if rows exist, FALSE if rows dont.
-#' @keywords Internal
-test_for_results = function(adams_tbl) {
-
-
-}
