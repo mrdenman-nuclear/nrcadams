@@ -152,7 +152,7 @@ extract_from_xml = function(xml_results, search_term) {
 #' @return vector of search term results
 #' @keywords Internal
 make_results_tibble = function(adams_url) {
-  results = xml2::read_xml(adams_url, config = httr::config(connecttimeout = 60))
+  results = xml2::read_xml(adams_url, config = httr::config(connecttimeout = 99999999))
 
   adams_tbl = tibble::tibble(
     Title = results |>
