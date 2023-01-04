@@ -12,7 +12,6 @@ knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>"
 )
-library(ggplot2)
 ```
 
 
@@ -35,7 +34,14 @@ combined_NLWR_dockets = nrcadams::docket_codex |>
   purrr::reduce(dplyr::full_join) |>
   dplyr::left_join(nrcadams::docket_codex) |>
   dplyr::filter(NLWR) |>
-  dplyr::select(-c(URL, Company, DocketNumber, NLWR)) 
+  dplyr::select(-c(URL, Company, DocketNumber, NLWR)) |>
+  dplyr::distinct()
+
+docket_count = combined_NLWR_dockets |>
+  dplyr::count(Project, sort = TRUE)
+
+docket_count |>
+  DT::datatable()
 ```
 
 There are too many document types coded by ADAMS to effectively show on a plot 
@@ -47,8 +53,10 @@ documents.
 The last update to this plot was at `r Sys.time()`.
 
 ```{r}
+library(ggplot2)
 combined_NLWR_dockets |>
   dplyr::mutate(
+    Project = factor(Project, levels = docket_count |> dplyr::pull(Project)),
     Type = dplyr::case_when(
       Type |> stringr::str_detect("RAI") ~ "RAI",
       Type |> stringr::str_detect("SAR") ~ "Safety Analysis",
@@ -70,5 +78,36 @@ combined_NLWR_dockets |>
     labs(
       title = "Non-Light Water Reactor ADAMS Documents",
       subtitle =  paste("as of", Sys.Date())
+    ) +
+    xlab("Document Count")
+```
+
+The cumulative number of documents on a given ADAMS docket is also presented
+as a function of document date. 
+The plot below shows the number of documents submitted to a docket. This 
+plot starts in 2018 because the Shine docket singularly dominates the plot in 
+the pre-2018 time frame. 
+
+
+```{r}
+library(ggplot2)
+grouped_NLWR_dockets = combined_NLWR_dockets |>
+  dplyr::group_by(Project) |>
+  dplyr::arrange(`Document Date`) |>
+  dplyr::mutate(
+    Project = factor(Project, levels = docket_count |> dplyr::pull(Project)),
+    count = 1,
+    `Document Count` = cumsum(count)
+    ) |>
+  dplyr::filter(`Document Date` > lubridate::ymd("2018-01-01"))
+
+grouped_NLWR_dockets |>
+  ggplot() +
+    geom_step(aes(x = `Document Date`, y = `Document Count`, color = Project)) +
+    theme_bw() +
+    labs(
+      title = "Non-Light Water Reactor ADAMS Documents",
+      subtitle =  paste("as of", Sys.Date())
     )
+
 ```
