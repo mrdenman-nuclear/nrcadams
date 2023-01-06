@@ -2,4 +2,5 @@
 
 export(docket_codex)
 export(search_docket)
+export(search_long_docket)
 export(search_ml)

@@ -9,18 +9,18 @@
 \usage{
 search_docket(
   DocketNumber,
-  search_term = NULL,
-  days_back = NULL,
-  start_date = NULL,
-  end_date = NULL
+  search_term = NA,
+  days_back = NA,
+  start_date = NA,
+  end_date = NA
 )
 }
 \arguments{
 \item{DocketNumber}{dbl/vector: Docket number (or numbers) to be searched on ADAMS}
 
-\item{search_term}{chr: Any search term desired. Default is nothing (i.e., NULL)}
+\item{search_term}{chr: Any search term desired. Default is nothing (i.e., NA)}
 
-\item{days_back}{dbl: Length of time the search extends in days since the document was published on ADAMS? Default is all time (i.e, NULL). Cannot be used with start_date or end_date.}
+\item{days_back}{dbl: Length of time the search extends in days since the document was published on ADAMS? Default is all time (i.e, NA). Cannot be used with start_date or end_date.}
 
 \item{start_date}{chr: The earliest date (ymd) search results should be returned. Cannot be used with days_back.}
 

@@ -23,7 +23,8 @@ Imports:
     xml2,
     httr,
     tibble,
-    stringr
+    stringr,
+    tictoc
 Config/testthat/edition: 3
 URL: https://mrdenman-nuclear.github.io/nrcadams/
 VignetteBuilder: knitr

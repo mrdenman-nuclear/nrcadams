@@ -38,3 +38,11 @@ testthat::test_that("Searches with over 1000 entries at least return the 1000 en
     nrcadams::search_docket()
   testthat::expect_true(search_results |> nrow() >= 1000)
 })
+
+testthat::test_that("Long search effectively pull the entire search history", {
+  search_results = nrcadams::docket_codex |>
+    dplyr::filter(NLWR) |>
+    dplyr::pull(DocketNumber) |>
+    nrcadams::search_long_docket(number_of_intervals = 10)
+  testthat::expect_true(search_results |> nrow() >= 3000)
+})

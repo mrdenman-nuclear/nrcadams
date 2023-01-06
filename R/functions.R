@@ -1,8 +1,8 @@
 #' Conduct ADAMS Search on Docket Numbers
 #'
 #' @param DocketNumber dbl/vector: Docket number (or numbers) to be searched on ADAMS
-#' @param search_term chr: Any search term desired. Default is nothing (i.e., NULL)
-#' @param days_back dbl: Length of time the search extends in days since the document was published on ADAMS? Default is all time (i.e, NULL). Cannot be used with start_date or end_date.
+#' @param search_term chr: Any search term desired. Default is nothing (i.e., NA)
+#' @param days_back dbl: Length of time the search extends in days since the document was published on ADAMS? Default is all time (i.e, NA). Cannot be used with start_date or end_date.
 #' @param start_date chr: The earliest date (ymd) search results should be returned. Cannot be used with days_back.
 #' @param end_date chr: The latest date (ymd) search results should be returned. Cannot be used with days_back.
 #'
@@ -17,18 +17,18 @@
 #'     nrcadams::search_docket()
 search_docket <- function(
   DocketNumber,
-  search_term = NULL,
-  days_back = NULL,
-  start_date = NULL,
-  end_date = NULL
+  search_term = NA,
+  days_back = NA,
+  start_date = NA,
+  end_date = NA
 ) {
   if(all(DocketNumber |> is.double() ||  DocketNumber |> is.character())) {
 
-    if(!is.null(days_back)) {
-      if(!is.null(start_date)) warning("days_back and start_date are both defined. days_back is used.")
-      if(!is.null(end_date)) warning("days_back and end_date are both defined. days_back is used.")
+    if(!is.na(days_back)) {
+      if(!is.na(start_date)) warning("days_back and start_date are both defined. days_back is used.")
+      if(!is.na(end_date)) warning("days_back and end_date are both defined. days_back is used.")
       start_date = Sys.Date() |> lubridate::ymd() - days_back
-      end_date = NULL
+      end_date = NA
     }
 
     url = paste0(
@@ -36,16 +36,25 @@ search_docket <- function(
       nrcadams:::adams_docket_numbers(DocketNumber),
       nrcadams:::adams_interval(start_date, end_date),
       nrcadams:::adams_search_term(search_term),
-      nrcadams:::adams_search_tail(!is.null(days_back))
+      nrcadams:::adams_search_tail(!is.na(search_term))
     )
 
-    paste("Searching with the following URL:\n", url) |>
-      message()
-
+    paste("Searching with the following URL:\n", url,"\n") |>
+      tictoc::tic()
     results = nrcadams:::make_results_tibble(url)
+    tictoc::toc()
+
+    message(
+      paste(
+        "\n This search returned:", results |> dplyr::distinct()|> nrow(), "files."
+        )
+      )
 
     if(results |> nrow() == 0) {
       stop("\nEither the search return no results or the search exceeded 1000 results, resulting in an ADAMS side error.\n")
+    }
+    if(results |> nrow() >= 1000) {
+      warning("\nThis search returned more than 1000 results and thus may be incomplete. As a result, the search should be refined.\n")
     }
     return(results)
   } else {
@@ -69,7 +78,7 @@ search_docket <- function(
 #' c("ML22179A346", "ML19211C119") |> nrcadams::search_ml()
 search_ml <- function(ML_number) {
   if(all(ML_number |> stringr::str_starts("ML"))) {
-
+    print(start_date, end_date)
     adams_ML = paste0(
       "properties_search_any:!(",
       paste0(
@@ -158,143 +167,55 @@ make_results_tibble = function(adams_url) {
 }
 
 
-#' First URL section for any ADAMS search
+#' Conduct a lengthy search on Docket Numbers
 #'
-#' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
-#' @return Starting script for a ADAMS search URL
-#' @keywords Internal
-adams_search_head =  "https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),"
-
-
-#' Last URL section for any ADAMS search
+#' Individual ADAMS searches are limited to 1000 results, which can make
+#' searches that are lengthy difficult. Additionally, long ADAMS searches can
+#' take over 10 seconds to complete which may trigger a connection timeout
+#' on some systems.
 #'
-#' @param content_lgl Default TRUE.
-#'  * TRUE: Content search supports search keywords.
-#'  * FALSE: Advanced search returns results for greater than 1,000 entries.
+#' To avoid these problems, this wrapper script conducts multiple searches from
+#' today back to a starting point in time. The number of searches is set by the
+#' num_interval. For example, if today is 2020/1/1 and the starting date is
+#' 2010/1/1 and number_of_intervals is set to 2, this script will conduct two
+#' searches, one from 2010 to 2015 and the other from 2015 to 2020. These
+#' search results are then combined and output to the user.
 #'
-#' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
-#' @return Ending script for a ADAMS search URL
-#' @keywords Internal
-adams_search_tail = function(content_lgl = TRUE) {
-  if(content_lgl) {
-    "))&qn=New&tab=content-search-pars&z=0"
-  } else {
-    "))&qn=New&tab=advanced-search-pars&z=0"
-  }
-}
-
-
-#' Adams Docket URL section for any ADAMS search
-#'
-#' @param docket_numbers dbl/vector: Docket number (or numbers) to be searched on ADAMS
-#'
-#' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
-#' @return script for a ADAMS search URL
-#' @keywords Internal
-adams_docket_numbers = function(docket_numbers = NULL) {
-  if(!is.null(docket_numbers)) {
-    paste0(
-      "properties_search_any:!(",
-      paste0(
-        "!(DocketNumber,eq,'", docket_numbers |> stringr::str_pad(8, pad = "0"), "','')"
-      ) |> stringr::str_c(collapse = ","),
-      ")"
-    )
-  } else {
-    ""
-  }
-}
-
-
-#' ADAMS search term URL section for any ADAMS search
-#'
-#' @param search_term chr: Any search term desired. Default is nothing (i.e., NULL)
-#'
-#' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
-#' @return script for a ADAMS search URL
-#' @keywords Internal
-adams_search_term = function(search_term) {
-  if (is.null(search_term)) {
-    adams_search_term = ''
-  } else {
-    adams_search_term = paste0(
-      ",single_content_search:'",
-      search_term |>
-        stringr::str_replace_all(" ", "+"),
-      "'"
-    )
-  }
-}
-
-#' ADAMS search posted date interval URL section for any ADAMS search
-#'
+#' @param DocketNumber dbl/vector: Docket number (or numbers) to be searched on ADAMS
+#' @param search_term chr: Any search term desired. Default is nothing (i.e., NA)
+#' @param number_of_intervals dbl: The maximum number of searches to be conducted
 #' @param start_date chr: The earliest date (ymd) search results should be returned.
-#' @param end_date chr: The latest date (ymd) search results should be returned
 #'
 #' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
-#' @return script for a ADAMS search URL
-#' @keywords Internal
-adams_interval = function(start_date = NULL, end_date = NULL) {
-  if (is.null(start_date) && is.null(end_date)) {
-    interval = ''
-  } else {
-    # Advanced search and content search format the ADAMs publication date query differently.
-    # days_back is only supported for content searches.
-
-    paste0(
-      ",properties_search:!(",
-      nrcadams:::adams_start_or_end(start_date, FALSE),
-      nrcadams:::adams_start_or_end(end_date),
-      ")"
-    )
-
-  }
-}
-
-#' ADAMS search posted date interval URL section for any ADAMS search
+#' @return tibble of search results
+#' @export
 #'
-#' @param date_chr chr: The date (ymd)
-#' @param end_lgl Logical: TRUE formats a search before this date.
-#' FALSE formats a search after this date.
-#'
-#' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
-#' @return date for ADAMS search
-#' @keywords Internal
-#' @example nrcadams::adams_start_or_end()
-adams_start_or_end = function(date = Sys.Date(), end_lgl = TRUE) {
-  # If date is NULL, return nothing
-  if(is.null(date)) {
-    ""
-  } else {
-    if(end_lgl){term = 'lt'} else {term = 'gt'}
-    paste0(
-      "!(PublishDatePARS,",
-      term,
-      ",'",
-      date |> nrcadams:::lubridate_date(),
-      "','')"
-    )
-  }
+#' @examples
+#'   nrcadams::docket_codex |>
+#'     dplyr::filter(NLWR) |>
+#'     dplyr::pull(DocketNumber) |>
+#'     nrcadams::search_long_docket(number_of_intervals = 10)
+search_long_docket = function(
+  DocketNumber,
+  search_term = NA,
+  number_of_intervals = 5,
+  start_date = "2013-1-1"
+  ) {
+
+  search_duration = lubridate::interval(start_date |> lubridate::ymd(), Sys.Date() |> lubridate::ymd()) |>
+    lubridate::as.duration() / number_of_intervals
+
+  start_date = start_date |> lubridate::ymd() + rep(0:(number_of_intervals-1)) * search_duration
+  end_date = dplyr::lead(start_date)
+  purrr::map2(start_date, end_date, ~nrcadams::search_docket(
+    DocketNumber = DocketNumber,
+    search_term = NA,
+    start_date = .x,
+    end_date = .y
+    )) |>
+    purrr::reduce(dplyr::full_join) |>
+    dplyr::distinct()
 }
 
 
 
-#' Formats YMD date string into ADAMS search date using lubridate
-#'
-#' @param date chr: The date (ymd)
-#'
-#' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
-#' @return date for ADAMS search
-#' @keywords Internal
-#' @example nrcadams:::lubridate_date()
-lubridate_date = function(date = Sys.Date()) {
-  paste0(
-    paste(
-      date |> lubridate::month(),
-      date |> lubridate::day(),
-      date |> lubridate::year(),
-      sep = '/'
-    ),
-    '+12:00+AM'
-  )
-}

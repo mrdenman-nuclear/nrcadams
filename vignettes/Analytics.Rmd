@@ -30,11 +30,10 @@ To reduce the impact of this limit, each docket is queried independently and the
 resulting tibbles are combined.
 
 ```{r}
-combined_NLWR_dockets = nrcadams::docket_codex |>
+combined_NLWR_dockets =  nrcadams::docket_codex |>
   dplyr::filter(NLWR) |>
   dplyr::pull(DocketNumber) |>
-  purrr::map(~nrcadams::search_docket(.x)) |> 
-  purrr::reduce(dplyr::full_join) |>
+  nrcadams::search_long_docket(number_of_intervals = 10) |>
   dplyr::left_join(nrcadams::docket_codex) |>
   dplyr::filter(NLWR) |>
   dplyr::select(-c(URL, Company, DocketNumber, NLWR)) |>
