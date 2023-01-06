@@ -14,7 +14,6 @@ knitr::opts_chunk$set(
   warning = FALSE,
   comment = "#>"
 )
-httr::config(timeout = 20000) 
 ```
 
 
@@ -33,7 +32,7 @@ resulting tibbles are combined.
 combined_NLWR_dockets =  nrcadams::docket_codex |>
   dplyr::filter(NLWR) |>
   dplyr::pull(DocketNumber) |>
-  nrcadams::search_long_docket(number_of_intervals = 10) |>
+  nrcadams::search_long_docket(number_of_intervals = 15) |>
   dplyr::left_join(nrcadams::docket_codex) |>
   dplyr::filter(NLWR) |>
   dplyr::select(-c(URL, Company, DocketNumber, NLWR)) |>
@@ -76,6 +75,7 @@ combined_NLWR_dockets |>
   ) |>
   ggplot() +
     geom_bar(aes(y = Project, fill = Type)) +
+    scale_fill_brewer(palette="Set1") +
     theme_bw() +
     labs(
       title = "Non-Light Water Reactor ADAMS Documents",
@@ -89,13 +89,15 @@ as a function of document date.
 The plot below shows the number of documents submitted to a docket. This 
 plot starts in 2018 because the Shine docket singularly dominates the plot in 
 the pre-2018 time frame. 
+Plot order is sorted from highest number of documents, `r docket_count |> dplyr::filter(n == max(n)) |> dplyr::pull(Project)` 
+to lowest number of documents, `r docket_count |> dplyr::filter(n == min(n)) |> dplyr::pull(Project)`.
 
 
 ```{r}
 library(ggplot2)
 grouped_NLWR_dockets = combined_NLWR_dockets |>
   dplyr::group_by(Project) |>
-  dplyr::arrange(`Document Date`) |>
+  dplyr::arrange(`Publish Date`) |>
   dplyr::mutate(
     Project = factor(Project, levels = docket_count |> dplyr::pull(Project)),
     count = 1,
@@ -103,13 +105,23 @@ grouped_NLWR_dockets = combined_NLWR_dockets |>
     ) |>
   dplyr::filter(`Document Date` > lubridate::ymd("2018-01-01"))
 
-grouped_NLWR_dockets |>
+plt = grouped_NLWR_dockets |>
   ggplot() +
-    geom_step(aes(x = `Document Date`, y = `Document Count`, color = Project)) +
+    geom_step(aes(x = `Publish Date`, y = `Document Count`, color = Project)) +
     theme_bw() +
     labs(
       title = "Non-Light Water Reactor ADAMS Documents",
       subtitle =  paste("as of", Sys.Date())
     )
+```
+
+The data in linear scale:
+```{r}
+plt
+```
+The data in a y axis semi log scale:
+```{r}
+plt +
+    scale_y_log10()
 
 ```

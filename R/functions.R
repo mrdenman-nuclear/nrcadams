@@ -78,7 +78,6 @@ search_docket <- function(
 #' c("ML22179A346", "ML19211C119") |> nrcadams::search_ml()
 search_ml <- function(ML_number) {
   if(all(ML_number |> stringr::str_starts("ML"))) {
-    print(start_date, end_date)
     adams_ML = paste0(
       "properties_search_any:!(",
       paste0(
