@@ -189,11 +189,6 @@ make_results_tibble = function(adams_url) {
 #' @return tibble of search results
 #' @export
 #'
-#' @examples
-#'   nrcadams::docket_codex |>
-#'     dplyr::filter(NLWR) |>
-#'     dplyr::pull(DocketNumber) |>
-#'     nrcadams::search_long_docket(number_of_intervals = 10)
 search_long_docket = function(
   DocketNumber,
   search_term = NA,
@@ -203,9 +198,16 @@ search_long_docket = function(
 
   search_duration = lubridate::interval(start_date |> lubridate::ymd(), Sys.Date() |> lubridate::ymd()) |>
     lubridate::as.duration() / number_of_intervals
-
+  message(
+    paste(
+      "With", number_of_intervals,
+      "starting on",start_date,
+      "the duration of each search will be", search_duration
+      )
+    )
   start_date = start_date |> lubridate::ymd() + rep(0:(number_of_intervals-1)) * search_duration
   end_date = dplyr::lead(start_date)
+
   purrr::map2(start_date, end_date, ~nrcadams::search_docket(
     DocketNumber = DocketNumber,
     search_term = NA,
