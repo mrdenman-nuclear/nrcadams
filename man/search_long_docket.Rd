@@ -40,9 +40,3 @@ num_interval. For example, if today is 2020/1/1 and the starting date is
 searches, one from 2010 to 2015 and the other from 2015 to 2020. These
 search results are then combined and output to the user.
 }
-\examples{
-  nrcadams::docket_codex |>
-    dplyr::filter(NLWR) |>
-    dplyr::pull(DocketNumber) |>
-    nrcadams::search_long_docket(number_of_intervals = 10)
-}
