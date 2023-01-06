@@ -20,61 +20,42 @@ search_docket <- function(
 ) {
   if(all(DocketNumber |> is.double() ||  DocketNumber |> is.character())) {
 
-    adams_docket = paste0(
-      "properties_search_any:!(",
-      paste0(
-        "!(DocketNumber,eq,'", DocketNumber |> stringr::str_pad(8, pad = "0"), "','')"
-        ) |> stringr::str_c(collapse = ","),
-      ")"
-    )
-    if (is.null(days_back)) {
-      adams_publish_date = ""
-    } else {
-      end_date = Sys.Date() |> lubridate::ymd()
-      start_date = end_date - days_back
-
-      # Advanced search and content search format the ADAMs publication date query differently.
-      # days_back is only supported for content searches.
-      mdy_fmt = paste0(
-        paste(
-          start_date |> lubridate::month(),
-          start_date |> lubridate::day(),
-          start_date |> lubridate::year(),
-          sep = '/'
-        ),
-        '+12:00+AM'
+    tryCatch( {
+      url = paste0(
+        nrcadams:::adams_search_head,
+        nrcadams:::adams_docket_numbers(DocketNumber),
+        nrcadams:::adams_days_back(days_back),
+        nrcadams:::adams_search_term(search_term),
+        nrcadams:::adams_search_tail(!is.null(days_back))
       )
 
-      adams_publish_date = paste0(
-        ",properties_search:!(!(PublishDatePARS,gt,'",
-        mdy_fmt,
-        "',''))")
-    }
+      paste("Searching with the following URL:\n", url) |>
+        message()
 
-    if (is.null(search_term)) {
-      adams_search_term = ''
-    } else {
-      adams_search_term = paste0(
-        ",single_content_search:'",
-        search_term |>
-          stringr::str_replace_all(" ", "+"),
-        "'"
+      results = nrcadams:::make_results_tibble(url)
+    },
+    error = function(e) {
+      if(days_back |> is.null()) {
+        days_back = 5 * 365
+      } else {
+        days_back =  days_back / 2
+      }
+
+      url = paste0(
+        nrcadams:::adams_search_head,
+        nrcadams:::adams_docket_numbers(DocketNumber),
+        nrcadams:::adams_days_back(days_back),
+        nrcadams:::adams_search_term(search_term),
+        nrcadams:::adams_search_tail(!is.null(days_back))
       )
 
-    }
+      paste("Searching with the following URL:\n", url) |>
+        message()
 
-    url = paste0(
-      nrcadams:::adams_search_head,
-      adams_docket,
-      adams_publish_date,
-      adams_search_term,
-      nrcadams:::adams_search_tail(!is.null(days_back))
-    )
+      results = nrcadams:::make_results_tibble(url)
+    })
 
-    paste("Searching with the following URL:\n", url) |>
-      message()
 
-    results = nrcadams:::make_results_tibble(url)
     if(results |> nrow() == 0) {
       stop("\nEither the search return no results or the search exceeded 1000 results, resulting in an ADAMS side error.\n")
     }
@@ -152,7 +133,7 @@ extract_from_xml = function(xml_results, search_term) {
 #' @return vector of search term results
 #' @keywords Internal
 make_results_tibble = function(adams_url) {
-  results = xml2::read_xml(adams_url, config = httr::config(timeout = 99999999))
+  results = xml2::read_xml(adams_url)
 
   adams_tbl = tibble::tibble(
     Title = results |>
@@ -214,3 +195,77 @@ adams_search_tail = function(content_lgl = TRUE) {
   }
 }
 
+
+#' Adams Docket URL section for any ADAMS search
+#'
+#' @param docket_numbers dbl/vector: Docket number (or numbers) to be searched on ADAMS
+#'
+#' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
+#' @return script for a ADAMS search URL
+#' @keywords Internal
+adams_docket_numbers = function(docket_numbers = NULL) {
+  if(!is.null(docket_numbers)) {
+    paste0(
+      "properties_search_any:!(",
+      paste0(
+        "!(DocketNumber,eq,'", docket_numbers |> stringr::str_pad(8, pad = "0"), "','')"
+      ) |> stringr::str_c(collapse = ","),
+      ")"
+    )
+  } else {
+    ""
+  }
+}
+
+#' Adams days back URL section for any ADAMS search
+#'
+#' @param days_back dbl: Length of time the search extends in days since the document was published on ADAMS? Default is all time (i.e, NULL)
+#'
+#' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
+#' @return script for a ADAMS search URL
+#' @keywords Internal
+adams_days_back = function(days_back = NULL) {
+  if (is.null(days_back)) {
+    ""
+  } else {
+    end_date = Sys.Date() |> lubridate::ymd()
+    start_date = end_date - days_back
+
+    # Advanced search and content search format the ADAMs publication date query differently.
+    # days_back is only supported for content searches.
+    mdy_fmt = paste0(
+      paste(
+        start_date |> lubridate::month(),
+        start_date |> lubridate::day(),
+        start_date |> lubridate::year(),
+        sep = '/'
+      ),
+      '+12:00+AM'
+    )
+
+    paste0(
+      ",properties_search:!(!(PublishDatePARS,gt,'",
+      mdy_fmt,
+      "',''))")
+  }
+}
+
+#' ADAMS search term URL section for any ADAMS search
+#'
+#' @param search_term chr: Any search term desired. Default is nothing (i.e., NULL)
+#'
+#' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
+#' @return script for a ADAMS search URL
+#' @keywords Internal
+adams_search_term = function(search_term) {
+  if (is.null(search_term)) {
+    adams_search_term = ''
+  } else {
+    adams_search_term = paste0(
+      ",single_content_search:'",
+      search_term |>
+        stringr::str_replace_all(" ", "+"),
+      "'"
+    )
+  }
+}
