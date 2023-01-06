@@ -22,6 +22,10 @@ search_docket <- function(
   start_date = NA,
   end_date = NA
 ) {
+  DocketNumber
+  start_date
+  end_date
+
   if(all(DocketNumber |> is.double() ||  DocketNumber |> is.character())) {
 
     if(!is.na(days_back)) {
@@ -51,7 +55,7 @@ search_docket <- function(
       )
 
     if(results |> nrow() == 0) {
-      stop("\nEither the search return no results or the search exceeded 1000 results, resulting in an ADAMS side error.\n")
+      warning("\nThe search return no results.\n")
     }
     if(results |> nrow() >= 1000) {
       warning("\nThis search returned more than 1000 results and thus may be incomplete. As a result, the search should be refined.\n")
@@ -97,7 +101,7 @@ search_ml <- function(ML_number) {
 
     results = nrcadams:::make_results_tibble(url)
     if(results |> nrow() == 0) {
-      stop("\nEither the search return no results or the search exceeded 1000 results, resulting in an ADAMS side error.\n")
+      warning("The search return no results.\n")
     }
     return(results)
 
@@ -130,6 +134,8 @@ extract_from_xml = function(xml_results, search_term) {
 #' @keywords Internal
 make_results_tibble = function(adams_url) {
   results = xml2::read_xml(adams_url)
+
+  if(results |> nrcadams:::extract_from_xml("count") |> as.integer() == 0) return(tibble::tibble())
 
   adams_tbl = tibble::tibble(
     Title = results |>
@@ -209,11 +215,13 @@ search_long_docket = function(
   end_date = dplyr::lead(start_date)
 
   purrr::map2(start_date, end_date, ~nrcadams::search_docket(
-    DocketNumber = DocketNumber,
-    search_term = NA,
-    start_date = .x,
-    end_date = .y
+      DocketNumber = DocketNumber,
+      search_term = NA,
+      start_date = .x,
+      end_date = .y
     )) |>
+    # Need to remove empty search results
+    purrr::discard(\(z) nrow(z) == 0) |>
     purrr::reduce(dplyr::full_join) |>
     dplyr::distinct()
 }
