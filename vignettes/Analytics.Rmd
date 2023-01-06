@@ -32,7 +32,7 @@ resulting tibbles are combined.
 combined_NLWR_dockets =  nrcadams::docket_codex |>
   dplyr::filter(NLWR) |>
   dplyr::pull(DocketNumber) |>
-  nrcadams::search_long_docket(number_of_intervals = 15) |>
+  nrcadams::search_long_docket(number_of_intervals = 20) |>
   dplyr::left_join(nrcadams::docket_codex) |>
   dplyr::filter(NLWR) |>
   dplyr::select(-c(URL, Company, DocketNumber, NLWR)) |>
@@ -123,5 +123,4 @@ The data in a y axis semi log scale:
 ```{r}
 plt +
     scale_y_log10()
-
 ```
