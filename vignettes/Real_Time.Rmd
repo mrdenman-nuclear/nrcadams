@@ -12,6 +12,8 @@ knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>"
 )
+closeAllConnections()
+options(timeout=30)
 ```
 
 The following page is updated once a day and presents the last week of posted ADAMS documents. The last update was at `r Sys.time()`.
