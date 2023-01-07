@@ -12,7 +12,8 @@ search_docket(
   search_term = NA,
   days_back = NA,
   start_date = NA,
-  end_date = NA
+  end_date = NA,
+  document_type = NA
 )
 }
 \arguments{
@@ -25,6 +26,8 @@ search_docket(
 \item{start_date}{chr: The earliest date (ymd) search results should be returned. Cannot be used with days_back.}
 
 \item{end_date}{chr: The latest date (ymd) search results should be returned. Cannot be used with days_back.}
+
+\item{document_type}{chr: Type of ADAMS document}
 }
 \value{
 tibble of search results

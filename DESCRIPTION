@@ -1,6 +1,6 @@
 Package: nrcadams
 Title: Pulls Data from NRC's ADAMS database
-Version: 0.1.1.0000
+Version: 0.1.2.0000
 Authors@R: 
     person("Matthew", "Denman", , "mrdenman@gmail.com", role = c("aut", "cre"))
 Description: This package searches the NRC ADAMS database so that you dont have to use the web GUI. 

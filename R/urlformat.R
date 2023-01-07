@@ -31,7 +31,7 @@ adams_search_tail = function(content_lgl = TRUE) {
 #' @param docket_numbers dbl/vector: Docket number (or numbers) to be searched on ADAMS
 #'
 #' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
-#' @return script for a ADAMS search URL
+#' @return url segment for docket searches
 #' @keywords Internal
 adams_docket_numbers = function(docket_numbers = NA) {
   if(!all(is.na(docket_numbers))) {
@@ -53,7 +53,7 @@ adams_docket_numbers = function(docket_numbers = NA) {
 #' @param search_term chr: Any search term desired. Default is nothing (i.e., NA)
 #'
 #' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
-#' @return script for a ADAMS search URL
+#' @return url segment for content searches
 #' @keywords Internal
 adams_search_term = function(search_term) {
   if (is.na(search_term)) {
@@ -70,7 +70,7 @@ adams_search_term = function(search_term) {
 
 #' ADAMS search posted date interval URL section for any ADAMS search
 #'
-#' @param start_date chr: The earliest date (ymd) search results should be returned.
+#' @param start_date chr: The earliest date (ymd) search results should be returned
 #' @param end_date chr: The latest date (ymd) search results should be returned
 #'
 #' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
@@ -80,11 +80,7 @@ adams_interval = function(start_date = NA, end_date = NA) {
   if (is.na(start_date) && is.na(end_date)) {
     interval = ''
   } else {
-    # Advanced search and content search format the ADAMs publication date query differently.
-    # days_back is only supported for content searches.
-
     paste0(
-      ",properties_search_all:!(",
       nrcadams:::adams_start_or_end(start_date, FALSE),
       if(is.na(end_date)) {
         ""
@@ -92,10 +88,8 @@ adams_interval = function(start_date = NA, end_date = NA) {
         paste0(
           ",", nrcadams:::adams_start_or_end(end_date)
         )
-      },
-      ")"
+      }
     )
-
   }
 }
 
@@ -106,7 +100,7 @@ adams_interval = function(start_date = NA, end_date = NA) {
 #' FALSE formats a search after this date.
 #'
 #' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
-#' @return date for ADAMS search
+#' @return url segment for publish date searches
 #' @keywords Internal
 adams_start_or_end = function(date = Sys.Date(), end_lgl = TRUE) {
   # If date is NA, return nothing
@@ -141,3 +135,52 @@ lubridate_date = function(date = Sys.Date()) {
     )
   )
 }
+
+#' ADAMS search type URL section for any ADAMS search
+#'
+#' @param type_chr chr: Type of ADAMS document
+#'
+#' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
+#' @return url segment for type searches
+#' @keywords Internal
+adams_type = function(type_chr = NA) {
+  if (is.na(type_chr)) {
+    type = ''
+  } else {
+    paste0(
+      "!(DocumentType,contains,'",
+      type_chr |> stringr::str_replace(" " ,"+"),
+      "','')"
+    )
+  }
+}
+
+#' ADAMS all criteria searches URL section for any ADAMS search
+#'
+#' @param type_chr chr: Type of ADAMS document
+#' @param start_date chr: The earliest date (ymd) search results should be returned
+#' @param end_date chr: The latest date (ymd) search results should be returned
+#'
+#' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
+#' @return url segment for all criteria searches
+#' @keywords Internal
+adams_all = function(
+  type_chr = NA,
+  start_date = NA,
+  end_date = NA
+  ) {
+  if (is.na(start_date) && is.na(end_date) && is.na(type_chr)) {
+    ''
+  } else {
+    paste0(
+      ",properties_search_all:!(",
+      nrcadams:::adams_type(type_chr),
+      if(!is.na(type_chr) && (!is.na(start_date) || !is.na(end_date))) {
+        paste0(",", nrcadams:::adams_interval(start_date, end_date), ")")
+      } else {
+        paste0(nrcadams:::adams_interval(start_date, end_date), ")")
+      }
+    )
+  }
+}
+

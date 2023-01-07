@@ -1,8 +1,8 @@
 ---
-title: "Docket Analytics"
+title: "Docket Analytics and Reports"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{Docket Analytics}
+  %\VignetteIndexEntry{Docket Analytics and Reports}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
@@ -14,14 +14,15 @@ knitr::opts_chunk$set(
   warning = FALSE,
   comment = "#>"
 )
+options(timeout=30)
 ```
 
 
 This page provides preliminary data analytics on various NLWR dockets. 
-Note that ADAMS limits search results to a maximum of 1,000 results and some 
-documents are assigned multiple docket numbers.
+Note that ADAMS assigned multiple docket numbers to some reports.
 The results presented here should be interpreted with these limitations.
 
+# Pulling Advanced Reactor Docket Files
 
 Because the entire docket is being pulled for each project, the 1,000 document
 per search limit would be exceeded if all the dockets were pulled in one request. 
@@ -29,16 +30,16 @@ To reduce the impact of this limit, the `nrcadams::search_long_docket` is used
 to break the one long search into many smaller searches.
 
 ```{r}
-combined_NLWR_dockets = nrcadams::docket_codex |>
-  dplyr::filter(NLWR) |>
+combined_dockets = nrcadams::docket_codex |>
   dplyr::pull(DocketNumber) |>
   nrcadams::search_long_docket(number_of_intervals = 30) |>
+  dplyr::mutate(Title = paste0("<a href='", URL, "'>", Title, '</a>')) |>
   dplyr::left_join(nrcadams::docket_codex) |>
-  dplyr::filter(NLWR) |>
-  dplyr::select(-c(URL, Company, DocketNumber, NLWR)) |>
-  dplyr::distinct()
+  dplyr::select(-c(URL, Company, DocketNumber)) 
 
-docket_count = combined_NLWR_dockets |>
+docket_count = combined_dockets |>
+  dplyr::filter(NLWR) |>
+  dplyr::select(-NLWR) |>
   dplyr::count(Project, sort = TRUE)
 
 docket_count |>
@@ -47,7 +48,7 @@ docket_count |>
 
 There are too many document types coded by ADAMS to effectively show on a plot 
 (i.e., > 180).
-As a result, the Type feild is binned to facilitate a bar plot of various 
+As a result, the Type field is binned to facilitate a bar plot of various 
 reactor applications. 
 The Shine application bar plot is topped out at the ADAMS maximum of 1,000 
 documents.
@@ -55,7 +56,8 @@ The last update to this plot was at `r Sys.time()`.
 
 ```{r}
 library(ggplot2)
-combined_NLWR_dockets |>
+combined_dockets |>
+  dplyr::filter(NLWR) |>
   dplyr::mutate(
     Project = factor(Project, levels = docket_count |> dplyr::pull(Project)),
     Type = dplyr::case_when(
@@ -95,7 +97,8 @@ to lowest number of documents, `r docket_count |> dplyr::filter(n == min(n)) |> 
 
 ```{r}
 library(ggplot2)
-grouped_NLWR_dockets = combined_NLWR_dockets |>
+grouped_NLWR_dockets = combined_dockets |>
+  dplyr::filter(NLWR) |>
   dplyr::group_by(Project) |>
   dplyr::arrange(`Publish Date`) |>
   dplyr::mutate(
@@ -121,6 +124,140 @@ plt
 ```
 The data in a y axis semi log scale:
 ```{r}
-plt +
-    scale_y_log10()
+plt + scale_y_log10()
+```
+
+# Reports
+
+This section is updated once a day and presents the Topical Reports, Technical Reports, Environmental Reports, and Safety Evaluations available on new reactor dockets. The last update was at `r Sys.time()`. The following dockets are searched: 
+
+* `r nrcadams::docket_codex |> dplyr::pull(Project) |> paste(collapse = '\n * ')`
+
+## Topical Reports
+
+The following table summarizes tagged Topical Reports.
+
+
+```{r}
+Topicals = combined_dockets |>
+  dplyr::filter(
+    stringr::str_detect(Type, "Topical Report"),
+    !stringr::str_detect(Type, "Letter"),
+    !stringr::str_detect(Type, "E-Mail"),
+    !stringr::str_detect(Type, "Administrative"),
+    !stringr::str_detect(Type, "Briefing"),
+    !stringr::str_detect(Type, "RAI"),
+    !stringr::str_detect(Type, "Meeting"),
+    !stringr::str_detect(Type, "Evaluation"),
+    !stringr::str_detect(Title, "Questions"),
+    !stringr::str_detect(Title, "Form 896")
+    ) 
+
+Topicals |>
+  DT::datatable(
+    caption = "Topical Reports",
+    filter = list(position = 'top', clear = TRUE, plain = FALSE),
+    escape = FALSE
+    )
+```
+
+
+## Technical Paper
+
+The following table summarizes tagged Technical Reports.
+
+
+```{r}
+Technicals = combined_dockets |>
+  dplyr::filter(
+    stringr::str_detect(Type, "Technical Paper"),
+    !stringr::str_detect(Type, "Letter"),
+    !stringr::str_detect(Type, "E-Mail"),
+    !stringr::str_detect(Type, "Meeting"),
+    !stringr::str_detect(Title, "Cover Letter")
+    ) 
+
+Technicals |>
+  DT::datatable(
+    caption = "Technical Paper",
+    filter = list(position = 'top', clear = TRUE, plain = FALSE),
+    escape = FALSE
+    )
+```
+
+
+## Environmental Reports
+
+The following table summarizes tagged Environmental Reports.
+
+```{r}
+Environmental = combined_dockets |>
+  dplyr::filter(
+    stringr::str_detect(Type, "Environmental"),
+    !stringr::str_detect(Type, "Letter"),
+    !stringr::str_detect(Type, "E-Mail"),
+    !stringr::str_detect(Type, "Meeting"),
+    !stringr::str_detect(Title, "Cover Letter"),
+    !stringr::str_detect(Title, "Question"),
+    !stringr::str_detect(Title, "Request"),
+    !stringr::str_detect(Title, "Response")
+    ) 
+
+Environmental |>
+  DT::datatable(
+    caption = "Environmental Reports",
+    filter = list(position = 'top', clear = TRUE, plain = FALSE),
+    escape = FALSE
+    )
+```
+
+
+## Safety Analysis Reports
+
+The following table summarizes tagged Safety Analysis Reports.
+
+```{r}
+Safety_Analysis = combined_dockets |>
+  dplyr::filter(
+    stringr::str_detect(Type, "Safety Analysis"),
+    !stringr::str_detect(Type, "Letter"),
+    !stringr::str_detect(Type, "E-Mail"),
+    !stringr::str_detect(Type, "Meeting"),
+    !stringr::str_detect(Title, "Cover Letter"),
+    !stringr::str_detect(Title, "Question"),
+    !stringr::str_detect(Title, "Request"),
+    !stringr::str_detect(Title, "Response")
+    ) 
+
+Safety_Analysis |>
+  DT::datatable(
+    caption = "Safety Analysis Documents",
+    filter = list(position = 'top', clear = TRUE, plain = FALSE),
+    escape = FALSE
+    )
+```
+
+## Safety Evaluations Reports
+
+The following table summarizes tagged Safety Evaluations Reports.
+
+```{r}
+Safety_Evaluation = combined_dockets |>
+  dplyr::filter(
+    stringr::str_detect(Type, "Safety Evaluation"),
+    !stringr::str_detect(Type, "Letter"),
+    !stringr::str_detect(Type, "E-Mail"),
+    !stringr::str_detect(Type, "Meeting"),
+    !stringr::str_detect(Title, "Cover Letter"),
+    !stringr::str_detect(Title, "Question"),
+    !stringr::str_detect(Title, "Request"),
+    !stringr::str_detect(Title, "Response")
+    ) 
+
+Safety_Evaluation |>
+  DT::datatable(
+    caption = "Safety Evaluation Documents",
+    filter = list(position = 'top', clear = TRUE, plain = FALSE),
+    escape = FALSE
+    )
 ```

@@ -13,7 +13,7 @@ adams_docket_numbers(docket_numbers = NA)
 \item{docket_numbers}{dbl/vector: Docket number (or numbers) to be searched on ADAMS}
 }
 \value{
-script for a ADAMS search URL
+url segment for docket searches
 }
 \description{
 Adams Docket URL section for any ADAMS search

@@ -16,7 +16,7 @@ FALSE formats a search after this date.}
 \item{date_chr}{chr: The date (ymd)}
 }
 \value{
-date for ADAMS search
+url segment for publish date searches
 }
 \description{
 ADAMS search posted date interval URL section for any ADAMS search

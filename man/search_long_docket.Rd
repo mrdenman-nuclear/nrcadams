@@ -11,7 +11,8 @@ search_long_docket(
   DocketNumber,
   search_term = NA,
   number_of_intervals = 5,
-  start_date = "2013-1-1"
+  start_date = "2013-1-1",
+  document_type = NA
 )
 }
 \arguments{
@@ -22,6 +23,8 @@ search_long_docket(
 \item{number_of_intervals}{dbl: The maximum number of searches to be conducted}
 
 \item{start_date}{chr: The earliest date (ymd) search results should be returned.}
+
+\item{document_type}{chr: Type of ADAMS document}
 }
 \value{
 tibble of search results

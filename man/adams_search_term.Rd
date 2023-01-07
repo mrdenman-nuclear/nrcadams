@@ -13,7 +13,7 @@ adams_search_term(search_term)
 \item{search_term}{chr: Any search term desired. Default is nothing (i.e., NA)}
 }
 \value{
-script for a ADAMS search URL
+url segment for content searches
 }
 \description{
 ADAMS search term URL section for any ADAMS search

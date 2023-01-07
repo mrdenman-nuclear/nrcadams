@@ -5,6 +5,7 @@
 #' @param days_back dbl: Length of time the search extends in days since the document was published on ADAMS? Default is all time (i.e, NA). Cannot be used with start_date or end_date.
 #' @param start_date chr: The earliest date (ymd) search results should be returned. Cannot be used with days_back.
 #' @param end_date chr: The latest date (ymd) search results should be returned. Cannot be used with days_back.
+#' @param document_type chr: Type of ADAMS document
 #'
 #' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
 #' @return tibble of search results
@@ -20,12 +21,9 @@ search_docket <- function(
   search_term = NA,
   days_back = NA,
   start_date = NA,
-  end_date = NA
-) {
-  DocketNumber
-  start_date
-  end_date
-
+  end_date = NA,
+  document_type = NA
+  ) {
   if(all(DocketNumber |> is.double() ||  DocketNumber |> is.character())) {
 
     if(!is.na(days_back)) {
@@ -38,7 +36,7 @@ search_docket <- function(
     url = paste0(
       nrcadams:::adams_search_head,
       nrcadams:::adams_docket_numbers(DocketNumber),
-      nrcadams:::adams_interval(start_date, end_date),
+      nrcadams:::adams_all(document_type, start_date, end_date),
       nrcadams:::adams_search_term(search_term),
       nrcadams:::adams_search_tail(!is.na(search_term))
     )
@@ -190,6 +188,7 @@ make_results_tibble = function(adams_url) {
 #' @param search_term chr: Any search term desired. Default is nothing (i.e., NA)
 #' @param number_of_intervals dbl: The maximum number of searches to be conducted
 #' @param start_date chr: The earliest date (ymd) search results should be returned.
+#' @param document_type chr: Type of ADAMS document
 #'
 #' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
 #' @return tibble of search results
@@ -199,7 +198,8 @@ search_long_docket = function(
   DocketNumber,
   search_term = NA,
   number_of_intervals = 5,
-  start_date = "2013-1-1"
+  start_date = "2013-1-1",
+  document_type = NA
   ) {
 
   search_duration = lubridate::interval(start_date |> lubridate::ymd(), Sys.Date() |> lubridate::ymd()) |>
@@ -218,7 +218,8 @@ search_long_docket = function(
       DocketNumber = DocketNumber,
       search_term = NA,
       start_date = .x,
-      end_date = .y
+      end_date = .y,
+      document_type = document_type
     )) |>
     # Need to remove empty search results
     purrr::discard(\(z) nrow(z) == 0) |>
