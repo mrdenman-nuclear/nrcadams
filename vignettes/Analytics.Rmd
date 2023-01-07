@@ -229,7 +229,7 @@ Safety_Analysis = combined_dockets |>
     ) 
 
 Safety_Analysis |>
-  DT::datatable(,
+  DT::datatable(
     caption = "Safety Analysis Documents",
     filter = list(position = 'top', clear = TRUE, plain = FALSE),
     escape = FALSE
