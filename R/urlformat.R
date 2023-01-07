@@ -70,7 +70,7 @@ adams_search_term = function(search_term) {
 
 #' ADAMS search posted date interval URL section for any ADAMS search
 #'
-#' @param start_date chr: The earliest date (ymd) search results should be returned.
+#' @param start_date chr: The earliest date (ymd) search results should be returned
 #' @param end_date chr: The latest date (ymd) search results should be returned
 #'
 #' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
@@ -158,6 +158,8 @@ adams_type = function(type_chr = NA) {
 #' ADAMS all criteria searches URL section for any ADAMS search
 #'
 #' @param type_chr chr: Type of ADAMS document
+#' @param start_date chr: The earliest date (ymd) search results should be returned
+#' @param end_date chr: The latest date (ymd) search results should be returned
 #'
 #' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
 #' @return url segment for all criteria searches

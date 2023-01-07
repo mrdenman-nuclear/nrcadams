@@ -10,7 +10,7 @@
 adams_interval(start_date = NA, end_date = NA)
 }
 \arguments{
-\item{start_date}{chr: The earliest date (ymd) search results should be returned.}
+\item{start_date}{chr: The earliest date (ymd) search results should be returned}
 
 \item{end_date}{chr: The latest date (ymd) search results should be returned}
 }

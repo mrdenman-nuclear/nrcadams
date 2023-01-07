@@ -47,7 +47,7 @@ docket_count |>
 
 There are too many document types coded by ADAMS to effectively show on a plot 
 (i.e., > 180).
-As a result, the Type feild is binned to facilitate a bar plot of various 
+As a result, the Type field is binned to facilitate a bar plot of various 
 reactor applications. 
 The Shine application bar plot is topped out at the ADAMS maximum of 1,000 
 documents.
@@ -196,7 +196,10 @@ Environmental = combined_dockets |>
     !stringr::str_detect(Type, "Letter"),
     !stringr::str_detect(Type, "E-Mail"),
     !stringr::str_detect(Type, "Meeting"),
-    !stringr::str_detect(Title, "Cover Letter")
+    !stringr::str_detect(Title, "Cover Letter"),
+    !stringr::str_detect(Title, "Question"),
+    !stringr::str_detect(Title, "Request"),
+    !stringr::str_detect(Title, "Response")
     ) 
 
 Environmental |>
@@ -219,11 +222,14 @@ Safety_Analysis = combined_dockets |>
     !stringr::str_detect(Type, "Letter"),
     !stringr::str_detect(Type, "E-Mail"),
     !stringr::str_detect(Type, "Meeting"),
-    !stringr::str_detect(Title, "Cover Letter")
+    !stringr::str_detect(Title, "Cover Letter"),
+    !stringr::str_detect(Title, "Question"),
+    !stringr::str_detect(Title, "Request"),
+    !stringr::str_detect(Title, "Response")
     ) 
 
 Safety_Analysis |>
-  DT::datatable(
+  DT::datatable(,
     caption = "Safety Analysis Documents",
     filter = list(position = 'top', clear = TRUE, plain = FALSE),
     escape = FALSE
@@ -235,18 +241,21 @@ Safety_Analysis |>
 The following table summarizes tagged Safety Evaluations Reports.
 
 ```{r}
-Safety_Analysis = combined_dockets |>
+Safety_Evaluation = combined_dockets |>
   dplyr::filter(
-    stringr::str_detect(Type, "Safety Evaluations"),
+    stringr::str_detect(Type, "Safety Evaluation"),
     !stringr::str_detect(Type, "Letter"),
     !stringr::str_detect(Type, "E-Mail"),
     !stringr::str_detect(Type, "Meeting"),
-    !stringr::str_detect(Title, "Cover Letter")
+    !stringr::str_detect(Title, "Cover Letter"),
+    !stringr::str_detect(Title, "Question"),
+    !stringr::str_detect(Title, "Request"),
+    !stringr::str_detect(Title, "Response")
     ) 
 
-Safety_Analysis |>
+Safety_Evaluation |>
   DT::datatable(
-    caption = "Safety Evaluations Documents",
+    caption = "Safety Evaluation Documents",
     filter = list(position = 'top', clear = TRUE, plain = FALSE),
     escape = FALSE
     )

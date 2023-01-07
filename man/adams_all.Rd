@@ -11,6 +11,10 @@ adams_all(type_chr = NA, start_date = NA, end_date = NA)
 }
 \arguments{
 \item{type_chr}{chr: Type of ADAMS document}
+
+\item{start_date}{chr: The earliest date (ymd) search results should be returned}
+
+\item{end_date}{chr: The latest date (ymd) search results should be returned}
 }
 \value{
 url segment for all criteria searches

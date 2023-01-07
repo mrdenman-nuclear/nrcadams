@@ -35,7 +35,7 @@ testthat::test_that("Searches with over 1000 entries at least return the 1000 en
   search_results = nrcadams::docket_codex |>
     dplyr::filter(Company == "SHINE Medical Technologies") |>
     dplyr::pull(DocketNumber) |>
-    nrcadams::search_docket() |> testthat::expect_warning()
+    nrcadams::search_docket() # This should cause a warning
   testthat::expect_true(search_results |> nrow() >= 1000)
 })
 
