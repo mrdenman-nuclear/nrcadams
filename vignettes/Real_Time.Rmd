@@ -70,6 +70,7 @@ last_week_in_dockets |>
       Type |> stringr::str_detect("E-Mail") ~ "Letter",
       Type |> stringr::str_detect("Report") ~ "Report",
       Type |> stringr::str_detect("Slides") ~ "Slides",
+      Type |> stringr::str_detect("Public") ~ "Public",
       TRUE ~ "Other"
     )
   ) |>
