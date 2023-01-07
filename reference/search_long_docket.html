@@ -16,7 +16,7 @@ on some systems."><!-- mathjax --><script src="https://cdnjs.cloudflare.com/ajax
     
     <a class="navbar-brand me-2" href="../index.html">nrcadams</a>
 
-    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">0.1.1.0000</small>
+    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">0.1.2.0000</small>
 
     
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -30,7 +30,7 @@ on some systems."><!-- mathjax --><script src="https://cdnjs.cloudflare.com/ajax
 <li class="nav-item dropdown">
   <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-expanded="false" aria-haspopup="true" id="dropdown-articles">Articles</a>
   <div class="dropdown-menu" aria-labelledby="dropdown-articles">
-    <a class="dropdown-item" href="../articles/Analytics.html">Docket Analytics</a>
+    <a class="dropdown-item" href="../articles/Analytics.html">Docket Analytics and Reports</a>
     <a class="dropdown-item" href="../articles/Real_Time.html">Last Week in Dockets</a>
     <a class="dropdown-item" href="../articles/docket_search.html">Docket Search</a>
   </div>
@@ -63,7 +63,8 @@ on some systems.</p>
 <span>  <span class="va">DocketNumber</span>,</span>
 <span>  search_term <span class="op">=</span> <span class="cn">NA</span>,</span>
 <span>  number_of_intervals <span class="op">=</span> <span class="fl">5</span>,</span>
-<span>  start_date <span class="op">=</span> <span class="st">"2013-1-1"</span></span>
+<span>  start_date <span class="op">=</span> <span class="st">"2013-1-1"</span>,</span>
+<span>  document_type <span class="op">=</span> <span class="cn">NA</span></span>
 <span><span class="op">)</span></span></code></pre></div>
     </div>
 
@@ -87,6 +88,10 @@ on some systems.</p>
 
 <dt>start_date</dt>
 <dd><p>chr: The earliest date (ymd) search results should be returned.</p></dd>
+
+
+<dt>document_type</dt>
+<dd><p>chr: Type of ADAMS document</p></dd>
 
 </dl></div>
     <div class="section level2">
