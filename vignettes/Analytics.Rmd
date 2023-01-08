@@ -53,6 +53,10 @@ docket_count |>
   DT::datatable()
 ```
 
+# Docket Plots
+
+## Bar Plots
+
 There are too many document types coded by ADAMS to effectively show on a plot 
 (i.e., > 180).
 As a result, the Type field is binned to facilitate a bar plot of various 
@@ -107,6 +111,8 @@ plt = docket_types |>
 
 plt |> ggplotly(tooltip = c("Type", "count"))
 ```
+
+## Time Series
 
 The cumulative number of documents on a given ADAMS docket is also presented
 as a function of document date. 
