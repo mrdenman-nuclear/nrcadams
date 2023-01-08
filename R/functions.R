@@ -9,10 +9,12 @@
 #' @export
 #'
 #' @examples
+#' \dontrun{
 #'   nrcadams::docket_codex |>
 #'     dplyr::filter(Company == "ACU") |>
 #'     dplyr::pull(DocketNumber) |>
 #'     nrcadams::search_docket()
+#'     }
 search_docket <- function(
   DocketNumber,
   search_term = NULL,
@@ -97,7 +99,9 @@ search_docket <- function(
 #' @export
 #'
 #' @examples
+#' \dontrun{
 #' c("ML22179A346", "ML19211C119") |> nrcadams::search_ml()
+#' }
 search_ml <- function(ML_number) {
   if(all(ML_number |> stringr::str_starts("ML"))) {
 
