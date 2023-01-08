@@ -12,6 +12,7 @@ knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>"
 )
+options(timeout=30)
 ```
 
 # What are Docket Numbers?

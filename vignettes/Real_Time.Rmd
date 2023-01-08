@@ -12,9 +12,78 @@ knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>"
 )
+options(timeout=30)
 ```
 
 The following page is updated once a day and presents the last week of posted ADAMS documents. The last update was at `r Sys.time()`.
+
+```{r}
+last_week_in_dockets = nrcadams::docket_codex |>
+  dplyr::pull(DocketNumber) |>
+  nrcadams::search_docket(days_back = 7) |>
+  dplyr::left_join(nrcadams::docket_codex) |>
+  dplyr::filter(!is.na(Project))
+
+build_html_table = function(docket_tbl, LWR) {
+  if (LWR) {
+    docket_tbl = docket_tbl |> 
+      dplyr::filter(!NLWR)
+    title = "The Last 7 Days of Posted LWR Licensing Documents."
+  } else {
+    docket_tbl = docket_tbl |> 
+      dplyr::filter(NLWR)
+    title = "The Last 7 Days of Posted NLWR Licensing Documents."
+  }
+    
+  docket_tbl |> 
+    dplyr::mutate(Title = paste0("<a href='", URL, "'>", Title, '</a>')) |>
+    dplyr::select(-c(URL, Company, DocketNumber, NLWR)) |>
+    DT::datatable(
+      caption = title,
+      filter = list(position = 'top', clear = TRUE, plain = FALSE),
+      escape = FALSE
+      )
+}
+
+docket_count = last_week_in_dockets |>
+  dplyr::count(Project, sort = TRUE)
+
+docket_count |>
+  DT::datatable()
+
+```
+
+```{r}
+library(ggplot2)
+last_week_in_dockets |>
+  dplyr::mutate(
+    Project = factor(Project, levels = docket_count |> dplyr::pull(Project)),
+    Type = dplyr::case_when(
+      Type |> stringr::str_detect("RAI") ~ "RAI",
+      Type |> stringr::str_detect("SAR") ~ "Safety Analysis",
+      Type |> stringr::str_detect("Safety Analysis") ~ "Safety Analysis",
+      Type |> stringr::str_detect("SER") ~ "Safety Eval.",
+      Type |> stringr::str_detect("Safety Evaluation") ~ "Safety Eval.",
+      Type |> stringr::str_detect("Audit") ~ "Audit",
+      Type |> stringr::str_detect("Legal") ~ "Legal",
+      Type |> stringr::str_detect("Letter") ~ "Letter",
+      Type |> stringr::str_detect("E-Mail") ~ "Letter",
+      Type |> stringr::str_detect("Report") ~ "Report",
+      Type |> stringr::str_detect("Slides") ~ "Slides",
+      Type |> stringr::str_detect("Public") ~ "Public",
+      TRUE ~ "Other"
+    )
+  ) |>
+  ggplot() +
+    geom_bar(aes(y = Project, fill = Type)) +
+    scale_fill_brewer(palette="Set1") +
+    theme_bw() +
+    labs(
+      title = "New Advanced Reactor ADAMS Documents",
+      subtitle =  paste("the week before", Sys.Date())
+    ) +
+    xlab("Document Count")
+```
 
 # Non-Light Water Reactor Docket Search
 
@@ -24,18 +93,8 @@ The following table summarizes all ADAMS documents for the following dockets:
 
 
 ```{r}
-nrcadams::docket_codex |>
-  dplyr::pull(DocketNumber) |>
-  nrcadams::search_docket(days_back = 7) |>
-  dplyr::mutate(Title = paste0("<a href='", URL, "'>", Title, '</a>')) |>
-  dplyr::left_join(nrcadams::docket_codex) |>
-  dplyr::filter(NLWR) |>
-  dplyr::select(-c(URL, Company, DocketNumber, NLWR)) |>
-  DT::datatable(
-    caption = "The Last 7 Days of Posted NLWR Licensing Documents.",
-    filter = list(position = 'top', clear = TRUE, plain = FALSE),
-    escape = FALSE
-    )
+last_week_in_dockets |> 
+  build_html_table(LWR = FALSE)
 ```
 
 
@@ -48,16 +107,6 @@ The following table summarizes all ADAMS documents for the following dockets:
 
 
 ```{r}
-nrcadams::docket_codex |>
-  dplyr::pull(DocketNumber) |>
-  nrcadams::search_docket(days_back = 7) |>
-  dplyr::mutate(Title = paste0("<a href='", URL, "'>", Title, '</a>')) |>
-  dplyr::left_join(nrcadams::docket_codex) |>
-  dplyr::filter(!NLWR) |>
-  dplyr::select(-c(URL, Company, DocketNumber, NLWR)) |>
-  DT::datatable(
-    caption = "The Last 7 Days of Posted LWR Licensing Documents.",
-    filter = list(position = 'top', clear = TRUE, plain = FALSE),
-    escape = FALSE
-    )
+last_week_in_dockets |> 
+  build_html_table(LWR = TRUE)
 ```

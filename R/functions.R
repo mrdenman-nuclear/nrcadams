@@ -1,8 +1,11 @@
 #' Conduct ADAMS Search on Docket Numbers
 #'
 #' @param DocketNumber dbl/vector: Docket number (or numbers) to be searched on ADAMS
-#' @param days_back dbl: Length of time the search extends in days since the document was published on ADAMS? Default is all time (i.e, NULL)
-#' @param search_term chr: Any search term desired. Default is nothing (i.e., NULL)
+#' @param search_term chr: Any search term desired. Default is nothing (i.e., NA)
+#' @param days_back dbl: Length of time the search extends in days since the document was published on ADAMS? Default is all time (i.e, NA). Cannot be used with start_date or end_date.
+#' @param start_date chr: The earliest date (ymd) search results should be returned. Cannot be used with days_back.
+#' @param end_date chr: The latest date (ymd) search results should be returned. Cannot be used with days_back.
+#' @param document_type chr: Type of ADAMS document
 #'
 #' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
 #' @return tibble of search results
@@ -17,68 +20,45 @@
 #'     }
 search_docket <- function(
   DocketNumber,
-  search_term = NULL,
-  days_back = NULL
-) {
+  search_term = NA,
+  days_back = NA,
+  start_date = NA,
+  end_date = NA,
+  document_type = NA
+  ) {
   if(all(DocketNumber |> is.double() ||  DocketNumber |> is.character())) {
 
-    adams_docket = paste0(
-      "properties_search_any:!(",
-      paste0(
-        "!(DocketNumber,eq,'", DocketNumber |> stringr::str_pad(8, pad = "0"), "','')"
-        ) |> stringr::str_c(collapse = ","),
-      ")"
-    )
-    if (is.null(days_back)) {
-      adams_publish_date = ""
-    } else {
-      end_date = Sys.Date() |> lubridate::ymd()
-      start_date = end_date - days_back
-
-      # Advanced search and content search format the ADAMs publication date query differently.
-      # days_back is only supported for content searches.
-      mdy_fmt = paste0(
-        paste(
-          start_date |> lubridate::month(),
-          start_date |> lubridate::day(),
-          start_date |> lubridate::year(),
-          sep = '/'
-        ),
-        '+12:00+AM'
-      )
-
-      adams_publish_date = paste0(
-        ",properties_search:!(!(PublishDatePARS,gt,'",
-        mdy_fmt,
-        "',''))")
-    }
-
-    if (is.null(search_term)) {
-      adams_search_term = ''
-    } else {
-      adams_search_term = paste0(
-        ",single_content_search:'",
-        search_term |>
-          stringr::str_replace_all(" ", "+"),
-        "'"
-      )
-
+    if(!is.na(days_back)) {
+      if(!is.na(start_date)) warning("days_back and start_date are both defined. days_back is used.")
+      if(!is.na(end_date)) warning("days_back and end_date are both defined. days_back is used.")
+      start_date = Sys.Date() |> lubridate::ymd() - days_back
+      end_date = NA
     }
 
     url = paste0(
       nrcadams:::adams_search_head,
-      adams_docket,
-      adams_publish_date,
-      adams_search_term,
-      nrcadams:::adams_search_tail(!is.null(days_back))
+      nrcadams:::adams_docket_numbers(DocketNumber),
+      nrcadams:::adams_all(document_type, start_date, end_date),
+      nrcadams:::adams_search_term(search_term),
+      nrcadams:::adams_search_tail(!is.na(search_term))
     )
 
-    paste("Searching with the following URL:\n", url) |>
-      message()
-
+    paste("Searching with the following URL:\n", url,"\n") |>
+      tictoc::tic()
     results = nrcadams:::make_results_tibble(url)
+    tictoc::toc()
+
+    message(
+      paste(
+        "\n This search returned:", results |> dplyr::distinct()|> nrow(), "files."
+        )
+      )
+
     if(results |> nrow() == 0) {
-      stop("\nEither the search return no results or the search exceeded 1000 results, resulting in an ADAMS side error.\n")
+      warning("\nThe search return no results.\n")
+    }
+    if(results |> nrow() >= 1000) {
+      warning("\nThis search returned more than 1000 results and thus may be incomplete. As a result, the search should be refined.\n")
     }
     return(results)
   } else {
@@ -104,7 +84,6 @@ search_docket <- function(
 #' }
 search_ml <- function(ML_number) {
   if(all(ML_number |> stringr::str_starts("ML"))) {
-
     adams_ML = paste0(
       "properties_search_any:!(",
       paste0(
@@ -124,7 +103,7 @@ search_ml <- function(ML_number) {
 
     results = nrcadams:::make_results_tibble(url)
     if(results |> nrow() == 0) {
-      stop("\nEither the search return no results or the search exceeded 1000 results, resulting in an ADAMS side error.\n")
+      warning("The search return no results.\n")
     }
     return(results)
 
@@ -156,7 +135,9 @@ extract_from_xml = function(xml_results, search_term) {
 #' @return vector of search term results
 #' @keywords Internal
 make_results_tibble = function(adams_url) {
-  results = xml2::read_xml(adams_url, config = httr::config(timeout = 99999999))
+  results = xml2::read_xml(adams_url)
+
+  if(results |> nrcadams:::extract_from_xml("count") |> as.integer() == 0) return(tibble::tibble())
 
   adams_tbl = tibble::tibble(
     Title = results |>
@@ -193,28 +174,62 @@ make_results_tibble = function(adams_url) {
 }
 
 
-#' First URL section for any ADAMS search
+#' Conduct a lengthy search on Docket Numbers
+#'
+#' Individual ADAMS searches are limited to 1000 results, which can make
+#' searches that are lengthy difficult. Additionally, long ADAMS searches can
+#' take over 10 seconds to complete which may trigger a connection timeout
+#' on some systems.
+#'
+#' To avoid these problems, this wrapper script conducts multiple searches from
+#' today back to a starting point in time. The number of searches is set by the
+#' num_interval. For example, if today is 2020/1/1 and the starting date is
+#' 2010/1/1 and number_of_intervals is set to 2, this script will conduct two
+#' searches, one from 2010 to 2015 and the other from 2015 to 2020. These
+#' search results are then combined and output to the user.
+#'
+#' @param DocketNumber dbl/vector: Docket number (or numbers) to be searched on ADAMS
+#' @param search_term chr: Any search term desired. Default is nothing (i.e., NA)
+#' @param number_of_intervals dbl: The maximum number of searches to be conducted
+#' @param start_date chr: The earliest date (ymd) search results should be returned.
+#' @param document_type chr: Type of ADAMS document
 #'
 #' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
-#' @return Starting script for a ADAMS search URL
-#' @keywords Internal
-adams_search_head =  "https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),"
-
-
-#' Last URL section for any ADAMS search
+#' @return tibble of search results
+#' @export
 #'
-#' @param content_lgl Default TRUE.
-#'  * TRUE: Content search supports search keywords.
-#'  * FALSE: Advanced search returns results for greater than 1,000 entries.
-#'
-#' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
-#' @return Ending script for a ADAMS search URL
-#' @keywords Internal
-adams_search_tail = function(content_lgl = TRUE) {
-  if(content_lgl) {
-    "))&qn=New&tab=content-search-pars&z=0"
-  } else {
-    "))&qn=New&tab=advanced-search-pars&z=0"
-  }
+search_long_docket = function(
+  DocketNumber,
+  search_term = NA,
+  number_of_intervals = 5,
+  start_date = "2013-1-1",
+  document_type = NA
+  ) {
+
+  search_duration = lubridate::interval(start_date |> lubridate::ymd(), Sys.Date() |> lubridate::ymd()) |>
+    lubridate::as.duration() / number_of_intervals
+  message(
+    paste(
+      "With", number_of_intervals,
+      "starting on",start_date,
+      "the duration of each search will be", search_duration
+      )
+    )
+  start_date = start_date |> lubridate::ymd() + rep(0:(number_of_intervals-1)) * search_duration
+  end_date = dplyr::lead(start_date)
+
+  purrr::map2(start_date, end_date, ~nrcadams::search_docket(
+      DocketNumber = DocketNumber,
+      search_term = NA,
+      start_date = .x,
+      end_date = .y,
+      document_type = document_type
+    )) |>
+    # Need to remove empty search results
+    purrr::discard(\(z) nrow(z) == 0) |>
+    purrr::reduce(dplyr::full_join) |>
+    dplyr::distinct()
 }
+
+
 

@@ -12,11 +12,11 @@
 docket_codex = tibble::tribble(
   ~Project, ~Company, ~DocketNumber, ~NLWR,
   "MSRR Pre-Application", "ACU", 99902088, TRUE,
-  "MSRR Docket", "ACU", 05000610, TRUE,
-  "Shine Docket", "SHINE Medical Technologies", 05000608, TRUE,
+  "MSRR Part 50", "ACU", 05000610, TRUE,
+  "Shine Part 50", "SHINE Medical Technologies", 05000608, TRUE,
   "Shine Pre-Application", "Shine Medical Technologies", 99902034, TRUE,
   "Xe-100 Pre-Application", "X-Energy", 99902071, TRUE,
-  "TRISO-X Fab. Docket", "X-Energy", 07007027, TRUE,
+  "TRISO-X Fab. Part 70", "X-Energy", 07007027, TRUE,
 
   # # The following docket numbers were assigned to one prop withholding form...
   # "X-Energy", "Entergy",  5000313, FALSE,
@@ -37,7 +37,7 @@ docket_codex = tibble::tribble(
   "SMR-160 Pre-Application", "Holtec", 99902049, FALSE,
   "NuScale NPM Pre-Application", "NuScale", 99902078, FALSE,
   "KP-X Pre-Application", "Kairos Power", 99902069, TRUE,
-  "Hermes Docket", "Kairos Power", 05007513, TRUE,
+  "Hermes Part 50", "Kairos Power", 05007513, TRUE,
   "Oklo Pre-Application", "Oklo", 99902095, TRUE,
-  "Aurora Docket", "Oklo", 05200049, TRUE
+  "Aurora Part 52", "Oklo", 05200049, TRUE
 )

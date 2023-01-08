@@ -35,6 +35,24 @@ testthat::test_that("Searches with over 1000 entries at least return the 1000 en
   search_results = nrcadams::docket_codex |>
     dplyr::filter(Company == "SHINE Medical Technologies") |>
     dplyr::pull(DocketNumber) |>
-    nrcadams::search_docket()
+    nrcadams::search_docket() # This should cause a warning
   testthat::expect_true(search_results |> nrow() >= 1000)
 })
+
+testthat::test_that("Long search effectively pull the entire search history", {
+  search_results = nrcadams::docket_codex |>
+    dplyr::filter(NLWR) |>
+    dplyr::pull(DocketNumber) |>
+    nrcadams::search_long_docket(number_of_intervals = 10)
+  testthat::expect_true(search_results |> nrow() >= 3000)
+})
+
+testthat::test_that("Topical Reports can be pulled", {
+  search_results = nrcadams::docket_codex |>
+    dplyr::filter(NLWR) |>
+    dplyr::pull(DocketNumber) |>
+    nrcadams::search_docket(document_type = "Topical Report")
+  testthat::expect_true(search_results |> nrow() >= 50)
+})
+
+
