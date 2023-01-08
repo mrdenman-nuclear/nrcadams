@@ -76,8 +76,8 @@ docket_types = combined_dockets |>
       Type |> stringr::str_detect("SER") ~ "Safety Eval.",
       Type |> stringr::str_detect("Safety Evaluation") ~ "Safety Eval.",
       Type |> stringr::str_detect("Audit") ~ "Audit",
-      Type |> stringr::str_detect("Legal") ~ "Legal",
       Type |> stringr::str_detect("Report") ~ "Report",
+      Type |> stringr::str_detect("Legal") ~ "Legal",
       Type |> stringr::str_detect("Slides") ~ "Slides",
       TRUE ~ "Other"
     )

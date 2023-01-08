@@ -65,10 +65,10 @@ plt = last_week_in_dockets |>
       Type |> stringr::str_detect("SER") ~ "Safety Eval.",
       Type |> stringr::str_detect("Safety Evaluation") ~ "Safety Eval.",
       Type |> stringr::str_detect("Audit") ~ "Audit",
+      Type |> stringr::str_detect("Report") ~ "Report",
       Type |> stringr::str_detect("Legal") ~ "Legal",
       Type |> stringr::str_detect("Letter") ~ "Letter",
       Type |> stringr::str_detect("E-Mail") ~ "Letter",
-      Type |> stringr::str_detect("Report") ~ "Report",
       Type |> stringr::str_detect("Slides") ~ "Slides",
       Type |> stringr::str_detect("Public") ~ "Public",
       TRUE ~ "Other"
