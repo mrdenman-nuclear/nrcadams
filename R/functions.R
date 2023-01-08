@@ -136,7 +136,7 @@ extract_from_xml = function(xml_results, search_term) {
 #' @keywords Internal
 make_results_tibble = function(adams_url) {
   temp = tempfile()
-  download.file(adams_url, temp)
+  download.file(adams_url, temp, method = "curl")
   results = xml2::read_xml(temp)
 
   if(results |> nrcadams:::extract_from_xml("count") |> as.integer() == 0) return(tibble::tibble())
