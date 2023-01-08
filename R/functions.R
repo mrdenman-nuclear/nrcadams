@@ -135,10 +135,9 @@ extract_from_xml = function(xml_results, search_term) {
 #' @return vector of search term results
 #' @keywords Internal
 make_results_tibble = function(adams_url) {
-  file = 'temp.xml'
-  download.file(adams_url, file)
-  results = xml2::read_xml(file)
-  unlink(file)
+  temp = tempfile()
+  download.file(adams_url, temp, method = "Internal")
+  results = xml2::read_xml(temp)
 
   if(results |> nrcadams:::extract_from_xml("count") |> as.integer() == 0) return(tibble::tibble())
 
