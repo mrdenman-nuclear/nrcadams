@@ -144,7 +144,8 @@ plt |> ggplotly()
 ```
 The data in a y axis semi log scale:
 ```{r}
-plt + scale_y_log10() |> ggplotly()
+plt = plt + scale_y_log10() 
+plt |> ggplotly()
 ```
 
 # Reports
