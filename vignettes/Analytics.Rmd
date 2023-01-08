@@ -57,8 +57,6 @@ There are too many document types coded by ADAMS to effectively show on a plot
 (i.e., > 180).
 As a result, the Type field is binned to facilitate a bar plot of various 
 reactor applications. 
-The Shine application bar plot is topped out at the ADAMS maximum of 1,000 
-documents.
 The last update to this plot was at `r Sys.time()`.
 
 ```{r}
@@ -76,10 +74,9 @@ type_count = docket_types |>
   dplyr::count(Type, sort = TRUE) |>
   dplyr::arrange(n)
 
+
 plt = docket_types |>
-  dplyr::mutate(
-    Type = factor(Type, levels = type_count |> dplyr::pull(Type))
-    ) |> 
+  dplyr::mutate(Type = factor(Type, levels = type_count |> dplyr::pull(Type))) |>
   ggplot() +
     geom_bar(aes(y = Project, fill = Type)) +
     theme_bw() +
@@ -90,7 +87,25 @@ plt = docket_types |>
     ) +
     xlab("Document Count")
 
-plt |> ggplotly(tooltip = c("count", "Type"))
+plt |> ggplotly(tooltip = c("Type", "count"))
+```
+
+The same data can also be plotted with the bars unstacked.
+
+```{r}
+plt = docket_types |>
+  dplyr::mutate(Type = factor(Type, levels = type_count |> dplyr::pull(Type))) |>
+  ggplot() +
+    geom_bar(aes(y = Project, fill = Type), position = position_dodge()) +
+    theme_bw() +
+    scale_fill_brewer(palette="Set1") +
+    labs(
+      title = "Non-Light Water Reactor ADAMS Documents",
+      subtitle =  paste("as of", Sys.Date())
+    ) +
+    xlab("Document Count")
+
+plt |> ggplotly(tooltip = c("Type", "count"))
 ```
 
 The cumulative number of documents on a given ADAMS docket is also presented
