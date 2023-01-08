@@ -63,6 +63,7 @@ The last update to this plot was at `r Sys.time()`.
 
 ```{r}
 library(ggplot2)
+library(plotly)
 docket_types = combined_dockets |>
   dplyr::filter(NLWR) |>
   dplyr::mutate(
@@ -87,7 +88,7 @@ type_count = docket_types |>
   dplyr::count(Type, sort = TRUE) |>
   dplyr::arrange(n)
 
-docket_types |>
+plt = docket_types |>
   dplyr::mutate(
     Type = factor(Type, levels = type_count |> dplyr::pull(Type))
     ) |> 
@@ -100,6 +101,8 @@ docket_types |>
       subtitle =  paste("as of", Sys.Date())
     ) +
     xlab("Document Count")
+
+plt |> ggplotly(tooltip = c("count", "Type"))
 ```
 
 The cumulative number of documents on a given ADAMS docket is also presented
@@ -113,6 +116,7 @@ to lowest number of documents, `r docket_count |> dplyr::filter(n == min(n)) |> 
 
 ```{r}
 library(ggplot2)
+library(plotly)
 grouped_NLWR_dockets = combined_dockets |>
   dplyr::filter(NLWR) |>
   dplyr::group_by(Project) |>
@@ -136,11 +140,11 @@ plt = grouped_NLWR_dockets |>
 
 The data in linear scale:
 ```{r}
-plt
+plt |> ggplotly()
 ```
 The data in a y axis semi log scale:
 ```{r}
-plt + scale_y_log10()
+plt + scale_y_log10() |> ggplotly()
 ```
 
 # Reports

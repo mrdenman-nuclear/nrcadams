@@ -14,6 +14,7 @@ Suggests:
     spelling,
     DT,
     ggplot2,
+    plotly,
     testthat (>= 3.0.0)
 Language: en-US
 Imports: 
