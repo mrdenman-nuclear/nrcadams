@@ -28,3 +28,6 @@ Imports:
 Config/testthat/edition: 3
 URL: https://mrdenman-nuclear.github.io/nrcadams/
 VignetteBuilder: knitr
+Depends: 
+    R (>= 2.10)
+LazyData: true
