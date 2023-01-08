@@ -11,10 +11,13 @@ reference:
   desc: "Exported data objects intended to make using this package a little easier."
   contents:
   - docket_codex
-- title: "Precompiled Seraches"
-  desc: "A search of all docket information for tracked dockets prior to 2023"
-  contents:
   - adv_reactor_dockets_lt_2023
+- title: "Post-processing Functions"
+  desc: "This set of functions helps work with the ADAMS search tibble results"
+  contents:
+  - simplify_type
+  - remove_noisy_files
+  - hyperlink_file_to_name
 - title: "Internal"
   desc: "Internal functions and objects (use ::: to find) for developer use."
   contents:

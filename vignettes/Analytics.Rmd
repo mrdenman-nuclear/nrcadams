@@ -39,9 +39,9 @@ combined_dockets = nrcadams::docket_codex |>
   purrr::discard(\(z) nrow(z) == 0) |>
   purrr::reduce(dplyr::full_join) |>
   dplyr::full_join(nrcadams::adv_reactor_dockets_lt_2023) |>
-  dplyr::mutate(Title = paste0("<a href='", URL, "'>", Title, '</a>')) |>
+  nrcadams::hyperlink_file_to_name() |>
   dplyr::left_join(nrcadams::docket_codex) |>
-  dplyr::select(-c(URL, Company, DocketNumber)) |>
+  dplyr::select(-c(Company, DocketNumber)) |>
   dplyr::filter(!is.na(Project))
 
 docket_count = combined_dockets |>
@@ -68,20 +68,8 @@ docket_types = combined_dockets |>
   dplyr::filter(NLWR) |>
   dplyr::mutate(
     Project = factor(Project, levels = docket_count |> dplyr::pull(Project)),
-    Type = dplyr::case_when(
-      Type |> stringr::str_detect("FR Notice Comment Letter") ~ "Public Comments",
-      Type |> stringr::str_detect("RAI") ~ "RAI",
-      Type |> stringr::str_detect("SAR") ~ "Safety Analysis",
-      Type |> stringr::str_detect("Safety Analysis") ~ "Safety Analysis",
-      Type |> stringr::str_detect("SER") ~ "Safety Eval.",
-      Type |> stringr::str_detect("Safety Evaluation") ~ "Safety Eval.",
-      Type |> stringr::str_detect("Audit") ~ "Audit",
-      Type |> stringr::str_detect("Report") ~ "Report",
-      Type |> stringr::str_detect("Legal") ~ "Legal",
-      Type |> stringr::str_detect("Slides") ~ "Slides",
-      TRUE ~ "Other"
-    )
-  ) 
+  ) |>
+  nrcadams::simplify_type()
 
 type_count = docket_types |>
   dplyr::filter(NLWR) |>
@@ -161,18 +149,7 @@ The following table summarizes tagged Topical Reports.
 
 ```{r}
 Topicals = combined_dockets |>
-  dplyr::filter(
-    stringr::str_detect(Type, "Topical Report"),
-    !stringr::str_detect(Type, "Letter"),
-    !stringr::str_detect(Type, "E-Mail"),
-    !stringr::str_detect(Type, "Administrative"),
-    !stringr::str_detect(Type, "Briefing"),
-    !stringr::str_detect(Type, "RAI"),
-    !stringr::str_detect(Type, "Meeting"),
-    !stringr::str_detect(Type, "Evaluation"),
-    !stringr::str_detect(Title, "Questions"),
-    !stringr::str_detect(Title, "Form 896")
-    ) 
+  nrcadams::remove_noisy_files("Topical Report")
 
 Topicals |>
   DT::datatable(
@@ -190,13 +167,7 @@ The following table summarizes tagged Technical Reports.
 
 ```{r}
 Technicals = combined_dockets |>
-  dplyr::filter(
-    stringr::str_detect(Type, "Technical Paper"),
-    !stringr::str_detect(Type, "Letter"),
-    !stringr::str_detect(Type, "E-Mail"),
-    !stringr::str_detect(Type, "Meeting"),
-    !stringr::str_detect(Title, "Cover Letter")
-    ) 
+  nrcadams::remove_noisy_files("Technical Paper")
 
 Technicals |>
   DT::datatable(
@@ -213,16 +184,7 @@ The following table summarizes tagged Environmental Reports.
 
 ```{r}
 Environmental = combined_dockets |>
-  dplyr::filter(
-    stringr::str_detect(Type, "Environmental"),
-    !stringr::str_detect(Type, "Letter"),
-    !stringr::str_detect(Type, "E-Mail"),
-    !stringr::str_detect(Type, "Meeting"),
-    !stringr::str_detect(Title, "Cover Letter"),
-    !stringr::str_detect(Title, "Question"),
-    !stringr::str_detect(Title, "Request"),
-    !stringr::str_detect(Title, "Response")
-    ) 
+  nrcadams::remove_noisy_files("Environmental")
 
 Environmental |>
   DT::datatable(
@@ -239,16 +201,7 @@ The following table summarizes tagged Safety Analysis Reports.
 
 ```{r}
 Safety_Analysis = combined_dockets |>
-  dplyr::filter(
-    stringr::str_detect(Type, "Safety Analysis"),
-    !stringr::str_detect(Type, "Letter"),
-    !stringr::str_detect(Type, "E-Mail"),
-    !stringr::str_detect(Type, "Meeting"),
-    !stringr::str_detect(Title, "Cover Letter"),
-    !stringr::str_detect(Title, "Question"),
-    !stringr::str_detect(Title, "Request"),
-    !stringr::str_detect(Title, "Response")
-    ) 
+  nrcadams::remove_noisy_files("Safety Analysis")
 
 Safety_Analysis |>
   DT::datatable(
@@ -264,16 +217,7 @@ The following table summarizes tagged Safety Evaluations Reports.
 
 ```{r}
 Safety_Evaluation = combined_dockets |>
-  dplyr::filter(
-    stringr::str_detect(Type, "Safety Evaluation"),
-    !stringr::str_detect(Type, "Letter"),
-    !stringr::str_detect(Type, "E-Mail"),
-    !stringr::str_detect(Type, "Meeting"),
-    !stringr::str_detect(Title, "Cover Letter"),
-    !stringr::str_detect(Title, "Question"),
-    !stringr::str_detect(Title, "Request"),
-    !stringr::str_detect(Title, "Response")
-    ) 
+  nrcadams::remove_noisy_files("Safety Evaluation")
 
 Safety_Evaluation |>
   DT::datatable(
