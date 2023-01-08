@@ -21,5 +21,7 @@ tibble of search results
 Conduct ADAMS Search on ML numbers
 }
 \examples{
+\dontrun{
 c("ML22179A346", "ML19211C119") |> nrcadams::search_ml()
+}
 }
