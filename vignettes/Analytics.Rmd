@@ -27,7 +27,11 @@ The results presented here should be interpreted with these limitations.
 Because the entire docket is being pulled for each project, the 1,000 document
 per search limit would be exceeded if all the dockets were pulled in one request. 
 To reduce the impact of this limit, the `nrcadams::search_long_docket` is used 
-to break the one long search into many smaller searches.
+to break the one long search into many smaller searches. 
+This search was pre-conducted and the information prior to 2023 is exported by 
+the `nrcadams::adv_reactor_dockets_lt_2023` variable. 
+Dockets are individually search after 2023-01-01 and combined with the 
+prior search information.
 
 ```{r}
 combined_dockets = nrcadams::docket_codex |>
