@@ -50,7 +50,7 @@
 
     <div class="section level2">
     <h2 id="ref-usage">Usage<a class="anchor" aria-label="anchor" href="#ref-usage"></a></h2>
-    <div class="sourceCode"><pre class="sourceCode r"><code><span><span class="fu">make_results_tibble</span><span class="op">(</span><span class="va">adams_url</span><span class="op">)</span></span></code></pre></div>
+    <div class="sourceCode"><pre class="sourceCode r"><code><span><span class="fu">make_results_tibble</span><span class="op">(</span><span class="va">adams_url</span>, download <span class="op">=</span> <span class="cn">FALSE</span><span class="op">)</span></span></code></pre></div>
     </div>
 
     <div class="section level2">
@@ -62,6 +62,10 @@
     <dl><dt>adams_url</dt>
 <dd><p>ADAMS search URL</p></dd>
 
+
+<dt>download</dt>
+<dd><p>Logical, if set to true, the file is downloaded before it is processed</p></dd>
+
 </dl></div>
     <div class="section level2">
     <h2 id="value">Value<a class="anchor" aria-label="anchor" href="#value"></a></h2>
@@ -70,6 +74,13 @@
 <p>vector of search term results</p>
     </div>
 
+    <div class="section level2">
+    <h2 id="ref-examples">Examples<a class="anchor" aria-label="anchor" href="#ref-examples"></a></h2>
+    <div class="sourceCode"><pre class="sourceCode r"><code><span class="r-in"><span><span class="st">"https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_any:!(!(DocketNumber,eq,'99902088','')),properties_search_all:!(!(PublishDatePARS,gt,'01/05/2023',''))))&amp;qn=New&amp;tab=advanced-search-pars&amp;z=0"</span> <span class="op">|&gt;</span></span></span>
+<span class="r-in"><span><span class="fu">nrcadams</span><span class="fu">::</span><span class="fu">make_results_tibble</span><span class="op">(</span><span class="op">)</span></span></span>
+<span class="r-err co"><span class="r-pr">#&gt;</span> <span class="error">Error:</span> 'make_results_tibble' is not an exported object from 'namespace:nrcadams'</span>
+</code></pre></div>
+    </div>
   </main><aside class="col-md-3"><nav id="toc"><h2>On this page</h2>
     </nav></aside></div>
 

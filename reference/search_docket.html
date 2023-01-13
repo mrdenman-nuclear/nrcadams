@@ -99,12 +99,32 @@
 
     <div class="section level2">
     <h2 id="ref-examples">Examples<a class="anchor" aria-label="anchor" href="#ref-examples"></a></h2>
-    <div class="sourceCode"><pre class="sourceCode r"><code><span class="r-in"><span><span class="kw">if</span> <span class="op">(</span><span class="cn">FALSE</span><span class="op">)</span> <span class="op">{</span></span></span>
-<span class="r-in"><span>  <span class="fu">nrcadams</span><span class="fu">::</span><span class="va"><a href="docket_codex.html">docket_codex</a></span> <span class="op">|&gt;</span></span></span>
+    <div class="sourceCode"><pre class="sourceCode r"><code><span class="r-in"><span>  <span class="fu">nrcadams</span><span class="fu">::</span><span class="va"><a href="docket_codex.html">docket_codex</a></span> <span class="op">|&gt;</span></span></span>
 <span class="r-in"><span>    <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/filter.html" class="external-link">filter</a></span><span class="op">(</span><span class="va">Company</span> <span class="op">==</span> <span class="st">"ACU"</span><span class="op">)</span> <span class="op">|&gt;</span></span></span>
 <span class="r-in"><span>    <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/pull.html" class="external-link">pull</a></span><span class="op">(</span><span class="va">DocketNumber</span><span class="op">)</span> <span class="op">|&gt;</span></span></span>
 <span class="r-in"><span>    <span class="fu">nrcadams</span><span class="fu">::</span><span class="fu">search_docket</span><span class="op">(</span><span class="op">)</span></span></span>
-<span class="r-in"><span>    <span class="op">}</span></span></span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> Searching with the following URL:</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_any:!(!(DocketNumber,eq,'99902088',''),!(DocketNumber,eq,'05000610',''))))&amp;qn=New&amp;tab=advanced-search-pars&amp;z=0 </span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> : 1.363 sec elapsed</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span>  This search returned: 55 files.</span>
+<span class="r-wrn co"><span class="r-pr">#&gt;</span> <span class="warning">Warning: </span>unknown timezone 'EDT'</span>
+<span class="r-wrn co"><span class="r-pr">#&gt;</span> <span class="warning">Warning: </span>unknown timezone 'EDT'</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #949494;"># A tibble: 55 × 8</span></span>
+<span class="r-out co"><span class="r-pr">#&gt;</span>    Title      Document…¹ `Publish Date`      Type  Affil…² URL   Docke…³ ML Nu…⁴</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span>    <span style="color: #949494; font-style: italic;">&lt;chr&gt;</span>      <span style="color: #949494; font-style: italic;">&lt;date&gt;</span>     <span style="color: #949494; font-style: italic;">&lt;dttm&gt;</span>              <span style="color: #949494; font-style: italic;">&lt;chr&gt;</span> <span style="color: #949494; font-style: italic;">&lt;chr&gt;</span>   <span style="color: #949494; font-style: italic;">&lt;chr&gt;</span>   <span style="color: #949494; font-style: italic;">&lt;dbl&gt;</span> <span style="color: #949494; font-style: italic;">&lt;chr&gt;</span>  </span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 1</span> Abilene C… 2022-12-16 2022-12-19 <span style="color: #949494;">08:48:00</span> Lett… NRC/NR… <span style="color: #949494;">"</span>htt…  5.00<span style="color: #949494;">e</span>6 ML2234…</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 2</span> FRN on Ab… 2022-11-28 2022-12-06 <span style="color: #949494;">08:29:00</span> Fede… NRC/NR… <span style="color: #949494;">"</span>htt…  5.00<span style="color: #949494;">e</span>6 ML2231…</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 3</span> 12/09/202… 2022-11-21 2022-11-21 <span style="color: #949494;">12:58:00</span> Meet… NRC/NRR <span style="color: #949494;">"</span>htt…  5.00<span style="color: #949494;">e</span>6 ML2232…</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 4</span> Abilene C… 2022-11-18 2022-11-18 <span style="color: #949494;">14:27:00</span> Acce… NRC/NR… <span style="color: #949494;">"</span>htt…  5.00<span style="color: #949494;">e</span>6 ML2231…</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 5</span> NEXT - Su… 2022-01-26 2022-11-01 <span style="color: #949494;">12:00:00</span> Lett… Abilen… <span style="color: #949494;">"</span>htt…  9.99<span style="color: #949494;">e</span>7 ML2203…</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 6</span> Response … 2022-10-20 2022-11-01 <span style="color: #949494;">12:00:00</span> Resp… Abilen… <span style="color: #949494;">"</span>htt…  9.99<span style="color: #949494;">e</span>7 ML2229…</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 7</span> Revisions… 2022-10-25 2022-11-01 <span style="color: #949494;">12:00:00</span> Lett… Abilen… <span style="color: #949494;">"</span>htt…  9.99<span style="color: #949494;">e</span>7 ML2229…</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 8</span> Abilene C… 2022-10-14 2022-11-01 <span style="color: #949494;">12:00:00</span> Lett… Abilen… <span style="color: #949494;">"</span>htt…  9.99<span style="color: #949494;">e</span>7 ML2229…</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 9</span> FRN for A… 2022-10-07 2022-10-14 <span style="color: #949494;">08:30:00</span> Fede… NRC/NR… <span style="color: #949494;">"</span>htt…  9.99<span style="color: #949494;">e</span>7 ML2223…</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;">10</span> Request f… 2022-09-27 2022-09-27 <span style="color: #949494;">16:01:00</span> Requ… NRC/NR… <span style="color: #949494;">"</span>htt…  9.99<span style="color: #949494;">e</span>7 ML2227…</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #949494;"># … with 45 more rows, and abbreviated variable names ¹​`Document Date`,</span></span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #949494;">#   ²​Affiliation, ³​DocketNumber, ⁴​`ML Number`</span></span>
 </code></pre></div>
     </div>
   </main><aside class="col-md-3"><nav id="toc"><h2>On this page</h2>
