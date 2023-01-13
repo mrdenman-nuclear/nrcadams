@@ -24,3 +24,4 @@ reference:
   - make_results_tibble
   - starts_with("adams_")
   - lubridate_date
+  - write_rss

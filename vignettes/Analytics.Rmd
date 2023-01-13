@@ -94,7 +94,7 @@ plt = docket_types |>
     theme_bw() +
     scale_fill_brewer(palette="Set1") +
     labs(
-      title = "Non-Light Water Reactor ADAMS Documents",
+      title = "Advanced Reactor ADAMS Documents",
       subtitle =  paste("as of", Sys.Date())
     ) +
     xlab("Document Count")
@@ -131,7 +131,7 @@ plt = grouped_NLWR_dockets |>
     geom_step(aes(x = `Publish Date`, y = `Document Count`, color = Project)) +
     theme_bw() +
     labs(
-      title = "Non-Light Water Reactor ADAMS Documents",
+      title = "Advanced Reactor ADAMS Documents",
       subtitle =  paste("as of", Sys.Date())
     )
 ```

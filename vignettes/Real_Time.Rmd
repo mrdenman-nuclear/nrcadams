@@ -98,3 +98,7 @@ The following table summarizes all ADAMS documents for the following dockets:
 last_week_in_dockets |> 
   build_html_table(LWR = TRUE)
 ```
+
+```{r, include = FALSE}
+last_week_in_dockets |> write_rss()
+```
