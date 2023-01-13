@@ -27,26 +27,17 @@ Because the entire docket is being pulled for each project, the 1,000 document
 per search limit would be exceeded if all the dockets were pulled in one request. 
 To reduce the impact of this limit, the `nrcadams::search_long_docket` is used 
 to break the one long search into many smaller searches. 
-This search was pre-conducted and the information prior to 2023 is exported by 
-the `nrcadams::adv_reactor_dockets_lt_2023` variable. 
-Dockets are individually search after 2023-01-01 and combined with the 
-prior search information.
 
 ```{r}
 combined_dockets = nrcadams::docket_codex |>
   dplyr::pull(DocketNumber) |>
-  purrr::map(~nrcadams::search_docket(.x, start_date = "2023-01-01")) |> 
-  purrr::discard(\(z) nrow(z) == 0) |>
-  purrr::reduce(dplyr::full_join) |>
-  dplyr::full_join(nrcadams::adv_reactor_dockets_lt_2023) |>
+  nrcadams::search_long_docket(number_of_intervals = 30) |>
   nrcadams::hyperlink_file_to_name() |>
   dplyr::left_join(nrcadams::docket_codex) |>
-  dplyr::select(-c(Company, DocketNumber)) |>
+  dplyr::select(-c(Company, DocketNumber, `ML Number`)) |>
   dplyr::filter(!is.na(Project))
 
 docket_count = combined_dockets |>
-  dplyr::filter(NLWR) |>
-  dplyr::select(-NLWR) |>
   dplyr::count(Project, sort = TRUE)
 
 docket_count |>
@@ -63,11 +54,10 @@ As a result, the Type field is binned to facilitate a bar plot of various
 reactor applications. 
 The last update to this plot was at `r Sys.time()`.
 
-```{r}
+```{r, fig.height = 7}
 library(ggplot2)
 library(plotly)
 docket_types = combined_dockets |>
-  dplyr::filter(NLWR) |>
   dplyr::mutate(
     Project = factor(Project, levels = docket_count |> dplyr::pull(Project)),
   ) |>
@@ -86,7 +76,7 @@ plt = docket_types |>
     theme_bw() +
     scale_fill_brewer(palette="Set1") +
     labs(
-      title = "Non-Light Water Reactor ADAMS Documents",
+      title = "Advanced Reactor ADAMS Documents",
       subtitle =  paste("as of", Sys.Date())
     ) +
     xlab("Document Count")
@@ -96,7 +86,7 @@ plt |> ggplotly(tooltip = c("Type", "count"))
 
 The same data can also be plotted with the bars unstacked.
 
-```{r}
+```{r, fig.height = 7}
 plt = docket_types |>
   dplyr::mutate(Type = factor(Type, levels = type_count |> dplyr::pull(Type))) |>
   ggplot() +
@@ -127,7 +117,6 @@ to lowest number of documents, `r docket_count |> dplyr::filter(n == min(n)) |> 
 library(ggplot2)
 library(plotly)
 grouped_NLWR_dockets = combined_dockets |>
-  dplyr::filter(NLWR) |>
   dplyr::group_by(Project) |>
   dplyr::arrange(`Publish Date`) |>
   dplyr::mutate(
@@ -148,11 +137,11 @@ plt = grouped_NLWR_dockets |>
 ```
 
 The data in linear scale:
-```{r}
+```{r, fig.height = 7}
 plt |> ggplotly()
 ```
 The data in a y axis semi log scale:
-```{r}
+```{r, fig.height = 7}
 plt = plt + scale_y_log10() 
 plt |> ggplotly()
 ```

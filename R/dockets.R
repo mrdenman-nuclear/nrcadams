@@ -14,7 +14,6 @@ docket_codex = tibble::tribble(
   "MSRR Pre-Application", "ACU", 99902088, TRUE,
   "MSRR Part 50", "ACU", 05000610, TRUE,
   "Shine Part 50", "SHINE Medical Technologies", 05000608, TRUE,
-  "Shine Pre-Application", "Shine Medical Technologies", 99902034, TRUE,
   "Xe-100 Pre-Application", "X-Energy", 99902071, TRUE,
   "TRISO-X Fab. Part 70", "X-Energy", 07007027, TRUE,
 
@@ -35,7 +34,8 @@ docket_codex = tibble::tribble(
   "IMSR Pre-Application", "Terrestrial Energy", 99902076, TRUE,
   "BWRX-300 Pre-Application", "GE", 99900003, FALSE,
   "SMR-160 Pre-Application", "Holtec", 99902049, FALSE,
-  "NuScale NPM Pre-Application", "NuScale", 99902078, FALSE,
+  "NuScale 50 MWe Part 52", "NuScale", 05200048, FALSE,
+  "NuScale 77 MWe Pre-Application", "NuScale", 99902078, FALSE,
   "KP-X Pre-Application", "Kairos Power", 99902069, TRUE,
   "Hermes Part 50", "Kairos Power", 05007513, TRUE,
   "Oklo Pre-Application", "Oklo", 99902095, TRUE,

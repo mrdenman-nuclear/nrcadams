@@ -36,10 +36,8 @@ tibble of search results
 Conduct ADAMS Search on Docket Numbers
 }
 \examples{
-\dontrun{
   nrcadams::docket_codex |>
     dplyr::filter(Company == "ACU") |>
     dplyr::pull(DocketNumber) |>
     nrcadams::search_docket()
-    }
 }

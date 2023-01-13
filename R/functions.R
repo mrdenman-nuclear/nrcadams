@@ -12,12 +12,10 @@
 #' @export
 #'
 #' @examples
-#' \dontrun{
 #'   nrcadams::docket_codex |>
 #'     dplyr::filter(Company == "ACU") |>
 #'     dplyr::pull(DocketNumber) |>
 #'     nrcadams::search_docket()
-#'     }
 search_docket <- function(
   DocketNumber,
   search_term = NA,
@@ -79,9 +77,7 @@ search_docket <- function(
 #' @export
 #'
 #' @examples
-#' \dontrun{
 #' c("ML22179A346", "ML19211C119") |> nrcadams::search_ml()
-#' }
 search_ml <- function(ML_number) {
   if(all(ML_number |> stringr::str_starts("ML"))) {
     adams_ML = paste0(
@@ -130,14 +126,23 @@ extract_from_xml = function(xml_results, search_term) {
 #' Makes a Formatted Tibble from ADAMS URL Search Results
 #'
 #' @param adams_url ADAMS search URL
+#' @param download Logical, if set to true, the file is downloaded before it is processed
 #'
 #' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
 #' @return vector of search term results
 #' @keywords Internal
-make_results_tibble = function(adams_url) {
-  temp = tempfile()
-  download.file(adams_url, temp, method = "curl")
-  results = xml2::read_xml(temp)
+#' @examples
+#' "https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_any:!(!(DocketNumber,eq,'99902088','')),properties_search_all:!(!(PublishDatePARS,gt,'01/05/2023',''))))&qn=New&tab=advanced-search-pars&z=0" |>
+#' nrcadams::make_results_tibble()
+make_results_tibble = function(adams_url, download = FALSE) {
+  if(download) {
+    temp = tempfile()
+    download.file(adams_url, temp, method = "curl")
+    results = xml2::read_xml(temp)
+  } else {
+    results = xml2::read_xml(adams_url)
+  }
+
 
   if(results |> nrcadams:::extract_from_xml("count") |> as.integer() == 0) return(tibble::tibble())
 
@@ -157,7 +162,9 @@ make_results_tibble = function(adams_url) {
     URL = results |>
       nrcadams:::extract_from_xml("URI"),
     DocketNumber = results |>
-      nrcadams:::extract_from_xml("DocketNumber")
+      nrcadams:::extract_from_xml("DocketNumber"),
+    `ML Number` = results |>
+      nrcadams:::extract_from_xml("AccessionNumber")
   ) |>
     tidyr::separate_rows(DocketNumber) |>
     dplyr::mutate(
