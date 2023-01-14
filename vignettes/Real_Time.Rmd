@@ -100,5 +100,7 @@ last_week_in_dockets |>
 ```
 
 ```{r, include = FALSE}
-last_week_in_dockets |> nrcadams:::write_rss()
+
+last_week_in_dockets |> 
+  nrcadams:::write_rss(file = here::here("docs", "dockets.rss"))
 ```

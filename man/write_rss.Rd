@@ -23,7 +23,12 @@ write_rss(
   generator = "Function write_rss() in R package nrcadams",
   managingEditor = "mrdenman[at]gmail.com",
   webMaster = "mrdenman[at]gmail.com",
-  maxitem = 10,
+  maxitem = 30,
+  doc_url = URL,
+  doc_title = Title,
+  doc_author = Affiliation,
+  doc_description = Type,
+  doc_date = `Document Date`,
   ...
 )
 }
@@ -59,6 +64,16 @@ write_rss(
 \item{webMaster}{who put this on the web?}
 
 \item{maxitem}{how long is the RSS feed?}
+
+\item{doc_url}{The document URL vector name.}
+
+\item{doc_title}{The document title vector name.}
+
+\item{doc_author}{The document author vector name.}
+
+\item{doc_description}{The document description vector name.}
+
+\item{doc_date}{The document date vector name.}
 
 \item{...}{Other items}
 }

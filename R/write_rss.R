@@ -17,6 +17,11 @@
 #' @param managingEditor whose fault is this?
 #' @param webMaster who put this on the web?
 #' @param maxitem how long is the RSS feed?
+#' @param doc_url The document URL vector name.
+#' @param doc_title The document title vector name.
+#' @param doc_author The document author vector name.
+#' @param doc_description The document description vector name.
+#' @param doc_date The document date vector name.
 #' @param ... Other items
 #'
 #' @source https://github.com/cran/animation/blob/8ef6f898875373fa95ba9a55d405a6f2bb741474/R/write.rss.R
@@ -40,8 +45,23 @@ write_rss <- function(
     managingEditor = "mrdenman[at]gmail.com",
     webMaster = "mrdenman[at]gmail.com",
     maxitem = 30,
+    doc_url = URL,
+    doc_title = Title,
+    doc_author = Affiliation,
+    doc_description = Type,
+    doc_date = `Document Date`,
     ...) {
-  x = docket_tbl
+  x = docket_tbl |>
+    dplyr::rename(
+      title = {{doc_title}},
+      link = {{doc_url}},
+      description = {{doc_description}},
+      author = {{doc_author}},
+      pubDate = {{doc_date}}
+    ) |>
+    dplyr::select(title, link, description, author, pubDate)
+
+
   if (nrow(x) > maxitem) {
     x = x[(nrow(x) - maxitem + 1):nrow(x), ]
   }

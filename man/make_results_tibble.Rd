@@ -22,6 +22,6 @@ Makes a Formatted Tibble from ADAMS URL Search Results
 }
 \examples{
 "https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_any:!(!(DocketNumber,eq,'99902088','')),properties_search_all:!(!(PublishDatePARS,gt,'01/05/2023',''))))&qn=New&tab=advanced-search-pars&z=0" |>
-nrcadams::make_results_tibble()
+nrcadams:::make_results_tibble()
 }
 \keyword{Internal}

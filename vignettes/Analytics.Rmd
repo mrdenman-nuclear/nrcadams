@@ -35,7 +35,8 @@ combined_dockets = nrcadams::docket_codex |>
   nrcadams::hyperlink_file_to_name() |>
   dplyr::left_join(nrcadams::docket_codex) |>
   dplyr::select(-c(Company, DocketNumber, `ML Number`)) |>
-  dplyr::filter(!is.na(Project))
+  dplyr::filter(!is.na(Project)) |>
+  dplyr::mutate(Project = stringr::str_replace(Project, "Application", "App."))
 
 docket_count = combined_dockets |>
   dplyr::count(Project, sort = TRUE)
