@@ -21,7 +21,7 @@ This page provides preliminary data analytics on various NLWR dockets.
 Note that ADAMS assigned multiple docket numbers to some reports.
 The results presented here should be interpreted with these limitations.
 
-This page is updated once a day and presents the last week of posted ADAMS documents. The last update was at `r Sys.time()`.
+This page is updated once a day and presents the last week of posted ADAMS documents. The last update was at `r Sys.time() |> lubridate::ymd_hms(tz = "EDT")`.
 
 # Pulling Advanced Reactor Docket Files
 

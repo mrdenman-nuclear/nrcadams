@@ -14,7 +14,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-This page is updated once a day and presents the last week of posted ADAMS documents. The last update was at `r Sys.time()`.
+This page is updated once a day and presents the last week of posted ADAMS documents. The last update was at `r Sys.time() |> lubridate::ymd_hms(tz = "EDT")`.
 
 # Making RSS files
 
@@ -62,7 +62,7 @@ nrcadams::docket_codex |>
     Project = "All Dockets", 
     `RSS File` = "https://mrdenman-nuclear.github.io/nrcadams/RSS/dockets.rss"
     ) |>
-  nrcadams::hyperlink_file_to_name(name_vct = Project, url_vct = `RSS File`)|>
+  nrcadams::hyperlink_file_to_name(name_vct = `RSS File`, url_vct = `RSS File`)|>
   DT::datatable(escape = FALSE)
 
 ```
