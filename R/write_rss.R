@@ -51,7 +51,7 @@ write_rss <- function(
     doc_description = Type,
     doc_date = `Document Date`,
     ...) {
-  x = docket_tbl |>
+  docket_tbl = docket_tbl |>
     dplyr::rename(
       title = {{doc_title}},
       link = {{doc_url}},
@@ -59,14 +59,15 @@ write_rss <- function(
       author = {{doc_author}},
       pubDate = {{doc_date}}
     ) |>
-    dplyr::select(title, link, description, author, pubDate)
+    dplyr::select(title, link, description, author, pubDate) |>
+    dplyr::filter(dplyr::row_number() <= maxitem)
 
 
-  if (nrow(x) > maxitem) {
-    x = x[(nrow(x) - maxitem + 1):nrow(x), ]
-  }
-
-  x = x[nrow(x):1, ]
+  # if (nrow(x) > maxitem) {
+  #   x = x[(nrow(x) - maxitem + 1):nrow(x), ]
+  # }
+  #
+  # x = x[nrow(x):1, ]
   lcl = Sys.getlocale("LC_TIME")
   Sys.setlocale("LC_TIME", "C")
   pubDate = format(pubDate, "%a, %d %b %Y %H:%M:%S GMT")
@@ -92,21 +93,27 @@ write_rss <- function(
     cat(paste(tag1, extra, tag2, sep = "", collapse = "\n"),
         "\n", file = file, append = TRUE)
   }
-  tag1 = paste("<", colnames(x), ">", sep = "")
-  tag2 = paste("</", colnames(x), ">", sep = "")
-  cat(
-    paste(
-      "\t\t<item>",
-      apply(x, 1, function(xx) paste(
-        "\t\t\t",
-        paste(tag1, xx, tag2, sep = "", collapse = "\n\t\t\t"), sep = "")),
-      "\t\t</item>",
-      sep = "\n",
-      collapse = "\n"
-    ),
-    file = file, append = TRUE
-  )
-  cat("\n\t", "</channel>", file = file, append = TRUE)
+
+  if(nrow(docket_tbl) > 0.5) {
+    tag1 = paste("<", colnames(docket_tbl), ">", sep = "")
+    tag2 = paste("</", colnames(docket_tbl), ">", sep = "")
+    cat(
+      paste(
+        "\t\t<item>",
+        apply(docket_tbl, 1, function(xx) paste(
+          "\t\t\t",
+          paste(tag1, xx, tag2, sep = "", collapse = "\n\t\t\t"), sep = "")
+          ),
+        "\t\t</item>",
+        sep = "\n",
+        collapse = "\n"
+      ),
+      file = file, append = TRUE
+    )
+    cat("\n\t", file = file, append = TRUE)
+  }
+
+  cat("</channel>", file = file, append = TRUE)
   cat("\n</rss>", file = file, append = TRUE)
   Sys.setlocale("LC_TIME", lcl)
   cat("RSS feed created at:", file, "\n")
