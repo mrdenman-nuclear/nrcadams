@@ -100,7 +100,7 @@ last_week_in_dockets |>
 ```
 
 ```{r, include = FALSE}
-here::here("docs", "RSS") |> dir.create()
+here::here("docs", "RSS") |> dir.create(recursive = TRUE)
 
 nrcadams::docket_codex |>
   dplyr::pull(Project) |>
