@@ -1,6 +1,10 @@
 url: https://mrdenman-nuclear.github.io/nrcadams/
 template:
   bootstrap: 5
+navbar:
+  structure:
+    left:  [reference, articles]
+    right: [search, github]
 reference:
 - title: "ADAMS Search Functions"
   desc: >
