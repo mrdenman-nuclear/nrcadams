@@ -227,7 +227,7 @@ search_long_docket = function(
   start_date = start_date |> lubridate::ymd() + rep(0:(number_of_intervals-1)) * search_duration
   end_date = dplyr::lead(start_date)
 
-  purrr::walk2(start_date, end_date, ~nrcadams::search_docket(
+  purrr::map2(start_date, end_date, ~nrcadams::search_docket(
       DocketNumber = DocketNumber,
       search_term = NA,
       start_date = .x,
