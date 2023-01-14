@@ -3,7 +3,8 @@
 A R package used to pull data from NRC's ADAMS document repository.
 
 Do you ever want to keep track of the most recent back and forth between
-applicants and the NRC but you find NRC web based ADAMS searches cumbersome?
+applicants and the NRC but you find 
+[NRC web based ADAMS searches](https://adams.nrc.gov/wba/) cumbersome?
 If so, this package might be for you!
 
 # How to install `nrcadams`

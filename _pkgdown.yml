@@ -3,8 +3,11 @@ template:
   bootstrap: 5
 navbar:
   structure:
-    left:  [reference, articles]
+    left:  [intro, reference, articles]
     right: [search, github]
+home:
+  sidebar:
+    structure: [license, authors, dev]
 reference:
 - title: "ADAMS Search Functions"
   desc: >
@@ -21,6 +24,7 @@ reference:
   - simplify_type
   - remove_noisy_files
   - hyperlink_file_to_name
+  - write_rss
 - title: "Internal"
   desc: "Internal functions and objects (use ::: to find) for developer use."
   contents:
@@ -28,4 +32,3 @@ reference:
   - make_results_tibble
   - starts_with("adams_")
   - lubridate_date
-  - write_rss

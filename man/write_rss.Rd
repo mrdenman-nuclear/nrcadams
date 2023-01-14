@@ -83,4 +83,3 @@ an RSS file
 \description{
 Writes RSS Feeds
 }
-\keyword{Internal}

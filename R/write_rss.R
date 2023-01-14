@@ -27,7 +27,7 @@
 #' @source https://github.com/cran/animation/blob/8ef6f898875373fa95ba9a55d405a6f2bb741474/R/write.rss.R
 #'
 #' @return an RSS file
-#' @keywords Internal
+#' @export
 write_rss <- function(
     docket_tbl = "rss.csv",
     file = "dockets.xml",
@@ -62,12 +62,6 @@ write_rss <- function(
     dplyr::select(title, link, description, author, pubDate) |>
     dplyr::filter(dplyr::row_number() <= maxitem)
 
-
-  # if (nrow(x) > maxitem) {
-  #   x = x[(nrow(x) - maxitem + 1):nrow(x), ]
-  # }
-  #
-  # x = x[nrow(x):1, ]
   lcl = Sys.getlocale("LC_TIME")
   Sys.setlocale("LC_TIME", "C")
   pubDate = format(pubDate, "%a, %d %b %Y %H:%M:%S GMT")

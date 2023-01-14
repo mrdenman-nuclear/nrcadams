@@ -28,7 +28,8 @@ Imports:
     stringr,
     tictoc
 Config/testthat/edition: 3
-URL: https://mrdenman-nuclear.github.io/nrcadams/
+URL: https://mrdenman-nuclear.github.io/nrcadams/, https://github.com/mrdenman-nuclear/nrcadams/
+BugReports: https://github.com/mrdenman-nuclear/nrcadams/issues
 VignetteBuilder: knitr
 Depends: 
     R (>= 2.10)
