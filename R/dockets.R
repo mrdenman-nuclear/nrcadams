@@ -36,8 +36,9 @@ docket_codex = tibble::tribble(
   "SMR-160 Pre-Application", "Holtec", 99902049, FALSE,
   "NuScale 50 MWe Part 52", "NuScale", 05200048, FALSE,
   "NuScale 77 MWe Pre-Application", "NuScale", 99902078, FALSE,
-  "KP-X Pre-Application", "Kairos Power", 99902069, TRUE,
+  "KP Pre-Application", "Kairos Power", 99902069, TRUE,
   "Hermes Part 50", "Kairos Power", 05007513, TRUE,
-  "Oklo Pre-Application", "Oklo", 99902095, TRUE,
+  "Oklo Reactor Pre-Application", "Oklo", 99902095, TRUE,
+  "Oklo Fuel Cycle Pre-Application", "Oklo", 99902101, TRUE,
   "Aurora Part 52", "Oklo", 05200049, TRUE
 )
