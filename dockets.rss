@@ -5,205 +5,121 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Sat, 14 Jan 2023 02:24:38 GMT</pubDate>
-		<lastBuildDate>Sat, 14 Jan 2023 02:24:38 GMT</lastBuildDate>
+		<pubDate>Sat, 14 Jan 2023 03:57:38 GMT</pubDate>
+		<lastBuildDate>Sat, 14 Jan 2023 03:57:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman[at]gmail.com</managingEditor>
 		<webMaster>mrdenman[at]gmail.com</webMaster>
 		<item>
-			<title>X Energy, LLC (X-energy), Proprietary Review of Draft Safety Evaluation for Xe-100 Topical Report "TRISO-X Pebble Fuel Qualification Methodology"</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B729B2FBB-19E8-4720-8434-D5B3F2325EDC%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=X Energy, LLC (X-energy), Proprietary Review of Draft Safety Evaluation for Xe-100 Topical Report "TRISO-X Pebble Fuel Qualification Methodology"</link>
+			<title>TRISO-X, LLC, Fuel Fabrication Facility Online Reference Portal Information Access Agreement (Fully Executed)</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7BD4B893A6-9CB8-44CB-8D48-D19FCBD6F014%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=TRISO-X, LLC, Fuel Fabrication Facility Online Reference Portal Information Access Agreement (Fully Executed)</link>
+			<description>Agreement States, Letter</description>
+			<author>Triso-X, LLC</author>
+			<pubDate>2023-01-12</pubDate>
+		</item>
+		<item>
+			<title>TerraPower, LLC, Event Selection and Evaluation Process Presentation Material</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B3DCED3B0-EFA4-441E-8446-61D6A40E3982%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=TerraPower, LLC, Event Selection and Evaluation Process Presentation Material</link>
+			<description>Legal-Affidavit, Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2023-01-04</pubDate>
+		</item>
+		<item>
+			<title>12/06/2022 Meeting Summary with SMR, LLC, a Holtec International Company, Regarding SMR-160 Quality Assurance Program</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B3357B0BB-8855-4C2F-8A2C-34496B9E9DBA%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=12/06/2022 Meeting Summary with SMR, LLC, a Holtec International Company, Regarding SMR-160 Quality Assurance Program</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2022-12-27</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1 - 12/06/2022 Meeting Agenda regarding SMR-160 Quality Assurance Program</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B6E638D03-ACF4-4994-A1D6-2592E7B4ECE5%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Enclosure 1 - 12/06/2022 Meeting Agenda regarding SMR-160 Quality Assurance Program</link>
+			<description>Meeting Agenda</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2022-12-27</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2 - 12/06/2022 Meeting Attendees regarding SMR-160 Quality Assurance Program</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B45910994-0FCE-4A51-A377-2D581601FD01%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Enclosure 2 - 12/06/2022 Meeting Attendees regarding SMR-160 Quality Assurance Program</link>
+			<description>Meeting Summary</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2022-12-27</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 3 - 12/06/2022 Meeting Summary regarding SMR-160 Quality Assurance Program</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B15E5E24B-1F2B-4B7C-8066-76C9F43F4B85%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Enclosure 3 - 12/06/2022 Meeting Summary regarding SMR-160 Quality Assurance Program</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2022-12-27</pubDate>
+		</item>
+		<item>
+			<title>Kairos Power LLC Presentation Material for January 12, 2023 Meeting With Advisory Committee on Reactor Safeguards, Kairos Power Subcommittee on Metallic Materials Qualification Topical Report (KP-TR-013, Revision 4)</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B8E0C5290-AB3D-481F-AB4D-03DB508713CE%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Kairos Power LLC Presentation Material for January 12, 2023 Meeting With Advisory Committee on Reactor Safeguards, Kairos Power Subcommittee on Metallic Materials Qualification Topical Report (KP-TR-013, Revision 4)</link>
 			<description>Legal-Affidavit, Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2022-11-30</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Submittal, "NuScale Comprehensive Vibration Assessment Program Analysis Technical Report," TR-121353, Revision 0</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7BC9624E62-7031-42A5-AD1B-428785FD6090%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=NuScale Power, LLC Submittal, "NuScale Comprehensive Vibration Assessment Program Analysis Technical Report," TR-121353, Revision 0</link>
-			<description>Legal-Affidavit, Letter, Report, Technical</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2022-12-31</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of the Technical Report, "US460 NuScale Power Module Seismic Analysis," TR-121515, Revision 0</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B6A570C0A-B99D-4B2F-A230-F008F0790B82%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=NuScale Power, LLC, Submittal of the Technical Report, "US460 NuScale Power Module Seismic Analysis," TR-121515, Revision 0</link>
-			<description>Letter, Report, Technical</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2022-12-31</pubDate>
-		</item>
-		<item>
-			<title>SHINE Technologies LLC - Regulatory Audit Report for Chapter 8 - Irradiation Facility and Radioisotope Production Facility Electrical Power Systems</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B63C2BF3E-FF7F-44BE-A957-23240180EC81%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=SHINE Technologies LLC - Regulatory Audit Report for Chapter 8 - Irradiation Facility and Radioisotope Production Facility Electrical Power Systems</link>
-			<description>Audit Report, Letter</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2023-01-09</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of the Technical Report, "NuScale Power Module Short-Term Transient Analysis," TR-121517, Revision 0</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B1B255F60-1B1F-42D6-9E18-75DA7DDD85C4%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=NuScale Power, LLC, Submittal of the Technical Report, "NuScale Power Module Short-Term Transient Analysis," TR-121517, Revision 0</link>
-			<description>Legal-Affidavit, Letter, Report, Technical</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2022-12-31</pubDate>
-		</item>
-		<item>
-			<title>X Energy, LLC (X-energy) Responses to "NRC Staff's Preliminary Questions on the NRC Assessment of the X Energy, LLC Xe-100 Principal Design Criteria Licensing Topical Report"</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B59149173-D6AE-420E-AE9B-8FFD7867D009%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=X Energy, LLC (X-energy) Responses to "NRC Staff's Preliminary Questions on the NRC Assessment of the X Energy, LLC Xe-100 Principal Design Criteria Licensing Topical Report"</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2022-12-30</pubDate>
-		</item>
-		<item>
-			<title>Submittal of X Energy, LLC (X-energy), Xe-100 Licensing Topical Report: Xe-100 Training Program Methodology</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7BD38452EF-1D2E-48E8-BB18-F7167DA6B9E0%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Submittal of X Energy, LLC (X-energy), Xe-100 Licensing Topical Report: Xe-100 Training Program Methodology</link>
-			<description>Letter, Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2022-12-29</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Submittal of Topical Report "Non-Loss-of-Coolant Accident Analysis Methodology," TR-0516-49416, Revision 4</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7BE37B7B02-D167-435C-A02B-146E53FD96F7%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=NuScale Power, LLC Submittal of Topical Report "Non-Loss-of-Coolant Accident Analysis Methodology," TR-0516-49416, Revision 4</link>
-			<description>Legal-Affidavit, Letter, Topical Report</description>
-			<author>NuScale Power, LLC</author>
+			<author>Kairos Power, LLC</author>
 			<pubDate>2023-01-05</pubDate>
 		</item>
 		<item>
-			<title>01/25/2023 Scoping Meeting for an Environmental Impact Statement for the Proposed TRISO-X Fuel Fabrication Facility in Oak Ridge, Tennessee</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B8FF4B9A4-DCCE-4058-AB5E-45B9678FD3D2%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=01/25/2023 Scoping Meeting for an Environmental Impact Statement for the Proposed TRISO-X Fuel Fabrication Facility in Oak Ridge, Tennessee</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2023-01-10</pubDate>
+			<title>Enclosure 2 - Presentation Materials for the January 12, 2023, ACRS Kairos Power Subcommittee Meeting (Non-Proprietary)</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B10F95C6B-CF87-411A-AF08-5AC9E47844C0%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Enclosure 2 - Presentation Materials for the January 12, 2023, ACRS Kairos Power Subcommittee Meeting (Non-Proprietary)</link>
+			<description>Slides and Viewgraphs</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2023-01-12</pubDate>
 		</item>
 		<item>
-			<title>NuScale Power, LLC, Submittal of Topical Report "Loss-of-Coolant Accident Evaluation Model," TR-0516-49422, Revision 3</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7BB8C82615-03EF-4CB8-A564-540374641C60%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=NuScale Power, LLC, Submittal of Topical Report "Loss-of-Coolant Accident Evaluation Model," TR-0516-49422, Revision 3</link>
-			<description>Legal-Affidavit, Letter, Topical Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2023-01-08</pubDate>
-		</item>
-		<item>
-			<title>Withdrawal of X Energy, LLC (X-energy) Xe-100 Topical Report: Graphite Qualification Methodology</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B3EFACCE4-C9A9-4223-AFD1-81A2BC51DCDF%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Withdrawal of X Energy, LLC (X-energy) Xe-100 Topical Report: Graphite Qualification Methodology</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2023-01-03</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Online Reference Portal Information Access Agreement (Project No. 99902049)</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B1844FEB1-B4C9-4F24-A56D-5E838B259B04%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=SMR, LLC, Online Reference Portal Information Access Agreement (Project No. 99902049)</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DNRL/NRLB, SMR, LLC</author>
-			<pubDate>2022-12-23</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Submittal of Online Reference Portal Information Access Agreement (Project No. 99902049)</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B2119CEBA-EAC4-42AF-8ECD-BD6C10FE4CE3%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=SMR, LLC, Submittal of Online Reference Portal Information Access Agreement (Project No. 99902049)</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
-			<pubDate>2023-01-03</pubDate>
-		</item>
-		<item>
-			<title>HI-2220511 Rev. 3, SMR-160 Regulatory Engagement Plan</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B250852D4-140A-413E-B60A-2BDD9E3C890D%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=HI-2220511 Rev. 3, SMR-160 Regulatory Engagement Plan</link>
-			<description>Report, Technical</description>
-			<author>SMR, LLC</author>
-			<pubDate>2023-01-03</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC Regulatory Engagement Plan, Revision 3 (Project No. 99902049)</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7BB811F559-0DD9-4275-B4E0-E044CAB982A0%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=SMR, LLC Regulatory Engagement Plan, Revision 3 (Project No. 99902049)</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
-			<pubDate>2023-01-03</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Submittal of Supplemental Information in Support of NRC Review of Topical Report Entitled, "Statistical Subchannel Analysis Methodology, Supplement 1 to TR-0915-17564-P-A, Revision 2," TR-108601, Revision 2</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7BFF765FB0-413F-4E4D-B04C-929F2F3E2822%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=NuScale Power, LLC Submittal of Supplemental Information in Support of NRC Review of Topical Report Entitled, "Statistical Subchannel Analysis Methodology, Supplement 1 to TR-0915-17564-P-A, Revision 2," TR-108601, Revision 2</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2023-01-06</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Submittal of Supplemental Information in Support of NuScale Topical Reports</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B96DE4947-6405-47A5-A53B-849B93376097%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=NuScale Power, LLC Submittal of Supplemental Information in Support of NuScale Topical Reports</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2023-01-06</pubDate>
-		</item>
-		<item>
-			<title>Redacted Draft Safety Evaluation of Graphite Material Qualification for the Kairos Power Fluoride Salt-Cooled High-Temperature Reactor (KP-TR-014)</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B7B9C6C2F-D05F-4B89-8F41-8F7D1F664AA7%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Redacted Draft Safety Evaluation of Graphite Material Qualification for the Kairos Power Fluoride Salt-Cooled High-Temperature Reactor (KP-TR-014)</link>
-			<description>Draft Safety Evaluation Report (DSER)</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2011-01-11</pubDate>
-		</item>
-		<item>
-			<title>Redacted Draft Safety Evaluation of Graphite Material Qualification for the Kairos Power Fluoride Salt-Cooled High-Temperature Reactor (KP-TR-014)</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B7B9C6C2F-D05F-4B89-8F41-8F7D1F664AA7%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Redacted Draft Safety Evaluation of Graphite Material Qualification for the Kairos Power Fluoride Salt-Cooled High-Temperature Reactor (KP-TR-014)</link>
-			<description>Draft Safety Evaluation Report (DSER)</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2011-01-11</pubDate>
-		</item>
-		<item>
-			<title>Redacted Draft Safety Evaluation of Metallic Material Qualification for the Kairos Power Fluoride Salt-Cooled High-Temperature Reactor (KP-TR-013)</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7BA6D4FF35-F2D4-43E7-B21E-EE0C08F5F85C%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Redacted Draft Safety Evaluation of Metallic Material Qualification for the Kairos Power Fluoride Salt-Cooled High-Temperature Reactor (KP-TR-013)</link>
-			<description>Draft Safety Evaluation Report (DSER)</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2011-01-11</pubDate>
-		</item>
-		<item>
-			<title>Redacted Draft Safety Evaluation of Metallic Material Qualification for the Kairos Power Fluoride Salt-Cooled High-Temperature Reactor (KP-TR-013)</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7BA6D4FF35-F2D4-43E7-B21E-EE0C08F5F85C%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Redacted Draft Safety Evaluation of Metallic Material Qualification for the Kairos Power Fluoride Salt-Cooled High-Temperature Reactor (KP-TR-013)</link>
-			<description>Draft Safety Evaluation Report (DSER)</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2011-01-11</pubDate>
-		</item>
-		<item>
-			<title>03/22/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding alternatives for ASME BPVC Section III, Class 1, 2, and 3 Valves to support the Construction Permit for the Holtec SMR-160 design</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B53EDE35B-30B9-4EFA-9B96-3B6A021126B5%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=03/22/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding alternatives for ASME BPVC Section III, Class 1, 2, and 3 Valves to support the Construction Permit for the Holtec SMR-160 design</link>
+			<title>01/26/2023 Pre-Application Meeting with TerraPower to discuss the Seismic Analysis and Seismic Classification Approach on the Natrium Design.</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7BE4D60AE1-4248-4D28-9A4F-948CFE626F35%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=01/26/2023 Pre-Application Meeting with TerraPower to discuss the Seismic Analysis and Seismic Classification Approach on the Natrium Design.</link>
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-01-12</pubDate>
 		</item>
 		<item>
-			<title>04/05/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding a potential Loss-of-Coolant Accident Analyses exemption to support the Construction Permit for the Holtec SMR-160 design</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7BAB8C5E3D-9520-415E-A4D3-C145804C3D79%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=04/05/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding a potential Loss-of-Coolant Accident Analyses exemption to support the Construction Permit for the Holtec SMR-160 design</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-01-12</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Submittal, "NuScale Comprehensive Vibration Assessment Program Measurement and Inspection Plan Technical Report," TR-121354, Revision 0</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B63D6AE0F-CC51-44A8-9974-75936F4B9FB1%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=NuScale Power, LLC Submittal, "NuScale Comprehensive Vibration Assessment Program Measurement and Inspection Plan Technical Report," TR-121354, Revision 0</link>
+			<title>Ltr. to John Johnson, Governor, Absentee Shawnee Tribe, Re., Section 106 Consultation for the TRISO-X SNM License for a FFF</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7BE0D85897-2FFE-46D3-B7D9-3D7B957D45EF%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Ltr. to John Johnson, Governor, Absentee Shawnee Tribe, Re., Section 106 Consultation for the TRISO-X SNM License for a FFF</link>
 			<description>Letter</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2022-12-31</pubDate>
+			<author>NRC/NMSS/DREFS</author>
+			<pubDate>2023-01-05</pubDate>
 		</item>
 		<item>
-			<title>Ltr. to Ron Sparkman, Chief, Shawnee Tribe of Oklahoma, Re., Section 106 Consultation for the TRISO-X SNM License for a FFF</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B06D8431F-8A7E-45C5-8871-634038E69D03%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Ltr. to Ron Sparkman, Chief, Shawnee Tribe of Oklahoma, Re., Section 106 Consultation for the TRISO-X SNM License for a FFF</link>
+			<title>Ltr. to Nita Battise, Chairwoman, Alabama-Coushatta Tribe of Texas, Re., Section 106 Consultation for the TRISO-X SNM License for a FFF</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B259E625F-D0FC-49A8-9190-906F9FC00252%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Ltr. to Nita Battise, Chairwoman, Alabama-Coushatta Tribe of Texas, Re., Section 106 Consultation for the TRISO-X SNM License for a FFF</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DREFS/ERMB</author>
+			<pubDate>2023-01-05</pubDate>
+		</item>
+		<item>
+			<title>Ltr. to Chuck Hoskin, Jr., Principal Chief, Cherokee Nation of Oklahoma, Re., Section 106 Consultation for the TRISO-X SNM License for a FFF</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7BE5EFD7E7-8CF8-4FEB-A983-32C152980702%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Ltr. to Chuck Hoskin, Jr., Principal Chief, Cherokee Nation of Oklahoma, Re., Section 106 Consultation for the TRISO-X SNM License for a FFF</link>
 			<description>Letter, Map</description>
 			<author>NRC/NMSS/DREFS/ERMB</author>
 			<pubDate>2023-01-05</pubDate>
 		</item>
 		<item>
-			<title>Ltr. to Marcellus W. Osceola, Jr., Chairman, Seminole Tribe of Florida, Re., Section 106 Consultation for the TRISO-X SNM License for a FFF</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B54B5C5DB-ACFE-43F5-AA57-4219DD73CA51%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Ltr. to Marcellus W. Osceola, Jr., Chairman, Seminole Tribe of Florida, Re., Section 106 Consultation for the TRISO-X SNM License for a FFF</link>
+			<title>Ltr. to Joe Bunch, Chief, United Keetoowah Band of Cherokee Indians, Re., Section 106 Consultation for the TRISO-X SNM  License for a FFF</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7BEADA37A0-6B32-41CE-8AD2-032B5D9848AC%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Ltr. to Joe Bunch, Chief, United Keetoowah Band of Cherokee Indians, Re., Section 106 Consultation for the TRISO-X SNM  License for a FFF</link>
 			<description>Letter</description>
 			<author>NRC/NMSS/DREFS/ERMB</author>
 			<pubDate>2023-01-05</pubDate>
 		</item>
 		<item>
-			<title>Ltr. to David Hill, Principal Chief, Muscogee (Creek) Nation of Oklahoma, Re., Section 106 Consultation for the TRISO-X SNM License for a FFF</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7BDE8BB5CC-DFA1-46D2-899F-7DEE9887EC91%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Ltr. to David Hill, Principal Chief, Muscogee (Creek) Nation of Oklahoma, Re., Section 106 Consultation for the TRISO-X SNM License for a FFF</link>
+			<title>Ltr. to Wilson Yargee, Chief, Alabama-Quassarte Tribal Town, Re., Section 106 Consultation for the TRISO-X SNM License for a FFF</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B7348E7B3-7D2A-4E8F-A56A-72A082573674%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Ltr. to Wilson Yargee, Chief, Alabama-Quassarte Tribal Town, Re., Section 106 Consultation for the TRISO-X SNM License for a FFF</link>
 			<description>Letter</description>
 			<author>NRC/NMSS/DREFS/ERMB</author>
 			<pubDate>2023-01-05</pubDate>
 		</item>
 		<item>
-			<title>Ltr. to Richard Sneed, Principal Chief, Eastern Band of Cherokee Indians of NC, Re., Section 106 Consultation for the TRISO-X SNM for a FFF</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B63D39A04-0E6E-4541-B923-8530AEE97C95%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Ltr. to Richard Sneed, Principal Chief, Eastern Band of Cherokee Indians of NC, Re., Section 106 Consultation for the TRISO-X SNM for a FFF</link>
-			<description>Letter, Map</description>
+			<title>Ltr. to Glenna Wallace, Chief, Eastern Shawnee Tribe of Oklahoma, Re., Section 106 Consultation for the TRISO-X SNM License for a FFF</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B398949AD-DAEB-49BC-830D-F3709AD3C285%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Ltr. to Glenna Wallace, Chief, Eastern Shawnee Tribe of Oklahoma, Re., Section 106 Consultation for the TRISO-X SNM License for a FFF</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DREFS/ERMB</author>
+			<pubDate>2023-01-05</pubDate>
+		</item>
+		<item>
+			<title>Ltr. to B. Cheryl Smith, Principal Chief, Jena Band of the Choctaw Indians, Re., Section 106 Consultation for the TRISO-X SNM for a FFF</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B782FA88E-E2A8-40F1-8C85-E7B46934D070%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Ltr. to B. Cheryl Smith, Principal Chief, Jena Band of the Choctaw Indians, Re., Section 106 Consultation for the TRISO-X SNM for a FFF</link>
+			<description>Letter</description>
 			<author>NRC/NMSS/DREFS/ERMB</author>
 			<pubDate>2023-01-05</pubDate>
 		</item>
@@ -215,11 +131,95 @@
 			<pubDate>2023-01-05</pubDate>
 		</item>
 		<item>
-			<title>Ltr. to B. Cheryl Smith, Principal Chief, Jena Band of the Choctaw Indians, Re., Section 106 Consultation for the TRISO-X SNM for a FFF</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B782FA88E-E2A8-40F1-8C85-E7B46934D070%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Ltr. to B. Cheryl Smith, Principal Chief, Jena Band of the Choctaw Indians, Re., Section 106 Consultation for the TRISO-X SNM for a FFF</link>
+			<title>Ltr. to Richard Sneed, Principal Chief, Eastern Band of Cherokee Indians of NC, Re., Section 106 Consultation for the TRISO-X SNM for a FFF</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B63D39A04-0E6E-4541-B923-8530AEE97C95%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Ltr. to Richard Sneed, Principal Chief, Eastern Band of Cherokee Indians of NC, Re., Section 106 Consultation for the TRISO-X SNM for a FFF</link>
+			<description>Letter, Map</description>
+			<author>NRC/NMSS/DREFS/ERMB</author>
+			<pubDate>2023-01-05</pubDate>
+		</item>
+		<item>
+			<title>Ltr. to David Hill, Principal Chief, Muscogee (Creek) Nation of Oklahoma, Re., Section 106 Consultation for the TRISO-X SNM License for a FFF</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7BDE8BB5CC-DFA1-46D2-899F-7DEE9887EC91%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Ltr. to David Hill, Principal Chief, Muscogee (Creek) Nation of Oklahoma, Re., Section 106 Consultation for the TRISO-X SNM License for a FFF</link>
 			<description>Letter</description>
 			<author>NRC/NMSS/DREFS/ERMB</author>
 			<pubDate>2023-01-05</pubDate>
 		</item>
-	 </channel>
+		<item>
+			<title>Ltr. to Marcellus W. Osceola, Jr., Chairman, Seminole Tribe of Florida, Re., Section 106 Consultation for the TRISO-X SNM License for a FFF</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B54B5C5DB-ACFE-43F5-AA57-4219DD73CA51%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Ltr. to Marcellus W. Osceola, Jr., Chairman, Seminole Tribe of Florida, Re., Section 106 Consultation for the TRISO-X SNM License for a FFF</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DREFS/ERMB</author>
+			<pubDate>2023-01-05</pubDate>
+		</item>
+		<item>
+			<title>Ltr. to Ron Sparkman, Chief, Shawnee Tribe of Oklahoma, Re., Section 106 Consultation for the TRISO-X SNM License for a FFF</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B06D8431F-8A7E-45C5-8871-634038E69D03%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Ltr. to Ron Sparkman, Chief, Shawnee Tribe of Oklahoma, Re., Section 106 Consultation for the TRISO-X SNM License for a FFF</link>
+			<description>Letter, Map</description>
+			<author>NRC/NMSS/DREFS/ERMB</author>
+			<pubDate>2023-01-05</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC Submittal, "NuScale Comprehensive Vibration Assessment Program Measurement and Inspection Plan Technical Report," TR-121354, Revision 0</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B63D6AE0F-CC51-44A8-9974-75936F4B9FB1%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=NuScale Power, LLC Submittal, "NuScale Comprehensive Vibration Assessment Program Measurement and Inspection Plan Technical Report," TR-121354, Revision 0</link>
+			<description>Letter</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2022-12-31</pubDate>
+		</item>
+		<item>
+			<title>04/05/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding a potential Loss-of-Coolant Accident Analyses exemption to support the Construction Permit for the Holtec SMR-160 design</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7BAB8C5E3D-9520-415E-A4D3-C145804C3D79%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=04/05/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding a potential Loss-of-Coolant Accident Analyses exemption to support the Construction Permit for the Holtec SMR-160 design</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-01-12</pubDate>
+		</item>
+		<item>
+			<title>03/22/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding alternatives for ASME BPVC Section III, Class 1, 2, and 3 Valves to support the Construction Permit for the Holtec SMR-160 design</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B53EDE35B-30B9-4EFA-9B96-3B6A021126B5%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=03/22/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding alternatives for ASME BPVC Section III, Class 1, 2, and 3 Valves to support the Construction Permit for the Holtec SMR-160 design</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-01-12</pubDate>
+		</item>
+		<item>
+			<title>Redacted Draft Safety Evaluation of Metallic Material Qualification for the Kairos Power Fluoride Salt-Cooled High-Temperature Reactor (KP-TR-013)</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7BA6D4FF35-F2D4-43E7-B21E-EE0C08F5F85C%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Redacted Draft Safety Evaluation of Metallic Material Qualification for the Kairos Power Fluoride Salt-Cooled High-Temperature Reactor (KP-TR-013)</link>
+			<description>Draft Safety Evaluation Report (DSER)</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2011-01-11</pubDate>
+		</item>
+		<item>
+			<title>Redacted Draft Safety Evaluation of Metallic Material Qualification for the Kairos Power Fluoride Salt-Cooled High-Temperature Reactor (KP-TR-013)</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7BA6D4FF35-F2D4-43E7-B21E-EE0C08F5F85C%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Redacted Draft Safety Evaluation of Metallic Material Qualification for the Kairos Power Fluoride Salt-Cooled High-Temperature Reactor (KP-TR-013)</link>
+			<description>Draft Safety Evaluation Report (DSER)</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2011-01-11</pubDate>
+		</item>
+		<item>
+			<title>Redacted Draft Safety Evaluation of Graphite Material Qualification for the Kairos Power Fluoride Salt-Cooled High-Temperature Reactor (KP-TR-014)</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B7B9C6C2F-D05F-4B89-8F41-8F7D1F664AA7%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Redacted Draft Safety Evaluation of Graphite Material Qualification for the Kairos Power Fluoride Salt-Cooled High-Temperature Reactor (KP-TR-014)</link>
+			<description>Draft Safety Evaluation Report (DSER)</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2011-01-11</pubDate>
+		</item>
+		<item>
+			<title>Redacted Draft Safety Evaluation of Graphite Material Qualification for the Kairos Power Fluoride Salt-Cooled High-Temperature Reactor (KP-TR-014)</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B7B9C6C2F-D05F-4B89-8F41-8F7D1F664AA7%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Redacted Draft Safety Evaluation of Graphite Material Qualification for the Kairos Power Fluoride Salt-Cooled High-Temperature Reactor (KP-TR-014)</link>
+			<description>Draft Safety Evaluation Report (DSER)</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2011-01-11</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC Submittal of Supplemental Information in Support of NuScale Topical Reports</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B96DE4947-6405-47A5-A53B-849B93376097%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=NuScale Power, LLC Submittal of Supplemental Information in Support of NuScale Topical Reports</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2023-01-06</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC Submittal of Supplemental Information in Support of NRC Review of Topical Report Entitled, "Statistical Subchannel Analysis Methodology, Supplement 1 to TR-0915-17564-P-A, Revision 2," TR-108601, Revision 2</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7BFF765FB0-413F-4E4D-B04C-929F2F3E2822%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=NuScale Power, LLC Submittal of Supplemental Information in Support of NRC Review of Topical Report Entitled, "Statistical Subchannel Analysis Methodology, Supplement 1 to TR-0915-17564-P-A, Revision 2," TR-108601, Revision 2</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2023-01-06</pubDate>
+		</item>
+	</channel>
 </rss>

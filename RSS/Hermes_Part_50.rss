@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Hermes Part 50</title>
+		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
+		<description>NRC ADAMS Docket Update</description>
+		<language>en-us</language>
+		<pubDate>Sat, 14 Jan 2023 03:57:38 GMT</pubDate>
+		<lastBuildDate>Sat, 14 Jan 2023 03:57:38 GMT</lastBuildDate>
+		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
+		<generator>Function write_rss() in R package nrcadams</generator>
+		<managingEditor>mrdenman[at]gmail.com</managingEditor>
+		<webMaster>mrdenman[at]gmail.com</webMaster>
+		<item>
+			<title>Redacted Draft Safety Evaluation of Metallic Material Qualification for the Kairos Power Fluoride Salt-Cooled High-Temperature Reactor (KP-TR-013)</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7BA6D4FF35-F2D4-43E7-B21E-EE0C08F5F85C%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Redacted Draft Safety Evaluation of Metallic Material Qualification for the Kairos Power Fluoride Salt-Cooled High-Temperature Reactor (KP-TR-013)</link>
+			<description>Draft Safety Evaluation Report (DSER)</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2011-01-11</pubDate>
+		</item>
+		<item>
+			<title>Redacted Draft Safety Evaluation of Graphite Material Qualification for the Kairos Power Fluoride Salt-Cooled High-Temperature Reactor (KP-TR-014)</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B7B9C6C2F-D05F-4B89-8F41-8F7D1F664AA7%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Redacted Draft Safety Evaluation of Graphite Material Qualification for the Kairos Power Fluoride Salt-Cooled High-Temperature Reactor (KP-TR-014)</link>
+			<description>Draft Safety Evaluation Report (DSER)</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2011-01-11</pubDate>
+		</item>
+	</channel>
+</rss>

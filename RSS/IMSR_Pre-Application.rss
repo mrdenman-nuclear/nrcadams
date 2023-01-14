@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>IMSR Pre-Application</title>
+		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
+		<description>NRC ADAMS Docket Update</description>
+		<language>en-us</language>
+		<pubDate>Sat, 14 Jan 2023 03:57:38 GMT</pubDate>
+		<lastBuildDate>Sat, 14 Jan 2023 03:57:38 GMT</lastBuildDate>
+		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
+		<generator>Function write_rss() in R package nrcadams</generator>
+		<managingEditor>mrdenman[at]gmail.com</managingEditor>
+		<webMaster>mrdenman[at]gmail.com</webMaster>
+</channel>
+</rss>
