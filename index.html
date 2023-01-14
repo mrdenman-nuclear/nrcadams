@@ -36,14 +36,17 @@
     <div id="navbar" class="collapse navbar-collapse ms-3">
       <ul class="navbar-nav me-auto">
 <li class="nav-item">
+  <a class="nav-link" href="articles/nrcadams.html">Get started</a>
+</li>
+<li class="nav-item">
   <a class="nav-link" href="reference/index.html">Reference</a>
 </li>
 <li class="nav-item dropdown">
   <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-expanded="false" aria-haspopup="true" id="dropdown-articles">Articles</a>
   <div class="dropdown-menu" aria-labelledby="dropdown-articles">
     <a class="dropdown-item" href="articles/Analytics.html">Docket Analytics and Reports</a>
+    <a class="dropdown-item" href="articles/RSS.html">RSS Files</a>
     <a class="dropdown-item" href="articles/Real_Time.html">Last Week in Dockets</a>
-    <a class="dropdown-item" href="articles/docket_search.html">Docket Search</a>
   </div>
 </li>
       </ul>
@@ -51,7 +54,14 @@
         <input type="search" class="form-control me-sm-2" aria-label="Toggle navigation" name="search-input" data-search-index="search.json" id="search-input" placeholder="Search for" autocomplete="off">
 </form>
 
-      <ul class="navbar-nav"></ul>
+      <ul class="navbar-nav">
+<li class="nav-item">
+  <a class="external-link nav-link" href="https://github.com/mrdenman-nuclear/nrcadams/" aria-label="github">
+    <span class="fab fa fab fa-github fa-lg"></span>
+     
+  </a>
+</li>
+      </ul>
 </div>
 
     
@@ -62,7 +72,7 @@
 <div class="page-header"><h1 id="the-nrcadams-r-package">The <code>nrcadams</code> R package<a class="anchor" aria-label="anchor" href="#the-nrcadams-r-package"></a>
 </h1></div>
 <p>A R package used to pull data from NRC’s ADAMS document repository.</p>
-<p>Do you ever want to keep track of the most recent back and forth between applicants and the NRC but you find NRC web based ADAMS searches cumbersome? If so, this package might be for you!</p>
+<p>Do you ever want to keep track of the most recent back and forth between applicants and the NRC but you find <a href="https://adams.nrc.gov/wba/" class="external-link">NRC web based ADAMS searches</a> cumbersome? If so, this package might be for you!</p>
 </div>
 <div class="section level1">
 <h1 id="how-to-install-nrcadams">How to install <code>nrcadams</code>
@@ -92,14 +102,6 @@
 <ul class="list-unstyled">
 <li><a href="LICENSE.html">Full license</a></li>
 <li><small><a href="https://opensource.org/licenses/mit-license.php" class="external-link">MIT</a> + file <a href="LICENSE-text.html">LICENSE</a></small></li>
-</ul>
-</div>
-
-
-<div class="citation">
-<h2 data-toc-skip>Citation</h2>
-<ul class="list-unstyled">
-<li><a href="authors.html#citation">Citing nrcadams</a></li>
 </ul>
 </div>
 
