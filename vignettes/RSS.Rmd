@@ -14,7 +14,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-This page is updated once a day and presents the last week of posted ADAMS documents. The last update was at `r Sys.time() |> lubridate::ymd_hms(tz = "EDT")`.
+This page is updated once a day and presents the last week of posted ADAMS documents. The last update was at `r Sys.time() |> lubridate::ymd_hms() |> lubridate::with_tz("America/New_York")`.
 
 # Making RSS files
 
