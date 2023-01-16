@@ -121,6 +121,8 @@ the plot to better focus on the remaining projects.
 
 
 ```{r}
+plot_min_date = "2018-01-01" |> lubridate::ymd()
+
 grouped_dockets = combined_dockets |>
   dplyr::group_by(Project) |>
   dplyr::arrange(`Publish Date`) |>
@@ -129,7 +131,7 @@ grouped_dockets = combined_dockets |>
     count = 1,
     `Document Count` = cumsum(count)
     ) |>
-  dplyr::filter(`Document Date` > lubridate::ymd("2018-01-01"))
+  dplyr::filter(`Document Date` > plot_min_date)
 
 plt = grouped_dockets |>
   ggplot() +
@@ -147,7 +149,7 @@ plt = grouped_dockets |>
     ) 
   scale_x_date(
     breaks= seq(
-      min(lubridate::ymd("2018-01-01")), 
+      min(plot_min_date), 
       max(grouped_dockets$`Publish Date` |> lubridate::as_date()) , 
       by = "year")
     )
@@ -163,56 +165,124 @@ plt = plt + scale_y_log10()
 plt |> plotly::ggplotly()
 ```
 
-### Monthly Rates
+### Smoothed Interaction Rates
 
-The monthly document rate provides a metric to gauge the level of interactions
-between a project and the NRC at a given point in time that is memory-less
-(i.e., not impacted by prior interactions). 
-Due to the large number of plots, **it is suggested that you use the interactive 
-plot filter function.** 
+The daily document rate provides a metric to gauge the level of interactions
+between a project and the NRC at a given point in time. 
+Unlikely the cumulative plots, this metric is memory-less and thus is not 
+impacted by prior interactions.
+Due to the large number of plots, **it is suggested that you use the interactive
+plot filter function.**
 By clicking on a project name in the legend, you can remove that project from
 the plot to better focus on the remaining projects.
 
-```{r, fig.height = 7}
-grouped_dockets = combined_dockets |>
+```{r}
+smoothed_grouped_dockets = combined_dockets |>
   dplyr::arrange(`Publish Date`) |>
+  dplyr::filter(`Publish Date` > plot_min_date) |>
   dplyr::mutate(
     Project = factor(Project, levels = docket_count |> dplyr::pull(Project)),
     count = 1,
-    `Month Published` = paste(
+    `Day Published` = paste(
       `Publish Date` |> lubridate::year(), 
       `Publish Date` |> lubridate::month(), 
+      `Publish Date` |> lubridate::day(),
       sep = '/'
-      ) |> lubridate::ym()
+      ) |> lubridate::ymd()
     ) |>
-  tidyr::complete(Project, `Month Published` = seq(min(`Month Published`), max(`Month Published`), by = "month")) |>
-  dplyr::group_by(`Month Published`, Project) |>
-  dplyr::summarise(`Monthly Document Count` = sum(count)) |>
-  dplyr::mutate(`Monthly Document Count` = tidyr::replace_na(`Monthly Document Count`, 0.1)) |>
-  dplyr::ungroup() |>
-  dplyr::filter(`Month Published` > lubridate::ymd("2018-01-01")) 
-
-
-plt = grouped_dockets |>
+  dplyr::group_by(`Day Published`, Project) |>
+  dplyr::summarise(`Daily Document Count` = sum(count)) |>
+  dplyr::group_by(Project) |>
+  tidyr::complete(
+    `Day Published` = seq.Date(
+      plot_min_date, 
+      Sys.Date() |> lubridate::ymd(), 
+      by = "day"
+      ),
+    fill = list(`Daily Document Count` = 0)
+    ) |>
+  dplyr::mutate(
+    `Smoothed Daily Document Rate` = zoo::rollmean(
+      `Daily Document Count`, k = 30, na.pad = TRUE, align = "center"
+      )
+    ) 
+plt = smoothed_grouped_dockets |>
   ggplot() +
-    geom_step(aes(x = `Month Published`, y = `Monthly Document Count`, color = Project)) +
+    geom_step(
+      aes(x = `Day Published`, y = `Smoothed Daily Document Rate`, color = Project)
+    ) +
     theme_bw() +
     labs(
       title = "Advanced Reactor ADAMS Documents",
       subtitle =  paste("as of", Sys.Date())
     ) +
   scale_y_continuous(
-    breaks= seq(0, max(grouped_dockets$`Monthly Document Count`), by=20)
+    breaks= seq(
+      0, 
+      max(smoothed_grouped_dockets$`Smoothed Daily Document Rate`, na.rm = TRUE), 
+      by=1
+      )
     ) +
   scale_x_date(
     breaks= seq(
-      min(lubridate::ymd("2018-01-01")), 
-      max(grouped_dockets$`Month Published`), 
+      plot_min_date, 
+      max(smoothed_grouped_dockets$`Day Published`), 
       by = "year")
     )
 
 plt |> plotly::ggplotly()
 ```
+
+<!-- ### Monthly Rates -->
+
+<!-- The monthly document rate provides a metric to gauge the level of interactions -->
+<!-- between a project and the NRC at a given point in time that is memory-less -->
+<!-- (i.e., not impacted by prior interactions).  -->
+<!-- Due to the large number of plots, **it is suggested that you use the interactive  -->
+<!-- plot filter function.**  -->
+<!-- By clicking on a project name in the legend, you can remove that project from -->
+<!-- the plot to better focus on the remaining projects. -->
+
+<!-- ```{r, fig.height = 7} -->
+<!-- grouped_dockets = combined_dockets |> -->
+<!--   dplyr::arrange(`Publish Date`) |> -->
+<!--   dplyr::mutate( -->
+<!--     Project = factor(Project, levels = docket_count |> dplyr::pull(Project)), -->
+<!--     count = 1, -->
+<!--     `Month Published` = paste( -->
+<!--       `Publish Date` |> lubridate::year(),  -->
+<!--       `Publish Date` |> lubridate::month(),  -->
+<!--       sep = '/' -->
+<!--       ) |> lubridate::ym() -->
+<!--     ) |> -->
+<!--   tidyr::complete(Project, `Month Published` = seq(min(`Month Published`), max(`Month Published`), by = "month")) |> -->
+<!--   dplyr::group_by(`Month Published`, Project) |> -->
+<!--   dplyr::summarise(`Monthly Document Count` = sum(count)) |> -->
+<!--   dplyr::mutate(`Monthly Document Count` = tidyr::replace_na(`Monthly Document Count`, 0.1)) |> -->
+<!--   dplyr::ungroup() |> -->
+<!--   dplyr::filter(`Month Published` > lubridate::ymd("2018-01-01"))  -->
+
+
+<!-- plt = grouped_dockets |> -->
+<!--   ggplot() + -->
+<!--     geom_step(aes(x = `Month Published`, y = `Monthly Document Count`, color = Project)) + -->
+<!--     theme_bw() + -->
+<!--     labs( -->
+<!--       title = "Advanced Reactor ADAMS Documents", -->
+<!--       subtitle =  paste("as of", Sys.Date()) -->
+<!--     ) + -->
+<!--   scale_y_continuous( -->
+<!--     breaks= seq(0, max(grouped_dockets$`Monthly Document Count`), by=20) -->
+<!--     ) + -->
+<!--   scale_x_date( -->
+<!--     breaks= seq( -->
+<!--       min(lubridate::ymd("2018-01-01")),  -->
+<!--       max(grouped_dockets$`Month Published`),  -->
+<!--       by = "year") -->
+<!--     ) -->
+
+<!-- plt |> plotly::ggplotly() -->
+<!-- ``` -->
 
 
 # Reports
