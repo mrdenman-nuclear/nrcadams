@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Sun, 15 Jan 2023 04:56:24 GMT</pubDate>
-		<lastBuildDate>Sun, 15 Jan 2023 04:56:24 GMT</lastBuildDate>
+		<pubDate>Mon, 16 Jan 2023 07:55:40 GMT</pubDate>
+		<lastBuildDate>Mon, 16 Jan 2023 07:55:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman[at]gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Letter, Response to Request for Additional Information (RAI)</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2022-12-30</pubDate>
-		</item>
-		<item>
-			<title>X Energy, LLC (X-energy), Proprietary Review of Draft Safety Evaluation for Xe-100 Topical Report "TRISO-X Pebble Fuel Qualification Methodology"</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B729B2FBB-19E8-4720-8434-D5B3F2325EDC%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=X Energy, LLC (X-energy), Proprietary Review of Draft Safety Evaluation for Xe-100 Topical Report "TRISO-X Pebble Fuel Qualification Methodology"</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2022-11-30</pubDate>
 		</item>
 	</channel>
 </rss>
