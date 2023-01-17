@@ -130,10 +130,10 @@ grouped_dockets = combined_dockets |>
     Project = factor(Project, levels = docket_count |> dplyr::pull(Project)),
     count = 1,
     `Document Count` = cumsum(count)
-    ) |>
-  dplyr::filter(`Document Date` > plot_min_date)
+    ) 
 
 plt = grouped_dockets |>
+  dplyr::filter(`Publish Date` > plot_min_date)
   ggplot() +
     geom_step(aes(x = `Publish Date`, y = `Document Count`, color = Project)) +
     theme_bw() +
@@ -179,7 +179,6 @@ the plot to better focus on the remaining projects.
 ```{r, fig.height = 7}
 smoothed_grouped_dockets = combined_dockets |>
   dplyr::arrange(`Publish Date`) |>
-  dplyr::filter(`Publish Date` > plot_min_date) |>
   dplyr::mutate(
     Project = factor(Project, levels = docket_count |> dplyr::pull(Project)),
     count = 1,
@@ -208,6 +207,7 @@ smoothed_grouped_dockets = combined_dockets |>
     ) 
 
 plt = smoothed_grouped_dockets |>
+  dplyr::filter(`Day Published` > plot_min_date) |>
   ggplot() +
     geom_step(
       aes(x = `Day Published`, y = `Smoothed Daily Document Rate`, color = Project)
@@ -262,6 +262,7 @@ facet_dockets =  smoothed_grouped_dockets |>
   )
 
 plt = facet_dockets |>  
+  dplyr::filter(`Day Published` > plot_min_date) |>
   ggplot() +
     geom_step(
       aes(x = `Day Published`, y = count, color = `Plot Type`)
@@ -290,6 +291,27 @@ plt = facet_dockets |>
   xlab("Daily Document Count")
 
 plt |> plotly::ggplotly()
+```
+
+## Docket Statistics
+
+With the basic docket information parsed in previous sections, basic 
+summary statistics can be computed to compare the state of various dockets 
+at a glance.
+
+```{r}
+seconds_per_year = 365 * 24 *60 *60
+
+smoothed_grouped_dockets |>
+  dplyr::group_by(Project) |>
+  dplyr::summarise(
+    `First Date` = min(`Day Published`[`Daily Document Count` > 0]),
+    `Last Date` = max(`Day Published`[`Daily Document Count` > 0]),
+    `Total` = sum(`Daily Document Count`),
+    `Years` = round(lubridate::interval(`First Date`, `Last Date`) |> lubridate::int_length() / seconds_per_year, digits = 2),
+    `Yearly Rate` = round(Total / Years, digits = 2)
+    ) |>
+  DT::datatable()
 ```
 
 <!-- ### Monthly Rates -->
