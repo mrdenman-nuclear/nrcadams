@@ -98,7 +98,7 @@ plt = docket_types |>
       title = "Advanced Reactor ADAMS Documents",
       subtitle =  paste("as of", Sys.Date())
     ) +
-    ylab("Document Count")
+    xlab("Document Count")
 
 plt |> plotly::ggplotly(tooltip = c("Type", "count"))
 ```
@@ -287,7 +287,7 @@ plt = facet_dockets |>
       by = "year")
     ) +
   facet_grid(vars(Project)) +
-  xlab("Daily Document Count")
+  ylab("Daily Document Count")
 
 plt |> plotly::ggplotly()
 ```
