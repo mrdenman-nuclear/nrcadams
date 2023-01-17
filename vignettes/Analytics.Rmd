@@ -288,7 +288,7 @@ plt = facet_dockets |>
       by = "year")
     ) +
   facet_grid(vars(Project)) +
-  xlab("Daily Document Count")
+  ylab("Daily Document Count")
 
 plt |> plotly::ggplotly()
 ```
