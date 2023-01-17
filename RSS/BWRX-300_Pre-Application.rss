@@ -5,11 +5,39 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 17 Jan 2023 18:17:45 GMT</pubDate>
-		<lastBuildDate>Tue, 17 Jan 2023 18:17:45 GMT</lastBuildDate>
+		<pubDate>Tue, 17 Jan 2023 19:13:41 GMT</pubDate>
+		<lastBuildDate>Tue, 17 Jan 2023 19:13:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman[at]gmail.com</managingEditor>
 		<webMaster>mrdenman[at]gmail.com</webMaster>
-</channel>
+		<item>
+			<title>GEH BWRX-300 Observation Public Meeting Summary on Steel-Plate Composite Structural Design White Paper</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B12DF46C0-CF38-4428-ADE9-2FC15087B294%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=GEH BWRX-300 Observation Public Meeting Summary on Steel-Plate Composite Structural Design White Paper</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-01-03</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1 - GEH BWRX-300 Public Meeting White Paper and TR Steel-Plate Composite Structural Design Summary</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7BCDAF58DA-7DF3-46BE-A1B5-81D1CA7D25B1%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Enclosure 1 - GEH BWRX-300 Public Meeting White Paper and TR Steel-Plate Composite Structural Design Summary</link>
+			<description>Meeting Agenda, Meeting Summary</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-01-03</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2 - GEH BWRX-300 Public Meeting White Paper and TR Steel-Plate Composite Structural Design Summary</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7BBED56388-EC28-4F3B-B853-0F6F6F033A59%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Enclosure 2 - GEH BWRX-300 Public Meeting White Paper and TR Steel-Plate Composite Structural Design Summary</link>
+			<description>Meeting Summary</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-01-03</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 3 - GEH BWRX-300 Public Meeting White Paper and TR Steel-Plate Composite Structural Design Summary</title>
+			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7BE3873976-7108-46F0-A2D5-2F1A1AE9C31A%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Enclosure 3 - GEH BWRX-300 Public Meeting White Paper and TR Steel-Plate Composite Structural Design Summary</link>
+			<description>Meeting Summary</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-01-03</pubDate>
+		</item>
+	</channel>
 </rss>
