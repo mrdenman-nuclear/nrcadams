@@ -129,11 +129,12 @@ grouped_dockets = combined_dockets |>
   dplyr::mutate(
     Project = factor(Project, levels = docket_count |> dplyr::pull(Project)),
     count = 1,
-    `Document Count` = cumsum(count)
+    `Document Count` = cumsum(count),
+    `Publish Date` = `Publish Date` |> lubridate::as_date()
     ) 
 
 plt = grouped_dockets |>
-  dplyr::filter(`Publish Date` > plot_min_date)
+  dplyr::filter(`Publish Date` > plot_min_date) |>
   ggplot() +
     geom_step(aes(x = `Publish Date`, y = `Document Count`, color = Project)) +
     theme_bw() +
@@ -146,12 +147,13 @@ plt = grouped_dockets |>
       0, 
       max(grouped_dockets$`Document Count`), 
       by=500)
-    ) 
-  scale_x_date(
+    ) +
+  scale_x_continuous(
     breaks= seq(
       min(plot_min_date), 
       max(grouped_dockets$`Publish Date` |> lubridate::as_date()) , 
-      by = "year")
+      by = "year"
+      )
     )
 ```
 
