@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 16 Jan 2023 23:16:24 GMT</pubDate>
-		<lastBuildDate>Mon, 16 Jan 2023 23:16:24 GMT</lastBuildDate>
+		<pubDate>Tue, 17 Jan 2023 01:42:09 GMT</pubDate>
+		<lastBuildDate>Tue, 17 Jan 2023 01:42:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman[at]gmail.com</managingEditor>
@@ -17,20 +17,6 @@
 			<description>Letter</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2023-01-03</pubDate>
-		</item>
-		<item>
-			<title>Submittal of X Energy, LLC (X-energy), Xe-100 Licensing Topical Report: Xe-100 Training Program Methodology</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7BD38452EF-1D2E-48E8-BB18-F7167DA6B9E0%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=Submittal of X Energy, LLC (X-energy), Xe-100 Licensing Topical Report: Xe-100 Training Program Methodology</link>
-			<description>Letter, Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2022-12-29</pubDate>
-		</item>
-		<item>
-			<title>X Energy, LLC (X-energy) Responses to "NRC Staff's Preliminary Questions on the NRC Assessment of the X Energy, LLC Xe-100 Principal Design Criteria Licensing Topical Report"</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B59149173-D6AE-420E-AE9B-8FFD7867D009%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=X Energy, LLC (X-energy) Responses to "NRC Staff's Preliminary Questions on the NRC Assessment of the X Energy, LLC Xe-100 Principal Design Criteria Licensing Topical Report"</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2022-12-30</pubDate>
 		</item>
 	</channel>
 </rss>

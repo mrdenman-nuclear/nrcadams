@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 16 Jan 2023 23:16:24 GMT</pubDate>
-		<lastBuildDate>Mon, 16 Jan 2023 23:16:24 GMT</lastBuildDate>
+		<pubDate>Tue, 17 Jan 2023 01:42:09 GMT</pubDate>
+		<lastBuildDate>Tue, 17 Jan 2023 01:42:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman[at]gmail.com</managingEditor>
@@ -101,13 +101,6 @@
 			<description>Letter, Map</description>
 			<author>NRC/NMSS/DREFS/ERMB</author>
 			<pubDate>2023-01-05</pubDate>
-		</item>
-		<item>
-			<title>01/25/2023 Scoping Meeting for an Environmental Impact Statement for the Proposed TRISO-X Fuel Fabrication Facility in Oak Ridge, Tennessee</title>
-			<link>https://adams.nrc.gov:443/wba/view?action=view&actionId=view&ids=[{"documentId":%7B%22dataProviderId%22%3A%22ce_bp8os_repository%22%2C%22compound%22%3Afalse%2C%22properties%22%3A%7B%22%24os%22%3A%22ADAMSPublicOS%22%2C%22ce_object_id%22%3A%22%7B8FF4B9A4-DCCE-4058-AB5E-45B9678FD3D2%7D%22%2C%22%24is_compound%22%3Afalse%7D%7D}]&mimeType=application/pdf&docTitle=01/25/2023 Scoping Meeting for an Environmental Impact Statement for the Proposed TRISO-X Fuel Fabrication Facility in Oak Ridge, Tennessee</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2023-01-10</pubDate>
 		</item>
 	</channel>
 </rss>
