@@ -98,7 +98,7 @@ plt = docket_types |>
       title = "Advanced Reactor ADAMS Documents",
       subtitle =  paste("as of", Sys.Date())
     ) +
-    xlab("Document Count")
+    ylab("Document Count")
 
 plt |> plotly::ggplotly(tooltip = c("Type", "count"))
 ```
