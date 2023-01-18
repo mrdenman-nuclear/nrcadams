@@ -21,10 +21,10 @@ write_rss(
   lastBuildDate = Sys.time(),
   docs = "https://mrdenman-nuclear.github.io/nrcadams/",
   generator = "Function write_rss() in R package nrcadams",
-  managingEditor = "mrdenman[at]gmail.com",
-  webMaster = "mrdenman[at]gmail.com",
+  managingEditor = "mrdenman@gmail.com",
+  webMaster = "mrdenman@gmail.com",
   maxitem = 30,
-  doc_url = URL,
+  doc_ML = `ML Number`,
   doc_title = Title,
   doc_author = Affiliation,
   doc_description = Type,
@@ -65,7 +65,7 @@ write_rss(
 
 \item{maxitem}{how long is the RSS feed?}
 
-\item{doc_url}{The document URL vector name.}
+\item{doc_ML}{The document ML number used to format a URL vector name.}
 
 \item{doc_title}{The document title vector name.}
 

@@ -18,7 +18,7 @@ This page is updated once a day and presents the last week of posted ADAMS docum
 
 # Making RSS files
 
-The following code shows the user how they can generate RSS files to help keep updated with their favorite ADAMS search results. Note that `write_RSS()` is an internal function and requires `:::` to be incalled instead of `::`.
+The following code shows the user how they can generate RSS files to help keep updated with their favorite ADAMS search results.
 
 ```{r}
 last_week_in_dockets = nrcadams::docket_codex |>
@@ -34,7 +34,7 @@ nrcadams::docket_codex |>
   purrr::walk(\(.x) {
     last_week_in_dockets |>
       dplyr::filter(Project == .x) |>
-      nrcadams:::write_rss(
+      nrcadams::write_rss(
         file = here::here("docs", "RSS", paste0(
           .x |> stringr::str_replace_all(" ", "_"), ".rss")
           ),

@@ -17,7 +17,7 @@
 #' @param managingEditor whose fault is this?
 #' @param webMaster who put this on the web?
 #' @param maxitem how long is the RSS feed?
-#' @param doc_url The document URL vector name.
+#' @param doc_ML The document ML number used to format a URL vector name.
 #' @param doc_title The document title vector name.
 #' @param doc_author The document author vector name.
 #' @param doc_description The document description vector name.
@@ -42,10 +42,10 @@ write_rss <- function(
     lastBuildDate = Sys.time(),
     docs = "https://mrdenman-nuclear.github.io/nrcadams/",
     generator = "Function write_rss() in R package nrcadams",
-    managingEditor = "mrdenman[at]gmail.com",
-    webMaster = "mrdenman[at]gmail.com",
+    managingEditor = "mrdenman@gmail.com",
+    webMaster = "mrdenman@gmail.com",
     maxitem = 30,
-    doc_url = URL,
+    doc_ML = `ML Number`,
     doc_title = Title,
     doc_author = Affiliation,
     doc_description = Type,
@@ -54,11 +54,11 @@ write_rss <- function(
   docket_tbl = docket_tbl |>
     dplyr::rename(
       title = {{doc_title}},
-      link = {{doc_url}},
       description = {{doc_description}},
       author = {{doc_author}},
       pubDate = {{doc_date}}
     ) |>
+    nrcadams::format_ML_link({{doc_ML}}) |>
     dplyr::select(title, link, description, author, pubDate) |>
     dplyr::filter(dplyr::row_number() <= maxitem)
 
@@ -111,4 +111,21 @@ write_rss <- function(
   cat("\n</rss>", file = file, append = TRUE)
   Sys.setlocale("LC_TIME", lcl)
   cat("RSS feed created at:", file, "\n")
+}
+
+#' Make URL from ML number
+#'
+#' @param results_tbl tibble containing search data
+#' @param ML_vector The vector name for the document ML number
+#'
+#' @return tibble with new link variable containing an ML URL
+#' @export
+format_ML_link = function(results_tbl, ML_vector = `ML Number`) {
+  results_tbl |>
+    dplyr::mutate(
+      link = stringr::str_c(
+        "https://www.nrc.gov/docs/", {{ML_vector}} |> stringr::str_sub(1, 6),
+        "/", {{ML_vector}}, ".pdf"
+      )
+    )
 }
