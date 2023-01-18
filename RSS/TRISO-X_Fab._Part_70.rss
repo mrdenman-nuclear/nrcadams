@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 18 Jan 2023 15:57:29 GMT</pubDate>
-		<lastBuildDate>Wed, 18 Jan 2023 15:57:29 GMT</lastBuildDate>
+		<pubDate>Wed, 18 Jan 2023 16:10:49 GMT</pubDate>
+		<lastBuildDate>Wed, 18 Jan 2023 16:10:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TRISO-X, LLC, Fuel Fabrication Facility Online Reference Portal Information Access Agreement (Fully Executed)</title>
+			<link>https://www.nrc.gov/docs/ML2301/ML23012A205.pdf</link>
+			<description>Agreement States, Letter</description>
+			<author>Triso-X, LLC</author>
+			<pubDate>2023-01-12</pubDate>
+		</item>
 		<item>
 			<title>Ltr. to David Sickey, Chairman, Coushatta Tribe of Louisiana, Re., Section 106 Consultation for the TRISO-X SNM License for a FFF</title>
 			<link>https://www.nrc.gov/docs/ML2300/ML23005A087.pdf</link>
@@ -115,13 +122,6 @@
 			<description>Letter, Map</description>
 			<author>NRC/NMSS/DREFS/ERMB</author>
 			<pubDate>2023-01-05</pubDate>
-		</item>
-		<item>
-			<title>TRISO-X, LLC, Fuel Fabrication Facility Online Reference Portal Information Access Agreement (Fully Executed)</title>
-			<link>https://www.nrc.gov/docs/ML2301/ML23012A205.pdf</link>
-			<description>Agreement States, Letter</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2023-01-12</pubDate>
 		</item>
 	</channel>
 </rss>
