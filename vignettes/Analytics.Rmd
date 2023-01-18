@@ -196,8 +196,8 @@ smoothed_grouped_dockets = combined_dockets |>
   dplyr::group_by(Project) |>
   tidyr::complete(
     `Day Published` = seq.Date(
-      plot_min_date, 
-      Sys.Date() |> lubridate::ymd(), 
+      min(`Day Published`), 
+      max(`Day Published`), 
       by = "day"
       ),
     fill = list(`Daily Document Count` = 0)
