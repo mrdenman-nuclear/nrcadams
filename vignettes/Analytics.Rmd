@@ -302,6 +302,7 @@ summary statistics can be computed to compare the state of various dockets
 at a glance.
 
 ```{r}
+seconds_per_year = 365 * 24 *60 *60
 smoothed_grouped_dockets |>
   dplyr::group_by(Project) |>
   dplyr::summarise(
