@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 19 Jan 2023 18:06:03 GMT</pubDate>
-		<lastBuildDate>Thu, 19 Jan 2023 18:06:03 GMT</lastBuildDate>
+		<pubDate>Thu, 19 Jan 2023 18:21:19 GMT</pubDate>
+		<lastBuildDate>Thu, 19 Jan 2023 18:21:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -157,6 +157,13 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2022-12-27</pubDate>
+		</item>
+		<item>
+			<title>SHINE Technologies LLC - Regulatory Audit Report for Programmable Logic Lifecycle</title>
+			<link>https://www.nrc.gov/docs/ML2234/ML22347A177.pdf</link>
+			<description>Audit Report, Letter</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2022-12-14</pubDate>
 		</item>
 		<item>
 			<title>Enclosure 2 - 12-5-22 Meeting Attendees of the Public Meeting with SMR, LLC, a Holtec International Company, to Discuss the SMR-160 Passive Core Cooling System Design for Non-Loss-of-Coolant Accident Analyses</title>
