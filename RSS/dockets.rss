@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 19 Jan 2023 14:15:09 GMT</pubDate>
-		<lastBuildDate>Thu, 19 Jan 2023 14:15:09 GMT</lastBuildDate>
+		<pubDate>Thu, 19 Jan 2023 15:22:30 GMT</pubDate>
+		<lastBuildDate>Thu, 19 Jan 2023 15:22:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TRISO-X Public Scoping Meeting Slides for January 25, 2023</title>
+			<link>https://www.nrc.gov/docs/ML2301/ML23019A020.pdf</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NMSS/DFM/FFLB, NRC/NMSS/DREFS/ERMB</author>
+			<pubDate>2023-01-19</pubDate>
+		</item>
 		<item>
 			<title>NRC 896 Form for the U.S. Nuclear Regulatory Commission Staff -A verification of the GEH NEDO-11209-A Revision 17, "GE Hitachi Nuclear Energy Quality Assurance Program Description" Topical Report</title>
 			<link>https://www.nrc.gov/docs/ML2301/ML23010A058.pdf</link>
@@ -73,6 +80,13 @@
 			<description>Legal-Affidavit, Letter</description>
 			<author>Kairos Power, LLC</author>
 			<pubDate>2023-01-05</pubDate>
+		</item>
+		<item>
+			<title>SHINE Technologies LLC - Regulatory Audit Report for I&C Combined Sessions</title>
+			<link>https://www.nrc.gov/docs/ML2234/ML22347A214.pdf</link>
+			<description>Audit Report, Letter</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2023-01-04</pubDate>
 		</item>
 		<item>
 			<title>TerraPower, LLC, Event Selection and Evaluation Process Presentation Material</title>
