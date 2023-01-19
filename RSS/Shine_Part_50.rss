@@ -5,25 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 19 Jan 2023 22:16:48 GMT</pubDate>
-		<lastBuildDate>Thu, 19 Jan 2023 22:16:48 GMT</lastBuildDate>
+		<pubDate>Thu, 19 Jan 2023 23:15:05 GMT</pubDate>
+		<lastBuildDate>Thu, 19 Jan 2023 23:15:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>SHINE Technologies LLC - Regulatory Audit Report for I&C Combined Sessions</title>
-			<link>https://www.nrc.gov/docs/ML2234/ML22347A214.pdf</link>
-			<description>Audit Report, Letter</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2023-01-04</pubDate>
-		</item>
-		<item>
 			<title>SHINE Technologies LLC - Regulatory Audit Report for Programmable Logic Lifecycle</title>
 			<link>https://www.nrc.gov/docs/ML2234/ML22347A177.pdf</link>
 			<description>Audit Report, Letter</description>
 			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2022-12-14</pubDate>
+			<pubDate>2023-01-19 13:05:00</pubDate>
+		</item>
+		<item>
+			<title>SHINE Technologies LLC - Regulatory Audit Report for I&C Combined Sessions</title>
+			<link>https://www.nrc.gov/docs/ML2234/ML22347A214.pdf</link>
+			<description>Audit Report, Letter</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2023-01-19 09:52:00</pubDate>
 		</item>
 	</channel>
 </rss>
