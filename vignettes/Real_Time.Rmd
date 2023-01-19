@@ -14,7 +14,8 @@ knitr::opts_chunk$set(
 )
 ```
 
-The following page is updated once a day and presents the last week of posted ADAMS documents. The last update was at `r Sys.time() |> lubridate::ymd_hms() |> lubridate::with_tz("America/New_York")`.
+This page is updated Monday through Friday, hourly between 9AM ET and 5 PM ET. 
+The last update was at `r Sys.time() |> lubridate::ymd_hms() |> lubridate::with_tz("America/New_York")` ET.
 
 ```{r}
 last_week_in_dockets = nrcadams::docket_codex |>

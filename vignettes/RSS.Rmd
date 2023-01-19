@@ -14,7 +14,12 @@ knitr::opts_chunk$set(
 )
 ```
 
-This page is updated once a day and presents the last week of posted ADAMS documents. The last update was at `r Sys.time() |> lubridate::ymd_hms() |> lubridate::with_tz("America/New_York")`.
+
+This page is updated Monday through Friday, hourly between 9AM ET and 5 PM ET. 
+It presents RSS files for the various dockets tracked by the `nrcadams` package. 
+The last update was at `r Sys.time() |> lubridate::ymd_hms() |> lubridate::with_tz("America/New_York")` ET.
+
+`These RSS files are still under testing and development. Use at your own risk.`
 
 # Making RSS files
 
