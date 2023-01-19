@@ -60,8 +60,8 @@ write_rss <- function(
     ) |>
     nrcadams::format_ML_link({{doc_ML}}) |>
     dplyr::select(title, link, description, author, pubDate) |>
-    dplyr::filter(dplyr::row_number() <= maxitem) |>
-    dplyr::arrange(dplyr::desc(pubDate))
+    dplyr::arrange(dplyr::desc(pubDate)) |>
+    dplyr::filter(dplyr::row_number() <= maxitem)
 
   lcl = Sys.getlocale("LC_TIME")
   Sys.setlocale("LC_TIME", "C")
