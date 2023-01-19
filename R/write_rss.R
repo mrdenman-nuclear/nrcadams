@@ -49,7 +49,7 @@ write_rss <- function(
     doc_title = Title,
     doc_author = Affiliation,
     doc_description = Type,
-    doc_date = `Document Date`,
+    doc_date = `Publish Date`,
     ...) {
   docket_tbl = docket_tbl |>
     dplyr::rename(
