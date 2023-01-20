@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 19 Jan 2023 23:21:18 GMT</pubDate>
-		<lastBuildDate>Thu, 19 Jan 2023 23:21:18 GMT</lastBuildDate>
+		<pubDate>Fri, 20 Jan 2023 14:14:49 GMT</pubDate>
+		<lastBuildDate>Fri, 20 Jan 2023 14:14:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS/DREFS/ERMB</author>
 			<pubDate>2023-01-17 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>TRISO-X, LLC, Fuel Fabrication Facility Online Reference Portal Information Access Agreement (Fully Executed)</title>
-			<link>https://www.nrc.gov/docs/ML2301/ML23012A205.pdf</link>
-			<description>Agreement States, Letter</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2023-01-13 10:52:00</pubDate>
 		</item>
 	</channel>
 </rss>
