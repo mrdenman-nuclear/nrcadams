@@ -125,8 +125,7 @@ format_ML_link = function(results_tbl, ML_vector = `ML Number`) {
   results_tbl |>
     dplyr::mutate(
       link = stringr::str_c(
-        "https://www.nrc.gov/docs/", {{ML_vector}} |> stringr::str_sub(1, 6),
-        "/", {{ML_vector}}, ".pdf"
+        "https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=", {{ML_vector}}
       )
     )
 }
