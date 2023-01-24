@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 23 Jan 2023 22:16:55 GMT</pubDate>
-		<lastBuildDate>Mon, 23 Jan 2023 22:16:55 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Jan 2023 14:15:55 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Jan 2023 14:15:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,34 +17,6 @@
 			<description>Proprietary Information Review, Topical Report</description>
 			<author>NRC/NRR/DORL/LLPB</author>
 			<pubDate>2023-01-18 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>GEH BWRX-300 Observation Public Meeting Summary on Steel-Plate Composite Structural Design White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22353A589</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-01-17 13:55:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - GEH BWRX-300 Public Meeting White Paper and TR Steel-Plate Composite Structural Design Summary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23005A036</link>
-			<description>Meeting Agenda, Meeting Summary</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-01-17 13:55:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - GEH BWRX-300 Public Meeting White Paper and TR Steel-Plate Composite Structural Design Summary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23005A035</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-01-17 13:55:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3 - GEH BWRX-300 Public Meeting White Paper and TR Steel-Plate Composite Structural Design Summary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23005A034</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-01-17 13:55:00</pubDate>
 		</item>
 	</channel>
 </rss>
