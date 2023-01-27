@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 26 Jan 2023 22:15:31 GMT</pubDate>
-		<lastBuildDate>Thu, 26 Jan 2023 22:15:31 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Jan 2023 14:17:10 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Jan 2023 14:17:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>2023/01/13 NRR E-mail Capture - Abilene Christian University - Audit Plan for the Molten Salt Research Reactor Construction Permit Application Technical Topics (EPID L-2022-NFW-0002 and L-2022-NFW-0003)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23013A089</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2023-01-27 08:31:00</pubDate>
+		</item>
+	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 26 Jan 2023 22:15:32 GMT</pubDate>
-		<lastBuildDate>Thu, 26 Jan 2023 22:15:32 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Jan 2023 14:17:10 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Jan 2023 14:17:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>03/22/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding General Design Criterion 19, cold shutdown and applicability to Modes of Operation/Tech Specs to support the Construction Permit for the Holtec SMR-160 design</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23027A004</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-01-27 07:24:00</pubDate>
+		</item>
 		<item>
 			<title>SMR, LLC, Submittal of Preapplication Meeting Materials for February 15, 2023</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23018A010</link>
@@ -38,13 +45,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-01-24 13:23:00</pubDate>
-		</item>
-		<item>
-			<title>02/22/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding Pressure-Temperature Curves and Regulatory Guide 1.99 to support the Construction Permit for the Holtec SMR-160 design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23020A052</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-01-20 09:54:00</pubDate>
 		</item>
 	</channel>
 </rss>

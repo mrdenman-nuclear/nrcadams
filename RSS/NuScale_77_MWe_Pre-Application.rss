@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 26 Jan 2023 22:15:32 GMT</pubDate>
-		<lastBuildDate>Thu, 26 Jan 2023 22:15:32 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Jan 2023 14:17:10 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Jan 2023 14:17:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,13 +52,6 @@
 			<description>Final Safety Analysis Report (FSAR), Letter, License-Application For Combined License (COLA) A</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2023-01-25 15:13:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Information from Public Disclosure for NuScale Power, LLC, December 31, 2022, Prop Ltr1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23010A206</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-01-20 08:49:00</pubDate>
 		</item>
 	</channel>
 </rss>

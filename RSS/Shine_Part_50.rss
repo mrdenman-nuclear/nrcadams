@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 26 Jan 2023 22:15:31 GMT</pubDate>
-		<lastBuildDate>Thu, 26 Jan 2023 22:15:31 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Jan 2023 14:17:10 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Jan 2023 14:17:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,20 +17,6 @@
 			<description>Letter, Response to Request for Additional Information (RAI)</description>
 			<author>SHINE Technologies, LLC</author>
 			<pubDate>2023-01-24 14:41:00</pubDate>
-		</item>
-		<item>
-			<title>2022/09/19 NRR E-mail Capture - SHINE MEDICAL TECHNOLOGIES, LLC - REQUEST FOR CONFIRMATORY INFORMATION RELATED TO PHASED STARTUP OPERATIONS (EPID NO. L-2019-NEW-0004)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23006A185</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2023-01-20 08:49:00</pubDate>
-		</item>
-		<item>
-			<title>2023/01/06 NRR E-mail Capture - Acceptance Review - SHINE Amendment Request to CPMIF-001 for SNM</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23006A186</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2023-01-20 08:49:00</pubDate>
 		</item>
 	</channel>
 </rss>
