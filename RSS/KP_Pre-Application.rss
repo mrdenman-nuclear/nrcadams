@@ -5,11 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 27 Jan 2023 19:13:29 GMT</pubDate>
-		<lastBuildDate>Fri, 27 Jan 2023 19:13:29 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Jan 2023 20:16:20 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Jan 2023 20:16:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Kairos Power, LLC, Presentation Material for the Advisory Committee on Reactor Safeguards Full Committee Meeting - Metallic Materials Qualification Topical Report (KP-TR-013, Revision 4) & Graphite Materials Qualification Topical Report (KP-TR-014, .....</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23026A315</link>
+			<description>Letter</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2023-01-27 14:42:00</pubDate>
+		</item>
+		<item>
+			<title>Kairos Power, LLC, Metallics Material Qualification Presentation Materials for the February 1, 2023, ACRS Full Committee Meeting</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23026A316</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2023-01-27 14:42:00</pubDate>
+		</item>
+		<item>
+			<title>Kairos Power, LLC, Graphite Metallics Material Qualification Presentation Materials for the February 1, 2023, ACRS Full Committee Meeting</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23026A317</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2023-01-27 14:42:00</pubDate>
+		</item>
+	</channel>
 </rss>
