@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 30 Jan 2023 23:17:28 GMT</pubDate>
-		<lastBuildDate>Mon, 30 Jan 2023 23:17:28 GMT</lastBuildDate>
+		<pubDate>Tue, 31 Jan 2023 14:15:04 GMT</pubDate>
+		<lastBuildDate>Tue, 31 Jan 2023 14:15:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SMR, LLC, Preapplication Meeting Materials for February 8, 2023</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23023A003</link>
+			<description>Letter</description>
+			<author>SMR, LLC</author>
+			<pubDate>2023-01-31 08:33:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC, Holtec International, SMR-160 I&C Hazard Analysis Overview</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23023A004</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2023-01-31 08:33:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC, 160 Hazard Analysis for l&C System Methodology Report No. Hl-2230060, Rev. 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23023A006</link>
+			<description>Report, Technical</description>
+			<author>SMR, LLC</author>
+			<pubDate>2023-01-31 08:33:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC, Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23023A007</link>
+			<description>Legal-Affidavit</description>
+			<author>SMR, LLC</author>
+			<pubDate>2023-01-31 08:33:00</pubDate>
+		</item>
 		<item>
 			<title>03/22/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding General Design Criterion 19, cold shutdown and applicability to Modes of Operation/Tech Specs to support the Construction Permit for the Holtec SMR-160 design</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23027A029</link>
@@ -38,13 +66,6 @@
 			<description>Legal-Affidavit</description>
 			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2023-01-26 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>03/08/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding the simulator and operator training timelines and expectations, and operating experience review to support the Construction Permit for the Holtec SMR-160 design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23024A155</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-01-24 13:23:00</pubDate>
 		</item>
 	</channel>
 </rss>
