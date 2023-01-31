@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 31 Jan 2023 15:15:19 GMT</pubDate>
-		<lastBuildDate>Tue, 31 Jan 2023 15:15:19 GMT</lastBuildDate>
+		<pubDate>Tue, 31 Jan 2023 16:22:40 GMT</pubDate>
+		<lastBuildDate>Tue, 31 Jan 2023 16:22:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>03/08/2023 Pre-application meeting with GE-Hitachi Nuclear Energy Americas, LLC (GEH) on Safety Strategy LTR</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23030B916</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-01-31 10:48:00</pubDate>
+		</item>
+		<item>
+			<title>03/01/2023 Pre-Application Meeting with NRC and TerraPower to discuss the Methodology for In-vessel Events without Release for the Natruim design.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23031A098</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-01-31 10:19:00</pubDate>
+		</item>
 		<item>
 			<title>SMR, LLC, Preapplication Meeting Materials for February 8, 2023</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23023A003</link>
@@ -206,20 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2023-01-26 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>01/26/2023 Pre-Application Meeting with TerraPower to discuss the Seismic Analysis and Seismic Classification Approach on the Natrium Design.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23026A049</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-01-26 08:23:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Submittal of the NuScale Standard Design Approval Application Part 2 – Final Safety Analysis Report, Chapter 19, "Probabilistic Risk Assessment and Severe Accident Evaluation," Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22365A010</link>
-			<description>Final Safety Analysis Report (FSAR), Letter, License-Application For Combined License (COLA) A</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2023-01-25 15:13:00</pubDate>
 		</item>
 	</channel>
 </rss>
