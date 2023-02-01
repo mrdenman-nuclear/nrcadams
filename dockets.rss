@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 01 Feb 2023 14:16:25 GMT</pubDate>
-		<lastBuildDate>Wed, 01 Feb 2023 14:16:25 GMT</lastBuildDate>
+		<pubDate>Wed, 01 Feb 2023 15:18:41 GMT</pubDate>
+		<lastBuildDate>Wed, 01 Feb 2023 15:18:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>02/07/2023 Notice of Meeting with the University of Illinois at Urbana-Champaign.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23032A127</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-02-01 09:16:00</pubDate>
+		</item>
 		<item>
 			<title>GEH BWRX-300 Public Meeting TR Instrumentation and Controls Architecture Summary</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23024A006</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-01-27 09:31:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC, Fuel Handling Presentation Material</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23019A322</link>
-			<description>Legal-Affidavit, Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2023-01-27 08:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
