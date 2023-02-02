@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 Feb 2023 16:18:29 GMT</pubDate>
-		<lastBuildDate>Thu, 02 Feb 2023 16:18:29 GMT</lastBuildDate>
+		<pubDate>Thu, 02 Feb 2023 18:17:34 GMT</pubDate>
+		<lastBuildDate>Thu, 02 Feb 2023 18:17:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Rod Ejection Topical Report Schedule Letter Update</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23024A126</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-02-02 13:03:00</pubDate>
+		</item>
 		<item>
 			<title>Dr. Gregory Piefer, Chief Executive Officer - Issuance of Final EIS Supplement Related to the Operating License</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23024A174</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-01-31 10:48:00</pubDate>
-		</item>
-		<item>
-			<title>03/01/2023 Pre-Application Meeting with NRC and TerraPower to discuss the Methodology for In-vessel Events without Release for the Natruim design.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23031A098</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-01-31 10:19:00</pubDate>
 		</item>
 	</channel>
 </rss>
