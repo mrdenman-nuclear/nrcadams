@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 Feb 2023 14:16:32 GMT</pubDate>
-		<lastBuildDate>Thu, 02 Feb 2023 14:16:32 GMT</lastBuildDate>
+		<pubDate>Thu, 02 Feb 2023 15:15:08 GMT</pubDate>
+		<lastBuildDate>Thu, 02 Feb 2023 15:15:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Dr. Gregory Piefer, Chief Executive Officer - Issuance of Final EIS Supplement Related to the Operating License</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23024A174</link>
+			<description>Environmental Impact Statement, Letter</description>
+			<author>NRC/NMSS/DREFS/ELRB</author>
+			<pubDate>2023-02-02 09:35:00</pubDate>
+		</item>
+		<item>
+			<title>Letter to Ken Westlake, EPA Region 5 - Issuance of Final EIS Supplement Related to the Operating License</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23024A168</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DREFS/ELRB</author>
+			<pubDate>2023-02-02 09:35:00</pubDate>
+		</item>
 		<item>
 			<title>2023/01/13 NRR E-mail Capture - General Audit questions for Hermes PSAR Chapter 2 (Site Characteristics)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23019A050</link>
@@ -206,20 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-01-31 10:19:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Preapplication Meeting Materials for February 8, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23023A003</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
-			<pubDate>2023-01-31 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Holtec International, SMR-160 I&C Hazard Analysis Overview</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23023A004</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2023-01-31 08:33:00</pubDate>
 		</item>
 	</channel>
 </rss>
