@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 Feb 2023 20:16:01 GMT</pubDate>
-		<lastBuildDate>Thu, 02 Feb 2023 20:16:01 GMT</lastBuildDate>
+		<pubDate>Thu, 02 Feb 2023 21:13:54 GMT</pubDate>
+		<lastBuildDate>Thu, 02 Feb 2023 21:13:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Letter to S. Alexander re TRISO-X FWS Section 7 Consulation</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23032A501</link>
+			<description>Letter, Map</description>
+			<author>NRC/NMSS/DREFS/ERMB</author>
+			<pubDate>2023-02-02 15:23:00</pubDate>
+		</item>
+	</channel>
 </rss>
