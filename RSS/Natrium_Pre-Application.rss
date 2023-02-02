@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 01 Feb 2023 23:23:01 GMT</pubDate>
-		<lastBuildDate>Wed, 01 Feb 2023 23:23:01 GMT</lastBuildDate>
+		<pubDate>Thu, 02 Feb 2023 14:16:41 GMT</pubDate>
+		<lastBuildDate>Thu, 02 Feb 2023 14:16:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submittal of TerraPower Fuel and Control Assembly Qualification Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23025A409</link>
+			<description>Legal-Affidavit, Letter, Topical Report</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2023-02-02 08:35:00</pubDate>
+		</item>
 		<item>
 			<title>Submittal of TerraPower Topical Report, "Principal Design Criteria for the Natrium Advanced Reactor"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23024A281</link>
@@ -38,20 +45,6 @@
 			<description>Legal-Affidavit, Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2023-01-27 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC - Completion of Subsurface Investigation Field Activities in Kemmerer, WY</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23018A298</link>
-			<description>Letter</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2023-01-26 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>01/26/2023 Pre-Application Meeting with TerraPower to discuss the Seismic Analysis and Seismic Classification Approach on the Natrium Design.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23026A049</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-01-26 08:23:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,54 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 01 Feb 2023 23:22:48 GMT</pubDate>
-		<lastBuildDate>Wed, 01 Feb 2023 23:22:48 GMT</lastBuildDate>
+		<pubDate>Thu, 02 Feb 2023 14:16:32 GMT</pubDate>
+		<lastBuildDate>Thu, 02 Feb 2023 14:16:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2023/01/13 NRR E-mail Capture - General Audit questions for Hermes PSAR Chapter 2 (Site Characteristics)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23019A050</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2023-02-02 08:35:00</pubDate>
+		</item>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for NuScale Power, LLC - December 31, 2022 Prop Ltr 8</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23024A183</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-02-02 08:35:00</pubDate>
+		</item>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for NuScale Power, LLC - December 31, 2022 Prop Ltr 4</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23025A150</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-02-02 08:35:00</pubDate>
+		</item>
+		<item>
+			<title>Submittal of TerraPower Fuel and Control Assembly Qualification Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23025A409</link>
+			<description>Legal-Affidavit, Letter, Topical Report</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2023-02-02 08:35:00</pubDate>
+		</item>
+		<item>
+			<title>02/15/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding topics to support the Construction Permit for the Holtec SMR-160 design</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23033A002</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-02-02 06:02:00</pubDate>
+		</item>
+		<item>
+			<title>02/21/2023 Preapplication Meeting with SMR, LLC ( A Holtec International Company) regarding transient and accident analysis methods to support the Construction Permit for the SMR-160 design</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23033A001</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-02-02 05:52:00</pubDate>
+		</item>
 		<item>
 			<title>08/23/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding topics to support the Construction Permit for the Holtec SMR-160 design</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23032A436</link>
@@ -178,48 +220,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2023-01-31 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, 160 Hazard Analysis for l&C System Methodology Report No. Hl-2230060, Rev. 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23023A006</link>
-			<description>Report, Technical</description>
-			<author>SMR, LLC</author>
-			<pubDate>2023-01-31 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23023A007</link>
-			<description>Legal-Affidavit</description>
-			<author>SMR, LLC</author>
-			<pubDate>2023-01-31 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>09/30/2022 Summary Of Closed Meeting With Oklo, Inc., To Discuss Emergency Planning</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22363A013</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-01-31 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse, Submittal of Supporting Document for Review of Westinghouse Advanced Logic System (ALS) v2 Topical Report (WCAP-18762)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23023A132</link>
-			<description>Letter</description>
-			<author>Westinghouse Electric Co, Westinghouse Electric Co, LLC</author>
-			<pubDate>2023-01-31 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Affidavit AW-23-006</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23023A133</link>
-			<description>Legal-Affidavit</description>
-			<author>Westinghouse Electric Co, Westinghouse Electric Co, LLC</author>
-			<pubDate>2023-01-31 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Report on the Pre-Submittal Regulatory Audit of the Abilene Christian University Preliminary Safety Analysis Report (EPID L-2022-NFN-0003)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22297A240</link>
-			<description>Audit Report, Memoranda</description>
-			<author>NRC/NRR/DANU/UARP</author>
-			<pubDate>2023-01-30 08:39:00</pubDate>
 		</item>
 	</channel>
 </rss>
