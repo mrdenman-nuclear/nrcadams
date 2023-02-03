@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 Feb 2023 23:17:37 GMT</pubDate>
-		<lastBuildDate>Thu, 02 Feb 2023 23:17:37 GMT</lastBuildDate>
+		<pubDate>Fri, 03 Feb 2023 14:15:07 GMT</pubDate>
+		<lastBuildDate>Fri, 03 Feb 2023 14:15:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>TR230117, Revision A, "Principal Design Criteria for IMSR Structures, Systems and Components"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23025A043</link>
-			<description>Topical Report</description>
-			<author>Terrestrial Energy USA</author>
-			<pubDate>2023-01-27 14:43:00</pubDate>
-		</item>
-		<item>
-			<title>Terrestrial Energy USA, Inc., Document #TR230117: Principal Design Criteria for IMSR Structures, Systems and Components Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23025A042</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>Terrestrial Energy USA, Inc</author>
-			<pubDate>2023-01-27 14:42:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
