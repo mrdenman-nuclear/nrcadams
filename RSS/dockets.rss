@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 03 Feb 2023 19:14:28 GMT</pubDate>
-		<lastBuildDate>Fri, 03 Feb 2023 19:14:28 GMT</lastBuildDate>
+		<pubDate>Fri, 03 Feb 2023 20:20:13 GMT</pubDate>
+		<lastBuildDate>Fri, 03 Feb 2023 20:20:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Environmental Report Coordinating Agencies</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23034A204</link>
+			<description>Slides and Viewgraphs</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-02-03 14:35:00</pubDate>
+		</item>
 		<item>
 			<title>Shine Medical Technologies, LLC – Notice Of Availability Of Environmental Impact Statement Supplement Related To The Operating License For The Shine Medical Isotope Production Facility (Docket Number: 50-608)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23034A187</link>
@@ -213,13 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2023-02-02 13:03:00</pubDate>
-		</item>
-		<item>
-			<title>Dr. Gregory Piefer, Chief Executive Officer - Issuance of Final EIS Supplement Related to the Operating License</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23024A174</link>
-			<description>Environmental Impact Statement, Letter</description>
-			<author>NRC/NMSS/DREFS/ELRB</author>
-			<pubDate>2023-02-02 09:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
