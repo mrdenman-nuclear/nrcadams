@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 06 Feb 2023 15:16:16 GMT</pubDate>
-		<lastBuildDate>Mon, 06 Feb 2023 15:16:16 GMT</lastBuildDate>
+		<pubDate>Mon, 06 Feb 2023 16:23:18 GMT</pubDate>
+		<lastBuildDate>Mon, 06 Feb 2023 16:23:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>FRN General Notice of the TRISO-X License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22334A032</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2023-02-06 11:19:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC, Submittal of Presentation Materials Entitled, "Methodology for Determination of Onset of Density Wave Oscillations Post-Application Presentation," PM-134372, Revision 0 (Closed Session)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23027A226</link>
@@ -211,13 +218,6 @@
 			<title>10-19-22 Meeting Summary with SMR, LLC, a Holtec International Company, to Discuss Loss-of-Coolant Accident Analysis</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22263A404</link>
 			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-02-03 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - 10-19-22 Meeting Agenda of the Public Meeting with SMR, LLC, a Holtec International Company, to Discuss Loss-of-Coolant Accident Analysis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22263A405</link>
-			<description>Meeting Agenda</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2023-02-03 08:33:00</pubDate>
 		</item>
