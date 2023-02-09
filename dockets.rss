@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 08 Feb 2023 23:15:30 GMT</pubDate>
-		<lastBuildDate>Wed, 08 Feb 2023 23:15:30 GMT</lastBuildDate>
+		<pubDate>Thu, 09 Feb 2023 14:15:36 GMT</pubDate>
+		<lastBuildDate>Thu, 09 Feb 2023 14:15:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>US Fish and Wildlife Service Concurrence: Kairos Power, LLC Hermes Reactor at DOE ORR ETTP (Heritage Center)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23036A004</link>
+			<description>Environmental Impact Statement</description>
+			<author>US Dept of Interior, Fish & Wildlife Service, TN Ecological Services Field Office</author>
+			<pubDate>2023-02-09 08:33:00</pubDate>
+		</item>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for NuScale Power, LLC - January 8, 2023 Prop Ltr</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23032A373</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-02-09 08:32:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 1: Presentation Backup Slides for GE Hitachi White Paper NEDO-33988, Revision 0, BWRX-300 Steel-Plate Composite (SC) Containment Vessel (SCCV) and Reactor Building Structural Design</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22346A276</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23030A005</link>
 			<description>E-Mail</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-02-06 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>X-ENERGY LLC: Preliminary Questions regarding Xe-100 Principal Design Criteria Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23030B648</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-02-06 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>X-ENERGY LLC: email  Preliminary Questions regarding Xe-100 Principal Design Criteria Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23030B649</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-02-06 08:36:00</pubDate>
 		</item>
 	</channel>

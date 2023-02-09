@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 08 Feb 2023 23:15:29 GMT</pubDate>
-		<lastBuildDate>Wed, 08 Feb 2023 23:15:29 GMT</lastBuildDate>
+		<pubDate>Thu, 09 Feb 2023 14:15:35 GMT</pubDate>
+		<lastBuildDate>Thu, 09 Feb 2023 14:15:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for NuScale Power, LLC - January 8, 2023 Prop Ltr</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23032A373</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-02-09 08:32:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC, Submittal of Presentation Materials Entitled, "Methodology for Determination of Onset of Density Wave Oscillations Post-Application Presentation," PM-134372, Revision 0 (Closed Session)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23027A226</link>
@@ -59,27 +66,6 @@
 			<description>Legal-Affidavit, Letter, Meeting Briefing Package/Handouts</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2023-02-03 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Rod Ejection Topical Report Schedule Letter Update</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23024A126</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-02-02 13:03:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Information from Public Disclosure for NuScale Power, LLC - December 31, 2022 Prop Ltr 8</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23024A183</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-02-02 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Information from Public Disclosure for NuScale Power, LLC - December 31, 2022 Prop Ltr 4</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23025A150</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-02-02 08:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
