@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 10 Feb 2023 23:15:14 GMT</pubDate>
-		<lastBuildDate>Fri, 10 Feb 2023 23:15:14 GMT</lastBuildDate>
+		<pubDate>Mon, 13 Feb 2023 14:17:15 GMT</pubDate>
+		<lastBuildDate>Mon, 13 Feb 2023 14:17:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>X-Energy, LLC (X-energy) Submittal of White Paper: Xe-100 Plant Control and Data Acquisition System</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23034A243</link>
+			<description>Legal-Affidavit, Letter, Report, Technical</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2023-02-13 08:36:00</pubDate>
+		</item>
 		<item>
 			<title>Email to X-energy - Withholding Determination for Xe-100 Topical Report: TRISO-X Pebble Fuel Qualification Methodology, Revision 1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23034A226</link>
@@ -38,20 +45,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-02-10 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>X-ENERGY LLC: Preliminary Questions regarding Xe-100 Principal Design Criteria Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23030B648</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-02-06 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>X-ENERGY LLC: email  Preliminary Questions regarding Xe-100 Principal Design Criteria Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23030B649</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-02-06 08:36:00</pubDate>
 		</item>
 	</channel>
 </rss>

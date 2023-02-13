@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 10 Feb 2023 23:15:17 GMT</pubDate>
-		<lastBuildDate>Fri, 10 Feb 2023 23:15:17 GMT</lastBuildDate>
+		<pubDate>Mon, 13 Feb 2023 14:17:16 GMT</pubDate>
+		<lastBuildDate>Mon, 13 Feb 2023 14:17:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2023/02/02 Hermes CP Doc - [External_Sender] RE [EXTERNAL] Kairos Hermes Environmental Review</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23036A000</link>
+			<description>E-Mail</description>
+			<author>- No Known Affiliation</author>
+			<pubDate>2023-02-13 08:36:00</pubDate>
+		</item>
 		<item>
 			<title>US Fish and Wildlife Service Concurrence: Kairos Power, LLC Hermes Reactor at DOE ORR ETTP (Heritage Center)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23036A004</link>
@@ -24,34 +31,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2023-02-07 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power, LLC - Additional Protocol Report - 2021</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23031A337</link>
-			<description>Letter</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2023-02-06 14:53:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power, LLC - Additional Protocol Report - 2022</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23031A338</link>
-			<description>Letter</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2023-02-06 14:53:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Transmittal of Changes to Preliminary Safety Analysis Report, Revision 1, Chapter 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23034A213</link>
-			<description>Letter</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2023-02-06 14:53:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Changes to Preliminary Safety Analysis Report (PSAR), Revision 1, Chapter 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23034A214</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2023-02-06 14:53:00</pubDate>
 		</item>
 	</channel>
 </rss>
