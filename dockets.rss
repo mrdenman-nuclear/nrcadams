@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 14 Feb 2023 17:15:23 GMT</pubDate>
-		<lastBuildDate>Tue, 14 Feb 2023 17:15:23 GMT</lastBuildDate>
+		<pubDate>Tue, 14 Feb 2023 18:23:50 GMT</pubDate>
+		<lastBuildDate>Tue, 14 Feb 2023 18:23:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>GEH BWRX-300 December 14, 2022 Public Meeting White Paper and TR Safety Strategy Summary Memo</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23023A150</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-02-14 13:20:00</pubDate>
+		</item>
+		<item>
+			<title>GEH BWRX-300 December 14, 2022 Public Meeting White Paper and TR Safety Strategy Summary Encl. 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23023A149</link>
+			<description>Meeting Agenda</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-02-14 13:20:00</pubDate>
+		</item>
+		<item>
+			<title>GEH BWRX-300 December 14, 2022 Public Meeting White Paper and TR Safety Strategy Summary Encl. 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23023A147</link>
+			<description>Meeting Summary</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-02-14 13:20:00</pubDate>
+		</item>
+		<item>
+			<title>GEH BWRX-300 December 14, 2022 Public Meeting White Paper and TR Safety Strategy Summary Encl. 3</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23023A143</link>
+			<description>Meeting Summary</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-02-14 13:20:00</pubDate>
+		</item>
 		<item>
 			<title>X-Energy, LLC – Acknowledgement of Withdrawal of Revisions 1 and 2 of  "XE-100 Topical Report: TISO-X Pebble Fuel Qualification Methodology" (EPID NO. L-2021-TOP-0011)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22362A064</link>
@@ -192,34 +220,6 @@
 			<description>Letter</description>
 			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
 			<pubDate>2023-02-08 11:17:00</pubDate>
-		</item>
-		<item>
-			<title>12/28/22 E-mail to J. Hawking, SMR, LLC re: NRC Staff Response to Question regarding "Equivalent Materials" for the SMR-160 Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23031A055</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-02-08 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>12/28/22 E-mail to J. Hawkins, SMR, LLC re: NRC Staff Response to Question regarding Water Source for Fire Protection</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23031A059</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-02-08 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>1/4/23 E-mail to J. Hawkins, SMR, LLC re: NRC Staff Response to Follow-up Questions regarding the Scope of PRA and Turbine Missiles (RG 1.115)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23031A070</link>
-			<description>E-Mail, Response to Request for Additional Information (RAI)</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-02-08 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>1/5/23 E-mail to J. Hawkins, SMR, LLC re: NRC Staff Response to Follow-up Questions after the November 30 Public Meeting re: Closed Systems Isolation Valves</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23031A080</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-02-08 08:33:00</pubDate>
 		</item>
 	</channel>
 </rss>
