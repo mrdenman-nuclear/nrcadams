@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 14 Feb 2023 23:17:21 GMT</pubDate>
-		<lastBuildDate>Tue, 14 Feb 2023 23:17:21 GMT</lastBuildDate>
+		<pubDate>Wed, 15 Feb 2023 14:15:23 GMT</pubDate>
+		<lastBuildDate>Wed, 15 Feb 2023 14:15:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,34 +38,6 @@
 			<description>Meeting Summary</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2023-02-14 13:20:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Presentation Backup Slides for GE Hitachi White Paper NEDO-33988, Revision 0, BWRX-300 Steel-Plate Composite (SC) Containment Vessel (SCCV) and Reactor Building Structural Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22346A276</link>
-			<description>Slides and Viewgraphs</description>
-			<author>GE Hitachi Nuclear Energy, GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2023-02-08 14:32:00</pubDate>
-		</item>
-		<item>
-			<title>GE-Hitachi Nuclear Energy Americas, LLC - Presentation Backup Slides for GE Hitachi White Paper NEDO-33988, Revision 0, BWRX-300 Steel-Plate Composite (SC) Containment Vessel (SCCV) and Reactor Building Structural Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22346A275</link>
-			<description>Letter</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2023-02-08 14:32:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - Updated Presentation Slides for Pre-Application Meeting for Planned Submittal of GE Hitachi Nuclear Energy BWRX-300 Instrumentation and Controls Architecture Topical Report NEDC-33925P</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22346A269</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2023-02-08 11:17:00</pubDate>
-		</item>
-		<item>
-			<title>Updated Presentation Slides for Pre- Application Meeting for Planned Submittal of GE Hitachi Nuclear Energy BWRX-300 Instrumentation and Controls Architecture Topical Report NEDC-33925P</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22346A268</link>
-			<description>Letter</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2023-02-08 11:17:00</pubDate>
 		</item>
 	</channel>
 </rss>
