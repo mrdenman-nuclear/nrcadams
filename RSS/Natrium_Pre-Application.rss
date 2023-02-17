@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 16 Feb 2023 23:19:34 GMT</pubDate>
-		<lastBuildDate>Thu, 16 Feb 2023 23:19:34 GMT</lastBuildDate>
+		<pubDate>Fri, 17 Feb 2023 14:19:22 GMT</pubDate>
+		<lastBuildDate>Fri, 17 Feb 2023 14:19:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>TerraPower, LLC, Partial Flow Blockage Methodology Presentation Material</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23040A164</link>
+			<description>Legal-Affidavit, Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2023-02-17 08:53:00</pubDate>
+		</item>
+	</channel>
 </rss>
