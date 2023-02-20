@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 17 Feb 2023 23:15:40 GMT</pubDate>
-		<lastBuildDate>Fri, 17 Feb 2023 23:15:40 GMT</lastBuildDate>
+		<pubDate>Mon, 20 Feb 2023 14:14:53 GMT</pubDate>
+		<lastBuildDate>Mon, 20 Feb 2023 14:14:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -108,34 +108,6 @@
 			<description>Federal Register Notice</description>
 			<author>NRC/NRR/DANU/UNPL</author>
 			<pubDate>2023-02-14 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>X-Energy, LLC (X-energy) Submittal of White Paper: Xe-100 Plant Control and Data Acquisition System</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23034A243</link>
-			<description>Legal-Affidavit, Letter, Report, Technical</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2023-02-13 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>2023/02/02 Hermes CP Doc - [External_Sender] RE [EXTERNAL] Kairos Hermes Environmental Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23036A000</link>
-			<description>E-Mail</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2023-02-13 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>Abilene Christian University, Review of Abilene Christian University Safeguards Information - Modified Handling Protection Plan</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23012A026</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2023-02-13 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>Abilene Christian University, Review of Abilene Christian University Safeguards Information - Modified Handling Protection Plan</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23012A026</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2023-02-13 08:36:00</pubDate>
 		</item>
 	</channel>
 </rss>
