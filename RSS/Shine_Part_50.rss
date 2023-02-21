@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 20 Feb 2023 23:18:05 GMT</pubDate>
-		<lastBuildDate>Mon, 20 Feb 2023 23:18:05 GMT</lastBuildDate>
+		<pubDate>Tue, 21 Feb 2023 14:15:48 GMT</pubDate>
+		<lastBuildDate>Tue, 21 Feb 2023 14:15:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>SHINE Technologies, LLC - Individual Notice of Consideration FRN letter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23010A238</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2023-02-14 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>Federal Register Notice - SHINE Technologies, LLC, Amendment for Receipt and Possession of Contained Special Nuclear Material for Construction, Hearing Opportunity</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23006A038</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2023-02-14 08:34:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

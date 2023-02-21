@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 20 Feb 2023 23:18:06 GMT</pubDate>
-		<lastBuildDate>Mon, 20 Feb 2023 23:18:06 GMT</lastBuildDate>
+		<pubDate>Tue, 21 Feb 2023 14:15:49 GMT</pubDate>
+		<lastBuildDate>Tue, 21 Feb 2023 14:15:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2023/02/06 NRR E-mail Capture - Abilene Christian University - Audit Questions Regarding the ACU CP Technical Topics Audit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23038A009</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2023-02-21 08:35:00</pubDate>
+		</item>
 		<item>
 			<title>TerraPower, LLC, Partial Flow Blockage Methodology Presentation Material</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23040A164</link>
@@ -59,55 +66,6 @@
 			<description>Letter, Proprietary Information Review</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-02-15 08:38:00</pubDate>
-		</item>
-		<item>
-			<title>GEH BWRX-300 December 14, 2022 Public Meeting White Paper and TR Safety Strategy Summary Memo</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23023A150</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-02-14 13:20:00</pubDate>
-		</item>
-		<item>
-			<title>GEH BWRX-300 December 14, 2022 Public Meeting White Paper and TR Safety Strategy Summary Encl. 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23023A149</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-02-14 13:20:00</pubDate>
-		</item>
-		<item>
-			<title>GEH BWRX-300 December 14, 2022 Public Meeting White Paper and TR Safety Strategy Summary Encl. 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23023A147</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-02-14 13:20:00</pubDate>
-		</item>
-		<item>
-			<title>GEH BWRX-300 December 14, 2022 Public Meeting White Paper and TR Safety Strategy Summary Encl. 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23023A143</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-02-14 13:20:00</pubDate>
-		</item>
-		<item>
-			<title>X-Energy, LLC – Acknowledgement of Withdrawal of Revisions 1 and 2 of  "XE-100 Topical Report: TISO-X Pebble Fuel Qualification Methodology" (EPID NO. L-2021-TOP-0011)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22362A064</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-02-14 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>SHINE Technologies, LLC - Individual Notice of Consideration FRN letter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23010A238</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2023-02-14 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>Federal Register Notice - SHINE Technologies, LLC, Amendment for Receipt and Possession of Contained Special Nuclear Material for Construction, Hearing Opportunity</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23006A038</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2023-02-14 08:34:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 20 Feb 2023 23:18:05 GMT</pubDate>
-		<lastBuildDate>Mon, 20 Feb 2023 23:18:05 GMT</lastBuildDate>
+		<pubDate>Tue, 21 Feb 2023 14:15:48 GMT</pubDate>
+		<lastBuildDate>Tue, 21 Feb 2023 14:15:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>2023/02/06 NRR E-mail Capture - Abilene Christian University - Audit Questions Regarding the ACU CP Technical Topics Audit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23038A009</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2023-02-21 08:35:00</pubDate>
+		</item>
+	</channel>
 </rss>
