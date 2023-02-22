@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Feb 2023 23:16:11 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Feb 2023 23:16:11 GMT</lastBuildDate>
+		<pubDate>Wed, 22 Feb 2023 14:15:20 GMT</pubDate>
+		<lastBuildDate>Wed, 22 Feb 2023 14:15:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Hermes SE Chapter 4 - [External_Sender] Proprietary Check</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23052A127</link>
+			<description>E-Mail</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2023-02-22 08:45:00</pubDate>
+		</item>
+		<item>
+			<title>Submittal of X Energy, LLC (X-energy), Licensing White Paper: Xe-100 Seismic Design Methodology</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23044A310</link>
+			<description>Letter, Technical Paper</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2023-02-22 08:44:00</pubDate>
+		</item>
 		<item>
 			<title>SMR, LLC, NRC Meeting: Deterministic Safety Analysis Codes and Methods Overview</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23018A012</link>
@@ -73,13 +87,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-02-16 08:42:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Proprietary Information from Public Disclosure - Advanced Logic Systems Vs Topical Reports U.S. Nuclear Regulatory Commission Pre-Submittal Meeting Presentation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23005A271</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-02-15 08:38:00</pubDate>
 		</item>
 	</channel>
 </rss>
