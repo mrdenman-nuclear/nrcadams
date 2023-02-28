@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 27 Feb 2023 23:16:21 GMT</pubDate>
-		<lastBuildDate>Mon, 27 Feb 2023 23:16:21 GMT</lastBuildDate>
+		<pubDate>Tue, 28 Feb 2023 14:17:57 GMT</pubDate>
+		<lastBuildDate>Tue, 28 Feb 2023 14:17:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>10/6/22 Request for Withholding Information from Public Disclosure for Holtec SMR, LLC</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23048A064</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-02-28 08:36:00</pubDate>
+		</item>
+		<item>
+			<title>10/13/22 Request for Withholding Information from Public Disclosure for Holtec SMR, LLC</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23048A053</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-02-28 08:36:00</pubDate>
+		</item>
 		<item>
 			<title>2-22-23 Email of NRC Staff Response to SMR (Holtec) Questions re_ NonSafety Structures.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23054A268</link>
@@ -38,13 +52,6 @@
 			<description>Legal-Affidavit</description>
 			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2023-02-23 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, NRC Meeting: Deterministic Safety Analysis Codes and Methods Overview</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23018A012</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>SMR, LLC</author>
-			<pubDate>2023-02-21 16:14:00</pubDate>
 		</item>
 	</channel>
 </rss>

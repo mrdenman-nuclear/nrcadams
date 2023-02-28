@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 27 Feb 2023 23:16:20 GMT</pubDate>
-		<lastBuildDate>Mon, 27 Feb 2023 23:16:20 GMT</lastBuildDate>
+		<pubDate>Tue, 28 Feb 2023 14:17:56 GMT</pubDate>
+		<lastBuildDate>Tue, 28 Feb 2023 14:17:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SHINE Technologies, LLC Request to Amend Construction Permit No. CPMIF-001 Response to Request for Additional Information</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23048A244</link>
+			<description>Letter, Response to Request for Additional Information (RAI)</description>
+			<author>SHINE Medical Technologies, Inc</author>
+			<pubDate>2023-02-28 08:36:00</pubDate>
+		</item>
 		<item>
 			<title>SHINE Technologies, LLC - Letter: Safety Evaluation Report for the SHINE Medical Radioisotope Production Facility Operating License Application (EPID No. L-2019-NEW-0004)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23010A198</link>
@@ -31,13 +38,6 @@
 			<description>E-Mail, Request for Additional Information (RAI)</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2023-02-24 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>News Release-23-008:  NRC Issues Final Supplemental Environmental Impact Statement for SHINE Medical Technologies Operating License</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23052A099</link>
-			<description>Press Release</description>
-			<author>NRC/OPA</author>
-			<pubDate>2023-02-21 13:05:00</pubDate>
 		</item>
 	</channel>
 </rss>
