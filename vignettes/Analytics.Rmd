@@ -122,7 +122,7 @@ the plot to better focus on the remaining projects.
 
 
 ```{r}
-plot_min_date = "2018-01-01" |> lubridate::ymd()
+plot_min_date = "2017-01-01" |> lubridate::ymd()
 
 grouped_dockets = combined_dockets |>
   dplyr::group_by(Project) |>
@@ -139,6 +139,7 @@ plt = grouped_dockets |>
   ggplot() +
     geom_step(aes(x = `Publish Date`, y = `Document Count`, color = Project)) +
     theme_bw() +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
     labs(
       title = "Advanced Reactor ADAMS Documents",
       subtitle =  paste("as of", Sys.Date())
