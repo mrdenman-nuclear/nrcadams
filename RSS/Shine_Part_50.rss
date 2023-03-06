@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 03 Mar 2023 23:18:19 GMT</pubDate>
-		<lastBuildDate>Fri, 03 Mar 2023 23:18:19 GMT</lastBuildDate>
+		<pubDate>Mon, 06 Mar 2023 14:16:37 GMT</pubDate>
+		<lastBuildDate>Mon, 06 Mar 2023 14:16:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Letter, Response to Request for Additional Information (RAI)</description>
 			<author>SHINE Medical Technologies, Inc</author>
 			<pubDate>2023-02-28 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>SHINE Technologies, LLC - Letter: Safety Evaluation Report for the SHINE Medical Radioisotope Production Facility Operating License Application (EPID No. L-2019-NEW-0004)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23010A198</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2023-02-27 09:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
