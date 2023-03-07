@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 07 Mar 2023 16:19:50 GMT</pubDate>
-		<lastBuildDate>Tue, 07 Mar 2023 16:19:50 GMT</lastBuildDate>
+		<pubDate>Tue, 07 Mar 2023 17:21:00 GMT</pubDate>
+		<lastBuildDate>Tue, 07 Mar 2023 17:21:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -26,6 +26,20 @@
 			<pubDate>2023-03-07 10:13:00</pubDate>
 		</item>
 		<item>
+			<title>Email to TEUSA - Acceptance Review Determination for PDC Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23046A269</link>
+			<description>E-Mail, Topical Report Evaluation</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2023-03-07 08:35:00</pubDate>
+		</item>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for NuScale Power, LLC, February 14, 2023, Prop Ltr</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23059A115</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-03-07 08:35:00</pubDate>
+		</item>
+		<item>
 			<title>Cover Letter - NRC Feedback on Westinghouse eVinci White Paper EVR-PGD-OP-002</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23037A910</link>
 			<description>Letter</description>
@@ -33,16 +47,51 @@
 			<pubDate>2023-03-07 08:35:00</pubDate>
 		</item>
 		<item>
-			<title>Enclosure 1 - Meeting Agenda - Closed Meeting Summary December 5, 2022 - NuScale SDAA ECCS-LOCA Analysis Follow-up</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23027A087</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
+			<title>2023/03/02 NRR E-mail Capture - Preliminary Hermes construction permit application SE Appendix</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23065A058</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2023-03-07 08:35:00</pubDate>
+		</item>
+		<item>
+			<title>2023/03/02 NRR E-mail Capture - Preliminary Hermes construction permit application SE Appendix</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23065A058</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2023-03-07 08:35:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Form 898 TEUSA PDC Topical Report Completeness Determination</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23046A264</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2023-03-07 08:35:00</pubDate>
 		</item>
 		<item>
 			<title>Memo - Closed Meeting Summary December 5, 2022 - NuScale SDAA ECCS-LOCA Analysis Follow-up</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23027A088</link>
 			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-03-07 08:35:00</pubDate>
+		</item>
+		<item>
+			<title>2023/02/07 NRR E-mail Capture - Remaining preliminary chapters of Hermes construction permit application SE</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23065A010</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2023-03-07 08:35:00</pubDate>
+		</item>
+		<item>
+			<title>2023/02/07 NRR E-mail Capture - Remaining preliminary chapters of Hermes construction permit application SE</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23065A010</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2023-03-07 08:35:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1 - Meeting Agenda - Closed Meeting Summary December 5, 2022 - NuScale SDAA ECCS-LOCA Analysis Follow-up</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23027A087</link>
+			<description>Meeting Agenda</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2023-03-07 08:35:00</pubDate>
 		</item>
@@ -54,67 +103,11 @@
 			<pubDate>2023-03-07 08:35:00</pubDate>
 		</item>
 		<item>
-			<title>Request for Withholding Information from Public Disclosure for NuScale Power, LLC, February 14, 2023, Prop Ltr</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23059A115</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-03-07 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>2023/02/07 NRR E-mail Capture - Remaining preliminary chapters of Hermes construction permit application SE</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23065A010</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2023-03-07 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>2023/02/07 NRR E-mail Capture - Remaining preliminary chapters of Hermes construction permit application SE</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23065A010</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2023-03-07 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>2023/03/02 NRR E-mail Capture - Preliminary Hermes construction permit application SE Appendix</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23065A058</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2023-03-07 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>2023/03/02 NRR E-mail Capture - Preliminary Hermes construction permit application SE Appendix</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23065A058</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2023-03-07 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>Email to TEUSA - Acceptance Review Determination for PDC Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23046A269</link>
-			<description>E-Mail, Topical Report Evaluation</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2023-03-07 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Form 898 TEUSA PDC Topical Report Completeness Determination</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23046A264</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2023-03-07 08:35:00</pubDate>
-		</item>
-		<item>
 			<title>2023/02/21 NRR E-mail Capture - Abilene Christian University - Audit Question Regarding the ACU CP Technical Topics Audit</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23052A067</link>
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2023-03-07 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>Email from S. Yerka of Eastern Band of Cherokee Regarding Section 106 Consultation for Triso-X EIS</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23065A262</link>
-			<description>E-Mail</description>
-			<author>Eastern Band of Cherokee Indians</author>
-			<pubDate>2023-03-06 16:55:00</pubDate>
 		</item>
 		<item>
 			<title>Email from B. Celestine of the Alabama-Coushatta of Texas Regarding Triso-X Section 106 Consultation</title>
@@ -124,11 +117,11 @@
 			<pubDate>2023-03-06 16:55:00</pubDate>
 		</item>
 		<item>
-			<title>Submittal of X Energy, LLC (X-energy), Xe-100 U.S. Regulatory Engagement Plan (REP) 2023 Update</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23055B259</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2023-03-06 08:31:00</pubDate>
+			<title>Email from S. Yerka of Eastern Band of Cherokee Regarding Section 106 Consultation for Triso-X EIS</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23065A262</link>
+			<description>E-Mail</description>
+			<author>Eastern Band of Cherokee Indians</author>
+			<pubDate>2023-03-06 16:55:00</pubDate>
 		</item>
 		<item>
 			<title>SMR, LLC, Submittal of Preapplication Meeting Materials for March 8, 2023</title>
@@ -138,10 +131,10 @@
 			<pubDate>2023-03-06 08:31:00</pubDate>
 		</item>
 		<item>
-			<title>Enclosure 2: Holtec International, NRC Meeting: Simulator Certification and Human Factor Engineering</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23060A011</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Holtec International, SMR, LLC</author>
+			<title>Submittal of X Energy, LLC (X-energy), Xe-100 U.S. Regulatory Engagement Plan (REP) 2023 Update</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23055B259</link>
+			<description>Letter</description>
+			<author>X-Energy, LLC</author>
 			<pubDate>2023-03-06 08:31:00</pubDate>
 		</item>
 		<item>
@@ -149,6 +142,13 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23060A012</link>
 			<description>Legal-Affidavit</description>
 			<author>SMR, LLC</author>
+			<pubDate>2023-03-06 08:31:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: Holtec International, NRC Meeting: Simulator Certification and Human Factor Engineering</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23060A011</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2023-03-06 08:31:00</pubDate>
 		</item>
 		<item>
@@ -187,22 +187,15 @@
 			<pubDate>2023-03-03 08:58:00</pubDate>
 		</item>
 		<item>
-			<title>Comment (268) of Madeline Helbraun on Notice of Intent To Conduct Scoping Process and Prepare Environmental Impact Statement; TRISO-X Special Nuclear Material License</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23055B138</link>
+			<title>Comment (291) of Zara Zsido on Notice of Intent To Conduct Scoping Process and Prepare Environmental Impact Statement; TRISO–X Special Nuclear Material License</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23055B184</link>
 			<description>General FR Notice Comment Letter</description>
 			<author>- No Known Affiliation</author>
 			<pubDate>2023-03-03 08:57:00</pubDate>
 		</item>
 		<item>
-			<title>Comment (269) of John Feeney on Notice of Intent To Conduct Scoping Process and Prepare Environmental Impact Statement; TRISO-X Special Nuclear Material License</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23055B139</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2023-03-03 08:57:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (270) of Karma Lekshe Tsomo on Notice of Intent To Conduct Scoping Process and Prepare Environmental Impact Statement; TRISO–X Special Nuclear Material License</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23055B140</link>
+			<title>Comment (277) of William Ryerson on Notice of Intent To Conduct Scoping Process and Prepare Environmental Impact Statement; TRISO-X Special Nuclear Material License</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23055B149</link>
 			<description>General FR Notice Comment Letter</description>
 			<author>- No Known Affiliation</author>
 			<pubDate>2023-03-03 08:57:00</pubDate>
@@ -215,8 +208,15 @@
 			<pubDate>2023-03-03 08:57:00</pubDate>
 		</item>
 		<item>
-			<title>Comment (272) of Ann Rogers on Notice of Intent To Conduct Scoping Process and Prepare Environmental Impact Statement; TRISO-X Special Nuclear Material License</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23055B144</link>
+			<title>Comment (285) of Helen Manning-Brown on Notice of Intent To Conduct Scoping Process and Prepare Environmental Impact Statement; TRISO-X Special Nuclear Material License</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23055B178</link>
+			<description>General FR Notice Comment Letter</description>
+			<author>- No Known Affiliation</author>
+			<pubDate>2023-03-03 08:57:00</pubDate>
+		</item>
+		<item>
+			<title>Comment (275) of Colin Kay on Notice of Intent To Conduct Scoping Process and Prepare Environmental Impact Statement; TRISO-X Special Nuclear Material License</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23055B147</link>
 			<description>General FR Notice Comment Letter</description>
 			<author>- No Known Affiliation</author>
 			<pubDate>2023-03-03 08:57:00</pubDate>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 07 Mar 2023 16:19:49 GMT</pubDate>
-		<lastBuildDate>Tue, 07 Mar 2023 16:19:49 GMT</lastBuildDate>
+		<pubDate>Tue, 07 Mar 2023 17:20:59 GMT</pubDate>
+		<lastBuildDate>Tue, 07 Mar 2023 17:20:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -19,17 +19,17 @@
 			<pubDate>2023-03-06 08:31:00</pubDate>
 		</item>
 		<item>
-			<title>Enclosure 2: Holtec International, NRC Meeting: Simulator Certification and Human Factor Engineering</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23060A011</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2023-03-06 08:31:00</pubDate>
-		</item>
-		<item>
 			<title>Enclosure 3: SMR, LLC, Affidavit</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23060A012</link>
 			<description>Legal-Affidavit</description>
 			<author>SMR, LLC</author>
+			<pubDate>2023-03-06 08:31:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: Holtec International, NRC Meeting: Simulator Certification and Human Factor Engineering</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23060A011</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2023-03-06 08:31:00</pubDate>
 		</item>
 		<item>
