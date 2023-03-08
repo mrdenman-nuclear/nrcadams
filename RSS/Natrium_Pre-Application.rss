@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 07 Mar 2023 23:16:17 GMT</pubDate>
-		<lastBuildDate>Tue, 07 Mar 2023 23:16:17 GMT</lastBuildDate>
+		<pubDate>Wed, 08 Mar 2023 14:19:35 GMT</pubDate>
+		<lastBuildDate>Wed, 08 Mar 2023 14:19:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>03/21/2023 Pre-Application meeting with NRC and TerraPower to discuss the Fuel and Control Rod Performance Analysis and Fuel Qualification Plans on the Natrium design.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23053A177</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-03-08 08:42:00</pubDate>
+		</item>
+	</channel>
 </rss>
