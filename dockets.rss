@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 Mar 2023 16:23:52 GMT</pubDate>
-		<lastBuildDate>Thu, 09 Mar 2023 16:23:52 GMT</lastBuildDate>
+		<pubDate>Thu, 09 Mar 2023 17:16:04 GMT</pubDate>
+		<lastBuildDate>Thu, 09 Mar 2023 17:16:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Advance SER Memo to ACRS for NuScale TR-0116-21012, Revision 1, "Nuscale Power Critical Heat Flux Correlations"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23066A094</link>
+			<description>Memoranda</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-03-09 11:34:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 2: Affidavit Pursuant to 10 CFR 2.390 to Withhold Information from Public Disclosure</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23060A007</link>
@@ -213,13 +220,6 @@
 			<description>Administrative Form, NRC</description>
 			<author>NRC/NRR/DEX/EICB</author>
 			<pubDate>2023-03-03 15:44:00</pubDate>
-		</item>
-		<item>
-			<title>TRISO-X Fuel Fabrication Facility Scoping Meetings and Audit Summary - January 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23062A505</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2023-03-03 15:04:00</pubDate>
 		</item>
 	</channel>
 </rss>
