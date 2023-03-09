@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 08 Mar 2023 23:21:20 GMT</pubDate>
-		<lastBuildDate>Wed, 08 Mar 2023 23:21:20 GMT</lastBuildDate>
+		<pubDate>Thu, 09 Mar 2023 14:17:03 GMT</pubDate>
+		<lastBuildDate>Thu, 09 Mar 2023 14:17:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -19,13 +19,6 @@
 			<pubDate>2023-03-07 08:35:00</pubDate>
 		</item>
 		<item>
-			<title>ALS2 Development Process TR Form 898</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23061A158</link>
-			<description>Administrative Form, NRC</description>
-			<author>NRC/NRR/DEX/EICB</author>
-			<pubDate>2023-03-03 15:44:00</pubDate>
-		</item>
-		<item>
 			<title>E-mail to Westinghouse re: Completeness Review for ALS2 Topical Report Development Process</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23061A160</link>
 			<description>E-Mail</description>
@@ -33,25 +26,11 @@
 			<pubDate>2023-03-03 15:44:00</pubDate>
 		</item>
 		<item>
-			<title>Westinghouse, Transmittal of Presentations to Support February 28, 2023 ACRS Subcommittee Meeting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23053A349</link>
-			<description>Letter</description>
-			<author>Westinghouse Electric Co</author>
-			<pubDate>2023-03-02 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Affidavit AW-23-010</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23053A350</link>
-			<description>Legal-Affidavit</description>
-			<author>Westinghouse Electric Co</author>
-			<pubDate>2023-03-02 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: WAAP-12580, Revision 0, "eVinci Microreactor Overview – Non-Proprietary Open Presentation"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23053A351</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Westinghouse Electric Co, Westinghouse Electric Co, LLC</author>
-			<pubDate>2023-03-02 08:31:00</pubDate>
+			<title>ALS2 Development Process TR Form 898</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23061A158</link>
+			<description>Administrative Form, NRC</description>
+			<author>NRC/NRR/DEX/EICB</author>
+			<pubDate>2023-03-03 15:44:00</pubDate>
 		</item>
 	</channel>
 </rss>
