@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 Mar 2023 23:17:55 GMT</pubDate>
-		<lastBuildDate>Thu, 09 Mar 2023 23:17:55 GMT</lastBuildDate>
+		<pubDate>Fri, 10 Mar 2023 14:15:18 GMT</pubDate>
+		<lastBuildDate>Fri, 10 Mar 2023 14:15:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Letter</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2023-03-06 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy, LLC - Summary Of The October 20, 2022, Meeting Between The U.S. Nuclear Regulatory Commission Staff And X Energy, LLC Regarding XE-100 Reactor Training Programs Methodology Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23030A675</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-03-03 08:57:00</pubDate>
 		</item>
 	</channel>
 </rss>
