@@ -5,25 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 10 Mar 2023 22:15:20 GMT</pubDate>
-		<lastBuildDate>Fri, 10 Mar 2023 22:15:20 GMT</lastBuildDate>
+		<pubDate>Mon, 13 Mar 2023 14:15:56 GMT</pubDate>
+		<lastBuildDate>Mon, 13 Mar 2023 14:15:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2023/02/27 NRR E-mail Capture - X Energy, LLC "Xe-100 Licensing Topical Report Control Room Staffing Analysis Methodology," Revision 2 (EPID L-2021-TOP-0028)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23058A433</link>
+			<description>E-Mail, Topical Report</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2023-03-13 08:30:00</pubDate>
+		</item>
 		<item>
 			<title>03/14/2023 Meeting with X Energy, LLC (X-energy) Regarding the "Xe-100 Training Programs Methodology" Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23067A236</link>
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-03-08 13:13:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of X Energy, LLC (X-energy), Xe-100 U.S. Regulatory Engagement Plan (REP) 2023 Update</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23055B259</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2023-03-06 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
