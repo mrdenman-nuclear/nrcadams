@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 Mar 2023 23:15:07 GMT</pubDate>
-		<lastBuildDate>Mon, 13 Mar 2023 23:15:07 GMT</lastBuildDate>
+		<pubDate>Tue, 14 Mar 2023 14:23:22 GMT</pubDate>
+		<lastBuildDate>Tue, 14 Mar 2023 14:23:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Email to TEUSA - Acceptance Review Determination for PDC Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23046A269</link>
-			<description>E-Mail, Topical Report Evaluation</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2023-03-07 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Form 898 TEUSA PDC Topical Report Completeness Determination</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23046A264</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2023-03-07 08:35:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
