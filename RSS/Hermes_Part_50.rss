@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 14 Mar 2023 23:16:40 GMT</pubDate>
-		<lastBuildDate>Tue, 14 Mar 2023 23:16:40 GMT</lastBuildDate>
+		<pubDate>Wed, 15 Mar 2023 15:20:54 GMT</pubDate>
+		<lastBuildDate>Wed, 15 Mar 2023 15:20:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>E-Mail, Topical Report</description>
 			<author>Kairos Power, LLC</author>
 			<pubDate>2023-03-13 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>DEIS Public Meeting Transcript for Kairos Hermes Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22329A011</link>
-			<description>Meeting Transcript</description>
-			<author>NRC/RGN-I</author>
-			<pubDate>2023-03-08 15:00:00</pubDate>
 		</item>
 	</channel>
 </rss>
