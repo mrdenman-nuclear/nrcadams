@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 17 Mar 2023 23:16:19 GMT</pubDate>
-		<lastBuildDate>Fri, 17 Mar 2023 23:16:19 GMT</lastBuildDate>
+		<pubDate>Mon, 20 Mar 2023 14:20:15 GMT</pubDate>
+		<lastBuildDate>Mon, 20 Mar 2023 14:20:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2023-03-16 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>2-7-23 NRC Staff Email re: 10-25-22 SMR (Holtec) Responses to Questions on SMR-160 I&C Architecture White Paper, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22306A023</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2023-03-13 08:30:00</pubDate>
 		</item>
 	</channel>
 </rss>

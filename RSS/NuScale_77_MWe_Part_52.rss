@@ -5,12 +5,54 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 17 Mar 2023 23:16:20 GMT</pubDate>
-		<lastBuildDate>Fri, 17 Mar 2023 23:16:20 GMT</lastBuildDate>
+		<pubDate>Mon, 20 Mar 2023 14:20:15 GMT</pubDate>
+		<lastBuildDate>Mon, 20 Mar 2023 14:20:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Email transmitting DWO TR Completeness Determination to NuScale</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23068A159</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-03-20 10:17:00</pubDate>
+		</item>
+		<item>
+			<title>DWO LTR NuScale Completeness Determination - NRC 898</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23068A158</link>
+			<description>Administrative Form, NRC</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-03-20 10:17:00</pubDate>
+		</item>
+		<item>
+			<title>Topical Report TR-124587, "Extended Passive Cooling And Reactivity Control Methodology," Rev. 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23058A012</link>
+			<description>Topical Report</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-03-20 10:17:00</pubDate>
+		</item>
+		<item>
+			<title>Email Transmitting NRC Form 898, Topical Report TR-124587, "Extended Passive Cooling And Reactivity Control Methodology," Rev. 0.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23058A013</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-03-20 10:17:00</pubDate>
+		</item>
+		<item>
+			<title>Email Transmitting NRC Form 898 for Nuscale Topical Report TR-0516-49422</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23068A105</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-03-20 08:34:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Form 898 - Completeness Determination for Nuscale Topical Report TR-0516-49422, "Loss-Of-Coolant Accident Evaluation Model," Revision 3</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23068A106</link>
+			<description>Administrative Form, NRC</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-03-20 08:34:00</pubDate>
+		</item>
 		<item>
 			<title>Acceptance Review Letter for the NuScale Standard Design Approval Application for US460 SMR Design</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23058A160</link>
@@ -24,13 +66,6 @@
 			<description>Federal Register Notice</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2023-03-17 13:25:00</pubDate>
-		</item>
-		<item>
-			<title>January 25, 2023, Summary of Public Meeting  To Discuss The Nuscale Us460 Standard Design Approval Density Wave Oscillations Topical Report Held</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23059A002</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-03-13 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
