@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 20 Mar 2023 23:18:28 GMT</pubDate>
-		<lastBuildDate>Mon, 20 Mar 2023 23:18:28 GMT</lastBuildDate>
+		<pubDate>Tue, 21 Mar 2023 14:14:01 GMT</pubDate>
+		<lastBuildDate>Tue, 21 Mar 2023 14:14:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>3-10-23 - Email to J. Hawkins, SMR (Holtec) - NRC Staff Response to SMR (Holtec) Follow-up Question re: RCS Flow Instrumentation (Project 99902049)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23069A015</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-03-21 09:35:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC, Preapplication Meeting Materials for March 22, 2023</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23072A002</link>
+			<description>Letter</description>
+			<author>SMR, LLC</author>
+			<pubDate>2023-03-21 08:36:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC, Meeting Presentation Materials for March 22 , 2023</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23072A004</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Holtec International</author>
+			<pubDate>2023-03-21 08:36:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC, Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23072A005</link>
+			<description>Legal-Affidavit</description>
+			<author>SMR, LLC</author>
+			<pubDate>2023-03-21 08:36:00</pubDate>
+		</item>
 		<item>
 			<title>03/29/2023 Pre-application meeting with Oklo to discuss source term and design criteria</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23079A262</link>
@@ -192,34 +220,6 @@
 			<description>Federal Register Notice</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2023-03-17 13:25:00</pubDate>
-		</item>
-		<item>
-			<title>FRN - NuScale US460 Standard Design Approval Application Receipt and Availability - Jan 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23018A015</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-03-17 13:25:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (579) of Jeffrey Bains on Notice of Intent To Conduct Scoping Process and Prepare Environmental Impact Statement; TRISO–X Special Nuclear Material License</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23069A162</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2023-03-17 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (580) of H. Schaktman on Notice of Intent To Conduct Scoping Process and Prepare Environmental Impact Statement; TRISO–X Special Nuclear Material License</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23069A164</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2023-03-17 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (581) of Marie Young on Notice of Intent To Conduct Scoping Process and Prepare Environmental Impact Statement; TRISO–X Special Nuclear Material License</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23069A165</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2023-03-17 08:30:00</pubDate>
 		</item>
 	</channel>
 </rss>
