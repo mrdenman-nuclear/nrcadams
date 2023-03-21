@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Mar 2023 15:13:38 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Mar 2023 15:13:38 GMT</lastBuildDate>
+		<pubDate>Tue, 21 Mar 2023 16:16:43 GMT</pubDate>
+		<lastBuildDate>Tue, 21 Mar 2023 16:16:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>11/16/2022 Summary Of Public Meeting For The Draft Environmental Impact Statement For The Kairos Hermes Test Reactor Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23031A160</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NMSS/DREFS/ENRB</author>
+			<pubDate>2023-03-21 11:20:00</pubDate>
+		</item>
 		<item>
 			<title>3-10-23 - Email to J. Hawkins, SMR (Holtec) - NRC Staff Response to SMR (Holtec) Follow-up Question re: RCS Flow Instrumentation (Project 99902049)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23069A015</link>
@@ -213,13 +220,6 @@
 			<description>Acceptance Review Letter, Request for Additional Information (RAI)</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2023-03-17 16:02:00</pubDate>
-		</item>
-		<item>
-			<title>FRN - NuScale US460 Standard Design Approval Application Receipt and Availability - Jan 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23018A015</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-03-17 13:25:00</pubDate>
 		</item>
 	</channel>
 </rss>
