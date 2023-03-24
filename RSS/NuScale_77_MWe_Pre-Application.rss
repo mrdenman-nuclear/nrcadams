@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 23 Mar 2023 23:15:29 GMT</pubDate>
-		<lastBuildDate>Thu, 23 Mar 2023 23:15:29 GMT</lastBuildDate>
+		<pubDate>Fri, 24 Mar 2023 14:15:14 GMT</pubDate>
+		<lastBuildDate>Fri, 24 Mar 2023 14:15:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Acceptance Review Letter for the NuScale Standard Design Approval Application for US460 SMR Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23058A160</link>
-			<description>Acceptance Review Letter, Request for Additional Information (RAI)</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-03-17 16:02:00</pubDate>
-		</item>
-		<item>
-			<title>FRN - NuScale US460 Standard Design Approval Application Receipt and Availability - Jan 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23018A015</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-03-17 13:25:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
