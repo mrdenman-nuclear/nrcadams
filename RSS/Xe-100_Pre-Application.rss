@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 Mar 2023 23:14:42 GMT</pubDate>
-		<lastBuildDate>Fri, 24 Mar 2023 23:14:42 GMT</lastBuildDate>
+		<pubDate>Mon, 27 Mar 2023 14:27:56 GMT</pubDate>
+		<lastBuildDate>Mon, 27 Mar 2023 14:27:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Slides and Viewgraphs</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2023-03-21 14:25:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy LLC - Safety Evaluation of XE-100 Topical Report TRISO-X Pebble Fuel Qualification Methodology Revision No. 3 (EPID NO. L-2021-TOP-0011) - REDACTED</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22327A201</link>
-			<description>Safety Evaluation Report</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-03-20 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>Cover Letter – X Energy, LLC - Safety Evaluation of Xe-100 Topical Report, TRISO-X Pebble Fuel Qualification Methodology, Revision No. 3 (EPID NO. L-2021-TOP-0011)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22327A198</link>
-			<description>Letter, Safety Evaluation</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-03-20 08:34:00</pubDate>
 		</item>
 	</channel>
 </rss>
