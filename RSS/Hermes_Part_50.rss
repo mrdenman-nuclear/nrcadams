@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 27 Mar 2023 23:15:56 GMT</pubDate>
-		<lastBuildDate>Mon, 27 Mar 2023 23:15:56 GMT</lastBuildDate>
+		<pubDate>Tue, 28 Mar 2023 14:16:45 GMT</pubDate>
+		<lastBuildDate>Tue, 28 Mar 2023 14:16:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Kairos attendance list</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23031A165</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NMSS/DREFS/ENRB</author>
-			<pubDate>2023-03-21 13:08:00</pubDate>
-		</item>
-		<item>
-			<title>11/16/2022 Summary Of Public Meeting For The Draft Environmental Impact Statement For The Kairos Hermes Test Reactor Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23031A160</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NMSS/DREFS/ENRB</author>
-			<pubDate>2023-03-21 11:20:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
