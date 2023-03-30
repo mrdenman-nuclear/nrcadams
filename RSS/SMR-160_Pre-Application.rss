@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 29 Mar 2023 23:14:47 GMT</pubDate>
-		<lastBuildDate>Wed, 29 Mar 2023 23:14:47 GMT</lastBuildDate>
+		<pubDate>Thu, 30 Mar 2023 14:16:32 GMT</pubDate>
+		<lastBuildDate>Thu, 30 Mar 2023 14:16:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,34 +66,6 @@
 			<description>Meeting Summary</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2023-03-24 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - 02/15/2023 Meeting Summary with SMR, LLC, a Holtec International Company, to Discuss SMR-160 Fire Protection</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23044A018</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-03-23 08:45:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3 - 02/15/2023 Meeting Summary with SMR, LLC, a Holtec International Company, to Discuss SMR-160 Fire Protection</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23044A019</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-03-23 08:45:00</pubDate>
-		</item>
-		<item>
-			<title>02/15/2023 Meeting Summary with SMR, LLC, a Holtec International Company, to Discuss SMR-160 Fire Protection</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23044A020</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-03-23 08:44:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - 02/15/2023 Meeting Agenda with SMR, LLC, a Holtec International Company, to Discuss SMR-160 Fire Protection</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23044A017</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-03-23 08:44:00</pubDate>
 		</item>
 	</channel>
 </rss>
