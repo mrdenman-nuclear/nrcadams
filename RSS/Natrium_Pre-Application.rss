@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 30 Mar 2023 23:15:34 GMT</pubDate>
-		<lastBuildDate>Thu, 30 Mar 2023 23:15:34 GMT</lastBuildDate>
+		<pubDate>Fri, 31 Mar 2023 14:14:58 GMT</pubDate>
+		<lastBuildDate>Fri, 31 Mar 2023 14:14:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Legal-Affidavit, Letter, Report, Technical</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2023-03-28 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC, Fuel and Control Assembly Qualification Presentation Material</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23066A331</link>
-			<description>Legal-Affidavit, Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2023-03-24 13:33:00</pubDate>
-		</item>
-		<item>
-			<title>Staff Observations Regarding TerraPower, LLC White Paper NATD-EQT-RPT-0001, "Natrium Reactor Testing Programs"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23074A347</link>
-			<description>Technical Paper</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-03-24 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,67 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 30 Mar 2023 23:15:34 GMT</pubDate>
-		<lastBuildDate>Thu, 30 Mar 2023 23:15:34 GMT</lastBuildDate>
+		<pubDate>Fri, 31 Mar 2023 14:14:59 GMT</pubDate>
+		<lastBuildDate>Fri, 31 Mar 2023 14:14:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Audit Plan - NuScale SDA Application Request for Supplemental Information (RSI)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23067A298</link>
-			<description>Audit Plan, Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-03-24 09:36:00</pubDate>
-		</item>
-		<item>
-			<title>Audit Plan - NuScale SDA Application Phase A Safety Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23067A300</link>
-			<description>Audit Plan, Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-03-24 09:36:00</pubDate>
-		</item>
-		<item>
-			<title>Email - Topical Report Withholding Determination transmittal to NuScale - TR-0516-49416 NON-LOCA</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23068A094</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-03-24 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>Email Transmitting NRC Form 897 for NuScale Topical Report TR-0516-49422</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23068A121</link>
-			<description>E-Mail, Topical Report Evaluation</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-03-24 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Form 897 - Withholding Determination for NuScale Topical Report TR-0516-49422, "Loss-Of-Coolant Accident Evaluation Model," Revision 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23068A122</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-03-24 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>Form 897 - Topical Report Withholding Determination - TR-0516-49416, "Non-Loss-of-Coolant Accident Analysis Methodology", Revision 4</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23068A095</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-03-24 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>Email: Withholding Determination - NRC Form 897 - For NuScale Topical Report TR-124587, "Extended Passive Cooling and Reactivity Control Methodology," Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23069A009</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-03-24 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Determination - NRC Form 897 - For NuScale Topical Report TR-124587, "Extended Passive Cooling and Reactivity Control Methodology," Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23069A010</link>
-			<description>Proprietary Information Review, Topical Report</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-03-24 08:29:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
