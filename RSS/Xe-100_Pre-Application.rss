@@ -5,25 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Apr 2023 23:16:29 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Apr 2023 23:16:29 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Apr 2023 14:16:13 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Apr 2023 14:16:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Withdrawal of X Energy, LLC (X-energy) Xe-100 Topical Report: Training Programs Methodology</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23087A024</link>
+			<description>Letter</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2023-04-05 09:59:00</pubDate>
+		</item>
+		<item>
+			<title>Submittal of X Energy, LLC (X-energy) Xe-100 Slide Deck, "Control Room Operator Qualification Discussion"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23087A022</link>
+			<description>Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2023-04-05 08:37:00</pubDate>
+		</item>
 		<item>
 			<title>2023/03/20 NRR E-mail Capture - X Energy, LLC - Safety Evaluation of Xe-100 Topical Report, TRISO-X Pebble Fuel Qualification Methodology, Revision No. 3 (EPID NO. L-2021-TOP-0011)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23079A108</link>
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2023-04-03 08:38:00</pubDate>
-		</item>
-		<item>
-			<title>04/17/2023 Meeting with X Energy, LLC Regarding the Xe-100 Slide Deck "Control Room Operator Qualification Discussion"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23088A181</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-03-29 13:46:00</pubDate>
 		</item>
 	</channel>
 </rss>

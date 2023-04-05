@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Apr 2023 23:16:29 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Apr 2023 23:16:29 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Apr 2023 14:16:13 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Apr 2023 14:16:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,20 +17,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2023-03-31 16:32:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Presentation Slides for the April 4, 2023 ACRS Kairos Power Subcommittee Meeting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23088A069</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2023-03-29 15:27:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Transmitatl of Presentation Materials for Kairos Power Briefing to the Advisory Committee on Reactor Safeguards, Subcommittee on Hermes Preliminary Safety Analysis Report Chapters 5, 7, 8, and 11</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23088A068</link>
-			<description>Letter</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2023-03-29 15:27:00</pubDate>
 		</item>
 	</channel>
 </rss>
