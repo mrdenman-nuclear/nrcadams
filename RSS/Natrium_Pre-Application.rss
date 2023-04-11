@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Apr 2023 15:15:19 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Apr 2023 15:15:19 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Apr 2023 16:17:53 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Apr 2023 16:17:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>04/13/2023 Pre-Application Meeting with NRC and TerraPower to discuss the Instrumentation and Controls (I&C) Defense-in-Depth and Diversity on the Natrium design.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23101A092</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-04-11 12:03:00</pubDate>
+		</item>
 		<item>
 			<title>04/26/2023 Pre-Application Meeting with TerraPower to discuss the Mechanistic Source Term and Radiological Release Consequences</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23101A041</link>
@@ -31,13 +38,6 @@
 			<description>Slides and Viewgraphs</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2023-04-11 09:19:00</pubDate>
-		</item>
-		<item>
-			<title>04/13/2023 Pre-Application Meeting with NRC and TerraPower to discuss the Instrumentation and Controls (I&C) Defense-in-Depth and Diversity on the Natrium design.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23101A038</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-04-11 09:14:00</pubDate>
 		</item>
 		<item>
 			<title>TerraPower Plant and Licensing Strategy Overview Presentations to the Advisory Committee on Reactor Safeguards</title>
