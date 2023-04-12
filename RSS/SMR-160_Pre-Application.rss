@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Apr 2023 23:14:35 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Apr 2023 23:14:35 GMT</lastBuildDate>
+		<pubDate>Wed, 12 Apr 2023 14:14:37 GMT</pubDate>
+		<lastBuildDate>Wed, 12 Apr 2023 14:14:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>Report, Technical</description>
 			<author>SMR, LLC</author>
 			<pubDate>2023-04-06 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC Meeting Presentation Materials re SMR-160 LOCA Exemption Update # 1 for April 5, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23088A031</link>
-			<description>Slides and Viewgraphs</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2023-04-05 10:58:00</pubDate>
 		</item>
 	</channel>
 </rss>
