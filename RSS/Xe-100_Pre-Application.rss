@@ -5,39 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 12 Apr 2023 23:14:55 GMT</pubDate>
-		<lastBuildDate>Wed, 12 Apr 2023 23:14:55 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Apr 2023 14:14:45 GMT</pubDate>
+		<lastBuildDate>Thu, 13 Apr 2023 14:14:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure - Audit Report for PDC Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23093A215</link>
+			<description>Audit Report</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-04-13 08:28:00</pubDate>
+		</item>
+		<item>
+			<title>X Energy LLC - PDC Audit Report Transmittal Letter</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23093A216</link>
+			<description>Audit Report, Letter</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-04-13 08:28:00</pubDate>
+		</item>
 		<item>
 			<title>04/24/2023 Discussion of the X-energy White Paper, "Graphite Qualification Methodology."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23102A157</link>
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-04-12 13:15:00</pubDate>
-		</item>
-		<item>
-			<title>Transient Methodologies SE and Graphite meeting Summary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23037A947</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-04-06 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal letter for Final Safety Evaluation for Xe-100 Topical Report Transient and Safety Analysis Methodologies Framework, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23037A948</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-04-06 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Final Safety Evaluation for Xe-100 Topical Report Transient and Safety Analysis Methodologies Framework, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23086C082</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-04-06 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

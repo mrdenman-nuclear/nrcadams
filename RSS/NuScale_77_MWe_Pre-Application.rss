@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 12 Apr 2023 23:14:55 GMT</pubDate>
-		<lastBuildDate>Wed, 12 Apr 2023 23:14:55 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Apr 2023 14:14:46 GMT</pubDate>
+		<lastBuildDate>Thu, 13 Apr 2023 14:14:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2023-04-07 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>Meeting Summary of the January 19, 2023, Observation Public Meeting to Discuss NuScale Power, LLC’s Approach for Treatment of DC Power</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23081A002</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-04-06 08:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
