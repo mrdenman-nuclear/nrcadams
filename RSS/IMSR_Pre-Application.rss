@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Apr 2023 23:16:23 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Apr 2023 23:16:23 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Apr 2023 14:14:25 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Apr 2023 14:14:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Terrestrial Energy USA, Inc. Report #230327: TEUSA Regulatory Engagement Plan, Version 6</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23096A224</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>Terrestrial Energy USA, Inc</author>
+			<pubDate>2023-04-14 08:31:00</pubDate>
+		</item>
+	</channel>
 </rss>

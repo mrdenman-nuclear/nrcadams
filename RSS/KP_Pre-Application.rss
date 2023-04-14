@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Apr 2023 23:16:23 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Apr 2023 23:16:23 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Apr 2023 14:14:27 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Apr 2023 14:14:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,34 +38,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-04-12 16:07:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Environmental Report HER-ER-001 for the Kairos Power Fluoride Salt-Cooled, High Temperature Non-Power Reactor (Hermes), Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23089A388</link>
-			<description>Environmental Report</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2023-04-07 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Submittal of the Environmental Report for the Kairos Power Fluoride Salt-Cooled, High Temperature Non-Power Reactor (Hermes), Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23089A387</link>
-			<description>Letter</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2023-04-07 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Approved Version of Fuel Qualification Methodology</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23089A396</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2023-04-07 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Kairos Power LLC, KP-FHR Fuel Qualification Methodology</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23089A398</link>
-			<description>Report, Technical</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2023-04-07 08:36:00</pubDate>
 		</item>
 	</channel>
 </rss>

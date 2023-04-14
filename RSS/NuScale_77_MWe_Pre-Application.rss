@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Apr 2023 23:16:23 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Apr 2023 23:16:23 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Apr 2023 14:14:26 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Apr 2023 14:14:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Memoranda</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2023-04-11 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>March 21, 2023, Preapplication Public Meeting with NuScale</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23089A005</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-04-07 08:36:00</pubDate>
 		</item>
 	</channel>
 </rss>
