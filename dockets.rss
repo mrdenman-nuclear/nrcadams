@@ -5,12 +5,82 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 14 Apr 2023 15:14:43 GMT</pubDate>
-		<lastBuildDate>Fri, 14 Apr 2023 15:14:43 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Apr 2023 16:18:10 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Apr 2023 16:18:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>STJ-02MSRE-D992 MSRE Engr Eval 2016</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23104A056</link>
+			<description>Report, Technical</description>
+			<author>CH2M Hill, Oak Ridge, LLC</author>
+			<pubDate>2023-04-14 11:18:00</pubDate>
+		</item>
+		<item>
+			<title>ORNL ER-380 MSRE Salt Disposition Alternatives</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23104A054</link>
+			<description>Report, Technical</description>
+			<author>Lockheed Martin Energy Systems, Inc</author>
+			<pubDate>2023-04-14 11:18:00</pubDate>
+		</item>
+		<item>
+			<title>Cleanup Progress 2020</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23104A048</link>
+			<description>Annual Operating Report</description>
+			<author>Oak Ridge National Lab (ORNL)</author>
+			<pubDate>2023-04-14 11:17:00</pubDate>
+		</item>
+		<item>
+			<title>DOE-OR-01-2513aD1 Gamma Spec of Salt</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23104A050</link>
+			<description>Report, Technical</description>
+			<author>Oak Ridge, LLC</author>
+			<pubDate>2023-04-14 11:17:00</pubDate>
+		</item>
+		<item>
+			<title>DOE-OR-01-2560aD2 Remediation Strategy</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23104A051</link>
+			<description>Report, Technical</description>
+			<author>Oak Ridge, LLC</author>
+			<pubDate>2023-04-14 11:17:00</pubDate>
+		</item>
+		<item>
+			<title>MSRE TRU Waste Determination LA-UR-10-07278</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23104A053</link>
+			<description>Report, Technical</description>
+			<author>Los Alamos National Lab (LANL)</author>
+			<pubDate>2023-04-14 11:17:00</pubDate>
+		</item>
+		<item>
+			<title>Significant Differences ROD</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23104A055</link>
+			<description>Report, Technical</description>
+			<author>Bechtel Jacobs Co, LLC</author>
+			<pubDate>2023-04-14 11:17:00</pubDate>
+		</item>
+		<item>
+			<title>1988 RAP-17 Notz DND of MSRE</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23104A047</link>
+			<description>Report, Technical</description>
+			<author>Martin Marietta Energy Systems, Inc, Oak Ridge National Lab (ORNL)</author>
+			<pubDate>2023-04-14 11:17:00</pubDate>
+		</item>
+		<item>
+			<title>DOE-OR-01-2496aD1 Salt Options</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23104A049</link>
+			<description>Report, Technical</description>
+			<author>Bechtel Jacobs Co, LLC</author>
+			<pubDate>2023-04-14 11:17:00</pubDate>
+		</item>
+		<item>
+			<title>MSRE ROD</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23104A052</link>
+			<description>Report, Technical</description>
+			<author>Jacobs</author>
+			<pubDate>2023-04-14 11:17:00</pubDate>
+		</item>
 		<item>
 			<title>04/21/2023 meeting with Oklo to discuss Safety Classification</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23104A096</link>
@@ -147,76 +217,6 @@
 		<item>
 			<title>Comment (1067) of Nicolas Davies on Notice of Intent To Conduct Scoping Process and Prepare Environmental Impact Statement; TRISO–X Special Nuclear Material License</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23097A186</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2023-04-14 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (1068) of Monique Edwards on Notice of Intent To Conduct Scoping Process and Prepare Environmental Impact Statement; TRISO–X Special Nuclear Material License</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23097A187</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2023-04-14 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (1069) of Ernest Fuller on Notice of Intent To Conduct Scoping Process and Prepare Environmental Impact Statement; TRISO–X Special Nuclear Material License</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23097A189</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2023-04-14 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (1070) of Peter Mitchell on Notice of Intent To Conduct Scoping Process and Prepare Environmental Impact Statement; TRISO–X Special Nuclear Material License</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23097A190</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2023-04-14 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (1071) of Laurie Gates on Notice of Intent To Conduct Scoping Process and Prepare Environmental Impact Statement; TRISO–X Special Nuclear Material License</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23097A191</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2023-04-14 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (1072) of Sherrill Futrell on Notice of Intent To Conduct Scoping Process and Prepare Environmental Impact Statement; TRISO–X Special Nuclear Material License</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23097A192</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2023-04-14 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (1073) of Winke Self on Notice of Intent To Conduct Scoping Process and Prepare Environmental Impact Statement; TRISO–X Special Nuclear Material License</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23097A193</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2023-04-14 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (1074) of Sheila Kelley on Notice of Intent To Conduct Scoping Process and Prepare Environmental Impact Statement; TRISO–X Special Nuclear Material License</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23097A194</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2023-04-14 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (1075) of K. Castelluccio on Notice of Intent To Conduct Scoping Process and Prepare Environmental Impact Statement; TRISO-X Special Nuclear Material License</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23097A195</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2023-04-14 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (1076) of Carla Morin on Notice of Intent To Conduct Scoping Process and Prepare Environmental Impact Statement; TRISO-X Special Nuclear Material License</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23097A196</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2023-04-14 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (1077) of Jewell Batway on Notice of Intent To Conduct Scoping Process and Prepare Environmental Impact Statement; TRISO-X Special Nuclear Material License</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23097A197</link>
 			<description>General FR Notice Comment Letter</description>
 			<author>- No Known Affiliation</author>
 			<pubDate>2023-04-14 08:31:00</pubDate>
