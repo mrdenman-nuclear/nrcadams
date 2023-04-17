@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 14 Apr 2023 23:14:43 GMT</pubDate>
-		<lastBuildDate>Fri, 14 Apr 2023 23:14:43 GMT</lastBuildDate>
+		<pubDate>Mon, 17 Apr 2023 14:14:27 GMT</pubDate>
+		<lastBuildDate>Mon, 17 Apr 2023 14:14:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,13 +52,6 @@
 			<description>Slides and Viewgraphs</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2023-04-11 09:19:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower Plant and Licensing Strategy Overview Presentations to the Advisory Committee on Reactor Safeguards</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23090A228</link>
-			<description>Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2023-04-10 08:30:00</pubDate>
 		</item>
 	</channel>
 </rss>
