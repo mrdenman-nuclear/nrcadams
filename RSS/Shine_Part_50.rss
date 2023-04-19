@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 18 Apr 2023 23:14:25 GMT</pubDate>
-		<lastBuildDate>Tue, 18 Apr 2023 23:14:25 GMT</lastBuildDate>
+		<pubDate>Wed, 19 Apr 2023 14:15:35 GMT</pubDate>
+		<lastBuildDate>Wed, 19 Apr 2023 14:15:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Shine Technologies, LLC - Review of the Physical Security Plan in Support of an Operating License for a Medical Radioisotope Production Facility</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23088A338</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2023-04-19 08:33:00</pubDate>
+		</item>
+	</channel>
 </rss>
