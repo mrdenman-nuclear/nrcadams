@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 20 Apr 2023 23:16:07 GMT</pubDate>
-		<lastBuildDate>Thu, 20 Apr 2023 23:16:07 GMT</lastBuildDate>
+		<pubDate>Fri, 21 Apr 2023 14:14:23 GMT</pubDate>
+		<lastBuildDate>Fri, 21 Apr 2023 14:14:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,76 +17,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2023-04-19 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>STJ-02MSRE-D992 MSRE Engr Eval 2016</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23104A056</link>
-			<description>Report, Technical</description>
-			<author>CH2M Hill, Oak Ridge, LLC</author>
-			<pubDate>2023-04-14 11:18:00</pubDate>
-		</item>
-		<item>
-			<title>ORNL ER-380 MSRE Salt Disposition Alternatives</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23104A054</link>
-			<description>Report, Technical</description>
-			<author>Lockheed Martin Energy Systems, Inc</author>
-			<pubDate>2023-04-14 11:18:00</pubDate>
-		</item>
-		<item>
-			<title>Cleanup Progress 2020</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23104A048</link>
-			<description>Annual Operating Report</description>
-			<author>Oak Ridge National Lab (ORNL)</author>
-			<pubDate>2023-04-14 11:17:00</pubDate>
-		</item>
-		<item>
-			<title>DOE-OR-01-2513aD1 Gamma Spec of Salt</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23104A050</link>
-			<description>Report, Technical</description>
-			<author>Oak Ridge, LLC</author>
-			<pubDate>2023-04-14 11:17:00</pubDate>
-		</item>
-		<item>
-			<title>DOE-OR-01-2560aD2 Remediation Strategy</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23104A051</link>
-			<description>Report, Technical</description>
-			<author>Oak Ridge, LLC</author>
-			<pubDate>2023-04-14 11:17:00</pubDate>
-		</item>
-		<item>
-			<title>MSRE TRU Waste Determination LA-UR-10-07278</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23104A053</link>
-			<description>Report, Technical</description>
-			<author>Los Alamos National Lab (LANL)</author>
-			<pubDate>2023-04-14 11:17:00</pubDate>
-		</item>
-		<item>
-			<title>Significant Differences ROD</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23104A055</link>
-			<description>Report, Technical</description>
-			<author>Bechtel Jacobs Co, LLC</author>
-			<pubDate>2023-04-14 11:17:00</pubDate>
-		</item>
-		<item>
-			<title>1988 RAP-17 Notz DND of MSRE</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23104A047</link>
-			<description>Report, Technical</description>
-			<author>Martin Marietta Energy Systems, Inc, Oak Ridge National Lab (ORNL)</author>
-			<pubDate>2023-04-14 11:17:00</pubDate>
-		</item>
-		<item>
-			<title>DOE-OR-01-2496aD1 Salt Options</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23104A049</link>
-			<description>Report, Technical</description>
-			<author>Bechtel Jacobs Co, LLC</author>
-			<pubDate>2023-04-14 11:17:00</pubDate>
-		</item>
-		<item>
-			<title>MSRE ROD</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23104A052</link>
-			<description>Report, Technical</description>
-			<author>Jacobs</author>
-			<pubDate>2023-04-14 11:17:00</pubDate>
 		</item>
 	</channel>
 </rss>
