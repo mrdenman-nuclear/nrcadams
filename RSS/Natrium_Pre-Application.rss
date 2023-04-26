@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 25 Apr 2023 23:16:09 GMT</pubDate>
-		<lastBuildDate>Tue, 25 Apr 2023 23:16:09 GMT</lastBuildDate>
+		<pubDate>Wed, 26 Apr 2023 14:15:27 GMT</pubDate>
+		<lastBuildDate>Wed, 26 Apr 2023 14:15:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,27 +24,6 @@
 			<description>Legal-Affidavit, Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2023-04-24 08:46:00</pubDate>
-		</item>
-		<item>
-			<title>04/25/2023 Pre-Application Meeting with TerraPower to discuss Use of Safety Analysis (SAS) Code</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23109A339</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-04-19 16:49:00</pubDate>
-		</item>
-		<item>
-			<title>04/26/2023 Pre-Application Meeting with TerraPower to discuss the Mechanistic Source Term and Radiological Release Consequences</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23109A335</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-04-19 16:18:00</pubDate>
-		</item>
-		<item>
-			<title>September 26, 2022, Summary of the Closed Meeting With Terrapower, LLC, Pre-Application Meeting With Terrapower To Discuss In-Vessel Instrumentation For The Natrium Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23031A116</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-04-19 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,32 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 25 Apr 2023 23:16:09 GMT</pubDate>
-		<lastBuildDate>Tue, 25 Apr 2023 23:16:09 GMT</lastBuildDate>
+		<pubDate>Wed, 26 Apr 2023 14:15:27 GMT</pubDate>
+		<lastBuildDate>Wed, 26 Apr 2023 14:15:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>05/04/2023 Meeting with Westinghouse to discuss ALS version 2 topical reports</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23108A312</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-04-19 10:09:00</pubDate>
-		</item>
-		<item>
-			<title>Request For Withholding Proprietary Information From Public Disclosure For Westinghouse Electric Company LLC Evinci White Paper Submitted On October 26 2022</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23026A231</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-04-19 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Request For Withholding Proprietary Information From Public Disclosure For Westinghouse Evinci Microreactor 2022 Pre-Application Regulatory Engagement Plan (EVR-LIC-GH-001, Revision 1)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23048A318</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-04-19 08:32:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
