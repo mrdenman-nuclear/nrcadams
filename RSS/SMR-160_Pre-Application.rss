@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 26 Apr 2023 23:16:19 GMT</pubDate>
-		<lastBuildDate>Wed, 26 Apr 2023 23:16:19 GMT</lastBuildDate>
+		<pubDate>Thu, 27 Apr 2023 14:15:04 GMT</pubDate>
+		<lastBuildDate>Thu, 27 Apr 2023 14:15:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclossure 3: Affidavit Pursuant to 10 CFR 2.390 to Withhold Information from Public Disclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23109A005</link>
+			<description>Legal-Affidavit</description>
+			<author>SMR, LLC</author>
+			<pubDate>2023-04-27 08:36:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC, Submittal of Preapplication Meeting Materials for May 3, 2023</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23109A002</link>
+			<description>Letter</description>
+			<author>SMR, LLC</author>
+			<pubDate>2023-04-27 08:36:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 1 - 03/08/2023 Meeting Agenda of Public Meeting with SMR, LLC, a Holtec International Company, to Discuss Questions re: SMR-160 Simulator, Operator Licensing, and Operating Experience Review</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23045A026</link>
@@ -101,41 +115,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-04-21 10:17:00</pubDate>
-		</item>
-		<item>
-			<title>05/25/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding proprietary Loss-of-Coolant Accident Analysis information to support the Construction Permit for the Holtec SMR-160 design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23110A738</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-04-20 16:12:00</pubDate>
-		</item>
-		<item>
-			<title>06/28/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding applicability of 10 CFR Part 50 Appendix K to support the Construction Permit for the Holtec SMR-160 design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23110A737</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-04-20 16:10:00</pubDate>
-		</item>
-		<item>
-			<title>06/20/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding Human Factors Engineering Programs to support the Construction Permit for the Holtec SMR-160 design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23110A709</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-04-20 15:53:00</pubDate>
-		</item>
-		<item>
-			<title>06/13/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding verification and validation of codes to support the Construction Permit for the Holtec SMR-160 design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23110A692</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-04-20 15:46:00</pubDate>
-		</item>
-		<item>
-			<title>06/07/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding 10 CFR 50.62 (anticipated transients without scram (ATWS) rule) to support the Construction Permit for the Holtec SMR-160 design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23110A635</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-04-20 14:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
