@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 28 Apr 2023 23:16:20 GMT</pubDate>
-		<lastBuildDate>Fri, 28 Apr 2023 23:16:20 GMT</lastBuildDate>
+		<pubDate>Mon, 01 May 2023 14:15:27 GMT</pubDate>
+		<lastBuildDate>Mon, 01 May 2023 14:15:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -16,7 +16,21 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23089A401</link>
 			<description>Letter</description>
 			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-04-27 13:51:00</pubDate>
+			<pubDate>2023-05-01 09:38:00</pubDate>
+		</item>
+		<item>
+			<title>Oklo, Inc. - "Source Term Modeling Overview" - White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23111A297</link>
+			<description>Letter</description>
+			<author>Oklo Inc</author>
+			<pubDate>2023-05-01 08:34:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2 - Affidavit of Ross Moore</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23111A299</link>
+			<description>Legal-Affidavit</description>
+			<author>Oklo Inc</author>
+			<pubDate>2023-05-01 08:34:00</pubDate>
 		</item>
 	</channel>
 </rss>

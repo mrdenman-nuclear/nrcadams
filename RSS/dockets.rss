@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 28 Apr 2023 23:16:12 GMT</pubDate>
-		<lastBuildDate>Fri, 28 Apr 2023 23:16:12 GMT</lastBuildDate>
+		<pubDate>Mon, 01 May 2023 14:15:20 GMT</pubDate>
+		<lastBuildDate>Mon, 01 May 2023 14:15:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Cover Letter - Oklo Inc. - NRC Feedback Regarding Oklo White Paper on Safety Analysis Initiating Events Analysis</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23089A401</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-05-01 09:38:00</pubDate>
+		</item>
+		<item>
+			<title>Oklo, Inc. - "Source Term Modeling Overview" - White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23111A297</link>
+			<description>Letter</description>
+			<author>Oklo Inc</author>
+			<pubDate>2023-05-01 08:34:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2 - Affidavit of Ross Moore</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23111A299</link>
+			<description>Legal-Affidavit</description>
+			<author>Oklo Inc</author>
+			<pubDate>2023-05-01 08:34:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 3 - 2-21-23 Meeting Summary with SMR, LLC, a Holtec International Company, to Discuss SMR-160 Chapter 15 Analysis</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23019A271</link>
@@ -52,13 +73,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-04-27 14:03:00</pubDate>
-		</item>
-		<item>
-			<title>Cover Letter - Oklo Inc. - NRC Feedback Regarding Oklo White Paper on Safety Analysis Initiating Events Analysis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23089A401</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-04-27 13:51:00</pubDate>
 		</item>
 		<item>
 			<title>Kairos Power, LLC - Transmittal of Changes to Preliminary Safety Analysis Report</title>
@@ -185,41 +199,6 @@
 			<description>Graphics incl Charts and Tables</description>
 			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2023-04-25 09:04:00</pubDate>
-		</item>
-		<item>
-			<title>09/20/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding loss-of-coolant accident analysis to support the Construction Permit for the Holtec SMR-160 design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23114A096</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-04-24 10:21:00</pubDate>
-		</item>
-		<item>
-			<title>09/06/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding SECY-94-084 to support the Construction Permit for the Holtec SMR-160 design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23114A092</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-04-24 10:13:00</pubDate>
-		</item>
-		<item>
-			<title>08/23/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding instrumentation & control to support the Construction Permit for the Holtec SMR-160 design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23114A089</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-04-24 10:12:00</pubDate>
-		</item>
-		<item>
-			<title>08/09/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding seismic methodology to support the Construction Permit for the Holtec SMR-160 design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23114A086</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-04-24 10:10:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC - SAS4A/SASSYS-1 As Evaluation Model for In-Vessel DBA and LBEs without Radiological Release Presentation Material</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23104A079</link>
-			<description>Legal-Affidavit, Letter, Meeting Briefing Package/Handouts, Report, Technical, Slides and Viewgraphs</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2023-04-24 08:46:00</pubDate>
 		</item>
 	</channel>
 </rss>
