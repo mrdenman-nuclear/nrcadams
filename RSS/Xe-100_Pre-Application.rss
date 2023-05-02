@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 01 May 2023 23:19:29 GMT</pubDate>
-		<lastBuildDate>Mon, 01 May 2023 23:19:29 GMT</lastBuildDate>
+		<pubDate>Tue, 02 May 2023 14:14:45 GMT</pubDate>
+		<lastBuildDate>Tue, 02 May 2023 14:14:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>X Energy, LLC (X-energy) - Responses to Request for Additional Information on the NRC Assessment of the Xe-100 Licensing Topical Report, "Control Room Staffing Methodology and Implementation Plans"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22293B806</link>
+			<description>Letter, Response to Request for Additional Information (RAI)</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2023-05-02 09:39:00</pubDate>
+		</item>
+	</channel>
 </rss>

@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 01 May 2023 23:19:29 GMT</pubDate>
-		<lastBuildDate>Mon, 01 May 2023 23:19:29 GMT</lastBuildDate>
+		<pubDate>Tue, 02 May 2023 14:14:46 GMT</pubDate>
+		<lastBuildDate>Tue, 02 May 2023 14:14:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SMR, LLC Preapplication Meeting Materials for May 10, 2023</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23114A027</link>
+			<description>Letter</description>
+			<author>SMR, LLC</author>
+			<pubDate>2023-05-02 08:38:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Meeting:  Fuel Qualification and Testing on May 10, 2023</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23114A029</link>
+			<description>Slides and Viewgraphs</description>
+			<author>SMR, LLC</author>
+			<pubDate>2023-05-02 08:38:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 3 - Affidavit of Justin R. Hawkins</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23114A030</link>
+			<description>Legal-Affidavit</description>
+			<author>SMR, LLC</author>
+			<pubDate>2023-05-02 08:38:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 3 - 2-21-23 Meeting Summary with SMR, LLC, a Holtec International Company, to Discuss SMR-160 Chapter 15 Analysis</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23019A271</link>
@@ -66,55 +87,6 @@
 			<description>Letter</description>
 			<author>SMR, LLC</author>
 			<pubDate>2023-04-27 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - 03/08/2023 Meeting Agenda of Public Meeting with SMR, LLC, a Holtec International Company, to Discuss Questions re: SMR-160 Simulator, Operator Licensing, and Operating Experience Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23045A026</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-04-25 09:05:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - 03/08/2023 Meeting Attendees of the Public Meeting with SMR, LLC, a Holtec International Company, to Discuss Questions re: SMR-160 Simulator, Operator Licensing, and Operating Experience Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23045A027</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-04-25 09:05:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3 - 03/08/2023 Meeting Summary of Public Meeting with SMR, LLC, a Holtec International Company, to Discuss Questions re: SMR-160 Simulator, Operator Licensing, and Operating Experience Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23045A028</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-04-25 09:05:00</pubDate>
-		</item>
-		<item>
-			<title>03/08/2023 Meeting Summary with SMR, LLC, a Holtec International Company, to Discuss Questions re: SMR-160 Simulator, Operator Licensing, and Operating Experience Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23045A029</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-04-25 09:05:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Preapplication Meeting Materials for April 19, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23107A002</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
-			<pubDate>2023-04-25 09:04:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: SMR, LLC Meeting Presentation Materials for April 19, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23107A003</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2023-04-25 09:04:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: SMR, LLC Meeting Operational Programs Matrix for April 19, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23107A004</link>
-			<description>Graphics incl Charts and Tables</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2023-04-25 09:04:00</pubDate>
 		</item>
 	</channel>
 </rss>
