@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 02 May 2023 23:13:00 GMT</pubDate>
-		<lastBuildDate>Tue, 02 May 2023 23:13:00 GMT</lastBuildDate>
+		<pubDate>Wed, 03 May 2023 14:14:51 GMT</pubDate>
+		<lastBuildDate>Wed, 03 May 2023 14:14:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC Form 897 Topical Report Withholding Determination- UIUC Fuel Qualification Methodology</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23079A130</link>
+			<description>Administrative Form, NRC</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2023-05-03 09:32:00</pubDate>
+		</item>
+		<item>
+			<title>Request For Withholding Information From Public Disclosure - Slide Package For December 02, 2022, Closed-Meeting</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23066A230</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-05-03 08:31:00</pubDate>
+		</item>
+		<item>
+			<title>TerraPower - Transmittal of TerraPower, LLC Report, "An Analysis of Potential Volcanic Hazards at the Proposed Natrium Site near Kemmerer, Wyoming," Revision 0A</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23115A387</link>
+			<description>Letter, Topical Report</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2023-05-03 08:31:00</pubDate>
+		</item>
 		<item>
 			<title>Email Transmitting NRC Form 897 - Terrestrial PDC Topical Report Withholding Determination</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23020A906</link>
@@ -199,27 +220,6 @@
 			<description>Letter</description>
 			<author>SMR, LLC</author>
 			<pubDate>2023-04-27 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC, Correction to Fuel and Control Assembly Qualification Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23109A099</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2023-04-27 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>2022/09/29 - Comment (2) E-mail regarding Kairos Hermes CP DEIS</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22285A203</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>Public Commenter</author>
-			<pubDate>2023-04-26 14:04:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - NuScale-NRC Management Public Meeting Presentation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23116A087</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-04-26 12:15:00</pubDate>
 		</item>
 	</channel>
 </rss>
