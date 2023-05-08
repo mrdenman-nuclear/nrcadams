@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 05 May 2023 23:15:53 GMT</pubDate>
-		<lastBuildDate>Fri, 05 May 2023 23:15:53 GMT</lastBuildDate>
+		<pubDate>Mon, 08 May 2023 14:15:04 GMT</pubDate>
+		<lastBuildDate>Mon, 08 May 2023 14:15:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -129,13 +129,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2023-05-03 15:57:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Submittal of Safeguards Information Protection Plan</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23118A323</link>
-			<description>Letter</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2023-05-01 15:48:00</pubDate>
 		</item>
 	</channel>
 </rss>
