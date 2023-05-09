@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 08 May 2023 23:16:00 GMT</pubDate>
-		<lastBuildDate>Mon, 08 May 2023 23:16:00 GMT</lastBuildDate>
+		<pubDate>Tue, 09 May 2023 14:16:21 GMT</pubDate>
+		<lastBuildDate>Tue, 09 May 2023 14:16:21 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,27 +38,6 @@
 			<description>Memoranda</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2023-05-05 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC Preapplication Meeting Materials for May 10, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23114A027</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
-			<pubDate>2023-05-02 08:38:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Meeting:  Fuel Qualification and Testing on May 10, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23114A029</link>
-			<description>Slides and Viewgraphs</description>
-			<author>SMR, LLC</author>
-			<pubDate>2023-05-02 08:38:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3 - Affidavit of Justin R. Hawkins</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23114A030</link>
-			<description>Legal-Affidavit</description>
-			<author>SMR, LLC</author>
-			<pubDate>2023-05-02 08:38:00</pubDate>
 		</item>
 	</channel>
 </rss>
