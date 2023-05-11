@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 11 May 2023 18:16:58 GMT</pubDate>
-		<lastBuildDate>Thu, 11 May 2023 18:16:58 GMT</lastBuildDate>
+		<pubDate>Thu, 11 May 2023 19:13:11 GMT</pubDate>
+		<lastBuildDate>Thu, 11 May 2023 19:13:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>05/22/2023 Meeting with Kairos to Discuss Conditions on the Fuel Qualification Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23131A326</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-05-11 14:21:00</pubDate>
+		</item>
 		<item>
 			<title>NRC Form 898 - UIUC Fuel Qualification Methodology Topical Report Completeness Determination</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23088A125</link>
@@ -213,13 +220,6 @@
 			<description>Letter, Map</description>
 			<author>NRC/NMSS/DREFS/ENRB</author>
 			<pubDate>2023-05-08 15:05:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Submittal of the Approved Version of NuScale Topical Report, "Applicability Range Extension of NSP4 Critical Heat Flux Correlation, Supplement 1 to TR-0116-21012-P-A, Revision 1," TR-107522, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23118A377</link>
-			<description>Letter</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2023-05-08 13:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
