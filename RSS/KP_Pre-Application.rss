@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 15 May 2023 23:17:46 GMT</pubDate>
-		<lastBuildDate>Mon, 15 May 2023 23:17:46 GMT</lastBuildDate>
+		<pubDate>Tue, 16 May 2023 14:15:03 GMT</pubDate>
+		<lastBuildDate>Tue, 16 May 2023 14:15:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Kairos Power LLC, Transmittal of Presentation Materials for Kairos Power Pre-Submittal Meeting on Setpoint Methodology Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23128A361</link>
+			<description>Letter</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2023-05-16 08:31:00</pubDate>
+		</item>
+		<item>
+			<title>Kairos Power LLC, Presentation Materials for Kairos Power Pre-Submittal Meeting on Setpoint Methodology Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23128A362</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2023-05-16 08:31:00</pubDate>
+		</item>
 		<item>
 			<title>05/22/2023 Meeting with Kairos to Discuss Conditions on the Fuel Qualification Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23131A326</link>
@@ -31,13 +45,6 @@
 			<description>Memoranda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2023-05-10 13:20:00</pubDate>
-		</item>
-		<item>
-			<title>2023/04/25 NRR E-mail Capture - Hermes Audit Reports</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23115A480</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2023-05-09 08:28:00</pubDate>
 		</item>
 	</channel>
 </rss>
