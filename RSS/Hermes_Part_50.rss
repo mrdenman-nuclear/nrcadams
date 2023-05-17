@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 16 May 2023 23:15:12 GMT</pubDate>
-		<lastBuildDate>Tue, 16 May 2023 23:15:12 GMT</lastBuildDate>
+		<pubDate>Wed, 17 May 2023 14:16:10 GMT</pubDate>
+		<lastBuildDate>Wed, 17 May 2023 14:16:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,20 +17,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2023-05-16 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Non-Power Reactor Hermes Construction Permit Application - Safety Evaluation for Chapter 7, "Instrumentation And Control Systems"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23117A016</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2023-05-10 13:20:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Non-Power Reactor Hermes Construction Permit Application - Safety Evaluation for Chapter 8, "Electric Power Systems"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23117A017</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2023-05-10 13:20:00</pubDate>
 		</item>
 	</channel>
 </rss>
