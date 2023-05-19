@@ -5,18 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 18 May 2023 23:15:49 GMT</pubDate>
-		<lastBuildDate>Thu, 18 May 2023 23:15:49 GMT</lastBuildDate>
+		<pubDate>Fri, 19 May 2023 14:15:21 GMT</pubDate>
+		<lastBuildDate>Fri, 19 May 2023 14:15:21 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>07/19/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding verification and validation of codes to support the Construction Permit for the Holtec SMR-160 design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23132A004</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-05-12 06:46:00</pubDate>
+			<title>SMR, LLC, SMR-160 Preapplication Meeting Materials for May 17, 2023</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23131A045</link>
+			<description>Letter</description>
+			<author>SMR, LLC</author>
+			<pubDate>2023-05-19 08:31:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1 - SMR, LLC Meeting Presentation Materials for May 17, 2023</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23131A047</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2023-05-19 08:31:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 6 - Affidavit of Justin R. Hawkins</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23131A051</link>
+			<description>Legal-Affidavit</description>
+			<author>SMR, LLC</author>
+			<pubDate>2023-05-19 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

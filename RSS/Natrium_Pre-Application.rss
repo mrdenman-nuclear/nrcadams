@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 18 May 2023 23:15:49 GMT</pubDate>
-		<lastBuildDate>Thu, 18 May 2023 23:15:49 GMT</lastBuildDate>
+		<pubDate>Fri, 19 May 2023 14:15:21 GMT</pubDate>
+		<lastBuildDate>Fri, 19 May 2023 14:15:21 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TerraPower, LLC, Seismic Isolation Presentation Material</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23131A401</link>
+			<description>Legal-Affidavit, Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2023-05-19 08:31:00</pubDate>
+		</item>
 		<item>
 			<title>Summary of August 4, 2022, Open Observation Pre-Application Meeting with Terrapower, LLC, Public Meeting to Discuss an Overview of the Applicable Regulations and Potential Exemptions for the Natrium Reactor (EPID No. L-2021-LRM-0071)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23039A022</link>
@@ -31,20 +38,6 @@
 			<description>Legal-Affidavit, Letter, Report, Technical</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2023-05-17 11:35:00</pubDate>
-		</item>
-		<item>
-			<title>Letter - Safety Evaluation Of Quality Assurance Topical Report TP-QA-PD-0001, "Terrapower QA Program Description," Revisions 13 And 14 (EPID L-2022-TOP-0054)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23116A178</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-05-12 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - Safety Evaluation Of Quality Assurance Topical Report TP-QA-PD-0001, "Terrapower QA Program Description," Revisions 13 And 14 (EPID L-2022-TOP-0054)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23116A183</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-05-12 08:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
