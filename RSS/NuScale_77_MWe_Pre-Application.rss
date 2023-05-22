@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 19 May 2023 23:18:00 GMT</pubDate>
-		<lastBuildDate>Fri, 19 May 2023 23:18:00 GMT</lastBuildDate>
+		<pubDate>Mon, 22 May 2023 14:15:18 GMT</pubDate>
+		<lastBuildDate>Mon, 22 May 2023 14:15:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>NuScale Power, LLC Submittal of White Paper, “EDAS Supplemental White Paper,” Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23132A324</link>
+			<description>Legal-Affidavit, Letter, Report, Technical</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2023-05-22 08:32:00</pubDate>
+		</item>
+	</channel>
 </rss>

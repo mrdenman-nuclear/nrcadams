@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 19 May 2023 23:18:00 GMT</pubDate>
-		<lastBuildDate>Fri, 19 May 2023 23:18:00 GMT</lastBuildDate>
+		<pubDate>Mon, 22 May 2023 14:15:18 GMT</pubDate>
+		<lastBuildDate>Mon, 22 May 2023 14:15:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>05/30/2023 Meeting with Oklo to discuss seismic design categorization and site characterization</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23139A277</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-05-20 10:15:00</pubDate>
+		</item>
+	</channel>
 </rss>
