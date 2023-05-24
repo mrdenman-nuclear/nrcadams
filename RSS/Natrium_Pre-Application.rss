@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 23 May 2023 23:14:08 GMT</pubDate>
-		<lastBuildDate>Tue, 23 May 2023 23:14:08 GMT</lastBuildDate>
+		<pubDate>Wed, 24 May 2023 14:14:53 GMT</pubDate>
+		<lastBuildDate>Wed, 24 May 2023 14:14:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Letter, Technical Paper</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2023-05-18 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower Human Factors Engineering Concept of Operations White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23125A328</link>
-			<description>Legal-Affidavit, Letter, Report, Technical</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2023-05-17 11:35:00</pubDate>
 		</item>
 	</channel>
 </rss>

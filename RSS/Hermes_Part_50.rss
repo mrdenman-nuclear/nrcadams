@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 23 May 2023 23:14:08 GMT</pubDate>
-		<lastBuildDate>Tue, 23 May 2023 23:14:08 GMT</lastBuildDate>
+		<pubDate>Wed, 24 May 2023 14:14:53 GMT</pubDate>
+		<lastBuildDate>Wed, 24 May 2023 14:14:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>April 11, 2023 Summary of Closed Meeting with Kairos Power, LLC Regarding Consultations Under National Historic Preservation Act</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23132A304</link>
+			<description>Meeting Summary</description>
+			<author>NRC/NMSS/DREFS</author>
+			<pubDate>2023-05-24 08:42:00</pubDate>
+		</item>
 		<item>
 			<title>Kairos Power LLC, Presentation Materials for the May 22, 2023 Pre?Submittal Meeting on Kairos Power Fuel Qualification</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23139A228</link>
@@ -31,20 +38,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2023-05-19 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Email to Consulting Tribe - Kairos Cultural Resource Reports Follow up</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22297A158</link>
-			<description>E-Mail</description>
-			<author>NRC/NMSS/DREFS/ENRB</author>
-			<pubDate>2023-05-17 10:36:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of Discussions and Status of Reference Request</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22204A004</link>
-			<description>E-Mail</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2023-05-17 10:21:00</pubDate>
 		</item>
 	</channel>
 </rss>
