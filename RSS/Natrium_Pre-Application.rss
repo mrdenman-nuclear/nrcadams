@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 24 May 2023 23:15:05 GMT</pubDate>
-		<lastBuildDate>Wed, 24 May 2023 23:15:05 GMT</lastBuildDate>
+		<pubDate>Thu, 25 May 2023 14:18:31 GMT</pubDate>
+		<lastBuildDate>Thu, 25 May 2023 14:18:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Summary of the August 16, 2022, Public Meeting with TerraPower, LLC to Discuss Core Flow Blockage Detection and Prevention for the Natrium Reactor (EPID No. L-2021-LRM-0071)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23039A118</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-05-25 08:29:00</pubDate>
+		</item>
+		<item>
+			<title>07/12/2022 Summary Of Pre-Application Public Meeting With Terrapower, LLC, To Discuss The Volcanic Hazards Assessment For The Natrium Reactor (EPID NO. L-2021-LRM-0071)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23030B893</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-05-25 08:29:00</pubDate>
+		</item>
 		<item>
 			<title>06/15/2023 Pre-Application meeting with NRC and TerraPower to discuss the Instrumentation & Control (I&C) Architecture and Design Basis for Natrium Design.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23142A300</link>
@@ -31,20 +45,6 @@
 			<description>Legal-Affidavit, Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2023-05-19 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of August 4, 2022, Open Observation Pre-Application Meeting with Terrapower, LLC, Public Meeting to Discuss an Overview of the Applicable Regulations and Potential Exemptions for the Natrium Reactor (EPID No. L-2021-LRM-0071)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23039A022</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-05-18 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal of TerraPower, LLC, White Paper, "Preliminary Consensus Codes and Standards" Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23130A413</link>
-			<description>Letter, Technical Paper</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2023-05-18 08:33:00</pubDate>
 		</item>
 	</channel>
 </rss>
