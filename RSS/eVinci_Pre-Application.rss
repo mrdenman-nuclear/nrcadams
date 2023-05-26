@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 25 May 2023 23:14:58 GMT</pubDate>
-		<lastBuildDate>Thu, 25 May 2023 23:14:58 GMT</lastBuildDate>
+		<pubDate>Fri, 26 May 2023 14:15:43 GMT</pubDate>
+		<lastBuildDate>Fri, 26 May 2023 14:15:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>11/10/2022 Summary Of Closed Meeting With Westinghouse Electric Corporation To Discuss Proposed Topical Reports On Advanced Logic System Version 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23041A090</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-05-26 08:36:00</pubDate>
+		</item>
+	</channel>
 </rss>
