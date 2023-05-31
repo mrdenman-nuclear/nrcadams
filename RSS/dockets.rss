@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 30 May 2023 23:15:52 GMT</pubDate>
-		<lastBuildDate>Tue, 30 May 2023 23:15:52 GMT</lastBuildDate>
+		<pubDate>Wed, 31 May 2023 14:14:27 GMT</pubDate>
+		<lastBuildDate>Wed, 31 May 2023 14:14:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Revision 1 to the Letter Dated May 17, 2023, Regarding SMR, LLC, Preapplication Meeting Materials for May 25, 2023</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23143A199</link>
+			<description>Letter</description>
+			<author>SMR, LLC</author>
+			<pubDate>2023-05-31 08:31:00</pubDate>
+		</item>
+		<item>
+			<title>Letter - UIUC – Approval of Quality Assurance Program Description Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23103A435</link>
+			<description>Letter, Safety Evaluation</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2023-05-31 08:31:00</pubDate>
+		</item>
+		<item>
+			<title>Safety Evaluation - UIUC - Approval of Quality Assurance Program Description Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23103A436</link>
+			<description>Safety Evaluation</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2023-05-31 08:31:00</pubDate>
+		</item>
 		<item>
 			<title>08/30/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding RG 1.99 limitation to support the Construction Permit for the Holtec SMR-160 design</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23150A088</link>
@@ -178,13 +199,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-05-25 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>April 11, 2023 Summary of Closed Meeting with Kairos Power, LLC Regarding Consultations Under National Historic Preservation Act</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23132A304</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NMSS/DREFS</author>
-			<pubDate>2023-05-24 08:42:00</pubDate>
 		</item>
 	</channel>
 </rss>
