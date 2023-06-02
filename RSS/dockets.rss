@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 01 Jun 2023 23:17:43 GMT</pubDate>
-		<lastBuildDate>Thu, 01 Jun 2023 23:17:43 GMT</lastBuildDate>
+		<pubDate>Fri, 02 Jun 2023 14:17:25 GMT</pubDate>
+		<lastBuildDate>Fri, 02 Jun 2023 14:17:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SMR, LLC Preapplication Meeting Materials for June 7, 2023</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23145A024</link>
+			<description>Letter</description>
+			<author>Holtec International SMR, LLC</author>
+			<pubDate>2023-06-02 08:36:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 3 - Affidavit of Justin R. Hawkins</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23145A027</link>
+			<description>Legal-Affidavit</description>
+			<author>Holtec International SMR, LLC</author>
+			<pubDate>2023-06-02 08:36:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1 - SMR, LLC Meeting Presentation Materials for June 7, 2023</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23145A026</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Holtec International SMR, LLC</author>
+			<pubDate>2023-06-02 08:36:00</pubDate>
+		</item>
 		<item>
 			<title>2022/07/19 NRR E-mail Capture - Questions on the Tritium Management System (TMS), Pebble Handling and Storage System (PHSS), and Spent Fuel Cooling System (SFCS) for the General Audit</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23150A251</link>
@@ -136,48 +157,6 @@
 			<description>Memoranda</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2023-05-30 08:25:00</pubDate>
-		</item>
-		<item>
-			<title>X-Energy, LCC - Draft Safety Evaluation of Topical Report XE-100 Licensing Topical Report: Control Room Staffing Analysis Methodology, Revision 2 and Associated Implementation Plans (EPID L-2021-TOP-0028)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23004A132</link>
-			<description>Safety Evaluation Report, Draft</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-05-26 10:31:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Submittal of Supplemental Information in Support of Acceptance of TR-131981-P, "Methodology for the Determination of the Onset of Density Wave Oscillations," Revision 0, NRC Request for Supplement Information Item RSl-1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23145A058</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2023-05-26 10:31:00</pubDate>
-		</item>
-		<item>
-			<title>X-Energy LLC. - Letter Forwarding Safety Evaluation for Xe-100 Licensing Topical Report Control Room Staffing Analysis Methodology, Rev 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23004A128</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-05-26 10:31:00</pubDate>
-		</item>
-		<item>
-			<title>11/10/2022 Summary Of Closed Meeting With Westinghouse Electric Corporation To Discuss Proposed Topical Reports On Advanced Logic System Version 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23041A090</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-05-26 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>Memo Summary of TRISO-X Closed Call on ISA Methodology and Natural Phenomena Hazards</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23117A112</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2023-05-26 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - Participant List for Technical Call Between the NRC and TRISO-X</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23117A113</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2023-05-26 08:36:00</pubDate>
 		</item>
 	</channel>
 </rss>
