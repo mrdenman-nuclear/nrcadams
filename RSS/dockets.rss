@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Jun 2023 14:14:44 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Jun 2023 14:14:44 GMT</lastBuildDate>
+		<pubDate>Tue, 06 Jun 2023 15:14:44 GMT</pubDate>
+		<lastBuildDate>Tue, 06 Jun 2023 15:14:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>06/29/2023 Meeting with X Energy, LLC Regarding Control Room Operator Qualification</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23157A004</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-06-06 10:21:00</pubDate>
+		</item>
 		<item>
 			<title>Submittal of X Energy, LLC (X-energy) Xe-100 Licensing Topical Report: Atmospheric Dispersion and Dose Calculation Methodology</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23146A189</link>
