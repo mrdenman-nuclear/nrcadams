@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 05 Jun 2023 23:13:51 GMT</pubDate>
-		<lastBuildDate>Mon, 05 Jun 2023 23:13:51 GMT</lastBuildDate>
+		<pubDate>Tue, 06 Jun 2023 14:14:52 GMT</pubDate>
+		<lastBuildDate>Tue, 06 Jun 2023 14:14:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2023-06-01 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Presentation Materials for the May 22, 2023 Pre?Submittal Meeting on Kairos Power Fuel Qualification Supporting the Hermes Operating License Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23139A227</link>
-			<description>Letter</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2023-05-30 08:25:00</pubDate>
 		</item>
 	</channel>
 </rss>

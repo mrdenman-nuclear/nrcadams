@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 05 Jun 2023 23:13:47 GMT</pubDate>
-		<lastBuildDate>Mon, 05 Jun 2023 23:13:47 GMT</lastBuildDate>
+		<pubDate>Tue, 06 Jun 2023 14:14:52 GMT</pubDate>
+		<lastBuildDate>Tue, 06 Jun 2023 14:14:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Request For Additional Information (Set 1) For The Triso-X, LLC License Application For A Fuel Fabrication Facility (Enterprise Project Identification Number L-2022-NEW-0005)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23127A012</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2023-06-06 08:31:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure: RAI for the TRISO-X Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23127A013</link>
+			<description>Request for Additional Information (RAI)</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2023-06-06 08:31:00</pubDate>
+		</item>
+	</channel>
 </rss>

@@ -5,25 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 05 Jun 2023 23:13:48 GMT</pubDate>
-		<lastBuildDate>Mon, 05 Jun 2023 23:13:48 GMT</lastBuildDate>
+		<pubDate>Tue, 06 Jun 2023 14:14:52 GMT</pubDate>
+		<lastBuildDate>Tue, 06 Jun 2023 14:14:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TerraPower, LLC, Core Thermal Hydraulic Methods Presentation Material</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23146A113</link>
+			<description>Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2023-06-06 08:30:00</pubDate>
+		</item>
 		<item>
 			<title>06/29/2023 Pre-Application meeting with TerraPower to discuss Reactor Stability for the Natrium design.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23156A658</link>
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-06-05 16:28:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of the November 9, 2022, Partially Closed Meeting with TerraPower, LLC, to Discuss Instrumentation and Control (I&C) Systems and Cyber Security</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23041A019</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-05-30 08:26:00</pubDate>
 		</item>
 	</channel>
 </rss>
