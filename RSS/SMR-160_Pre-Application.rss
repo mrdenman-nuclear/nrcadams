@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Jun 2023 23:14:05 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Jun 2023 23:14:05 GMT</lastBuildDate>
+		<pubDate>Wed, 07 Jun 2023 14:15:39 GMT</pubDate>
+		<lastBuildDate>Wed, 07 Jun 2023 14:15:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,27 +31,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Holtec International SMR, LLC</author>
 			<pubDate>2023-06-02 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>10/04/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding Multi-Unit Licensing to support the Construction Permit for the Holtec SMR-160 design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23151A597</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-05-31 13:26:00</pubDate>
-		</item>
-		<item>
-			<title>09/27/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding Fuel Management to support the Construction Permit for the Holtec SMR-160 design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23151A596</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-05-31 13:24:00</pubDate>
-		</item>
-		<item>
-			<title>Revision 1 to the Letter Dated May 17, 2023, Regarding SMR, LLC, Preapplication Meeting Materials for May 25, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23143A199</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
-			<pubDate>2023-05-31 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
