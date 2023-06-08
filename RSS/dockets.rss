@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 07 Jun 2023 23:17:21 GMT</pubDate>
-		<lastBuildDate>Wed, 07 Jun 2023 23:17:21 GMT</lastBuildDate>
+		<pubDate>Thu, 08 Jun 2023 14:14:16 GMT</pubDate>
+		<lastBuildDate>Thu, 08 Jun 2023 14:14:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>UIUC Regulatory Applicability Topical Report Meeting Presentation June 8 2023.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23158A252</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Univ of Illinois</author>
+			<pubDate>2023-06-08 08:33:00</pubDate>
+		</item>
 		<item>
 			<title>Email transmitting the Approved Kairos Fuel Qualification Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23138A368</link>
@@ -143,13 +150,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Holtec International SMR, LLC</author>
 			<pubDate>2023-06-02 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>2022/07/19 NRR E-mail Capture - Questions on the Tritium Management System (TMS), Pebble Handling and Storage System (PHSS), and Spent Fuel Cooling System (SFCS) for the General Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23150A251</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2023-06-01 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
