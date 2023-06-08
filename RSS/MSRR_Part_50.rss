@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 08 Jun 2023 14:14:25 GMT</pubDate>
-		<lastBuildDate>Thu, 08 Jun 2023 14:14:25 GMT</lastBuildDate>
+		<pubDate>Thu, 08 Jun 2023 15:14:24 GMT</pubDate>
+		<lastBuildDate>Thu, 08 Jun 2023 15:14:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>ACU CA, NO, SE, CR, GEO, WM Info Needs Items Q3FY2023</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23159A012</link>
+			<description>Graphics incl Charts and Tables, Request for Additional Information (RAI)</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2023-06-08 10:37:00</pubDate>
+		</item>
+	</channel>
 </rss>
