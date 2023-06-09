@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 08 Jun 2023 23:18:19 GMT</pubDate>
-		<lastBuildDate>Thu, 08 Jun 2023 23:18:19 GMT</lastBuildDate>
+		<pubDate>Fri, 09 Jun 2023 14:14:28 GMT</pubDate>
+		<lastBuildDate>Fri, 09 Jun 2023 14:14:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-06-06 14:29:00</pubDate>
-		</item>
-		<item>
-			<title>06/22/2023 Notice of Closed Meeting with Terrestrial Energy USA, Inc.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23153A180</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-06-02 15:55:00</pubDate>
 		</item>
 	</channel>
 </rss>

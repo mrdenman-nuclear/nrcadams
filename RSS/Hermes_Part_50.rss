@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 08 Jun 2023 23:18:21 GMT</pubDate>
-		<lastBuildDate>Thu, 08 Jun 2023 23:18:21 GMT</lastBuildDate>
+		<pubDate>Fri, 09 Jun 2023 14:14:30 GMT</pubDate>
+		<lastBuildDate>Fri, 09 Jun 2023 14:14:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,20 +17,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2023-06-05 09:41:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power, LLC, Submittal of the Preliminary Safety Analysis Report for the Kairos Power Fluoride Salt-Cooled, High Temperature Non-Power Reactor (Hermes), Revision 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23151A744</link>
-			<description>Letter</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2023-06-02 11:40:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - Preliminary Safety Analysis Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23151A745</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2023-06-02 11:40:00</pubDate>
 		</item>
 	</channel>
 </rss>
