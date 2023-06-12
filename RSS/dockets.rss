@@ -5,12 +5,47 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 09 Jun 2023 23:14:59 GMT</pubDate>
-		<lastBuildDate>Fri, 09 Jun 2023 23:14:59 GMT</lastBuildDate>
+		<pubDate>Mon, 12 Jun 2023 14:15:30 GMT</pubDate>
+		<lastBuildDate>Mon, 12 Jun 2023 14:15:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>06/14/2023 Consultations under NHPA Regarding Kairos Hermes CP Application Review</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23163A049</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2023-06-12 09:30:00</pubDate>
+		</item>
+		<item>
+			<title>Kemmerer Power Station, Unit 1, Construction Permit Application Submittal Timeline</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23153A132</link>
+			<description>Letter</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2023-06-12 08:32:00</pubDate>
+		</item>
+		<item>
+			<title>TerraPower, LLC, I&C Architecture and Design Basis Presentation Materials</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23153A208</link>
+			<description>Legal-Affidavit, Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2023-06-12 08:32:00</pubDate>
+		</item>
+		<item>
+			<title>Oklo Inc., "Safety Classification Overview" White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23153A203</link>
+			<description>Letter</description>
+			<author>Oklo Inc</author>
+			<pubDate>2023-06-12 08:32:00</pubDate>
+		</item>
+		<item>
+			<title>Oklo Inc., Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23153A205</link>
+			<description>Legal-Affidavit</description>
+			<author>Oklo Inc</author>
+			<pubDate>2023-06-12 08:32:00</pubDate>
+		</item>
 		<item>
 			<title>Withholding Proprietary Information From Public Disclosure – Terrapower, LLC, Use Of Safety Analysis (SAS) Code Presentation Material</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23136A363</link>
@@ -143,27 +178,6 @@
 			<description>Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2023-06-06 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>06/29/2023 Pre-Application meeting with TerraPower to discuss Reactor Stability for the Natrium design.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23156A658</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-06-05 16:28:00</pubDate>
-		</item>
-		<item>
-			<title>05/11/2023 Consultations under NHPA Regarding Kairos Hermes CP Application Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23156A205</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2023-06-05 09:41:00</pubDate>
-		</item>
-		<item>
-			<title>November 29, 2022, Meeting Summary - UIUC planned topical reports submittals</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23038A163</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2023-06-05 08:39:00</pubDate>
 		</item>
 	</channel>
 </rss>
