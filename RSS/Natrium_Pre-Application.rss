@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 12 Jun 2023 23:15:00 GMT</pubDate>
-		<lastBuildDate>Mon, 12 Jun 2023 23:15:00 GMT</lastBuildDate>
+		<pubDate>Tue, 13 Jun 2023 14:14:16 GMT</pubDate>
+		<lastBuildDate>Tue, 13 Jun 2023 14:14:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,13 +52,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-06-09 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC, Core Thermal Hydraulic Methods Presentation Material</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23146A113</link>
-			<description>Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2023-06-06 08:30:00</pubDate>
 		</item>
 	</channel>
 </rss>
