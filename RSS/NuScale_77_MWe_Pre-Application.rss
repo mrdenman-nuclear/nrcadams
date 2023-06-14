@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 13 Jun 2023 23:14:04 GMT</pubDate>
-		<lastBuildDate>Tue, 13 Jun 2023 23:14:04 GMT</lastBuildDate>
+		<pubDate>Wed, 14 Jun 2023 14:14:25 GMT</pubDate>
+		<lastBuildDate>Wed, 14 Jun 2023 14:14:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for NuScale Power, LLC - May 12, 2023</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23157A221</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-06-14 08:31:00</pubDate>
+		</item>
+	</channel>
 </rss>
