@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 16 Jun 2023 14:16:25 GMT</pubDate>
-		<lastBuildDate>Fri, 16 Jun 2023 14:16:25 GMT</lastBuildDate>
+		<pubDate>Fri, 16 Jun 2023 15:14:25 GMT</pubDate>
+		<lastBuildDate>Fri, 16 Jun 2023 15:14:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Terrestrial Energy USA, Technical Report on Uncertainty Quantification Methodology for Calculation of IMSR Off-Gas Source Term</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23139A163</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>Terrestrial Energy USA</author>
+			<pubDate>2023-06-16 10:58:00</pubDate>
+		</item>
+	</channel>
 </rss>

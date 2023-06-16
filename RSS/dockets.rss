@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 16 Jun 2023 14:16:17 GMT</pubDate>
-		<lastBuildDate>Fri, 16 Jun 2023 14:16:17 GMT</lastBuildDate>
+		<pubDate>Fri, 16 Jun 2023 15:14:16 GMT</pubDate>
+		<lastBuildDate>Fri, 16 Jun 2023 15:14:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Terrestrial Energy USA, Technical Report on Uncertainty Quantification Methodology for Calculation of IMSR Off-Gas Source Term</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23139A163</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>Terrestrial Energy USA</author>
+			<pubDate>2023-06-16 10:58:00</pubDate>
+		</item>
 		<item>
 			<title>2023/06/09 Hermes CP Doc - General and Accident Analysis  Audit Reports-Hermes Construction Permit PSAR  (Docket Number 05007513)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23160A287</link>
@@ -213,13 +220,6 @@
 			<description>Press Release</description>
 			<author>NRC/OPA</author>
 			<pubDate>2023-06-12 13:09:00</pubDate>
-		</item>
-		<item>
-			<title>06/14/2023 Consultations under NHPA Regarding Kairos Hermes CP Application Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23163A049</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2023-06-12 09:30:00</pubDate>
 		</item>
 	</channel>
 </rss>
