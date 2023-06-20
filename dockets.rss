@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 19 Jun 2023 23:15:33 GMT</pubDate>
-		<lastBuildDate>Mon, 19 Jun 2023 23:15:33 GMT</lastBuildDate>
+		<pubDate>Tue, 20 Jun 2023 14:13:47 GMT</pubDate>
+		<lastBuildDate>Tue, 20 Jun 2023 14:13:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>X Energy, LLC (X-energy), Submittal of Topical Report, "TRISO-X Pebble Fuel Qualification Methodology" Accepted Version</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23160A294</link>
+			<description>Legal-Affidavit, Letter, Topical Report</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2023-06-20 08:36:00</pubDate>
+		</item>
 		<item>
 			<title>06/28/2023 Kairos Power Future Plans</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23167C153</link>
@@ -185,41 +192,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-06-14 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>06/27/2023 Meeting with Oklo to discuss safety classification and probabilistic risk assessment.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23164A132</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-06-13 11:36:00</pubDate>
-		</item>
-		<item>
-			<title>2023/06/06 Hermes CP Doc - Hermes CP Audit Questions 82-86 and 92-94 for Preliminary Safety Analysis Report Section 4.5 and Chapter 13</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23157A330</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2023-06-13 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>2023/06/06 Hermes CP Doc - Hermes CP Audit Questions 87-91 for Preliminary Safety Analysis Report Section 4.5 and Chapter 13</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23157A331</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2023-06-13 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Letter - X Energy, LLC - U.S. NRC Observations Regarding Xe-100 White Paper - Probabilistic Risk Assessment Technical Adequacy Approach (EPID No. L-2022-LRO-0150)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23097A123</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-06-13 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - X Energy, LLC – NRC Feedback Regarding "Xe-100 Licensing White Paper Probabilistic Risk Assessment Technical Adequacy Approach" (EPID L-2022-LRO-0150/CAC 000431)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23097A127</link>
-			<description>Technical Paper</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-06-13 08:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
