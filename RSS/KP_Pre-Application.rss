@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 23 Jun 2023 20:16:15 GMT</pubDate>
-		<lastBuildDate>Fri, 23 Jun 2023 20:16:15 GMT</lastBuildDate>
+		<pubDate>Fri, 23 Jun 2023 21:15:57 GMT</pubDate>
+		<lastBuildDate>Fri, 23 Jun 2023 21:15:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>01/27-28/2021 Summary of Meeting Regarding Kairos CP Application for Hermes Test Reactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML21217A058</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UARL</author>
+			<pubDate>2023-06-23 16:25:00</pubDate>
+		</item>
+	</channel>
 </rss>
