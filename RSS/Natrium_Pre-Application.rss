@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 26 Jun 2023 23:15:39 GMT</pubDate>
-		<lastBuildDate>Mon, 26 Jun 2023 23:15:39 GMT</lastBuildDate>
+		<pubDate>Tue, 27 Jun 2023 14:15:16 GMT</pubDate>
+		<lastBuildDate>Tue, 27 Jun 2023 14:15:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>07/11/2023 Pre-Application meeting with TerraPower to discuss Specified Acceptable System Radionuclide Release Design Limit (SARRDL), Functional Containment, and Major Accidents (50.34) for the Natrium design.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23171A981</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-06-20 11:29:00</pubDate>
-		</item>
-		<item>
-			<title>07/12/2023 Pre-Application meeting with TerraPower to discuss the Design Basis Accident Transient Methodology for the Natrium Design.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23171A983</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-06-20 11:29:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
