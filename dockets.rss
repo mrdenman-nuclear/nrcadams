@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 27 Jun 2023 23:15:55 GMT</pubDate>
-		<lastBuildDate>Tue, 27 Jun 2023 23:15:55 GMT</lastBuildDate>
+		<pubDate>Wed, 28 Jun 2023 14:14:51 GMT</pubDate>
+		<lastBuildDate>Wed, 28 Jun 2023 14:14:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SMR, LLC, Revised Preapplication Meeting Materials for June 20, 2023</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23171A002</link>
+			<description>Letter</description>
+			<author>SMR, LLC</author>
+			<pubDate>2023-06-28 08:31:00</pubDate>
+		</item>
+		<item>
+			<title>Holtec International, NRC Meeting: Human Factors Engineering</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23171A004</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2023-06-28 08:31:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC, Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23171A005</link>
+			<description>Legal-Affidavit</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2023-06-28 08:31:00</pubDate>
+		</item>
+		<item>
+			<title>TerraPower, LLC - Reactor Stability Presentation Material</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23171B156</link>
+			<description>Legal-Affidavit, Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2023-06-28 08:31:00</pubDate>
+		</item>
 		<item>
 			<title>TRISO-X, LLC, Response to Requests for Additional Information on the Environmental Report for the Proposed Fuel Fabrication Facility</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23104A420</link>
@@ -129,41 +157,6 @@
 			<description>Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Westinghouse Electric Co, LLC</author>
 			<pubDate>2023-06-23 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>05/11/2023 Consultations under NHPA Regarding Kairos Hermes CP Application Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23172A304</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2023-06-21 22:48:00</pubDate>
-		</item>
-		<item>
-			<title>07/12/2023 Readiness Assessment Kickoff Meeting with GE-Hitachi to Discuss BWRX-300 Small Modular Reactor's Safety Strategy Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23171B078</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-06-21 09:30:00</pubDate>
-		</item>
-		<item>
-			<title>Letter and Enclosure 1 - Summary of the April 17, 2023, Closed Meeting with X-Energy, LLC Regarding the XE-100 Slide Deck "Control Room Operator Qualification Discussion" (EPID L-2018-LRM-0076)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23159A020</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-06-21 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of the December 2, 2022, Partially Closed Pre-Submittal, Meeting with X Energy regarding the XE-100 Spent Fuel Licensing Approach and Regulatory Analysis White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23066A287</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-06-21 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>March 14, 2023, Meeting With X Energy, LLC Regarding The "XE 100 Training Programs Methodology” Topical Report (EPID L-2022-TOP-0012)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23117A390</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-06-21 08:34:00</pubDate>
 		</item>
 	</channel>
 </rss>
