@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 28 Jun 2023 19:13:55 GMT</pubDate>
-		<lastBuildDate>Wed, 28 Jun 2023 19:13:55 GMT</lastBuildDate>
+		<pubDate>Wed, 28 Jun 2023 20:18:14 GMT</pubDate>
+		<lastBuildDate>Wed, 28 Jun 2023 20:18:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>07/11/2023 Notice of Meeting with X-Energy, LLC</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23179A219</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-06-28 15:18:00</pubDate>
+		</item>
 		<item>
 			<title>SMR, LLC, Revised Preapplication Meeting Materials for June 20, 2023</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23171A002</link>
@@ -80,13 +87,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-06-23 13:32:00</pubDate>
-		</item>
-		<item>
-			<title>07/11/2023 Notice of Meeting with X-Energy, LLC</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23174A071</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-06-23 12:14:00</pubDate>
 		</item>
 		<item>
 			<title>4-19-23 Meeting Summary with SMR, LLC, a Holtec International Company, to Discuss the SMR-160 Operational Programs</title>
