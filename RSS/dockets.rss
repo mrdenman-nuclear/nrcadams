@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 29 Jun 2023 18:21:29 GMT</pubDate>
-		<lastBuildDate>Thu, 29 Jun 2023 18:21:29 GMT</lastBuildDate>
+		<pubDate>Thu, 29 Jun 2023 19:14:50 GMT</pubDate>
+		<lastBuildDate>Thu, 29 Jun 2023 19:14:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>07/13/2023 X Energy Preapplication Meeting to Discuss Environmental Issues</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23180A158</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2023-06-29 15:01:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Presentation for X-energy on 06-29-2023.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23179A248</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-06-29 14:44:00</pubDate>
+		</item>
+		<item>
+			<title>Redacted - NRC Presentation for X-energy on 06-29-2023.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23179A250</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-06-29 14:44:00</pubDate>
+		</item>
 		<item>
 			<title>USNRC Project No. 99902094: UIUC Regulatory Engagement Plan Revision Submission</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23178A260</link>
@@ -198,27 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23165A090</link>
 			<description>Legal-Affidavit</description>
 			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2023-06-23 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC Preapplication Meeting Materials for June 28, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23165A106</link>
-			<description>Letter</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2023-06-23 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - SMR, LLC Meeting Presentation Materials for June 28, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23165A108</link>
-			<description>Slides and Viewgraphs</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2023-06-23 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - Affidavit of Justin R. Hawkins</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23165A109</link>
-			<description>Legal-Affidavit</description>
-			<author>SMR, LLC</author>
 			<pubDate>2023-06-23 08:28:00</pubDate>
 		</item>
 	</channel>
