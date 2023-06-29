@@ -5,18 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 29 Jun 2023 15:17:07 GMT</pubDate>
-		<lastBuildDate>Thu, 29 Jun 2023 15:17:07 GMT</lastBuildDate>
+		<pubDate>Thu, 29 Jun 2023 16:23:00 GMT</pubDate>
+		<lastBuildDate>Thu, 29 Jun 2023 16:23:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
+			<title>USNRC Project No. 99902094: UIUC Regulatory Engagement Plan Revision Submission</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23178A260</link>
+			<description>Letter</description>
+			<author>Univ of Illinois - Urbana - Champaign</author>
+			<pubDate>2023-06-29 12:01:00</pubDate>
+		</item>
+		<item>
+			<title>Regulatory Engagement Plan for Submittal and Approval of An Application to Construct a New Research Reactor by University of Illinois, Urbana-Champaign</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23178A261</link>
+			<description>Report, Technical</description>
+			<author>Univ of Illinois - Urbana - Champaign</author>
+			<pubDate>2023-06-29 12:01:00</pubDate>
+		</item>
+		<item>
 			<title>07/13/2023 Notice of X energy Preapplication Meeting to Discuss Environmental Topics</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23180A121</link>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23180A157</link>
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
-			<pubDate>2023-06-29 10:25:00</pubDate>
+			<pubDate>2023-06-29 11:41:00</pubDate>
 		</item>
 		<item>
 			<title>Transmittal Letter - NRC-CNSC Joint Report on GEH BWRX-300 Steel-Plate Composite (SC) Wall White Paper</title>
@@ -205,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23165A109</link>
 			<description>Legal-Affidavit</description>
 			<author>SMR, LLC</author>
-			<pubDate>2023-06-23 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse Electric Company - Transmittal of "eVinci Microreactor Principal Design Criteria Topical Report NRC Pre-submittal Meeting" Presentation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23165A156</link>
-			<description>Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Westinghouse Electric Co, LLC</author>
 			<pubDate>2023-06-23 08:28:00</pubDate>
 		</item>
 	</channel>
