@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 29 Jun 2023 23:16:14 GMT</pubDate>
-		<lastBuildDate>Thu, 29 Jun 2023 23:16:14 GMT</lastBuildDate>
+		<pubDate>Fri, 30 Jun 2023 14:16:19 GMT</pubDate>
+		<lastBuildDate>Fri, 30 Jun 2023 14:16:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Interim Report on Regulatory Audits of the Abilene Christian University Preliminary Safety Analysis Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23157A064</link>
+			<description>Letter, Preliminary Safety Analysis Report (PSAR)</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-06-30 08:32:00</pubDate>
+		</item>
+	</channel>
 </rss>
