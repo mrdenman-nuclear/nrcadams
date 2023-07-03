@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 30 Jun 2023 23:16:06 GMT</pubDate>
-		<lastBuildDate>Fri, 30 Jun 2023 23:16:06 GMT</lastBuildDate>
+		<pubDate>Mon, 03 Jul 2023 14:17:32 GMT</pubDate>
+		<lastBuildDate>Mon, 03 Jul 2023 14:17:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Response to Request for Additional Information (RAI)</description>
 			<author>Triso-X, LLC</author>
 			<pubDate>2023-06-27 16:03:00</pubDate>
-		</item>
-		<item>
-			<title>07/06/2023 Open/Closed Call with TRISO-X LLC to discuss elements of their license application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23177A273</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2023-06-26 17:13:00</pubDate>
 		</item>
 	</channel>
 </rss>
