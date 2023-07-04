@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Jul 2023 23:17:11 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Jul 2023 23:17:11 GMT</lastBuildDate>
+		<pubDate>Tue, 04 Jul 2023 14:16:57 GMT</pubDate>
+		<lastBuildDate>Tue, 04 Jul 2023 14:16:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -199,27 +199,6 @@
 			<description>Legal-Affidavit, Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2023-06-28 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>TRISO-X, LLC, Response to Requests for Additional Information on the Environmental Report for the Proposed Fuel Fabrication Facility</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23104A420</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2023-06-27 16:03:00</pubDate>
-		</item>
-		<item>
-			<title>TRISO-X, LLC, Reference Material for Responses to Observation ER-GW-1 and RAIs ER-TES-1, ER-TES-2, and ER-TES-3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23104A421</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2023-06-27 16:03:00</pubDate>
-		</item>
-		<item>
-			<title>07/17/2023 Meeting with Westinghouse Electric Company to Discuss eVinci Microreactor's Advanced Logic System v2 (ALS2) Topical Reports</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23178A222</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-06-27 15:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
