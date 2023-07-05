@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Jul 2023 23:16:22 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Jul 2023 23:16:22 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Jul 2023 14:16:37 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Jul 2023 14:16:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-06-29 09:10:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC - Reactor Stability Presentation Material</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23171B156</link>
-			<description>Legal-Affidavit, Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2023-06-28 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

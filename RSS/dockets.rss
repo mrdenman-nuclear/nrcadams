@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Jul 2023 23:16:14 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Jul 2023 23:16:14 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Jul 2023 14:16:26 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Jul 2023 14:16:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>05/11/2023 Consultations under NHPA Regarding Kairos Hermes CP Application Review</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23186A023</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2023-07-05 09:11:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC, Preapplication Meeting Materials for Meeting on July 19, 2023</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23177A185</link>
+			<description>Letter</description>
+			<author>SMR, LLC</author>
+			<pubDate>2023-07-05 08:35:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC, Holtec International, Meeting Presentation Materials for July 19, 2023</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23177A187</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2023-07-05 08:35:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC, Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23177A188</link>
+			<description>Legal-Affidavit</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2023-07-05 08:35:00</pubDate>
+		</item>
 		<item>
 			<title>05/11/2023 Summary Of Public Meeting With Shine Technologies</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23156A612</link>
@@ -164,41 +192,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2023-06-29 08:20:00</pubDate>
-		</item>
-		<item>
-			<title>07/11/2023 Notice of Meeting with X-Energy, LLC</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23179A219</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-06-28 15:18:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Revised Preapplication Meeting Materials for June 20, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23171A002</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
-			<pubDate>2023-06-28 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Holtec International, NRC Meeting: Human Factors Engineering</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23171A004</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2023-06-28 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23171A005</link>
-			<description>Legal-Affidavit</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2023-06-28 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC - Reactor Stability Presentation Material</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23171B156</link>
-			<description>Legal-Affidavit, Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2023-06-28 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
