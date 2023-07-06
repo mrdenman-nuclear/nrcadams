@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 05 Jul 2023 23:17:12 GMT</pubDate>
-		<lastBuildDate>Wed, 05 Jul 2023 23:17:12 GMT</lastBuildDate>
+		<pubDate>Thu, 06 Jul 2023 14:18:00 GMT</pubDate>
+		<lastBuildDate>Thu, 06 Jul 2023 14:18:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Submittal of the Westinghouse eVinci Microreactor Wave 6 White Paper for Pre-Application Engagement</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23178A181</link>
+			<description>Letter</description>
+			<author>Westinghouse Electric Co, LLC</author>
+			<pubDate>2023-07-06 08:34:00</pubDate>
+		</item>
+		<item>
+			<title>Westinghouse Electric Company, LLC - Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23178A182</link>
+			<description>Legal-Affidavit</description>
+			<author>Westinghouse Electric Co, LLC</author>
+			<pubDate>2023-07-06 08:34:00</pubDate>
+		</item>
+	</channel>
 </rss>
