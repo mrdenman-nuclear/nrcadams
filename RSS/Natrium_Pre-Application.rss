@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 06 Jul 2023 23:17:10 GMT</pubDate>
-		<lastBuildDate>Thu, 06 Jul 2023 23:17:10 GMT</lastBuildDate>
+		<pubDate>Fri, 07 Jul 2023 14:16:08 GMT</pubDate>
+		<lastBuildDate>Fri, 07 Jul 2023 14:16:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-07-06 17:06:00</pubDate>
-		</item>
-		<item>
-			<title>2023/06/16 NRR E-mail Capture - TerraPower Natrium Energy Island (EI) and Nuclear Island (NI) Separation topical report (TR) Audit Summary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23167A478</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2023-06-30 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

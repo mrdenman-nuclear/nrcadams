@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 06 Jul 2023 23:17:10 GMT</pubDate>
-		<lastBuildDate>Thu, 06 Jul 2023 23:17:10 GMT</lastBuildDate>
+		<pubDate>Fri, 07 Jul 2023 14:16:07 GMT</pubDate>
+		<lastBuildDate>Fri, 07 Jul 2023 14:16:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-07-06 10:27:00</pubDate>
-		</item>
-		<item>
-			<title>12/14/2022 Summary Closed Meeting with X-energy on the Graphite Qualification Topical Report (non-proprietary)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23040A141</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-06-30 08:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
