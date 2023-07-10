@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 07 Jul 2023 23:16:05 GMT</pubDate>
-		<lastBuildDate>Fri, 07 Jul 2023 23:16:05 GMT</lastBuildDate>
+		<pubDate>Mon, 10 Jul 2023 14:16:46 GMT</pubDate>
+		<lastBuildDate>Mon, 10 Jul 2023 14:16:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2023-07-05 09:11:00</pubDate>
-		</item>
-		<item>
-			<title>2023/06/26 Hermes CP Doc - Public Summary of 6-12-23 Letter from Consulting Tribe</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23177A197</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2023-07-03 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

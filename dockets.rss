@@ -5,12 +5,61 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 07 Jul 2023 23:16:06 GMT</pubDate>
-		<lastBuildDate>Fri, 07 Jul 2023 23:16:06 GMT</lastBuildDate>
+		<pubDate>Mon, 10 Jul 2023 14:16:46 GMT</pubDate>
+		<lastBuildDate>Mon, 10 Jul 2023 14:16:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SMR, LLC, SMR-160 Regulatory Engagement Plan, Revision 5</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23180A008</link>
+			<description>Operating Plan</description>
+			<author>SMR, LLC</author>
+			<pubDate>2023-07-10 08:31:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC, Preapplication Meeting Materials for July 12, 2023</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23180A002</link>
+			<description>Letter</description>
+			<author>SMR, LLC</author>
+			<pubDate>2023-07-10 08:30:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC/Holtec International, NRC Meeting: Emergency Preparedness</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23180A004</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2023-07-10 08:30:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC, Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23180A005</link>
+			<description>Legal-Affidavit</description>
+			<author>SMR, LLC</author>
+			<pubDate>2023-07-10 08:30:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC, Regulatory Engagement Plan, Revision 5</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23180A007</link>
+			<description>Letter</description>
+			<author>SMR, LLC</author>
+			<pubDate>2023-07-10 08:30:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC, Request for Exemption to the Reporting Requirements of 10 CFR 50.46(a)(3)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23180A151</link>
+			<description>Letter</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2023-07-10 08:30:00</pubDate>
+		</item>
+		<item>
+			<title>TerraPower, LLC, Specified Acceptable System Radionuclide Release Design Limit, Functional Containment, and Major Accident Presentation Materials</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23180A301</link>
+			<description>Legal-Affidavit, Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2023-07-10 08:30:00</pubDate>
+		</item>
 		<item>
 			<title>07/13/2023 Notice of X energy Preapplication Meeting to Discuss Environmental Topics</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23188A190</link>
@@ -171,55 +220,6 @@
 			<description>Legal-Affidavit</description>
 			<author>Westinghouse Electric Co, LLC</author>
 			<pubDate>2023-07-06 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>05/11/2023 Consultations under NHPA Regarding Kairos Hermes CP Application Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23186A023</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2023-07-05 09:11:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Preapplication Meeting Materials for Meeting on July 19, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23177A185</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
-			<pubDate>2023-07-05 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Holtec International, Meeting Presentation Materials for July 19, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23177A187</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2023-07-05 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23177A188</link>
-			<description>Legal-Affidavit</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2023-07-05 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>05/11/2023 Summary Of Public Meeting With Shine Technologies</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23156A612</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2023-07-03 16:25:00</pubDate>
-		</item>
-		<item>
-			<title>Cover Letter and Enclosure 1 Oklo Meeting Summary December 6, 7 and 9 2022</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23041A343</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-07-03 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>June 22, 2023 Closed Meeting with Terrestrial - To Discuss NRC Staff's Proprietary Questions on Terrestrial Energy's Uncertainty Quantification Methodology Technical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23174A069</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2023-07-03 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
