@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 10 Jul 2023 16:28:23 GMT</pubDate>
-		<lastBuildDate>Mon, 10 Jul 2023 16:28:23 GMT</lastBuildDate>
+		<pubDate>Mon, 10 Jul 2023 17:14:29 GMT</pubDate>
+		<lastBuildDate>Mon, 10 Jul 2023 17:14:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>08/08/2023 Closed Technology Update Meeting with GE-Hitachi Nuclear Energy, Global Nuclear Fuel Americas, and the U. S. Nuclear Regulatory Commission (NRC)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23191A198</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-07-10 12:38:00</pubDate>
+		</item>
 		<item>
 			<title>07/20/2023 Notice of Meeting with the University of Illinois at Urbana-Champaign to discuss Planned Topical Report Submittal</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23191A139</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23178A096</link>
 			<description>Letter</description>
 			<author>Kairos Power, LLC</author>
-			<pubDate>2023-07-06 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of the Westinghouse eVinci Microreactor Wave 6 White Paper for Pre-Application Engagement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23178A181</link>
-			<description>Letter</description>
-			<author>Westinghouse Electric Co, LLC</author>
 			<pubDate>2023-07-06 08:34:00</pubDate>
 		</item>
 	</channel>
