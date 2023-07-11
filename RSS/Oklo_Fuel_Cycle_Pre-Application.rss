@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 10 Jul 2023 23:16:17 GMT</pubDate>
-		<lastBuildDate>Mon, 10 Jul 2023 23:16:17 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Jul 2023 14:17:21 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Jul 2023 14:17:21 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Oklo Inc. Licensing Project Plan (Fuel Recycling): 2Q2023 Update</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23181A206</link>
+			<description>Letter</description>
+			<author>Oklo Inc</author>
+			<pubDate>2023-07-11 08:32:00</pubDate>
+		</item>
+		<item>
+			<title>Affidavit of Ross Moore</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23181A207</link>
+			<description>Legal-Affidavit</description>
+			<author>Oklo Inc</author>
+			<pubDate>2023-07-11 08:32:00</pubDate>
+		</item>
+	</channel>
 </rss>
