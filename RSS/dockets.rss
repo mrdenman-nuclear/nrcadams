@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Jul 2023 16:19:12 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Jul 2023 16:19:12 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Jul 2023 17:14:00 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Jul 2023 17:14:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>07/11/2023 Pre-Application meeting with TerraPower to discuss Specified Acceptable System Radionuclide Release Design Limit (SARRDL), Functional Containment, and Major Accidents (50.34) for the Natrium design.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23192A450</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-07-11 12:38:00</pubDate>
+		</item>
 		<item>
 			<title>TRISO-X At-Risk Construction Letter</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23121A151</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-07-06 17:06:00</pubDate>
-		</item>
-		<item>
-			<title>07/13/2023 Discuss Draft RAIs for the TRISO-X License Application for Chapter 2 (Organization and Administration) and ISA Summary (programmatic)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23187A511</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2023-07-06 14:37:00</pubDate>
 		</item>
 	</channel>
 </rss>
