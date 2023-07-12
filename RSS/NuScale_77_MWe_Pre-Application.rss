@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Jul 2023 23:16:46 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Jul 2023 23:16:46 GMT</lastBuildDate>
+		<pubDate>Wed, 12 Jul 2023 14:15:48 GMT</pubDate>
+		<lastBuildDate>Wed, 12 Jul 2023 14:15:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>NuScale, Topical Report “Statistical Subchannel Analysis Methodology, Supplement 1 To TR-0915-17564-P-A, Revision 2, Subchannel Analysis Methodology,” TR-108601, Revision 2, Review Schedule Letter Update</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23167A036</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-07-12 08:28:00</pubDate>
+		</item>
+	</channel>
 </rss>
