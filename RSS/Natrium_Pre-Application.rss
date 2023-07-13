@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 12 Jul 2023 23:16:58 GMT</pubDate>
-		<lastBuildDate>Wed, 12 Jul 2023 23:16:58 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Jul 2023 14:19:07 GMT</pubDate>
+		<lastBuildDate>Thu, 13 Jul 2023 14:19:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,20 +38,6 @@
 			<description>Legal-Affidavit, Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2023-07-10 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>08/17/2023 Pre-Application Meeting with TerraPower to discuss the Severe Accident Mitigation Design Alternatives (SAMDAs) for the Natrium design.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23180A234</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-07-06 17:06:00</pubDate>
-		</item>
-		<item>
-			<title>07/19/2023 Pre-Application Meeting with TerraPower to discuss Fuel Handling Supervisory Control System Instrumentation & Control (I&C).</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23187A625</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-07-06 17:06:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,46 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 12 Jul 2023 23:16:58 GMT</pubDate>
-		<lastBuildDate>Wed, 12 Jul 2023 23:16:58 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Jul 2023 14:19:07 GMT</pubDate>
+		<lastBuildDate>Thu, 13 Jul 2023 14:19:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>05/11/2023 Consultations under NHPA Regarding Kairos Hermes CP Application Review</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23194A023</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2023-07-13 08:46:00</pubDate>
+		</item>
 		<item>
 			<title>2023/07/04 Hermes CP Doc - Submittal of Supplemental Information from Kairos Power_Redacted (8).pdf</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23185A004</link>
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2023-07-11 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>June 6 and 14, 2023 Summary of the Closed Meetings with Kairos Power Regarding Section 106 Consultations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23181A042</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NMSS/DREFS/ENRB</author>
-			<pubDate>2023-07-06 10:27:00</pubDate>
-		</item>
-		<item>
-			<title>2023/06/29 Hermes CP Doc - Public Summary of 6-27-23 Email from Consulting Tribe</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23180A298</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2023-07-06 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>2023/06/29 Hermes CP Doc - FW email summary of the April 20 Kairos submittal</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23180A299</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2023-07-06 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power, LLC - Supplemental Information for Environmental Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23178A096</link>
-			<description>Letter</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2023-07-06 08:34:00</pubDate>
 		</item>
 	</channel>
 </rss>
