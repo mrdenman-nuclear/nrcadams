@@ -5,32 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Jul 2023 23:16:22 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Jul 2023 23:16:22 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Jul 2023 14:15:46 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Jul 2023 14:15:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Westinghouse, Affidavit AW-23-025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23179A197</link>
-			<description>Legal-Affidavit</description>
-			<author>Westinghouse Electric Co</author>
-			<pubDate>2023-07-07 08:43:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse, Submittal of the Principal Design Criteria Topical Report for the eVinci Microreactor (EVR-LIC-RL-001-P/NP)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23179A196</link>
-			<description>Letter</description>
-			<author>Westinghouse Electric Co, Westinghouse Electric Co, LLC</author>
-			<pubDate>2023-07-07 08:43:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse, EVR-LIC-RL-001-NP, Revision 0, "Principal Design Criteria Topical Report"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23179A199</link>
-			<description>Topical Report</description>
-			<author>Westinghouse Electric Co</author>
-			<pubDate>2023-07-07 08:43:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

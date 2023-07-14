@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Jul 2023 23:16:22 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Jul 2023 23:16:22 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Jul 2023 14:15:50 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Jul 2023 14:15:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2023/06/21 NRR E-mail Capture - NRC Draft Feedback on the “Xe-100 Plant Control and Data Acquisition System White Paper, Revision 3” (EPID L-2022-LRO-0013).</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23192A625</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-07-14 08:35:00</pubDate>
+		</item>
+		<item>
+			<title>REDACTED: Proprietary Enclosure Draft U.S. Nuclear Regulatory Commission Staff Observations Regarding XE-100 White Paper Plant Control And Data Acquisition System (EPID L-2022-LRO-0013).</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23192A548</link>
+			<description>Technical Paper</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-07-14 08:35:00</pubDate>
+		</item>
+		<item>
+			<title>[External_Sender]  2023/07/07 EMAIL CAPTURE RE_  RE_ NRC Draft Feedback on the “Xe-100 Plant Control and Data Acquisition System White Paper, Revision 3” (EPID L-2022-LRO-0013)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23193A451</link>
+			<description>E-Mail</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2023-07-14 08:35:00</pubDate>
+		</item>
 		<item>
 			<title>05/11/2023 Consultations under NHPA Regarding Kairos Hermes CP Application Review</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23194A023</link>
@@ -199,27 +220,6 @@
 			<description>Legal-Affidavit, Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2023-07-10 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse, Affidavit AW-23-025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23179A197</link>
-			<description>Legal-Affidavit</description>
-			<author>Westinghouse Electric Co</author>
-			<pubDate>2023-07-07 08:43:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse, Submittal of the Principal Design Criteria Topical Report for the eVinci Microreactor (EVR-LIC-RL-001-P/NP)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23179A196</link>
-			<description>Letter</description>
-			<author>Westinghouse Electric Co, Westinghouse Electric Co, LLC</author>
-			<pubDate>2023-07-07 08:43:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse, EVR-LIC-RL-001-NP, Revision 0, "Principal Design Criteria Topical Report"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23179A199</link>
-			<description>Topical Report</description>
-			<author>Westinghouse Electric Co</author>
-			<pubDate>2023-07-07 08:43:00</pubDate>
 		</item>
 	</channel>
 </rss>
