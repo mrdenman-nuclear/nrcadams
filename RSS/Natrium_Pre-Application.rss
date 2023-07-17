@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 14 Jul 2023 23:15:21 GMT</pubDate>
-		<lastBuildDate>Fri, 14 Jul 2023 23:15:21 GMT</lastBuildDate>
+		<pubDate>Mon, 17 Jul 2023 14:16:55 GMT</pubDate>
+		<lastBuildDate>Mon, 17 Jul 2023 14:16:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TerraPower, LLC, Fuel Handling Instrumentation and Control Presentation Materials</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23188A184</link>
+			<description>Legal-Affidavit, Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2023-07-17 08:28:00</pubDate>
+		</item>
 		<item>
 			<title>07/12/2023 Pre-Application meeting with TerraPower to discuss the Design Basis Accident Transient Methodology for the Natrium Design.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23193A838</link>
@@ -31,13 +38,6 @@
 			<description>Letter, Slides and Viewgraphs</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2023-07-11 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC, Specified Acceptable System Radionuclide Release Design Limit, Functional Containment, and Major Accident Presentation Materials</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23180A301</link>
-			<description>Legal-Affidavit, Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2023-07-10 08:30:00</pubDate>
 		</item>
 	</channel>
 </rss>
