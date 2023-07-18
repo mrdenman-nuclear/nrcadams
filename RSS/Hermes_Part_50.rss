@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 17 Jul 2023 23:15:29 GMT</pubDate>
-		<lastBuildDate>Mon, 17 Jul 2023 23:15:29 GMT</lastBuildDate>
+		<pubDate>Tue, 18 Jul 2023 14:15:16 GMT</pubDate>
+		<lastBuildDate>Tue, 18 Jul 2023 14:15:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2023-07-13 08:46:00</pubDate>
-		</item>
-		<item>
-			<title>2023/07/04 Hermes CP Doc - Submittal of Supplemental Information from Kairos Power_Redacted (8).pdf</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23185A004</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2023-07-11 08:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
