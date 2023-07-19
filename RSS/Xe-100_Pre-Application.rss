@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 18 Jul 2023 23:14:52 GMT</pubDate>
-		<lastBuildDate>Tue, 18 Jul 2023 23:14:52 GMT</lastBuildDate>
+		<pubDate>Wed, 19 Jul 2023 14:15:16 GMT</pubDate>
+		<lastBuildDate>Wed, 19 Jul 2023 14:15:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>E-Mail</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2023-07-14 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>07/13/2023 X Energy Preapplication Meeting to Discuss Environmental Issues</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23193A990</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2023-07-12 15:04:00</pubDate>
-		</item>
-		<item>
-			<title>07/13/2023 Notice of X energy Preapplication Meeting to Discuss Environmental Topics</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23193A988</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2023-07-12 15:00:00</pubDate>
 		</item>
 	</channel>
 </rss>

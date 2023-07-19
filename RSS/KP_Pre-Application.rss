@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 18 Jul 2023 23:14:52 GMT</pubDate>
-		<lastBuildDate>Tue, 18 Jul 2023 23:14:52 GMT</lastBuildDate>
+		<pubDate>Wed, 19 Jul 2023 14:15:16 GMT</pubDate>
+		<lastBuildDate>Wed, 19 Jul 2023 14:15:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Email Acceptance Kairos Setpoint TR</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23194A233</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2023-07-19 08:33:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Form 898 Topical Report Completeness Determination for Kairos Instrument Setpoint Methodology Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23194A232</link>
+			<description>Administrative Form, NRC</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-07-19 08:33:00</pubDate>
+		</item>
+	</channel>
 </rss>
