@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 20 Jul 2023 16:19:17 GMT</pubDate>
-		<lastBuildDate>Thu, 20 Jul 2023 16:19:17 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Jul 2023 17:13:51 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Jul 2023 17:13:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Summary of the May 4, 2023, Closed Meeting with Westinghouse Electric Company to Discuss Topical Reports Regarding the eVinci Micro-Reactor Design's Advanced Logic System V2 Platform and Development Process</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23151A342</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2023-07-20 13:11:00</pubDate>
+		</item>
 		<item>
 			<title>07/31/2023 Public Meeting with Oklo to Discuss the Licensing Strategy and Approach for a Future Spent Fuel Reprocessing Facility Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23201A129</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23192A548</link>
 			<description>Technical Paper</description>
 			<author>NRC/NRR</author>
-			<pubDate>2023-07-14 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>[External_Sender]  2023/07/07 EMAIL CAPTURE RE_  RE_ NRC Draft Feedback on the “Xe-100 Plant Control and Data Acquisition System White Paper, Revision 3” (EPID L-2022-LRO-0013)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23193A451</link>
-			<description>E-Mail</description>
-			<author>X-Energy, LLC</author>
 			<pubDate>2023-07-14 08:35:00</pubDate>
 		</item>
 	</channel>
