@@ -34,7 +34,7 @@ to break the one long search into many smaller searches.
 ```{r}
 combined_dockets = nrcadams::docket_codex |>
   dplyr::pull(DocketNumber) |>
-  nrcadams::search_long_docket(number_of_intervals = 30) |>
+  nrcadams::search_long_docket(number_of_intervals = 75) |>
   nrcadams::hyperlink_file_to_name() |>
   dplyr::left_join(nrcadams::docket_codex) |>
   dplyr::select(-c(Company, DocketNumber, `ML Number`)) |>
