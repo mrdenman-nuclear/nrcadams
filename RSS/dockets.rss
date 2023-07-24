@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 24 Jul 2023 20:15:36 GMT</pubDate>
-		<lastBuildDate>Mon, 24 Jul 2023 20:15:36 GMT</lastBuildDate>
+		<pubDate>Mon, 24 Jul 2023 21:16:50 GMT</pubDate>
+		<lastBuildDate>Mon, 24 Jul 2023 21:16:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>X Energy, LLC Submittal of Technical Specifications Presentation Materials for Upcoming Meeting With NRC On August 2, 2023</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23201A263</link>
+			<description>Legal-Affidavit, Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2023-07-24 16:36:00</pubDate>
+		</item>
 		<item>
 			<title>2023/07/10 NRR E-mail Capture - University of Illinois Urbana-Champaign - Audit Plan for the Fuel Qualification Methodology Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23191A864</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23192A280</link>
 			<description>Letter, Quality Assurance Program</description>
 			<author>NuScale Power, LLC</author>
-			<pubDate>2023-07-19 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal on Behalf of CFPP LLC, "Carbon Free Power Project (CFPP) Combined License Application (COLA) Status Report"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23192A623</link>
-			<description>Legal-Affidavit, Letter, Status Report</description>
-			<author>Carbon Free Power Project, LLC (CFPP, LLC), NuScale Power, LLC</author>
 			<pubDate>2023-07-19 08:32:00</pubDate>
 		</item>
 	</channel>
