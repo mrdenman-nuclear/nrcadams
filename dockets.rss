@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 24 Jul 2023 23:16:53 GMT</pubDate>
-		<lastBuildDate>Mon, 24 Jul 2023 23:16:53 GMT</lastBuildDate>
+		<pubDate>Tue, 25 Jul 2023 14:15:59 GMT</pubDate>
+		<lastBuildDate>Tue, 25 Jul 2023 14:15:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2023/07/11 NRR E-mail Capture - Abilene Christian University (ACU), Molten Salt Research Reactor (MSRR) Chapter 11 Audit Question</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23192A454</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2023-07-25 08:25:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC Submittal of Topical Report "Methodology for the Determination of the Onset of Density Wave Oscillations (DWO)," TR-131981, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23198A244</link>
+			<description>Legal-Affidavit, Letter, Topical Report</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2023-07-25 08:25:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC Submittal of Topical Report "Methodology for the Determination of the Onset of Density Wave Oscillations (DWO)," TR-131981, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23198A244</link>
+			<description>Legal-Affidavit, Letter, Topical Report</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2023-07-25 08:25:00</pubDate>
+		</item>
+		<item>
+			<title>March 29, 2023 Summary of Meeting to Discuss Security, Principal Design Criteria, and Source Term for the Oklo Design</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23171B113</link>
+			<description>Meeting Summary</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-07-25 08:25:00</pubDate>
+		</item>
 		<item>
 			<title>X Energy, LLC Submittal of Technical Specifications Presentation Materials for Upcoming Meeting With NRC On August 2, 2023</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23201A263</link>
@@ -192,34 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2023-07-20 09:01:00</pubDate>
-		</item>
-		<item>
-			<title>Email Acceptance Kairos Setpoint TR</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23194A233</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2023-07-19 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Form 898 Topical Report Completeness Determination for Kairos Instrument Setpoint Methodology Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23194A232</link>
-			<description>Administrative Form, NRC</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-07-19 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of Topical Report "Quality Assurance Program Description," MN-122626, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23192A280</link>
-			<description>Letter, Quality Assurance Program</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2023-07-19 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of Topical Report "Quality Assurance Program Description," MN-122626, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23192A280</link>
-			<description>Letter, Quality Assurance Program</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2023-07-19 08:32:00</pubDate>
 		</item>
 	</channel>
 </rss>

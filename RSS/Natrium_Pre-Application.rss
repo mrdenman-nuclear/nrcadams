@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 24 Jul 2023 23:16:52 GMT</pubDate>
-		<lastBuildDate>Mon, 24 Jul 2023 23:16:52 GMT</lastBuildDate>
+		<pubDate>Tue, 25 Jul 2023 14:15:59 GMT</pubDate>
+		<lastBuildDate>Tue, 25 Jul 2023 14:15:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Topical Report</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-07-20 10:28:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower - Natrium EI-NI Separation TR Audit Summary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23198A261</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-07-18 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower Natrium EI-NI Separation TR Audit Summary Final</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23198A264</link>
-			<description>Audit Report</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-07-18 08:28:00</pubDate>
 		</item>
 	</channel>
 </rss>
