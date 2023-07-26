@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 25 Jul 2023 23:12:52 GMT</pubDate>
-		<lastBuildDate>Tue, 25 Jul 2023 23:12:52 GMT</lastBuildDate>
+		<pubDate>Wed, 26 Jul 2023 14:15:52 GMT</pubDate>
+		<lastBuildDate>Wed, 26 Jul 2023 14:15:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2023-07-25 08:25:00</pubDate>
-		</item>
-		<item>
-			<title>Abilene Christian University, Summary of the April 13, 2023, Closed Meeting Between the U.S. Nuclear Regulatory Commission Staff and Abilene Christian University to Discuss Security Topics for the Molten Salt Research Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23193A347</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-07-19 08:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
