@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 26 Jul 2023 23:14:23 GMT</pubDate>
-		<lastBuildDate>Wed, 26 Jul 2023 23:14:23 GMT</lastBuildDate>
+		<pubDate>Thu, 27 Jul 2023 14:15:00 GMT</pubDate>
+		<lastBuildDate>Thu, 27 Jul 2023 14:15:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,62 +17,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-07-25 14:05:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: General Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23195A123</link>
-			<description>License-Application for Construction Permit DKT 50</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2023-07-20 10:28:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of the Construction Permit Application for the Hermes 2 Kairos Power Fluoride Salt-Cooled, High Temperature Non-Power Reactor. With Enclosure 11 affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23195A122</link>
-			<description>Legal-Affidavit, Letter, License-Application for Construction Permit DKT 50</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2023-07-20 10:28:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Preliminary Safety Analysis Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23195A124</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2023-07-20 10:28:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 5: Exemptions</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23195A127</link>
-			<description>- No Document Type Applies</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2023-07-20 10:28:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 8: KP-TR-017-NP, "KP-FHR Core Design and Analysis Methodology," Rev. 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23195A130</link>
-			<description>Topical Report</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2023-07-20 10:28:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 9: KP-TR-022-NP, "Hermes 2 Postulated Event Methodology."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23195A131</link>
-			<description>Topical Report</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2023-07-20 10:28:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 10: Summary of PSAR Deletions</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23195A132</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2023-07-20 10:28:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Environmental Report H2-ER-0000001, Rev. 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23195A125</link>
-			<description>Environmental Report</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2023-07-20 10:28:00</pubDate>
 		</item>
 	</channel>
 </rss>
