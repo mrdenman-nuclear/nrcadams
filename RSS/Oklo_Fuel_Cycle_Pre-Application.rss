@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 27 Jul 2023 18:18:33 GMT</pubDate>
-		<lastBuildDate>Thu, 27 Jul 2023 18:18:33 GMT</lastBuildDate>
+		<pubDate>Thu, 27 Jul 2023 19:11:49 GMT</pubDate>
+		<lastBuildDate>Thu, 27 Jul 2023 19:11:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Oklo Presentation "Licensing Approach and Process" for the July 31, 2023 Public Meeting (Publicly Available Portion)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23208A209</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Oklo Inc</author>
+			<pubDate>2023-07-27 14:36:00</pubDate>
+		</item>
+		<item>
+			<title>07/31/2023 Public Meeting with Oklo to Discuss the Licensing Strategy and Approach for a Future Spent Fuel Reprocessing Facility Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23208A239</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-07-27 14:31:00</pubDate>
+		</item>
+	</channel>
 </rss>
