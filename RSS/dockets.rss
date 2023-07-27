@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 27 Jul 2023 15:14:31 GMT</pubDate>
-		<lastBuildDate>Thu, 27 Jul 2023 15:14:31 GMT</lastBuildDate>
+		<pubDate>Thu, 27 Jul 2023 16:18:08 GMT</pubDate>
+		<lastBuildDate>Thu, 27 Jul 2023 16:18:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Safety Evaluation for Hermes Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23158A268</link>
+			<description>Safety Evaluation Report</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2023-07-27 11:53:00</pubDate>
+		</item>
 		<item>
 			<title>Summary of April 27, 2023, Public Meeting on X-energy Topical Report, “Atmospheric Dispersion and Dose Consequences Methods”</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23159A096</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23194A061</link>
 			<description>Legal-Affidavit</description>
 			<author>SMR, LLC</author>
-			<pubDate>2023-07-21 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Meeting Summary - July 11 2023 Public Meeting With X-Energy to Discuss White Paper on Xe-100 Emergency Planning</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23194A098</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2023-07-21 08:31:00</pubDate>
 		</item>
 	</channel>
