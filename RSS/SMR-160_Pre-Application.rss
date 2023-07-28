@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 27 Jul 2023 23:13:35 GMT</pubDate>
-		<lastBuildDate>Thu, 27 Jul 2023 23:13:35 GMT</lastBuildDate>
+		<pubDate>Fri, 28 Jul 2023 14:16:12 GMT</pubDate>
+		<lastBuildDate>Fri, 28 Jul 2023 14:16:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,27 +24,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-07-25 13:17:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC Preapplication Meeting Materials for July 26, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23194A057</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
-			<pubDate>2023-07-21 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: SMR, LLC Meeting Presentation Materials for July 26, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23194A059</link>
-			<description>Slides and Viewgraphs</description>
-			<author>Holtec International SMR, LLC</author>
-			<pubDate>2023-07-21 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 4: Affidavit of Justin R. Hawkins</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23194A061</link>
-			<description>Legal-Affidavit</description>
-			<author>SMR, LLC</author>
-			<pubDate>2023-07-21 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 27 Jul 2023 23:13:27 GMT</pubDate>
-		<lastBuildDate>Thu, 27 Jul 2023 23:13:27 GMT</lastBuildDate>
+		<pubDate>Fri, 28 Jul 2023 14:16:04 GMT</pubDate>
+		<lastBuildDate>Fri, 28 Jul 2023 14:16:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC, Safety Evaluation Report for Licensing Topical Report:  MN-122626, Revision 0, "NuScale Power, LLC Quality Assurance Program Description"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23199A018</link>
+			<description>Memoranda</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-07-28 08:33:00</pubDate>
+		</item>
 		<item>
 			<title>Oklo Presentation "Licensing Approach and Process" for the July 31, 2023 Public Meeting (Publicly Available Portion)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23208A209</link>
@@ -199,27 +206,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-07-24 08:27:00</pubDate>
-		</item>
-		<item>
-			<title>08/01/2023 Pre-application meeting with Westinghouse to discuss the Radiation Protection and Contamination Control white paper related to the eVinci microreactor design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23202A059</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-07-21 10:14:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of August 25 and 30 2022 Public Meetings on the Kairos Hermes Preliminary Safety Analysis Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23181A107</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-07-21 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>2023/07/07 GEH BWRX-300 SMR - Updated - Pre-Submittal Readiness Assessment Engagement Plan for Draft Safety Strategy LTR (NEDC-33934P)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23188A095</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2023-07-21 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
