@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 28 Jul 2023 23:14:40 GMT</pubDate>
-		<lastBuildDate>Fri, 28 Jul 2023 23:14:40 GMT</lastBuildDate>
+		<pubDate>Mon, 31 Jul 2023 14:15:25 GMT</pubDate>
+		<lastBuildDate>Mon, 31 Jul 2023 14:15:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,27 +45,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-07-26 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy, LLC Submittal of Technical Specifications Presentation Materials for Upcoming Meeting With NRC On August 2, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23201A263</link>
-			<description>Legal-Affidavit, Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2023-07-24 16:36:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Preapplication Readiness Assessment of the Draft Preliminary Safety Analysis Report for Dow and X-energy's Advanced Reactor Demonstration Program Construction Permit Application.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23195A107</link>
-			<description>Letter</description>
-			<author>Dow Chemical Co, X-Energy, LLC</author>
-			<pubDate>2023-07-24 08:27:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy, LLC - Summary of the November 30, 2022, Meeting with X Energy regarding the XE-100 Principal Design Criteria Licensing Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23031A246</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-07-24 08:27:00</pubDate>
 		</item>
 	</channel>
 </rss>
