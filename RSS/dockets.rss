@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 01 Aug 2023 18:17:30 GMT</pubDate>
-		<lastBuildDate>Tue, 01 Aug 2023 18:17:30 GMT</lastBuildDate>
+		<pubDate>Tue, 01 Aug 2023 19:12:32 GMT</pubDate>
+		<lastBuildDate>Tue, 01 Aug 2023 19:12:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submittal of X Energy, LLC (X-energy) Xe-100 Licensing Topical Report: Atmospheric Dispersion and Dose Calculation Methodology</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23146A189</link>
+			<description>Legal-Affidavit, Letter, Topical Report</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2023-08-01 14:42:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC, Submittal on Behalf of CFPP LLC Carbon Free Power Project (CFPP), Combined License Application (COLA) Entitled "Carbon Free Power Project Quality Assurance Program Description," Revision 006, Topical Report TR-121172-NP, Revision 4</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23212A002</link>
@@ -210,13 +217,6 @@
 		<item>
 			<title>Response to SDAA Audit Question A-12.2.1.8-1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23205A225</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2023-08-01 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>Response to SDAA Audit Question A-12.2-2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23205A226</link>
 			<description>Response to Request for Additional Information (RAI)</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2023-08-01 08:30:00</pubDate>
