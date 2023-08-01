@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 31 Jul 2023 23:15:48 GMT</pubDate>
-		<lastBuildDate>Mon, 31 Jul 2023 23:15:48 GMT</lastBuildDate>
+		<pubDate>Tue, 01 Aug 2023 14:17:52 GMT</pubDate>
+		<lastBuildDate>Tue, 01 Aug 2023 14:17:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Email To TRISO-X Re Completion Of Review Of The TRISO-X Safeguards Protection Program, Revision 3 And TRISO-X Facility Safeguards Information Plan</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23205A138</link>
+			<description>E-Mail</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2023-08-01 08:30:00</pubDate>
+		</item>
+	</channel>
 </rss>
