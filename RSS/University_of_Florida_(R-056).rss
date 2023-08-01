@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>University of Florida (R-056)</title>
+		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
+		<description>NRC ADAMS Docket Update</description>
+		<language>en-us</language>
+		<pubDate>Tue, 01 Aug 2023 21:18:55 GMT</pubDate>
+		<lastBuildDate>Tue, 01 Aug 2023 21:18:55 GMT</lastBuildDate>
+		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
+		<generator>Function write_rss() in R package nrcadams</generator>
+		<managingEditor>mrdenman@gmail.com</managingEditor>
+		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Examination Results Letter No. 50-083/OL 23-01, University of Florida</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23199A292</link>
+			<description>Letter, License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2023-07-26 08:31:00</pubDate>
+		</item>
+		<item>
+			<title>Examination Report Letter No. 50-083/OL-23-01, University of Florida</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23199A293</link>
+			<description>Letter, License-Operator Examination Report (Non-Power Reactors Only), License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2023-07-26 08:31:00</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>North Carolina State University (R-120)</title>
+		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
+		<description>NRC ADAMS Docket Update</description>
+		<language>en-us</language>
+		<pubDate>Tue, 01 Aug 2023 21:18:54 GMT</pubDate>
+		<lastBuildDate>Tue, 01 Aug 2023 21:18:54 GMT</lastBuildDate>
+		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
+		<generator>Function write_rss() in R package nrcadams</generator>
+		<managingEditor>mrdenman@gmail.com</managingEditor>
+		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TSAF50-00297 - North Carolina State University PULSTAR Research Reactor, Current Facility Operating License No. R-120, Tech Specs, Revised 7/31/2023.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML14136A070</link>
+			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-07-31 10:40:00</pubDate>
+		</item>
+		<item>
+			<title>Safety Evaluation Regarding the License Amendment Request for Vented Fueled Experiments</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23164A214</link>
+			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation, Technical Specifications</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2023-07-28 15:41:00</pubDate>
+		</item>
+		<item>
+			<title>Audit Report Related to the NRC Staff Review of the North Carolina State University License Request Regarding Vented Fueled Experiments</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23209A716</link>
+			<description>Audit Report, E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2023-07-28 14:35:00</pubDate>
+		</item>
+		<item>
+			<title>2023/07/12 NRR E-mail Capture - NORTH CAROLINA STATE UNIVERSITY - ACCEPTANCE OF THE APPLICATION FOR A LICENSE AMENDMENT RE: TECHNICAL SPECIFICATION 6.1.1 REGARDING THE TRAINING OF LEVEL 3 MANAGEMENT FOR THE PULSTAR RESEARCH REACTOR (EPID L-2023-NFA-0004)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23193B005</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2023-07-26 08:31:00</pubDate>
+		</item>
+	</channel>
+</rss>
