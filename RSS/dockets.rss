@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 01 Aug 2023 20:14:51 GMT</pubDate>
-		<lastBuildDate>Tue, 01 Aug 2023 20:14:51 GMT</lastBuildDate>
+		<pubDate>Tue, 01 Aug 2023 21:12:54 GMT</pubDate>
+		<lastBuildDate>Tue, 01 Aug 2023 21:12:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>05/11/2023 Consultations under NHPA Regarding Kairos Hermes CP Application Review</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23213A232</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2023-08-01 17:12:00</pubDate>
+		</item>
 		<item>
 			<title>08/22/2023 Notice of Public Meeting with NuScale Power and Carbon Free Power Project (CFPP)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23213A214</link>
@@ -210,13 +217,6 @@
 		<item>
 			<title>Response to SDAA Audit Question A-10.3-1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23205A224</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2023-08-01 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>Response to SDAA Audit Question A-12.2.1.8-1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23205A225</link>
 			<description>Response to Request for Additional Information (RAI)</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2023-08-01 08:30:00</pubDate>
