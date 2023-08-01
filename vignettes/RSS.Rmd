@@ -1,4 +1,4 @@
----
+ ---
 title: "RSS Files"
 output: rmarkdown::html_vignette
 vignette: >
@@ -72,3 +72,23 @@ nrcadams::docket_codex |>
 
 ```
 
+# Research and Test Reactors
+
+And if you are more interested in tracking RTRs (no reason in particular), these RSS files might help.
+
+```{r}
+nrcadams::RTR_docket_codex |>
+  dplyr::select(Project) |>
+  dplyr::mutate(`RSS File` = paste0(
+    "https://mrdenman-nuclear.github.io/nrcadams/RSS/",
+    Project |> stringr::str_replace_all(" ", "_"),
+    ".rss"
+  )) |>
+  dplyr::add_row(
+    Project = "All Dockets", 
+    `RSS File` = "https://mrdenman-nuclear.github.io/nrcadams/RSS/dockets.rss"
+    ) |>
+  nrcadams::hyperlink_file_to_name(name_vct = `RSS File`, url_vct = `RSS File`)|>
+  DT::datatable(escape = FALSE)
+
+```
