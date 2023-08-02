@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 01 Aug 2023 23:15:15 GMT</pubDate>
-		<lastBuildDate>Tue, 01 Aug 2023 23:15:15 GMT</lastBuildDate>
+		<pubDate>Wed, 02 Aug 2023 14:16:01 GMT</pubDate>
+		<lastBuildDate>Wed, 02 Aug 2023 14:16:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>X Energy, LLC (X-energy), Submittal of Topical Report, "TRISO-X Pebble Fuel Qualification Methodology" Accepted Version</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23160A294</link>
+			<description>Legal-Affidavit, Letter, Topical Report</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2023-08-02 08:38:00</pubDate>
+		</item>
 		<item>
 			<title>Submittal of X Energy, LLC (X-energy) Xe-100 Licensing Topical Report: Atmospheric Dispersion and Dose Calculation Methodology</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23146A189</link>
@@ -52,20 +59,6 @@
 			<description>Letter, Proprietary Information Review</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-07-27 08:43:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy, LLC. - Pre-Submittal Engagement Closed Meeting Slides (Redacted): Technical Specifications</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23207A017</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2023-07-26 09:31:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of the June 29, 2023, Partially Closed Meeting With X Energy, LLC</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23180A221</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-07-26 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
