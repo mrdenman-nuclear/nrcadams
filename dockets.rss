@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 03 Aug 2023 16:17:22 GMT</pubDate>
-		<lastBuildDate>Thu, 03 Aug 2023 16:17:22 GMT</lastBuildDate>
+		<pubDate>Thu, 03 Aug 2023 17:14:27 GMT</pubDate>
+		<lastBuildDate>Thu, 03 Aug 2023 17:14:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>07/31/2023 meeting with Oklo to discuss various technical topics for their advanced reactor design</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23215A123</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-08-03 12:33:00</pubDate>
+		</item>
 		<item>
 			<title>08/09/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding seismic methodology to support the Construction Permit for the Holtec SMR-160 design</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23215A058</link>
@@ -33,7 +40,7 @@
 			<pubDate>2023-08-03 09:27:00</pubDate>
 		</item>
 		<item>
-			<title>NRC-CNSC Joint on GEH Safety Strategy White Paper</title>
+			<title>NRC-CNSC Joint Report on GEH BWRX-300 Safety Strategy White Paper</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23135A151</link>
 			<description>Technical Paper</description>
 			<author>Govt of Canada, Nuclear Safety Commission, NRC/NRR/DNRL/NRLB</author>
@@ -211,13 +218,6 @@
 			<title>Carbon Free Power Project Application for Limited Work Authorization, Revision 0</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23212A009</link>
 			<description>License-Application For Combined License (COLA) A</description>
-			<author>Carbon Free Power Project, LLC (CFPP, LLC)</author>
-			<pubDate>2023-08-01 09:45:00</pubDate>
-		</item>
-		<item>
-			<title>Carbon Free Power Project Application for Limited Work Authorization - Applicant Corporate and Financial Information, Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23212A010</link>
-			<description>Financial Assurance Document, License-Application For Combined License (COLA) A</description>
 			<author>Carbon Free Power Project, LLC (CFPP, LLC)</author>
 			<pubDate>2023-08-01 09:45:00</pubDate>
 		</item>
