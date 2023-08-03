@@ -5,11 +5,39 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 02 Aug 2023 23:14:50 GMT</pubDate>
-		<lastBuildDate>Wed, 02 Aug 2023 23:14:50 GMT</lastBuildDate>
+		<pubDate>Thu, 03 Aug 2023 14:15:25 GMT</pubDate>
+		<lastBuildDate>Thu, 03 Aug 2023 14:15:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Summary of the February 23, 2023, Closed Meeting with TerraPower, LLC, to Discuss the Partial Flow Blockage for the Natrium Design (EPID No. L-2021-LRM-0071)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23072A475</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-08-03 08:32:00</pubDate>
+		</item>
+		<item>
+			<title>Summary Of The January 26, 2023, Open Observation, Pre-Application Meeting With TerraPower, LLC, To Discuss The Seismic Analysis Approach For The Natrium Design</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23072A476</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-08-03 08:32:00</pubDate>
+		</item>
+		<item>
+			<title>TerraPower, LLC - Withholding Proprietary Information from Public Disclosure - TerraPower, LLC's Partial Flow Blockage Methodology Presentation Material</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23074A352</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-08-03 08:32:00</pubDate>
+		</item>
+		<item>
+			<title>TerraPower Summary of the October 31, 2022, Partially Closed Pre-Application Meeting with TerraPower, LLC, to Discuss the Emergency Planning Zone Sizing Methodology (EPID NO. L-2021-LRM-0071)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23030B894</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-08-03 08:31:00</pubDate>
+		</item>
+	</channel>
 </rss>

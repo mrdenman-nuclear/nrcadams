@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 02 Aug 2023 23:14:42 GMT</pubDate>
-		<lastBuildDate>Wed, 02 Aug 2023 23:14:42 GMT</lastBuildDate>
+		<pubDate>Thu, 03 Aug 2023 14:15:15 GMT</pubDate>
+		<lastBuildDate>Thu, 03 Aug 2023 14:15:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Texas A&M University, Examination Confirmation Letter 50-128/OL-23-03</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23198A010</link>
+			<description>Inspection Plan, Letter, License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2023-08-03 08:32:00</pubDate>
+		</item>
+	</channel>
 </rss>
