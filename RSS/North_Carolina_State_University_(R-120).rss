@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 03 Aug 2023 23:15:18 GMT</pubDate>
-		<lastBuildDate>Thu, 03 Aug 2023 23:15:18 GMT</lastBuildDate>
+		<pubDate>Fri, 04 Aug 2023 14:14:17 GMT</pubDate>
+		<lastBuildDate>Fri, 04 Aug 2023 14:14:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,20 +17,6 @@
 			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation, Technical Specifications</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-07-31 10:40:00</pubDate>
-		</item>
-		<item>
-			<title>Safety Evaluation Regarding the License Amendment Request for Vented Fueled Experiments</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23164A214</link>
-			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation, Technical Specifications</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2023-07-28 15:41:00</pubDate>
-		</item>
-		<item>
-			<title>Audit Report Related to the NRC Staff Review of the North Carolina State University License Request Regarding Vented Fueled Experiments</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23209A716</link>
-			<description>Audit Report, E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2023-07-28 14:35:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 03 Aug 2023 23:15:28 GMT</pubDate>
-		<lastBuildDate>Thu, 03 Aug 2023 23:15:28 GMT</lastBuildDate>
+		<pubDate>Fri, 04 Aug 2023 14:14:27 GMT</pubDate>
+		<lastBuildDate>Fri, 04 Aug 2023 14:14:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -122,13 +122,6 @@
 			<description>Response to Request for Additional Information (RAI)</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2023-08-01 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Safety Evaluation Report for Licensing Topical Report:  MN-122626, Revision 0, "NuScale Power, LLC Quality Assurance Program Description"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23199A018</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-07-28 08:33:00</pubDate>
 		</item>
 	</channel>
 </rss>
