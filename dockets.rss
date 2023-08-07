@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 07 Aug 2023 14:14:54 GMT</pubDate>
-		<lastBuildDate>Mon, 07 Aug 2023 14:14:54 GMT</lastBuildDate>
+		<pubDate>Mon, 07 Aug 2023 15:17:59 GMT</pubDate>
+		<lastBuildDate>Mon, 07 Aug 2023 15:17:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Federal Register Notice - Acceptance for Docketing of NuScale's Standard Design Approval Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23212B062</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-08-07 10:40:00</pubDate>
+		</item>
 		<item>
 			<title>X Energy LLC  email withholding information determination for Xe-100 Topical Report: Transient Safety Analysis Methodology Framework</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML21313A088</link>
@@ -211,13 +218,6 @@
 			<title>5-17-23 Meeting Summary with SMR, LLC, a Holtec International Company, to Discuss Risk Topics related to the SMR-160 Design</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23167A075</link>
 			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-08-02 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1- 5-17-23 Meeting Agenda of Public Meeting with SMR, LLC, a Holtec International Company, to Discuss Risk Topics related to the SMR-160 Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23167A072</link>
-			<description>Meeting Agenda</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2023-08-02 08:30:00</pubDate>
 		</item>
