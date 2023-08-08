@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 08 Aug 2023 04:15:28 GMT</pubDate>
-		<lastBuildDate>Tue, 08 Aug 2023 04:15:28 GMT</lastBuildDate>
+		<pubDate>Tue, 08 Aug 2023 14:15:01 GMT</pubDate>
+		<lastBuildDate>Tue, 08 Aug 2023 14:15:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>North Carolina State University, License Amendment Request</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23212A973</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50, Technical Specification, Amendment</description>
+			<author>North Carolina State Univ</author>
+			<pubDate>2023-08-08 08:32:00</pubDate>
+		</item>
+	</channel>
 </rss>
