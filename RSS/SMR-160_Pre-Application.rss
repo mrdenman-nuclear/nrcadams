@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 08 Aug 2023 23:15:21 GMT</pubDate>
-		<lastBuildDate>Tue, 08 Aug 2023 23:15:21 GMT</lastBuildDate>
+		<pubDate>Wed, 09 Aug 2023 14:16:18 GMT</pubDate>
+		<lastBuildDate>Wed, 09 Aug 2023 14:16:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -87,34 +87,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-08-03 09:46:00</pubDate>
-		</item>
-		<item>
-			<title>5-17-23 Meeting Summary with SMR, LLC, a Holtec International Company, to Discuss Risk Topics related to the SMR-160 Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23167A075</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-08-02 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1- 5-17-23 Meeting Agenda of Public Meeting with SMR, LLC, a Holtec International Company, to Discuss Risk Topics related to the SMR-160 Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23167A072</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-08-02 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - 5-17-23 Meeting Attendees of Public Meeting with SMR, LLC, a Holtec International Company, to Discuss Risk Topics related to the SMR-160 Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23167A073</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-08-02 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3 - 5-17-23 Meeting Summary of Public Meeting with SMR, LLC, a Holtec International Company, to Discuss Risk Topics related to the SMR-160 Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23167A074</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-08-02 08:30:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 08 Aug 2023 23:15:19 GMT</pubDate>
-		<lastBuildDate>Tue, 08 Aug 2023 23:15:19 GMT</lastBuildDate>
+		<pubDate>Wed, 09 Aug 2023 14:16:17 GMT</pubDate>
+		<lastBuildDate>Wed, 09 Aug 2023 14:16:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,34 +45,6 @@
 			<description>License-Application for (Amend/Renewal/New) for DKT 30, 40, 70, Report, Technical</description>
 			<author>Triso-X, LLC</author>
 			<pubDate>2023-08-04 10:24:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - RAIs Regarding Chapter 1 - General Information for the TRISO-X License Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23198A258</link>
-			<description>Request for Additional Information (RAI)</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2023-08-02 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>Request For Additional Information For The Triso-X, LLC License Application For A Fuel Fabrication Facility (Enterprise Project Identification Number L-2022-NEW-0005)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23198A259</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2023-08-02 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - RAIs Regarding Chapter 2 - Organization and Administration for the TRISO-X License Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23199A036</link>
-			<description>Request for Additional Information (RAI)</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2023-08-02 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3 - RAIs Regarding the Emergency Plan for the TRISO-X License Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23198A260</link>
-			<description>Request for Additional Information (RAI)</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2023-08-02 08:30:00</pubDate>
 		</item>
 	</channel>
 </rss>
