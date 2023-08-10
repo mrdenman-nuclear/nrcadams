@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 09 Aug 2023 23:14:46 GMT</pubDate>
-		<lastBuildDate>Wed, 09 Aug 2023 23:14:46 GMT</lastBuildDate>
+		<pubDate>Thu, 10 Aug 2023 14:16:40 GMT</pubDate>
+		<lastBuildDate>Thu, 10 Aug 2023 14:16:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,27 +66,6 @@
 			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2023-08-08 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: SMR, LLC Meeting Presentation Materials for June 20, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23165A083</link>
-			<description>Slides and Viewgraphs</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2023-08-03 14:41:00</pubDate>
-		</item>
-		<item>
-			<title>08/09/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding seismic methodology to support the Construction Permit for the Holtec SMR-160 design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23215A058</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-08-03 09:57:00</pubDate>
-		</item>
-		<item>
-			<title>10/04/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding TMI Action Items to support the Construction Permit for the Holtec SMR-160 design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23215A049</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-08-03 09:46:00</pubDate>
 		</item>
 	</channel>
 </rss>

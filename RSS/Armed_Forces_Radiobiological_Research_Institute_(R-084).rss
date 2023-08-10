@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 09 Aug 2023 23:14:35 GMT</pubDate>
-		<lastBuildDate>Wed, 09 Aug 2023 23:14:35 GMT</lastBuildDate>
+		<pubDate>Thu, 10 Aug 2023 14:16:28 GMT</pubDate>
+		<lastBuildDate>Thu, 10 Aug 2023 14:16:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Uniformed Services University of the Health Sciences - Change of Director at the Uniformed Services University of the Health Sciences (USUHS), Armed Forces Radiobiology Research Institute (AFRRI) in Bethesda, Maryland</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23214A155</link>
+			<description>Letter</description>
+			<author>US Dept of Defense, Armed Forces Radiobiology Research Institute (AFRRI), Uniformed Services Univ. of the Health Sciences</author>
+			<pubDate>2023-08-10 08:29:00</pubDate>
+		</item>
+	</channel>
 </rss>
