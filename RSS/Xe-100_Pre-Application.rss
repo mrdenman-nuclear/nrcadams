@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 10 Aug 2023 23:16:38 GMT</pubDate>
-		<lastBuildDate>Thu, 10 Aug 2023 23:16:38 GMT</lastBuildDate>
+		<pubDate>Fri, 11 Aug 2023 14:14:35 GMT</pubDate>
+		<lastBuildDate>Fri, 11 Aug 2023 14:14:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Administrative Form, NRC</description>
 			<author>NRC/NRR/DANU/UARL</author>
 			<pubDate>2023-08-07 09:20:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy, LLC (X-energy) Submittal of Xe-100 Licensing Topical Report, "Transient and Safety Analysis Methodologies Framework" Accepted Version</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23180A277</link>
-			<description>Legal-Affidavit, Letter, Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2023-08-04 15:40:00</pubDate>
 		</item>
 	</channel>
 </rss>

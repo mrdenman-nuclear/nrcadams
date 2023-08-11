@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 10 Aug 2023 23:16:38 GMT</pubDate>
-		<lastBuildDate>Thu, 10 Aug 2023 23:16:38 GMT</lastBuildDate>
+		<pubDate>Fri, 11 Aug 2023 14:14:36 GMT</pubDate>
+		<lastBuildDate>Fri, 11 Aug 2023 14:14:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2023/07/28 NuScale NPM-20 - NuScale DC- Acceptance Determination Request for Exemption to the Reporting Requirements of 10 CFR 50.46(a)(3) (Docket No. 05200048 , 52-048)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23209A778</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2023-08-11 08:28:00</pubDate>
+		</item>
+		<item>
+			<title>Email from Michael Orenak, NRC, to Peter Hastings, Kairos Power, LLC, "Acknowledgement of Receipt of the Construction Permit Application for the Hermes 2 Test Reactor Facility"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23212B169</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-08-11 08:28:00</pubDate>
+		</item>
+		<item>
+			<title>FRN: General Notice. Hermes 2 Receipt of Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23212A907</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-08-11 08:28:00</pubDate>
+		</item>
 		<item>
 			<title>11/10/2022 Summary Of Partially Closed Meeting With Terrapower, LLC, To Discuss The Principal Design Criteria For The Natrium Design</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23040A265</link>
@@ -199,27 +220,6 @@
 			<description>Administrative Form, NRC</description>
 			<author>NRC/NRR/DANU/UARL</author>
 			<pubDate>2023-08-07 09:20:00</pubDate>
-		</item>
-		<item>
-			<title>Withholder Proprietary Information From Disclosure - OKLO Inc. Source Term Modeling Overview White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23193B045</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-08-07 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy, LLC (X-energy) Submittal of Xe-100 Licensing Topical Report, "Transient and Safety Analysis Methodologies Framework" Accepted Version</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23180A277</link>
-			<description>Legal-Affidavit, Letter, Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2023-08-04 15:40:00</pubDate>
-		</item>
-		<item>
-			<title>Response to Request for Additional Information (Set 1) for the TRISO-X, LLC License Application for a Fuel Fabrication Facility</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23209A821</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2023-08-04 14:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
