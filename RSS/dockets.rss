@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 11 Aug 2023 23:15:07 GMT</pubDate>
-		<lastBuildDate>Fri, 11 Aug 2023 23:15:07 GMT</lastBuildDate>
+		<pubDate>Mon, 14 Aug 2023 14:15:25 GMT</pubDate>
+		<lastBuildDate>Mon, 14 Aug 2023 14:15:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Transmittal of TerraPower, LLC Topical Report, "Radiological Source Term Methodology Report," Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23223A235</link>
+			<description>Legal-Affidavit, Letter, Topical Report</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2023-08-14 09:32:00</pubDate>
+		</item>
+		<item>
+			<title>Oklo Inc. Transmittal of Slides for the July 31, 2023 Meeting regarding Licensing Approach for Fuel Recycling</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23216A115</link>
+			<description>Letter</description>
+			<author>Oklo Inc</author>
+			<pubDate>2023-08-14 08:27:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2 - Affidavit of Ross Moore</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23216A117</link>
+			<description>Legal-Affidavit</description>
+			<author>Oklo Inc</author>
+			<pubDate>2023-08-14 08:27:00</pubDate>
+		</item>
+		<item>
+			<title>01/24/2023 Summary of Closed Pre-Application Meeting With Terrapower, LLC To Discuss Fuel Handling Process And Equipment Overview For The Natrium Design</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23055A037</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-08-14 08:27:00</pubDate>
+		</item>
 		<item>
 			<title>09/13/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding IEEE-603 to support the Construction Permit for the Holtec SMR-160 design</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23223A188</link>
@@ -192,34 +220,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2023-08-08 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: SMR, LLC Meeting Presentation Materials for August 9, 2023 (NP)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23212B209</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2023-08-08 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Email - Topical Report Completeness Determination transmittal to NuScale for TR-0516-49416 NON-LOCA</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23206A106</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-08-08 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Federal Register Notice - Acceptance for Docketing of NuScale's Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23212B062</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-08-07 10:40:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy LLC  email withholding information determination for Xe-100 Topical Report: Transient Safety Analysis Methodology Framework</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML21313A088</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UARL</author>
-			<pubDate>2023-08-07 09:20:00</pubDate>
 		</item>
 	</channel>
 </rss>
