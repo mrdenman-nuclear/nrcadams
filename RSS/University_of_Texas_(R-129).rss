@@ -5,39 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 14 Aug 2023 23:14:33 GMT</pubDate>
-		<lastBuildDate>Mon, 14 Aug 2023 23:14:33 GMT</lastBuildDate>
+		<pubDate>Tue, 15 Aug 2023 14:18:35 GMT</pubDate>
+		<lastBuildDate>Tue, 15 Aug 2023 14:18:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>University of Texas at Austin - NRC Security Inspection 2023202</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23193B033</link>
-			<description>Inspection Report, Letter</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2023-08-08 10:46:00</pubDate>
-		</item>
-		<item>
-			<title>Univ. of Texas - Austin, Appendix 14.1 Technical Specifications Supporting the Renewal of the Facility Operating License</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23216A214</link>
-			<description>Technical Specifications</description>
-			<author>Univ of Texas - Austin</author>
-			<pubDate>2023-08-08 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>Univ. of Texas - Austin, Submittal of Draft Safety Analysis Report for the Support of License Renewal</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23216A212</link>
-			<description>Letter</description>
-			<author>Univ of Texas - Austin</author>
-			<pubDate>2023-08-08 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>University of Texas at Austin - NRC Safety Inspection Report NO. 05000602/2023201</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23193B029</link>
-			<description>Inspection Report, Letter</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2023-08-08 08:32:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
