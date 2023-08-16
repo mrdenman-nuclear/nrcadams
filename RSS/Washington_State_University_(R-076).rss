@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 15 Aug 2023 23:16:03 GMT</pubDate>
-		<lastBuildDate>Tue, 15 Aug 2023 23:16:03 GMT</lastBuildDate>
+		<pubDate>Wed, 16 Aug 2023 14:14:48 GMT</pubDate>
+		<lastBuildDate>Wed, 16 Aug 2023 14:14:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>License Amendment Request – Section 5 of the Technical Specifications and Bases for the Washington State University Modified TRIGA Reactor and Facility License R-76, Proposed Amendment 22</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23220A387</link>
+			<description>License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>Washington State Univ</author>
+			<pubDate>2023-08-16 08:29:00</pubDate>
+		</item>
+		<item>
+			<title>License Amendment Request – Section 5 of the Technical Specifications and Bases for the Washington State University Modified TRIGA Reactor and Facility License R-76, Proposed Amendment 22</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23220A386</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>Washington State Univ</author>
+			<pubDate>2023-08-16 08:29:00</pubDate>
+		</item>
+	</channel>
 </rss>
