@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 18 Aug 2023 17:13:12 GMT</pubDate>
-		<lastBuildDate>Fri, 18 Aug 2023 17:13:12 GMT</lastBuildDate>
+		<pubDate>Fri, 18 Aug 2023 18:16:26 GMT</pubDate>
+		<lastBuildDate>Fri, 18 Aug 2023 18:16:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Withdrawal of University of Illinois Topical Report, “University of Illinois Urbana-Champaign High-Temperature Gas-Cooled Research Reactor: Fuel Qualification Methodology,” IMRDD-MMR-23-01-NP, (ML23038A242)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23208A308</link>
+			<description>Letter</description>
+			<author>Univ of Illinois - Urbana - Champaign</author>
+			<pubDate>2023-08-18 13:27:00</pubDate>
+		</item>
+		<item>
+			<title>09/06/2023 Notice of Meeting with X-energy</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23230A055</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-08-18 13:22:00</pubDate>
+		</item>
 		<item>
 			<title>X Energy, LLC, Submittal of Presentation Materials – Xe-100 Graphite Engagement: Preliminary Safety Analysis Report Content</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23222A269</link>
@@ -206,20 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-08-15 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>Written communication as specified by 10 CFR 50.4 regarding the "University of Illinois at Urbana-Champaign - Approval of the Quality Assurance Program Description Topical Report (EPID No. L-2022-NFN-0004),” dated May 23, 2023"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23167C138</link>
-			<description>Letter</description>
-			<author>Univ of Illinois - Urbana - Champaign</author>
-			<pubDate>2023-08-14 15:08:00</pubDate>
-		</item>
-		<item>
-			<title>"Quality Assurance Program Description for the University of Illinois Urbana-Champaign Research and Test Reactor"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23167C139</link>
-			<description>Quality Assurance Program, Topical Report</description>
-			<author>Univ of Illinois - Urbana - Champaign</author>
-			<pubDate>2023-08-14 15:08:00</pubDate>
 		</item>
 	</channel>
 </rss>
