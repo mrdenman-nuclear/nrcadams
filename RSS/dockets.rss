@@ -5,25 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 18 Aug 2023 18:16:26 GMT</pubDate>
-		<lastBuildDate>Fri, 18 Aug 2023 18:16:26 GMT</lastBuildDate>
+		<pubDate>Fri, 18 Aug 2023 19:11:49 GMT</pubDate>
+		<lastBuildDate>Fri, 18 Aug 2023 19:11:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>09/06/2023 Notice of Meeting with X-energy</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23230B185</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-08-18 15:01:00</pubDate>
+		</item>
+		<item>
+			<title>X-Energy, LLC - ARDP Construction Permit Application: Chapter Content: Xe-100 Methodologies, Analysis, and Licensing Basis Events</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23222A274</link>
+			<description>Slides and Viewgraphs</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2023-08-18 14:53:00</pubDate>
+		</item>
 		<item>
 			<title>Withdrawal of University of Illinois Topical Report, “University of Illinois Urbana-Champaign High-Temperature Gas-Cooled Research Reactor: Fuel Qualification Methodology,” IMRDD-MMR-23-01-NP, (ML23038A242)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23208A308</link>
 			<description>Letter</description>
 			<author>Univ of Illinois - Urbana - Champaign</author>
 			<pubDate>2023-08-18 13:27:00</pubDate>
-		</item>
-		<item>
-			<title>09/06/2023 Notice of Meeting with X-energy</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23230A055</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-08-18 13:22:00</pubDate>
 		</item>
 		<item>
 			<title>X Energy, LLC, Submittal of Presentation Materials – Xe-100 Graphite Engagement: Preliminary Safety Analysis Report Content</title>
@@ -36,13 +43,6 @@
 			<title>X Energy, LLC, Xe-100 Graphite Engagement: Preliminary Safety Analysis Report Content</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23222A270</link>
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2023-08-18 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>X-Energy, LLC - ARDP Construction Permit Application: Chapter Content: Xe-100 Methodologies, Analysis, and Licensing Basis Events</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23222A274</link>
-			<description>Slides and Viewgraphs</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2023-08-18 08:28:00</pubDate>
 		</item>
