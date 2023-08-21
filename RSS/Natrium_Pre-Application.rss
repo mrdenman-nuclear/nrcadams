@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 18 Aug 2023 21:11:53 GMT</pubDate>
-		<lastBuildDate>Fri, 18 Aug 2023 21:11:53 GMT</lastBuildDate>
+		<pubDate>Mon, 21 Aug 2023 14:14:24 GMT</pubDate>
+		<lastBuildDate>Mon, 21 Aug 2023 14:14:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,20 +52,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-08-15 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal of TerraPower, LLC Topical Report, "Radiological Source Term Methodology Report," Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23223A235</link>
-			<description>Legal-Affidavit, Letter, Topical Report</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2023-08-14 09:32:00</pubDate>
-		</item>
-		<item>
-			<title>01/24/2023 Summary of Closed Pre-Application Meeting With Terrapower, LLC To Discuss Fuel Handling Process And Equipment Overview For The Natrium Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23055A037</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-08-14 08:27:00</pubDate>
 		</item>
 	</channel>
 </rss>
