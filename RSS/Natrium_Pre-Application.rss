@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 21 Aug 2023 23:14:44 GMT</pubDate>
-		<lastBuildDate>Mon, 21 Aug 2023 23:14:44 GMT</lastBuildDate>
+		<pubDate>Tue, 22 Aug 2023 14:17:41 GMT</pubDate>
+		<lastBuildDate>Tue, 22 Aug 2023 14:17:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,27 +31,6 @@
 			<description>Audit Plan</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-08-16 15:26:00</pubDate>
-		</item>
-		<item>
-			<title>08/17/2023 Pre-Application Meeting with TerraPower to discuss the Severe Accident Mitigation Design Alternatives (SAMDAs) for the Natrium design.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23227A029</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-08-15 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC, Severe Accident Mitigation Design Alternatives (SAMDAs) Presentation Material</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23221A186</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2023-08-15 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower , LLC - Status of PreApplication Engagement for Natrium Sodium Fast Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23226A204</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-08-15 08:29:00</pubDate>
 		</item>
 	</channel>
 </rss>

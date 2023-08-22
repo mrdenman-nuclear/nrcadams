@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 21 Aug 2023 23:14:44 GMT</pubDate>
-		<lastBuildDate>Mon, 21 Aug 2023 23:14:44 GMT</lastBuildDate>
+		<pubDate>Tue, 22 Aug 2023 14:17:41 GMT</pubDate>
+		<lastBuildDate>Tue, 22 Aug 2023 14:17:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>E-Mail, Letter</description>
 			<author>Univ of Illinois - Urbana</author>
 			<pubDate>2023-08-17 09:06:00</pubDate>
-		</item>
-		<item>
-			<title>University of Illinois at Urbana-Champaign, Summary of July 20, 2023 Public Meeting to Discuss Proposed Topical Report on Event Sequence Selection and Safety Classification</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23220A110</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-08-15 08:29:00</pubDate>
 		</item>
 	</channel>
 </rss>
