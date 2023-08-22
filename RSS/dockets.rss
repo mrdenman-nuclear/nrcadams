@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 22 Aug 2023 20:14:48 GMT</pubDate>
-		<lastBuildDate>Tue, 22 Aug 2023 20:14:48 GMT</lastBuildDate>
+		<pubDate>Tue, 22 Aug 2023 21:13:40 GMT</pubDate>
+		<lastBuildDate>Tue, 22 Aug 2023 21:13:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>8/23/2023 EI-NI Independence ACRS Presentation Slides (99902100)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23234A085</link>
+			<description>Slides and Viewgraphs</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-08-22 16:20:00</pubDate>
+		</item>
 		<item>
 			<title>TRISO-X FFF Initial IPaC for Section 7 consultation</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23234A124</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23222A273</link>
 			<description>Letter</description>
 			<author>X-Energy, LLC</author>
-			<pubDate>2023-08-18 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Cover Letter - Oklo INC. NRC Feedback Regarding Oklo White Paper on Source Term Modeling Overview</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23187A577</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-08-18 08:28:00</pubDate>
 		</item>
 	</channel>
