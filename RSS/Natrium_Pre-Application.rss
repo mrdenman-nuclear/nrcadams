@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 22 Aug 2023 23:13:32 GMT</pubDate>
-		<lastBuildDate>Tue, 22 Aug 2023 23:13:32 GMT</lastBuildDate>
+		<pubDate>Wed, 23 Aug 2023 14:18:01 GMT</pubDate>
+		<lastBuildDate>Wed, 23 Aug 2023 14:18:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Smmary of the August 23, 2022, TerraPower, LLC, Public Meeting to Discuss the Fuel Cycle Environmental Impacts for the Natrium Reactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23026A338</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-08-23 08:40:00</pubDate>
+		</item>
 		<item>
 			<title>8/23/2023 EI-NI Independence ACRS Presentation Slides (99902100)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23234A085</link>
@@ -24,20 +31,6 @@
 			<description>Letter, Proprietary Information Review</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-08-18 08:27:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower - Emergency Planning Zone (EPZ) Sizing TR Audit Questions</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23199A316</link>
-			<description>Audit Plan</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-08-16 15:26:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower -  Audit Plan - Emergency Planning Zone (EPZ)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23199A317</link>
-			<description>Audit Plan</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-08-16 15:26:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 22 Aug 2023 23:13:33 GMT</pubDate>
-		<lastBuildDate>Tue, 22 Aug 2023 23:13:33 GMT</lastBuildDate>
+		<pubDate>Wed, 23 Aug 2023 14:18:01 GMT</pubDate>
+		<lastBuildDate>Wed, 23 Aug 2023 14:18:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Draft Summary ROD for Kairos Hermes Test Reactor CP</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23192A766</link>
+			<description>Report, Technical</description>
+			<author>NRC/NMSS/DREFS</author>
+			<pubDate>2023-08-23 08:41:00</pubDate>
+		</item>
+		<item>
+			<title>Hermes Draft Construction Permit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23209A659</link>
+			<description>Environmental Protection Plan, Report, Miscellaneous</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-08-23 08:40:00</pubDate>
+		</item>
+	</channel>
 </rss>
