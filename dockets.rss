@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 23 Aug 2023 19:14:15 GMT</pubDate>
-		<lastBuildDate>Wed, 23 Aug 2023 19:14:15 GMT</lastBuildDate>
+		<pubDate>Wed, 23 Aug 2023 20:15:07 GMT</pubDate>
+		<lastBuildDate>Wed, 23 Aug 2023 20:15:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Abilene Christian University Construction Permit Application Information Related to the Nuclear Waste Policy Act</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23230A392</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>Abilene Christian University (ACU)</author>
+			<pubDate>2023-08-23 16:09:00</pubDate>
+		</item>
 		<item>
 			<title>Draft Summary ROD for Kairos Hermes Test Reactor CP</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23192A766</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23116A038</link>
 			<description>Meeting Summary</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-08-22 08:45:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 5: Affidavit Regarding Request For Withholding</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23226A136</link>
-			<description>Legal-Affidavit</description>
-			<author>Oklo Inc</author>
 			<pubDate>2023-08-22 08:45:00</pubDate>
 		</item>
 	</channel>
