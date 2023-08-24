@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 24 Aug 2023 14:16:57 GMT</pubDate>
-		<lastBuildDate>Thu, 24 Aug 2023 14:16:57 GMT</lastBuildDate>
+		<pubDate>Thu, 24 Aug 2023 15:18:19 GMT</pubDate>
+		<lastBuildDate>Thu, 24 Aug 2023 15:18:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>09/28/2023 Terrestrial Energy USA Inc. - Closed meeting regarding the NRC staff review of Topical Report: Principal Design Criteria for IMSR Structures, Systems, and Components</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23236A270</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-08-24 11:16:00</pubDate>
+		</item>
+	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 24 Aug 2023 14:16:58 GMT</pubDate>
-		<lastBuildDate>Thu, 24 Aug 2023 14:16:58 GMT</lastBuildDate>
+		<pubDate>Thu, 24 Aug 2023 15:18:19 GMT</pubDate>
+		<lastBuildDate>Thu, 24 Aug 2023 15:18:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>09/28/2023 Terrestrial Energy USA Inc. - Closed meeting regarding the NRC staff review of Topical Report: Principal Design Criteria for IMSR Structures, Systems, and Components</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23236A270</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-08-24 11:16:00</pubDate>
+		</item>
 		<item>
 			<title>Withholding Determination Letter for 1-18-23 Request from J. Hawkins, SMR, LLC (A Holtec International Company) (Project 99902049)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23227A007</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23229A540</link>
 			<description>Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NuScale Power, LLC</author>
-			<pubDate>2023-08-22 08:46:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: NEDO-33926, Revision 1, BWRX-300 Steel-Plate Composite Containment Vessel (SCCV) and Reactor Building (RB) Structural Design - Non-Proprietary Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23230B215</link>
-			<description>Topical Report</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
 			<pubDate>2023-08-22 08:46:00</pubDate>
 		</item>
 	</channel>
