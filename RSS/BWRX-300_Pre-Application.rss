@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 23 Aug 2023 23:13:49 GMT</pubDate>
-		<lastBuildDate>Wed, 23 Aug 2023 23:13:49 GMT</lastBuildDate>
+		<pubDate>Thu, 24 Aug 2023 14:16:57 GMT</pubDate>
+		<lastBuildDate>Thu, 24 Aug 2023 14:16:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,20 +38,6 @@
 			<description>Letter</description>
 			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
 			<pubDate>2023-08-22 08:46:00</pubDate>
-		</item>
-		<item>
-			<title>Acceptance Determination Transmittal for the BWRX-300 Steel-Composite Containment Vessel and Reactor Building Structural Design LTR</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23220A017</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-08-17 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>NRC 898 - Acceptance Determination for the BWRX-300 Containment Vessel and Reactor Building Structural Design LTR</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23219A022</link>
-			<description>Topical Report</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-08-17 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

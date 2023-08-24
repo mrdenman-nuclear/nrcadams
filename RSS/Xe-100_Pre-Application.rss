@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 23 Aug 2023 23:13:49 GMT</pubDate>
-		<lastBuildDate>Wed, 23 Aug 2023 23:13:49 GMT</lastBuildDate>
+		<pubDate>Thu, 24 Aug 2023 14:16:57 GMT</pubDate>
+		<lastBuildDate>Thu, 24 Aug 2023 14:16:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,20 +52,6 @@
 			<description>Letter</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2023-08-18 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>LETTER - X Energy LLC  - NRC Observations Regarding XE-100 White Paper Seismic Design Methodology (EPID L-2022-TOP-0047)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23188A091</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-08-17 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>ENCLOSURE - X Energy LLC - NRC Feedback Regarding XE-100 Seismic Design Methodology White Paper.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23188A092</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-08-17 08:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
