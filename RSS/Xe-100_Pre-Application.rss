@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 25 Aug 2023 23:17:34 GMT</pubDate>
-		<lastBuildDate>Fri, 25 Aug 2023 23:17:34 GMT</lastBuildDate>
+		<pubDate>Mon, 28 Aug 2023 14:14:40 GMT</pubDate>
+		<lastBuildDate>Mon, 28 Aug 2023 14:14:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-08-22 13:41:00</pubDate>
-		</item>
-		<item>
-			<title>09/06/2023 Notice of Meeting with X-energy</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23233A003</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-08-21 06:57:00</pubDate>
 		</item>
 	</channel>
 </rss>

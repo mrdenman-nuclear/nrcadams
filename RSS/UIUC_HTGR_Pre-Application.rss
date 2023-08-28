@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 25 Aug 2023 23:17:34 GMT</pubDate>
-		<lastBuildDate>Fri, 25 Aug 2023 23:17:34 GMT</lastBuildDate>
+		<pubDate>Mon, 28 Aug 2023 14:14:41 GMT</pubDate>
+		<lastBuildDate>Mon, 28 Aug 2023 14:14:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>University of Illinois at Urbana-Champaign-Acknowledgement of Withdrawal of Topical Report Regarding Fuel Qualification Methodology</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23229A238</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2023-08-28 09:13:00</pubDate>
+		</item>
 		<item>
 			<title>Email Transmitting NRC Form 896 for UIUC QAPD Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23223A146</link>
@@ -24,13 +31,6 @@
 			<description>Proprietary Information Review, Topical Report</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2023-08-23 08:40:00</pubDate>
-		</item>
-		<item>
-			<title>LTR-23-0179 - Response to e-mail dated August 1, 2023, regarding Project No. 99902094</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23226A261</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-08-21 08:33:00</pubDate>
 		</item>
 	</channel>
 </rss>

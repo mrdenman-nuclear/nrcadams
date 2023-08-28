@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 25 Aug 2023 23:17:34 GMT</pubDate>
-		<lastBuildDate>Fri, 25 Aug 2023 23:17:34 GMT</lastBuildDate>
+		<pubDate>Mon, 28 Aug 2023 14:14:42 GMT</pubDate>
+		<lastBuildDate>Mon, 28 Aug 2023 14:14:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -178,48 +178,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2023-08-22 08:45:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 4: SMR, LLC, Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23223A108</link>
-			<description>Legal-Affidavit</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2023-08-21 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>6-7-23 Meeting Summary with SMR, LLC, a Holtec International Company to Discuss SMR-160 Anticipated Transient without Scram</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23200A004</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-08-21 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - 6-7-23 Meeting Agenda of Public Meeting with SMR, LLC, a Holtec International Company, to Discuss SMR-160 Anticipated Transient without Scram</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23200A005</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-08-21 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - Meeting Attendees of Public Meeting with SMR, LLC, a Holtec International Company, to Discuss SMR-160 Anticipated Transient without Scram</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23200A006</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-08-21 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3 - 6-7-23 Meeting Summary of Public Meeting with SMR, LLC, a Holtec International Company, to Discuss SMR-160 Anticipated Transient without Scram</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23200A007</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-08-21 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>08/30/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding RG 1.99 limitation to support the Construction Permit for the Holtec SMR-160 design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23233A001</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-08-21 06:33:00</pubDate>
 		</item>
 	</channel>
 </rss>
