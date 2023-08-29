@@ -5,25 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 28 Aug 2023 23:13:47 GMT</pubDate>
-		<lastBuildDate>Mon, 28 Aug 2023 23:13:47 GMT</lastBuildDate>
+		<pubDate>Tue, 29 Aug 2023 14:14:49 GMT</pubDate>
+		<lastBuildDate>Tue, 29 Aug 2023 14:14:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Cover Letter - RAI Set 3 for the ISA Summary (Programmatic) and Security Regarding TRISO-X License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23230B191</link>
+			<description>Letter, Request for Additional Information (RAI)</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2023-08-29 08:33:00</pubDate>
+		</item>
 		<item>
 			<title>Response to Request for Additional Information (Set 2) for the TRISO-X License Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23237B484</link>
 			<description>Letter, Response to Request for Additional Information (RAI)</description>
 			<author>Triso-X, LLC</author>
 			<pubDate>2023-08-28 14:41:00</pubDate>
-		</item>
-		<item>
-			<title>TRISO-X FFF Initial IPaC for Section 7 consultation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23234A124</link>
-			<description>Slides and Viewgraphs</description>
-			<author>US Dept of Interior, Fish & Wildlife Service</author>
-			<pubDate>2023-08-22 15:28:00</pubDate>
 		</item>
 	</channel>
 </rss>

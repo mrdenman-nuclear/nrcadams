@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 28 Aug 2023 23:13:47 GMT</pubDate>
-		<lastBuildDate>Mon, 28 Aug 2023 23:13:47 GMT</lastBuildDate>
+		<pubDate>Tue, 29 Aug 2023 14:14:50 GMT</pubDate>
+		<lastBuildDate>Tue, 29 Aug 2023 14:14:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Summary of the October 25, 2022, Closed Meeting with TerraPower, LLC, Pre-Application Meeting to Discuss the Spent Fuel Subcriticality on the Natrium Plant Design</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23045A158</link>
+			<description>Meeting Summary</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-08-29 08:32:00</pubDate>
+		</item>
 		<item>
 			<title>Summary of the January 13, 2022, Partially Closed Pre-Application Meeting with TerraPower, LLC, to Discuss the Radiological Source Term Methodology Development for the Natrium Design</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23088A411</link>
@@ -31,13 +38,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-08-23 08:40:00</pubDate>
-		</item>
-		<item>
-			<title>8/23/2023 EI-NI Independence ACRS Presentation Slides (99902100)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23234A085</link>
-			<description>Slides and Viewgraphs</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-08-22 16:20:00</pubDate>
 		</item>
 	</channel>
 </rss>
