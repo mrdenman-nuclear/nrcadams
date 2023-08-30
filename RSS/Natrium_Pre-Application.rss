@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 29 Aug 2023 23:13:54 GMT</pubDate>
-		<lastBuildDate>Tue, 29 Aug 2023 23:13:54 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Aug 2023 14:15:55 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Aug 2023 14:15:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TerraPower Audit Plan Principal Design Criteria</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23201A247</link>
+			<description>Audit Plan</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-08-30 08:40:00</pubDate>
+		</item>
 		<item>
 			<title>Summary of the October 25, 2022, Closed Meeting with TerraPower, LLC, Pre-Application Meeting to Discuss the Spent Fuel Subcriticality on the Natrium Plant Design</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23045A158</link>
@@ -31,13 +38,6 @@
 			<description>Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2023-08-25 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Smmary of the August 23, 2022, TerraPower, LLC, Public Meeting to Discuss the Fuel Cycle Environmental Impacts for the Natrium Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23026A338</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-08-23 08:40:00</pubDate>
 		</item>
 	</channel>
 </rss>
