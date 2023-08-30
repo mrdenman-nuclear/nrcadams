@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 30 Aug 2023 20:15:46 GMT</pubDate>
-		<lastBuildDate>Wed, 30 Aug 2023 20:15:46 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Aug 2023 21:15:49 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Aug 2023 21:15:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>09/21/2023 Notice of Meeting with X-energy</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23242A298</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-08-30 16:30:00</pubDate>
+		</item>
 		<item>
 			<title>Presentation Materials - ARDP/Dow Construction Permit Application - PSAR Chapter 5 Safety Functions, Design Criteria, and Structure, System, and Component Safety Classification</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23241A899</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23227A034</link>
 			<description>Letter, Proprietary Information Review</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-08-29 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of the October 25, 2022, Closed Meeting with TerraPower, LLC, Pre-Application Meeting to Discuss the Spent Fuel Subcriticality on the Natrium Plant Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23045A158</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-08-29 08:32:00</pubDate>
 		</item>
 	</channel>
