@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 01 Sep 2023 19:13:21 GMT</pubDate>
-		<lastBuildDate>Fri, 01 Sep 2023 19:13:21 GMT</lastBuildDate>
+		<pubDate>Fri, 01 Sep 2023 20:14:22 GMT</pubDate>
+		<lastBuildDate>Fri, 01 Sep 2023 20:14:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>GE-Hitachi Nuclear Energy Americas, LLC, Updated - Part 21 60-Day Interim Report Notification: Failure of the CRD Collet Retainer Tube/Outer Tube Weld (SC-23-01)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23243B004</link>
+			<description>Deficiency Report (per 10CFR50.55e and Part 21), Letter, Written Event Report (30 or 60 day)</description>
+			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
+			<pubDate>2023-09-01 16:09:00</pubDate>
+		</item>
+		<item>
+			<title>Pre-Submittal Readiness Assessment Engagement Plan for Licensing Topical Report "XE-100 Training Programs Methodology, Control Room Operator Licensing, And Eligibility Requirements Topical Report"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23244A222</link>
+			<description>Project Plans and Schedules</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2023-09-01 16:09:00</pubDate>
+		</item>
+		<item>
+			<title>E-Mail: Readiness Assessment Plan - Control Room Operator Qualification Licensing Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23244A237</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2023-09-01 16:09:00</pubDate>
+		</item>
 		<item>
 			<title>Terrestrial Energy USA, Inc., Submittal of Revision 1 of Technical Report on Uncertainty Quantification Methodology for Calculation of IMSR Off-Gas Source Term and Withdrawal of Revision 0</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23228A029</link>
@@ -199,27 +220,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2023-08-30 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy LLC - NRC Form 896 -A Topical Report Verification for Transient and Safety Analysis Methodologies Framework Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23202A157</link>
-			<description>Acceptance Review Letter, Topical Report</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2023-08-30 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>09/11/2023 Meeting with Triso-X to discuss draft RAIs for Radiological and Chemical</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23241B057</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2023-08-29 19:34:00</pubDate>
-		</item>
-		<item>
-			<title>Discussion with Texas Historical Commission</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23241A784</link>
-			<description>E-Mail</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2023-08-29 13:15:00</pubDate>
 		</item>
 	</channel>
 </rss>
