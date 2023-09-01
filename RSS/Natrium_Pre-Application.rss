@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 31 Aug 2023 23:16:37 GMT</pubDate>
-		<lastBuildDate>Thu, 31 Aug 2023 23:16:37 GMT</lastBuildDate>
+		<pubDate>Fri, 01 Sep 2023 14:15:50 GMT</pubDate>
+		<lastBuildDate>Fri, 01 Sep 2023 14:15:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Cover Letter - TerraPower- NRC Feedback on Nascent Thermal Hydraulic Model White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23229A536</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-09-01 08:41:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2 - TerraPower-NRC Feedback on Anascent Thermal Hydraulic Model White Paper (See Special Instructions below) EPID No. L-2023-LRO-0015</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23229A541</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-09-01 08:40:00</pubDate>
+		</item>
 		<item>
 			<title>EMAIL, NRC FORM 896, TerraPower, LLC QA Topical Report TP-QA-PD-0001, Revision 14-A, TerraPower QAPD</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23220A301</link>
@@ -38,20 +52,6 @@
 			<description>Meeting Summary</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-08-29 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of the January 13, 2022, Partially Closed Pre-Application Meeting with TerraPower, LLC, to Discuss the Radiological Source Term Methodology Development for the Natrium Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23088A411</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-08-25 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Presentation Material for Advisory Committee on Reactor Safeguards Subcommittee Meeting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23229A600</link>
-			<description>Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2023-08-25 08:33:00</pubDate>
 		</item>
 	</channel>
 </rss>

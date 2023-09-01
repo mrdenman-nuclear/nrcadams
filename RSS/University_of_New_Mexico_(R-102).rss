@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 31 Aug 2023 23:16:29 GMT</pubDate>
-		<lastBuildDate>Thu, 31 Aug 2023 23:16:29 GMT</lastBuildDate>
+		<pubDate>Fri, 01 Sep 2023 14:15:43 GMT</pubDate>
+		<lastBuildDate>Fri, 01 Sep 2023 14:15:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Examination Confirmation Letter No. 50-252/Ol-24-01, University Of New Mexico</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23233A002</link>
+			<description>Inspection Plan, Letter, License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2023-09-01 08:40:00</pubDate>
+		</item>
+	</channel>
 </rss>
