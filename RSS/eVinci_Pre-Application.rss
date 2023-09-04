@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 01 Sep 2023 23:15:58 GMT</pubDate>
-		<lastBuildDate>Fri, 01 Sep 2023 23:15:58 GMT</lastBuildDate>
+		<pubDate>Mon, 04 Sep 2023 15:16:09 GMT</pubDate>
+		<lastBuildDate>Mon, 04 Sep 2023 15:16:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>09/15/2023 Westinghouse Electric Co. - Closed meeting regarding the Principal Design Criteria Topical Report for the eVinci Microreactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23240A722</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-08-28 16:36:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of the July 17, 2023 Meeting with Westinghouse to Discuss Topical Reports regarding Evinci Advanced Logic System V2 Platform and Development Process</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23206A167</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2023-08-28 13:08:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
