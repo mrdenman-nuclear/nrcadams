@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 04 Sep 2023 23:16:32 GMT</pubDate>
-		<lastBuildDate>Mon, 04 Sep 2023 23:16:32 GMT</lastBuildDate>
+		<pubDate>Tue, 05 Sep 2023 14:17:49 GMT</pubDate>
+		<lastBuildDate>Tue, 05 Sep 2023 14:17:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Presentation Slides for the July 26, 2023, Observation Public Meeting on the Status of NuScale's US460 Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23230A007</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-08-29 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of the July 26, 2023, Observation Public Meeting on the Status of NuScale's US460 Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23230A006</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-08-29 08:32:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

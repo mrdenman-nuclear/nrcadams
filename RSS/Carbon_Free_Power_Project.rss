@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 04 Sep 2023 23:16:32 GMT</pubDate>
-		<lastBuildDate>Mon, 04 Sep 2023 23:16:32 GMT</lastBuildDate>
+		<pubDate>Tue, 05 Sep 2023 14:17:49 GMT</pubDate>
+		<lastBuildDate>Tue, 05 Sep 2023 14:17:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Email from O. Tabatabai (NRC) to J. Volkoff (NuScale) on Acceptance of Topical Report, TR-121172-NP, Rev. 4, "Carbon Free Power Project, LLC Nuclear Quality Assurance Program Description"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23233A205</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-09-05 08:36:00</pubDate>
+		</item>
+		<item>
+			<title>NRC 898 - CFPP QAPD Topical Report, Rev. 4</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23233A204</link>
+			<description>Proprietary Information Review, Topical Report</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-09-05 08:36:00</pubDate>
+		</item>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure - NuScale Power, LLC "Carbon Free Power Project Combined License Application Presentation Emergency Response Organization Staffing for a Site Boundary Emergency Planning Zone (Closed Session)."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23241A792</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-09-05 08:36:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC Submittal on Behalf of CFPP LLC Carbon Free Power Project (CFPP) Combined License Application (COLA) requests the NRC staff to Conduct a Pre-Application Readiness Assessment of Remaining Draft Chapters within the “COLA Part 3.....</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23236A532</link>
@@ -31,20 +52,6 @@
 			<description>Legal-Affidavit, Letter, Security Program</description>
 			<author>Carbon Free Power Project, LLC (CFPP, LLC), NuScale Power, LLC</author>
 			<pubDate>2023-08-30 11:44:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Information from Public Disclosure for NuScale Power, LLC, Carbon Free Power Combined License Application Presentation, Cyber Security Program (Closed Session), PM-134196-P, Revision 0, January 23, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23234A073</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-08-29 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Information from Public Disclosure for NuScale Power, LLC Carbon Free Power Combined License Application Status Report January 26, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23234A141</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-08-29 08:32:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 04 Sep 2023 23:16:32 GMT</pubDate>
-		<lastBuildDate>Mon, 04 Sep 2023 23:16:32 GMT</lastBuildDate>
+		<pubDate>Tue, 05 Sep 2023 14:17:49 GMT</pubDate>
+		<lastBuildDate>Tue, 05 Sep 2023 14:17:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,41 +66,6 @@
 			<description>Meeting Summary</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2023-08-30 08:40:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Determination Letter for 1-23-23 Request from J. Hawkins, SMR, LLC (A Holtec International Company) (Project 99902049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23227A010</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-08-29 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Determination Letter for 2-14-23 Request from J. Hawkins, SMR, LLC (A Holtec International Company) (Project 99902049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23227A030</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-08-29 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Determination Letter for 3-1-23 Request from J. Hawkins, SMR, LLC (A Holtec International Company) (Project 99902049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23227A050</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-08-29 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Determination Letter for 5-16-23 Request from J. Hawkins, SMR, LLC (A Holtec International Company) (Project 99902049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23228A127</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-08-29 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Determination Letter for 3-1-23 Request from J. Hawkins, SMR, LLC (A Holtec International Company) (Project 99902049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23227A034</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-08-29 08:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
