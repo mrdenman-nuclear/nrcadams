@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 05 Sep 2023 23:14:49 GMT</pubDate>
-		<lastBuildDate>Tue, 05 Sep 2023 23:14:49 GMT</lastBuildDate>
+		<pubDate>Wed, 06 Sep 2023 14:16:35 GMT</pubDate>
+		<lastBuildDate>Wed, 06 Sep 2023 14:16:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Univ. of Massachusetts - Lowell, Submittal of Annual Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23241A050</link>
+			<description>Letter</description>
+			<author>Univ of Massachusetts - Lowell</author>
+			<pubDate>2023-09-06 08:32:00</pubDate>
+		</item>
+		<item>
+			<title>Univ. of Massachusetts - Lowell,  2022-2023 Annual Operating Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23241A051</link>
+			<description>Annual Operating Report</description>
+			<author>Univ of Massachusetts - Lowell</author>
+			<pubDate>2023-09-06 08:32:00</pubDate>
+		</item>
+	</channel>
 </rss>

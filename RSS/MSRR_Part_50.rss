@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 05 Sep 2023 23:14:59 GMT</pubDate>
-		<lastBuildDate>Tue, 05 Sep 2023 23:14:59 GMT</lastBuildDate>
+		<pubDate>Wed, 06 Sep 2023 14:16:43 GMT</pubDate>
+		<lastBuildDate>Wed, 06 Sep 2023 14:16:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>E-Mail</description>
 			<author>NEXT Laboratory,  Abilene Christian Univ</author>
 			<pubDate>2023-09-01 08:40:00</pubDate>
-		</item>
-		<item>
-			<title>09/18/2023 Discussion on Special Nuclear Material Control and Accountability (MC&A) Plans for Abilene Christian University's (ACU) Proposed Molten Salt Research Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23242A224</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-08-30 14:00:00</pubDate>
 		</item>
 	</channel>
 </rss>

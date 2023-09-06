@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 05 Sep 2023 23:14:59 GMT</pubDate>
-		<lastBuildDate>Tue, 05 Sep 2023 23:14:59 GMT</lastBuildDate>
+		<pubDate>Wed, 06 Sep 2023 14:16:43 GMT</pubDate>
+		<lastBuildDate>Wed, 06 Sep 2023 14:16:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,41 +59,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2023-09-01 16:09:00</pubDate>
-		</item>
-		<item>
-			<title>09/21/2023 Notice of Meeting with X-energy</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23242A298</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-08-30 16:30:00</pubDate>
-		</item>
-		<item>
-			<title>Presentation Materials - ARDP/Dow Construction Permit Application - PSAR Chapter 5 Safety Functions, Design Criteria, and Structure, System, and Component Safety Classification</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23241A899</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2023-08-30 16:06:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure: ARDP/Dow Construction Permit Application – Chapter 5 Safety Functions, Design Criteria, and Structure, System, and Component Safety Classification</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23241A900</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2023-08-30 16:06:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy LLC - Email Correspondence Regarding -A Topical Report Verification for Transient and Safety Analysis Methodologies Framework Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23202A160</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2023-08-30 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy LLC - NRC Form 896 -A Topical Report Verification for Transient and Safety Analysis Methodologies Framework Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23202A157</link>
-			<description>Acceptance Review Letter, Topical Report</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2023-08-30 08:39:00</pubDate>
 		</item>
 	</channel>
 </rss>
