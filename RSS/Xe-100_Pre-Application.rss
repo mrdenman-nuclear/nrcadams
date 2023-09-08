@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 07 Sep 2023 23:16:46 GMT</pubDate>
-		<lastBuildDate>Thu, 07 Sep 2023 23:16:46 GMT</lastBuildDate>
+		<pubDate>Fri, 08 Sep 2023 14:15:24 GMT</pubDate>
+		<lastBuildDate>Fri, 08 Sep 2023 14:15:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,20 +45,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2023-09-05 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>Pre-Submittal Readiness Assessment Engagement Plan for Licensing Topical Report "XE-100 Training Programs Methodology, Control Room Operator Licensing, And Eligibility Requirements Topical Report"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23244A222</link>
-			<description>Project Plans and Schedules</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2023-09-01 16:09:00</pubDate>
-		</item>
-		<item>
-			<title>E-Mail: Readiness Assessment Plan - Control Room Operator Qualification Licensing Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23244A237</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2023-09-01 16:09:00</pubDate>
 		</item>
 	</channel>
 </rss>

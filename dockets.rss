@@ -5,12 +5,47 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 07 Sep 2023 23:16:52 GMT</pubDate>
-		<lastBuildDate>Thu, 07 Sep 2023 23:16:52 GMT</lastBuildDate>
+		<pubDate>Fri, 08 Sep 2023 14:15:24 GMT</pubDate>
+		<lastBuildDate>Fri, 08 Sep 2023 14:15:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enviro Impact Status</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23242A151</link>
+			<description>Graphics incl Charts and Tables</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2023-09-08 08:46:00</pubDate>
+		</item>
+		<item>
+			<title>Environmental Impact GANTT</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23242A150</link>
+			<description>Schedule and Calendars</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2023-09-08 08:46:00</pubDate>
+		</item>
+		<item>
+			<title>Overall Status</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23242A152</link>
+			<description>Graphics incl Charts and Tables</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2023-09-08 08:46:00</pubDate>
+		</item>
+		<item>
+			<title>Safety Safeguards GANTT</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23242A153</link>
+			<description>Graphics incl Charts and Tables</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2023-09-08 08:46:00</pubDate>
+		</item>
+		<item>
+			<title>Safety Safeguards Status</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23242A154</link>
+			<description>Graphics incl Charts and Tables</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2023-09-08 08:46:00</pubDate>
+		</item>
 		<item>
 			<title>10/05/2023 Notice of Closed Meeting with NuScale Power and Carbon Free Power Project (CFPP)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23249A273</link>
@@ -150,76 +185,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2023-09-05 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>GE-Hitachi Nuclear Energy Americas, LLC, Updated - Part 21 60-Day Interim Report Notification: Failure of the CRD Collet Retainer Tube/Outer Tube Weld (SC-23-01)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23243B004</link>
-			<description>Deficiency Report (per 10CFR50.55e and Part 21), Letter, Written Event Report (30 or 60 day)</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2023-09-01 16:09:00</pubDate>
-		</item>
-		<item>
-			<title>Pre-Submittal Readiness Assessment Engagement Plan for Licensing Topical Report "XE-100 Training Programs Methodology, Control Room Operator Licensing, And Eligibility Requirements Topical Report"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23244A222</link>
-			<description>Project Plans and Schedules</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2023-09-01 16:09:00</pubDate>
-		</item>
-		<item>
-			<title>E-Mail: Readiness Assessment Plan - Control Room Operator Qualification Licensing Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23244A237</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2023-09-01 16:09:00</pubDate>
-		</item>
-		<item>
-			<title>Terrestrial Energy USA, Inc., Submittal of Revision 1 of Technical Report on Uncertainty Quantification Methodology for Calculation of IMSR Off-Gas Source Term and Withdrawal of Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23228A029</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>Terrestrial Energy USA, Inc</author>
-			<pubDate>2023-09-01 14:12:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: "Uncertainty Quantification Methodology for Calculation of IMSR® Off-Gas Source Term - Revision 1" (Non-Proprietary)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23228A030</link>
-			<description>Report, Technical</description>
-			<author>Terrestrial Energy USA, Inc</author>
-			<pubDate>2023-09-01 14:12:00</pubDate>
-		</item>
-		<item>
-			<title>Cover Letter - TerraPower- NRC Feedback on Nascent Thermal Hydraulic Model White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23229A536</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-09-01 08:41:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - TerraPower-NRC Feedback on Anascent Thermal Hydraulic Model White Paper (See Special Instructions below) EPID No. L-2023-LRO-0015</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23229A541</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-09-01 08:40:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Submittal on Behalf of CFPP LLC Carbon Free Power Project (CFPP) Combined License Application (COLA) requests the NRC staff to Conduct a Pre-Application Readiness Assessment of Remaining Draft Chapters within the “COLA Part 3.....</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23236A532</link>
-			<description>Letter</description>
-			<author>Carbon Free Power Project, LLC (CFPP, LLC), NuScale Power, LLC</author>
-			<pubDate>2023-09-01 08:40:00</pubDate>
-		</item>
-		<item>
-			<title>Abilene Christian University, Request for Non-Public documents</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23237B149</link>
-			<description>E-Mail</description>
-			<author>NEXT Laboratory,  Abilene Christian Univ</author>
-			<pubDate>2023-09-01 08:40:00</pubDate>
-		</item>
-		<item>
-			<title>Abilene Christian University, Request for Non-Public documents</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23237B149</link>
-			<description>E-Mail</description>
-			<author>NEXT Laboratory,  Abilene Christian Univ</author>
-			<pubDate>2023-09-01 08:40:00</pubDate>
 		</item>
 	</channel>
 </rss>
