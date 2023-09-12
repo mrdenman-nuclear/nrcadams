@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 11 Sep 2023 23:13:32 GMT</pubDate>
-		<lastBuildDate>Mon, 11 Sep 2023 23:13:32 GMT</lastBuildDate>
+		<pubDate>Tue, 12 Sep 2023 14:18:45 GMT</pubDate>
+		<lastBuildDate>Tue, 12 Sep 2023 14:18:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,27 +59,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2023-09-06 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Email from O. Tabatabai (NRC) to J. Volkoff (NuScale) on Acceptance of Topical Report, TR-121172-NP, Rev. 4, "Carbon Free Power Project, LLC Nuclear Quality Assurance Program Description"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23233A205</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-09-05 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>NRC 898 - CFPP QAPD Topical Report, Rev. 4</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23233A204</link>
-			<description>Proprietary Information Review, Topical Report</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-09-05 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Information from Public Disclosure - NuScale Power, LLC "Carbon Free Power Project Combined License Application Presentation Emergency Response Organization Staffing for a Site Boundary Emergency Planning Zone (Closed Session)."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23241A792</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-09-05 08:36:00</pubDate>
 		</item>
 	</channel>
 </rss>
