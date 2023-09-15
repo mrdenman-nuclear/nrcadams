@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 15 Sep 2023 20:15:47 GMT</pubDate>
-		<lastBuildDate>Fri, 15 Sep 2023 20:15:47 GMT</lastBuildDate>
+		<pubDate>Fri, 15 Sep 2023 21:14:28 GMT</pubDate>
+		<lastBuildDate>Fri, 15 Sep 2023 21:14:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Order (Transmitting Prehearing Questions)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23258A229</link>
+			<description>Legal-Order</description>
+			<author>NRC/SECY</author>
+			<pubDate>2023-09-15 16:28:00</pubDate>
+		</item>
 		<item>
 			<title>FRN: General Notice. Acceptance for docketing of the Kairos Power LLC Hermes 2 Test Reactor Construction Permit</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23237B465</link>
@@ -213,13 +220,6 @@
 			<description>Letter</description>
 			<author>SMR, LLC</author>
 			<pubDate>2023-09-14 08:42:00</pubDate>
-		</item>
-		<item>
-			<title>09/20/2023 Notice of Meeting with X-energy</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23256A155</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-09-13 10:40:00</pubDate>
 		</item>
 	</channel>
 </rss>
