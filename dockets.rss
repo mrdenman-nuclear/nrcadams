@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 15 Sep 2023 14:15:18 GMT</pubDate>
-		<lastBuildDate>Fri, 15 Sep 2023 14:15:18 GMT</lastBuildDate>
+		<pubDate>Fri, 15 Sep 2023 15:14:24 GMT</pubDate>
+		<lastBuildDate>Fri, 15 Sep 2023 15:14:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>FRN: General Notice. Acceptance for docketing of the Kairos Power LLC Hermes 2 Test Reactor Construction Permit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23237B465</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-09-15 10:30:00</pubDate>
+		</item>
+		<item>
+			<title>FRN: General Notice. Acceptance for docketing of the Kairos Power LLC Hermes 2 Test Reactor Construction Permit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23237B465</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-09-15 10:30:00</pubDate>
+		</item>
 		<item>
 			<title>12/06/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding environmental topics to support the Construction Permit for the Holtec SMR-160 design</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23258A068</link>
@@ -206,20 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-09-13 10:40:00</pubDate>
-		</item>
-		<item>
-			<title>University of Illinois at Urbana-Champaign - Online Reference Portal Access Agreement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23237B416</link>
-			<description>Legal-Memorandum of Agreement/Understanding, Letter</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2023-09-13 09:12:00</pubDate>
-		</item>
-		<item>
-			<title>09/13/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding IEEE-603 to support the Construction Permit for the Holtec SMR-160 design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23256A091</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-09-13 08:55:00</pubDate>
 		</item>
 	</channel>
 </rss>
