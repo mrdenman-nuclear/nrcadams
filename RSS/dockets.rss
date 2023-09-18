@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 18 Sep 2023 14:16:20 GMT</pubDate>
-		<lastBuildDate>Mon, 18 Sep 2023 14:16:20 GMT</lastBuildDate>
+		<pubDate>Mon, 18 Sep 2023 15:21:43 GMT</pubDate>
+		<lastBuildDate>Mon, 18 Sep 2023 15:21:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>10/17/2023 Pre-Application Meeting with TerraPower to discuss Control Room Habitability for the Natrium design.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23261A610</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-09-18 11:07:00</pubDate>
+		</item>
+		<item>
+			<title>10/05/2023 Pre-Application Meeting with TerraPower to discuss the Design Basis Accident Transient Methodology for the Natrium design.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23257A065</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-09-18 11:04:00</pubDate>
+		</item>
+		<item>
+			<title>10/03/2023 Pre-Application Meeting with TerraPower to discuss Low Frequency External Events for the Natrium design.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23257A062</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-09-18 11:01:00</pubDate>
+		</item>
 		<item>
 			<title>Audit Summary for U.S. Nuclear Regulatory Commission Requests for Supplemental Information Identification of Specific Information Requirements - NuScale Standard Design Approval</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23248A455</link>
@@ -199,27 +220,6 @@
 			<description>Letter</description>
 			<author>Univ of Illinois - Urbana - Champaign</author>
 			<pubDate>2023-09-14 15:44:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Two Division Safety System Compliance with Applicable Rules and Regulations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23249A109</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2023-09-14 08:42:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Information from Public Disclosure - NuScale Power, LLC, Carbon Free Power Combined License Application Status Report July 11, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23242A017</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-09-14 08:42:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23249A111</link>
-			<description>Legal-Affidavit</description>
-			<author>SMR, LLC</author>
-			<pubDate>2023-09-14 08:42:00</pubDate>
 		</item>
 	</channel>
 </rss>
