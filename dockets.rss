@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 18 Sep 2023 18:18:51 GMT</pubDate>
-		<lastBuildDate>Mon, 18 Sep 2023 18:18:51 GMT</lastBuildDate>
+		<pubDate>Mon, 18 Sep 2023 19:12:09 GMT</pubDate>
+		<lastBuildDate>Mon, 18 Sep 2023 19:12:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Supplemental Response to Chapter 1 RAI-10 and RAI-11 (Set 2) for the TRISO-X License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23258A175</link>
+			<description>Letter, Response to Request for Additional Information (RAI)</description>
+			<author>Triso-X, LLC</author>
+			<pubDate>2023-09-18 15:06:00</pubDate>
+		</item>
+		<item>
+			<title>X-Energy, LLC, Submittal of Presentation Materials - Xe-100 Graphite Engagement: Material Model</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23244A272</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2023-09-18 14:44:00</pubDate>
+		</item>
 		<item>
 			<title>10/17/2023 Pre-Application Meeting with TerraPower to discuss Control Room Habitability for the Natrium design.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23261A610</link>
@@ -206,20 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2023-09-15 08:26:00</pubDate>
-		</item>
-		<item>
-			<title>University of Illinois Urbana-Champaign High Temperature Gas-Cooled Research Reactor: Event Sequence Identification and SSC Safety Classification Methodology Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23250A320</link>
-			<description>Letter, Topical Report</description>
-			<author>Univ of Illinois - Urbana - Champaign</author>
-			<pubDate>2023-09-14 15:44:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of University of Illinois Topical Report, "Event Sequence Identification and SSC Safety Classification Methodology"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23250A319</link>
-			<description>Letter</description>
-			<author>Univ of Illinois - Urbana - Champaign</author>
-			<pubDate>2023-09-14 15:44:00</pubDate>
 		</item>
 	</channel>
 </rss>
