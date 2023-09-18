@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 15 Sep 2023 23:15:08 GMT</pubDate>
-		<lastBuildDate>Fri, 15 Sep 2023 23:15:08 GMT</lastBuildDate>
+		<pubDate>Mon, 18 Sep 2023 14:16:29 GMT</pubDate>
+		<lastBuildDate>Mon, 18 Sep 2023 14:16:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,20 +38,6 @@
 			<description>Federal Register Notice</description>
 			<author>NRC/SECY</author>
 			<pubDate>2023-09-12 08:55:00</pubDate>
-		</item>
-		<item>
-			<title>09/12/2023 Consultations under NHPA Regarding Kairos Hermes CP Application Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23254A324</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2023-09-11 14:38:00</pubDate>
-		</item>
-		<item>
-			<title>06/29/2023 and 07/25/2023 Summary of Closed Meetings with Kairos Power Regarding Section 106 Consultations Under Section 106 Of The National Historic Preservation Act</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23241A003</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NMSS/DREFS/ENRB</author>
-			<pubDate>2023-09-11 08:52:00</pubDate>
 		</item>
 	</channel>
 </rss>
