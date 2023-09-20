@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 19 Sep 2023 23:13:45 GMT</pubDate>
-		<lastBuildDate>Tue, 19 Sep 2023 23:13:45 GMT</lastBuildDate>
+		<pubDate>Wed, 20 Sep 2023 14:15:26 GMT</pubDate>
+		<lastBuildDate>Wed, 20 Sep 2023 14:15:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Legal-Affidavit, Letter</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2023-09-18 14:44:00</pubDate>
-		</item>
-		<item>
-			<title>09/20/2023 Notice of Meeting with X-energy</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23256A155</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-09-13 10:40:00</pubDate>
 		</item>
 	</channel>
 </rss>

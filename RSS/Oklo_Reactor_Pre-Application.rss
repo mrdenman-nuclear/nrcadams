@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 19 Sep 2023 23:13:46 GMT</pubDate>
-		<lastBuildDate>Tue, 19 Sep 2023 23:13:46 GMT</lastBuildDate>
+		<pubDate>Wed, 20 Sep 2023 14:15:26 GMT</pubDate>
+		<lastBuildDate>Wed, 20 Sep 2023 14:15:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-09-19 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>08/01/2023 Summary of Meeting to Discuss Fitness For Duty For The Oklo Auroa X Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23249A173</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-09-13 08:23:00</pubDate>
 		</item>
 	</channel>
 </rss>

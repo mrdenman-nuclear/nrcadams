@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 19 Sep 2023 23:13:46 GMT</pubDate>
-		<lastBuildDate>Tue, 19 Sep 2023 23:13:46 GMT</lastBuildDate>
+		<pubDate>Wed, 20 Sep 2023 14:15:26 GMT</pubDate>
+		<lastBuildDate>Wed, 20 Sep 2023 14:15:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Letter</description>
 			<author>Univ of Illinois - Urbana - Champaign</author>
 			<pubDate>2023-09-14 15:44:00</pubDate>
-		</item>
-		<item>
-			<title>University of Illinois at Urbana-Champaign - Online Reference Portal Access Agreement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23237B416</link>
-			<description>Legal-Memorandum of Agreement/Understanding, Letter</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2023-09-13 09:12:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 19 Sep 2023 23:13:45 GMT</pubDate>
-		<lastBuildDate>Tue, 19 Sep 2023 23:13:45 GMT</lastBuildDate>
+		<pubDate>Wed, 20 Sep 2023 14:15:26 GMT</pubDate>
+		<lastBuildDate>Wed, 20 Sep 2023 14:15:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,20 +59,6 @@
 			<description>Proprietary Information Review</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-09-14 08:42:00</pubDate>
-		</item>
-		<item>
-			<title>04/26/2023 Summary Of Partially Closed Meeting With Terrapower, LLC, Mechanistic Source Term And Radiological Release Consequences</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23223A210</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-09-13 08:23:00</pubDate>
-		</item>
-		<item>
-			<title>04/13/2023 Summary of Open Observation Meeting With Terrapower, LLC, I & C Defense-In-Depth And Diversity</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23192A628</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-09-13 08:22:00</pubDate>
 		</item>
 	</channel>
 </rss>
