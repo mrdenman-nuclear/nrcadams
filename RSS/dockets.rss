@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 22 Sep 2023 18:17:54 GMT</pubDate>
-		<lastBuildDate>Fri, 22 Sep 2023 18:17:54 GMT</lastBuildDate>
+		<pubDate>Fri, 22 Sep 2023 19:12:22 GMT</pubDate>
+		<lastBuildDate>Fri, 22 Sep 2023 19:12:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>10/02/2023 Readiness Assessment Feedback Meeting with GE-Hitachi to Discuss BWRX-300 Small Modular Reactor Safety Strategy Draft Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23265A227</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-09-22 14:28:00</pubDate>
+		</item>
 		<item>
 			<title>Pre-Application Readiness Assessment Plan - Dow Chemical Company and X Energy, LLC Draft Preliminary Safety Analysis Report dated September 15, 2023</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23243B065</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-09-18 11:04:00</pubDate>
-		</item>
-		<item>
-			<title>Audit Summary for U.S. Nuclear Regulatory Commission Requests for Supplemental Information Identification of Specific Information Requirements - NuScale Standard Design Approval</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23248A455</link>
-			<description>Audit Report, Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-09-18 08:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
