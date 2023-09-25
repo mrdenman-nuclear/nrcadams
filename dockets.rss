@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 25 Sep 2023 15:16:40 GMT</pubDate>
-		<lastBuildDate>Mon, 25 Sep 2023 15:16:40 GMT</lastBuildDate>
+		<pubDate>Mon, 25 Sep 2023 16:20:45 GMT</pubDate>
+		<lastBuildDate>Mon, 25 Sep 2023 16:20:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>09/28/2023 Public Meeting Regarding the NRC Staff's Review of Kairos Instrument Setpoint Methodology Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23268A335</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-09-25 11:52:00</pubDate>
+		</item>
+		<item>
+			<title>Nu Scale Power, LLC, Submittal of Supplemental Information in Support of NRG Review of Topical Report TR-124587-P, "Extended Passive Cooling and Reactivity Control Methodology," Revision O (Item A-XPC.LTR-4)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23263A025</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2023-09-25 11:34:00</pubDate>
+		</item>
+		<item>
+			<title>Nu Scale Power, LLC, Submittal of Supplemental Information in Support of NRG Review of Topical Report TR-124587-P, "Extended Passive Cooling and Reactivity Control Methodology," Revision O (Item A-XPC.LTR-4)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23263A025</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2023-09-25 11:34:00</pubDate>
+		</item>
+		<item>
+			<title>Summary for April 24, 2023 Partially-closed Meeting with X-energy Regarding the Graphite Material Qualification Methodology White Paper - redacted</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23207A188</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-09-25 11:34:00</pubDate>
+		</item>
 		<item>
 			<title>LOCA Revised NRC Form 898 for Resource Estimate.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23265A145</link>
@@ -192,34 +220,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-09-19 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of Topical Report "NuScale Power Plant Design Capability to Mitigate Beyond-Design-Basis Events Defined by 10 CFR 50.155," TR-141299, Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23254A360</link>
-			<description>Legal-Affidavit, Letter, Topical Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2023-09-19 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Preapplication Meeting Materials for September 20, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23254A365</link>
-			<description>Letter</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2023-09-19 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: SMR, LLC Meeting Presentation Materials for September 20, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23254A367</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2023-09-19 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Affidavit Pursuant to 10 CFR 2.390 to Withhold Information from Public Disclosure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23254A368</link>
-			<description>Legal-Affidavit</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2023-09-19 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

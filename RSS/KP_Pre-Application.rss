@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 25 Sep 2023 15:16:40 GMT</pubDate>
-		<lastBuildDate>Mon, 25 Sep 2023 15:16:40 GMT</lastBuildDate>
+		<pubDate>Mon, 25 Sep 2023 16:20:45 GMT</pubDate>
+		<lastBuildDate>Mon, 25 Sep 2023 16:20:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>09/28/2023 Public Meeting Regarding the NRC Staff's Review of Kairos Instrument Setpoint Methodology Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23268A335</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-09-25 11:52:00</pubDate>
+		</item>
+	</channel>
 </rss>
