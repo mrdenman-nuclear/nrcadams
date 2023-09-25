@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 22 Sep 2023 23:14:46 GMT</pubDate>
-		<lastBuildDate>Fri, 22 Sep 2023 23:14:46 GMT</lastBuildDate>
+		<pubDate>Mon, 25 Sep 2023 14:16:20 GMT</pubDate>
+		<lastBuildDate>Mon, 25 Sep 2023 14:16:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Westinghouse Electric Co, LLC- Audit Plan for Topical Reports on the Advanced Logic System Version 2 Digital Plataform and Development Process</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23244A650</link>
+			<description>Audit Plan</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2023-09-25 08:35:00</pubDate>
+		</item>
+	</channel>
 </rss>

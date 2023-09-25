@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 22 Sep 2023 23:14:46 GMT</pubDate>
-		<lastBuildDate>Fri, 22 Sep 2023 23:14:46 GMT</lastBuildDate>
+		<pubDate>Mon, 25 Sep 2023 14:16:21 GMT</pubDate>
+		<lastBuildDate>Mon, 25 Sep 2023 14:16:21 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,27 +31,6 @@
 			<description>Legal-Affidavit</description>
 			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2023-09-19 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Determination Letter for 9-7-22 Request from J. Hawkins, SMR, LLC (A Holtec International Company) (Project 99902049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23237A525</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-09-18 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Determination Letter for 9-19-22 Request from J. Hawkins, SMR, LLC (A Holtec International Company) (Project 99902049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23237A756</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-09-18 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Determination Letter for 10-3-22 Request from J. Hawkins, SMR, LLC (A Holtec International Company) (Project 99902049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23237B150</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-09-18 08:35:00</pubDate>
 		</item>
 	</channel>
 </rss>

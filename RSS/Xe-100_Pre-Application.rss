@@ -5,25 +5,53 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 22 Sep 2023 23:14:45 GMT</pubDate>
-		<lastBuildDate>Fri, 22 Sep 2023 23:14:45 GMT</lastBuildDate>
+		<pubDate>Mon, 25 Sep 2023 14:16:20 GMT</pubDate>
+		<lastBuildDate>Mon, 25 Sep 2023 14:16:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>10/11/2023 Pre-Application meeting with X-energy to discuss the proposed White Paper on Spent Fuel Management for the Xe-100 high temperature gas reactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23268A054</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-09-25 09:27:00</pubDate>
+		</item>
+		<item>
+			<title>X Energy, LLC - Discussion Topics Regarding X-energy Atmospheric Dispersion and Dose Calculation Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23264A098</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2023-09-25 08:35:00</pubDate>
+		</item>
+		<item>
+			<title>Submittal of X Energy, LLC (X-energy) Xe-100 Licensing Topical Report: “Control Room Staffing Analysis Methodology, Revision 2 and Associated Implementation Plans” Accepted Version</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23258A243</link>
+			<description>Letter, Topical Report</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2023-09-25 08:34:00</pubDate>
+		</item>
+		<item>
+			<title>X-Energy, LLC, Presentation Materials - Xe-100 Spent Fuel Management Licensing Approach White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23258A104</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2023-09-25 08:33:00</pubDate>
+		</item>
+		<item>
+			<title>X-Energy, LLC, Xe-100 Spent Fuel Management Licensing Approach White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23258A105</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2023-09-25 08:33:00</pubDate>
+		</item>
 		<item>
 			<title>Pre-Application Readiness Assessment Plan - Dow Chemical Company and X Energy, LLC Draft Preliminary Safety Analysis Report dated September 15, 2023</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23243B065</link>
 			<description>Letter</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2023-09-22 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>10/11/2023 Pre-Application meeting with X-energy to discuss the proposed White Paper on Spent Fuel Management for the Xe-100 high temperature gas reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23265A014</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-09-22 07:47:00</pubDate>
 		</item>
 		<item>
 			<title>10/05/2023 Pre-Application meeting with X-energy to discuss the proposed Graphite Qualification Plan for the Xe-100 high temperature gas reactor</title>
@@ -45,20 +73,6 @@
 			<description>Quality Assurance Program, Topical Report</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2023-09-21 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: X-Energy, LLC, Presentation Materials - Xe-100 Graphite Engagement: Material Model</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23244A273</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2023-09-18 16:10:00</pubDate>
-		</item>
-		<item>
-			<title>X-Energy, LLC, Submittal of Presentation Materials - Xe-100 Graphite Engagement: Material Model</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23244A272</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2023-09-18 14:44:00</pubDate>
 		</item>
 	</channel>
 </rss>
