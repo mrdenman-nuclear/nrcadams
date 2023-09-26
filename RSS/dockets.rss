@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 25 Sep 2023 23:15:26 GMT</pubDate>
-		<lastBuildDate>Mon, 25 Sep 2023 23:15:26 GMT</lastBuildDate>
+		<pubDate>Tue, 26 Sep 2023 14:15:11 GMT</pubDate>
+		<lastBuildDate>Tue, 26 Sep 2023 14:15:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Amended Preapplication Readiness Assessment Plan for the Draft Carbon Free Power Project Combined License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23258A173</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL</author>
+			<pubDate>2023-09-26 08:31:00</pubDate>
+		</item>
 		<item>
 			<title>Request to Speak Letter from the City of Oak Ridge, Tennessee at the October 19, 2023 Evidentiary Hearing for the Kairos Power, LLC, Hermes Test Reactor Construction Permit Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23268A360</link>
@@ -213,13 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS, US Dept of Energy, Office of Clean Energy Demonstrations</author>
 			<pubDate>2023-09-21 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>X-Energy, LLC (X-energy), Submittal of Topical Report Quality Assurance Program Description, Revision 6</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23256A160</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2023-09-21 08:35:00</pubDate>
 		</item>
 	</channel>
 </rss>

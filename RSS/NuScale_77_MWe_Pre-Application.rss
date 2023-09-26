@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 25 Sep 2023 23:15:38 GMT</pubDate>
-		<lastBuildDate>Mon, 25 Sep 2023 23:15:38 GMT</lastBuildDate>
+		<pubDate>Tue, 26 Sep 2023 14:15:34 GMT</pubDate>
+		<lastBuildDate>Tue, 26 Sep 2023 14:15:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>E-Mail</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2023-09-20 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of Topical Report "NuScale Power Plant Design Capability to Mitigate Beyond-Design-Basis Events Defined by 10 CFR 50.155," TR-141299, Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23254A360</link>
-			<description>Legal-Affidavit, Letter, Topical Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2023-09-19 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
