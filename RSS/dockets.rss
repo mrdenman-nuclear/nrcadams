@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 26 Sep 2023 16:18:08 GMT</pubDate>
-		<lastBuildDate>Tue, 26 Sep 2023 16:18:08 GMT</lastBuildDate>
+		<pubDate>Tue, 26 Sep 2023 17:14:23 GMT</pubDate>
+		<lastBuildDate>Tue, 26 Sep 2023 17:14:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Summary of April 4, 2023, Workshop on I&C Licensing Framework for Advanced Reactors</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23226A141</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UARP</author>
+			<pubDate>2023-09-26 13:04:00</pubDate>
+		</item>
 		<item>
 			<title>Amended Preapplication Readiness Assessment Plan for the Draft Carbon Free Power Project Combined License Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23258A173</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-09-21 17:13:00</pubDate>
-		</item>
-		<item>
-			<title>Letter to S. Alexander re: TRISO-X FFF Section 7 Informal Consultation Request</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23214A265</link>
-			<description>Letter</description>
-			<author>NRC/NMSS, US Dept of Energy, Office of Clean Energy Demonstrations</author>
-			<pubDate>2023-09-21 08:36:00</pubDate>
 		</item>
 	</channel>
 </rss>
