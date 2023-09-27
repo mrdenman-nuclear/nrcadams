@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 26 Sep 2023 23:14:27 GMT</pubDate>
-		<lastBuildDate>Tue, 26 Sep 2023 23:14:27 GMT</lastBuildDate>
+		<pubDate>Wed, 27 Sep 2023 14:15:01 GMT</pubDate>
+		<lastBuildDate>Wed, 27 Sep 2023 14:15:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>University of California Davis McClellan Nuclear Research Center (MNRC), Docket Number 50-607, License Number R-130, Supplement to License Amendment Request 2023-02</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23262B520</link>
+			<description>Letter</description>
+			<author>Univ of California - Davis</author>
+			<pubDate>2023-09-27 08:26:00</pubDate>
+		</item>
 		<item>
 			<title>TSAF50-00607 - Regents of the University of California (Davis), Current Facility Operating License R-130. Tech Specs, Revised 11/21/2022.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22341A087</link>
@@ -31,20 +38,6 @@
 			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation, Technical Specifications</description>
 			<author>NRC/NRR/DANU/UNPL</author>
 			<pubDate>2023-09-22 13:01:00</pubDate>
-		</item>
-		<item>
-			<title>Public Meeting Presentation - University of California Davis - McClellan Nuclear Research Center Reactor Meeting August 30, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23243B009</link>
-			<description>Meeting Briefing Package/Handouts</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-09-20 14:40:00</pubDate>
-		</item>
-		<item>
-			<title>08/30/2023 Summary of Meeting with University of California - Davis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23256A371</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2023-09-20 14:40:00</pubDate>
 		</item>
 	</channel>
 </rss>

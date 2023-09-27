@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 26 Sep 2023 23:14:36 GMT</pubDate>
-		<lastBuildDate>Tue, 26 Sep 2023 23:14:36 GMT</lastBuildDate>
+		<pubDate>Wed, 27 Sep 2023 14:15:09 GMT</pubDate>
+		<lastBuildDate>Wed, 27 Sep 2023 14:15:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>ACU Climate Change Related Excel Workbook PDF</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23269A107</link>
+			<description>Spreadsheet File</description>
+			<author>Pacific Northwest National Lab</author>
+			<pubDate>2023-09-27 08:26:00</pubDate>
+		</item>
 		<item>
 			<title>Summary of April 4, 2023, Workshop on I&C Licensing Framework for Advanced Reactors</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23226A141</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DORL/LLPB</author>
 			<pubDate>2023-09-22 08:38:00</pubDate>
-		</item>
-		<item>
-			<title>10/05/2023 Pre-Application meeting with X-energy to discuss the proposed Graphite Qualification Plan for the Xe-100 high temperature gas reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23264A852</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-09-21 17:13:00</pubDate>
 		</item>
 	</channel>
 </rss>
