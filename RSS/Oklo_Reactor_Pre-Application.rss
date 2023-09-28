@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 28 Sep 2023 17:13:18 GMT</pubDate>
-		<lastBuildDate>Thu, 28 Sep 2023 17:13:18 GMT</lastBuildDate>
+		<pubDate>Thu, 28 Sep 2023 18:18:16 GMT</pubDate>
+		<lastBuildDate>Thu, 28 Sep 2023 18:18:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Cover Letter - Oklo Inc. NRC Feedback Regarding Oklo White Paper on Safety Classification Overview</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23244A039</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-09-28 14:08:00</pubDate>
+		</item>
+	</channel>
 </rss>
