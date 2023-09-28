@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 28 Sep 2023 20:16:13 GMT</pubDate>
-		<lastBuildDate>Thu, 28 Sep 2023 20:16:13 GMT</lastBuildDate>
+		<pubDate>Thu, 28 Sep 2023 21:13:54 GMT</pubDate>
+		<lastBuildDate>Thu, 28 Sep 2023 21:13:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Kairos Notices of Appearance for Ryan Lighty and Alex Polonsky</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23271A191</link>
+			<description>Legal-Correspondence/Miscellaneous</description>
+			<author>Kairos Power, LLC, Morgan, Lewis & Bockius, LLP</author>
+			<pubDate>2023-09-28 16:22:00</pubDate>
+		</item>
 		<item>
 			<title>Kairos Power LLC, Responses to Commission's Pre-Hearing Questions</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23271A184</link>
@@ -213,13 +220,6 @@
 			<description>Administrative Form, NRC, Topical Report</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-09-25 09:31:00</pubDate>
-		</item>
-		<item>
-			<title>10/11/2023 Pre-Application meeting with X-energy to discuss the proposed White Paper on Spent Fuel Management for the Xe-100 high temperature gas reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23268A054</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-09-25 09:27:00</pubDate>
 		</item>
 	</channel>
 </rss>
