@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 28 Sep 2023 23:15:41 GMT</pubDate>
-		<lastBuildDate>Thu, 28 Sep 2023 23:15:41 GMT</lastBuildDate>
+		<pubDate>Fri, 29 Sep 2023 14:13:52 GMT</pubDate>
+		<lastBuildDate>Fri, 29 Sep 2023 14:13:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>10/12/2023 Pre-Application meeting with X-energy to discuss the proposed Graphite Qualification Plan for the Xe-100 high temperature gas reactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23272A014</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-09-29 07:17:00</pubDate>
+		</item>
 		<item>
 			<title>Meeting Summary - August 24 2023 Public Meeting With X-Energy to Discuss Graphite Qualification.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23271A138</link>
@@ -66,13 +73,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2023-09-25 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Pre-Application Readiness Assessment Plan - Dow Chemical Company and X Energy, LLC Draft Preliminary Safety Analysis Report dated September 15, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23243B065</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2023-09-22 08:39:00</pubDate>
 		</item>
 	</channel>
 </rss>

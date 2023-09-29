@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 28 Sep 2023 23:15:41 GMT</pubDate>
-		<lastBuildDate>Thu, 28 Sep 2023 23:15:41 GMT</lastBuildDate>
+		<pubDate>Fri, 29 Sep 2023 14:13:52 GMT</pubDate>
+		<lastBuildDate>Fri, 29 Sep 2023 14:13:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Abilene Christian University, ACU Slides from April 13, 2023 Closed Meeting to Discuss Security Topics</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23192A038</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Abilene Christian University (ACU)</author>
-			<pubDate>2023-09-22 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>Abilene Christian University, NRC Slides from April 13, 2023, Closed Meeting to Discuss Security Topics</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23192A039</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-09-22 08:38:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

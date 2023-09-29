@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 28 Sep 2023 23:15:41 GMT</pubDate>
-		<lastBuildDate>Thu, 28 Sep 2023 23:15:41 GMT</lastBuildDate>
+		<pubDate>Fri, 29 Sep 2023 14:13:52 GMT</pubDate>
+		<lastBuildDate>Fri, 29 Sep 2023 14:13:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Resource Estimate Letter for NuScale US460 Standard Design Approval Application Review</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23254A192</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-09-29 08:33:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC, Submittal of Information in Support of NRC Review of Chapter 15, "Transient and Accident Analyses," Revision 0, NRC Audit Item A-15.0.2-1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23270B119</link>
@@ -24,13 +31,6 @@
 			<description>Legal-Affidavit, Letter</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2023-09-25 11:34:00</pubDate>
-		</item>
-		<item>
-			<title>August 22, 2023, Summary of Public Meeting to Discuss NuScale's Plan for Topical Report on US460 Fuel Storage Rack</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23258A164</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DORL/LLPB</author>
-			<pubDate>2023-09-22 08:38:00</pubDate>
 		</item>
 	</channel>
 </rss>
