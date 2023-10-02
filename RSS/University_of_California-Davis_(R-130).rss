@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 29 Sep 2023 22:15:14 GMT</pubDate>
-		<lastBuildDate>Fri, 29 Sep 2023 22:15:14 GMT</lastBuildDate>
+		<pubDate>Mon, 02 Oct 2023 14:15:22 GMT</pubDate>
+		<lastBuildDate>Mon, 02 Oct 2023 14:15:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>License-Operating (New/Renewal/Amendments) DKT 50</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-09-26 11:26:00</pubDate>
-		</item>
-		<item>
-			<title>University of California Davis McClellan Nuclear Research Center (MNRC), Docket Number 50-607, License Number R-130, License Amendment Request 2023-02</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23258A242</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50, Technical Specification, Amendment</description>
-			<author>Univ of California - Davis</author>
-			<pubDate>2023-09-25 08:34:00</pubDate>
 		</item>
 	</channel>
 </rss>

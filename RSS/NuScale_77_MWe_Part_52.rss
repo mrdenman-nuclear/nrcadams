@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 29 Sep 2023 22:15:28 GMT</pubDate>
-		<lastBuildDate>Fri, 29 Sep 2023 22:15:28 GMT</lastBuildDate>
+		<pubDate>Mon, 02 Oct 2023 14:15:29 GMT</pubDate>
+		<lastBuildDate>Mon, 02 Oct 2023 14:15:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,20 +38,6 @@
 			<description>Legal-Affidavit, Letter</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2023-09-27 14:28:00</pubDate>
-		</item>
-		<item>
-			<title>Nu Scale Power, LLC, Submittal of Supplemental Information in Support of NRG Review of Topical Report TR-124587-P, "Extended Passive Cooling and Reactivity Control Methodology," Revision O (Item A-XPC.LTR-4)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23263A025</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2023-09-25 11:34:00</pubDate>
-		</item>
-		<item>
-			<title>LOCA Revised NRC Form 898 for Resource Estimate.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23265A145</link>
-			<description>Administrative Form, NRC, Topical Report</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-09-25 09:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

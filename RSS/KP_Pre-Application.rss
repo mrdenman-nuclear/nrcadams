@@ -5,25 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 29 Sep 2023 22:15:28 GMT</pubDate>
-		<lastBuildDate>Fri, 29 Sep 2023 22:15:28 GMT</lastBuildDate>
+		<pubDate>Mon, 02 Oct 2023 14:15:29 GMT</pubDate>
+		<lastBuildDate>Mon, 02 Oct 2023 14:15:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2023/09/25 Kairos Power Pre-App Doc - Email Transmitting NRC Staff Clarification Questions Regarding Kairos's Instrument Setpoint Methodology Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23268A410</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2023-10-02 08:37:00</pubDate>
+		</item>
 		<item>
 			<title>2023/09/25 Kairos Power Pre-App Doc - NRC Staff Clarification Questions Regarding Kairos Power Instrument Setpoint Methodology Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23268A465</link>
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-09-28 14:08:00</pubDate>
-		</item>
-		<item>
-			<title>09/28/2023 Public Meeting Regarding the NRC Staff's Review of Kairos Instrument Setpoint Methodology Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23268A335</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-09-25 11:52:00</pubDate>
 		</item>
 	</channel>
 </rss>
