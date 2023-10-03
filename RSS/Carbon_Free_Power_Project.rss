@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 02 Oct 2023 23:14:30 GMT</pubDate>
-		<lastBuildDate>Mon, 02 Oct 2023 23:14:30 GMT</lastBuildDate>
+		<pubDate>Tue, 03 Oct 2023 14:16:23 GMT</pubDate>
+		<lastBuildDate>Tue, 03 Oct 2023 14:16:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>FRN - Notice of opportunity to Request a Hearing and Petition for Leave to Intervene, Order Imposing Procedures.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23250A036</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/SECY</author>
+			<pubDate>2023-10-03 10:14:00</pubDate>
+		</item>
 		<item>
 			<title>2023/09/15 CFPP Docs - Fwd CFPP COLA NRC Readiness Assessment Phase 6</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23258A041</link>
@@ -24,13 +31,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2023-09-28 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>Amended Preapplication Readiness Assessment Plan for the Draft Carbon Free Power Project Combined License Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23258A173</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2023-09-26 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

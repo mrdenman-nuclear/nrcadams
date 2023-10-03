@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 02 Oct 2023 23:14:30 GMT</pubDate>
-		<lastBuildDate>Mon, 02 Oct 2023 23:14:30 GMT</lastBuildDate>
+		<pubDate>Tue, 03 Oct 2023 14:16:23 GMT</pubDate>
+		<lastBuildDate>Tue, 03 Oct 2023 14:16:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>2023/09/19 NRR E-mail Capture - Schedule Change for Applicability of Regulations Topical Report - High Temperature Gas-cooled Research Reactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23262B024</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2023-10-03 08:33:00</pubDate>
+		</item>
+	</channel>
 </rss>
