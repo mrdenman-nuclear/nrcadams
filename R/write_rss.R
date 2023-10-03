@@ -60,6 +60,7 @@ write_rss <- function(
     ) |>
     nrcadams::format_ML_link({{doc_ML}}) |>
     dplyr::select(title, link, description, author, pubDate) |>
+    dplyr::mutate(author = author |> stringr::str_replace("&", "and")) |>
     dplyr::arrange(dplyr::desc(pubDate)) |>
     dplyr::filter(dplyr::row_number() <= maxitem)
 
