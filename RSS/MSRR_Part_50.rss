@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 03 Oct 2023 23:16:02 GMT</pubDate>
-		<lastBuildDate>Tue, 03 Oct 2023 23:16:02 GMT</lastBuildDate>
+		<pubDate>Wed, 04 Oct 2023 14:15:55 GMT</pubDate>
+		<lastBuildDate>Wed, 04 Oct 2023 14:15:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>E-Mail</description>
 			<author>Abilene Christian University</author>
 			<pubDate>2023-09-29 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>ACU Climate Change Related Excel Workbook PDF</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23269A107</link>
-			<description>Spreadsheet File</description>
-			<author>Pacific Northwest National Lab</author>
-			<pubDate>2023-09-27 08:26:00</pubDate>
 		</item>
 	</channel>
 </rss>

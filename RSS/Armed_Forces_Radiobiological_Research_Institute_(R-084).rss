@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 03 Oct 2023 23:15:55 GMT</pubDate>
-		<lastBuildDate>Tue, 03 Oct 2023 23:15:55 GMT</lastBuildDate>
+		<pubDate>Wed, 04 Oct 2023 14:15:47 GMT</pubDate>
+		<lastBuildDate>Wed, 04 Oct 2023 14:15:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Armed Forces Radiobiology Research Institute - U.S. Nuclear Regulatory Commission Safety Inspection Report No. 05000170/2023201</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23228A039</link>
+			<description>Inspection Report, Letter</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2023-10-04 08:31:00</pubDate>
+		</item>
+	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 03 Oct 2023 23:16:02 GMT</pubDate>
-		<lastBuildDate>Tue, 03 Oct 2023 23:16:02 GMT</lastBuildDate>
+		<pubDate>Wed, 04 Oct 2023 14:15:55 GMT</pubDate>
+		<lastBuildDate>Wed, 04 Oct 2023 14:15:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Topical Report</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2023-09-29 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of Information in Support of NRC Review of Chapter 15, "Transient and Accident Analyses," Revision 0, NRC Audit Item A-15.0.2-1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23270B119</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2023-09-27 14:28:00</pubDate>
 		</item>
 	</channel>
 </rss>
