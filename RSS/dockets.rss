@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 06 Oct 2023 18:18:07 GMT</pubDate>
-		<lastBuildDate>Fri, 06 Oct 2023 18:18:07 GMT</lastBuildDate>
+		<pubDate>Fri, 06 Oct 2023 19:12:02 GMT</pubDate>
+		<lastBuildDate>Fri, 06 Oct 2023 19:12:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Hermes Draft Construction Permit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23209A659</link>
+			<description>Environmental Protection Plan, Report, Miscellaneous</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2023-10-06 14:36:00</pubDate>
+		</item>
 		<item>
 			<title>Initial Exhibit (Non-Public)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23278A219</link>
@@ -211,13 +218,6 @@
 			<title>Hermes 2 General Audit Plan</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23268A446</link>
 			<description>Audit Plan</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-10-03 15:36:00</pubDate>
-		</item>
-		<item>
-			<title>Email to Kairos providing the Hermes 2 General Audit Plan</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23276B399</link>
-			<description>E-Mail</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-10-03 15:36:00</pubDate>
 		</item>
