@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 06 Oct 2023 23:18:49 GMT</pubDate>
-		<lastBuildDate>Fri, 06 Oct 2023 23:18:49 GMT</lastBuildDate>
+		<pubDate>Mon, 09 Oct 2023 14:15:48 GMT</pubDate>
+		<lastBuildDate>Mon, 09 Oct 2023 14:15:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,20 +59,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-10-03 13:07:00</pubDate>
-		</item>
-		<item>
-			<title>Holtec SMR, LLC, TMI Requirements</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23265A217</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2023-10-02 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Preapplication Meeting Materials for October 4, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23265A216</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
-			<pubDate>2023-10-02 08:37:00</pubDate>
 		</item>
 	</channel>
 </rss>

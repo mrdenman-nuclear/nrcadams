@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 06 Oct 2023 23:18:41 GMT</pubDate>
-		<lastBuildDate>Fri, 06 Oct 2023 23:18:41 GMT</lastBuildDate>
+		<pubDate>Mon, 09 Oct 2023 14:15:40 GMT</pubDate>
+		<lastBuildDate>Mon, 09 Oct 2023 14:15:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>GE Hitachi Nuclear Energy - Supplemental Information - Proposed Conforming Amendments & License Conditions</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23248A232</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2023-10-02 14:09:00</pubDate>
-		</item>
-		<item>
-			<title>GE-Hitachi Nuclear Energy Americas, LLC and NorthStar Vallecitos, LLC, Application for Consent to Direct Transfers of Control of Licenses and Related Conforming License Amendments</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23244A247</link>
-			<description>Letter, License-Application for (Amend/Renewal/New) for DKT 30, 40, 70, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC, NorthStar Group Services, Inc, NorthStar Vallecitos, LLC</author>
-			<pubDate>2023-10-02 14:09:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
