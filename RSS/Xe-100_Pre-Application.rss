@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 09 Oct 2023 23:15:23 GMT</pubDate>
-		<lastBuildDate>Mon, 09 Oct 2023 23:15:23 GMT</lastBuildDate>
+		<pubDate>Tue, 10 Oct 2023 14:16:11 GMT</pubDate>
+		<lastBuildDate>Tue, 10 Oct 2023 14:16:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>10/17/2023 Pre-Application meeting with X-energy to provide staff feedback on the control room operator training and qualification program for the Xe-100 high temperature gas reactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23283A059</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-10-10 09:45:00</pubDate>
+		</item>
 		<item>
 			<title>X-Energy, LLC, Presentation Materials – Xe-100 Graphite Engagement: Xe-100 Graphite Engagement: IGNIS Graphite Modeling Toolset used in Xe-100 Analyses and Qualification Approach</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23271A255</link>
@@ -52,20 +59,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2023-10-05 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>007116, Revision 2, "Xe-100 Licensing Topical Report: Atmospheric Dispersion and Dose Calculation Methodology"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23268A456</link>
-			<description>Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2023-10-03 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy, LLC (X-energy) Submittal of Xe-100 Licensing Topical Report: Atmospheric Dispersion and Dose Calculation Methodology, Revision 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23268A455</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2023-10-03 08:33:00</pubDate>
 		</item>
 	</channel>
 </rss>

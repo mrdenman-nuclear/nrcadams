@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 09 Oct 2023 23:15:26 GMT</pubDate>
-		<lastBuildDate>Mon, 09 Oct 2023 23:15:26 GMT</lastBuildDate>
+		<pubDate>Tue, 10 Oct 2023 14:16:11 GMT</pubDate>
+		<lastBuildDate>Tue, 10 Oct 2023 14:16:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,13 +52,6 @@
 			<description>Report, Miscellaneous</description>
 			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2023-10-04 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>11/01/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding questions on the Limited Work Authorization process to support the Construction Permit for the Holtec SMR-160 design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23276A654</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-10-03 13:07:00</pubDate>
 		</item>
 	</channel>
 </rss>

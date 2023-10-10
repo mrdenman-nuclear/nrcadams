@@ -5,25 +5,39 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 09 Oct 2023 23:15:23 GMT</pubDate>
-		<lastBuildDate>Mon, 09 Oct 2023 23:15:23 GMT</lastBuildDate>
+		<pubDate>Tue, 10 Oct 2023 14:16:11 GMT</pubDate>
+		<lastBuildDate>Tue, 10 Oct 2023 14:16:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 1 - Request for Additional Information on the Geotechnical Review for the TRISO-X Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23254A384</link>
+			<description>Request for Additional Information (RAI)</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2023-10-10 08:48:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2 - Request for Additional Information on the Hydrological Review for the TRISO-X Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23254A383</link>
+			<description>Request for Additional Information (RAI)</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2023-10-10 08:48:00</pubDate>
+		</item>
+		<item>
+			<title>Letter to Triso-X for fourth set of RAIs including Geotechnical and Hydrology</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23254A382</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2023-10-10 08:47:00</pubDate>
+		</item>
 		<item>
 			<title>10/13/2023 Meeting with Triso-X to discuss Material Control & Accounting and Fire RAIs</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23277A103</link>
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2023-10-04 10:09:00</pubDate>
-		</item>
-		<item>
-			<title>10/30/2023 Meeting with TRISO-X LLC to discuss Environmental and Structural RAIs</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23276A595</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2023-10-03 10:06:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 09 Oct 2023 23:15:24 GMT</pubDate>
-		<lastBuildDate>Mon, 09 Oct 2023 23:15:24 GMT</lastBuildDate>
+		<pubDate>Tue, 10 Oct 2023 14:16:11 GMT</pubDate>
+		<lastBuildDate>Tue, 10 Oct 2023 14:16:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TerraPower, LLC, Transmittal of Topical Report, "Design Basis Accident Methodology for In-Vessel Events without Radiological Release," Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23272A260</link>
+			<description>Legal-Affidavit, Letter, Topical Report</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2023-10-10 08:47:00</pubDate>
+		</item>
 		<item>
 			<title>Terrapower, LLC - Final Safety Evaluation For Topical Report NATD-LIC-Report-0001, "Regulatory Management Of Natrium Nuclear Island And Energy Island Design Interfaces," Revision 0 (CAC: 000431 / EPID: L-2022-TOP-0045)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23257A259</link>
@@ -24,20 +31,6 @@
 			<description>Safety Evaluation</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-10-06 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>10/03/2023 Pre-Application Meeting with TerraPower to discuss Considerations for Low Frequency External Hazards under a Risk-Informed Performance Based Licensing Framework for the Natrium design.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23276A612</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-10-03 10:25:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC, DBA with Release Methodologies Presentation Material</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23265A546</link>
-			<description>Legal-Affidavit, Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2023-10-03 08:33:00</pubDate>
 		</item>
 	</channel>
 </rss>

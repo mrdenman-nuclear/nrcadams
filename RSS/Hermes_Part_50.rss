@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 09 Oct 2023 23:15:27 GMT</pubDate>
-		<lastBuildDate>Mon, 09 Oct 2023 23:15:27 GMT</lastBuildDate>
+		<pubDate>Tue, 10 Oct 2023 14:16:11 GMT</pubDate>
+		<lastBuildDate>Tue, 10 Oct 2023 14:16:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Draft Summary ROD for Kairos Hermes Test Reactor CP</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23192A766</link>
+			<description>Report, Technical</description>
+			<author>NRC/NMSS/DREFS</author>
+			<pubDate>2023-10-10 09:07:00</pubDate>
+		</item>
+		<item>
+			<title>2023/10/01 Hermes CP Doc - Public summary of Sep 14 meeting with consulting Tribe</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23274A006</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2023-10-10 08:47:00</pubDate>
+		</item>
 		<item>
 			<title>Hermes Draft Construction Permit</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23209A659</link>
@@ -80,13 +94,6 @@
 			<description>Legal-Order</description>
 			<author>NRC/SECY</author>
 			<pubDate>2023-10-06 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>11/02/2023 Discussion on Special Nuclear Material Control and Accountability (MC&A) Plans for Kairos Power LLC's Proposed Hermes Test Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23276A637</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-10-03 11:40:00</pubDate>
 		</item>
 	</channel>
 </rss>
