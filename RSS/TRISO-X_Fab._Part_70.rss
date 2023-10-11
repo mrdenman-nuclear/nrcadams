@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 10 Oct 2023 23:13:50 GMT</pubDate>
-		<lastBuildDate>Tue, 10 Oct 2023 23:13:50 GMT</lastBuildDate>
+		<pubDate>Wed, 11 Oct 2023 14:15:40 GMT</pubDate>
+		<lastBuildDate>Wed, 11 Oct 2023 14:15:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
 			<pubDate>2023-10-10 08:47:00</pubDate>
-		</item>
-		<item>
-			<title>10/13/2023 Meeting with Triso-X to discuss Material Control & Accounting and Fire RAIs</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23277A103</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2023-10-04 10:09:00</pubDate>
 		</item>
 	</channel>
 </rss>
