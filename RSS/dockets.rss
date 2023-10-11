@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 11 Oct 2023 18:19:17 GMT</pubDate>
-		<lastBuildDate>Wed, 11 Oct 2023 18:19:17 GMT</lastBuildDate>
+		<pubDate>Wed, 11 Oct 2023 19:13:34 GMT</pubDate>
+		<lastBuildDate>Wed, 11 Oct 2023 19:13:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>10/24/2023 Notice of Meeting with X-energy</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23284A341</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-10-11 14:58:00</pubDate>
+		</item>
 		<item>
 			<title>Kairos Hermes 2 Construction Permit Application Scheduling and Resource Letter</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23269A176</link>
@@ -213,13 +220,6 @@
 			<description>Audit Plan, Memoranda</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2023-10-06 10:01:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC - Submittal of Licensing Topical Report, “Quality Assurance Program for Holtec International’s Small Modular Reactor Design and Construction,” (Project No. 99902049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23271A008</link>
-			<description>Letter</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2023-10-06 08:29:00</pubDate>
 		</item>
 	</channel>
 </rss>
