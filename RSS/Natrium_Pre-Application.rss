@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 12 Oct 2023 23:15:07 GMT</pubDate>
-		<lastBuildDate>Thu, 12 Oct 2023 23:15:07 GMT</lastBuildDate>
+		<pubDate>Fri, 13 Oct 2023 14:15:27 GMT</pubDate>
+		<lastBuildDate>Fri, 13 Oct 2023 14:15:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Legal-Affidavit, Letter, Topical Report</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2023-10-10 08:47:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC – Final Safety Evaluation of Topical Report NATD-LIC-RPRT-0001, "Regulatory Management of Natrium Nuclear Island and Energy Island Design Interfaces, Rev. 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23257A258</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-10-06 08:29:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 12 Oct 2023 23:15:07 GMT</pubDate>
-		<lastBuildDate>Thu, 12 Oct 2023 23:15:07 GMT</lastBuildDate>
+		<pubDate>Fri, 13 Oct 2023 14:15:27 GMT</pubDate>
+		<lastBuildDate>Fri, 13 Oct 2023 14:15:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Kairos Power LLC, Instrument Setpoint Methodology for the Kairos Power Fluoride Salt-Cooled High-Temperature Reactor, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23277A314</link>
+			<description>Letter</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2023-10-13 08:33:00</pubDate>
+		</item>
+		<item>
+			<title>Kairos Power LLC, Instrument Setpoint Methodology for the Kairos Power Fluoride Salt-Cooled High-Temperature Reactor, Revision 1 (KP-TR-021-NP)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23277A315</link>
+			<description>Topical Report</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2023-10-13 08:33:00</pubDate>
+		</item>
+	</channel>
 </rss>
