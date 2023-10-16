@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 13 Oct 2023 23:17:19 GMT</pubDate>
-		<lastBuildDate>Fri, 13 Oct 2023 23:17:19 GMT</lastBuildDate>
+		<pubDate>Mon, 16 Oct 2023 14:15:56 GMT</pubDate>
+		<lastBuildDate>Mon, 16 Oct 2023 14:15:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>University of Illinois Urbana Champaign Transmittal of Form 898 for Safety Classification Topical</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23276A600</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2023-10-16 08:40:00</pubDate>
+		</item>
+		<item>
+			<title>University of Illinois Urbana Champaign Safety Classification Topical Report Acceptance Form 898</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23276A599</link>
+			<description>Administrative Form, NRC</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-10-16 08:40:00</pubDate>
+		</item>
+	</channel>
 </rss>
