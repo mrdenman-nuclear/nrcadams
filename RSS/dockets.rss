@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 17 Oct 2023 14:15:53 GMT</pubDate>
-		<lastBuildDate>Tue, 17 Oct 2023 14:15:53 GMT</lastBuildDate>
+		<pubDate>Tue, 17 Oct 2023 15:18:05 GMT</pubDate>
+		<lastBuildDate>Tue, 17 Oct 2023 15:18:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>11/09/2023 Notice of Meeting with Westinghouse Electric Company on AP300 Design Description Overview White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23290A106</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-10-17 10:36:00</pubDate>
+		</item>
 		<item>
 			<title>Response to Request for Additional Information Set 3 (ISA and Security) for the TRISO-X License Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23285A344</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23285A129</link>
 			<description>Legal-Pre-Filed Exhibits</description>
 			<author>NRC/OGC</author>
-			<pubDate>2023-10-12 12:49:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of the September 12 and September 21, 2023 Closed Meetings with Kairos Power Regarding Section 106 Consultations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23271A136</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NMSS/DREFS/ENRB</author>
 			<pubDate>2023-10-12 12:49:00</pubDate>
 		</item>
 	</channel>
