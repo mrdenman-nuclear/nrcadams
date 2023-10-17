@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 16 Oct 2023 23:14:19 GMT</pubDate>
-		<lastBuildDate>Mon, 16 Oct 2023 23:14:19 GMT</lastBuildDate>
+		<pubDate>Tue, 17 Oct 2023 14:16:01 GMT</pubDate>
+		<lastBuildDate>Tue, 17 Oct 2023 14:16:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2023-10-11 08:27:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Affidavit of Mason Baker, AF-151251</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23272A118</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>Carbon Free Power Project, LLC (CFPP, LLC), NuScale Power, LLC</author>
-			<pubDate>2023-10-10 08:47:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal on Behalf of CFPP LLC Carbon Free Power Project (CFPP) Combined License Application (COLA) Presentation Entitled "CFPP Owner-Operator Status (Open Session)," PM-151247-NP, Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23272A117</link>
-			<description>Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Carbon Free Power Project, LLC (CFPP, LLC), NuScale Power, LLC</author>
-			<pubDate>2023-10-10 08:47:00</pubDate>
 		</item>
 	</channel>
 </rss>

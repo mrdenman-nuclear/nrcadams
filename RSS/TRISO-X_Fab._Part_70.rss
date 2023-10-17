@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 16 Oct 2023 23:14:18 GMT</pubDate>
-		<lastBuildDate>Mon, 16 Oct 2023 23:14:18 GMT</lastBuildDate>
+		<pubDate>Tue, 17 Oct 2023 14:16:00 GMT</pubDate>
+		<lastBuildDate>Tue, 17 Oct 2023 14:16:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,27 +17,6 @@
 			<description>Letter</description>
 			<author>Triso-X, LLC</author>
 			<pubDate>2023-10-16 14:13:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - Request for Additional Information on the Geotechnical Review for the TRISO-X Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23254A384</link>
-			<description>Request for Additional Information (RAI)</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2023-10-10 08:48:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - Request for Additional Information on the Hydrological Review for the TRISO-X Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23254A383</link>
-			<description>Request for Additional Information (RAI)</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2023-10-10 08:48:00</pubDate>
-		</item>
-		<item>
-			<title>Letter to Triso-X for fourth set of RAIs including Geotechnical and Hydrology</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23254A382</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2023-10-10 08:47:00</pubDate>
 		</item>
 	</channel>
 </rss>
