@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 17 Oct 2023 23:14:54 GMT</pubDate>
-		<lastBuildDate>Tue, 17 Oct 2023 23:14:54 GMT</lastBuildDate>
+		<pubDate>Wed, 18 Oct 2023 14:15:42 GMT</pubDate>
+		<lastBuildDate>Wed, 18 Oct 2023 14:15:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Letter, Licensee Response to Notice of Violation</description>
 			<author>Aerotest Operations, Inc</author>
 			<pubDate>2023-10-16 08:40:00</pubDate>
-		</item>
-		<item>
-			<title>Aerotest Operations, Inc., Response to Violation 050-00228/2023-001-00lA</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23255A034</link>
-			<description>Letter, Licensee Response to Notice of Violation</description>
-			<author>Aerotest Operations, Inc</author>
-			<pubDate>2023-10-11 08:26:00</pubDate>
-		</item>
-		<item>
-			<title>AeroTest Operations, Inc. - Response to Inspection Report 050-00228/2023-001</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23255A036</link>
-			<description>Letter, Licensee Response to Notice of Violation</description>
-			<author>Aerotest Operations, Inc</author>
-			<pubDate>2023-10-11 08:26:00</pubDate>
 		</item>
 	</channel>
 </rss>

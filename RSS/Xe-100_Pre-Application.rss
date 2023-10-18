@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 17 Oct 2023 23:15:02 GMT</pubDate>
-		<lastBuildDate>Tue, 17 Oct 2023 23:15:02 GMT</lastBuildDate>
+		<pubDate>Wed, 18 Oct 2023 14:15:51 GMT</pubDate>
+		<lastBuildDate>Wed, 18 Oct 2023 14:15:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,27 +38,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-10-12 06:32:00</pubDate>
-		</item>
-		<item>
-			<title>10/24/2023 Notice of Meeting with X-energy</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23284A341</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-10-11 14:58:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy, LLC (X-energy) Xe-100 Licensing Topical Report GOTHIC and Flownex Analysis Codes Qualification</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23275A203</link>
-			<description>Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2023-10-11 08:27:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy, LLC (X-energy) Submittal of Xe-100 Licensing Topical Report GOTHIC and Flownex Analysis Codes Qualification</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23275A202</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2023-10-11 08:27:00</pubDate>
 		</item>
 	</channel>
 </rss>
