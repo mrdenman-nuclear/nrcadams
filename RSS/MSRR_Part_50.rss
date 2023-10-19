@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 18 Oct 2023 23:15:32 GMT</pubDate>
-		<lastBuildDate>Wed, 18 Oct 2023 23:15:32 GMT</lastBuildDate>
+		<pubDate>Thu, 19 Oct 2023 14:15:24 GMT</pubDate>
+		<lastBuildDate>Thu, 19 Oct 2023 14:15:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Summary of the September 18, 2023, Partially Closed Meeting Between the U.S. Nuclear Regulatory Commission Staff and Abilene Christian University to Discuss Material Control and Accounting Topics for the Molten Salt Research Reactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23284A421</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2023-10-19 08:29:00</pubDate>
+		</item>
+	</channel>
 </rss>
