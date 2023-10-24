@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 24 Oct 2023 19:13:24 GMT</pubDate>
-		<lastBuildDate>Tue, 24 Oct 2023 19:13:24 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Oct 2023 20:15:36 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Oct 2023 20:15:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC Staff Revised Exhibit List</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23297A229</link>
+			<description>Legal-Pleading</description>
+			<author>NRC/OGC</author>
+			<pubDate>2023-10-24 15:53:00</pubDate>
+		</item>
+		<item>
+			<title>NRC-009-R - Staff Presentation Slides - Overview Panel (October 12, 2023)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23297A230</link>
+			<description>Legal-Pre-Filed Exhibits</description>
+			<author>NRC/OGC</author>
+			<pubDate>2023-10-24 15:53:00</pubDate>
+		</item>
 		<item>
 			<title>10/24/2023 Pre-application meeting with TerraPower to discuss the Socioeconomic Characteristics.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23297A228</link>
@@ -206,20 +220,6 @@
 			<description>Safety Evaluation Report</description>
 			<author>NRC/NRR/DANU/UNPL</author>
 			<pubDate>2023-10-18 13:17:00</pubDate>
-		</item>
-		<item>
-			<title>E-Mail - NRC Staff Preliminary Feeback and Observations (readiness assessment) Regarding X-energy Draft LTR Control Room Operator Qualifications (1).</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23291A144</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2023-10-18 13:06:00</pubDate>
-		</item>
-		<item>
-			<title>DRAFT - NRC Feedback on Xe100 Training Operator Licensing Qualifications TR Presubmittal v003.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23291A145</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2023-10-18 13:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
