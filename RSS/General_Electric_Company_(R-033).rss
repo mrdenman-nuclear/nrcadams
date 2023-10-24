@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 23 Oct 2023 23:14:37 GMT</pubDate>
-		<lastBuildDate>Mon, 23 Oct 2023 23:14:37 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Oct 2023 14:13:30 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Oct 2023 14:13:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Legal-Affidavit, Letter</description>
 			<author>NorthStar Vallecitos, LLC</author>
 			<pubDate>2023-10-20 12:10:00</pubDate>
-		</item>
-		<item>
-			<title>GEH License Amendment Request - Permanent Cessation of the GE Nuclear Test Reactor (NTR) and Possession Only Authorization</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23279A110</link>
-			<description>Letter</description>
-			<author>GE Hitachi Nuclear Energy</author>
-			<pubDate>2023-10-17 08:36:00</pubDate>
 		</item>
 	</channel>
 </rss>
