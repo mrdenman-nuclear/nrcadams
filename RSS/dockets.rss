@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 24 Oct 2023 18:17:18 GMT</pubDate>
-		<lastBuildDate>Tue, 24 Oct 2023 18:17:18 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Oct 2023 19:13:24 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Oct 2023 19:13:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>10/24/2023 Pre-application meeting with TerraPower to discuss the Socioeconomic Characteristics.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23297A228</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-10-24 14:43:00</pubDate>
+		</item>
 		<item>
 			<title>2023/10/05 NRR E-mail Capture - Abilene Christian University (ACU) Molten Salt Research Reactor (MSRR) Preliminary Safety Analysis Report (PSAR) Section 2.5 "Geology, Seismology, and Geotechnical Engineering" Audit Questions (Round 2)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23283A017</link>
@@ -213,13 +220,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2023-10-18 13:06:00</pubDate>
-		</item>
-		<item>
-			<title>11/07/2023 PUBLIC OUTREACH MEETING ON THE FORTHCOMING TERRAPOWER CONSTRUCTION PERMIT APPLICATION</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23291A231</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-10-18 13:03:00</pubDate>
 		</item>
 	</channel>
 </rss>
