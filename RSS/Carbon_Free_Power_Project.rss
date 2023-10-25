@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 24 Oct 2023 23:16:28 GMT</pubDate>
-		<lastBuildDate>Tue, 24 Oct 2023 23:16:28 GMT</lastBuildDate>
+		<pubDate>Wed, 25 Oct 2023 14:18:11 GMT</pubDate>
+		<lastBuildDate>Wed, 25 Oct 2023 14:18:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Legal-Affidavit, Letter, Status Report</description>
 			<author>Carbon Free Power Project, LLC (CFPP, LLC), NuScale Power, LLC</author>
 			<pubDate>2023-10-19 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>October 5, 2023 Summary of Public Meeting with Carbon Free Power Project, LLC to Discuss the Proposed Carbon Free Power Project, LLC Owner Operator Structure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23289A029</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-10-18 09:36:00</pubDate>
 		</item>
 	</channel>
 </rss>
