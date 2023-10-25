@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 25 Oct 2023 20:14:59 GMT</pubDate>
-		<lastBuildDate>Wed, 25 Oct 2023 20:14:59 GMT</lastBuildDate>
+		<pubDate>Wed, 25 Oct 2023 21:13:18 GMT</pubDate>
+		<lastBuildDate>Wed, 25 Oct 2023 21:13:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 1 - Request for Additional Information on the Radiological Review for the TRISO-X Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23265A263</link>
+			<description>Request for Additional Information (RAI)</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2023-10-25 16:20:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2 - Request for Additional Information on the Chemical Review for the TRISO-X Application (Public)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23265A264</link>
+			<description>Request for Additional Information (RAI)</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2023-10-25 16:20:00</pubDate>
+		</item>
+		<item>
+			<title>Request For Additional Information Set 5 For The Radiological And Chemical Review Regarding The TRISO-X, LLC License Application For A New Fuel Fabrication Facility (Enterprise Project Identification Number L-2022-NEW-0005 )</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23265A262</link>
+			<description>Letter, Request for Additional Information (RAI)</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2023-10-25 16:20:00</pubDate>
+		</item>
 		<item>
 			<title>11/13/2023 Meeting with TRISO-X LLC to discuss Environmental and Structural RAIs</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23298A046</link>
@@ -199,13 +220,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
 			<pubDate>2023-10-19 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Submittal on Behalf of CFPP LLC, "Carbon Free Power Project (CFPP) Combined License Application (COLA) Status Report"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23284A329</link>
-			<description>Legal-Affidavit, Letter, Status Report</description>
-			<author>Carbon Free Power Project, LLC (CFPP, LLC), NuScale Power, LLC</author>
-			<pubDate>2023-10-19 08:28:00</pubDate>
 		</item>
 	</channel>
 </rss>
