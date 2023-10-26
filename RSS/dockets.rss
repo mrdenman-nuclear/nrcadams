@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 26 Oct 2023 19:14:06 GMT</pubDate>
-		<lastBuildDate>Thu, 26 Oct 2023 19:14:06 GMT</lastBuildDate>
+		<pubDate>Thu, 26 Oct 2023 20:14:30 GMT</pubDate>
+		<lastBuildDate>Thu, 26 Oct 2023 20:14:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SMR, LLC, Limited Work Authorization</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23269A170</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2023-10-26 15:26:00</pubDate>
+		</item>
 		<item>
 			<title>11/16/2023 Pre-Application Meeting with TerraPower to discuss the Computing Platforms to be utilized for analysis supporting the Construction Permit Application for the Natrium design.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23299A128</link>
@@ -211,13 +218,6 @@
 			<title>U.S. Nuclear Regulatory Commission Feedback Regarding SMR, LLC (A Holtec International Company) White Paper On Human Factors Engineering Functional Requirements Analysis And Function Allocation For Chemical And Volume Control System</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23272A191</link>
 			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-10-20 15:25:00</pubDate>
-		</item>
-		<item>
-			<title>U.S. Nuclear Regulatory Commission Feedback Regarding SMR, LLC (A Holtec International Company) White Paper On Human Factors Engineering Functional Requirements Analysis And Function Allocation For Chemical And Volume Control System</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23272A192</link>
-			<description>Report, Miscellaneous</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2023-10-20 15:25:00</pubDate>
 		</item>
