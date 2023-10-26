@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 26 Oct 2023 17:12:50 GMT</pubDate>
-		<lastBuildDate>Thu, 26 Oct 2023 17:12:50 GMT</lastBuildDate>
+		<pubDate>Thu, 26 Oct 2023 18:17:03 GMT</pubDate>
+		<lastBuildDate>Thu, 26 Oct 2023 18:17:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC Submittal of Presentation Materials Entitled "NuScale Reactor Flange Tool Support Design Topical Report, TR-147226-P," PM-152540, Revision 0 (Open Session)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23296A172</link>
+			<description>Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2023-10-26 13:36:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC Submittal of Presentation Materials Entitled "NuScale Reactor Flange Tool Support Design Topical Report, TR-147226-P," PM-152540, Revision 0 (Open Session)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23296A172</link>
+			<description>Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2023-10-26 13:36:00</pubDate>
+		</item>
 		<item>
 			<title>Kairos Power LLC, Supplemental Information for Environmental Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23291A461</link>
@@ -206,20 +220,6 @@
 			<description>Letter</description>
 			<author>Triso-X, LLC</author>
 			<pubDate>2023-10-20 10:28:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Submittal of Supplemental Topical Report Entitled “Statistical Subchannel Analysis Methodology, Supplement 1 to TR-0915-17564-P-A, Revision 2, Subchannel Analysis Methodology,” TR-108601-P, Revision 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23285A341</link>
-			<description>Legal-Affidavit, Letter, Topical Report</description>
-			<author>NuScale Power, Inc</author>
-			<pubDate>2023-10-20 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Submittal of Supplemental Topical Report Entitled “Statistical Subchannel Analysis Methodology, Supplement 1 to TR-0915-17564-P-A, Revision 2, Subchannel Analysis Methodology,” TR-108601-P, Revision 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23285A341</link>
-			<description>Legal-Affidavit, Letter, Topical Report</description>
-			<author>NuScale Power, Inc</author>
-			<pubDate>2023-10-20 08:33:00</pubDate>
 		</item>
 	</channel>
 </rss>
