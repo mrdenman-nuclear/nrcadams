@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 25 Oct 2023 23:14:14 GMT</pubDate>
-		<lastBuildDate>Wed, 25 Oct 2023 23:14:14 GMT</lastBuildDate>
+		<pubDate>Thu, 26 Oct 2023 14:14:55 GMT</pubDate>
+		<lastBuildDate>Thu, 26 Oct 2023 14:14:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Kairos Power LLC, Supplemental Information for Environmental Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23291A461</link>
+			<description>Letter</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2023-10-26 08:30:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC, Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23291A352</link>
+			<description>Legal-Affidavit</description>
+			<author>SMR, LLC</author>
+			<pubDate>2023-10-26 08:30:00</pubDate>
+		</item>
+		<item>
+			<title>Oklo, Inc., Licensing Project Plan (Fuel Recycling): 3Q2023 Update</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23291A456</link>
+			<description>Letter</description>
+			<author>Oklo Inc</author>
+			<pubDate>2023-10-26 08:30:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1: Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23291A457</link>
+			<description>Legal-Affidavit</description>
+			<author>Oklo Inc</author>
+			<pubDate>2023-10-26 08:30:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 1 - Request for Additional Information on the Radiological Review for the TRISO-X Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23265A263</link>
@@ -192,34 +220,6 @@
 			<description>Legal-Affidavit, Letter, Topical Report</description>
 			<author>NuScale Power, Inc</author>
 			<pubDate>2023-10-20 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>NRC 898 Revised Completeness Determination For NuScale Topical Report TR-0516-49416, "Non-Loss-Of-Coolant Accident Analysis Methodology," Revision 4</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23265A159</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-10-20 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Email Transmitting- Revised Completeness Determination For NuScale Topical Report TR-0516-49416, "Non-Loss-Of-Coolant Accident Analysis Methodology," Revision 4</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23265A154</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-10-20 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of the September 18, 2023, Partially Closed Meeting Between the U.S. Nuclear Regulatory Commission Staff and Abilene Christian University to Discuss Material Control and Accounting Topics for the Molten Salt Research Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23284A421</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2023-10-19 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>Email Summary of MS Teams Meeting with TRISO-X on September 11, 2023, to Discuss the Draft Chemical and Radiological Requests for Additional Information (RAI)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23284A423</link>
-			<description>E-Mail</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2023-10-19 08:29:00</pubDate>
 		</item>
 	</channel>
 </rss>
