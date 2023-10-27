@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 27 Oct 2023 14:15:08 GMT</pubDate>
-		<lastBuildDate>Fri, 27 Oct 2023 14:15:08 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Oct 2023 22:15:39 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Oct 2023 22:15:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>11/09/2023 Pre-Application meeting with X-energy to discuss the proposed Graphite Qualification Plan for the Xe-100 high temperature gas reactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23300A039</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-10-27 10:54:00</pubDate>
+		</item>
+		<item>
+			<title>Completeness Determination Transmittal for the Topical Report On The Quality Assurance Program for Holtec International's Small Modular Reactor (SMR) Design and Construction</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23297A007</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2023-10-27 10:53:00</pubDate>
+		</item>
 		<item>
 			<title>Form 898 - Completeness Determination for the Topical Report on the Quality Assurance Program for Holtec International's Small Modular Reactor (SMR) Design and Construction</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23297A008</link>
@@ -206,20 +220,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2023-10-24 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower - Socioeconomic Characteristic Presentation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23296A252</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2023-10-24 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>08-30-23 Meeting Summary with SMR, LLC, a Holtec International Company to Discuss the SMR-160 Reactor Pressure Vessel Embrittlement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23254A247</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-10-23 08:34:00</pubDate>
 		</item>
 	</channel>
 </rss>
