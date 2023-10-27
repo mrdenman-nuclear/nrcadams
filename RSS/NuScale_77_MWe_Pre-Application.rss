@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 26 Oct 2023 23:14:53 GMT</pubDate>
-		<lastBuildDate>Thu, 26 Oct 2023 23:14:53 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Oct 2023 14:15:08 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Oct 2023 14:15:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2023/10/13 NuScale NPM-20 - NuScale SDAA Chapter 19 - Request for Additional Information No. 002 (RAI-10107-R1)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23286A230</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2023-10-27 08:28:00</pubDate>
+		</item>
+		<item>
+			<title>2023/10/13 NuScale NPM-20 - NuScale SDAA Chapter 13 - Request for Additional Information No. 003 (RAI-10097-R1)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23286A307</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-10-27 08:28:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC Submittal of Presentation Materials Entitled "NuScale Reactor Flange Tool Support Design Topical Report, TR-147226-P," PM-152540, Revision 0 (Open Session)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23296A172</link>
@@ -24,13 +38,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2023-10-25 08:45:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Submittal of Supplemental Topical Report Entitled “Statistical Subchannel Analysis Methodology, Supplement 1 to TR-0915-17564-P-A, Revision 2, Subchannel Analysis Methodology,” TR-108601-P, Revision 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23285A341</link>
-			<description>Legal-Affidavit, Letter, Topical Report</description>
-			<author>NuScale Power, Inc</author>
-			<pubDate>2023-10-20 08:33:00</pubDate>
 		</item>
 	</channel>
 </rss>
