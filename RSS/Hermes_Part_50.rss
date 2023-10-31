@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 30 Oct 2023 23:14:57 GMT</pubDate>
-		<lastBuildDate>Mon, 30 Oct 2023 23:14:57 GMT</lastBuildDate>
+		<pubDate>Tue, 31 Oct 2023 14:17:40 GMT</pubDate>
+		<lastBuildDate>Tue, 31 Oct 2023 14:17:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Legal-Order</description>
 			<author>NRC/SECY</author>
 			<pubDate>2023-10-25 08:46:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Staff Revised Exhibit List</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23297A229</link>
-			<description>Legal-Pleading</description>
-			<author>NRC/OGC</author>
-			<pubDate>2023-10-24 15:53:00</pubDate>
-		</item>
-		<item>
-			<title>NRC-009-R - Staff Presentation Slides - Overview Panel (October 12, 2023)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23297A230</link>
-			<description>Legal-Pre-Filed Exhibits</description>
-			<author>NRC/OGC</author>
-			<pubDate>2023-10-24 15:53:00</pubDate>
 		</item>
 	</channel>
 </rss>

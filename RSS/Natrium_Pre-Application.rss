@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 30 Oct 2023 23:14:57 GMT</pubDate>
-		<lastBuildDate>Mon, 30 Oct 2023 23:14:57 GMT</lastBuildDate>
+		<pubDate>Tue, 31 Oct 2023 14:17:39 GMT</pubDate>
+		<lastBuildDate>Tue, 31 Oct 2023 14:17:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,20 +17,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-10-26 14:37:00</pubDate>
-		</item>
-		<item>
-			<title>10/24/2023 Pre-application meeting with TerraPower to discuss the Socioeconomic Characteristics.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23297A228</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-10-24 14:43:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower - Socioeconomic Characteristic Presentation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23296A252</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2023-10-24 08:29:00</pubDate>
 		</item>
 	</channel>
 </rss>
