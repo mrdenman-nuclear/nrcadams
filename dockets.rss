@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 31 Oct 2023 19:13:54 GMT</pubDate>
-		<lastBuildDate>Tue, 31 Oct 2023 19:13:54 GMT</lastBuildDate>
+		<pubDate>Tue, 31 Oct 2023 20:15:38 GMT</pubDate>
+		<lastBuildDate>Tue, 31 Oct 2023 20:15:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Joint Proposed Transcript Corrections</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23304A219</link>
+			<description>Legal-Pleading</description>
+			<author>Kairos Power, LLC, Morgan, Lewis and Bockius, LLP, NRC/OGC</author>
+			<pubDate>2023-10-31 15:59:00</pubDate>
+		</item>
 		<item>
 			<title>Request for Withholding Information from Public Disclosure for NuScale Power, LLC - 9/11/23</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23276A596</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2023-10-25 10:15:00</pubDate>
-		</item>
-		<item>
-			<title>ORDER (Setting Deadline for Proposed Transcript Corrections)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23297A265</link>
-			<description>Legal-Order</description>
-			<author>NRC/SECY</author>
-			<pubDate>2023-10-25 08:46:00</pubDate>
 		</item>
 	</channel>
 </rss>
