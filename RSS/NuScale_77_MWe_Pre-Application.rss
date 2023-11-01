@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 31 Oct 2023 23:14:18 GMT</pubDate>
-		<lastBuildDate>Tue, 31 Oct 2023 23:14:18 GMT</lastBuildDate>
+		<pubDate>Wed, 01 Nov 2023 14:13:57 GMT</pubDate>
+		<lastBuildDate>Wed, 01 Nov 2023 14:13:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2023/10/18 NuScale NPM-20 - NuScale SDAA Section 9.1.2 - Request for Additional Information No. 004 (RAI-10085-R1)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23291A050</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2023-11-01 08:31:00</pubDate>
+		</item>
+		<item>
+			<title>2023/10/18 NuScale NPM-20 - NuScale SDAA Section 9.2 - Request for Additional Information No. 005 (RAI-10089-R1)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23291A051</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2023-11-01 08:31:00</pubDate>
+		</item>
 		<item>
 			<title>Request for Withholding Information from Public Disclosure for NuScale Power, LLC - 9/11/23</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23276A596</link>
@@ -59,13 +73,6 @@
 			<description>Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2023-10-26 13:36:00</pubDate>
-		</item>
-		<item>
-			<title>2023/10/11 NuScale NPM-20 - NuScale SDAA Chapter 10 - Request for Additional Information No. 001 (RAI-10083-R1)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23284A162</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2023-10-25 08:45:00</pubDate>
 		</item>
 	</channel>
 </rss>

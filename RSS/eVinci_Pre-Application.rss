@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 31 Oct 2023 23:14:17 GMT</pubDate>
-		<lastBuildDate>Tue, 31 Oct 2023 23:14:17 GMT</lastBuildDate>
+		<pubDate>Wed, 01 Nov 2023 14:13:57 GMT</pubDate>
+		<lastBuildDate>Wed, 01 Nov 2023 14:13:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Westinghouse Electric Company - September 15, 2023, Meeting Summary of Closed Meeting regarding the Principal Design Criteria Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23271A068</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2023-10-25 08:45:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse - August 1, 2023 Meeting Summary with Westinghouse Electric Company to discuss eVinci's Reactor Design  Radiation Protection White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23269A091</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2023-10-25 08:45:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

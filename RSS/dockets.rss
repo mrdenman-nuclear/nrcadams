@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 31 Oct 2023 23:14:09 GMT</pubDate>
-		<lastBuildDate>Tue, 31 Oct 2023 23:14:09 GMT</lastBuildDate>
+		<pubDate>Wed, 01 Nov 2023 14:13:46 GMT</pubDate>
+		<lastBuildDate>Wed, 01 Nov 2023 14:13:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>11/30/2023 Pre-submittal meeting with Kairos Power on a core design methodology topical report.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23305A035</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-11-01 09:41:00</pubDate>
+		</item>
+		<item>
+			<title>2023/10/18 NuScale NPM-20 - NuScale SDAA Section 9.1.2 - Request for Additional Information No. 004 (RAI-10085-R1)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23291A050</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2023-11-01 08:31:00</pubDate>
+		</item>
+		<item>
+			<title>2023/10/18 NuScale NPM-20 - NuScale SDAA Section 9.2 - Request for Additional Information No. 005 (RAI-10089-R1)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23291A051</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2023-11-01 08:31:00</pubDate>
+		</item>
+		<item>
+			<title>2023/10/18 NRR E-mail Capture - Request for Additional Information Regarding University of Illinois at Urbana-Champaign (UIUC) Regulatory Applicability Topical Report Release 02</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23291A332</link>
+			<description>E-Mail, Request for Additional Information (RAI)</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2023-11-01 08:31:00</pubDate>
+		</item>
 		<item>
 			<title>Joint Proposed Transcript Corrections</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23304A219</link>
@@ -192,34 +220,6 @@
 			<description>Legal-Affidavit</description>
 			<author>Oklo Inc</author>
 			<pubDate>2023-10-26 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - Request for Additional Information on the Radiological Review for the TRISO-X Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23265A263</link>
-			<description>Request for Additional Information (RAI)</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2023-10-25 16:20:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - Request for Additional Information on the Chemical Review for the TRISO-X Application (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23265A264</link>
-			<description>Request for Additional Information (RAI)</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2023-10-25 16:20:00</pubDate>
-		</item>
-		<item>
-			<title>Request For Additional Information Set 5 For The Radiological And Chemical Review Regarding The TRISO-X, LLC License Application For A New Fuel Fabrication Facility (Enterprise Project Identification Number L-2022-NEW-0005 )</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23265A262</link>
-			<description>Letter, Request for Additional Information (RAI)</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2023-10-25 16:20:00</pubDate>
-		</item>
-		<item>
-			<title>11/13/2023 Meeting with TRISO-X LLC to discuss Environmental and Structural RAIs</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23298A046</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2023-10-25 10:15:00</pubDate>
 		</item>
 	</channel>
 </rss>
