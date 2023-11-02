@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 Nov 2023 15:16:42 GMT</pubDate>
-		<lastBuildDate>Thu, 02 Nov 2023 15:16:42 GMT</lastBuildDate>
+		<pubDate>Thu, 02 Nov 2023 16:18:19 GMT</pubDate>
+		<lastBuildDate>Thu, 02 Nov 2023 16:18:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>11/15/2023 Meeting with TRISO-X LLC to discuss Environmental and Structural RAIs</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23306A087</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2023-11-02 11:43:00</pubDate>
+		</item>
 		<item>
 			<title>2023/10/19 NuScale NPM-20 - NuScale SDAA Section 12.3 - Request for Additional Information No. 006 (RAI-10101-R1)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23292A344</link>
@@ -213,13 +220,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2023-10-27 10:53:00</pubDate>
-		</item>
-		<item>
-			<title>Form 898 - Completeness Determination for the Topical Report on the Quality Assurance Program for Holtec International's Small Modular Reactor (SMR) Design and Construction</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23297A008</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-10-27 10:08:00</pubDate>
 		</item>
 	</channel>
 </rss>
