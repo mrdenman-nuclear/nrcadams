@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 01 Nov 2023 23:14:34 GMT</pubDate>
-		<lastBuildDate>Wed, 01 Nov 2023 23:14:34 GMT</lastBuildDate>
+		<pubDate>Thu, 02 Nov 2023 14:15:20 GMT</pubDate>
+		<lastBuildDate>Thu, 02 Nov 2023 14:15:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2023-11-01 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Acceptance Review of Application for Consent to Direct Transfer of Control of Vallecitos Nuclear Center Licenses and Conforming License Amendments (EPID L-2023-LLO-0002)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23275A174</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DDUWP/RDB</author>
-			<pubDate>2023-10-26 13:07:00</pubDate>
-		</item>
-		<item>
-			<title>GE Hitachi Nuclear Energy - Supplement to GE, GEHA and GNF-A Application for Order Consenting to Indirect Transfer of Control (Reference 1)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23271A087</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>GE Hitachi Nuclear Energy</author>
-			<pubDate>2023-10-26 10:12:00</pubDate>
 		</item>
 	</channel>
 </rss>
