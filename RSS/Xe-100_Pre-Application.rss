@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 Nov 2023 23:15:06 GMT</pubDate>
-		<lastBuildDate>Thu, 02 Nov 2023 23:15:06 GMT</lastBuildDate>
+		<pubDate>Fri, 03 Nov 2023 14:15:09 GMT</pubDate>
+		<lastBuildDate>Fri, 03 Nov 2023 14:15:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>September 21 2023 Summary Meetings with X-energy - Chapter 5 Preliminary Safety Analysis Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23300A064</link>
+			<description>Memoranda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-11-03 08:29:00</pubDate>
+		</item>
+		<item>
+			<title>Cover Letter and Affidavit - X-energy Atmospheric Dispersion and Dose Calculation Methodology Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23304A305</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2023-11-03 08:29:00</pubDate>
+		</item>
 		<item>
 			<title>Severe Accident Mitigation Design Alternatives (SAMDAs)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23298A172</link>
@@ -31,13 +45,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-11-02 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>11/09/2023 Pre-Application meeting with X-energy to discuss the proposed Graphite Qualification Plan for the Xe-100 high temperature gas reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23300A039</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-10-27 10:54:00</pubDate>
 		</item>
 	</channel>
 </rss>

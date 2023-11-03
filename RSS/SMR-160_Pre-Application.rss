@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 Nov 2023 23:15:08 GMT</pubDate>
-		<lastBuildDate>Thu, 02 Nov 2023 23:15:08 GMT</lastBuildDate>
+		<pubDate>Fri, 03 Nov 2023 14:15:09 GMT</pubDate>
+		<lastBuildDate>Fri, 03 Nov 2023 14:15:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>12/07/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding SMR 160+ Update on Soil-Structure Interaction (SSI) Methodology</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23307A026</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-11-03 09:25:00</pubDate>
+		</item>
 		<item>
 			<title>Summary of 09/20/23 Meeting With SMR, LLC, a Holtec Internal Company to Discuss the SMR-160 Concept of Operations and Simulator Development</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23292A273</link>
@@ -38,48 +45,6 @@
 			<description>Meeting Summary</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2023-11-02 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Completeness Determination Transmittal for the Topical Report On The Quality Assurance Program for Holtec International's Small Modular Reactor (SMR) Design and Construction</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23297A007</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-10-27 10:53:00</pubDate>
-		</item>
-		<item>
-			<title>Form 898 - Completeness Determination for the Topical Report on the Quality Assurance Program for Holtec International's Small Modular Reactor (SMR) Design and Construction</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23297A008</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-10-27 10:08:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - 7-19-23 Meeting Agenda of the Public Meeting with SMR, LLC, a Holtec International Company, to Discuss SMR-160 Verification and Validation of Codes</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23121A012</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-10-27 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - 7-19-23 Meeting Attendees of the Public Meeting with SMR, LLC, a Holtec International Company, to Discuss SMR-160 Verification and Validation of Codes</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23121A013</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-10-27 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>7-19-23 Meeting Summary of the Public Meeting with SMR, LLC, a Holtec International Company, to Discuss SMR-160 Verification and Validation of Codes</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23121A015</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-10-27 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3 - 7-19-23 Meeting Summary of Public Meeting with SMR, LLC, a Holtec International Company, to Discuss Verification and Validation of Codes</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23121A014</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-10-27 08:28:00</pubDate>
 		</item>
 	</channel>
 </rss>
