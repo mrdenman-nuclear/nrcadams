@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 03 Nov 2023 14:15:00 GMT</pubDate>
-		<lastBuildDate>Fri, 03 Nov 2023 14:15:00 GMT</lastBuildDate>
+		<pubDate>Fri, 03 Nov 2023 15:15:08 GMT</pubDate>
+		<lastBuildDate>Fri, 03 Nov 2023 15:15:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>X-Energy, LLC, Presentation Materials - Xe-100 Graphite Engagement: ASME Service Level Definition, LBE Mapping, and Design Loadings for Graphite Core Assembly</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23303A206</link>
+			<description>Letter</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2023-11-03 10:34:00</pubDate>
+		</item>
+		<item>
+			<title>X-Energy, LLC, Affidavit Supporting Request for Withholding from Public Disclosure (10 CFR 2.390)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23303A207</link>
+			<description>Legal-Affidavit</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2023-11-03 10:34:00</pubDate>
+		</item>
+		<item>
+			<title>X-Energy, LLC, Xe-100 Graphite Engagement: ASME Service Level Definition, LBE Mapping, and Design Loadings for Graphite Core Assembly</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23303A208</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2023-11-03 10:34:00</pubDate>
+		</item>
 		<item>
 			<title>12/07/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding SMR 160+ Update on Soil-Structure Interaction (SSI) Methodology</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23307A026</link>
@@ -199,27 +220,6 @@
 			<description>E-Mail, Request for Additional Information (RAI)</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2023-11-01 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Joint Proposed Transcript Corrections</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23304A219</link>
-			<description>Legal-Pleading</description>
-			<author>Kairos Power, LLC, Morgan, Lewis and Bockius, LLP, NRC/OGC</author>
-			<pubDate>2023-10-31 15:59:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Information from Public Disclosure for NuScale Power, LLC - 9/11/23</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23276A596</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-10-31 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Terrestrial - U.S. Nuclear Regulatory Commission Feedback Regarding Revision of Technical Report on Uncertainty Quantification Methodology</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23286A100</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2023-10-31 08:33:00</pubDate>
 		</item>
 	</channel>
 </rss>
