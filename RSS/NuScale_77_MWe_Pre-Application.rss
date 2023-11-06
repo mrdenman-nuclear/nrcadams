@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 03 Nov 2023 23:15:58 GMT</pubDate>
-		<lastBuildDate>Fri, 03 Nov 2023 23:15:58 GMT</lastBuildDate>
+		<pubDate>Mon, 06 Nov 2023 14:18:43 GMT</pubDate>
+		<lastBuildDate>Mon, 06 Nov 2023 14:18:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,13 +59,6 @@
 			<description>Legal-Affidavit, Letter</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2023-10-31 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Submittal of Topical Report "Rod Ejection Accident Methodology," TR-0716-50350, Revision 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23293A292</link>
-			<description>Letter, Topical Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2023-10-30 08:30:00</pubDate>
 		</item>
 	</channel>
 </rss>
