@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 06 Nov 2023 17:14:33 GMT</pubDate>
-		<lastBuildDate>Mon, 06 Nov 2023 17:14:33 GMT</lastBuildDate>
+		<pubDate>Mon, 06 Nov 2023 18:17:34 GMT</pubDate>
+		<lastBuildDate>Mon, 06 Nov 2023 18:17:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>11/09/2023 Pre-Application meeting with X-energy to discuss the proposed Graphite Qualification Plan for the Xe-100 high temperature gas reactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23310A111</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-11-06 13:16:00</pubDate>
+		</item>
 		<item>
 			<title>09/27/2023 Summary of Meeting with TRISO-X to Discuss Draft Requests for Additional Information Responses on Integrated Safety Analysis</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23286A083</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23292A238</link>
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR</author>
-			<pubDate>2023-11-02 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of 09/20/23 Meeting With SMR, LLC, a Holtec Internal Company to Discuss the SMR-160 Concept of Operations and Simulator Development</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23292A273</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2023-11-02 08:28:00</pubDate>
 		</item>
 	</channel>
