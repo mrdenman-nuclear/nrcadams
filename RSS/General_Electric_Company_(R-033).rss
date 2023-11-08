@@ -5,32 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 07 Nov 2023 23:15:35 GMT</pubDate>
-		<lastBuildDate>Tue, 07 Nov 2023 23:15:35 GMT</lastBuildDate>
+		<pubDate>Wed, 08 Nov 2023 14:16:40 GMT</pubDate>
+		<lastBuildDate>Wed, 08 Nov 2023 14:16:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2023/10/25 NRR E-mail Capture - GE-HITACHI NUCLEAR ENERGY AMERICAS, LLC - REGULATORY AUDIT RE: REQUEST FOR POSSESSION-ONLY LICENSE AMENDMENT TO RENEWED FACILITY OPERATING LICENSE NO. R-33</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23298A154</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2023-11-08 08:29:00</pubDate>
+		</item>
 		<item>
 			<title>GE-Hitachi Nuclear Energy Americas, LLC - Request for Withholding Information from Public Disclosure</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23299A095</link>
 			<description>Letter, Proprietary Information Review</description>
 			<author>NRC/NRR/DANU/UNPL</author>
 			<pubDate>2023-11-07 15:39:00</pubDate>
-		</item>
-		<item>
-			<title>GE Hitachi Nuclear Energy Additional Supplemental Information - Revised Exhibit H</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23305A052</link>
-			<description>Letter</description>
-			<author>GE Hitachi Nuclear Energy</author>
-			<pubDate>2023-11-01 14:14:00</pubDate>
-		</item>
-		<item>
-			<title>2023/10/18 NRR E-mail Capture - GE-HITACHI NUCLEAR ENERGY AMERICAS LLC - ACCEPTANCE OF THE APPLICATION FOR A POSSESSION-ONLY LICENSE AMENDMENT (EPID L-2023-LLA-0139)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23291A108</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2023-11-01 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
