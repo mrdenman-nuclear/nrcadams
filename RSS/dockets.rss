@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 Nov 2023 19:12:01 GMT</pubDate>
-		<lastBuildDate>Thu, 09 Nov 2023 19:12:01 GMT</lastBuildDate>
+		<pubDate>Thu, 09 Nov 2023 20:16:23 GMT</pubDate>
+		<lastBuildDate>Thu, 09 Nov 2023 20:16:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>11/27/2023 Consultations under NHPA Regarding Kairos Hermes CP Application Review</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23313A172</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2023-11-09 14:54:00</pubDate>
+		</item>
+		<item>
+			<title>Response to Request for Additional Information (Set 4) for the TRISO-X License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23312A338</link>
+			<description>Letter, Response to Request for Additional Information (RAI)</description>
+			<author>TRISO-X</author>
+			<pubDate>2023-11-09 14:23:00</pubDate>
+		</item>
 		<item>
 			<title>Transmittal Email - Westinghouse Electric Co, LLC- Audit Plan for Topical Reports on the Advanced Logic System Version 2 Digital Platform and Development Process</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23305A008</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23286A083</link>
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2023-11-06 08:56:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Response to Hermes 2 General Audit Question 1.5-1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23300A143</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2023-11-06 08:56:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Response to Hermes 2 General Audit Question 1.5-1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23300A143</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>Kairos Power, LLC</author>
 			<pubDate>2023-11-06 08:56:00</pubDate>
 		</item>
 	</channel>
