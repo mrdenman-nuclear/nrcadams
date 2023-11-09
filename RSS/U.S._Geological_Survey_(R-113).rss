@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 Nov 2023 16:19:46 GMT</pubDate>
-		<lastBuildDate>Thu, 09 Nov 2023 16:19:46 GMT</lastBuildDate>
+		<pubDate>Thu, 09 Nov 2023 17:14:39 GMT</pubDate>
+		<lastBuildDate>Thu, 09 Nov 2023 17:14:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>United States Geological Survey - U.S. Nuclear Regulatory Commission Security Inspection Report No. 05000274/2023203 (Public)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23243A975</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2023-11-09 11:56:00</pubDate>
+		</item>
+	</channel>
 </rss>
