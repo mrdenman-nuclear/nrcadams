@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 Nov 2023 21:14:51 GMT</pubDate>
-		<lastBuildDate>Thu, 09 Nov 2023 21:14:51 GMT</lastBuildDate>
+		<pubDate>Mon, 13 Nov 2023 14:14:24 GMT</pubDate>
+		<lastBuildDate>Mon, 13 Nov 2023 14:14:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,41 +38,6 @@
 			<description>Meeting Summary</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2023-11-07 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC Meeting Presentation Materials for November 8, 2023 (Non-Proprietary)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23301A005</link>
-			<description>Slides and Viewgraphs</description>
-			<author>SMR, LLC</author>
-			<pubDate>2023-11-06 08:56:00</pubDate>
-		</item>
-		<item>
-			<title>SSI Analysis Methodology White Paper (Non-Proprietary)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23301A007</link>
-			<description>Technical Paper</description>
-			<author>SMR, LLC</author>
-			<pubDate>2023-11-06 08:56:00</pubDate>
-		</item>
-		<item>
-			<title>Affidavit of Andrew J. Brenner</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23301A008</link>
-			<description>Legal-Affidavit</description>
-			<author>SMR, LLC</author>
-			<pubDate>2023-11-06 08:56:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC Preapplication Meeting Materials for November 8, 2023 (Project No. 99902049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23301A003</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
-			<pubDate>2023-11-06 08:56:00</pubDate>
-		</item>
-		<item>
-			<title>12/07/2023 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding SMR 160+ Update on Soil-Structure Interaction (SSI) Methodology</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23307A026</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-11-03 09:25:00</pubDate>
 		</item>
 	</channel>
 </rss>
