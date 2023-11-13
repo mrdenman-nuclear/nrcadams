@@ -5,11 +5,39 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 Nov 2023 17:16:55 GMT</pubDate>
-		<lastBuildDate>Mon, 13 Nov 2023 17:16:55 GMT</lastBuildDate>
+		<pubDate>Mon, 13 Nov 2023 18:17:34 GMT</pubDate>
+		<lastBuildDate>Mon, 13 Nov 2023 18:17:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>NuScale Power, LLC, Submittal of Additional Information with the NuScale Standard Design Approval Application, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23306A274</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2023-11-13 08:38:00</pubDate>
+		</item>
+		<item>
+			<title>Nuscale, Table 9.1.4-2 - Classification of Structures, Systems, and Components</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23306A276</link>
+			<description>Graphics incl Charts and Tables</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2023-11-13 08:38:00</pubDate>
+		</item>
+		<item>
+			<title>Nuscale, Table 9.1.5-2 - Classification of Structures, Systems, and Components</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23306A277</link>
+			<description>Graphics incl Charts and Tables</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2023-11-13 08:38:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale, Final Safety Analysis Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23306A278</link>
+			<description>Final Safety Analysis Report (FSAR), Graphics incl Charts and Tables</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2023-11-13 08:38:00</pubDate>
+		</item>
+	</channel>
 </rss>
