@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 Nov 2023 23:14:20 GMT</pubDate>
-		<lastBuildDate>Mon, 13 Nov 2023 23:14:20 GMT</lastBuildDate>
+		<pubDate>Tue, 14 Nov 2023 14:15:19 GMT</pubDate>
+		<lastBuildDate>Tue, 14 Nov 2023 14:15:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2023-11-08 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>GE-Hitachi Nuclear Energy Americas, LLC - Request for Withholding Information from Public Disclosure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23299A095</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2023-11-07 15:39:00</pubDate>
 		</item>
 	</channel>
 </rss>

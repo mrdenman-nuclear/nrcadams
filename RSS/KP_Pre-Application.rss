@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 Nov 2023 23:14:28 GMT</pubDate>
-		<lastBuildDate>Mon, 13 Nov 2023 23:14:28 GMT</lastBuildDate>
+		<pubDate>Tue, 14 Nov 2023 14:15:28 GMT</pubDate>
+		<lastBuildDate>Tue, 14 Nov 2023 14:15:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Letter</description>
 			<author>Kairos Power, LLC</author>
 			<pubDate>2023-11-08 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Request for Additional Security Guidance References</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23304A311</link>
-			<description>E-Mail</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2023-11-07 08:36:00</pubDate>
 		</item>
 	</channel>
 </rss>
