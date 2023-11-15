@@ -5,25 +5,39 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 14 Nov 2023 23:15:30 GMT</pubDate>
-		<lastBuildDate>Tue, 14 Nov 2023 23:15:30 GMT</lastBuildDate>
+		<pubDate>Wed, 15 Nov 2023 14:16:49 GMT</pubDate>
+		<lastBuildDate>Wed, 15 Nov 2023 14:16:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>FRN-Notice of Consideration of Approval of Direct Transfer of Control of Vallecitos Nuclear Center Licenses Conforming License Amendments Opportunity for A Hearing Transmittal Letter</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23310A113</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DDUWP/RDB</author>
+			<pubDate>2023-11-15 08:32:00</pubDate>
+		</item>
+		<item>
+			<title>2023/11/01 NRR E-mail Capture - GE-HITACHI NUCLEAR ENERGY AMERICAS, LLC - REQUEST FOR ADDITIONAL INFORMATION REGUARDING LICENSE AMENDMENT REQUEST FOR A POSSESSION-ONLY LICENSE FOR THE GE HITACHI NUCLEAR TEST REACTOR</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23305A051</link>
+			<description>E-Mail, Request for Additional Information (RAI)</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2023-11-15 08:31:00</pubDate>
+		</item>
+		<item>
+			<title>GE-Hitachi Nuclear Energy Americas LLC - U.S. Nuclear Regulatory Commission Routine Security Inspection Report 05000073/2023202</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23268A373</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2023-11-15 08:31:00</pubDate>
+		</item>
 		<item>
 			<title>Federal Register Notice for Review of Application for Consent to Direct Transfer of Control of Vallecitos Nuclear Center Licenses and Conforming License Amendments</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23300A024</link>
 			<description>Federal Register Notice</description>
 			<author>NRC/NMSS/DDUWP/RDB</author>
 			<pubDate>2023-11-09 13:04:00</pubDate>
-		</item>
-		<item>
-			<title>2023/10/25 NRR E-mail Capture - GE-HITACHI NUCLEAR ENERGY AMERICAS, LLC - REGULATORY AUDIT RE: REQUEST FOR POSSESSION-ONLY LICENSE AMENDMENT TO RENEWED FACILITY OPERATING LICENSE NO. R-33</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23298A154</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2023-11-08 08:29:00</pubDate>
 		</item>
 	</channel>
 </rss>
