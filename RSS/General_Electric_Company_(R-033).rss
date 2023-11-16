@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 15 Nov 2023 23:16:26 GMT</pubDate>
-		<lastBuildDate>Wed, 15 Nov 2023 23:16:26 GMT</lastBuildDate>
+		<pubDate>Thu, 16 Nov 2023 14:16:19 GMT</pubDate>
+		<lastBuildDate>Thu, 16 Nov 2023 14:16:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DANU/UNPO</author>
 			<pubDate>2023-11-15 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Federal Register Notice for Review of Application for Consent to Direct Transfer of Control of Vallecitos Nuclear Center Licenses and Conforming License Amendments</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23300A024</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NMSS/DDUWP/RDB</author>
-			<pubDate>2023-11-09 13:04:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 15 Nov 2023 23:16:25 GMT</pubDate>
-		<lastBuildDate>Wed, 15 Nov 2023 23:16:25 GMT</lastBuildDate>
+		<pubDate>Thu, 16 Nov 2023 14:16:19 GMT</pubDate>
+		<lastBuildDate>Thu, 16 Nov 2023 14:16:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TerraPower, LLC, Transmittal of Topical Report, "Radiological Release Consequences Methodology," Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23311A139</link>
+			<description>Legal-Affidavit, Letter, Topical Report</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2023-11-16 08:40:00</pubDate>
+		</item>
+		<item>
+			<title>University of Illinois at Urbana-Champaign - Online Reference Portal Information Access Agreement</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23283A306</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2023-11-16 08:40:00</pubDate>
+		</item>
+		<item>
+			<title>12/12/2023 Westinghouse Presubmittal Meeting on AP300 White Paper #2 and White Paper #4 on Localized 1E Power System & Safety and I&C Concept of Operations</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23320A045</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-11-16 08:32:00</pubDate>
+		</item>
 		<item>
 			<title>2023/11/01 NRR E-mail Capture - Response to Kairos Request for Non-Public Documents Related to Security</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23305A050</link>
@@ -198,27 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23306A278</link>
 			<description>Final Safety Analysis Report (FSAR), Graphics incl Charts and Tables</description>
 			<author>NuScale Power, LLC</author>
-			<pubDate>2023-11-13 08:38:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Form 898 Topical Report Completeness Determination - GOTHIC and Flownex Qualification</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23304A102</link>
-			<description>Administrative Form, NRC</description>
-			<author>NRC/NRR/DANU/UTB1</author>
-			<pubDate>2023-11-13 08:38:00</pubDate>
-		</item>
-		<item>
-			<title>2023/11/01 Hermes CP Doc - [External_Sender] Construction of Kairos Power, LLC, Hermes Non-Power Test Reactor, ETTP - Project # SHPO0001832</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23307A055</link>
-			<description>E-Mail</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2023-11-13 08:38:00</pubDate>
-		</item>
-		<item>
-			<title>Email Transmitting - Completeness Determination for NuScale Topical Report TR-141299, "NuScale Power Plant Design Capability to Mitigate Beyond-Design-Basis Events Defined by 10 CFR 50.155," Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23305A003</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2023-11-13 08:38:00</pubDate>
 		</item>
 	</channel>
