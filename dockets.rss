@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 17 Nov 2023 15:15:28 GMT</pubDate>
-		<lastBuildDate>Fri, 17 Nov 2023 15:15:28 GMT</lastBuildDate>
+		<pubDate>Fri, 17 Nov 2023 16:18:16 GMT</pubDate>
+		<lastBuildDate>Fri, 17 Nov 2023 16:18:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submittal of "University of Illinois Urbana-Champaign High Temperature Gas-cooled Research Reactor: Micro Modular Reactor (MMR TM) Principal Design Criteria" Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23319A408</link>
+			<description>Letter</description>
+			<author>Univ of Illinois - Urbana - Champaign</author>
+			<pubDate>2023-11-17 10:36:00</pubDate>
+		</item>
+		<item>
+			<title>"University of Illinois Urbana-Champaign High Temperature Gas-cooled Research Reactor: Micro Modular Reactor (MMR TM) Principal Design Criteria" Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23319A409</link>
+			<description>Topical Report</description>
+			<author>Ultra Safe Nuclear Corporation</author>
+			<pubDate>2023-11-17 10:36:00</pubDate>
+		</item>
 		<item>
 			<title>Request for Withholding Information from Public Disclosure for NuScale Power, LLC</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23304A124</link>
@@ -204,20 +218,6 @@
 			<title>NuScale Power, LLC Revision 1 to Standard Design Approval Application, Part 2, Chapter 14, Initial Test Program and Inspections, Tests, Analyses, and Acceptance Criteria</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23304A364</link>
 			<description>License-Application for Combined License (COL) (Amend/Renewal) DKT 52, Final Safety Analysis Report (FSAR)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2023-11-16 12:09:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Revision 1 to Standard Design Approval Application, Part 2, Chapter 15, Transient and Accident Analyses</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23304A365</link>
-			<description>License-Application for Combined License (COL) (Amend/Renewal) DKT 52, Final Safety Analysis Report (FSAR)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2023-11-16 12:09:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Revision 1 to Standard Design Approval Application, Part 2, Chapter 15, TR-102621-NP, Rev. 1, "Treatment of DC Power in Safety Analyses"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23304A366</link>
-			<description>License-Application for Combined License (COL) (Amend/Renewal) DKT 52, Report, Technical, Final Safety Analysis Report (FSAR)</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2023-11-16 12:09:00</pubDate>
 		</item>
