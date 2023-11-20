@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 17 Nov 2023 23:17:03 GMT</pubDate>
-		<lastBuildDate>Fri, 17 Nov 2023 23:17:03 GMT</lastBuildDate>
+		<pubDate>Mon, 20 Nov 2023 14:17:55 GMT</pubDate>
+		<lastBuildDate>Mon, 20 Nov 2023 14:17:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC Advanced Safety Evaluation for NuScale Topical Report, TR-108601-P, Revision 4, "Statistical Subchannel Analysis Methodology, Supplement 1 to TR-0915-17564-P-A, Revision 2, Subchannel Analysis Methodology" - Non-Proprietary</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23277A007</link>
+			<description>Safety Evaluation</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-11-20 08:37:00</pubDate>
+		</item>
+		<item>
+			<title>ACRS Memo for NRC Safety Evaluation for NuScale Topical Report, TR-108601-P, Revision 4, "Statistical Subchannel Analysis Methodology, Supplement 1 to TR-0915-17564-P-A, Revision 2, Subchannel Analysis Methodology"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23270A001</link>
+			<description>Memoranda</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-11-20 08:36:00</pubDate>
+		</item>
 		<item>
 			<title>Request for Withholding Information from Public Disclosure for NuScale Power, LLC</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23304A124</link>
@@ -45,20 +59,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2023-11-14 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Completeness Determination for NuScale Topical Report TR-141299, "NuScale Power Plant Design Capability to Mitigate Beyond-Design-Basis Events Defined by 10 CFR 50.155," Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23305A004</link>
-			<description>Administrative Form, NRC</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-11-13 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>Email Transmitting - Completeness Determination for NuScale Topical Report TR-141299, "NuScale Power Plant Design Capability to Mitigate Beyond-Design-Basis Events Defined by 10 CFR 50.155," Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23305A003</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-11-13 08:38:00</pubDate>
 		</item>
 	</channel>
 </rss>

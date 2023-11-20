@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 17 Nov 2023 23:17:04 GMT</pubDate>
-		<lastBuildDate>Fri, 17 Nov 2023 23:17:04 GMT</lastBuildDate>
+		<pubDate>Mon, 20 Nov 2023 14:17:55 GMT</pubDate>
+		<lastBuildDate>Mon, 20 Nov 2023 14:17:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2023/11/06 Hermes CP Doc - [External_Sender] Construction of Kairos Power, LLC, Hermes Non-Power Test Reactor, ETTP - Project # SHPO0001832</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23317A368</link>
+			<description>E-Mail</description>
+			<author>- No Known Affiliation</author>
+			<pubDate>2023-11-20 08:37:00</pubDate>
+		</item>
 		<item>
 			<title>Summary of the October 26, 2023 Meeting with Tennessee Historical Commission Regarding Section 106 Consultations</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23305A009</link>
@@ -38,13 +45,6 @@
 			<description>Legal-Order</description>
 			<author>NRC/SECY</author>
 			<pubDate>2023-11-14 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>2023/11/01 Hermes CP Doc - [External_Sender] Construction of Kairos Power, LLC, Hermes Non-Power Test Reactor, ETTP - Project # SHPO0001832</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23307A055</link>
-			<description>E-Mail</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2023-11-13 08:38:00</pubDate>
 		</item>
 	</channel>
 </rss>
