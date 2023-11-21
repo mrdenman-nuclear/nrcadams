@@ -5,18 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Nov 2023 17:18:16 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Nov 2023 17:18:16 GMT</lastBuildDate>
+		<pubDate>Tue, 21 Nov 2023 18:23:13 GMT</pubDate>
+		<lastBuildDate>Tue, 21 Nov 2023 18:23:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>12/04/2023 Meeting with TRISO-X LLC to discuss ISA RAIs</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23325A117</link>
+			<title>12/11/2023 Meeting with TRISO-X LLC to discuss ISA RAIs</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23325A137</link>
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
-			<pubDate>2023-11-21 11:59:00</pubDate>
+			<pubDate>2023-11-21 12:39:00</pubDate>
+		</item>
+		<item>
+			<title>12/05/2023 Pre-Application Meeting with TerraPower to discuss Material Qualification for the Natrium design.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23325A059</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-11-21 12:19:00</pubDate>
 		</item>
 		<item>
 			<title>Request for Withholding Information from Public Disclosure for X-Energy, LLC – Regulatory Engagement Plan 2023, Rev. 2</title>
@@ -210,13 +217,6 @@
 		<item>
 			<title>NuScale Power, LLC Response to NRCs Request for Docketing of Resolved Audit Responses, Chapter 11, Section 11.5-1, Information related to Process and Effluent Radiation Monitoring Instrumentation and Sampling System</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23304A474</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2023-11-20 13:06:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Response to NRCs Request for Docketing of Resolved Audit Responses, Chapter 11, Response to SDAA Question 11.5-2, re Information related to FSAR Section 11.5, “Process and Effluent Radiation Monitoring Instrumentation and Sampling.....</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23304A475</link>
 			<description>Response to Request for Additional Information (RAI)</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2023-11-20 13:06:00</pubDate>
