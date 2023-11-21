@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 20 Nov 2023 23:18:19 GMT</pubDate>
-		<lastBuildDate>Mon, 20 Nov 2023 23:18:19 GMT</lastBuildDate>
+		<pubDate>Tue, 21 Nov 2023 14:16:07 GMT</pubDate>
+		<lastBuildDate>Tue, 21 Nov 2023 14:16:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,27 +24,6 @@
 			<description>Legal-Affidavit</description>
 			<author>Oklo Inc</author>
 			<pubDate>2023-11-17 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo Inc., Transmittal of White Paper Entitled, "Approach to Seismic Design Categorization and Site Characterization"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23307A221</link>
-			<description>Letter</description>
-			<author>Oklo Inc</author>
-			<pubDate>2023-11-14 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo Inc., Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23307A224</link>
-			<description>Legal-Affidavit</description>
-			<author>Oklo Inc</author>
-			<pubDate>2023-11-14 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo Meeting Summary August 1 2023 (Cover Letter and Enclosure 1)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23242A156</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-11-14 08:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
