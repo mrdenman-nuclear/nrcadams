@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Nov 2023 20:13:53 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Nov 2023 20:13:53 GMT</lastBuildDate>
+		<pubDate>Tue, 21 Nov 2023 21:16:34 GMT</pubDate>
+		<lastBuildDate>Tue, 21 Nov 2023 21:16:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>12/12/2023 Notice of Meeting with X Energy LLC</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23320A145</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-11-21 16:10:00</pubDate>
+		</item>
 		<item>
 			<title>12/11/2023 Meeting with TRISO-X LLC to discuss ISA RAIs</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23325A137</link>
@@ -210,13 +217,6 @@
 		<item>
 			<title>NuScale Power, LLC Response to NRCs Request for Docketing of Resolved Audit Responses, Chapter 11, Response to SDAA Question 11.4-5, re Solid Waste Management System</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23304A473</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2023-11-20 13:06:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Response to NRCs Request for Docketing of Resolved Audit Responses, Chapter 11, Section 11.5-1, Information related to Process and Effluent Radiation Monitoring Instrumentation and Sampling System</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23304A474</link>
 			<description>Response to Request for Additional Information (RAI)</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2023-11-20 13:06:00</pubDate>
