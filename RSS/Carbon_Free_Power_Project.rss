@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Nov 2023 23:15:58 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Nov 2023 23:15:58 GMT</lastBuildDate>
+		<pubDate>Tue, 28 Nov 2023 23:45:03 GMT</pubDate>
+		<lastBuildDate>Tue, 28 Nov 2023 23:45:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Withdrawal of Limited Work Authorization, Exemption Request, and Topical Reports Associated with Carbon Free Power Project, LLC Combined License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23319A056</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-11-28 08:27:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC Requests NRC to Provide Feedback on the COLA Readiness Assessment and Terminate Review of the COLA Cyber Security White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23320A094</link>
+			<description>Letter</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2023-11-27 08:32:00</pubDate>
+		</item>
+	</channel>
 </rss>

@@ -5,39 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Nov 2023 23:15:58 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Nov 2023 23:15:58 GMT</lastBuildDate>
+		<pubDate>Tue, 28 Nov 2023 23:45:03 GMT</pubDate>
+		<lastBuildDate>Tue, 28 Nov 2023 23:45:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>NRC Advanced Safety Evaluation for NuScale Topical Report, TR-108601-P, Revision 4, "Statistical Subchannel Analysis Methodology, Supplement 1 to TR-0915-17564-P-A, Revision 2, Subchannel Analysis Methodology" - Non-Proprietary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23277A007</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-11-20 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>ACRS Memo for NRC Safety Evaluation for NuScale Topical Report, TR-108601-P, Revision 4, "Statistical Subchannel Analysis Methodology, Supplement 1 to TR-0915-17564-P-A, Revision 2, Subchannel Analysis Methodology"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23270A001</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-11-20 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Information from Public Disclosure for NuScale Power, LLC</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23304A124</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-11-17 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of Supplemental Topical Report Entitled "Statistical Subchannel Analysis Methodology, Supplement 1 to TR-0915-17564-P-A, Revision 2, Subchannel Analysis Methodology," TR-108601-P, Revision 4</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23310A122</link>
-			<description>Legal-Affidavit, Letter, Topical Report</description>
+			<title>NuScale Power, LLC, Submittal of Presentation Materials Entitled "TR-147121, Rev. 0, Supplement 1 to HIPS Topical Report," PM-153501, Revision 0 (Open Session)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23324A274</link>
+			<description>Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NuScale Power, LLC</author>
-			<pubDate>2023-11-15 08:31:00</pubDate>
+			<pubDate>2023-11-28 10:36:00</pubDate>
+		</item>
+		<item>
+			<title>2023/11/11 NuScale NPM-20 - NuScale SDAA Section 9.5.3 - Request for Additional Information No. 009 (RAI-10106-R1)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23317A414</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2023-11-27 08:32:00</pubDate>
+		</item>
+		<item>
+			<title>Meeting Summary - NuScale SDAA - NuScale NRC Management Public Meeting November 7, 2023 (Non-prop)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23320A032</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-11-24 08:40:00</pubDate>
 		</item>
 	</channel>
 </rss>

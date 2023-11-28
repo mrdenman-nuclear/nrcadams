@@ -5,25 +5,39 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Nov 2023 23:15:58 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Nov 2023 23:15:58 GMT</lastBuildDate>
+		<pubDate>Tue, 28 Nov 2023 23:45:02 GMT</pubDate>
+		<lastBuildDate>Tue, 28 Nov 2023 23:45:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>Submittal of SMR, LLC Preapplication Meeting Materials for November 29, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23319A434</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
-			<pubDate>2023-11-20 15:10:00</pubDate>
+			<title>Memoranda 9-13-23 Public Meeting Summary, SMR-160+ I&C Conformance to IEEE 603</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23296A005</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2023-11-28 15:42:00</pubDate>
 		</item>
 		<item>
-			<title>SMR, LLC Meeting Presentation Materials for November 29, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23319A435</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2023-11-20 14:24:00</pubDate>
+			<title>Enclosure 1: 9-13-23 Public Meeting Agenda, SMR-160+ I&C Conformance to IEEE</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23296A002</link>
+			<description>Meeting Agenda</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2023-11-28 15:42:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: 9-13-23 Public Meeting Attendees, SMR-160+ I&C Conformance to IEEE</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23296A003</link>
+			<description>- No Document Type Applies</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2023-11-28 15:42:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 3: 9-13-23 Public Meeting Summary, SMR-160+ I&C Conformance to IEEE 6</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23296A004</link>
+			<description>Meeting Summary</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2023-11-28 15:42:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Nov 2023 23:15:58 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Nov 2023 23:15:58 GMT</lastBuildDate>
+		<pubDate>Tue, 28 Nov 2023 23:45:00 GMT</pubDate>
+		<lastBuildDate>Tue, 28 Nov 2023 23:45:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>12/12/2023 Westinghouse Presubmittal Meeting on AP300 White Paper #2 on Localized 1E Power System & Safety</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23325A013</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-11-21 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Letter Response to Request for Withholding Proprietary Information from Public Disclosure, "Presentation Slides to Support the Westinghouse-NRC Pre-Submittal Meeting on the Westinghouse AP300™ SMR Design Description Overview White Paper."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23312A001</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-11-20 08:36:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

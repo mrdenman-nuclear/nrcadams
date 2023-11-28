@@ -5,32 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Nov 2023 23:15:58 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Nov 2023 23:15:58 GMT</lastBuildDate>
+		<pubDate>Tue, 28 Nov 2023 23:45:00 GMT</pubDate>
+		<lastBuildDate>Tue, 28 Nov 2023 23:45:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>12/12/2023 Notice of Meeting with X Energy LLC</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23320A145</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-11-21 16:10:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Information from Public Disclosure for X-Energy, LLC – Regulatory Engagement Plan 2023, Rev. 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23299A119</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2023-11-21 08:52:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of X-Energy, LLC, XENITHTM Microreactor Pre-Application Regulatory Engagement Plan (REP)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23317A095</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2023-11-20 08:36:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
