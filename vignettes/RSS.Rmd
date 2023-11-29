@@ -57,7 +57,7 @@ last_week_in_RTRs = nrcadams::RTR_docket_codex |>
   nrcadams::search_docket(days_back = 7)
 
 if (length(last_week_in_RTRs) != 0) {
-  last_week_in_RTRs
+  last_week_in_RTRs |>
     dplyr::left_join(nrcadams::RTR_docket_codex) |>
     dplyr::filter(!is.na(Project))
     
