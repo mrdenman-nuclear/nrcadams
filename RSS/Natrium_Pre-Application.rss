@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 28 Nov 2023 23:45:01 GMT</pubDate>
-		<lastBuildDate>Tue, 28 Nov 2023 23:45:01 GMT</lastBuildDate>
+		<pubDate>Wed, 29 Nov 2023 18:46:46 GMT</pubDate>
+		<lastBuildDate>Wed, 29 Nov 2023 18:46:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,20 +59,6 @@
 			<description>Legal-Affidavit, Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2023-11-24 08:40:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC - Withholding Proprietary Information from Public Disclosure - Terrapower, LLC. I&C Architecture and Design Basis Presentation Material</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23214A390</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-11-22 08:48:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of the April 25, 2023, Partially Closed Meeting with TerraPower, LLC, Use of Safety Analysis (SAS) Code</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23222A184</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-11-22 08:48:00</pubDate>
 		</item>
 	</channel>
 </rss>
