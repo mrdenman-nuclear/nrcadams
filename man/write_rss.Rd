@@ -28,7 +28,7 @@ write_rss(
   doc_title = Title,
   doc_author = Affiliation,
   doc_description = Type,
-  doc_date = `Document Date`,
+  doc_date = `Publish Date`,
   ...
 )
 }
