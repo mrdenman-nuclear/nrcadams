@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 30 Nov 2023 16:19:43 GMT</pubDate>
-		<lastBuildDate>Thu, 30 Nov 2023 16:19:43 GMT</lastBuildDate>
+		<pubDate>Thu, 30 Nov 2023 17:13:39 GMT</pubDate>
+		<lastBuildDate>Thu, 30 Nov 2023 17:13:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>October 5 2023 Meeting Summary Public Meeting With X-Energy to Discuss Graphite Qualification</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23319A239</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-11-30 12:00:00</pubDate>
+		</item>
+		<item>
+			<title>12/13/2023 Pre-Application Meeting with TerraPower to discuss Cooling Water Availability for the Natrium design.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23334A083</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-11-30 11:43:00</pubDate>
+		</item>
+		<item>
+			<title>12/05/2023 Pre-Application Meeting with TerraPower to discuss Material Qualification for the Natrium design.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23334A084</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-11-30 11:38:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 3 - 10-4-23 Meeting Summary of Public Meeting with SMR, LLC, a Holtec International Company, to Discuss Applicability of TMI Requirements to the SMR-160 Design</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23291A017</link>
@@ -198,27 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23319A339</link>
 			<description>Letter</description>
 			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-11-27 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Requests NRC to Provide Feedback on the COLA Readiness Assessment and Terminate Review of the COLA Cyber Security White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23320A094</link>
-			<description>Letter</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2023-11-27 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Email - [External_Sender] RE_HFE Project Plan and Methodologies_ Topical Report (L-2023-TOP-0026)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23320A229</link>
-			<description>E-Mail</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2023-11-27 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Cover Letter - Triso-X License Application Sixth set of RAIs for Material Control and Accounting, Fire, and Structural</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23313A114</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
 			<pubDate>2023-11-27 08:32:00</pubDate>
 		</item>
 	</channel>

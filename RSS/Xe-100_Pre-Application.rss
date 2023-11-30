@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 30 Nov 2023 16:19:43 GMT</pubDate>
-		<lastBuildDate>Thu, 30 Nov 2023 16:19:43 GMT</lastBuildDate>
+		<pubDate>Thu, 30 Nov 2023 17:13:39 GMT</pubDate>
+		<lastBuildDate>Thu, 30 Nov 2023 17:13:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>October 5 2023 Meeting Summary Public Meeting With X-Energy to Discuss Graphite Qualification</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23319A239</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-11-30 12:00:00</pubDate>
+		</item>
+	</channel>
 </rss>
