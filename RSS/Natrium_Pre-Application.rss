@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 30 Nov 2023 23:15:56 GMT</pubDate>
-		<lastBuildDate>Thu, 30 Nov 2023 23:15:56 GMT</lastBuildDate>
+		<pubDate>Fri, 01 Dec 2023 14:16:15 GMT</pubDate>
+		<lastBuildDate>Fri, 01 Dec 2023 14:16:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -80,13 +80,6 @@
 			<description>E-Mail</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2023-11-27 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC, 10 CFR 50.33(f) Presentation Material</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23319A425</link>
-			<description>Legal-Affidavit, Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2023-11-24 08:40:00</pubDate>
 		</item>
 	</channel>
 </rss>
