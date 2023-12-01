@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 01 Dec 2023 20:16:05 GMT</pubDate>
-		<lastBuildDate>Fri, 01 Dec 2023 20:16:05 GMT</lastBuildDate>
+		<pubDate>Fri, 01 Dec 2023 21:13:37 GMT</pubDate>
+		<lastBuildDate>Fri, 01 Dec 2023 21:13:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>12/13/2023 Pre-application meeting with Kairos Power on use of electron beam welding</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23335A139</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-12-01 15:23:00</pubDate>
+		</item>
 		<item>
 			<title>Oklo Inc., Recycling Facility Material Categorization December 12, 2023</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23334A253</link>
@@ -211,13 +218,6 @@
 			<title>Memoranda 9-13-23 Public Meeting Summary, SMR-160+ I&C Conformance to IEEE 603</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23296A005</link>
 			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-11-28 15:42:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: 9-13-23 Public Meeting Agenda, SMR-160+ I&C Conformance to IEEE</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23296A002</link>
-			<description>Meeting Agenda</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2023-11-28 15:42:00</pubDate>
 		</item>
