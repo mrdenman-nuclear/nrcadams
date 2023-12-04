@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 01 Dec 2023 23:14:09 GMT</pubDate>
-		<lastBuildDate>Fri, 01 Dec 2023 23:14:09 GMT</lastBuildDate>
+		<pubDate>Mon, 04 Dec 2023 14:16:00 GMT</pubDate>
+		<lastBuildDate>Mon, 04 Dec 2023 14:16:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,48 +38,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-11-30 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>EMAIL - Completeness Determination TerraPower, LLC  Radiological Source Term Methodology Topical Report, Revision 0 (L-2023-TOP-0046)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23292A277</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-11-27 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>ENCLOSURE - Completeness Determination TerraPower, LLC,  Radiological Source Term Methodology Topical Report, Revision 0 (L-2023-TOP-0046)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23292A278</link>
-			<description>Request for Additional Information (RAI)</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-11-27 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>NRC 898 - L-2023-TOP-0046</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23292A274</link>
-			<description>Administrative Form, NRC</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-11-27 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - TerraPower, LLC - U.S. Nuclear Regulatory Commission Staff Feedback Regarding White Paper: "Preliminary Consensus Codes and Standards," Revision 0 (EPID NO. L-2023-LRO-0045)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23319A338</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-11-27 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Letter - TerraPower, LLC - U.S. Nuclear Regulatory Commission Staff Feedback Regarding White Paper: "Preliminary Consensus Codes and Standards," Revision 0 (EPID NO. L-2023-LRO-0045)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23319A339</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-11-27 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Email - [External_Sender] RE_HFE Project Plan and Methodologies_ Topical Report (L-2023-TOP-0026)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23320A229</link>
-			<description>E-Mail</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2023-11-27 08:32:00</pubDate>
 		</item>
 	</channel>
 </rss>

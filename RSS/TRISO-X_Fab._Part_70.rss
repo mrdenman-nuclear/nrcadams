@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 01 Dec 2023 23:14:09 GMT</pubDate>
-		<lastBuildDate>Fri, 01 Dec 2023 23:14:09 GMT</lastBuildDate>
+		<pubDate>Mon, 04 Dec 2023 14:16:00 GMT</pubDate>
+		<lastBuildDate>Mon, 04 Dec 2023 14:16:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,34 +17,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
 			<pubDate>2023-11-28 08:27:00</pubDate>
-		</item>
-		<item>
-			<title>Letter to J Wheeler re TRISO-X FFF EIS RAIs Part 2 -1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23235A223</link>
-			<description>Letter, Request for Additional Information (RAI)</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2023-11-27 11:43:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure: TRISO-X FFF EIS RAIs Part 2 - 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23235A225</link>
-			<description>Request for Additional Information (RAI)</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2023-11-27 11:43:00</pubDate>
-		</item>
-		<item>
-			<title>Cover Letter - Triso-X License Application Sixth set of RAIs for Material Control and Accounting, Fire, and Structural</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23313A114</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2023-11-27 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - Request for Additional Information for (Programmatic) Structural Review Regarding the TRISO-X License Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23320A205</link>
-			<description>Request for Additional Information (RAI)</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2023-11-27 08:32:00</pubDate>
 		</item>
 	</channel>
 </rss>

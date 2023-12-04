@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 01 Dec 2023 23:14:10 GMT</pubDate>
-		<lastBuildDate>Fri, 01 Dec 2023 23:14:10 GMT</lastBuildDate>
+		<pubDate>Mon, 04 Dec 2023 14:16:00 GMT</pubDate>
+		<lastBuildDate>Mon, 04 Dec 2023 14:16:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Public Summary of November 7 Tribal Consultation Response Letter to the NRC</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23332A001</link>
+			<description>E-Mail</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2023-12-04 08:35:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Staff Revised Exhibit List</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23335A158</link>
+			<description>Legal-Pleading</description>
+			<author>NRC/OGC</author>
+			<pubDate>2023-12-04 08:35:00</pubDate>
+		</item>
 		<item>
 			<title>Revised Hermes Construction Permit</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23317A422</link>
@@ -108,13 +122,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-11-30 13:53:00</pubDate>
-		</item>
-		<item>
-			<title>Letter to THC NHPA Section 106 Consultation Summary for the Hermes CP Review REDACTED</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23310A074</link>
-			<description>Letter</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2023-11-27 08:32:00</pubDate>
 		</item>
 	</channel>
 </rss>

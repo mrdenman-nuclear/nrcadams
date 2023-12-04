@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 01 Dec 2023 23:14:02 GMT</pubDate>
-		<lastBuildDate>Fri, 01 Dec 2023 23:14:02 GMT</lastBuildDate>
+		<pubDate>Mon, 04 Dec 2023 14:15:51 GMT</pubDate>
+		<lastBuildDate>Mon, 04 Dec 2023 14:15:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Public Summary of November 7 Tribal Consultation Response Letter to the NRC</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23332A001</link>
+			<description>E-Mail</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2023-12-04 08:35:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Staff Revised Exhibit List</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23335A158</link>
+			<description>Legal-Pleading</description>
+			<author>NRC/OGC</author>
+			<pubDate>2023-12-04 08:35:00</pubDate>
+		</item>
+		<item>
+			<title>2023/11/18 NuScale NPM-20 - NuScale SDAA Section 9.1.5 - Request for Additional Information No. 010 (RAI-10105-R1)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23322A002</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2023-12-04 08:34:00</pubDate>
+		</item>
+		<item>
+			<title>12/12/2023 Oklo's Preliminary Evaluation of Material Categorization for a Fuel Recycling Facility</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23335A205</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-12-01 18:14:00</pubDate>
+		</item>
 		<item>
 			<title>12/13/2023 Pre-application meeting with Kairos Power on use of electron beam welding</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23335A139</link>
@@ -192,34 +220,6 @@
 			<description>Meeting Summary</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2023-11-30 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>10-4-23 Summary of Public Meeting with SMR, LLC, a Holtec International Company, to Discuss Applicability of TMI Requirements to the SMR-160 Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23291A018</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-11-30 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>Letter - TerraPower, LLC - U.S. Nuclear Regulatory Commission Staff Feedback Regarding White Paper: "Natrium Human Factors Engineering Concept of Operations," Revision 0, (EPID NO. L-2023-LRO-0042)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23321A086</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-11-30 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - TerraPower, LLC - U.S. Nuclear Regulatory Commission Staff Feedback Regarding White Paper: "Natrium Human Factors Engineering Concept of Operations," Revision 0, (EPID NO. L-2023-LRO-0042)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23321A087</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-11-30 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>Memoranda 9-13-23 Public Meeting Summary, SMR-160+ I&C Conformance to IEEE 603</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23296A005</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-11-28 15:42:00</pubDate>
 		</item>
 	</channel>
 </rss>
