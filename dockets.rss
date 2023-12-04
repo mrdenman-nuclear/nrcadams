@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 04 Dec 2023 14:16:00 GMT</pubDate>
-		<lastBuildDate>Mon, 04 Dec 2023 14:16:00 GMT</lastBuildDate>
+		<pubDate>Mon, 04 Dec 2023 15:16:35 GMT</pubDate>
+		<lastBuildDate>Mon, 04 Dec 2023 15:16:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC-002-R - Draft Construction Permit for Kairos Power, LLC, (November 30, 2023 - ML23317A422</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23335A159</link>
+			<description>Legal-Pre-Filed Exhibits</description>
+			<author>NRC/OGC</author>
+			<pubDate>2023-12-04 09:34:00</pubDate>
+		</item>
+		<item>
+			<title>NRC-003-R - Construction Permit Application for the Kairos Hermes Test Reactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23335A160</link>
+			<description>Legal-Pre-Filed Exhibits</description>
+			<author>NRC/OGC</author>
+			<pubDate>2023-12-04 09:34:00</pubDate>
+		</item>
+		<item>
+			<title>NRC-003-R - Draft Summary Record of Decision for Kairos Hermes Test Reactor Construction Permit (November 30, 2023)-ML23317A007</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23338A030</link>
+			<description>Legal-Pre-Filed Exhibits</description>
+			<author>NRC/OGC</author>
+			<pubDate>2023-12-04 09:34:00</pubDate>
+		</item>
 		<item>
 			<title>Public Summary of November 7 Tribal Consultation Response Letter to the NRC</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23332A001</link>
@@ -199,27 +220,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-11-30 12:00:00</pubDate>
-		</item>
-		<item>
-			<title>12/13/2023 Pre-Application Meeting with TerraPower to discuss Cooling Water Availability for the Natrium design.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23334A083</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-11-30 11:43:00</pubDate>
-		</item>
-		<item>
-			<title>12/05/2023 Pre-Application Meeting with TerraPower to discuss Material Qualification for the Natrium design.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23334A084</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-11-30 11:38:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3 - 10-4-23 Meeting Summary of Public Meeting with SMR, LLC, a Holtec International Company, to Discuss Applicability of TMI Requirements to the SMR-160 Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23291A017</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-11-30 08:37:00</pubDate>
 		</item>
 	</channel>
 </rss>
