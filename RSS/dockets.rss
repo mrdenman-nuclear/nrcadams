@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 04 Dec 2023 17:14:17 GMT</pubDate>
-		<lastBuildDate>Mon, 04 Dec 2023 17:14:17 GMT</lastBuildDate>
+		<pubDate>Mon, 04 Dec 2023 18:19:06 GMT</pubDate>
+		<lastBuildDate>Mon, 04 Dec 2023 18:19:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Limited work authorization application - withdrawal by applicant - FRN</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23318A512</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-12-04 13:14:00</pubDate>
+		</item>
 		<item>
 			<title>NRC-002-R - Draft Construction Permit for Kairos Power, LLC, (November 30, 2023)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23335A159</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2023-11-30 12:22:00</pubDate>
-		</item>
-		<item>
-			<title>October 5 2023 Meeting Summary Public Meeting With X-Energy to Discuss Graphite Qualification</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23319A239</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-11-30 12:00:00</pubDate>
 		</item>
 	</channel>
 </rss>
