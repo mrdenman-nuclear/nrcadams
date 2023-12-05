@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 04 Dec 2023 23:14:11 GMT</pubDate>
-		<lastBuildDate>Mon, 04 Dec 2023 23:14:11 GMT</lastBuildDate>
+		<pubDate>Tue, 05 Dec 2023 14:17:04 GMT</pubDate>
+		<lastBuildDate>Tue, 05 Dec 2023 14:17:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2023-11-30 13:53:00</pubDate>
-		</item>
-		<item>
-			<title>Withdrawal of Limited Work Authorization, Exemption Request, and Topical Reports Associated with Carbon Free Power Project, LLC Combined License Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23319A056</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-11-28 08:27:00</pubDate>
 		</item>
 	</channel>
 </rss>
