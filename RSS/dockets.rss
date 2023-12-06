@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 06 Dec 2023 15:16:13 GMT</pubDate>
-		<lastBuildDate>Wed, 06 Dec 2023 15:16:13 GMT</lastBuildDate>
+		<pubDate>Wed, 06 Dec 2023 16:19:19 GMT</pubDate>
+		<lastBuildDate>Wed, 06 Dec 2023 16:19:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Westinghouse Electric Company - email: Request for Additional Information in support of NRC staff review of the Principal Design Criteria Topical Report for the eVinci Microreactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23325A036</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2023-12-06 10:17:00</pubDate>
+		</item>
 		<item>
 			<title>TerraPower, LLC - Withholding Proprietary Information from Public Disclosure - Computing Platforms Presentation Material</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23335A031</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2023-11-30 15:15:00</pubDate>
-		</item>
-		<item>
-			<title>Request from Withholding Information from Public Disclosure - Enclosures of the Construction Permit Application for the Kairos Power LLC Non-Power Reactor Facility</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23313A123</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-11-30 14:46:00</pubDate>
 		</item>
 	</channel>
 </rss>
