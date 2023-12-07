@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 06 Dec 2023 23:17:19 GMT</pubDate>
-		<lastBuildDate>Wed, 06 Dec 2023 23:17:19 GMT</lastBuildDate>
+		<pubDate>Thu, 07 Dec 2023 14:16:00 GMT</pubDate>
+		<lastBuildDate>Thu, 07 Dec 2023 14:16:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,27 +17,6 @@
 			<description>Letter</description>
 			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
 			<pubDate>2023-12-01 15:15:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Issuance of Order Consenting to Indirect Transfer of Control of GE/GEHA/GNFA Licenses</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23283A329</link>
-			<description>Letter</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2023-11-30 16:27:00</pubDate>
-		</item>
-		<item>
-			<title>Safety Evaluation Report: GE/GEHA/GNFA Indirect Transfer of Control of Licenses</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23283A328</link>
-			<description>Safety Evaluation Report</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2023-11-30 16:27:00</pubDate>
-		</item>
-		<item>
-			<title>GE-GNFA-GEHA - Order Approving Indirect Transfer of Control of Licenses</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23283A330</link>
-			<description>Order</description>
-			<author>NRC/NRR, NRC/NMSS</author>
-			<pubDate>2023-11-30 16:26:00</pubDate>
 		</item>
 	</channel>
 </rss>
