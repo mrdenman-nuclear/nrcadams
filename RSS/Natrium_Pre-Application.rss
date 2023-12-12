@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 11 Dec 2023 23:13:57 GMT</pubDate>
-		<lastBuildDate>Mon, 11 Dec 2023 23:13:57 GMT</lastBuildDate>
+		<pubDate>Tue, 12 Dec 2023 14:16:04 GMT</pubDate>
+		<lastBuildDate>Tue, 12 Dec 2023 14:16:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Letter, Proprietary Information Review</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-12-06 08:42:00</pubDate>
-		</item>
-		<item>
-			<title>12/05/2023 Pre-Application Meeting with TerraPower to discuss Material Qualification for the Natrium design.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23339A132</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-12-05 14:26:00</pubDate>
 		</item>
 	</channel>
 </rss>
