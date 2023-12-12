@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 12 Dec 2023 16:22:10 GMT</pubDate>
-		<lastBuildDate>Tue, 12 Dec 2023 16:22:10 GMT</lastBuildDate>
+		<pubDate>Tue, 12 Dec 2023 17:15:17 GMT</pubDate>
+		<lastBuildDate>Tue, 12 Dec 2023 17:15:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>12/12/2023 Notice of Meeting with X Energy LLC</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23346A120</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-12-12 12:09:00</pubDate>
+		</item>
 		<item>
 			<title>Commission Memorandum and Order (CLI-23-05)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23346A068</link>
@@ -213,13 +220,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2023-12-06 10:17:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC - Withholding Proprietary Information from Public Disclosure - Computing Platforms Presentation Material</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23335A031</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-12-06 08:42:00</pubDate>
 		</item>
 	</channel>
 </rss>
