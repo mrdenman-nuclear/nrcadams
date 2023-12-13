@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 12 Dec 2023 23:16:19 GMT</pubDate>
-		<lastBuildDate>Tue, 12 Dec 2023 23:16:19 GMT</lastBuildDate>
+		<pubDate>Wed, 13 Dec 2023 14:17:55 GMT</pubDate>
+		<lastBuildDate>Wed, 13 Dec 2023 14:17:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Westinghouse, Transmittal of "ALS v2 Platform Elimination of Technical Specification Surveillance Requirements (WCAP-18810) NRC Pre-submittal Meeting" Presentation</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23339A096</link>
+			<description>Letter</description>
+			<author>Westinghouse Electric Co</author>
+			<pubDate>2023-12-13 08:39:00</pubDate>
+		</item>
+		<item>
+			<title>Westinghouse, ALS v2 Platform Elimination of Technical Specification Surveillance Requirements (WCAP-18810) NRC Pre-Submittal Meeting December 6th, 2023</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23339A097</link>
+			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Westinghouse Electric Co, Westinghouse Electric Co, LLC</author>
+			<pubDate>2023-12-13 08:39:00</pubDate>
+		</item>
 		<item>
 			<title>Submittal of the Westinghouse eVinci Microreactor Report for Joint NRC and CNSC Review (EVR-SAR-GL-007-P/NP)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23333A836</link>
@@ -31,13 +45,6 @@
 			<description>Report, Technical</description>
 			<author>Westinghouse Electric Co</author>
 			<pubDate>2023-12-07 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse Electric Company - email: Request for Additional Information in support of NRC staff review of the Principal Design Criteria Topical Report for the eVinci Microreactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23325A036</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2023-12-06 10:17:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 12 Dec 2023 23:16:17 GMT</pubDate>
-		<lastBuildDate>Tue, 12 Dec 2023 23:16:17 GMT</lastBuildDate>
+		<pubDate>Wed, 13 Dec 2023 14:17:53 GMT</pubDate>
+		<lastBuildDate>Wed, 13 Dec 2023 14:17:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>ACU MSRR - Environmental Review Requests for Confirmatory Information - Closure Confirmation for NO-2 and 3</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23346A235</link>
+			<description>E-Mail</description>
+			<author>Abilene Christian University</author>
+			<pubDate>2023-12-13 08:39:00</pubDate>
+		</item>
+	</channel>
 </rss>

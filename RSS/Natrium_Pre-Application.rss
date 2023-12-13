@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 12 Dec 2023 23:16:19 GMT</pubDate>
-		<lastBuildDate>Tue, 12 Dec 2023 23:16:19 GMT</lastBuildDate>
+		<pubDate>Wed, 13 Dec 2023 14:17:54 GMT</pubDate>
+		<lastBuildDate>Wed, 13 Dec 2023 14:17:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Legal-Affidavit, Letter, Topical Report</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2023-12-08 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC - Withholding Proprietary Information from Public Disclosure - Computing Platforms Presentation Material</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23335A031</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-12-06 08:42:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC - Withholding Proprietary Information from Public Disclosure - TerraPower, LLC. 10 CFR 50.33(f) Presentation Material</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23335A036</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-12-06 08:42:00</pubDate>
 		</item>
 	</channel>
 </rss>
