@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 14 Dec 2023 21:14:54 GMT</pubDate>
-		<lastBuildDate>Thu, 14 Dec 2023 21:14:54 GMT</lastBuildDate>
+		<pubDate>Thu, 14 Dec 2023 22:14:41 GMT</pubDate>
+		<lastBuildDate>Thu, 14 Dec 2023 22:14:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Kairos Power LLC - Summary Record of Decision</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23338A257</link>
+			<description>Report, Miscellaneous</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2023-12-14 16:33:00</pubDate>
+		</item>
+		<item>
+			<title>Letter - Kairos Power LLC - Issuance of Construction Permit for Hermes Test Reactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23338A254</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2023-12-14 16:33:00</pubDate>
+		</item>
 		<item>
 			<title>Written communication as specified by 10 CFR 50.4 regarding responses to the "University of Illinois at Urbana-Champaign - Request for Additional Information - Applicability of Nuclear Regulatory Commission Regulations Topical Report," October 18, 2023</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23345A237</link>
@@ -206,13 +220,6 @@
 			<description>Legal-Affidavit, Letter, Topical Report</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2023-12-08 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>12/18/2023 Re-scheduled: Closed Meeting with Terrestrial Energy USA: Post-submittal discussion regarding NRC's staff feedback for the Uncertainty Quantification Methodology for Calculation of the IMSR Off-Gas Source Term Technical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23342A013</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-12-08 07:56:00</pubDate>
 		</item>
 	</channel>
 </rss>
