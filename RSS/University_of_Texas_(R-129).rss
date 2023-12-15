@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 15 Dec 2023 14:15:29 GMT</pubDate>
-		<lastBuildDate>Fri, 15 Dec 2023 14:15:29 GMT</lastBuildDate>
+		<pubDate>Fri, 15 Dec 2023 15:16:21 GMT</pubDate>
+		<lastBuildDate>Fri, 15 Dec 2023 15:16:21 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>University of Texas at Austin - Regulatory Audit Re Renewal of Facility Operating License No. R-129 for Its TRIGA MARK II Nuclear Reactor (EPID No. L-2020-NFR-0009)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23332A105</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2023-12-15 09:22:00</pubDate>
+		</item>
+	</channel>
 </rss>

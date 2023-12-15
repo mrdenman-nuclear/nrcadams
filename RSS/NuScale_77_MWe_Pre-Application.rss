@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 15 Dec 2023 14:15:35 GMT</pubDate>
-		<lastBuildDate>Fri, 15 Dec 2023 14:15:35 GMT</lastBuildDate>
+		<pubDate>Fri, 15 Dec 2023 15:16:30 GMT</pubDate>
+		<lastBuildDate>Fri, 15 Dec 2023 15:16:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>2023/12/01 NuScale NPM-20 - NuScale SDAA Section 19.5 - Request for Additional Information No. 012 (RAI-10113-R1)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23335A200</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2023-12-15 09:21:00</pubDate>
+		</item>
+	</channel>
 </rss>
