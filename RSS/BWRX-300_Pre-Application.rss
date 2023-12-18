@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 15 Dec 2023 23:15:08 GMT</pubDate>
-		<lastBuildDate>Fri, 15 Dec 2023 23:15:08 GMT</lastBuildDate>
+		<pubDate>Mon, 18 Dec 2023 14:16:04 GMT</pubDate>
+		<lastBuildDate>Mon, 18 Dec 2023 14:16:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Acceptance Determination Transmittal for the BWRX-300 Containment Vessel and Reactor Building Structural Design LTR.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23341A063</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2023-12-18 08:44:00</pubDate>
+		</item>
+		<item>
+			<title>NRC 898 - Acceptance Determination for the BWRX-300 Containment Vessel and Reactor Building Structural Design LTR.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23341A064</link>
+			<description>Administrative Form, NRC, Topical Report Evaluation</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2023-12-18 08:44:00</pubDate>
+		</item>
+	</channel>
 </rss>

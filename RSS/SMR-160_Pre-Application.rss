@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 15 Dec 2023 23:15:08 GMT</pubDate>
-		<lastBuildDate>Fri, 15 Dec 2023 23:15:08 GMT</lastBuildDate>
+		<pubDate>Mon, 18 Dec 2023 14:16:04 GMT</pubDate>
+		<lastBuildDate>Mon, 18 Dec 2023 14:16:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>10/25/2023 Public Meeting Summary Memo for SMR 160 Holtec Risk Significance Methodology.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23318A080</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2023-12-18 08:44:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC, Limited Work Authorization Requirements Applicable</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23342A231</link>
+			<description>Report, Technical</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2023-12-18 08:43:00</pubDate>
+		</item>
+		<item>
+			<title>Holtec SMR Hypothetical LWA - Possible Activities</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23342A232</link>
+			<description>Report, Technical</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2023-12-18 08:43:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC, Request for Written Assessment of White Paper Concerning Limited Work Authorizations</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23342A230</link>
+			<description>Letter</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2023-12-18 08:43:00</pubDate>
+		</item>
 		<item>
 			<title>11/2/23 - Email from K. Schultz re - Comment provided during the November 1, 2023 Public Meeting to discuss SMR (Holtec) Questions on the Limited Work Authorization Process (Project No. 99902049)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23339A021</link>
@@ -24,20 +52,6 @@
 			<description>Letter, Proprietary Information Review</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2023-12-12 08:38:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Determination Letter for 9-11-23 Request from A. Brenner, SMR, LLC (A Holtec International Company) (Project 99902049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23328A261</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-12-11 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>Request For Withholding Information From Public Disclosure For SMR, LLC (A Holtec International Company)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23331A566</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-12-11 08:36:00</pubDate>
 		</item>
 	</channel>
 </rss>
