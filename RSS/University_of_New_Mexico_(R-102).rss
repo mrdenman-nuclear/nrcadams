@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 18 Dec 2023 23:14:50 GMT</pubDate>
-		<lastBuildDate>Mon, 18 Dec 2023 23:14:50 GMT</lastBuildDate>
+		<pubDate>Tue, 19 Dec 2023 14:17:49 GMT</pubDate>
+		<lastBuildDate>Tue, 19 Dec 2023 14:17:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>University of New Mexico U.S. Nuclear Regulatory Commission Security Inspection Report 05000252/2023202</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23312A132</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2023-12-19 08:40:00</pubDate>
+		</item>
+	</channel>
 </rss>
