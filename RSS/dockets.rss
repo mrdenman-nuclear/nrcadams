@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 20 Dec 2023 15:13:09 GMT</pubDate>
-		<lastBuildDate>Wed, 20 Dec 2023 15:13:09 GMT</lastBuildDate>
+		<pubDate>Wed, 20 Dec 2023 16:17:43 GMT</pubDate>
+		<lastBuildDate>Wed, 20 Dec 2023 16:17:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>01/25/2024 Pre-Application meeting with X-energy to discuss their fuel qualification plan for the Xe-100 high temperature gas reactor.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23354A086</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2023-12-20 11:07:00</pubDate>
+		</item>
 		<item>
 			<title>NRC Response to X Energy on SGI ecryption request</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23345A080</link>
@@ -213,13 +220,6 @@
 			<description>Request for Additional Information (RAI)</description>
 			<author>NRC/NMSS/DREFS</author>
 			<pubDate>2023-12-15 12:45:00</pubDate>
-		</item>
-		<item>
-			<title>01/11/2024 Meeting with TRISO-X LLC to discuss ISA Summary programmatic RAI supplement, continued</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23349A067</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2023-12-15 10:45:00</pubDate>
 		</item>
 	</channel>
 </rss>
