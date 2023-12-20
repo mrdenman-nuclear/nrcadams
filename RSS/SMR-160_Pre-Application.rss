@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 19 Dec 2023 23:14:53 GMT</pubDate>
-		<lastBuildDate>Tue, 19 Dec 2023 23:14:53 GMT</lastBuildDate>
+		<pubDate>Wed, 20 Dec 2023 14:14:32 GMT</pubDate>
+		<lastBuildDate>Wed, 20 Dec 2023 14:14:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>Letter</description>
 			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2023-12-18 08:43:00</pubDate>
-		</item>
-		<item>
-			<title>11/2/23 - Email from K. Schultz re - Comment provided during the November 1, 2023 Public Meeting to discuss SMR (Holtec) Questions on the Limited Work Authorization Process (Project No. 99902049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23339A021</link>
-			<description>E-Mail</description>
-			<author>Michigan Safe Energy Future - Shoreline Chapter (MSEF)</author>
-			<pubDate>2023-12-13 08:39:00</pubDate>
 		</item>
 	</channel>
 </rss>

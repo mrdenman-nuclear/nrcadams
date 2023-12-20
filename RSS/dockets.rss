@@ -5,24 +5,45 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 19 Dec 2023 23:14:42 GMT</pubDate>
-		<lastBuildDate>Tue, 19 Dec 2023 23:14:42 GMT</lastBuildDate>
+		<pubDate>Wed, 20 Dec 2023 14:14:24 GMT</pubDate>
+		<lastBuildDate>Wed, 20 Dec 2023 14:14:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>Equalization Schools: A Lesson in Education - National Trust for Historic Preservation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23353A132</link>
-			<description>Report, Miscellaneous</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2023-12-19 15:37:00</pubDate>
+			<title>NRC Response to X Energy on SGI ecryption request</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23345A080</link>
+			<description>Letter</description>
+			<author>NRC/NSIR/DSO/ISB</author>
+			<pubDate>2023-12-20 08:50:00</pubDate>
+		</item>
+		<item>
+			<title>November 20, 2023 Meeting Summary Observation Public Meeting for Pre-application Discussion of NuScale Power, LLC’S Highly Integrated Protection System Platform Topical Report Submittal</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23341A044</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2023-12-20 08:50:00</pubDate>
+		</item>
+		<item>
+			<title>2023/12/06 NuScale NPM-20 - NuScale SDAA Section 19.1.5 - Request for Additional Information No. 013 (RAI-10115-R1)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23340A047</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2023-12-20 08:49:00</pubDate>
 		</item>
 		<item>
 			<title>GE-Hitachi Nuclear Energy Americas (GEH-A), LLC and Global Fuels Americas, LLC (GNF-A) Request for Withholding Information from Public Disclosure</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23347A104</link>
 			<description>Proprietary Information Review, Topical Report</description>
 			<author>NRC/NRR/DORL/LLPB</author>
+			<pubDate>2023-12-20 08:03:00</pubDate>
+		</item>
+		<item>
+			<title>Equalization Schools: A Lesson in Education - National Trust for Historic Preservation</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23353A132</link>
+			<description>Report, Miscellaneous</description>
+			<author>- No Known Affiliation</author>
 			<pubDate>2023-12-19 15:37:00</pubDate>
 		</item>
 		<item>
@@ -199,27 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2023-12-15 10:45:00</pubDate>
-		</item>
-		<item>
-			<title>01/08/2024 Meeting with TRISO-X LLC to discuss ISA Summary programmatic RAI supplement - continued</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23349A066</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2023-12-15 10:43:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC - Construction Permit for Hermes Test Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23338A258</link>
-			<description>License-Construction Permit (CP)(New/Extension/Amendment) DKT 50</description>
-			<author>NRC/NRR</author>
-			<pubDate>2023-12-15 09:22:00</pubDate>
-		</item>
-		<item>
-			<title>ACU MSRR - Environmental Review Requests for Confirmatory Information - Closure Confirmation for CA- 2, 5 and 6</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23348A373</link>
-			<description>E-Mail, Response to Request for Additional Information (RAI)</description>
-			<author>Abilene Christian University</author>
-			<pubDate>2023-12-15 09:22:00</pubDate>
 		</item>
 	</channel>
 </rss>
