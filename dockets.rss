@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 20 Dec 2023 23:15:43 GMT</pubDate>
-		<lastBuildDate>Wed, 20 Dec 2023 23:15:43 GMT</lastBuildDate>
+		<pubDate>Thu, 21 Dec 2023 14:15:35 GMT</pubDate>
+		<lastBuildDate>Thu, 21 Dec 2023 14:15:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submittal of the Westinghouse AP300TM SMR Design Description Overview White Paper for Pre-Application Engagement (Proprietary)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23347A167</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>Westinghouse Electric Co</author>
+			<pubDate>2023-12-21 09:06:00</pubDate>
+		</item>
+		<item>
+			<title>2023/12/11 NRR E-mail Capture - Abilene Christian University (ACU) Molten Salt Research Reactor (MSRR) PSAR Chapter 3 Audit Question</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23345A170</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2023-12-21 09:05:00</pubDate>
+		</item>
 		<item>
 			<title>Westinghouse, Submittal of the Advanced Logic System (ALS) v2 Platform Elimination of Technical Specification Surveillance Requirements Topical Report (WCAP-18810-P/NP)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23354A139</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23339A004</link>
 			<description>E-Mail</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-12-18 08:43:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Limited Work Authorization Requirements Applicable</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23342A231</link>
-			<description>Report, Technical</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2023-12-18 08:43:00</pubDate>
-		</item>
-		<item>
-			<title>Holtec SMR Hypothetical LWA - Possible Activities</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23342A232</link>
-			<description>Report, Technical</description>
-			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2023-12-18 08:43:00</pubDate>
 		</item>
 	</channel>
