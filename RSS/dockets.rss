@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 21 Dec 2023 19:12:32 GMT</pubDate>
-		<lastBuildDate>Thu, 21 Dec 2023 19:12:32 GMT</lastBuildDate>
+		<pubDate>Thu, 21 Dec 2023 20:14:44 GMT</pubDate>
+		<lastBuildDate>Thu, 21 Dec 2023 20:14:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TRISO-X, LLC, Response to Request for Additional Information Part 2-1 for the TRISO-X Environmental Report and License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23354A288</link>
+			<description>Letter, Response to Request for Additional Information (RAI)</description>
+			<author>Triso-X, LLC</author>
+			<pubDate>2023-12-21 15:06:00</pubDate>
+		</item>
 		<item>
 			<title>Federal Register Notice - Kairos Power LLC, Hermes Test Reactor Construction Permit</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23338A253</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23342A233</link>
 			<description>Letter, Response to Request for Additional Information (RAI)</description>
 			<author>X-Energy, LLC</author>
-			<pubDate>2023-12-18 08:43:00</pubDate>
-		</item>
-		<item>
-			<title>Email submitting form 897</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23339A004</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2023-12-18 08:43:00</pubDate>
 		</item>
 	</channel>
