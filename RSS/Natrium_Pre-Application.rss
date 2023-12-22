@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 21 Dec 2023 23:15:48 GMT</pubDate>
-		<lastBuildDate>Thu, 21 Dec 2023 23:15:48 GMT</lastBuildDate>
+		<pubDate>Fri, 22 Dec 2023 14:15:59 GMT</pubDate>
+		<lastBuildDate>Fri, 22 Dec 2023 14:15:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Terrapower, LLC - Summary Report on the Regulatory Audit of Topical Report, "An Analysis of Potential Volcanic Hazards at the Proposed Natrium Site Near Kemmerer, Wyoming," Revision 0A</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23338A052</link>
-			<description>Audit Report</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-12-15 09:21:00</pubDate>
-		</item>
-		<item>
-			<title>Terrapower, LLC - Summary Report on the Regulatory Audit of Topical Report, "An Analysis of Potential Volcanic Hazards at the Proposed Natrium Site Near Kemmerer, Wyoming," Revision 0A (EPID L-2023-TOP-0027)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23338A051</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-12-15 09:21:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

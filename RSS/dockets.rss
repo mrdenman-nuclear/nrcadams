@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 21 Dec 2023 23:15:28 GMT</pubDate>
-		<lastBuildDate>Thu, 21 Dec 2023 23:15:28 GMT</lastBuildDate>
+		<pubDate>Fri, 22 Dec 2023 14:15:39 GMT</pubDate>
+		<lastBuildDate>Fri, 22 Dec 2023 14:15:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Memorandum - NuScale Standard Design Approval Application Review Interim Lessons Learned Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23345A079</link>
+			<description>Memoranda</description>
+			<author>NRC/NRR/DNRL</author>
+			<pubDate>2023-12-22 08:52:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC Submittal of Supplemental Information in Support of Review of "Methodology for the Determination of the Onset of Density Wave Oscillations (DWO)," TR-131981-P, Revision 1, Audit Question A-DWO.LTR-11</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23348A283</link>
+			<description>Letter</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2023-12-22 08:51:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC Submittal of Supplemental Information in Support of Review of "Methodology for the Determination of the Onset of Density Wave Oscillations (DWO)," TR-131981-P, Revision 1, Audit Question A-DWO.LTR-11</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23348A283</link>
+			<description>Letter</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2023-12-22 08:51:00</pubDate>
+		</item>
 		<item>
 			<title>TRISO-X, LLC, Response to Request for Additional Information Part 2-1 for the TRISO-X Environmental Report and License Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23354A288</link>
@@ -199,27 +220,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2023-12-18 08:44:00</pubDate>
-		</item>
-		<item>
-			<title>Acceptance Determination Transmittal for the BWRX-300 Containment Vessel and Reactor Building Structural Design LTR.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23341A063</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-12-18 08:44:00</pubDate>
-		</item>
-		<item>
-			<title>NRC 898 - Acceptance Determination for the BWRX-300 Containment Vessel and Reactor Building Structural Design LTR.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23341A064</link>
-			<description>Administrative Form, NRC, Topical Report Evaluation</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-12-18 08:44:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy, LLC (X-energy) Submittal of Responses to Preliminary Questions for Topical Report, "Xe-100 Licensing Topical Report Atmospheric Dispersion and Dose Consequence Methodology"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23342A233</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2023-12-18 08:43:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 21 Dec 2023 23:15:50 GMT</pubDate>
-		<lastBuildDate>Thu, 21 Dec 2023 23:15:50 GMT</lastBuildDate>
+		<pubDate>Fri, 22 Dec 2023 14:16:02 GMT</pubDate>
+		<lastBuildDate>Fri, 22 Dec 2023 14:16:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC Submittal of Supplemental Information in Support of Review of "Methodology for the Determination of the Onset of Density Wave Oscillations (DWO)," TR-131981-P, Revision 1, Audit Question A-DWO.LTR-11</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23348A283</link>
+			<description>Letter</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2023-12-22 08:51:00</pubDate>
+		</item>
 		<item>
 			<title>November 20, 2023 Meeting Summary Observation Public Meeting for Pre-application Discussion of NuScale Power, LLC’S Highly Integrated Protection System Platform Topical Report Submittal</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23341A044</link>
@@ -38,13 +45,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2023-12-18 08:43:00</pubDate>
-		</item>
-		<item>
-			<title>2023/12/01 NuScale NPM-20 - NuScale SDAA Section 19.5 - Request for Additional Information No. 012 (RAI-10113-R1)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23335A200</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2023-12-15 09:21:00</pubDate>
 		</item>
 	</channel>
 </rss>

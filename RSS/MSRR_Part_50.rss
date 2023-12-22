@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 21 Dec 2023 23:15:47 GMT</pubDate>
-		<lastBuildDate>Thu, 21 Dec 2023 23:15:47 GMT</lastBuildDate>
+		<pubDate>Fri, 22 Dec 2023 14:15:58 GMT</pubDate>
+		<lastBuildDate>Fri, 22 Dec 2023 14:15:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Report, Miscellaneous</description>
 			<author>- No Known Affiliation</author>
 			<pubDate>2023-12-19 15:37:00</pubDate>
-		</item>
-		<item>
-			<title>ACU MSRR - Environmental Review Requests for Confirmatory Information - Closure Confirmation for CA- 2, 5 and 6</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23348A373</link>
-			<description>E-Mail, Response to Request for Additional Information (RAI)</description>
-			<author>Abilene Christian University</author>
-			<pubDate>2023-12-15 09:22:00</pubDate>
-		</item>
-		<item>
-			<title>2023/12/01 NRR E-mail Capture - Abilene Christian University (ACU) Molten Salt Research Reactor (MSRR), Preliminary Safety Analysis Report (PSAR) Chapter 3 Audit Question</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23335A117</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2023-12-15 09:21:00</pubDate>
 		</item>
 	</channel>
 </rss>
