@@ -5,39 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 22 Dec 2023 23:15:32 GMT</pubDate>
-		<lastBuildDate>Fri, 22 Dec 2023 23:15:32 GMT</lastBuildDate>
+		<pubDate>Mon, 25 Dec 2023 14:16:32 GMT</pubDate>
+		<lastBuildDate>Mon, 25 Dec 2023 14:16:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>10/25/2023 Public Meeting Summary Memo for SMR 160 Holtec Risk Significance Methodology.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23318A080</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-12-18 08:44:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Limited Work Authorization Requirements Applicable</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23342A231</link>
-			<description>Report, Technical</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2023-12-18 08:43:00</pubDate>
-		</item>
-		<item>
-			<title>Holtec SMR Hypothetical LWA - Possible Activities</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23342A232</link>
-			<description>Report, Technical</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2023-12-18 08:43:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Request for Written Assessment of White Paper Concerning Limited Work Authorizations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23342A230</link>
-			<description>Letter</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2023-12-18 08:43:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
