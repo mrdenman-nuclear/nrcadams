@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 25 Dec 2023 23:16:59 GMT</pubDate>
-		<lastBuildDate>Mon, 25 Dec 2023 23:16:59 GMT</lastBuildDate>
+		<pubDate>Tue, 26 Dec 2023 14:14:42 GMT</pubDate>
+		<lastBuildDate>Tue, 26 Dec 2023 14:14:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Missouri University of Science and Technology Reactor (MSTR), Follow-Up Report on EN-56878, Reportable Occurrence</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23349A206</link>
+			<description>Letter, Report, Miscellaneous</description>
+			<author>Missouri Univ of Science and Technology</author>
+			<pubDate>2023-12-26 08:42:00</pubDate>
+		</item>
+	</channel>
 </rss>
