@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 26 Dec 2023 23:15:11 GMT</pubDate>
-		<lastBuildDate>Tue, 26 Dec 2023 23:15:11 GMT</lastBuildDate>
+		<pubDate>Wed, 27 Dec 2023 14:14:59 GMT</pubDate>
+		<lastBuildDate>Wed, 27 Dec 2023 14:14:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC, Response to NRC Request for Additional Information (RAI No. 10113) on the NuScale Standard Design Approval Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23352A125</link>
+			<description>Final Safety Analysis Report (FSAR), Letter, Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2023-12-27 08:28:00</pubDate>
+		</item>
 		<item>
 			<title>2023/12/11 NuScale NPM-20 - Rod Ejection Accident Methodology Topical Report, TR-0716-50350, Schedule Update</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23345A187</link>
@@ -24,20 +31,6 @@
 			<description>Letter</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2023-12-22 08:51:00</pubDate>
-		</item>
-		<item>
-			<title>November 20, 2023 Meeting Summary Observation Public Meeting for Pre-application Discussion of NuScale Power, LLC’S Highly Integrated Protection System Platform Topical Report Submittal</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23341A044</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2023-12-20 08:50:00</pubDate>
-		</item>
-		<item>
-			<title>2023/12/06 NuScale NPM-20 - NuScale SDAA Section 19.1.5 - Request for Additional Information No. 013 (RAI-10115-R1)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23340A047</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2023-12-20 08:49:00</pubDate>
 		</item>
 	</channel>
 </rss>

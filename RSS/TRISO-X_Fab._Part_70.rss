@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 26 Dec 2023 23:15:11 GMT</pubDate>
-		<lastBuildDate>Tue, 26 Dec 2023 23:15:11 GMT</lastBuildDate>
+		<pubDate>Wed, 27 Dec 2023 14:14:59 GMT</pubDate>
+		<lastBuildDate>Wed, 27 Dec 2023 14:14:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Letter, Response to Request for Additional Information (RAI)</description>
 			<author>Triso-X, LLC</author>
 			<pubDate>2023-12-21 15:06:00</pubDate>
-		</item>
-		<item>
-			<title>01/18/2024 Meeting with TRISO-X LLC to discuss management measures programmatic RAI supplement, continued</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23354A072</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2023-12-20 11:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
