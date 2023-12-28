@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 28 Dec 2023 16:17:27 GMT</pubDate>
-		<lastBuildDate>Thu, 28 Dec 2023 16:17:27 GMT</lastBuildDate>
+		<pubDate>Thu, 28 Dec 2023 17:13:41 GMT</pubDate>
+		<lastBuildDate>Thu, 28 Dec 2023 17:13:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submittal of Proprietary Presentation Materials to Support a Closed Pre-submittal Meeting for the Upcoming Topical Report, "University of Illinois Urbana-Champaign High Temperature Gas-cooled Research Reactor: Fuel Qualification Methodology"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23355A213</link>
+			<description>Letter</description>
+			<author>Univ of Illinois - Urbana - Champaign</author>
+			<pubDate>2023-12-28 11:19:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC, Response to NRC Request for Additional Information (RAI 10083) on the NuScale Standard Design Approval Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23361A099</link>
+			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2023-12-28 11:19:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC, Response to NRC Request for Additional Information (RAI 10083) on the NuScale Standard Design Approval Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23361A099</link>
+			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2023-12-28 11:19:00</pubDate>
+		</item>
 		<item>
 			<title>NRC 898 - Completeness Determination for the TerraPower, LLC. "Radiological Release Consequences Methodology Topical Report" Revision 0 (EPID L-2023-TOP-0055)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23333A072</link>
@@ -199,27 +220,6 @@
 			<description>Meeting Summary</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2023-12-26 08:42:00</pubDate>
-		</item>
-		<item>
-			<title>11-1-23 Meeting Summary with SMR, LLC, a Holtec International Company, to Discuss Questions regarding Limited Work Authorization</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23276B488</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2023-12-26 08:42:00</pubDate>
-		</item>
-		<item>
-			<title>Proprietary Determination Letter for Fuel Qualification Methodology December 2023 Meeting Presentation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23352A043</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2023-12-26 08:42:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Proprietary Information from Public Disclosure - Kairos Power LLC Regulatory Engagement Plan</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23356A024</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2023-12-22 12:55:00</pubDate>
 		</item>
 	</channel>
 </rss>
