@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 28 Dec 2023 23:15:39 GMT</pubDate>
-		<lastBuildDate>Thu, 28 Dec 2023 23:15:39 GMT</lastBuildDate>
+		<pubDate>Fri, 29 Dec 2023 14:18:40 GMT</pubDate>
+		<lastBuildDate>Fri, 29 Dec 2023 14:18:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>NRC Observations on X-energy Emergency Planning Approach White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23324A114</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2023-12-29 08:37:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure - NRC Observations on X-energy Emergency Planning Approach White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23324A134</link>
+			<description>Report, Miscellaneous</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2023-12-29 08:37:00</pubDate>
+		</item>
+	</channel>
 </rss>
