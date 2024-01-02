@@ -1,0 +1,136 @@
+---
+title: Kairos Power
+output: 
+  bookdown::pdf_document2: default
+---
+
+```{r}
+library(ggplot2)
+library(viridis)
+# install.packages("here")
+# install.packages("viridis")
+here::here("analysis") |> setwd()
+
+
+
+files <- nrcadams::docket_codex |>
+    dplyr::filter(Company == "Kairos Power", !stringr::str_detect(Project, "2")) |>
+    dplyr::pull(DocketNumber) |>
+    nrcadams::search_docket() 
+files2 <- files |>
+    dplyr::left_join(nrcadams::docket_codex) |>
+    dplyr::filter(
+        !is.na(Project),
+        Company == "Kairos Power", 
+        !stringr::str_detect(Project, "2")
+        ) |>
+    dplyr::mutate(Project = stringr::str_replace(Project, "Application", "App."))
+
+plot_min_date = "2017-04-01" |> lubridate::ymd()
+
+grouped_dockets = files2 |>
+  dplyr::mutate(orig_type = Type) |>
+  nrcadams::simplify_type() |>
+  dplyr::group_by(Project, Type) |>
+  dplyr::arrange(`Publish Date`) |>
+  dplyr::mutate(
+    count = 1,
+    `Document Count` = cumsum(count),
+    `Publish Date` = `Publish Date` |> lubridate::as_date()
+    )
+
+type_plot <- function(tbl, scale = 50) {
+  tbl |>  
+    ggplot() +
+    geom_step(aes(x = `Publish Date`, y = `Document Count`, color = Type)) +
+    theme_bw() +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) +
+    labs(
+      title = "Kairos Power",
+      subtitle =  paste("as of", Sys.Date())
+    ) +
+  scale_y_continuous(
+    breaks = seq(
+      0,
+      max(grouped_dockets$`Document Count`), 
+      by = scale)
+    ) +
+  scale_x_continuous(
+    breaks= seq(
+      min(plot_min_date), 
+      max(grouped_dockets$`Publish Date` |> lubridate::as_date()) , 
+      by = "quarter"
+      )
+    ) +
+    facet_grid(vars(Project))
+}
+
+
+```
+
+```{r}
+grouped_dockets |>
+  dplyr::filter(`Publish Date` > plot_min_date) |>
+  type_plot()
+
+ggsave("KPTime2.png")
+
+
+grouped_dockets |>
+  dplyr::filter(`Publish Date` > plot_min_date, Type != "Other") |>
+  type_plot(scale = 25)
+
+ggsave("KPTime-filtered.png")
+
+
+grouped_dockets |>
+  dplyr::filter(
+    `Publish Date` > plot_min_date, Type != "Other", Project == "Hermes Part 50"
+    ) |>
+  type_plot(scale = 10)
+
+ggsave("KPTime-Hermes.png")
+
+```
+
+
+```{r}
+grouped_dockets |>
+    dplyr::filter(Type == "Other") |>
+    dplyr::select(Title, Type = orig_type) |>
+    dplyr::count(Type, sort = TRUE) |>
+    dplyr::slice_max(n, n = 10) |>
+    knitr::kable(caption = '"Other" data types')
+```
+
+```{r}
+grouped_dockets |>
+    dplyr::filter(Type == "Legal") |>
+    dplyr::select(Title, Type = orig_type) |>
+    dplyr::count(Type, sort = TRUE) |>
+    dplyr::slice_max(n, n = 10) |>
+    knitr::kable(caption = '"Legal" data types')
+```
+
+```{r}
+simplified_data <- grouped_dockets |>
+  dplyr::ungroup() |>
+  dplyr::summarize(`Document Count` = max(`Document Count`), .by = c(Project, Type)) |>
+  dplyr::arrange(dplyr::desc(`Document Count`)) 
+  
+simplified_data |>
+  knitr::kable(caption = 'Summary of Kairos Documents')
+
+grouped_dockets |>
+  ggplot() +
+    geom_bar(aes(y = Project, fill = Type), position = position_dodge()) +
+    theme_bw() +
+    scale_fill_brewer(palette="Set1") +
+    labs(
+      title = "Kairos Power ADAMS Documents",
+      subtitle =  paste("as of", Sys.Date())
+    ) +
+    xlab("Document Count")
+ggsave("BarPlot.png")
+
+```
