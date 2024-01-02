@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 02 Jan 2024 00:09:06 GMT</pubDate>
-		<lastBuildDate>Tue, 02 Jan 2024 00:09:06 GMT</lastBuildDate>
+		<pubDate>Tue, 02 Jan 2024 14:15:16 GMT</pubDate>
+		<lastBuildDate>Tue, 02 Jan 2024 14:15:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>E-mail Readiness Assessment Engagement Plan Update - GE-Hitchi Nuclear Energy (GEH) BWRX-300 Safety Strategy Draft LTR - Dec 1 2023</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23355A267</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-01-02 08:37:00</pubDate>
+		</item>
+	</channel>
 </rss>
