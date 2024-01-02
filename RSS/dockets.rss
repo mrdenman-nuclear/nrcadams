@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 02 Jan 2024 19:12:44 GMT</pubDate>
-		<lastBuildDate>Tue, 02 Jan 2024 19:12:44 GMT</lastBuildDate>
+		<pubDate>Tue, 02 Jan 2024 20:15:28 GMT</pubDate>
+		<lastBuildDate>Tue, 02 Jan 2024 20:15:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for NuScale Power.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23320A175</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2024-01-02 14:47:00</pubDate>
+		</item>
 		<item>
 			<title>01/17/2024 Pre-Application meeting with X-energy to discuss the proposed Graphite Qualification Plan for the Xe-100 high temperature gas reactor</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24002A764</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23352A125</link>
 			<description>Final Safety Analysis Report (FSAR), Letter, Response to Request for Additional Information (RAI)</description>
 			<author>NuScale Power, LLC</author>
-			<pubDate>2023-12-27 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Summary Of The October 31, 2023, Closed Meeting With Westinghouse Electric Company Regarding The Principal Design Criteria Topical Report For The Evinci Micro Reactor Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23331A266</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2023-12-27 08:28:00</pubDate>
 		</item>
 	</channel>
