@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 01 Jan 2024 23:14:17 GMT</pubDate>
-		<lastBuildDate>Mon, 01 Jan 2024 23:14:17 GMT</lastBuildDate>
+		<pubDate>Tue, 02 Jan 2024 00:09:05 GMT</pubDate>
+		<lastBuildDate>Tue, 02 Jan 2024 00:09:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Univ of Illinois - Urbana - Champaign</author>
 			<pubDate>2023-12-27 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Proprietary Determination Letter for Fuel Qualification Methodology December 2023 Meeting Presentation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23352A043</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2023-12-26 08:42:00</pubDate>
 		</item>
 	</channel>
 </rss>
