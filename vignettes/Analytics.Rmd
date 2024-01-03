@@ -162,12 +162,12 @@ plt = grouped_dockets |>
 
 The data in linear scale:
 
-```{r, fig.height = 12}
+```{r, fig.height = 9, fig.width = 9}
 plt |> plotly::ggplotly()
 ```
 The data in a y axis semi log scale:
 
-```{r, fig.height = 12}
+```{r, fig.height = 9, fig.width = 9}
 plt = plt + scale_y_log10() 
 plt |> plotly::ggplotly()
 ```
@@ -178,9 +178,10 @@ Dockets can often be cluttered by affidavits, meeting notices, and other documen
 Reclassifying these documents using the `simplify_type` function and then removing the `Other` type can help
 see what is really going on in a docket. 
 
-```{r, fig.height = 20}
+```{r, fig.height = 20, fig.width = 9}
 
 plt <-  combined_dockets |>
+  nrcadams::simplify_type() |>
   dplyr::filter(!Type == "Other") |>
   dplyr::group_by(Project, Type) |>
   dplyr::arrange(`Publish Date`) |>
