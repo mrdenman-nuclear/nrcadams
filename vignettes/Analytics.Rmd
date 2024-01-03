@@ -179,6 +179,7 @@ plt |> plotly::ggplotly()
 Dockets can often be cluttered by affidavits, meeting notices, and other documents that can obscure insights. 
 Reclassifying these documents using the `simplify_type` function and then removing the `Other` type can help
 see what is really going on in a docket. 
+**Warning, in order to see what is happening in each docket, the y-axis is allowed to rescale to each docket. This can make comparing dockets difficult. 
 
 ```{r, fig.height = 20, fig.width = 9}
 
@@ -195,7 +196,7 @@ grouped_project_type <-  combined_dockets |>
     ) 
 
 plt <- grouped_project_type |>  
-  dplyr::filter(`Publish Date` > plot_min_date) |>
+  dplyr::filter(lubridate::as_date(`Publish Date`) > plot_min_date) |>
   ggplot() +
     geom_step(aes(x = `Publish Date`, y = `Document Count`, color = Type)) +
     theme_bw() +
@@ -204,12 +205,6 @@ plt <- grouped_project_type |>
       title = "Advanced Reactor ADAMS Documents",
       subtitle =  paste("as of", Sys.Date())
     ) +
-    scale_y_continuous(
-      breaks = seq(
-        0,
-        max(grouped_project_type$`Document Count`), 
-        by = 100)
-      ) +
     scale_x_continuous(
       breaks= seq(
         min(plot_min_date), 
@@ -217,7 +212,7 @@ plt <- grouped_project_type |>
         by = "quarter"
         )
       ) +
-    facet_grid(vars(Project))
+    facet_grid(vars(Project), scales = "free_y")
 
 plt |> plotly::ggplotly()
 ```
