@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 02 Jan 2024 23:15:57 GMT</pubDate>
-		<lastBuildDate>Tue, 02 Jan 2024 23:15:57 GMT</lastBuildDate>
+		<pubDate>Wed, 03 Jan 2024 04:55:18 GMT</pubDate>
+		<lastBuildDate>Wed, 03 Jan 2024 04:55:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Letter</description>
 			<author>Univ of Illinois - Urbana - Champaign</author>
 			<pubDate>2023-12-28 11:19:00</pubDate>
-		</item>
-		<item>
-			<title>UIUC Public Meeting Presentation on December 14, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23356A006</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Univ of Illinois - Urbana - Champaign</author>
-			<pubDate>2023-12-27 08:28:00</pubDate>
 		</item>
 	</channel>
 </rss>

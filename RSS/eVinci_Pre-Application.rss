@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 02 Jan 2024 23:15:57 GMT</pubDate>
-		<lastBuildDate>Tue, 02 Jan 2024 23:15:57 GMT</lastBuildDate>
+		<pubDate>Wed, 03 Jan 2024 04:55:18 GMT</pubDate>
+		<lastBuildDate>Wed, 03 Jan 2024 04:55:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,34 +38,6 @@
 			<description>Topical Report</description>
 			<author>Westinghouse Electric Co, Westinghouse Electric Co, LLC</author>
 			<pubDate>2023-12-29 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>Summary Of The October 31, 2023, Closed Meeting With Westinghouse Electric Company Regarding The Principal Design Criteria Topical Report For The Evinci Micro Reactor Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23331A266</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2023-12-27 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse, Affidavit AW-23-067</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23352A136</link>
-			<description>Legal-Affidavit</description>
-			<author>Westinghouse Electric Co, Westinghouse Electric Co, LLC</author>
-			<pubDate>2023-12-27 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse, Submittal of Response to NRC Request for Additional Information on the Principal Design Criteria Tropical Report for the eVinci Microreactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23352A135</link>
-			<description>Letter</description>
-			<author>Westinghouse Electric Co, Westinghouse Electric Co, LLC</author>
-			<pubDate>2023-12-27 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse, Response to RAI PDC 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23352A138</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>Westinghouse Electric Co, Westinghouse Electric Co, LLC</author>
-			<pubDate>2023-12-27 08:28:00</pubDate>
 		</item>
 	</channel>
 </rss>
