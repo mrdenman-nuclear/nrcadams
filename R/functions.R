@@ -211,7 +211,7 @@ search_long_docket = function(
   DocketNumber,
   search_term = NA,
   number_of_intervals = 5,
-  start_date = "2013-1-1",
+  start_date = "2017-1-1",
   document_type = NA
   ) {
 
@@ -220,7 +220,7 @@ search_long_docket = function(
   message(
     paste(
       "With", number_of_intervals,
-      "starting on",start_date,
+      "starting on", start_date,
       "the duration of each search will be", search_duration
       )
     )
