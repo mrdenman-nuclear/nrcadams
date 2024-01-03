@@ -10,9 +10,7 @@ simplify_type = function(search_tbl, type_vct = Type) {
   search_tbl |>
     dplyr::mutate(
       {{type_vct}} := dplyr::case_when(
-        {{type_vct}} |> stringr::str_detect("Legal-Affidavit") ~ "Other",
-        {{type_vct}} |> stringr::str_detect("Legal") ~ "Legal",
-        {{type_vct}} |> stringr::str_detect("FR Notice Comment Letter") ~ "Public Comments",
+        {{type_vct}} |> stringr::str_detect("Comment Letter") ~ "Public Comments",
         {{type_vct}} |> stringr::str_detect("RAI") ~ "RAI",
         {{type_vct}} |> stringr::str_detect("Audit") ~ "Audit",
         {{type_vct}} |> stringr::str_detect("SAR") ~ "Safety Analysis",
@@ -21,6 +19,8 @@ simplify_type = function(search_tbl, type_vct = Type) {
         {{type_vct}} |> stringr::str_detect("Safety Evaluation") ~ "Safety Eval.",
         {{type_vct}} |> stringr::str_detect("Report") ~ "Report",
         {{type_vct}} |> stringr::str_detect("Slides") ~ "Slides",
+        {{type_vct}} |> stringr::str_detect("Legal-Affidavit") ~ "Other",
+        {{type_vct}} |> stringr::str_detect("Legal") ~ "Legal",
         TRUE ~ "Other"
       )
     )
