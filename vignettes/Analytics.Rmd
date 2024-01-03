@@ -148,13 +148,13 @@ plt = grouped_dockets |>
     breaks= seq(
       0, 
       max(grouped_dockets$`Document Count`), 
-      by=500)
+      by=200)
     ) +
   scale_x_continuous(
     breaks= seq(
       min(plot_min_date), 
       max(grouped_dockets$`Publish Date` |> lubridate::as_date()) , 
-      by = "year"
+      by = "quarter"
       )
     )
 ```
