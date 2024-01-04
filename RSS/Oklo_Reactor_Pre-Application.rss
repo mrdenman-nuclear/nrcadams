@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 03 Jan 2024 23:16:28 GMT</pubDate>
-		<lastBuildDate>Wed, 03 Jan 2024 23:16:28 GMT</lastBuildDate>
+		<pubDate>Thu, 04 Jan 2024 14:14:42 GMT</pubDate>
+		<lastBuildDate>Thu, 04 Jan 2024 14:14:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Oklo Inc., Submittal of Licensing Project Plan: 4Q2023 Update</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23353A232</link>
-			<description>Letter</description>
-			<author>Oklo Inc</author>
-			<pubDate>2023-12-28 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo Inc., Affidavit Authorized to Make Request for Withholding</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23353A233</link>
-			<description>Legal-Affidavit</description>
-			<author>Oklo Inc</author>
-			<pubDate>2023-12-28 08:28:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

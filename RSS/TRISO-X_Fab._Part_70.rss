@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 03 Jan 2024 23:16:28 GMT</pubDate>
-		<lastBuildDate>Wed, 03 Jan 2024 23:16:28 GMT</lastBuildDate>
+		<pubDate>Thu, 04 Jan 2024 14:14:42 GMT</pubDate>
+		<lastBuildDate>Thu, 04 Jan 2024 14:14:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Summary of Meeting on December 4, 2023, with TRISO-X LLC, to Align on TRISO-X Draft Responses to the Requests for Additional Information for the Chemical Safety Analysis</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23353A183</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2024-01-04 08:32:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1 - Participants List for Summary of Meeting Held December 4, 2023, With TRISO-X, LLC to Align on Draft Responses to Requests for Additional Information for Chemical Safety Analysis</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23353A184</link>
+			<description>- No Document Type Applies</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2024-01-04 08:32:00</pubDate>
+		</item>
+	</channel>
 </rss>

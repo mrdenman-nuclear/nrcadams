@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 03 Jan 2024 23:16:28 GMT</pubDate>
-		<lastBuildDate>Wed, 03 Jan 2024 23:16:28 GMT</lastBuildDate>
+		<pubDate>Thu, 04 Jan 2024 14:14:42 GMT</pubDate>
+		<lastBuildDate>Thu, 04 Jan 2024 14:14:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>E-Mail, Request for Additional Information (RAI)</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2024-01-03 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Proprietary Presentation Materials to Support a Closed Pre-submittal Meeting for the Upcoming Topical Report, "University of Illinois Urbana-Champaign High Temperature Gas-cooled Research Reactor: Fuel Qualification Methodology"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23355A213</link>
-			<description>Letter</description>
-			<author>Univ of Illinois - Urbana - Champaign</author>
-			<pubDate>2023-12-28 11:19:00</pubDate>
 		</item>
 	</channel>
 </rss>

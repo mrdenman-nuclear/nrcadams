@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 03 Jan 2024 23:16:28 GMT</pubDate>
-		<lastBuildDate>Wed, 03 Jan 2024 23:16:28 GMT</lastBuildDate>
+		<pubDate>Thu, 04 Jan 2024 14:14:42 GMT</pubDate>
+		<lastBuildDate>Thu, 04 Jan 2024 14:14:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Letter, Operating Plan</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2023-12-29 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>NRC 898 - Completeness Determination for the TerraPower, LLC. "Radiological Release Consequences Methodology Topical Report" Revision 0 (EPID L-2023-TOP-0055)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23333A072</link>
-			<description>Proprietary Information Review, Topical Report</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-12-28 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>2023/12/18 NRR E-mail Capture - [External_Sender] RE: Proposed Revised Schedule TerraPower TR [DBA] Methodology for In-Vessel Events without Radiological Release (L-2023-TOP-0050)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23352A273</link>
-			<description>E-Mail</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2023-12-28 08:28:00</pubDate>
 		</item>
 	</channel>
 </rss>
