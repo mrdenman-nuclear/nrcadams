@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 04 Jan 2024 23:15:59 GMT</pubDate>
-		<lastBuildDate>Thu, 04 Jan 2024 23:15:59 GMT</lastBuildDate>
+		<pubDate>Fri, 05 Jan 2024 14:15:14 GMT</pubDate>
+		<lastBuildDate>Fri, 05 Jan 2024 14:15:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Letter, License-Operator, Part 55 Examination Related Material</description>
 			<author>NRC/NRR/DANU/UNPO</author>
 			<pubDate>2024-01-02 11:55:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Report No. 50-184/OL-23-02, National Institute of Standards and Technology</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23257A198</link>
-			<description>Letter, License-Operator Examination Report, License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2023-12-29 08:38:00</pubDate>
 		</item>
 	</channel>
 </rss>

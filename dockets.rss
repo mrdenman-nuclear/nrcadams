@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 04 Jan 2024 23:16:08 GMT</pubDate>
-		<lastBuildDate>Thu, 04 Jan 2024 23:16:08 GMT</lastBuildDate>
+		<pubDate>Fri, 05 Jan 2024 14:15:23 GMT</pubDate>
+		<lastBuildDate>Fri, 05 Jan 2024 14:15:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>01/17/2024 Meeting to discuss NRC's draft environmental GW RAIs with TRISO-X</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24005A006</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2024-01-05 08:41:00</pubDate>
+		</item>
 		<item>
 			<title>01/17/2024 TRISO-X Fuel Fabrication Facility Environmental Review - Requests for Additional Information</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24004A233</link>
@@ -150,48 +157,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2024-01-02 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>EMAIL - Completeness Determination for the TerraPower, LLC. "Radiological Release Consequences Methodology Topical Report" Revision 0 (EPID L-2023-TOP-0055)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23333A073</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-12-29 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>Preapplication Readiness Assessment Plan - TerraPower, LLC Forthcoming Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23352A102</link>
-			<description>Letter, Operating Plan</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2023-12-29 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Observations on X-energy Emergency Planning Approach White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23324A114</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2023-12-29 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - NRC Observations on X-energy Emergency Planning Approach White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23324A134</link>
-			<description>Report, Miscellaneous</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2023-12-29 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Affidavit AW-23-068</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23354A140</link>
-			<description>Legal-Affidavit</description>
-			<author>Westinghouse Electric Co, Westinghouse Electric Co, LLC</author>
-			<pubDate>2023-12-29 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: WCAP-18810-NP, Revision 0, "Advanced Logic System v2 Platform Elimination of Technical Specification Surveillance Requirements"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23354A142</link>
-			<description>Topical Report</description>
-			<author>Westinghouse Electric Co, Westinghouse Electric Co, LLC</author>
-			<pubDate>2023-12-29 08:37:00</pubDate>
 		</item>
 	</channel>
 </rss>
