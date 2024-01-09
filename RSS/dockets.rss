@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 08 Jan 2024 23:14:43 GMT</pubDate>
-		<lastBuildDate>Mon, 08 Jan 2024 23:14:43 GMT</lastBuildDate>
+		<pubDate>Tue, 09 Jan 2024 14:16:09 GMT</pubDate>
+		<lastBuildDate>Tue, 09 Jan 2024 14:16:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -164,55 +164,6 @@
 			<description>Operating Plan</description>
 			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2024-01-03 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Information from Public Disclosure for NuScale Power.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23320A175</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2024-01-02 14:47:00</pubDate>
-		</item>
-		<item>
-			<title>01/17/2024 Pre-Application meeting with X-energy to discuss the proposed Graphite Qualification Plan for the Xe-100 high temperature gas reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24002A764</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-01-02 11:27:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy LLC - NRC Form 896 -A Topical Report Verification for Control Room Staffing  Analysis Methodology Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23342A067</link>
-			<description>Administrative Form, NRC</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-01-02 08:38:00</pubDate>
-		</item>
-		<item>
-			<title>Abilene Christian University (ACU) - Transmittal of Requests for Additional Information (EPID L-2022-NFW-0002)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23348A196</link>
-			<description>Letter, Request for Additional Information (RAI)</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-01-02 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse, Affidavit AW-23-066</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23355A167</link>
-			<description>Legal-Affidavit</description>
-			<author>Westinghouse Electric Co, Westinghouse Electric Co, LLC</author>
-			<pubDate>2024-01-02 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse, Submittal of eVinci Microreactor 2023 Pre-Application Regulatory Engagement Plan</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23355A166</link>
-			<description>Letter</description>
-			<author>Westinghouse Electric Co, Westinghouse Electric Co, LLC</author>
-			<pubDate>2024-01-02 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>E-mail Readiness Assessment Engagement Plan Update - GE-Hitchi Nuclear Energy (GEH) BWRX-300 Safety Strategy Draft LTR - Dec 1 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23355A267</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-01-02 08:37:00</pubDate>
 		</item>
 	</channel>
 </rss>
