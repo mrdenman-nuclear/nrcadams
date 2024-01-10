@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 09 Jan 2024 23:16:09 GMT</pubDate>
-		<lastBuildDate>Tue, 09 Jan 2024 23:16:09 GMT</lastBuildDate>
+		<pubDate>Wed, 10 Jan 2024 14:16:11 GMT</pubDate>
+		<lastBuildDate>Wed, 10 Jan 2024 14:16:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>X-Energy, LLC, Presentation Materials – Xe-100 Graphite Engagement: Transient, Fatigue, and Seismic Assessment Methodology</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24002B164</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2024-01-10 08:30:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: Xe-100 Graphite Engagement: Transient, Fatigue, and Seismic Assessment Methodology Presentation - Open Meeting - Non-Proprietary (Public)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24002B166</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2024-01-10 08:30:00</pubDate>
+		</item>
+		<item>
+			<title>Summary of the November 30, 2023, Partially Closed Public Meeting with Kairos Power LLC regarding its forthcoming Core Design Methodology Topical Report(ML24003A784)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24003A784</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-01-10 08:30:00</pubDate>
+		</item>
+		<item>
+			<title>01/24/2024 Pre-application meeting with GE-Hitachi Nuclear Energy Americas, LLC (GEH) on NRC staff SRP BTP 3-4</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24009A287</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-01-09 19:27:00</pubDate>
+		</item>
 		<item>
 			<title>Withdrawal of X-energy, LLC (X-energy) Xe-100 Licensing Topical Report GOTHIC and Flownex Analysis Codes Qualification</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23362A068</link>
@@ -129,41 +157,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
 			<pubDate>2024-01-04 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>01/22/2024 Pre-application meeting with Kairos Power on use of electron beam welding</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24003A917</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-01-03 17:37:00</pubDate>
-		</item>
-		<item>
-			<title>01/23/2024 Pre-application meeting with Kairos on the Applicability of Part 21 to the Hermes Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24003A907</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-01-03 17:33:00</pubDate>
-		</item>
-		<item>
-			<title>2023/12/19 NRR E-mail Capture - Request for Additional Information Regarding UIUC Event Sequence Identification and SSC Safety Classification Methodology</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23354A009</link>
-			<description>E-Mail, Request for Additional Information (RAI)</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-01-03 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC Regulatory Engagement Plan, Revision 6 (Project No. 99902049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23356A135</link>
-			<description>Letter</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2024-01-03 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>HI-2220511, Revision 7, "SMR-300 Regulatory Engagement Plan"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23356A136</link>
-			<description>Operating Plan</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2024-01-03 08:37:00</pubDate>
 		</item>
 	</channel>
 </rss>

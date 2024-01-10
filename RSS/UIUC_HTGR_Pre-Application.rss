@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 09 Jan 2024 23:16:17 GMT</pubDate>
-		<lastBuildDate>Tue, 09 Jan 2024 23:16:17 GMT</lastBuildDate>
+		<pubDate>Wed, 10 Jan 2024 14:16:19 GMT</pubDate>
+		<lastBuildDate>Wed, 10 Jan 2024 14:16:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DANU/UNPL</author>
 			<pubDate>2024-01-08 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>2023/12/19 NRR E-mail Capture - Request for Additional Information Regarding UIUC Event Sequence Identification and SSC Safety Classification Methodology</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23354A009</link>
-			<description>E-Mail, Request for Additional Information (RAI)</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-01-03 08:37:00</pubDate>
 		</item>
 	</channel>
 </rss>

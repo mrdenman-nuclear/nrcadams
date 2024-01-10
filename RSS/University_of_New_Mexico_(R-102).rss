@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 09 Jan 2024 23:16:10 GMT</pubDate>
-		<lastBuildDate>Tue, 09 Jan 2024 23:16:10 GMT</lastBuildDate>
+		<pubDate>Wed, 10 Jan 2024 14:16:12 GMT</pubDate>
+		<lastBuildDate>Wed, 10 Jan 2024 14:16:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>University of New Mexico - Response to NOV 05000252/2023201-1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24002B111</link>
+			<description>Letter, Licensee Response to Notice of Violation</description>
+			<author>Univ of New Mexico</author>
+			<pubDate>2024-01-10 08:30:00</pubDate>
+		</item>
+	</channel>
 </rss>
