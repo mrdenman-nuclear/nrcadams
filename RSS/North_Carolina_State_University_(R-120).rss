@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 10 Jan 2024 23:14:12 GMT</pubDate>
-		<lastBuildDate>Wed, 10 Jan 2024 23:14:12 GMT</lastBuildDate>
+		<pubDate>Thu, 11 Jan 2024 14:15:07 GMT</pubDate>
+		<lastBuildDate>Thu, 11 Jan 2024 14:15:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Withdrawal--NCSU TS amendment request (email C.Fleming, NCSU to DHardesty, NRC)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24010A219</link>
+			<description>E-Mail</description>
+			<author>North Carolina State Univ</author>
+			<pubDate>2024-01-11 08:39:00</pubDate>
+		</item>
+	</channel>
 </rss>

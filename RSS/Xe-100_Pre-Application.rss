@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 10 Jan 2024 23:14:20 GMT</pubDate>
-		<lastBuildDate>Wed, 10 Jan 2024 23:14:20 GMT</lastBuildDate>
+		<pubDate>Thu, 11 Jan 2024 14:15:16 GMT</pubDate>
+		<lastBuildDate>Thu, 11 Jan 2024 14:15:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,27 +38,6 @@
 			<description>Letter</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2024-01-08 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy LLC - NRC Form 896 -A Topical Report Verification for Control Room Staffing  Analysis Methodology Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23342A079</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-01-04 15:31:00</pubDate>
-		</item>
-		<item>
-			<title>10/12/2023 Summary of Public Meeting With X-Energy, LLC., to Discuss "Approach For Graphite Qualification For The XE-100 High Temperature Gas Reactor"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23319A359</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-01-04 13:33:00</pubDate>
-		</item>
-		<item>
-			<title>11/09/2023 Summary of Public Meeting With X-Energy, LLC., to Discuss "Approach For Graphite Qualification For The XE-100 High Temperature Gas Reactor"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23355A076</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-01-04 13:33:00</pubDate>
 		</item>
 	</channel>
 </rss>
