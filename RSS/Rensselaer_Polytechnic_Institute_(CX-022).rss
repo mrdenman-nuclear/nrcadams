@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 11 Jan 2024 15:15:57 GMT</pubDate>
-		<lastBuildDate>Thu, 11 Jan 2024 15:15:57 GMT</lastBuildDate>
+		<pubDate>Thu, 11 Jan 2024 16:19:49 GMT</pubDate>
+		<lastBuildDate>Thu, 11 Jan 2024 16:19:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Rensselaer Polytechnic Institute – Change Of Facility Project Manager</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24002B080</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2024-01-11 08:38:00</pubDate>
+		</item>
+	</channel>
 </rss>
