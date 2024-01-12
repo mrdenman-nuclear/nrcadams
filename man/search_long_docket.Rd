@@ -11,7 +11,7 @@ search_long_docket(
   DocketNumber,
   search_term = NA,
   number_of_intervals = 5,
-  start_date = "2013-1-1",
+  start_date = "2017-1-1",
   document_type = NA
 )
 }

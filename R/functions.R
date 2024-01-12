@@ -145,6 +145,11 @@ make_results_tibble = function(adams_url, download = FALSE) {
 
 
   if(results |> nrcadams:::extract_from_xml("count") |> as.integer() == 0) return(tibble::tibble())
+ 
+  docket_number <- results |>
+      nrcadams:::extract_from_xml("DocketNumber")
+
+  if(is.null(docket_number)) docket_number = 1
 
   adams_tbl = tibble::tibble(
     Title = results |>
@@ -161,8 +166,7 @@ make_results_tibble = function(adams_url, download = FALSE) {
       nrcadams:::extract_from_xml("AuthorAffiliation"),
     URL = results |>
       nrcadams:::extract_from_xml("URI"),
-    DocketNumber = results |>
-      nrcadams:::extract_from_xml("DocketNumber"),
+    DocketNumber = docket_number,
     `ML Number` = results |>
       nrcadams:::extract_from_xml("AccessionNumber")
   ) |>
