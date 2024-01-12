@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 11 Jan 2024 23:16:13 GMT</pubDate>
-		<lastBuildDate>Thu, 11 Jan 2024 23:16:13 GMT</lastBuildDate>
+		<pubDate>Fri, 12 Jan 2024 14:15:07 GMT</pubDate>
+		<lastBuildDate>Fri, 12 Jan 2024 14:15:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TRISO-X Fuel Facility Resident Inspector Decision</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23355A245</link>
+			<description>Memoranda</description>
+			<author>NRC/NMSS/DFM</author>
+			<pubDate>2024-01-12 08:54:00</pubDate>
+		</item>
 		<item>
 			<title>01/23/2024 Structural Discussion  Align on NRC Supplement for the TRISO-X Responses to the Building Risk Category Programmatic RAI</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24011A011</link>
@@ -31,13 +38,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2024-01-11 07:51:00</pubDate>
-		</item>
-		<item>
-			<title>01/17/2024 Meeting to discuss NRC's draft environmental GW RAIs with TRISO-X</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24005A006</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-01-05 08:41:00</pubDate>
 		</item>
 	</channel>
 </rss>

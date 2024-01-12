@@ -5,18 +5,39 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 11 Jan 2024 23:16:18 GMT</pubDate>
-		<lastBuildDate>Thu, 11 Jan 2024 23:16:18 GMT</lastBuildDate>
+		<pubDate>Fri, 12 Jan 2024 14:15:07 GMT</pubDate>
+		<lastBuildDate>Fri, 12 Jan 2024 14:15:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
 			<title>01/24/2024 Notice of Meeting with the University of Illinois at Urbana-Champaign</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24011A312</link>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24012A035</link>
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
-			<pubDate>2024-01-11 17:38:00</pubDate>
+			<pubDate>2024-01-12 09:07:00</pubDate>
+		</item>
+		<item>
+			<title>Kairos Power, LLC-Hermes 2-Environmental Report Audit Plan</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23353A069</link>
+			<description>Audit Plan, Letter</description>
+			<author>NRC/NMSS/DREFS/ENRB</author>
+			<pubDate>2024-01-12 08:54:00</pubDate>
+		</item>
+		<item>
+			<title>Kairos Power, LLC-Hermes 2-Environmental Report Audit Plan</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23353A069</link>
+			<description>Audit Plan, Letter</description>
+			<author>NRC/NMSS/DREFS/ENRB</author>
+			<pubDate>2024-01-12 08:54:00</pubDate>
+		</item>
+		<item>
+			<title>TRISO-X Fuel Facility Resident Inspector Decision</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23355A245</link>
+			<description>Memoranda</description>
+			<author>NRC/NMSS/DFM</author>
+			<pubDate>2024-01-12 08:54:00</pubDate>
 		</item>
 		<item>
 			<title>NuScale SDAA Quality Assurance Program Implementation Inspection Announcement Letter</title>
@@ -171,34 +192,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-01-08 08:14:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Changes to Hermes 2 Construction Permit Application (PSAR) Chapters 4, 5, 7, and 13</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24003A767</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2024-01-05 14:26:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Changes to Hermes 2 Construction Permit Application (PSAR) Chapters 4, 5, 7, and 13</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24003A767</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2024-01-05 14:26:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of TerraPower Plume Exposure Pathway Emergency Planning Zone Methodology Topical Report, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23321A036</link>
-			<description>Letter, Topical Report</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2024-01-05 10:58:00</pubDate>
-		</item>
-		<item>
-			<title>01/17/2024 Meeting to discuss NRC's draft environmental GW RAIs with TRISO-X</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24005A006</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-01-05 08:41:00</pubDate>
 		</item>
 	</channel>
 </rss>
