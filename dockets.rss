@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 12 Jan 2024 23:14:02 GMT</pubDate>
-		<lastBuildDate>Fri, 12 Jan 2024 23:14:02 GMT</lastBuildDate>
+		<pubDate>Mon, 15 Jan 2024 14:15:48 GMT</pubDate>
+		<lastBuildDate>Mon, 15 Jan 2024 14:15:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -185,41 +185,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-01-09 19:27:00</pubDate>
-		</item>
-		<item>
-			<title>Withdrawal of X-energy, LLC (X-energy) Xe-100 Licensing Topical Report GOTHIC and Flownex Analysis Codes Qualification</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23362A068</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2024-01-08 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>November 15, 2023 Summary of Meeting with SHINE Technologies, LLC to Discuss the Pre-Application Engagements for the Licensing of a Used Nuclear Fuel Recycling Pilot Facility</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23360A002</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-01-08 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of the December 14, 2023, Public Meeting Between U.S. Nuclear Regulatory Commission Staff and University of Illinois at Urbana-Champaign to Discuss Proposed Topical Report on Fuel Qualification Methodology (EPID No. L-2021-FNF-0002)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24004A140</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2024-01-08 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>01/18/2024 Meeting with Oklo to discuss seismic design categorization and site characterization</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24005A288</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-01-08 08:14:00</pubDate>
-		</item>
-		<item>
-			<title>01/17/2024 Meeting with Oklo to discuss physical security for its advanced reactors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24005A289</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-01-08 08:14:00</pubDate>
 		</item>
 	</channel>
 </rss>
