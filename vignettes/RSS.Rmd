@@ -75,14 +75,18 @@ if (length(last_week_in_RTRs) != 0) {
           )
     })
 }
-  
-nrcadams::search_ACRS() |>
-  nrcadams::write_rss(
-    file = here::here("docs", "RSS", paste0(
-      "ACRS", ".rss")
-      ),
-    title = "ACRS"
-    )
+
+ACRS <- nrcadams::search_ACRS()
+
+if (length(ACRS) != 0) {
+  nrcadams::search_ACRS() |>
+    nrcadams::write_rss(
+      file = here::here("docs", "RSS", paste0(
+        "ACRS", ".rss")
+        ),
+      title = "ACRS"
+      )  
+}
 
 
 
