@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 15 Jan 2024 23:15:39 GMT</pubDate>
-		<lastBuildDate>Mon, 15 Jan 2024 23:15:39 GMT</lastBuildDate>
+		<pubDate>Tue, 16 Jan 2024 23:35:43 GMT</pubDate>
+		<lastBuildDate>Tue, 16 Jan 2024 23:35:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>University Of Maryland - U.S. Nuclear Regulatory Commission Routine Inspection Report No. 05000166/2023203</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23319A274</link>
+			<description>Inspection Report, Letter</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2024-01-16 11:54:00</pubDate>
+		</item>
+	</channel>
 </rss>
