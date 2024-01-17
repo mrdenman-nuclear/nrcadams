@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 16 Jan 2024 23:35:58 GMT</pubDate>
-		<lastBuildDate>Tue, 16 Jan 2024 23:35:58 GMT</lastBuildDate>
+		<pubDate>Wed, 17 Jan 2024 14:16:00 GMT</pubDate>
+		<lastBuildDate>Wed, 17 Jan 2024 14:16:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,34 +17,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-01-16 13:39:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - 10/25/2023 Public Meeting Agenda SMR 160 Holtec.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23318A081</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-01-10 14:56:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - 10/25/2023 Public Meeting Attendees SMR 160 Holtec.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23318A082</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-01-10 14:56:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3 - 10/25/2023 Public Meeting Summary SMR 160 Holtec.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23318A083</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-01-10 14:56:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 4 - 10/25/2023 Public Meeting SMR-160 Risk Significance Methodology - Staff Questions - Holtec Responses</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23332A007</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-01-10 14:56:00</pubDate>
 		</item>
 	</channel>
 </rss>

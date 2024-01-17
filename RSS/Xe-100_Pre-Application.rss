@@ -5,32 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 16 Jan 2024 23:35:57 GMT</pubDate>
-		<lastBuildDate>Tue, 16 Jan 2024 23:35:57 GMT</lastBuildDate>
+		<pubDate>Wed, 17 Jan 2024 14:16:00 GMT</pubDate>
+		<lastBuildDate>Wed, 17 Jan 2024 14:16:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>10/11/2023 Summary of Public Meeting With X-Energy, LLC., "Spent Fuel Management White Paper"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24004A021</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-01-10 14:56:00</pubDate>
-		</item>
-		<item>
-			<title>X-Energy, LLC, Presentation Materials – Xe-100 Graphite Engagement: Transient, Fatigue, and Seismic Assessment Methodology</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24002B164</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2024-01-10 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Xe-100 Graphite Engagement: Transient, Fatigue, and Seismic Assessment Methodology Presentation - Open Meeting - Non-Proprietary (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24002B166</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2024-01-10 08:30:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
