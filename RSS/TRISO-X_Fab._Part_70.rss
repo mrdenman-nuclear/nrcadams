@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 18 Jan 2024 23:16:18 GMT</pubDate>
-		<lastBuildDate>Thu, 18 Jan 2024 23:16:18 GMT</lastBuildDate>
+		<pubDate>Fri, 19 Jan 2024 14:15:22 GMT</pubDate>
+		<lastBuildDate>Fri, 19 Jan 2024 14:15:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TRISO-X DOE NRC MOU Final signed.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24018A208</link>
+			<description>Legal-Memorandum of Agreement/Understanding</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2024-01-19 08:38:00</pubDate>
+		</item>
 		<item>
 			<title>Scoping Summary Report Related to the Environmental Scoping Process For The Triso-X Special Nuclear Material License Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24010A166</link>
@@ -31,13 +38,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2024-01-16 09:15:00</pubDate>
-		</item>
-		<item>
-			<title>TRISO-X Fuel Facility Resident Inspector Decision</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23355A245</link>
-			<description>Memoranda</description>
-			<author>NRC/NMSS/DFM</author>
-			<pubDate>2024-01-12 08:54:00</pubDate>
 		</item>
 	</channel>
 </rss>
