@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 22 Jan 2024 23:17:13 GMT</pubDate>
-		<lastBuildDate>Mon, 22 Jan 2024 23:17:13 GMT</lastBuildDate>
+		<pubDate>Tue, 23 Jan 2024 14:15:32 GMT</pubDate>
+		<lastBuildDate>Tue, 23 Jan 2024 14:15:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DANU/UNPL</author>
 			<pubDate>2024-01-19 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>Idaho State University - U.S. Nuclear Regulatory Commission Routine Inspection Report No. 05000284/2023201 And Notice Of Violation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23229A025</link>
-			<description>Inspection Report, Letter, Notice of Violation</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2024-01-16 08:43:00</pubDate>
 		</item>
 	</channel>
 </rss>
