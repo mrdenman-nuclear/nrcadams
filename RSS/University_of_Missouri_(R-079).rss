@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 26 Jan 2024 15:14:52 GMT</pubDate>
-		<lastBuildDate>Fri, 26 Jan 2024 15:14:52 GMT</lastBuildDate>
+		<pubDate>Fri, 26 Jan 2024 16:16:49 GMT</pubDate>
+		<lastBuildDate>Fri, 26 Jan 2024 16:16:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Examination Confirmation Letter No. 50-123/Ol-24-02, Missouri University Of Science And Technology (MUST)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24017A166</link>
+			<description>Inspection Plan, Letter, License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2024-01-26 11:04:00</pubDate>
+		</item>
+	</channel>
 </rss>
