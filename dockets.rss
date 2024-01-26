@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 26 Jan 2024 20:15:07 GMT</pubDate>
-		<lastBuildDate>Fri, 26 Jan 2024 20:15:07 GMT</lastBuildDate>
+		<pubDate>Fri, 26 Jan 2024 21:14:35 GMT</pubDate>
+		<lastBuildDate>Fri, 26 Jan 2024 21:14:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Kairos Power LLC, Changes to PSAR Chapter 3 and 9</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24025C687</link>
+			<description>Preliminary Safety Analysis Report (PSAR)</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2024-01-26 15:21:00</pubDate>
+		</item>
+		<item>
+			<title>Kairos Power LLC, Changes to PSAR Chapter 3 and 9</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24025C687</link>
+			<description>Preliminary Safety Analysis Report (PSAR)</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2024-01-26 15:21:00</pubDate>
+		</item>
 		<item>
 			<title>Kairos Power LLC, Transmittal of Changes to Hermes 2 Construction Permit Application - PSAR Chapter 3 and Chapter 9</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24025C686</link>
@@ -206,20 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-01-23 13:41:00</pubDate>
-		</item>
-		<item>
-			<title>Information Needs Provided by the NRC Staff for the 1-26-24 Public Meeting with SMR, LLC a Holtec International Company to discuss the Quality Assurance Program Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24022A077</link>
-			<description>Quality Assurance Program, Request for Additional Information (RAI)</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-01-23 10:20:00</pubDate>
-		</item>
-		<item>
-			<title>01/23/2024 Pre-application meeting with Kairos on the Applicability of Part 21 to the Hermes Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24023A030</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-01-23 09:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
