@@ -5,12 +5,47 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 25 Jan 2024 23:14:30 GMT</pubDate>
-		<lastBuildDate>Thu, 25 Jan 2024 23:14:30 GMT</lastBuildDate>
+		<pubDate>Fri, 26 Jan 2024 14:14:47 GMT</pubDate>
+		<lastBuildDate>Fri, 26 Jan 2024 14:14:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Meeting Summary - TerraPower - Reactor Stability</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24012A067</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-01-26 08:33:00</pubDate>
+		</item>
+		<item>
+			<title>Meeting Summary - TerraPower- Design Basis Accident Transient Methodology - In-vessel Without Releases</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24012A075</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-01-26 08:33:00</pubDate>
+		</item>
+		<item>
+			<title>Meeting Summary - TerraPower - Fuel Handling Supervisory Control System I&C</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24012A080</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-01-26 08:33:00</pubDate>
+		</item>
+		<item>
+			<title>Meeting Summary - TerraPower - Severe Accident Mitigation Design Alternatives (SAMDAs)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24012A081</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-01-26 08:33:00</pubDate>
+		</item>
+		<item>
+			<title>Meeting Summary - TP Meeting DBA In-Vessel with Release, Ex-vessel with and without Release</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24012A088</link>
+			<description>Meeting Summary</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-01-26 08:33:00</pubDate>
+		</item>
 		<item>
 			<title>TerraPower, LLC, Transmittal of "Radiological Source Term Methodology Report," Revision 1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24017A116</link>
@@ -31,41 +66,6 @@
 			<description>Letter, Proprietary Information Review</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2024-01-22 08:45:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - Audit Report - TerraPower - Emergency Planning Zone (EPZ) Sizing.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24008A062</link>
-			<description>Audit Report</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-01-19 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>Audit Report Letter - TerraPower - Emergency Planning Zone (EPZ) Sizing</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24008A061</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-01-19 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>06/15/2023 Summary of partially Closed Meeting With TerraPower, LLC, To Discuss Instrumentation And Control Architecture and Design Basis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24009A194</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-01-19 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>06/06/2023 Summary of Partially Closed Meeting With TerraPower, LLC To Discuss Core Thermal Hydraulics Methods</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24009A191</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-01-19 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>Meeting Summary - TerraPower - Seismic Isolation Strategy</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24009A187</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-01-19 08:37:00</pubDate>
 		</item>
 	</channel>
 </rss>

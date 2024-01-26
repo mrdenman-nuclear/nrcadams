@@ -5,46 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 25 Jan 2024 23:14:24 GMT</pubDate>
-		<lastBuildDate>Thu, 25 Jan 2024 23:14:24 GMT</lastBuildDate>
+		<pubDate>Fri, 26 Jan 2024 14:14:39 GMT</pubDate>
+		<lastBuildDate>Fri, 26 Jan 2024 14:14:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>AGNIR Hazards Summary Report AN-1193.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML18044A100</link>
-			<description>Report, Technical</description>
-			<author>Aerotest Operations, Inc</author>
-			<pubDate>2024-01-19 14:49:00</pubDate>
-		</item>
-		<item>
-			<title>Insp Rept 50-228/91-03 on 910430-0522 (ref 10CFR2.790(d)).No violations or deviations noted.Major areas inspected:reactor operations including,organization,review & audit,experiments & emergency preparedness program.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML19302E697</link>
-			<description>INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC Office of Inspection and Enforcement (IE Region V)</author>
-			<pubDate>2024-01-19 14:49:00</pubDate>
-		</item>
-		<item>
-			<title>Insp rept 50-228/93-01 on 930113-14 & 0204.No violations noted.Major areas inspected:organization,review & audit, experiments & transportation activities emergency preparedness program & drills.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20044C419</link>
-			<description>INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>BRC Pinnacle LLC, NRC Office of Inspection and Enforcement (IE Region V)</author>
-			<pubDate>2024-01-19 14:49:00</pubDate>
-		</item>
-		<item>
-			<title>"Annual Summary of Changes,Tests & Experiments Performed at Aerotest Radiography & Research Test Reactor for Period Ending 910630."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20082C125</link>
-			<description>ANNUAL OPERATING REPORT, TEXT-SAFETY REPORT</description>
-			<author>AEROTEST OPERATIONS, INC.</author>
-			<pubDate>2024-01-19 14:49:00</pubDate>
-		</item>
-		<item>
-			<title>"Annual Summary of Changes,Tests & Experiments Performed at Aerotest Radiography & Research Reactor," for period ending 920630.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20102B259</link>
-			<description>ANNUAL OPERATING REPORT, TEXT-SAFETY REPORT</description>
-			<author>Aerotest Operations, Inc</author>
-			<pubDate>2024-01-19 14:49:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
