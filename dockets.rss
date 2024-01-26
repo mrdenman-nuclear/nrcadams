@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 26 Jan 2024 14:14:47 GMT</pubDate>
-		<lastBuildDate>Fri, 26 Jan 2024 14:14:47 GMT</lastBuildDate>
+		<pubDate>Fri, 26 Jan 2024 15:15:01 GMT</pubDate>
+		<lastBuildDate>Fri, 26 Jan 2024 15:15:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SSI Analysis Methodology White Paper (Non-Proprietary)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23301A007</link>
+			<description>Technical Paper</description>
+			<author>SMR, LLC</author>
+			<pubDate>2024-01-26 09:37:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC Preapplication Meeting Materials for November 8, 2023 (Project No. 99902049)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23301A003</link>
+			<description>Letter</description>
+			<author>SMR, LLC</author>
+			<pubDate>2024-01-26 09:33:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: SMR, LLC, White Paper on Soil Structure Interaction Analysis Method (non-proprietary)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23352A400</link>
+			<description>Report, Technical</description>
+			<author>SMR, LLC</author>
+			<pubDate>2024-01-26 09:21:00</pubDate>
+		</item>
 		<item>
 			<title>HI-2220511, Revision 7, "SMR-300 Regulatory Engagement Plan"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23356A136</link>
@@ -199,27 +220,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-01-23 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>GE-Hitachi Nuclear Energy Americas, LLC, Presentation Slides for Pre-Application Meeting for GE Hitachi Nuclear Energy BWRX-300 Proposed Break Exclusion Zone Methodology and Application Requirements</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24016A302</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-01-22 11:36:00</pubDate>
-		</item>
-		<item>
-			<title>GE-Hitachi Nuclear Energy Americas, LLC, Submittal of Presentation Slides for Pre-Application Meeting for GE Hitachi Nuclear Energy BWRX-300 Proposed Break Exclusion Zone Methodology and Application Requirements</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24016A301</link>
-			<description>Letter</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-01-22 11:36:00</pubDate>
-		</item>
-		<item>
-			<title>2024/01/08 NRR E-mail Capture - Abilene Christian University (ACU) Molten Salt Research Reactor (MSRR) Preliminary Safety Analysis Report (PSAR) Section 4.3 Audit Questions (Related to Material Degradation)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24008A092</link>
-			<description>E-Mail, Preliminary Safety Analysis Report (PSAR)</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-01-22 08:45:00</pubDate>
 		</item>
 	</channel>
 </rss>
