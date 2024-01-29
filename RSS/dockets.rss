@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 26 Jan 2024 23:14:31 GMT</pubDate>
-		<lastBuildDate>Fri, 26 Jan 2024 23:14:31 GMT</lastBuildDate>
+		<pubDate>Mon, 29 Jan 2024 14:15:54 GMT</pubDate>
+		<lastBuildDate>Mon, 29 Jan 2024 14:15:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TerraPower, LLC, Request for Security-Related Information</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24019A101</link>
+			<description>Letter</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2024-01-29 08:39:00</pubDate>
+		</item>
+		<item>
+			<title>Response to Request for Withholding Proprietary Information from Public Disclosure, Westinghouse AP300 SMR Design Description Overview (White Paper 1) for Pre-application Engagement</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23362A104</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-01-29 08:39:00</pubDate>
+		</item>
+		<item>
+			<title>2024/01/11 NRR E-mail Capture - Abilene Christian University (ACU) Molten Salt Research Reactor (MSRR) Preliminary Safety Analysis Report (PSAR) Section 4.3 Audit Question (Related to Material Degradation)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24015A010</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2024-01-29 08:38:00</pubDate>
+		</item>
 		<item>
 			<title>Kairos Power LLC, Changes to PSAR Chapter 3 and 9</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24025C687</link>
@@ -199,27 +220,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-01-24 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>August 8, 2023, Summary Of The Partially Closed Meeting With Oklo To Discuss Safety Analysis For The Oklo Advanced Reactor Design (EPID L-2022-LRM-0042)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23312A081</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-01-24 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>08/09/2023 Summary of Partially Closed Public Meeting With OKLO, Inc., To Discuss Materials For The OKLO Advanced Reactor Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23249A135</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-01-24 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>01/24/2024 Pre-application meeting with GE-Hitachi Nuclear Energy Americas, LLC (GEH) on NRC staff SRP BTP 3-3 & 3-4</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24023A307</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-01-23 13:41:00</pubDate>
 		</item>
 	</channel>
 </rss>
