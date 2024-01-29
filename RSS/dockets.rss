@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 29 Jan 2024 15:15:28 GMT</pubDate>
-		<lastBuildDate>Mon, 29 Jan 2024 15:15:28 GMT</lastBuildDate>
+		<pubDate>Mon, 29 Jan 2024 16:16:52 GMT</pubDate>
+		<lastBuildDate>Mon, 29 Jan 2024 16:16:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Project Update Letter Regarding the TRISO-X License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24020A010</link>
+			<description>Letter</description>
+			<author>Triso-X, LLC</author>
+			<pubDate>2024-01-29 10:39:00</pubDate>
+		</item>
 		<item>
 			<title>TerraPower, LLC, Request for Security-Related Information</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24019A101</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24016A198</link>
 			<description>Letter</description>
 			<author>Univ of Illinois - Urbana - Champaign</author>
-			<pubDate>2024-01-24 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>August 8, 2023, Summary of the Meeting to Discuss Safety Classification and Instrumentation and Controls the Reactor Trip System for the Oklo Aurora X Design (EPID L-2022-LRM-0042)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23256A277</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR</author>
 			<pubDate>2024-01-24 08:35:00</pubDate>
 		</item>
 	</channel>
