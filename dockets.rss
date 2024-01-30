@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 29 Jan 2024 23:16:40 GMT</pubDate>
-		<lastBuildDate>Mon, 29 Jan 2024 23:16:40 GMT</lastBuildDate>
+		<pubDate>Tue, 30 Jan 2024 14:14:45 GMT</pubDate>
+		<lastBuildDate>Tue, 30 Jan 2024 14:14:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for NuScale Power, LLC.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24023A085</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2024-01-30 08:33:00</pubDate>
+		</item>
 		<item>
 			<title>Project Update Letter Regarding the TRISO-X License Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24020A010</link>
@@ -213,13 +220,6 @@
 			<description>Legal-Affidavit, Letter</description>
 			<author>Kairos Power, LLC</author>
 			<pubDate>2024-01-25 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Univ. of Illinois - Urbana Champaign - Submittal of the Revised (Release 03) Safeguards Information-Modified Handling Protection Plan</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24016A198</link>
-			<description>Letter</description>
-			<author>Univ of Illinois - Urbana - Champaign</author>
-			<pubDate>2024-01-24 08:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
