@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 30 Jan 2024 23:16:27 GMT</pubDate>
-		<lastBuildDate>Tue, 30 Jan 2024 23:16:27 GMT</lastBuildDate>
+		<pubDate>Wed, 31 Jan 2024 14:14:05 GMT</pubDate>
+		<lastBuildDate>Wed, 31 Jan 2024 14:14:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Response to Request for Additional Information (RAI)</description>
 			<author>Univ of Illinois - Urbana - Champaign</author>
 			<pubDate>2024-01-25 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Univ. of Illinois - Urbana Champaign - Submittal of the Revised (Release 03) Safeguards Information-Modified Handling Protection Plan</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24016A198</link>
-			<description>Letter</description>
-			<author>Univ of Illinois - Urbana - Champaign</author>
-			<pubDate>2024-01-24 08:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
