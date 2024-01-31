@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 31 Jan 2024 20:14:11 GMT</pubDate>
-		<lastBuildDate>Wed, 31 Jan 2024 20:14:11 GMT</lastBuildDate>
+		<pubDate>Wed, 31 Jan 2024 21:15:00 GMT</pubDate>
+		<lastBuildDate>Wed, 31 Jan 2024 21:15:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>02/12/2024 Meeting to discuss NRC's draft environmental safety RAIs with TRISO-X.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24031A604</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2024-01-31 15:53:00</pubDate>
+		</item>
 		<item>
 			<title>Kairos Power LLC, Transmittal of Changes to Hermes 2 Construction Permit Application – PSAR Chapter 3</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24031A138</link>
@@ -213,13 +220,6 @@
 			<description>Operating Plan</description>
 			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2024-01-26 09:10:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC Regulatory Engagement Plan, Revision 7 (Project No. 99902049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23356A135</link>
-			<description>Letter</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2024-01-26 09:09:00</pubDate>
 		</item>
 	</channel>
 </rss>
