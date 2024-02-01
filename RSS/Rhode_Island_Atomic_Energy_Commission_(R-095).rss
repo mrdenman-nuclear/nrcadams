@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 31 Jan 2024 23:15:04 GMT</pubDate>
-		<lastBuildDate>Wed, 31 Jan 2024 23:15:04 GMT</lastBuildDate>
+		<pubDate>Thu, 01 Feb 2024 14:16:40 GMT</pubDate>
+		<lastBuildDate>Thu, 01 Feb 2024 14:16:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Responds to FOIA request for documents re extraordinary nuclear occurrence concept,including proposed rulemaking, regulations & rules adopted by AEC.Forwards documents listed in App A.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML19309C023</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO PUBLIC ENTITY/CITIZEN/ORGANIZATION/MEDIA, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
+			<pubDate>2024-02-01 07:14:00</pubDate>
+		</item>
+	</channel>
 </rss>
