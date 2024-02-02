@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 01 Feb 2024 23:15:29 GMT</pubDate>
-		<lastBuildDate>Thu, 01 Feb 2024 23:15:29 GMT</lastBuildDate>
+		<pubDate>Fri, 02 Feb 2024 14:20:03 GMT</pubDate>
+		<lastBuildDate>Fri, 02 Feb 2024 14:20:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Meeting Summary - TerraPower- Socioeconomic Characteristics</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24023A420</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2024-02-02 08:31:00</pubDate>
+		</item>
 		<item>
 			<title>02/08/2024 Notice of Closed Meeting to Discuss NRC Staff Feedback on TerraPower, LLC's "Stability Methodology Topical Report"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24031A255</link>
@@ -24,41 +31,6 @@
 			<description>Letter</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2024-01-29 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>Meeting Summary - TerraPower - Reactor Stability</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24012A067</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-01-26 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Meeting Summary - TerraPower- Design Basis Accident Transient Methodology - In-vessel Without Releases</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24012A075</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-01-26 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Meeting Summary - TerraPower - Fuel Handling Supervisory Control System I&C</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24012A080</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-01-26 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Meeting Summary - TerraPower - Severe Accident Mitigation Design Alternatives (SAMDAs)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24012A081</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-01-26 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Meeting Summary - TP Meeting DBA In-Vessel with Release, Ex-vessel with and without Release</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24012A088</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-01-26 08:33:00</pubDate>
 		</item>
 	</channel>
 </rss>

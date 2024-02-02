@@ -5,11 +5,39 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 01 Feb 2024 23:15:14 GMT</pubDate>
-		<lastBuildDate>Thu, 01 Feb 2024 23:15:14 GMT</lastBuildDate>
+		<pubDate>Fri, 02 Feb 2024 14:19:37 GMT</pubDate>
+		<lastBuildDate>Fri, 02 Feb 2024 14:19:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Notice of violation from insp on 930802-06.Violation noted: licensee RS Committee did not administer annual written exam to senior operator & two operators during 1992.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20059H607</link>
+			<description>NOTICE OF VIOLATION OF A REGULATION, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
+			<pubDate>2024-02-02 03:29:00</pubDate>
+		</item>
+		<item>
+			<title>Notice of deviation from insp on 930802-06.Deviation noted: licensee had not established ltrs of agreement w/offsite response organizations.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20059H625</link>
+			<description>NOTICE OF DEVIATION/NONCONFORMANCE FROM A REGULATORY, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
+			<pubDate>2024-02-02 03:29:00</pubDate>
+		</item>
+		<item>
+			<title>Insp rept 50-284/93-01 on 930802-06.Non-cited violations noted.Major areas inspected:training & qualifications, reactor operations & maint,procedures,radiation protection program,EP & physical security & safeguards.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20058M565</link>
+			<description>INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
+			<pubDate>2024-02-02 03:10:00</pubDate>
+		</item>
+		<item>
+			<title>Finds facil Tech Spec not IAW current practice.Requests recipient to Mod AGN-201 TS & resubmit ASAP.W/encl Tech Spec.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20058A179</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO EDUCATIONAL INSTITUTION, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
+			<pubDate>2024-02-02 02:53:00</pubDate>
+		</item>
+	</channel>
 </rss>

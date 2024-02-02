@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 01 Feb 2024 23:15:14 GMT</pubDate>
-		<lastBuildDate>Thu, 01 Feb 2024 23:15:14 GMT</lastBuildDate>
+		<pubDate>Fri, 02 Feb 2024 14:19:37 GMT</pubDate>
+		<lastBuildDate>Fri, 02 Feb 2024 14:19:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Proposed tech specs re setpoint for safety channels monitoring reactor thermal power,coolant flow rate & reactor coolant inlet temp to prevent exceeded safety limit.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20044F341</link>
+			<description>TECHNICAL SPECIFICATIONS, TECHNICAL SPECIFICATIONS & TEST REPORTS</description>
+			<author>MASSACHUSETTS, UNIV. OF, LOWELL, MA (FORMERLY LOWELL,</author>
+			<pubDate>2024-02-02 01:11:00</pubDate>
+		</item>
+	</channel>
 </rss>

@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 01 Feb 2024 23:15:14 GMT</pubDate>
-		<lastBuildDate>Thu, 01 Feb 2024 23:15:14 GMT</lastBuildDate>
+		<pubDate>Fri, 02 Feb 2024 14:19:37 GMT</pubDate>
+		<lastBuildDate>Fri, 02 Feb 2024 14:19:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Ack receipt of 821220 & 830203 ltrs.Records of transfers of low level radwaste before 830430 should be documented,per 830210 telcon.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20065B104</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO EDUCATIONAL INSTITUTION, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION III)</author>
+			<pubDate>2024-02-02 04:49:00</pubDate>
+		</item>
+		<item>
+			<title>"Univ of MO Research Reactor (MURR) Annual Rept,Jul 1979 - June 1980."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20050N845</link>
+			<description>ANNUAL OPERATING REPORT, TEXT-SAFETY REPORT</description>
+			<author>MISSOURI, UNIV. OF, COLUMBIA, MO</author>
+			<pubDate>2024-02-02 01:40:00</pubDate>
+		</item>
+	</channel>
 </rss>

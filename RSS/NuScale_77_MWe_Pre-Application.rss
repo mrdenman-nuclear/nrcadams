@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 01 Feb 2024 23:15:29 GMT</pubDate>
-		<lastBuildDate>Thu, 01 Feb 2024 23:15:29 GMT</lastBuildDate>
+		<pubDate>Fri, 02 Feb 2024 14:20:03 GMT</pubDate>
+		<lastBuildDate>Fri, 02 Feb 2024 14:20:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC Submittal of Presentation Materials Entitled “Statistical Subchannel Analysis Methodology and Rod Ejection Accident Methodology Topical Reports, ACRS Open Session,” PM-154736, Revision 0 (Open Session)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24025A144</link>
+			<description>Letter, Slides and Viewgraphs</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-02-02 08:32:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC, Safety Evaluation Report For Licensing Topical Report: TR-0716-50350-P, Revision 3, "Rod Ejection Accident Methodology"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23306A187</link>
@@ -38,13 +45,6 @@
 			<description>Letter, Proprietary Information Review</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2024-01-30 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Safety Evaluation for NuScale SDAA QAPD LTR MN-122626</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23361A122</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2024-01-26 08:33:00</pubDate>
 		</item>
 	</channel>
 </rss>
