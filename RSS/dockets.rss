@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 02 Feb 2024 14:19:34 GMT</pubDate>
-		<lastBuildDate>Fri, 02 Feb 2024 14:19:34 GMT</lastBuildDate>
+		<pubDate>Fri, 02 Feb 2024 15:14:08 GMT</pubDate>
+		<lastBuildDate>Fri, 02 Feb 2024 15:14:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Natura Resources, LLC, Plan for Regulatory Engagement</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24030A014</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>Natura Resources, LLC</author>
+			<pubDate>2024-02-02 09:53:00</pubDate>
+		</item>
+		<item>
+			<title>Natura Resources, LLC, Plan for Regulatory Engagement</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24030A014</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>Natura Resources, LLC</author>
+			<pubDate>2024-02-02 09:53:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC Submittal of Presentation Materials Entitled “Statistical Subchannel Analysis Methodology and Rod Ejection Accident Methodology Topical Reports, ACRS Open Session,” PM-154736, Revision 0 (Open Session)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24025A144</link>
@@ -206,20 +220,6 @@
 			<description>Letter</description>
 			<author>Triso-X, LLC</author>
 			<pubDate>2024-01-29 10:39:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC, Request for Security-Related Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24019A101</link>
-			<description>Letter</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2024-01-29 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>Response to Request for Withholding Proprietary Information from Public Disclosure, Westinghouse AP300 SMR Design Description Overview (White Paper 1) for Pre-application Engagement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23362A104</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-01-29 08:39:00</pubDate>
 		</item>
 	</channel>
 </rss>

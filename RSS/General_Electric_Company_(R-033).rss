@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 02 Feb 2024 14:19:37 GMT</pubDate>
-		<lastBuildDate>Fri, 02 Feb 2024 14:19:37 GMT</lastBuildDate>
+		<pubDate>Fri, 02 Feb 2024 15:14:11 GMT</pubDate>
+		<lastBuildDate>Fri, 02 Feb 2024 15:14:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>GEH Notification of GE Company Stock Beneficial Ownership Filing</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24032A108</link>
+			<description>Letter, Schedule and Calendars</description>
+			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
+			<pubDate>2024-02-02 09:53:00</pubDate>
+		</item>
+	</channel>
 </rss>
