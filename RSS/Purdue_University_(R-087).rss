@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 02 Feb 2024 23:13:11 GMT</pubDate>
-		<lastBuildDate>Fri, 02 Feb 2024 23:13:11 GMT</lastBuildDate>
+		<pubDate>Mon, 05 Feb 2024 14:14:05 GMT</pubDate>
+		<lastBuildDate>Mon, 05 Feb 2024 14:14:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Insp repts 50-182/94-01 & 70-0152/94-01 on 941121-23 & 950109.No violations noted.Major areas inspected: organization logs/records,review & audits,surveillances & emergency planning.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20078K765</link>
+			<description>INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION III)</author>
+			<pubDate>2024-02-03 05:59:00</pubDate>
+		</item>
+	</channel>
 </rss>

@@ -5,11 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 02 Feb 2024 23:13:19 GMT</pubDate>
-		<lastBuildDate>Fri, 02 Feb 2024 23:13:19 GMT</lastBuildDate>
+		<pubDate>Mon, 05 Feb 2024 14:14:13 GMT</pubDate>
+		<lastBuildDate>Mon, 05 Feb 2024 14:14:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>SMR, LLC, Meeting Presentation Materials for February 7, 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24026A030</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2024-02-05 08:36:00</pubDate>
+		</item>
+		<item>
+			<title>Submittal of SMR, LLC, Preapplication Meeting Materials for February 7, 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24026A029</link>
+			<description>Letter</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2024-02-05 08:36:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC, GDC 17 Exemption Request White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24026A031</link>
+			<description>Technical Paper</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2024-02-05 08:36:00</pubDate>
+		</item>
+	</channel>
 </rss>
