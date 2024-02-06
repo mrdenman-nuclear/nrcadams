@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 05 Feb 2024 23:15:39 GMT</pubDate>
-		<lastBuildDate>Mon, 05 Feb 2024 23:15:39 GMT</lastBuildDate>
+		<pubDate>Tue, 06 Feb 2024 14:14:17 GMT</pubDate>
+		<lastBuildDate>Tue, 06 Feb 2024 14:14:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Provides results of review of NSHC package re ventilation sys.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20105C707</link>
+			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC</author>
+			<pubDate>2024-02-06 01:58:00</pubDate>
+		</item>
+	</channel>
 </rss>
