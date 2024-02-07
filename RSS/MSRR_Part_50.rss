@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Feb 2024 23:14:05 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Feb 2024 23:14:05 GMT</lastBuildDate>
+		<pubDate>Wed, 07 Feb 2024 14:15:11 GMT</pubDate>
+		<lastBuildDate>Wed, 07 Feb 2024 14:15:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>Legal-Affidavit, Letter</description>
 			<author>Natura Resources, LLC</author>
 			<pubDate>2024-02-02 09:53:00</pubDate>
-		</item>
-		<item>
-			<title>2024/01/17 NRR E-mail Capture - Abilene Christian University (ACU) Molten Salt Research Reactor (MSRR) Preliminary Safety Analysis Report (PSAR) Section 4.3 Audit Questions (Related to Material Degradation)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24017A303</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-01-31 08:37:00</pubDate>
 		</item>
 	</channel>
 </rss>

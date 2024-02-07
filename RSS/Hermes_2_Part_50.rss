@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Feb 2024 23:14:06 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Feb 2024 23:14:06 GMT</lastBuildDate>
+		<pubDate>Wed, 07 Feb 2024 14:15:12 GMT</pubDate>
+		<lastBuildDate>Wed, 07 Feb 2024 14:15:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -150,20 +150,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS/DREFS/ERMB</author>
 			<pubDate>2024-02-02 11:37:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Transmittal of Changes to Hermes 2 Construction Permit Application – PSAR Chapter 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24031A138</link>
-			<description>Letter</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2024-01-31 15:04:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Changes to Hermes 2 Preliminary Safety Analysis Report (PSAR) Chapter 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24031A139</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2024-01-31 15:04:00</pubDate>
 		</item>
 	</channel>
 </rss>

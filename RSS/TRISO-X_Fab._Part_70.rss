@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Feb 2024 23:14:05 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Feb 2024 23:14:05 GMT</lastBuildDate>
+		<pubDate>Wed, 07 Feb 2024 14:15:11 GMT</pubDate>
+		<lastBuildDate>Wed, 07 Feb 2024 14:15:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>E-Mail</description>
 			<author>Tennessee Historical Society</author>
 			<pubDate>2024-02-05 15:36:00</pubDate>
-		</item>
-		<item>
-			<title>02/12/2024 Meeting to discuss NRC's draft environmental safety RAIs with TRISO-X.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24031A616</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-01-31 16:17:00</pubDate>
 		</item>
 	</channel>
 </rss>

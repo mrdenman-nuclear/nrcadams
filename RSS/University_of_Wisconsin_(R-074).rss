@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Feb 2024 23:13:57 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Feb 2024 23:13:57 GMT</lastBuildDate>
+		<pubDate>Wed, 07 Feb 2024 14:15:01 GMT</pubDate>
+		<lastBuildDate>Wed, 07 Feb 2024 14:15:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Responds to 831007 ltr transmitting G Pollack rept re conversion of univ research reactors from high to low enriched U fuel.Time & funding constraints constitute major problems w/conversion.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198A968</link>
+			<description>CORRESPONDENCE-LETTERS, EDUCATIONAL INSTITUTION TO NRC, INCOMING CORRESPONDENCE</description>
+			<author>WISCONSIN, UNIV. OF, MADISON, WI</author>
+			<pubDate>2024-02-07 00:25:00</pubDate>
+		</item>
+		<item>
+			<title>Expresses hope that Cashwell response to recipient ltr sufficient.Cashwell response received shortly before second Commissioner ltr.Ltrs assumed to have crossed in mail.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198A983</link>
+			<description>CORRESPONDENCE-LETTERS, EDUCATIONAL INSTITUTION TO NRC, INCOMING CORRESPONDENCE</description>
+			<author>WISCONSIN, UNIV. OF, MADISON, WI</author>
+			<pubDate>2024-02-07 00:25:00</pubDate>
+		</item>
+	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Feb 2024 23:13:57 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Feb 2024 23:13:57 GMT</lastBuildDate>
+		<pubDate>Wed, 07 Feb 2024 14:15:00 GMT</pubDate>
+		<lastBuildDate>Wed, 07 Feb 2024 14:15:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,48 +17,6 @@
 			<description>Inspection Report, Letter</description>
 			<author>NRC/NRR/DANU/UNPO</author>
 			<pubDate>2024-02-02 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Final Report - Safety Evaluation Committee (SEC)/Safety Assessment Committee (SAC)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24023A622</link>
-			<description>Report, Technical</description>
-			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
-			<pubDate>2024-01-31 08:38:00</pubDate>
-		</item>
-		<item>
-			<title>NIST Center for Neutron Research Reactor Operations and Engineering (NCNR-ROE) Assessment of NCNR-ROE Procedures Program</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24023A619</link>
-			<description>Report, Technical</description>
-			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
-			<pubDate>2024-01-31 08:38:00</pubDate>
-		</item>
-		<item>
-			<title>Independent Nuclear Safety Consultant Assessment of the Root Cause Analysis Performed by NCNR into the February 3, 2021 Event at the NIST Center for Neutron Research, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24023A620</link>
-			<description>Report, Technical</description>
-			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
-			<pubDate>2024-01-31 08:38:00</pubDate>
-		</item>
-		<item>
-			<title>US Dept. of Commerce, National Institute of Standards & Technology - Problem Identification and Resolution (PI&R) Performance Area Assessment Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24023A621</link>
-			<description>Report, Technical</description>
-			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
-			<pubDate>2024-01-31 08:38:00</pubDate>
-		</item>
-		<item>
-			<title>US Dept. of Commerce, National Institute of Standards & Technology - Nuclear Program Assessments Response and Leadership Accountability</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24023A618</link>
-			<description>Letter</description>
-			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
-			<pubDate>2024-01-31 08:38:00</pubDate>
-		</item>
-		<item>
-			<title>Independent Nuclear Safety Consultant Assessment of Training at the NIST Center for Neutron Research (NCNR) - Final</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24023A623</link>
-			<description>Report, Technical</description>
-			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
-			<pubDate>2024-01-31 08:38:00</pubDate>
 		</item>
 	</channel>
 </rss>
