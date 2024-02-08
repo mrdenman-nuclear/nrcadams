@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 08 Feb 2024 19:13:25 GMT</pubDate>
-		<lastBuildDate>Thu, 08 Feb 2024 19:13:25 GMT</lastBuildDate>
+		<pubDate>Thu, 08 Feb 2024 20:14:33 GMT</pubDate>
+		<lastBuildDate>Thu, 08 Feb 2024 20:14:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>02/20/2024 Pre-submittal meeting with Kairos Power on the Hermes Test Reactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24039A165</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-02-08 14:56:00</pubDate>
+		</item>
 		<item>
 			<title>02/22/2024 Meeting with TRISO-X LLC to discuss ISA Summary programmatic RAI supplement, continued</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24039A122</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24022A212</link>
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-02-05 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Information from Public Disclosure for NuScale Power, LLC</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24023A317</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2024-02-05 08:36:00</pubDate>
 		</item>
 	</channel>
