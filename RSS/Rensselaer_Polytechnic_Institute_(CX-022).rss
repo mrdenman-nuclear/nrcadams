@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 07 Feb 2024 23:15:21 GMT</pubDate>
-		<lastBuildDate>Wed, 07 Feb 2024 23:15:21 GMT</lastBuildDate>
+		<pubDate>Thu, 08 Feb 2024 14:14:23 GMT</pubDate>
+		<lastBuildDate>Thu, 08 Feb 2024 14:14:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
 			<author>NRC OFFICE OF THE EXECUTIVE DIRECTOR FOR OPERATIONS (EDO)</author>
 			<pubDate>2024-02-06 21:34:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards IE Insp Rept 50-225/81-02 on 810427-30 & notice of violation.Details & notice of violation withheld (ref 10CFR2.790).</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20009G384</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO EDUCATIONAL INSTITUTION, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I)</author>
-			<pubDate>2024-02-01 21:20:00</pubDate>
-		</item>
-		<item>
-			<title>IE Insp Rept 50-225/81-02 on 810427-30.Noncompliance noted: failure to provide guards w/most recent access authorization list.Details withheld (ref 10CFR2.790).</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20009G391</link>
-			<description>INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I)</author>
-			<pubDate>2024-02-01 21:20:00</pubDate>
 		</item>
 	</channel>
 </rss>
