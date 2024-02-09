@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 08 Feb 2024 23:15:22 GMT</pubDate>
-		<lastBuildDate>Thu, 08 Feb 2024 23:15:22 GMT</lastBuildDate>
+		<pubDate>Fri, 09 Feb 2024 14:13:17 GMT</pubDate>
+		<lastBuildDate>Fri, 09 Feb 2024 14:13:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Forwards IE Safeguards Insp Repts 50-083/82-01 & 70-1068/82-01 on 820629-0701.No noncompliance noted.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20062H088</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO EDUCATIONAL INSTITUTION, OUTGOING CORRESPONDENCE</description>
-			<author>NRC Office of Inspection and Enforcement (IE Region II)</author>
-			<pubDate>2024-02-02 03:49:00</pubDate>
-		</item>
-		<item>
-			<title>IE Safeguards Insp Repts 50-083/82-01 & 70-1068/82-01 on 820629-0701.No noncompliance noted.Major areas inspected: security plan & organization,access controls,records & repts & physical barriers.Details withheld (ref 10CFR2.790).</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20062H099</link>
-			<description>INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION II)</author>
-			<pubDate>2024-02-02 03:49:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

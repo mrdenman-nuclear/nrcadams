@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 08 Feb 2024 23:15:22 GMT</pubDate>
-		<lastBuildDate>Thu, 08 Feb 2024 23:15:22 GMT</lastBuildDate>
+		<pubDate>Fri, 09 Feb 2024 14:13:17 GMT</pubDate>
+		<lastBuildDate>Fri, 09 Feb 2024 14:13:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SER re Gamma Cave facility at Univ of MA at Lowell,license R-125.Staff finds existing UML configuration for controlling access to high & very high radiation areas adequately addresses requirements of 10CFR20.1601 & 20.1602.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203A158</link>
+			<description>SAFETY EVALUATION REPORT--LICENSING & RELATED ISSUES, TEXT-SAFETY REPORT</description>
+			<author>NRC (Affiliation Not Assigned)</author>
+			<pubDate>2024-02-09 02:59:00</pubDate>
+		</item>
 		<item>
 			<title>Examination Confirmation Letter No. 50-223/OL-24-01, University of Massachusetts-Lowell</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24024A237</link>
@@ -38,13 +45,6 @@
 			<description>OPERATOR TRAINING/REQUALIFICATION PROGRAM, TEXT-SAFETY REPORT</description>
 			<author>MASSACHUSETTS, UNIV. OF, LOWELL, MA (FORMERLY LOWELL,</author>
 			<pubDate>2024-02-06 03:33:00</pubDate>
-		</item>
-		<item>
-			<title>Proposed tech specs re setpoint for safety channels monitoring reactor thermal power,coolant flow rate & reactor coolant inlet temp to prevent exceeded safety limit.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20044F341</link>
-			<description>TECHNICAL SPECIFICATIONS, TECHNICAL SPECIFICATIONS & TEST REPORTS</description>
-			<author>MASSACHUSETTS, UNIV. OF, LOWELL, MA (FORMERLY LOWELL,</author>
-			<pubDate>2024-02-02 01:11:00</pubDate>
 		</item>
 	</channel>
 </rss>

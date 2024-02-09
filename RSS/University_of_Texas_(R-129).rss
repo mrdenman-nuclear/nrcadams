@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 08 Feb 2024 23:15:22 GMT</pubDate>
-		<lastBuildDate>Thu, 08 Feb 2024 23:15:22 GMT</lastBuildDate>
+		<pubDate>Fri, 09 Feb 2024 14:13:17 GMT</pubDate>
+		<lastBuildDate>Fri, 09 Feb 2024 14:13:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Environ assessment for const & operation of proposed TRIGA research reactor.No significant environ impact attributable to facility.EIS not needed.No significant impact finding appropriate.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20126H485</link>
+			<description>ENVIRONMENTAL IMPACT APPRAISALS, TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>NRC</author>
+			<pubDate>2024-02-08 19:31:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards Insp Repts 50-192/86-01 & 50-602/86-01 on 860410-11.No violation noted.Nuclear engineering teaching lab staff should be closely evaluated in order to meet increased demands.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20195E665</link>
@@ -122,27 +129,6 @@
 			<description>OPERATOR TRAINING/REQUALIFICATION PROGRAM, TEXT-SAFETY REPORT</description>
 			<author>TEXAS, UNIV. OF, AUSTIN, TX</author>
 			<pubDate>2024-02-03 02:05:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards Insp Rept 50-602/90-04 on 900718-19.No violations or deviations noted.Programs in areas of physical security, radiation protection & emergency preparedness found to be in proper state of readiness to support reactor operations.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20058L092</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO EDUCATIONAL INSTITUTION, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
-			<pubDate>2024-02-02 03:07:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards Insp Rept 50-602/90-03 on 900718-19.No violations or deviations noted.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20055J109</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO EDUCATIONAL INSTITUTION, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
-			<pubDate>2024-02-02 02:29:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards Insp Rept 50-602/90-02 on 900417-27.No violations or deviations noted.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20042G695</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO EDUCATIONAL INSTITUTION, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
-			<pubDate>2024-02-02 00:51:00</pubDate>
 		</item>
 	</channel>
 </rss>

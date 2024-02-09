@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 08 Feb 2024 23:15:22 GMT</pubDate>
-		<lastBuildDate>Thu, 08 Feb 2024 23:15:22 GMT</lastBuildDate>
+		<pubDate>Fri, 09 Feb 2024 14:13:16 GMT</pubDate>
+		<lastBuildDate>Fri, 09 Feb 2024 14:13:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>GE-Hitachi Nuclear Energy Americas, LLC – Regulatory Audit Summary Report Re: Request For Possession-Only License Amendment To Renewed Facility Operating License No. R-33 (EPID L-2023-LLA-0139)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24031A123</link>
+			<description>Audit Report, Letter</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2024-02-09 08:32:00</pubDate>
+		</item>
+		<item>
+			<title>"Nuclear Test Reactor SAR & TSs."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20199H486</link>
+			<description>REPORTS-TOPICAL (BY MANUFACTURERS-VENDORS ETC), TEXT-SAFETY REPORT</description>
+			<author>GENERAL ELECTRIC CO.</author>
+			<pubDate>2024-02-09 02:43:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards copy of GE NTR SAR & TSs for GE NTR,in support of R-33 license renewal application of 970930.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20199H464</link>
@@ -24,13 +38,6 @@
 			<description>Letter, Response to Request for Additional Information (RAI), Technical Specifications</description>
 			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
 			<pubDate>2024-02-05 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>GEH Notification of GE Company Stock Beneficial Ownership Filing</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24032A108</link>
-			<description>Letter, Schedule and Calendars</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-02-02 09:53:00</pubDate>
 		</item>
 	</channel>
 </rss>
