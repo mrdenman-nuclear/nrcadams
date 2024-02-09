@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 09 Feb 2024 14:13:25 GMT</pubDate>
-		<lastBuildDate>Fri, 09 Feb 2024 14:13:25 GMT</lastBuildDate>
+		<pubDate>Fri, 09 Feb 2024 15:16:06 GMT</pubDate>
+		<lastBuildDate>Fri, 09 Feb 2024 15:16:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SHINE Medical Technologies, Inc. - Construction Permit for Medical Isotope Facility.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24030A846</link>
+			<description>License-Construction Permit (CP)(New/Extension/Amendment) DKT 50</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-02-09 09:50:00</pubDate>
+		</item>
 		<item>
 			<title>02/20/2024 Pre-submittal meeting with Kairos Power on the Hermes Test Reactor</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24039A165</link>
@@ -213,13 +220,6 @@
 			<description>Letter</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2024-02-05 11:39:00</pubDate>
-		</item>
-		<item>
-			<title>2024/01/22 NRR E-mail Capture - Abilene Christian University (ACU) Molten Salt Research Reactor (MSRR) Preliminary Safety Analysis Report (PSAR) Section 4.3 Audit Questions (4.3-23 and 4.3-24 on Material Degradation)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24022A212</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-02-05 08:36:00</pubDate>
 		</item>
 	</channel>
 </rss>
