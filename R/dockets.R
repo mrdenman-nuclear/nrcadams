@@ -35,7 +35,7 @@ docket_codex = tibble::tribble(
   "eVinci Pre-Application", "Westinghouse", 99902079, TRUE,
   "IMSR Pre-Application", "Terrestrial Energy", 99902076, TRUE,
   "BWRX-300 Pre-Application", "GE", 99900003, FALSE,
-  "SMR-160 Pre-Application", "Holtec", 99902049, FALSE,
+  "SMR-300 Pre-Application", "Holtec", 99902049, FALSE,
   "NuScale 50 MWe Part 52", "NuScale", 05200048, FALSE,
   "NuScale 77 MWe Pre-Application", "NuScale", 99902078, FALSE,
   "NuScale 77 MWe Part 52", "NuScale", 5200050, FALSE,
