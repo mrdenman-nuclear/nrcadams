@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 09 Feb 2024 23:15:09 GMT</pubDate>
-		<lastBuildDate>Fri, 09 Feb 2024 23:15:09 GMT</lastBuildDate>
+		<pubDate>Sun, 11 Feb 2024 22:47:43 GMT</pubDate>
+		<lastBuildDate>Sun, 11 Feb 2024 22:47:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Annual Operating Rept for 1996."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20217R332</link>
+			<description>ANNUAL OPERATING REPORT, TEXT-SAFETY REPORT</description>
+			<author>IDAHO STATE UNIV., POCATELLO, ID</author>
+			<pubDate>2024-02-09 20:34:00</pubDate>
+		</item>
 		<item>
 			<title>Amend 5 to license R-110,revises license condition 2.B.(2) to increase possession limit from 700 grams to 995 grams of low enriched U-235.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210M772</link>
@@ -45,13 +52,6 @@
 			<description>Letter, Licensee Response to Notice of Violation</description>
 			<author>Idaho State Univ</author>
 			<pubDate>2024-02-05 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>Partially withheld insp rept 50-284/94-01 (ref 10CFR2.790) on 940718-22.Noncited violations identified.Major areas inspected:training & qualifications,reactor operations & maint,procedures,EP,physical security & review program.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20072H261</link>
-			<description>INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
-			<pubDate>2024-02-03 04:15:00</pubDate>
 		</item>
 	</channel>
 </rss>
