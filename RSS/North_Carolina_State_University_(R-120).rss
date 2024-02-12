@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Sun, 11 Feb 2024 22:47:43 GMT</pubDate>
-		<lastBuildDate>Sun, 11 Feb 2024 22:47:43 GMT</lastBuildDate>
+		<pubDate>Mon, 12 Feb 2024 14:13:53 GMT</pubDate>
+		<lastBuildDate>Mon, 12 Feb 2024 14:13:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -26,16 +26,16 @@
 			<pubDate>2024-02-08 22:35:00</pubDate>
 		</item>
 		<item>
-			<title>Forwards Insp Rept 50-297/78-03 on 780817.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20147D102</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO EDUCATIONAL INSTITUTION, OUTGOING CORRESPONDENCE</description>
+			<title>Insp Rept 50-297/78-03 on 780817.No noncompliance noted. Major areas inspected:physical security program.Details withheld.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20147E050</link>
+			<description>INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION II)</author>
 			<pubDate>2024-02-06 21:58:00</pubDate>
 		</item>
 		<item>
-			<title>Insp Rept 50-297/78-03 on 780817.No noncompliance noted. Major areas inspected:physical security program.Details withheld.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20147E050</link>
-			<description>INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
+			<title>Forwards Insp Rept 50-297/78-03 on 780817.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20147D102</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO EDUCATIONAL INSTITUTION, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION II)</author>
 			<pubDate>2024-02-06 21:58:00</pubDate>
 		</item>
@@ -52,13 +52,6 @@
 			<description>FEDERAL REGISTER NOTICES, TEXT-CODE OF FEDERAL REGULATIONS</description>
 			<author>NRC (Affiliation Not Assigned)</author>
 			<pubDate>2024-02-06 21:39:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards Amend 11 to "Updated SAR for Pulstar Reactor." Updated SAR includes two new safety analyses re HX pressure boundary breach & TS limit on fueled experiments.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20092H001</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>NORTH CAROLINA STATE UNIV., RALEIGH, NC</author>
-			<pubDate>2024-02-05 23:25:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Sun, 11 Feb 2024 22:47:43 GMT</pubDate>
-		<lastBuildDate>Sun, 11 Feb 2024 22:47:43 GMT</lastBuildDate>
+		<pubDate>Mon, 12 Feb 2024 14:13:53 GMT</pubDate>
+		<lastBuildDate>Mon, 12 Feb 2024 14:13:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -124,13 +124,6 @@
 			<pubDate>2024-02-06 18:49:00</pubDate>
 		</item>
 		<item>
-			<title>Amend 1 to license R-129,changing TSs requirement for interlock that CRs simultaneous withdrawal of CR to reflect as designed reactor & clarifies CR types & effective modes of operation discussed in TSs.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20113E736</link>
-			<description>OPERATING LICENSES & AMENDMENTS, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>NRC (Affiliation Not Assigned)</author>
-			<pubDate>2024-02-06 04:07:00</pubDate>
-		</item>
-		<item>
 			<title>Safety evaluation supporting amend 1 to license R-129.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20113E741</link>
 			<description>SAFETY EVALUATION REPORT--LICENSING & RELATED ISSUES, TEXT-SAFETY REPORT</description>
@@ -138,11 +131,11 @@
 			<pubDate>2024-02-06 04:07:00</pubDate>
 		</item>
 		<item>
-			<title>Forwards insp rept 50-602/91-01 on 910716.No violations or deviations noted.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20085B360</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
-			<pubDate>2024-02-05 20:39:00</pubDate>
+			<title>Amend 1 to license R-129,changing TSs requirement for interlock that CRs simultaneous withdrawal of CR to reflect as designed reactor & clarifies CR types & effective modes of operation discussed in TSs.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20113E736</link>
+			<description>OPERATING LICENSES & AMENDMENTS, TEXT-LICENSE APPLICATIONS & PERMITS</description>
+			<author>NRC (Affiliation Not Assigned)</author>
+			<pubDate>2024-02-06 04:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
