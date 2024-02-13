@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 12 Feb 2024 23:14:28 GMT</pubDate>
-		<lastBuildDate>Mon, 12 Feb 2024 23:14:28 GMT</lastBuildDate>
+		<pubDate>Tue, 13 Feb 2024 14:15:19 GMT</pubDate>
+		<lastBuildDate>Tue, 13 Feb 2024 14:15:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2024/01/29 NRR E-mail Capture - [External_Sender] Request for extension of the Abilene Christian University (ACU) Molten Salt Research Reactor (MSRR) Requests for Additional Information (RAI) response date</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24030A621</link>
+			<description>E-Mail, Request for Additional Information (RAI)</description>
+			<author>Abilene Christian University (ACU)</author>
+			<pubDate>2024-02-13 08:34:00</pubDate>
+		</item>
 		<item>
 			<title>ACU Audit Close Out Memo</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24023A002</link>
@@ -24,13 +31,6 @@
 			<description>Audit Report</description>
 			<author>NRC/NMSS/DREFS/ERMB</author>
 			<pubDate>2024-02-07 11:26:00</pubDate>
-		</item>
-		<item>
-			<title>2024/01/23 NRR E-mail Capture - Abilene Christian University (ACU) Molten Salt Research Reactor (MSRR) Preliminary Safety Analysis Report (PSAR) Section 4.3 Audit Question (4.3-25 on Material Degradation)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24023A624</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-02-06 08:30:00</pubDate>
 		</item>
 	</channel>
 </rss>

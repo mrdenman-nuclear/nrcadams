@@ -5,24 +5,24 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 12 Feb 2024 23:14:22 GMT</pubDate>
-		<lastBuildDate>Mon, 12 Feb 2024 23:14:22 GMT</lastBuildDate>
+		<pubDate>Tue, 13 Feb 2024 14:15:12 GMT</pubDate>
+		<lastBuildDate>Tue, 13 Feb 2024 14:15:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>Informs of expected schedule for conversion from highly enriched U fuel to low enriched fuel.Grant awarded from DOE to evaluate effects of conversion on performance of reactor.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20214A061</link>
-			<description>CORRESPONDENCE-LETTERS, EDUCATIONAL INSTITUTION TO NRC, INCOMING CORRESPONDENCE</description>
-			<author>MASSACHUSETTS, UNIV. OF, LOWELL, MA (FORMERLY LOWELL,</author>
-			<pubDate>2024-02-09 18:59:00</pubDate>
-		</item>
-		<item>
 			<title>Final response to FOIA request for documents re new rule. Forwards documents listed in App B.App A documents already available in PDR.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20213G919</link>
 			<description>CORRESPONDENCE-LETTERS, NRC TO PUBLIC ENTITY/CITIZEN/ORGANIZATION/MEDIA, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF ADMINISTRATION and RESOURCES MANAGEMENT (ARM)</author>
+			<pubDate>2024-02-09 18:59:00</pubDate>
+		</item>
+		<item>
+			<title>Informs of expected schedule for conversion from highly enriched U fuel to low enriched fuel.Grant awarded from DOE to evaluate effects of conversion on performance of reactor.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20214A061</link>
+			<description>CORRESPONDENCE-LETTERS, EDUCATIONAL INSTITUTION TO NRC, INCOMING CORRESPONDENCE</description>
+			<author>MASSACHUSETTS, UNIV. OF, LOWELL, MA (FORMERLY LOWELL,</author>
 			<pubDate>2024-02-09 18:59:00</pubDate>
 		</item>
 		<item>
@@ -38,27 +38,6 @@
 			<description>Letter, License-Operator, Part 55 Examination Related Material</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-02-07 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>"Updated SAR for Univ of Lowell Research Reactor."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20107K687</link>
-			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>MASSACHUSETTS, UNIV. OF, LOWELL, MA (FORMERLY LOWELL,</author>
-			<pubDate>2024-02-06 03:33:00</pubDate>
-		</item>
-		<item>
-			<title>"Requalification Program for Licensed Reactor Operators & Licensed Senior Reactor Operators."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20107K735</link>
-			<description>OPERATOR TRAINING/REQUALIFICATION PROGRAM, TEXT-SAFETY REPORT</description>
-			<author>MASSACHUSETTS, UNIV. OF, LOWELL, MA (FORMERLY LOWELL,</author>
-			<pubDate>2024-02-06 03:33:00</pubDate>
-		</item>
-		<item>
-			<title>Tech Specs for Univ of Lowell Research Reactor.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20107K710</link>
-			<description>TECHNICAL SPECIFICATIONS, TECHNICAL SPECIFICATIONS & TEST REPORTS</description>
-			<author>MASSACHUSETTS, UNIV. OF, LOWELL, MA (FORMERLY LOWELL,</author>
-			<pubDate>2024-02-06 03:33:00</pubDate>
 		</item>
 	</channel>
 </rss>

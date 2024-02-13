@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 12 Feb 2024 23:14:28 GMT</pubDate>
-		<lastBuildDate>Mon, 12 Feb 2024 23:14:28 GMT</lastBuildDate>
+		<pubDate>Tue, 13 Feb 2024 14:15:19 GMT</pubDate>
+		<lastBuildDate>Tue, 13 Feb 2024 14:15:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Letter, Topical Report</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2024-02-12 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>2024/01/23 NuScale NPM-20 - NuScale DC- Extended Schedule Request for Exemption to the Reporting Requirements of 10 CFR 50.46(a)(3) (Docket No. 05200048 , 52-048)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24023A410</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2024-02-06 08:30:00</pubDate>
 		</item>
 	</channel>
 </rss>
