@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 13 Feb 2024 23:14:41 GMT</pubDate>
-		<lastBuildDate>Tue, 13 Feb 2024 23:14:41 GMT</lastBuildDate>
+		<pubDate>Wed, 14 Feb 2024 14:14:53 GMT</pubDate>
+		<lastBuildDate>Wed, 14 Feb 2024 14:14:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>REPORTS-TOPICAL (BY MANUFACTURERS-VENDORS ETC), TEXT-SAFETY REPORT</description>
 			<author>GENERAL ELECTRIC CO.</author>
 			<pubDate>2024-02-09 02:43:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards copy of GE NTR SAR & TSs for GE NTR,in support of R-33 license renewal application of 970930.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20199H464</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>GENERAL ELECTRIC CO.</author>
-			<pubDate>2024-02-07 00:42:00</pubDate>
 		</item>
 	</channel>
 </rss>
