@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 14 Feb 2024 23:14:35 GMT</pubDate>
-		<lastBuildDate>Wed, 14 Feb 2024 23:14:35 GMT</lastBuildDate>
+		<pubDate>Thu, 15 Feb 2024 14:13:55 GMT</pubDate>
+		<lastBuildDate>Thu, 15 Feb 2024 14:13:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>E-Mail</description>
 			<author>North Carolina State Univ</author>
 			<pubDate>2024-02-09 16:13:00</pubDate>
-		</item>
-		<item>
-			<title>Environ assessment & finding of no significant impact re proposed renewal of facility license R-120.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20140A580</link>
-			<description>ENVIRONMENTAL IMPACT APPRAISALS, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>NRC (Affiliation Not Assigned)</author>
-			<pubDate>2024-02-08 22:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
