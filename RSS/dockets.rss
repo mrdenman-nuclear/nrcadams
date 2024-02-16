@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 15 Feb 2024 23:15:26 GMT</pubDate>
-		<lastBuildDate>Thu, 15 Feb 2024 23:15:26 GMT</lastBuildDate>
+		<pubDate>Fri, 16 Feb 2024 14:14:55 GMT</pubDate>
+		<lastBuildDate>Fri, 16 Feb 2024 14:14:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2024/02/02 GEH BWRX-300 SMR TR RAI - FW (PROPRIETARY) GE Hitachi Request for Additional Information (RAI-10121-R1) Letter No. 18 for Topical Report NEDC-33926P</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24033A206</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2024-02-16 08:39:00</pubDate>
+		</item>
 		<item>
 			<title>SMR, LLC, SMR-300 Fire Protection Program Status</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24044A242</link>
@@ -129,48 +136,6 @@
 			<description>Letter, Topical Report</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2024-02-12 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Transmittal of Changes to Hermes 2 Construction Permit Application – PSAR Chapter 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24039A190</link>
-			<description>Letter</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2024-02-09 16:13:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Transmittal of Changes to Hermes 2 Construction Permit Application – PSAR Chapter 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24039A190</link>
-			<description>Letter</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2024-02-09 16:13:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Changes to Hermes 2 PSAR Chapter 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24039A191</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2024-02-09 16:13:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Changes to Hermes 2 PSAR Chapter 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24039A191</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2024-02-09 16:13:00</pubDate>
-		</item>
-		<item>
-			<title>SHINE Medical Technologies, Inc. - Construction Permit for Medical Isotope Facility.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24030A846</link>
-			<description>License-Construction Permit (CP)(New/Extension/Amendment) DKT 50</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-02-09 16:03:00</pubDate>
-		</item>
-		<item>
-			<title>06/27-28/2023 Summary of Partially Closed Public Meeting To Discuss Safety classification For The Oklo, Inc., Advanced Reactor Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24016A257</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-02-09 13:49:00</pubDate>
 		</item>
 	</channel>
 </rss>
