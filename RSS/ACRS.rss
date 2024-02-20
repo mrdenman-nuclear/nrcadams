@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 19 Feb 2024 22:13:57 GMT</pubDate>
-		<lastBuildDate>Mon, 19 Feb 2024 22:13:57 GMT</lastBuildDate>
+		<pubDate>Tue, 20 Feb 2024 14:15:58 GMT</pubDate>
+		<lastBuildDate>Tue, 20 Feb 2024 14:15:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>Federal Register Notice, Memoranda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-02-14 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>FRN - ACNW Planning and Procedures Meeting, June 18, 2002</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML021420230</link>
-			<description>Federal Register Notice, Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-02-13 14:28:00</pubDate>
-		</item>
-		<item>
-			<title>FRN-ACNW Planning and Procedures Meeting, July 23, 2002</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML021780222</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-02-13 14:28:00</pubDate>
 		</item>
 	</channel>
 </rss>

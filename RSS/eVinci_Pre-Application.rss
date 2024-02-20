@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 19 Feb 2024 22:14:04 GMT</pubDate>
-		<lastBuildDate>Mon, 19 Feb 2024 22:14:04 GMT</lastBuildDate>
+		<pubDate>Tue, 20 Feb 2024 14:16:08 GMT</pubDate>
+		<lastBuildDate>Tue, 20 Feb 2024 14:16:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Request for Withholding Proprietary Information WEC EVINC Paper Submitted on November 30, 2023</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24036A113</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-02-20 08:51:00</pubDate>
+		</item>
+		<item>
+			<title>Request for Withholding Proprietary Information WEC Regulatory Engagement Plan EVINCI Submitted on December 21, 2023</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24036A178</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-02-20 08:51:00</pubDate>
+		</item>
+	</channel>
 </rss>

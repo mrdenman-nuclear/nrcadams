@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 19 Feb 2024 22:14:03 GMT</pubDate>
-		<lastBuildDate>Mon, 19 Feb 2024 22:14:03 GMT</lastBuildDate>
+		<pubDate>Tue, 20 Feb 2024 14:16:08 GMT</pubDate>
+		<lastBuildDate>Tue, 20 Feb 2024 14:16:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2024-02-14 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>2024/01/29 NRR E-mail Capture - [External_Sender] Request for extension of the Abilene Christian University (ACU) Molten Salt Research Reactor (MSRR) Requests for Additional Information (RAI) response date</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24030A621</link>
-			<description>E-Mail, Request for Additional Information (RAI)</description>
-			<author>Abilene Christian University (ACU)</author>
-			<pubDate>2024-02-13 08:34:00</pubDate>
 		</item>
 	</channel>
 </rss>
