@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 20 Feb 2024 23:14:25 GMT</pubDate>
-		<lastBuildDate>Tue, 20 Feb 2024 23:14:25 GMT</lastBuildDate>
+		<pubDate>Wed, 21 Feb 2024 14:16:09 GMT</pubDate>
+		<lastBuildDate>Wed, 21 Feb 2024 14:16:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -122,27 +122,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2024-02-15 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>2024/01/31 NRR E-mail Capture - Abilene Christian University, Response to Request for Additional Information (RAI) Extension Request</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24031A582</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-02-14 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Response to NRC Request for Additional Information (RAI No. 10101) on the NuScale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24037A134</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-02-14 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Response to Request for Withholding Information from Public Disclosure for Abilene Christian University (ACU) (EPID L-2022-NFW-0002)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24030A870</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-02-14 08:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
