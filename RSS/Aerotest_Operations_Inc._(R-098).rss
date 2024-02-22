@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 21 Feb 2024 23:17:41 GMT</pubDate>
-		<lastBuildDate>Wed, 21 Feb 2024 23:17:41 GMT</lastBuildDate>
+		<pubDate>Thu, 22 Feb 2024 14:16:23 GMT</pubDate>
+		<lastBuildDate>Thu, 22 Feb 2024 14:16:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>E-Mail, Response to Request for Additional Information (RAI)</description>
 			<author>Aerotest Operations, Inc, Nuclear Labyrinth LLC</author>
 			<pubDate>2024-02-16 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Inspection Report 050-00228/2023-001 (Revised), and Notice of Violation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24039A038</link>
-			<description>Enforcement Action, Inspection Report, Letter, Notice of Violation</description>
-			<author>NRC/RGN-IV/DRSS/DIOR</author>
-			<pubDate>2024-02-15 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
