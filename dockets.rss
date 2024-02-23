@@ -5,12 +5,47 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 22 Feb 2024 23:18:14 GMT</pubDate>
-		<lastBuildDate>Thu, 22 Feb 2024 23:18:14 GMT</lastBuildDate>
+		<pubDate>Fri, 23 Feb 2024 14:14:48 GMT</pubDate>
+		<lastBuildDate>Fri, 23 Feb 2024 14:14:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC 896 - A Topical Report Verification Review Determination for TerraPower, LLC Regulatory Management of Natrium Nuclear Island and Energy Island Design Interfaces Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24036A050</link>
+			<description>Administrative Form, NRC, Topical Report Evaluation</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-02-23 08:29:00</pubDate>
+		</item>
+		<item>
+			<title>2024/02/09 NRR E-mail Capture - University of Illinois Urbana-Champaign Schedule Change for Applicability of Regulations Topical Report Rev. 3</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24040A090</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2024-02-23 08:29:00</pubDate>
+		</item>
+		<item>
+			<title>Withholding Proprietary Information from Public Disclosure - TerraPower, LLC, "Radiological Release Consequences Methodology Topical Report"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24043A042</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-02-23 08:29:00</pubDate>
+		</item>
+		<item>
+			<title>TerraPower - Audit Report Letter - Fuel and Control Assembly Qualification</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24043A158</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-02-23 08:29:00</pubDate>
+		</item>
+		<item>
+			<title>TerraPower - Audit Summary Report - Fuel and Control Assembly Qualification Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24043A160</link>
+			<description>Audit Report</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-02-23 08:29:00</pubDate>
+		</item>
 		<item>
 			<title>Transmittal of Presentation Slides to Support the Westinghouse-NRC Pre-Submittal Meeting on the Westinghouse AP300 SMR Fuel Handling & Storage White Paper</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24052A272</link>
@@ -150,20 +185,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-02-19 19:40:00</pubDate>
-		</item>
-		<item>
-			<title>02/28/2024 Readiness Assessment Closeout Meeting with GE-Hitachi Nuclear Energy Americas (GEH) Regarding BWRX-300 Small Modular Reactor Safety Strategy Draft Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24047A137</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-02-16 11:10:00</pubDate>
-		</item>
-		<item>
-			<title>2024/02/02 GEH BWRX-300 SMR TR RAI - FW (PROPRIETARY) GE Hitachi Request for Additional Information (RAI-10121-R1) Letter No. 18 for Topical Report NEDC-33926P</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24033A206</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2024-02-16 08:39:00</pubDate>
 		</item>
 	</channel>
 </rss>

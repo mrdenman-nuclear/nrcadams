@@ -5,11 +5,39 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 22 Feb 2024 23:18:10 GMT</pubDate>
-		<lastBuildDate>Thu, 22 Feb 2024 23:18:10 GMT</lastBuildDate>
+		<pubDate>Fri, 23 Feb 2024 14:14:48 GMT</pubDate>
+		<lastBuildDate>Fri, 23 Feb 2024 14:14:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>NRC 896 - A Topical Report Verification Review Determination for TerraPower, LLC Regulatory Management of Natrium Nuclear Island and Energy Island Design Interfaces Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24036A050</link>
+			<description>Administrative Form, NRC, Topical Report Evaluation</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-02-23 08:29:00</pubDate>
+		</item>
+		<item>
+			<title>Withholding Proprietary Information from Public Disclosure - TerraPower, LLC, "Radiological Release Consequences Methodology Topical Report"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24043A042</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-02-23 08:29:00</pubDate>
+		</item>
+		<item>
+			<title>TerraPower - Audit Report Letter - Fuel and Control Assembly Qualification</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24043A158</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-02-23 08:29:00</pubDate>
+		</item>
+		<item>
+			<title>TerraPower - Audit Summary Report - Fuel and Control Assembly Qualification Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24043A160</link>
+			<description>Audit Report</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-02-23 08:29:00</pubDate>
+		</item>
+	</channel>
 </rss>

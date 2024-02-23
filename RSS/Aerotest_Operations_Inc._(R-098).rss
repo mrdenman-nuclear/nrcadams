@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 22 Feb 2024 23:17:48 GMT</pubDate>
-		<lastBuildDate>Thu, 22 Feb 2024 23:17:48 GMT</lastBuildDate>
+		<pubDate>Fri, 23 Feb 2024 14:14:38 GMT</pubDate>
+		<lastBuildDate>Fri, 23 Feb 2024 14:14:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Aerotest Operations, Inc. - E-mail to Licensee - Aerotest RCI and Draft License Amendment (License # R-98, Docket # 50-228)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24039A156</link>
-			<description>E-Mail</description>
-			<author>NRC/NMSS/DDUWP/RDB</author>
-			<pubDate>2024-02-16 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>Aerotest Operations, Inc. - Licensee response E-mail to Aerotest RCI and draft license amendment (License # R-98, Docket # 50-228)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24039A171</link>
-			<description>E-Mail, Response to Request for Additional Information (RAI)</description>
-			<author>Aerotest Operations, Inc, Nuclear Labyrinth LLC</author>
-			<pubDate>2024-02-16 08:39:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
