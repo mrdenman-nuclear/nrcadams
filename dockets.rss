@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 26 Feb 2024 16:17:37 GMT</pubDate>
-		<lastBuildDate>Mon, 26 Feb 2024 16:17:37 GMT</lastBuildDate>
+		<pubDate>Mon, 26 Feb 2024 17:13:59 GMT</pubDate>
+		<lastBuildDate>Mon, 26 Feb 2024 17:13:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submittal of the Revised "University of Illinois Urbana-Champaign High Temperature Gas-cooled Research Reactor: Event Sequence Identification and SSC Safety Classification Methodology" Topical Report, Release 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24053A334</link>
+			<description>Topical Report</description>
+			<author>Ultra Safe Nuclear Corporation, Univ of Illinois - Urbana - Champaign</author>
+			<pubDate>2024-02-26 11:41:00</pubDate>
+		</item>
+		<item>
+			<title>Submittal of the Revised "University of Illinois Urbana-Champaign High Temperature Gas-cooled Research Reactor: Event Sequence Identification and SSC Safety Classification Methodology" Topical Report, Release 02</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24053A335</link>
+			<description>Letter</description>
+			<author>Univ of Illinois - Urbana - Champaign</author>
+			<pubDate>2024-02-26 11:41:00</pubDate>
+		</item>
 		<item>
 			<title>Kairos Power LLC, Presentation Materials for Kairos Power Pre-Submittal Meeting on the Criticality Safety Analysis Methodology for the Hermes Non-Power Reactor and the KP-FHR Core Design Methodology Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24046A143</link>
@@ -206,20 +220,6 @@
 			<description>Press Release</description>
 			<author>NRC/OPA</author>
 			<pubDate>2024-02-20 09:37:00</pubDate>
-		</item>
-		<item>
-			<title>Response to Request for Withholding Proprietary Information from Public Disclosure, Westinghouse AP300 SMR Localized 1E Power System & Safety White Paper No.2 for Pre-Application Engagement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24030A008</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-02-20 08:52:00</pubDate>
-		</item>
-		<item>
-			<title>December 12, 2023, Summary of Preapplication Meetings with Westinghouse Electric Company on AP300 SMR White Paper #2 Localized 1E Power System & Safety</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23354A047</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-02-20 08:52:00</pubDate>
 		</item>
 	</channel>
 </rss>
