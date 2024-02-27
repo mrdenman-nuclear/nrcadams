@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 26 Feb 2024 23:15:03 GMT</pubDate>
-		<lastBuildDate>Mon, 26 Feb 2024 23:15:03 GMT</lastBuildDate>
+		<pubDate>Tue, 27 Feb 2024 14:14:55 GMT</pubDate>
+		<lastBuildDate>Tue, 27 Feb 2024 14:14:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,27 +31,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-02-22 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>Response to Request for Withholding Proprietary Information from Public Disclosure, Westinghouse AP300 SMR Localized 1E Power System & Safety White Paper No.2 for Pre-Application Engagement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24030A008</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-02-20 08:52:00</pubDate>
-		</item>
-		<item>
-			<title>December 12, 2023, Summary of Preapplication Meetings with Westinghouse Electric Company on AP300 SMR White Paper #2 Localized 1E Power System & Safety</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23354A047</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-02-20 08:52:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Feedback on Westinghouse White Paper No.1 AP300 SMR Design  Description Overview White Paper for Pre-Application Engagement (EPID L-2023-LRM-0087)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24004A168</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-02-20 08:52:00</pubDate>
 		</item>
 	</channel>
 </rss>

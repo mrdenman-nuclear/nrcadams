@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 26 Feb 2024 23:15:03 GMT</pubDate>
-		<lastBuildDate>Mon, 26 Feb 2024 23:15:03 GMT</lastBuildDate>
+		<pubDate>Tue, 27 Feb 2024 14:14:55 GMT</pubDate>
+		<lastBuildDate>Tue, 27 Feb 2024 14:14:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Press Release</description>
 			<author>NRC/OPA</author>
 			<pubDate>2024-02-21 10:53:00</pubDate>
-		</item>
-		<item>
-			<title>News Release-23-034:  NRC Completes Safety Review of Construction Permit Application For Kairos Test Reactor in Tennessee</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24047A245</link>
-			<description>Press Release</description>
-			<author>NRC/OPA</author>
-			<pubDate>2024-02-20 09:37:00</pubDate>
 		</item>
 	</channel>
 </rss>
