@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 27 Feb 2024 15:14:03 GMT</pubDate>
-		<lastBuildDate>Tue, 27 Feb 2024 15:14:03 GMT</lastBuildDate>
+		<pubDate>Tue, 27 Feb 2024 16:17:48 GMT</pubDate>
+		<lastBuildDate>Tue, 27 Feb 2024 16:17:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Triso-X, LLC, Submittal of Environmental Report Reference in Support of the TRISO-X Fuel Fabrication Facility License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24046A164</link>
+			<description>Letter</description>
+			<author>Triso-X, LLC</author>
+			<pubDate>2024-02-27 11:12:00</pubDate>
+		</item>
+		<item>
+			<title>Triso-X Fuel Fabrication Facility, Traffic Impact Analysis</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24057A039</link>
+			<description>Report, Technical</description>
+			<author>Mattern and Craig</author>
+			<pubDate>2024-02-27 11:12:00</pubDate>
+		</item>
 		<item>
 			<title>03/11/2024 Meeting with Oklo to discuss physical security for its advanced reactor design.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24057A005</link>
@@ -206,20 +220,6 @@
 			<description>Press Release</description>
 			<author>NRC/OPA</author>
 			<pubDate>2024-02-21 16:25:00</pubDate>
-		</item>
-		<item>
-			<title>News Release-23-078:  NRC to Issue Construction Permit for Kairos Hermes Test Reactor in Tennessee</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24052A325</link>
-			<description>Press Release</description>
-			<author>NRC/OPA</author>
-			<pubDate>2024-02-21 16:25:00</pubDate>
-		</item>
-		<item>
-			<title>News Release-23-063:  NRC Announces Hearing Opportunity on Carbon Free Power Project’s Limited Work Authorization Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24052A260</link>
-			<description>Press Release</description>
-			<author>NRC/OPA</author>
-			<pubDate>2024-02-21 15:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
