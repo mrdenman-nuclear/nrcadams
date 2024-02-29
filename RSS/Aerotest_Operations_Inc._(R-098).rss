@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 28 Feb 2024 23:18:39 GMT</pubDate>
-		<lastBuildDate>Wed, 28 Feb 2024 23:18:39 GMT</lastBuildDate>
+		<pubDate>Thu, 29 Feb 2024 14:17:55 GMT</pubDate>
+		<lastBuildDate>Thu, 29 Feb 2024 14:17:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>EA-23-118 Missing NRC's 90-day Written Response NRC BC Reply</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24053A041</link>
+			<description>E-Mail</description>
+			<author>NRC/RGN-IV/DRSS</author>
+			<pubDate>2024-02-29 08:52:00</pubDate>
+		</item>
+		<item>
+			<title>Aerotest Operations, Inc. - NRC Inspection Report 05000228/2020201, And Disputed Cited Violation Closed</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24037A312</link>
+			<description>Inspection Report Correspondence, Letter</description>
+			<author>NRC/RGN-IV/DRSS</author>
+			<pubDate>2024-02-29 08:51:00</pubDate>
+		</item>
+	</channel>
 </rss>
