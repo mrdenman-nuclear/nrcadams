@@ -5,11 +5,53 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 29 Feb 2024 23:15:36 GMT</pubDate>
-		<lastBuildDate>Thu, 29 Feb 2024 23:15:36 GMT</lastBuildDate>
+		<pubDate>Fri, 01 Mar 2024 14:14:09 GMT</pubDate>
+		<lastBuildDate>Fri, 01 Mar 2024 14:14:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Enclosure 2: "Principal Design Criteria for IMSR Structures, Systems, and Components Topical Report - Rev B" (Non-proprietary)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24053A170</link>
+			<description>Topical Report</description>
+			<author>Terrestrial Energy USA, Inc</author>
+			<pubDate>2024-03-01 08:49:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 3: Affidavit Supporting Request for Withholding from Public Disclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24053A172</link>
+			<description>Legal-Affidavit</description>
+			<author>Terrestrial Energy USA, Inc</author>
+			<pubDate>2024-03-01 08:49:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: "Uncertainty Quantification Methodology for Calculation of IMSR Off-Gas Source Term - Revision 2" (Non-Proprietary)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24053A176</link>
+			<description>Report, Technical</description>
+			<author>Terrestrial Energy USA, Inc</author>
+			<pubDate>2024-03-01 08:49:00</pubDate>
+		</item>
+		<item>
+			<title>Terrestrial Energy USA, Submittal of Revision 2 of Technical Report on Uncertainty Quantification Methodology for Calculation of IMSR Off-Gas Source Term</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24053A177</link>
+			<description>Letter</description>
+			<author>Terrestrial Energy USA</author>
+			<pubDate>2024-03-01 08:49:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 3: Affidavit Supporting Request for Withholding from Public Disclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24053A178</link>
+			<description>Legal-Affidavit</description>
+			<author>Terrestrial Energy USA, Inc</author>
+			<pubDate>2024-03-01 08:49:00</pubDate>
+		</item>
+		<item>
+			<title>Terrestrial Energy USA, Inc., Principal Design Criteria for IMSR Structures, Systems and Components Topical Report Revision B (Document #TR231229)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24053A171</link>
+			<description>Letter</description>
+			<author>Terrestrial Energy USA, Inc</author>
+			<pubDate>2024-03-01 08:49:00</pubDate>
+		</item>
+	</channel>
 </rss>
