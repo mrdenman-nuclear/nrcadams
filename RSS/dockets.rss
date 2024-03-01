@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 01 Mar 2024 14:14:01 GMT</pubDate>
-		<lastBuildDate>Fri, 01 Mar 2024 14:14:01 GMT</lastBuildDate>
+		<pubDate>Fri, 01 Mar 2024 15:16:14 GMT</pubDate>
+		<lastBuildDate>Fri, 01 Mar 2024 15:16:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>03/06/2024 Pre-submittal meeting with Kairos Power on the Hermes Test Reactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24061A065</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-03-01 09:52:00</pubDate>
+		</item>
+		<item>
+			<title>Submittal of the Revised "University of Illinois Urbana-Champaign High Temperature Gas-cooled Research Reactor: Event Sequence Identification and SSC Safety Classification Methodology" Topical Report, Release 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24053A334</link>
+			<description>Topical Report</description>
+			<author>Ultra Safe Nuclear Corporation, Univ of Illinois - Urbana - Champaign</author>
+			<pubDate>2024-03-01 09:17:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 1 - 1-26-24 Meeting Agenda of the Public Meeting with SMR, LLC (Holtec), to Discuss Information Needs - Quality Assurance Program Topical Report for the SMR (Holtec) Design</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24039A004</link>
@@ -206,20 +220,6 @@
 			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2024-02-27 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>Email - Summary of February 17, 2023 Call with TRISO-X to Discuss the Draft RAI Set 1 for Management Measures, Human Factors, and Structural for the License Application.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24053A029</link>
-			<description>E-Mail, Meeting Summary</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2024-02-27 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Preapplication Meeting Materials for February 26, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24044A241</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
-			<pubDate>2024-02-26 13:10:00</pubDate>
 		</item>
 	</channel>
 </rss>
