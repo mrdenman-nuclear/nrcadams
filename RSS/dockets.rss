@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 01 Mar 2024 16:16:14 GMT</pubDate>
-		<lastBuildDate>Fri, 01 Mar 2024 16:16:14 GMT</lastBuildDate>
+		<pubDate>Fri, 01 Mar 2024 17:19:06 GMT</pubDate>
+		<lastBuildDate>Fri, 01 Mar 2024 17:19:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>GEH, Responses to Request for Additional Information No. 018 (RAI-10121-R1) to Licensing Topical Report NEDC-33926P/NEDO-33926, Revision 1, BWRX-300 Steel-Plate Composite Containment Vessel (SCCV) and Reactor Building Structural Design</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24044A259</link>
+			<description>Response to Request for Additional Information (RAI)</description>
+			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
+			<pubDate>2024-03-01 11:49:00</pubDate>
+		</item>
+		<item>
+			<title>GE-Hitachi Nuclear Energy Americas, LLC, Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24044A261</link>
+			<description>Legal-Affidavit</description>
+			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
+			<pubDate>2024-03-01 11:49:00</pubDate>
+		</item>
+		<item>
+			<title>GEH, Responses to Request for Additional Information No. 018 (RAI-10121-R1) to Demonstration of Nondestructive Evaluation of Concrete in Mockup and Prototypes</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24044A260</link>
+			<description>Response to Request for Additional Information (RAI)</description>
+			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
+			<pubDate>2024-03-01 11:49:00</pubDate>
+		</item>
+		<item>
+			<title>GEH, Responses to Request for Additional Information No. 018 (RAI-10121-R1) for Licensing Topical Report NEDC-33926P/NEDO-33926, Revision 1, BWRX-300 Steel-Plate Composite Containment Vessel (SCCV) and Reactor Building (RB) Structural Design Letter</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24044A257</link>
+			<description>Letter</description>
+			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
+			<pubDate>2024-03-01 11:49:00</pubDate>
+		</item>
 		<item>
 			<title>03/06/2024 Pre-submittal meeting with Kairos Power on the Hermes Test Reactor</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24061A065</link>
@@ -192,34 +220,6 @@
 			<description>Report, Technical</description>
 			<author>Mattern and Craig</author>
 			<pubDate>2024-02-27 11:12:00</pubDate>
-		</item>
-		<item>
-			<title>03/11/2024 Meeting with Oklo to discuss physical security for its advanced reactor design.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24057A005</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-02-27 09:20:00</pubDate>
-		</item>
-		<item>
-			<title>SHINE Technologies, LLC - Periodic Report Required by the License Conditions in Section 3.D.(1) of CPMIF-001</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24047A039</link>
-			<description>Letter</description>
-			<author>SHINE Technologies, LLC</author>
-			<pubDate>2024-02-27 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Response to NRC Request for Additional Information No. 10115 (RAI No. 10115) on the NuScale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24047A252</link>
-			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-02-27 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Response to NRC Request for Additional Information No. 10115 (RAI No. 10115) on the NuScale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24047A252</link>
-			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-02-27 08:39:00</pubDate>
 		</item>
 	</channel>
 </rss>
