@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 01 Mar 2024 23:13:28 GMT</pubDate>
-		<lastBuildDate>Fri, 01 Mar 2024 23:13:28 GMT</lastBuildDate>
+		<pubDate>Mon, 04 Mar 2024 14:15:10 GMT</pubDate>
+		<lastBuildDate>Mon, 04 Mar 2024 14:15:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Cover Letter - RAIs Set Seven for the Environmental Safety Review Regarding The TRISO-X License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23321A042</link>
+			<description>Letter, Request for Additional Information (RAI)</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2024-03-04 08:35:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure - RAIs Set Seven for the Environmental Safety Review Regarding TRISO-X License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23321A051</link>
+			<description>Request for Additional Information (RAI)</description>
+			<author>NRC/NMSS/DFM</author>
+			<pubDate>2024-03-04 08:35:00</pubDate>
+		</item>
+		<item>
+			<title>X-Energy, LLC, (X-energy), Submittal of Xe-100 U.S. Regulatory Engagement Plan (REP) 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24054A841</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2024-03-04 08:34:00</pubDate>
+		</item>
+		<item>
+			<title>X-Energy, LLC, (X-energy), U.S. Licensing Xe-100 Pre-Application Engagements 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24054A842</link>
+			<description>Graphics incl Charts and Tables, Operating Plan</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2024-03-04 08:34:00</pubDate>
+		</item>
 		<item>
 			<title>GEH, Responses to Request for Additional Information No. 018 (RAI-10121-R1) to Licensing Topical Report NEDC-33926P/NEDO-33926, Revision 1, BWRX-300 Steel-Plate Composite Containment Vessel (SCCV) and Reactor Building Structural Design</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24044A259</link>
@@ -192,34 +220,6 @@
 			<description>Administrative Form, NRC</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2024-02-28 08:44:00</pubDate>
-		</item>
-		<item>
-			<title>X-Energy, LLC (X-energy), Submittal of Xe-100 Licensing Topical Report Principal Design Criteria, Revision 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24047A309</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2024-02-27 11:42:00</pubDate>
-		</item>
-		<item>
-			<title>X-Energy, LLC (X-energy), Xe-100 Licensing Topical Report Principal Design Criteria, Revision 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24047A310</link>
-			<description>Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2024-02-27 11:42:00</pubDate>
-		</item>
-		<item>
-			<title>Triso-X, LLC, Submittal of Environmental Report Reference in Support of the TRISO-X Fuel Fabrication Facility License Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24046A164</link>
-			<description>Letter</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2024-02-27 11:12:00</pubDate>
-		</item>
-		<item>
-			<title>Triso-X Fuel Fabrication Facility, Traffic Impact Analysis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24057A039</link>
-			<description>Report, Technical</description>
-			<author>Mattern and Craig</author>
-			<pubDate>2024-02-27 11:12:00</pubDate>
 		</item>
 	</channel>
 </rss>

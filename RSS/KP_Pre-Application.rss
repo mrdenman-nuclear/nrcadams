@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 01 Mar 2024 23:13:35 GMT</pubDate>
-		<lastBuildDate>Fri, 01 Mar 2024 23:13:35 GMT</lastBuildDate>
+		<pubDate>Mon, 04 Mar 2024 14:15:22 GMT</pubDate>
+		<lastBuildDate>Mon, 04 Mar 2024 14:15:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,27 +17,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-03-01 09:52:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Presentation Materials for Kairos Power Pre-Submittal Meeting on the Criticality Safety Analysis Methodology for the Hermes Non-Power Reactor and the KP-FHR Core Design Methodology Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24046A143</link>
-			<description>Letter</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2024-02-26 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Presentation Slides on Hermes Criticality Safety Analysis Methodology (Non-Proprietary)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24046A145</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2024-02-26 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Presentation Slides on the KP-FHR Core Design Methodology Topical Report (Non-Proprietary)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24046A146</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2024-02-26 08:39:00</pubDate>
 		</item>
 	</channel>
 </rss>
