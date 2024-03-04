@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 04 Mar 2024 21:13:54 GMT</pubDate>
-		<lastBuildDate>Mon, 04 Mar 2024 21:13:54 GMT</lastBuildDate>
+		<pubDate>Mon, 04 Mar 2024 22:14:56 GMT</pubDate>
+		<lastBuildDate>Mon, 04 Mar 2024 22:14:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Westinghouse, Submittal of AP300 SMR NSSS Configuration & Layout White Paper for Pre-Application Engagement</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24061A232</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>Westinghouse Electric Co, Westinghouse Electric Co, LLC</author>
+			<pubDate>2024-03-04 16:33:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Feedback Response Letter to Westinghouse AP300 SMR White Paper No.2 - Localized 1E Power System & Safety</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24031A121</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-03-04 16:33:00</pubDate>
+		</item>
 		<item>
 			<title>Cover Letter - RAIs Set Seven for the Environmental Safety Review Regarding The TRISO-X License Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23321A042</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24051A236</link>
 			<description>Letter, Quality Assurance Program</description>
 			<author>X-Energy, LLC</author>
-			<pubDate>2024-02-28 08:44:00</pubDate>
-		</item>
-		<item>
-			<title>Email - Completeness Determination for the TerraPower, LLC "Stability Methodology Topical Report" Revision 0 (EPID L-2023-TOP-0057)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23355A077</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-02-28 08:44:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Form 898 - Completeness Determination for the TerraPower, LLC "Stability Methodology Topical Report" Revision 0 (EPID L-2023-TOP-0057)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23355A078</link>
-			<description>Administrative Form, NRC</description>
-			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2024-02-28 08:44:00</pubDate>
 		</item>
 	</channel>
