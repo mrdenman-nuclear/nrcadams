@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 04 Mar 2024 23:15:26 GMT</pubDate>
-		<lastBuildDate>Mon, 04 Mar 2024 23:15:26 GMT</lastBuildDate>
+		<pubDate>Tue, 05 Mar 2024 14:16:07 GMT</pubDate>
+		<lastBuildDate>Tue, 05 Mar 2024 14:16:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,27 +24,6 @@
 			<description>Request for Additional Information (RAI)</description>
 			<author>NRC/NMSS/DFM</author>
 			<pubDate>2024-03-04 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>Triso-X, LLC, Submittal of Environmental Report Reference in Support of the TRISO-X Fuel Fabrication Facility License Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24046A164</link>
-			<description>Letter</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2024-02-27 11:12:00</pubDate>
-		</item>
-		<item>
-			<title>Triso-X Fuel Fabrication Facility, Traffic Impact Analysis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24057A039</link>
-			<description>Report, Technical</description>
-			<author>Mattern and Craig</author>
-			<pubDate>2024-02-27 11:12:00</pubDate>
-		</item>
-		<item>
-			<title>Email - Summary of February 17, 2023 Call with TRISO-X to Discuss the Draft RAI Set 1 for Management Measures, Human Factors, and Structural for the License Application.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24053A029</link>
-			<description>E-Mail, Meeting Summary</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2024-02-27 08:39:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 04 Mar 2024 23:15:26 GMT</pubDate>
-		<lastBuildDate>Mon, 04 Mar 2024 23:15:26 GMT</lastBuildDate>
+		<pubDate>Tue, 05 Mar 2024 14:16:07 GMT</pubDate>
+		<lastBuildDate>Tue, 05 Mar 2024 14:16:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>January 30, 2024, U.S. Nuclear Regulatory Commission Summary of the Observation Public Meeting on the Status of Nuscale's US460 Standard Design Approval Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24047A118</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2024-03-05 08:41:00</pubDate>
+		</item>
 		<item>
 			<title>Email - Verification of PROP by NuScale - NuScale SDAA Chapter 17 (Sections 17.1 - 17.3, 17.5, 17.6) SE with no Open Items</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24051A182</link>
@@ -24,13 +31,6 @@
 			<description>Safety Evaluation</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2024-02-29 08:51:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Response to NRC Request for Additional Information No. 10115 (RAI No. 10115) on the NuScale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24047A252</link>
-			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-02-27 08:39:00</pubDate>
 		</item>
 	</channel>
 </rss>
