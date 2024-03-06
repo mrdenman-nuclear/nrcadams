@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 06 Mar 2024 20:16:08 GMT</pubDate>
-		<lastBuildDate>Wed, 06 Mar 2024 20:16:08 GMT</lastBuildDate>
+		<pubDate>Wed, 06 Mar 2024 21:13:14 GMT</pubDate>
+		<lastBuildDate>Wed, 06 Mar 2024 21:13:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>03/19/2024 Meeting with X-energy pertaining to the Xe-100 design</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24066A174</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-03-06 15:53:00</pubDate>
+		</item>
+		<item>
+			<title>04/09/2024 Request for Additional Information to Support TRISO-X License Application Review - Structural RAI for the Building Risk Category (III versus IV)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24066A150</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2024-03-06 15:34:00</pubDate>
+		</item>
+		<item>
+			<title>03/18/2024 Meeting with TRISO-X LLC to discuss ISA Summary programmatic RAI supplement,continued</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24066A152</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2024-03-06 15:34:00</pubDate>
+		</item>
+		<item>
+			<title>03/19/2024 Oklo Aurora X: Meeting with Oklo to discuss the Environmental Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24066A135</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2024-03-06 15:32:00</pubDate>
+		</item>
 		<item>
 			<title>TRISO-X FFF EIS RAIs Part 3 final.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24059A443</link>
@@ -192,34 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-03-01 09:52:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of the Revised "University of Illinois Urbana-Champaign High Temperature Gas-cooled Research Reactor: Event Sequence Identification and SSC Safety Classification Methodology" Topical Report, Release 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24053A334</link>
-			<description>Topical Report</description>
-			<author>Ultra Safe Nuclear Corporation, Univ of Illinois - Urbana - Champaign</author>
-			<pubDate>2024-03-01 09:17:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - 1-26-24 Meeting Agenda of the Public Meeting with SMR, LLC (Holtec), to Discuss Information Needs - Quality Assurance Program Topical Report for the SMR (Holtec) Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24039A004</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-03-01 08:51:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2-1-26-24 Meeting Attendees of the Public Meeting with SMR, LLC (Holtec), to Discuss Information Needs - Quality Assurance Program Topical Report for the SMR (Holtec) Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24039A005</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-03-01 08:51:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3 - 1-26-24 Meeting Summary of the Public Meeting with SMR, LLC (Holtec), to Discuss Information Needs - Quality Assurance Program Topical Report for the SMR (Holtec) Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24039A006</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-03-01 08:51:00</pubDate>
 		</item>
 	</channel>
 </rss>
