@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 06 Mar 2024 19:13:23 GMT</pubDate>
-		<lastBuildDate>Wed, 06 Mar 2024 19:13:23 GMT</lastBuildDate>
+		<pubDate>Wed, 06 Mar 2024 20:16:08 GMT</pubDate>
+		<lastBuildDate>Wed, 06 Mar 2024 20:16:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TRISO-X FFF EIS RAIs Part 3 final.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24059A443</link>
+			<description>Request for Additional Information (RAI)</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2024-03-06 14:46:00</pubDate>
+		</item>
 		<item>
 			<title>Memorandum - Summary of Six Meetings between December 11, 2023 and January 23, 2024 with TRISO-X, LLC, to Align on a Supplement for the Responses to the Requests for Additional Information Regarding the Integrated Safety Analysis</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23332A075</link>
@@ -211,13 +218,6 @@
 			<title>Enclosure 3 - 1-26-24 Meeting Summary of the Public Meeting with SMR, LLC (Holtec), to Discuss Information Needs - Quality Assurance Program Topical Report for the SMR (Holtec) Design</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24039A006</link>
 			<description>Meeting Summary</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-03-01 08:51:00</pubDate>
-		</item>
-		<item>
-			<title>1-26-24 Meeting Summary with SMR, LLC (Holtec), to Discuss Information Needs - Quality Assurance Program Topical Report for the SMR (Holtec) Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24039A007</link>
-			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-03-01 08:51:00</pubDate>
 		</item>
