@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 07 Mar 2024 16:16:46 GMT</pubDate>
-		<lastBuildDate>Thu, 07 Mar 2024 16:16:46 GMT</lastBuildDate>
+		<pubDate>Thu, 07 Mar 2024 17:16:02 GMT</pubDate>
+		<lastBuildDate>Thu, 07 Mar 2024 17:16:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Agenda - 713th ACRS Full Committee Meeting - March 6-8, 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24040A162</link>
+			<description>Meeting Agenda</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2024-03-07 11:26:00</pubDate>
+		</item>
 		<item>
 			<title>Transcript of Advisory Committee on Reactor Safeguards Digital I&C Subcommittee Meeting, February 22, 2024, Pages 1-168 (Open)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24066A051</link>
@@ -24,13 +31,6 @@
 			<description>Annual Report</description>
 			<author>NRC/ACRS, NRC/SECY</author>
 			<pubDate>2024-03-06 08:47:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - 713th ACRS Full Committee Meeting - March 6-8, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24040A162</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-03-05 15:55:00</pubDate>
 		</item>
 	</channel>
 </rss>
