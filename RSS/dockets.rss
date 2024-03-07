@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 07 Mar 2024 20:15:21 GMT</pubDate>
-		<lastBuildDate>Thu, 07 Mar 2024 20:15:21 GMT</lastBuildDate>
+		<pubDate>Thu, 07 Mar 2024 21:14:26 GMT</pubDate>
+		<lastBuildDate>Thu, 07 Mar 2024 21:14:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submittal of revised University of Illinois Topical Report, "University of Illinois Urbana-Champaign High Temperature Gas-cooled Research Reactor: Applicability of Nuclear Regulatory Commission Regulations," Release 03, dated February 28, 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24064A012</link>
+			<description>Letter</description>
+			<author>Univ of Illinois - Urbana - Champaign</author>
+			<pubDate>2024-03-07 15:47:00</pubDate>
+		</item>
+		<item>
+			<title>UIUC TR: IMRDD-MMR-22-04 "University of Illinois Urbana-Champaign High Temperature Gas-cooled Research Reactor: Applicability of Nuclear Regulatory Commission Regulations," Release 03, dated February 28, 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24064A044</link>
+			<description>Topical Report</description>
+			<author>Univ of Illinois - Urbana - Champaign</author>
+			<pubDate>2024-03-07 15:47:00</pubDate>
+		</item>
+		<item>
+			<title>Response to Request for Additional Information Part 2-2 for the TRISO-X Environmental Report and License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24065A313</link>
+			<description>Letter, Response to Request for Additional Information (RAI)</description>
+			<author>Triso-X, LLC</author>
+			<pubDate>2024-03-07 15:47:00</pubDate>
+		</item>
+		<item>
+			<title>03/21/2024 Pre-Application meeting with X-energy</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24067A274</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-03-07 15:27:00</pubDate>
+		</item>
 		<item>
 			<title>AP300 White Paper Preapplication Meeting Summary Fuel Handling & Storage Letter + Encl 1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24061A080</link>
@@ -192,34 +220,6 @@
 			<description>Legal-Affidavit, Letter</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2024-03-04 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>X-Energy, LLC, (X-energy), U.S. Licensing Xe-100 Pre-Application Engagements 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24054A842</link>
-			<description>Graphics incl Charts and Tables, Operating Plan</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2024-03-04 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>GEH, Responses to Request for Additional Information No. 018 (RAI-10121-R1) to Licensing Topical Report NEDC-33926P/NEDO-33926, Revision 1, BWRX-300 Steel-Plate Composite Containment Vessel (SCCV) and Reactor Building Structural Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24044A259</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-03-01 11:49:00</pubDate>
-		</item>
-		<item>
-			<title>GE-Hitachi Nuclear Energy Americas, LLC, Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24044A261</link>
-			<description>Legal-Affidavit</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-03-01 11:49:00</pubDate>
-		</item>
-		<item>
-			<title>GEH, Responses to Request for Additional Information No. 018 (RAI-10121-R1) to Demonstration of Nondestructive Evaluation of Concrete in Mockup and Prototypes</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24044A260</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-03-01 11:49:00</pubDate>
 		</item>
 	</channel>
 </rss>
