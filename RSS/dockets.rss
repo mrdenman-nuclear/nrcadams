@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 07 Mar 2024 15:15:22 GMT</pubDate>
-		<lastBuildDate>Thu, 07 Mar 2024 15:15:22 GMT</lastBuildDate>
+		<pubDate>Thu, 07 Mar 2024 16:16:43 GMT</pubDate>
+		<lastBuildDate>Thu, 07 Mar 2024 16:16:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>AP300 White Paper Preapplication Meeting Summary Fuel Handling & Storage Letter + Encl 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24061A080</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-03-07 10:42:00</pubDate>
+		</item>
 		<item>
 			<title>Letter to J Wheeler re TRISO-X FFF Environmental Review Request for Additional Information Part 3</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24059A444</link>
@@ -211,13 +218,6 @@
 			<title>GEH, Responses to Request for Additional Information No. 018 (RAI-10121-R1) to Demonstration of Nondestructive Evaluation of Concrete in Mockup and Prototypes</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24044A260</link>
 			<description>Response to Request for Additional Information (RAI)</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-03-01 11:49:00</pubDate>
-		</item>
-		<item>
-			<title>GEH, Responses to Request for Additional Information No. 018 (RAI-10121-R1) for Licensing Topical Report NEDC-33926P/NEDO-33926, Revision 1, BWRX-300 Steel-Plate Composite Containment Vessel (SCCV) and Reactor Building (RB) Structural Design Letter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24044A257</link>
-			<description>Letter</description>
 			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
 			<pubDate>2024-03-01 11:49:00</pubDate>
 		</item>
