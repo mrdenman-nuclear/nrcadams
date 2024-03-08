@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 07 Mar 2024 23:16:29 GMT</pubDate>
-		<lastBuildDate>Thu, 07 Mar 2024 23:16:29 GMT</lastBuildDate>
+		<pubDate>Fri, 08 Mar 2024 14:14:41 GMT</pubDate>
+		<lastBuildDate>Fri, 08 Mar 2024 14:14:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Topical Report</description>
 			<author>Univ of Illinois - Urbana - Champaign</author>
 			<pubDate>2024-03-07 15:47:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of the Revised "University of Illinois Urbana-Champaign High Temperature Gas-cooled Research Reactor: Event Sequence Identification and SSC Safety Classification Methodology" Topical Report, Release 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24053A334</link>
-			<description>Topical Report</description>
-			<author>Ultra Safe Nuclear Corporation, Univ of Illinois - Urbana - Champaign</author>
-			<pubDate>2024-03-01 09:17:00</pubDate>
 		</item>
 	</channel>
 </rss>
