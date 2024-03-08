@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 08 Mar 2024 17:13:38 GMT</pubDate>
-		<lastBuildDate>Fri, 08 Mar 2024 17:13:38 GMT</lastBuildDate>
+		<pubDate>Fri, 08 Mar 2024 18:18:13 GMT</pubDate>
+		<lastBuildDate>Fri, 08 Mar 2024 18:18:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Environmental Assessment for Abilene Christian University Molten Salt Research Reactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23300A053</link>
+			<description>Environmental Assessment</description>
+			<author>NRC/NMSS/DREFS/ENRB</author>
+			<pubDate>2024-03-08 13:10:00</pubDate>
+		</item>
+	</channel>
 </rss>
