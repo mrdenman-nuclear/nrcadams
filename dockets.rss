@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 08 Mar 2024 19:12:54 GMT</pubDate>
-		<lastBuildDate>Fri, 08 Mar 2024 19:12:54 GMT</lastBuildDate>
+		<pubDate>Fri, 08 Mar 2024 20:14:43 GMT</pubDate>
+		<lastBuildDate>Fri, 08 Mar 2024 20:14:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>X Energy, LLC - Presentation Materials - Xe-100 Licensing Topical Report Reactor Core Design Methods and Analysis</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24067A309</link>
+			<description>Letter</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2024-03-08 14:40:00</pubDate>
+		</item>
+		<item>
+			<title>X-Energy, LLC - Xe-100 Licensing Topical Report Reactor Core Design Methods and Analysis</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24067A310</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2024-03-08 14:40:00</pubDate>
+		</item>
 		<item>
 			<title>ACU MSRR - Historic and Cultural Resources</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24018A115</link>
@@ -206,20 +220,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2024-03-05 08:41:00</pubDate>
-		</item>
-		<item>
-			<title>January 30, 2024, U.S. Nuclear Regulatory Commission Summary of the Observation Public Meeting on the Status of Nuscale's US460 Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24047A118</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2024-03-05 08:41:00</pubDate>
-		</item>
-		<item>
-			<title>2024/02/20 Kairos - Hermes 2 Docs - FW HC-1 status</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24051A235</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2024-03-05 08:40:00</pubDate>
 		</item>
 	</channel>
 </rss>
