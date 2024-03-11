@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 11 Mar 2024 14:15:53 GMT</pubDate>
-		<lastBuildDate>Mon, 11 Mar 2024 14:15:53 GMT</lastBuildDate>
+		<pubDate>Mon, 11 Mar 2024 15:16:38 GMT</pubDate>
+		<lastBuildDate>Mon, 11 Mar 2024 15:16:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>03/21/2024 Pre-Application meeting with X-energy</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24071A093</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-03-11 10:23:00</pubDate>
+		</item>
 		<item>
 			<title>Request For Withholding Information From Public Disclosure "Kairos Power LLC, Presentation Materials For Kairos Power Pre-Submittal Meeting On The Criticality Safety Analysis Methodology For The Hermes Non-Power Reactor And The KP-FHR Core Design...</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24058A494</link>
@@ -136,13 +143,6 @@
 			<description>Letter, Response to Request for Additional Information (RAI)</description>
 			<author>Triso-X, LLC</author>
 			<pubDate>2024-03-07 15:47:00</pubDate>
-		</item>
-		<item>
-			<title>03/21/2024 Pre-Application meeting with X-energy</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24067A274</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-03-07 15:27:00</pubDate>
 		</item>
 		<item>
 			<title>AP300 White Paper Preapplication Meeting Summary Fuel Handling & Storage Letter + Encl 1</title>
