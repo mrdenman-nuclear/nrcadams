@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 11 Mar 2024 23:15:56 GMT</pubDate>
-		<lastBuildDate>Mon, 11 Mar 2024 23:15:56 GMT</lastBuildDate>
+		<pubDate>Tue, 12 Mar 2024 14:15:13 GMT</pubDate>
+		<lastBuildDate>Tue, 12 Mar 2024 14:15:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Response to Request for Withholding Proprietary Information from Public Disclosure - Presentation Slides to Support the Pre-Submittal Meeting on the Westinghouse AP300 SMR Core Design & Fuel Cycle White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24032A100</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-03-12 08:29:00</pubDate>
+		</item>
+		<item>
+			<title>Letter Response to Request for Withholding Proprietary Information from Public Disclosure - Westinghouse AP300 SMR Core Design & Fuel Cycle White Paper for Pre-Application Engagement</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24061A218</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-03-12 08:29:00</pubDate>
+		</item>
 		<item>
 			<title>02/20/2024 Summary of Meeting With Kairos On Criticality Safety For The Hermes 1 Test Reactor And A Draft Core Design Methodology Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24061A113</link>
@@ -206,20 +220,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
 			<pubDate>2024-03-06 08:48:00</pubDate>
-		</item>
-		<item>
-			<title>December 12, 2023, Summary of Closed Public Meeting to Discuss a Future Iteration of the Oklo Advanced Reactor Design (EPID L-2022-LRM-0042)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24064A227</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-03-06 08:48:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - 02/08/2024 Summary Of Closed Meeting With TerraPower, LLC To Discuss The Stability Methodology Topical Report (EPID No. L-2023-TOP-0057)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24054A096</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-03-06 08:47:00</pubDate>
 		</item>
 	</channel>
 </rss>

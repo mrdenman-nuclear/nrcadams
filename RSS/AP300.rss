@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 11 Mar 2024 23:16:09 GMT</pubDate>
-		<lastBuildDate>Mon, 11 Mar 2024 23:16:09 GMT</lastBuildDate>
+		<pubDate>Tue, 12 Mar 2024 14:15:23 GMT</pubDate>
+		<lastBuildDate>Tue, 12 Mar 2024 14:15:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Response to Request for Withholding Proprietary Information from Public Disclosure - Presentation Slides to Support the Pre-Submittal Meeting on the Westinghouse AP300 SMR Core Design & Fuel Cycle White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24032A100</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-03-12 08:29:00</pubDate>
+		</item>
+		<item>
+			<title>Letter Response to Request for Withholding Proprietary Information from Public Disclosure - Westinghouse AP300 SMR Core Design & Fuel Cycle White Paper for Pre-Application Engagement</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24061A218</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-03-12 08:29:00</pubDate>
+		</item>
 		<item>
 			<title>Westinghouse, Submittal of AP300 SMR Pre Application Regulatory Engagement Plan Periodic Update - February 2024</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24060A243</link>
@@ -38,13 +52,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-03-06 08:47:00</pubDate>
-		</item>
-		<item>
-			<title>03/22/2024 Public Preapplication Meeting on AP300 White Paper "I&C Concept of Operations"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24065A264</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-03-05 13:47:00</pubDate>
 		</item>
 	</channel>
 </rss>
