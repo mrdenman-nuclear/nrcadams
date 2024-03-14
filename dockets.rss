@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 14 Mar 2024 14:16:19 GMT</pubDate>
-		<lastBuildDate>Thu, 14 Mar 2024 14:16:19 GMT</lastBuildDate>
+		<pubDate>Thu, 14 Mar 2024 15:15:15 GMT</pubDate>
+		<lastBuildDate>Thu, 14 Mar 2024 15:15:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TRISO-X, LLC, Submittal of Supplemental Information for the Electrical/I&C Review of IROFS for the TRISO-X License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24060A239</link>
+			<description>Letter</description>
+			<author>Triso-X, LLC</author>
+			<pubDate>2024-03-14 10:54:00</pubDate>
+		</item>
+		<item>
+			<title>03/26/2024 Oklo Aurora X: Meeting with Oklo to discuss the Environmental Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24074A204</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2024-03-14 10:24:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure - TerraPower - Draft SE - An Analysis of the Potential Volcanic Hazards at the Proposed Natrium Sit Near Kemmerer, Wyoming</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24059A060</link>
@@ -206,20 +220,6 @@
 			<description>Report, Technical</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2024-03-08 14:00:00</pubDate>
-		</item>
-		<item>
-			<title>03/19/2024 Oklo Aurora X: Meeting with Oklo to discuss the Environmental Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24068A141</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-03-08 13:30:00</pubDate>
-		</item>
-		<item>
-			<title>Environmental Assessment for Abilene Christian University Molten Salt Research Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23300A053</link>
-			<description>Environmental Assessment</description>
-			<author>NRC/NMSS/DREFS/ENRB</author>
-			<pubDate>2024-03-08 13:10:00</pubDate>
 		</item>
 	</channel>
 </rss>
