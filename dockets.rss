@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 14 Mar 2024 17:14:48 GMT</pubDate>
-		<lastBuildDate>Thu, 14 Mar 2024 17:14:48 GMT</lastBuildDate>
+		<pubDate>Thu, 14 Mar 2024 18:17:03 GMT</pubDate>
+		<lastBuildDate>Thu, 14 Mar 2024 18:17:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>03/27/2024 Oklo Aurora X: Meeting 2 with Oklo to discuss the Environmental Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24074A361</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2024-03-14 14:08:00</pubDate>
+		</item>
 		<item>
 			<title>TRISO-X, LLC, Submittal of Supplemental Information for the Electrical/I&C Review of IROFS for the TRISO-X License Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24060A239</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2024-03-08 14:40:00</pubDate>
-		</item>
-		<item>
-			<title>ACU MSRR - Historic and Cultural Resources</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24018A115</link>
-			<description>Report, Technical</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-03-08 14:00:00</pubDate>
 		</item>
 	</channel>
 </rss>
