@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 13 Mar 2024 23:15:17 GMT</pubDate>
-		<lastBuildDate>Wed, 13 Mar 2024 23:15:17 GMT</lastBuildDate>
+		<pubDate>Thu, 14 Mar 2024 14:16:19 GMT</pubDate>
+		<lastBuildDate>Thu, 14 Mar 2024 14:16:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>Operating Plan</description>
 			<author>Westinghouse Electric Co, Westinghouse Electric Co, LLC</author>
 			<pubDate>2024-03-08 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>AP300 White Paper Preapplication Meeting Summary Fuel Handling & Storage Letter + Encl 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24061A080</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-03-07 10:42:00</pubDate>
 		</item>
 	</channel>
 </rss>
