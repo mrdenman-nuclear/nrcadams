@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 14 Mar 2024 23:14:51 GMT</pubDate>
-		<lastBuildDate>Thu, 14 Mar 2024 23:14:51 GMT</lastBuildDate>
+		<pubDate>Fri, 15 Mar 2024 14:16:57 GMT</pubDate>
+		<lastBuildDate>Fri, 15 Mar 2024 14:16:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-03-12 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse, Submittal of AP300 SMR Pre Application Regulatory Engagement Plan Periodic Update - February 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24060A243</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>Westinghouse Electric Co, Westinghouse Electric Co, LLC</author>
-			<pubDate>2024-03-08 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Transmittal of the Westinghouse AP300 SMR Pre-Application Regulatory Engagement Plan Periodic Update - February 2024 (Non-Proprietary)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24060A244</link>
-			<description>Operating Plan</description>
-			<author>Westinghouse Electric Co, Westinghouse Electric Co, LLC</author>
-			<pubDate>2024-03-08 08:33:00</pubDate>
 		</item>
 	</channel>
 </rss>

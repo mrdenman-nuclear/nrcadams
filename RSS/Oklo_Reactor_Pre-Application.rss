@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 14 Mar 2024 23:14:51 GMT</pubDate>
-		<lastBuildDate>Thu, 14 Mar 2024 23:14:51 GMT</lastBuildDate>
+		<pubDate>Fri, 15 Mar 2024 14:16:57 GMT</pubDate>
+		<lastBuildDate>Fri, 15 Mar 2024 14:16:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>12/11/2023 Summary of Partially Closed Meeting With OKLO To Discuss Concept of Operations For OKLO's Advanced Reactor Design</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24074A397</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-03-15 10:06:00</pubDate>
+		</item>
+		<item>
+			<title>03/21/2024 Meeting with Oklo to discuss physical security for its advanced reactor design</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24074A455</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-03-15 09:39:00</pubDate>
+		</item>
 		<item>
 			<title>03/27/2024 Oklo Aurora X: Meeting 2 with Oklo to discuss the Environmental Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24074A361</link>
@@ -24,20 +38,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2024-03-14 10:24:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Proprietary Information from Public Disclosure - Oklo, Inc. Licensing Project Plan: Fourth Quarter 2022 Update</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23041A439</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-03-08 09:37:00</pubDate>
-		</item>
-		<item>
-			<title>Cover Letter - Oklo Inc. NRC Staff Feedback And Observations On The Oklo White Paper (Approach To Seismic Design Categorization And Site Characterization)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24036A305</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-03-08 08:34:00</pubDate>
 		</item>
 	</channel>
 </rss>

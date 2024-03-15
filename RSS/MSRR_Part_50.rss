@@ -5,32 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 14 Mar 2024 23:14:51 GMT</pubDate>
-		<lastBuildDate>Thu, 14 Mar 2024 23:14:51 GMT</lastBuildDate>
+		<pubDate>Fri, 15 Mar 2024 14:16:57 GMT</pubDate>
+		<lastBuildDate>Fri, 15 Mar 2024 14:16:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2024/02/29 NRR E-mail Capture - [External_Sender] Request for extension of the Abilene Christian University (ACU) Molten Salt Research Reactor (MSRR) Requests for Additional Information (RAI) response date</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24061A024</link>
+			<description>E-Mail</description>
+			<author>Abilene Christian University (ACU)</author>
+			<pubDate>2024-03-15 09:28:00</pubDate>
+		</item>
+		<item>
+			<title>2024/03/01 NRR E-mail Capture - Abilene Christian University, Response to request for additional information (RAI) Extension Request</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24061A118</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2024-03-15 09:28:00</pubDate>
+		</item>
 		<item>
 			<title>ACU EA Federal Register Notice</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24029A176</link>
 			<description>Federal Register Notice</description>
 			<author>NRC/NMSS/DREFS/ELRB</author>
 			<pubDate>2024-03-14 10:08:00</pubDate>
-		</item>
-		<item>
-			<title>ACU MSRR - Historic and Cultural Resources</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24018A115</link>
-			<description>Report, Technical</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-03-08 14:00:00</pubDate>
-		</item>
-		<item>
-			<title>Environmental Assessment for Abilene Christian University Molten Salt Research Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23300A053</link>
-			<description>Environmental Assessment</description>
-			<author>NRC/NMSS/DREFS/ENRB</author>
-			<pubDate>2024-03-08 13:10:00</pubDate>
 		</item>
 	</channel>
 </rss>

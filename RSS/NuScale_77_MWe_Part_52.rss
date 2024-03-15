@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 14 Mar 2024 23:14:51 GMT</pubDate>
-		<lastBuildDate>Thu, 14 Mar 2024 23:14:51 GMT</lastBuildDate>
+		<pubDate>Fri, 15 Mar 2024 14:16:57 GMT</pubDate>
+		<lastBuildDate>Fri, 15 Mar 2024 14:16:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>NuScale Power, LLC, Submittal of Supplemental Information for NuScale Letter LO-130201</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24067A062</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-03-15 09:28:00</pubDate>
+		</item>
+		<item>
+			<title>ACRS Memo - Safety Evaluation for NuScale Standard Design Approval Application FSAR Chapters 2, 10, 11, 13, 17(not including 17.4)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24073A102</link>
+			<description>Memoranda</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2024-03-15 09:28:00</pubDate>
+		</item>
+	</channel>
 </rss>
