@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 15 Mar 2024 23:15:03 GMT</pubDate>
-		<lastBuildDate>Fri, 15 Mar 2024 23:15:03 GMT</lastBuildDate>
+		<pubDate>Mon, 18 Mar 2024 14:15:51 GMT</pubDate>
+		<lastBuildDate>Mon, 18 Mar 2024 14:15:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>License-Operating (New/Renewal/Amendments) DKT 50</description>
 			<author>NRC/NMSS/DDUWP</author>
 			<pubDate>2024-03-12 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>Aerotest Operations, Inc. - EA-23-118, Violation 050-00228/203-001-00lA</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24061A023</link>
-			<description>Letter, Licensee Response to Enforcement Action, Licensee Response to Notice of Violation</description>
-			<author>Aerotest Operations, Inc, Nuclear Labyrinth LLC</author>
-			<pubDate>2024-03-11 08:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
