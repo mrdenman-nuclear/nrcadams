@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 19 Mar 2024 17:13:58 GMT</pubDate>
-		<lastBuildDate>Tue, 19 Mar 2024 17:13:58 GMT</lastBuildDate>
+		<pubDate>Tue, 19 Mar 2024 18:18:24 GMT</pubDate>
+		<lastBuildDate>Tue, 19 Mar 2024 18:18:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Kairos Power, LLC - Safety Analysis Methods Topical Report Pre-Submittal Audit Plan</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24079A106</link>
+			<description>Audit Plan</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-03-19 13:16:00</pubDate>
+		</item>
 		<item>
 			<title>December 18, 2023, Summary of Meeting on TRISO-X, LLC, to Align on the Need to Supplement the Responses to the Requests for Additional Information Regarding Management Measures</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24002A825</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24057A362</link>
 			<description>- No Document Type Applies</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2024-03-15 09:28:00</pubDate>
-		</item>
-		<item>
-			<title>ACRS Memo - Safety Evaluation for NuScale Standard Design Approval Application FSAR Chapters 2, 10, 11, 13, 17(not including 17.4)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24073A102</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2024-03-15 09:28:00</pubDate>
 		</item>
 	</channel>
