@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 18 Mar 2024 23:14:49 GMT</pubDate>
-		<lastBuildDate>Mon, 18 Mar 2024 23:14:49 GMT</lastBuildDate>
+		<pubDate>Tue, 19 Mar 2024 14:16:15 GMT</pubDate>
+		<lastBuildDate>Tue, 19 Mar 2024 14:16:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,20 +17,6 @@
 			<description>Letter, Request for Additional Information (RAI)</description>
 			<author>NRC/NRR/DANU/UNPL</author>
 			<pubDate>2024-03-15 09:28:00</pubDate>
-		</item>
-		<item>
-			<title>US Dept. of Commerce, National Institute of Standards & Technology (NIST) - Change to the NBSR Requalification Plan in Response to an NRC Request for Additional Information (ADAMS Accession No. ML22223A146)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24064A199</link>
-			<description>Letter, Report, Technical</description>
-			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
-			<pubDate>2024-03-12 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>Requalification Program for the NBSR</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24064A028</link>
-			<description>Report, Technical</description>
-			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
-			<pubDate>2024-03-12 08:29:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 18 Mar 2024 23:14:49 GMT</pubDate>
-		<lastBuildDate>Mon, 18 Mar 2024 23:14:49 GMT</lastBuildDate>
+		<pubDate>Tue, 19 Mar 2024 14:16:14 GMT</pubDate>
+		<lastBuildDate>Tue, 19 Mar 2024 14:16:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Dow Chemical Company - Change Of Facility Project Manager</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24066A147</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2024-03-19 08:31:00</pubDate>
+		</item>
+	</channel>
 </rss>

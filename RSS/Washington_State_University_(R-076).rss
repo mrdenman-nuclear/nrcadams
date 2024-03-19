@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 18 Mar 2024 23:14:49 GMT</pubDate>
-		<lastBuildDate>Mon, 18 Mar 2024 23:14:49 GMT</lastBuildDate>
+		<pubDate>Tue, 19 Mar 2024 14:16:15 GMT</pubDate>
+		<lastBuildDate>Tue, 19 Mar 2024 14:16:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Supplemental Information No. 2 in Reference to WSU LAR 2023-1: License Amendment Request – Section 5 of the Technical Specifications and Bases for the Washington State University Modified TRIGA Reactor and Facility License R-76, Proposed Amendment 22</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24071A187</link>
+			<description>Letter</description>
+			<author>Washington State Univ</author>
+			<pubDate>2024-03-19 08:31:00</pubDate>
+		</item>
+		<item>
+			<title>Washington State University, Proposed Amendment 22 to the License, Technical Specifications, and Bases for the WSU Modified TRIGA Reactor - Clean Copy of Changed Pages</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24071A188</link>
+			<description>Technical Specifications</description>
+			<author>Washington State Univ</author>
+			<pubDate>2024-03-19 08:31:00</pubDate>
+		</item>
+	</channel>
 </rss>

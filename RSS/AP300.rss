@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 18 Mar 2024 23:14:58 GMT</pubDate>
-		<lastBuildDate>Mon, 18 Mar 2024 23:14:58 GMT</lastBuildDate>
+		<pubDate>Tue, 19 Mar 2024 14:16:24 GMT</pubDate>
+		<lastBuildDate>Tue, 19 Mar 2024 14:16:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,20 +17,6 @@
 			<description>Legal-Affidavit, Letter</description>
 			<author>Westinghouse Electric Co, Westinghouse Electric Co, LLC</author>
 			<pubDate>2024-03-18 15:44:00</pubDate>
-		</item>
-		<item>
-			<title>Response to Request for Withholding Proprietary Information from Public Disclosure - Presentation Slides to Support the Pre-Submittal Meeting on the Westinghouse AP300 SMR Core Design & Fuel Cycle White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24032A100</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-03-12 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>Letter Response to Request for Withholding Proprietary Information from Public Disclosure - Westinghouse AP300 SMR Core Design & Fuel Cycle White Paper for Pre-Application Engagement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24061A218</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-03-12 08:29:00</pubDate>
 		</item>
 	</channel>
 </rss>
