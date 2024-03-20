@@ -5,39 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 19 Mar 2024 22:16:03 GMT</pubDate>
-		<lastBuildDate>Tue, 19 Mar 2024 22:16:03 GMT</lastBuildDate>
+		<pubDate>Wed, 20 Mar 2024 14:16:03 GMT</pubDate>
+		<lastBuildDate>Wed, 20 Mar 2024 14:16:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>University of Illinois at Urbana-Champaign, Approval of Safeguards Information Protection Plan</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24040A193</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2024-03-20 08:46:00</pubDate>
+		</item>
 		<item>
 			<title>UIUC – Safety Evaluation For Topical Report Related To Event Sequence Identification And Safety Classification Methodology (EPID NO. L-2023?NFN?0011)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24039A164</link>
 			<description>Letter, Safety Evaluation Report</description>
 			<author>NRC/NRR/DANU/UNPL</author>
 			<pubDate>2024-03-15 09:28:00</pubDate>
-		</item>
-		<item>
-			<title>Submission of the University of Illinois Topical Report, "University of Illinois Urbana-Champaign High-Temperature Gas-Cooled Research Reactor: Fuel Qualification Methodology," Release 01, dated February 29, 2024, Document No. IMRDD-MMR-24-01</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24071A238</link>
-			<description>Letter</description>
-			<author>Univ of Illinois - Urbana - Champaign</author>
-			<pubDate>2024-03-13 10:36:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - IMRDD-MMR-24-01-NP, University of Illinois Urbana-Champaign High-Temperature Gas-cooled Research Reactor:  Fuel Qualification Methodology</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24071A240</link>
-			<description>Topical Report</description>
-			<author>Ultra Safe Nuclear Corporation, Univ of Illinois - Urbana - Champaign</author>
-			<pubDate>2024-03-13 10:36:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3 - USNC's Affidavit and Request for Withholding from Public Disclosure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24071A241</link>
-			<description>Legal-Affidavit</description>
-			<author>Ultra Safe Nuclear Corporation, Univ of Illinois - Urbana - Champaign</author>
-			<pubDate>2024-03-13 10:36:00</pubDate>
 		</item>
 	</channel>
 </rss>
