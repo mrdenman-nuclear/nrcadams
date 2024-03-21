@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 20 Mar 2024 22:14:23 GMT</pubDate>
-		<lastBuildDate>Wed, 20 Mar 2024 22:14:23 GMT</lastBuildDate>
+		<pubDate>Thu, 21 Mar 2024 14:15:10 GMT</pubDate>
+		<lastBuildDate>Thu, 21 Mar 2024 14:15:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>12/18/2023 Summary of Meeting with Oklo, Inc. to Discuss the Outline for the Licensing Approach Report Report for a Fuel Recycling Facility</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24073A035</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-03-21 08:39:00</pubDate>
+		</item>
+		<item>
+			<title>2024/03/07 NRR E-mail Capture - NRC staff acknowledges receipt of TP-LIC-RPT-0003, "Radiological Source Term Methodology Report," Revision 1 (L-2023-TOP-0046)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24067A069</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2024-03-21 08:38:00</pubDate>
+		</item>
 		<item>
 			<title>Written communication as Specified by 10 CFR 50.4 Regarding the "University of Illinois at Urbana-Champaign - Safety Evaluation for Topical Report related to Event Sequence Identification and Safety Classification Methodology (EPID L-2023-NFN-0011)"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24075A194</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24061A024</link>
 			<description>E-Mail</description>
 			<author>Abilene Christian University (ACU)</author>
-			<pubDate>2024-03-15 09:28:00</pubDate>
-		</item>
-		<item>
-			<title>2024/03/01 NRR E-mail Capture - Abilene Christian University, Response to request for additional information (RAI) Extension Request</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24061A118</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-03-15 09:28:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of Supplemental Information for NuScale Letter LO-130201</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24067A062</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>NuScale Power, LLC</author>
 			<pubDate>2024-03-15 09:28:00</pubDate>
 		</item>
 	</channel>
