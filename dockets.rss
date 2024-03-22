@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 22 Mar 2024 19:13:49 GMT</pubDate>
-		<lastBuildDate>Fri, 22 Mar 2024 19:13:49 GMT</lastBuildDate>
+		<pubDate>Fri, 22 Mar 2024 20:15:08 GMT</pubDate>
+		<lastBuildDate>Fri, 22 Mar 2024 20:15:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>05/08/2024 Preapplication meeting with SMR, LLC (A Holtec International Company)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24082A254</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-03-22 15:54:00</pubDate>
+		</item>
 		<item>
 			<title>Transmittal of Presentation Slides to Support the Westinghouse-NRC Pre-Submittal Meeting on the Westinghouse AP300 SMR I&C Concept of Operation White Paper</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24078A367</link>
@@ -213,13 +220,6 @@
 			<description>Legal-Affidavit, Letter, Topical Report</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2024-03-18 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>2024/03/02 NuScale NPM-20 - NuScale SDAA Section 3.6.3 - Request for Additional Information No. 016 (RAI-10134-R1)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24062A001</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2024-03-18 08:38:00</pubDate>
 		</item>
 	</channel>
 </rss>
