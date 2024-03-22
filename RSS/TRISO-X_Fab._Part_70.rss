@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 21 Mar 2024 23:16:19 GMT</pubDate>
-		<lastBuildDate>Thu, 21 Mar 2024 23:16:19 GMT</lastBuildDate>
+		<pubDate>Fri, 22 Mar 2024 14:15:18 GMT</pubDate>
+		<lastBuildDate>Fri, 22 Mar 2024 14:15:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
 			<pubDate>2024-03-19 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Memorandum - Summary of Meeting  2-12-24 with TRISO-X to Discuss Draft RAIs on Environmental Protection</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24057A363</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2024-03-15 09:28:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - Participants in Meeting Held 2-12-24 with TRISO-X to Discuss the Draft RAIs on Environmental Protection</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24057A362</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2024-03-15 09:28:00</pubDate>
 		</item>
 	</channel>
 </rss>

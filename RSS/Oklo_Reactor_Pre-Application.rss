@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 21 Mar 2024 23:16:19 GMT</pubDate>
-		<lastBuildDate>Thu, 21 Mar 2024 23:16:19 GMT</lastBuildDate>
+		<pubDate>Fri, 22 Mar 2024 14:15:18 GMT</pubDate>
+		<lastBuildDate>Fri, 22 Mar 2024 14:15:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>12/11/2023 Summary of Partially Closed Meeting With OKLO To Discuss Concept of Operations For OKLO's Advanced Reactor Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24074A397</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-03-15 10:06:00</pubDate>
-		</item>
-		<item>
-			<title>03/21/2024 Meeting with Oklo to discuss physical security for its advanced reactor design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24074A455</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-03-15 09:39:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

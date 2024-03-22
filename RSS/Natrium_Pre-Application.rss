@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 21 Mar 2024 23:16:19 GMT</pubDate>
-		<lastBuildDate>Thu, 21 Mar 2024 23:16:19 GMT</lastBuildDate>
+		<pubDate>Fri, 22 Mar 2024 14:15:18 GMT</pubDate>
+		<lastBuildDate>Fri, 22 Mar 2024 14:15:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 2 - TerraPower- Draft SE Fuel and Control Assembly Qualification</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24079A118</link>
+			<description>Draft Safety Evaluation Report (DSER)</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-03-22 08:43:00</pubDate>
+		</item>
+		<item>
+			<title>Cover Letter - TerraPower - Draft SE Fuel and Control Assembly Qualification Audit Plan TP-LIC-LET-0051</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23326A184</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-03-22 08:43:00</pubDate>
+		</item>
 		<item>
 			<title>2024/03/07 NRR E-mail Capture - NRC staff acknowledges receipt of TP-LIC-RPT-0003, "Radiological Source Term Methodology Report," Revision 1 (L-2023-TOP-0046)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24067A069</link>
@@ -31,20 +45,6 @@
 			<description>Legal-Affidavit, Letter, Topical Report</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2024-03-18 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower - Meeting Summary - Control Room Habitability</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24059A153</link>
-			<description>Letter, Meeting Summary</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-03-15 09:28:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower - Meeting Summary - Specified Acceptable System Radionuclide Release Design Limit (SARRDL)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24059A159</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-03-15 09:28:00</pubDate>
 		</item>
 	</channel>
 </rss>
