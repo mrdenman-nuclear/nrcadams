@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 22 Mar 2024 23:14:32 GMT</pubDate>
-		<lastBuildDate>Fri, 22 Mar 2024 23:14:32 GMT</lastBuildDate>
+		<pubDate>Mon, 25 Mar 2024 14:16:03 GMT</pubDate>
+		<lastBuildDate>Mon, 25 Mar 2024 14:16:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>GEHA/NorthStar Response to NRC Request for Additional Information Regarding Direct Transfer of R-33 NTR License</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24075A277</link>
+			<description>Letter, Response to Request for Additional Information (RAI)</description>
+			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
+			<pubDate>2024-03-25 08:44:00</pubDate>
+		</item>
+	</channel>
 </rss>
