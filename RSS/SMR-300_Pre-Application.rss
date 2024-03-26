@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 25 Mar 2024 23:55:19 GMT</pubDate>
-		<lastBuildDate>Mon, 25 Mar 2024 23:55:19 GMT</lastBuildDate>
+		<pubDate>Tue, 26 Mar 2024 14:16:57 GMT</pubDate>
+		<lastBuildDate>Tue, 26 Mar 2024 14:16:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-03-22 15:54:00</pubDate>
-		</item>
-		<item>
-			<title>05/01/2024 Preapplication meeting with SMR, LLC (A Holtec International Company)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24079A273</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-03-19 15:57:00</pubDate>
 		</item>
 	</channel>
 </rss>

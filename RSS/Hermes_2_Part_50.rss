@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 25 Mar 2024 23:55:19 GMT</pubDate>
-		<lastBuildDate>Mon, 25 Mar 2024 23:55:19 GMT</lastBuildDate>
+		<pubDate>Tue, 26 Mar 2024 14:16:57 GMT</pubDate>
+		<lastBuildDate>Tue, 26 Mar 2024 14:16:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>2024/03/12 Kairos - Hermes 2 Docs - FW Transmittal of Responses to NRC Requests for Confirmatory Information for the Review of the Hermes 2 Environmental Report (Courtesy Copy)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24072A316</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2024-03-26 08:37:00</pubDate>
+		</item>
+	</channel>
 </rss>
