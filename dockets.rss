@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 26 Mar 2024 23:15:45 GMT</pubDate>
-		<lastBuildDate>Tue, 26 Mar 2024 23:15:45 GMT</lastBuildDate>
+		<pubDate>Wed, 27 Mar 2024 14:15:18 GMT</pubDate>
+		<lastBuildDate>Wed, 27 Mar 2024 14:15:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>03/27/2024 Meeting 2 with Oklo to discuss the Environmental Report--Public portion ended March 26, 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24087A091</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2024-03-27 09:59:00</pubDate>
+		</item>
+		<item>
+			<title>04/01/2024 Discuss Chemical Safety Analysis Documents Hosted on the TRISO-X Portal</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24087A028</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2024-03-27 08:17:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 1 - Technical Areas of Focus Related to the Xe-100 Approach to Qualify Graphite Core Components</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24086A100</link>
@@ -89,13 +103,6 @@
 			<pubDate>2024-03-22 10:46:00</pubDate>
 		</item>
 		<item>
-			<title>03/27/2024 Meeting 2 with Oklo to discuss the Environmental Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24082A096</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-03-22 10:38:00</pubDate>
-		</item>
-		<item>
 			<title>Enclosure 2 - TerraPower- Draft SE Fuel and Control Assembly Qualification</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24079A118</link>
 			<description>Draft Safety Evaluation Report (DSER)</description>
@@ -143,41 +150,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2024-03-21 08:38:00</pubDate>
-		</item>
-		<item>
-			<title>Written communication as Specified by 10 CFR 50.4 Regarding the "University of Illinois at Urbana-Champaign - Safety Evaluation for Topical Report related to Event Sequence Identification and Safety Classification Methodology (EPID L-2023-NFN-0011)"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24075A194</link>
-			<description>Letter</description>
-			<author>Univ of Illinois - Urbana - Champaign</author>
-			<pubDate>2024-03-20 15:50:00</pubDate>
-		</item>
-		<item>
-			<title>University of Illinois Urbana-Champaign, High Temperature Gas-cooled Research Reactor: Event Sequence Identification and SSC Safety Classification Methodology Topical Report Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24075A195</link>
-			<description>Topical Report</description>
-			<author>Ultra Safe Nuclear Corporation</author>
-			<pubDate>2024-03-20 15:50:00</pubDate>
-		</item>
-		<item>
-			<title>Readiness Assessment Report Of The TerraPower, LLC Safety And Environmental Topics Of Kemmerer Power Station Unit 1 Construction Permit Draft Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24060A227</link>
-			<description>Letter, Report, Miscellaneous</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-03-20 08:48:00</pubDate>
-		</item>
-		<item>
-			<title>University of Illinois at Urbana-Champaign, Approval of Safeguards Information Protection Plan</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24040A193</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2024-03-20 08:46:00</pubDate>
-		</item>
-		<item>
-			<title>Email - Verification of PROP by NuScale - NuScale SDAA Chapter 2 SE with no Open Items</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24072A296</link>
-			<description>E-Mail</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-03-20 08:46:00</pubDate>
 		</item>
 	</channel>
 </rss>

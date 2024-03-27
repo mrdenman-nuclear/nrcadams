@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 26 Mar 2024 23:15:38 GMT</pubDate>
-		<lastBuildDate>Tue, 26 Mar 2024 23:15:38 GMT</lastBuildDate>
+		<pubDate>Wed, 27 Mar 2024 14:15:11 GMT</pubDate>
+		<lastBuildDate>Wed, 27 Mar 2024 14:15:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Committee Letter Report</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-03-22 14:47:00</pubDate>
-		</item>
-		<item>
-			<title>Minutes of the 712th Meeting of the Advisory Committee on Reactor Safeguards (ACRS), February 7-8, 2024 7-8, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24078A114</link>
-			<description>Meeting Minutes, Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-03-20 15:50:00</pubDate>
 		</item>
 	</channel>
 </rss>
