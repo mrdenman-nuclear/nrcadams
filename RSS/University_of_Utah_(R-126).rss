@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 28 Mar 2024 18:18:18 GMT</pubDate>
-		<lastBuildDate>Thu, 28 Mar 2024 18:18:18 GMT</lastBuildDate>
+		<pubDate>Thu, 28 Mar 2024 19:12:12 GMT</pubDate>
+		<lastBuildDate>Thu, 28 Mar 2024 19:12:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>University Of Utah Exemption Request 10 CFR 55.59</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24088A015</link>
+			<description>Exemption from NRC Requirements</description>
+			<author>Univ of Utah</author>
+			<pubDate>2024-03-28 14:39:00</pubDate>
+		</item>
+	</channel>
 </rss>
