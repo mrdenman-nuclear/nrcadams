@@ -5,32 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 28 Mar 2024 23:14:56 GMT</pubDate>
-		<lastBuildDate>Thu, 28 Mar 2024 23:14:56 GMT</lastBuildDate>
+		<pubDate>Fri, 29 Mar 2024 14:13:53 GMT</pubDate>
+		<lastBuildDate>Fri, 29 Mar 2024 14:13:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TerraPower - Meeting Summary - Low Frequency External Events</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24081A334</link>
+			<description>Meeting Summary</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-03-29 08:52:00</pubDate>
+		</item>
 		<item>
 			<title>Readiness Assessment Report Of The TerraPower, LLC Safety And Environmental Topics Of Kemmerer Power Station Unit 1 Construction Permit Draft Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24060A227</link>
 			<description>Letter, Report, Miscellaneous</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2024-03-27 10:48:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - TerraPower- Draft SE Fuel and Control Assembly Qualification</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24079A118</link>
-			<description>Draft Safety Evaluation Report (DSER)</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-03-22 08:43:00</pubDate>
-		</item>
-		<item>
-			<title>Cover Letter - TerraPower - Draft SE Fuel and Control Assembly Qualification Audit Plan TP-LIC-LET-0051</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23326A184</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-03-22 08:43:00</pubDate>
 		</item>
 	</channel>
 </rss>

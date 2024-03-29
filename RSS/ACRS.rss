@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 28 Mar 2024 23:14:50 GMT</pubDate>
-		<lastBuildDate>Thu, 28 Mar 2024 23:14:50 GMT</lastBuildDate>
+		<pubDate>Fri, 29 Mar 2024 14:13:48 GMT</pubDate>
+		<lastBuildDate>Fri, 29 Mar 2024 14:13:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,20 +17,6 @@
 			<description>Meeting Agenda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-03-27 16:39:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - WCAP-18446-P Revision 0, “Incremental Extension of Burnup Limit for Westinghouse and Combustion Engineering Fuel Designs” SC - April 2, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24081A114</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-03-22 15:34:00</pubDate>
-		</item>
-		<item>
-			<title>Revision 9 of Standard Review Plan Branch Technical Position 7-19, "Guidance for Evaluation of Defense in Depth and Diversity to Address Common-Cause Failure Due to Latent Defects in Digital Safety Systems"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24075A286</link>
-			<description>Committee Letter Report</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-03-22 14:47:00</pubDate>
 		</item>
 	</channel>
 </rss>

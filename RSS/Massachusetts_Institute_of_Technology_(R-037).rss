@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 28 Mar 2024 23:14:49 GMT</pubDate>
-		<lastBuildDate>Thu, 28 Mar 2024 23:14:49 GMT</lastBuildDate>
+		<pubDate>Fri, 29 Mar 2024 14:13:47 GMT</pubDate>
+		<lastBuildDate>Fri, 29 Mar 2024 14:13:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Massachusetts Institute of Technology, NF-0343 & NW-0681 - Submittal of Rescinding Notice of Cancellation</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24081A164</link>
+			<description>Letter</description>
+			<author>American Nuclear Insurers</author>
+			<pubDate>2024-03-29 08:52:00</pubDate>
+		</item>
+	</channel>
 </rss>

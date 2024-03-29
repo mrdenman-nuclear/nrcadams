@@ -5,25 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 28 Mar 2024 23:14:56 GMT</pubDate>
-		<lastBuildDate>Thu, 28 Mar 2024 23:14:56 GMT</lastBuildDate>
+		<pubDate>Fri, 29 Mar 2024 14:13:53 GMT</pubDate>
+		<lastBuildDate>Fri, 29 Mar 2024 14:13:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2024/03/15 NuScale NPM-20 - NuScale SDAA Section 3.9.4 - Request for Additional Information No. 014 (RAI-10131-R1)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24075A188</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2024-03-29 08:51:00</pubDate>
+		</item>
+		<item>
+			<title>2024/03/15 NuScale NPM-20 - NuScale SDAA Section 3.9.4 - Request for Additional Information No. 015 (RAI-10133-R1)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24075A197</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2024-03-29 08:51:00</pubDate>
+		</item>
 		<item>
 			<title>2024/03/09 NuScale NPM-20 - NuScale SDAA Section 3.9.3 - Request for Additional Information No. 020 (RAI-10150-R1)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24069A014</link>
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2024-03-25 08:43:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of Presentation Material Entitled “ACRS Subcommittee Meeting (Open Session) Chapters 2, 10, 11, 13, 17, and 18,” PM-157982, Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24074A473</link>
-			<description>Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-03-22 08:41:00</pubDate>
 		</item>
 	</channel>
 </rss>

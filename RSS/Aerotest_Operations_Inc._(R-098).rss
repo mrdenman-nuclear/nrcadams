@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 28 Mar 2024 23:14:49 GMT</pubDate>
-		<lastBuildDate>Thu, 28 Mar 2024 23:14:49 GMT</lastBuildDate>
+		<pubDate>Fri, 29 Mar 2024 14:13:47 GMT</pubDate>
+		<lastBuildDate>Fri, 29 Mar 2024 14:13:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Letter</description>
 			<author>Aerotest Operations, Inc, Nuclear Labyrinth LLC</author>
 			<pubDate>2024-03-26 15:22:00</pubDate>
-		</item>
-		<item>
-			<title>Aerotest Operations, INC. - NRC Inspection Report 050 00228/2023001, Response to Disputed Minor Violation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24073A218</link>
-			<description>Inspection Report, Letter</description>
-			<author>NRC/RGN-IV</author>
-			<pubDate>2024-03-22 16:10:00</pubDate>
 		</item>
 	</channel>
 </rss>
