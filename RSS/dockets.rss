@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 29 Mar 2024 23:15:58 GMT</pubDate>
-		<lastBuildDate>Fri, 29 Mar 2024 23:15:58 GMT</lastBuildDate>
+		<pubDate>Mon, 01 Apr 2024 14:15:52 GMT</pubDate>
+		<lastBuildDate>Mon, 01 Apr 2024 14:15:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Cover Letter - Oklo Inc. NRC Feedback And Observations on the Oklo White Paper on Emergency Plan</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24072A287</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-04-01 08:35:00</pubDate>
+		</item>
+		<item>
+			<title>Cover Letter - Set Eight Containing A Programmatic Request For Additional Information for the Integrated Safety Analysis Review Regarding the TRISO-X License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23354A165</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2024-04-01 08:35:00</pubDate>
+		</item>
+		<item>
+			<title>Transmittal of TerraPower, LLC “Design Basis Accident Methodology for Events with Radiological Release,” Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24082A262</link>
+			<description>Legal-Affidavit, Letter, Topical Report</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2024-04-01 08:34:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale US600 DC and SDA 50.46 Exemption - Letter</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23234A123</link>
@@ -143,20 +164,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2024-03-26 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Submittal of Presentation Material Entitled “ACRS Subcommittee Meeting (Open Session) Chapters 2, 10, 11, 13, and 17,” PM-157982, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24075A323</link>
-			<description>Letter, Slides and Viewgraphs</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-03-25 08:44:00</pubDate>
-		</item>
-		<item>
-			<title>2024/03/09 NuScale NPM-20 - NuScale SDAA Section 3.9.3 - Request for Additional Information No. 020 (RAI-10150-R1)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24069A014</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2024-03-25 08:43:00</pubDate>
 		</item>
 	</channel>
 </rss>
