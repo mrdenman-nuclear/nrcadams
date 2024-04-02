@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 02 Apr 2024 17:14:32 GMT</pubDate>
-		<lastBuildDate>Tue, 02 Apr 2024 17:14:32 GMT</lastBuildDate>
+		<pubDate>Tue, 02 Apr 2024 18:17:00 GMT</pubDate>
+		<lastBuildDate>Tue, 02 Apr 2024 18:17:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Purdue Univ., Submittal of 2023 Annual Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24089A242</link>
+			<description>Annual Operating Report, Letter</description>
+			<author>Purdue Univ</author>
+			<pubDate>2024-04-02 13:41:00</pubDate>
+		</item>
+	</channel>
 </rss>
