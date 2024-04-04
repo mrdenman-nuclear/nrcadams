@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 03 Apr 2024 23:18:16 GMT</pubDate>
-		<lastBuildDate>Wed, 03 Apr 2024 23:18:16 GMT</lastBuildDate>
+		<pubDate>Thu, 04 Apr 2024 14:17:51 GMT</pubDate>
+		<lastBuildDate>Thu, 04 Apr 2024 14:17:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2024/03/21 GEH BWRX-300 SMR TR RAI - FW RE NRC Staff Clarification Comments on Question 6 (RAI 5.8-1)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24081A160</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2024-04-04 09:08:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC Regulatory Engagement Plan, Report No. HI-2240423, Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24087A212</link>
+			<description>Operating Plan</description>
+			<author>SMR, LLC</author>
+			<pubDate>2024-04-04 09:08:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC, Regulatory Engagement Plan, HI-2240423, Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24087A211</link>
+			<description>Letter</description>
+			<author>SMR, LLC</author>
+			<pubDate>2024-04-04 09:08:00</pubDate>
+		</item>
 		<item>
 			<title>Letter - Request for Withholding Information from Public Disclosure for X Energy, LLC XE-100 Pre-Application Engagement Presentation Materials (EPID No. L-2018-RM-0076)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24067A300</link>
@@ -178,20 +199,6 @@
 			<description>Report, Technical</description>
 			<author>Terrestrial Energy USA</author>
 			<pubDate>2024-03-29 08:51:00</pubDate>
-		</item>
-		<item>
-			<title>2024/03/14 Kairos - Hermes 2 Docs - Preliminary Chapters of Hermes 2 SE</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24074A371</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2024-03-28 08:44:00</pubDate>
-		</item>
-		<item>
-			<title>2024/03/14 Kairos - Hermes 2 Docs - Preliminary Chapters of Hermes 2 SE</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24074A371</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2024-03-28 08:44:00</pubDate>
 		</item>
 	</channel>
 </rss>
