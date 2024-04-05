@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 04 Apr 2024 23:15:14 GMT</pubDate>
-		<lastBuildDate>Thu, 04 Apr 2024 23:15:14 GMT</lastBuildDate>
+		<pubDate>Fri, 05 Apr 2024 14:18:39 GMT</pubDate>
+		<lastBuildDate>Fri, 05 Apr 2024 14:18:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC, Submittal of "Human Factors Engineering Verification and Validation Implementation Plan," TR-130415, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24088A316</link>
+			<description>Letter, Operating Plan, Report, Technical</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-04-05 08:31:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC, Response to NRC Request for Additional Information No. 002 (RAI-10107-R1) on the NuScale Standard Design Approval Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24089A212</link>
@@ -24,20 +31,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2024-04-03 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>2024/03/15 NuScale NPM-20 - NuScale SDAA Section 3.9.4 - Request for Additional Information No. 014 (RAI-10131-R1)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24075A188</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2024-03-29 08:51:00</pubDate>
-		</item>
-		<item>
-			<title>2024/03/15 NuScale NPM-20 - NuScale SDAA Section 3.9.4 - Request for Additional Information No. 015 (RAI-10133-R1)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24075A197</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2024-03-29 08:51:00</pubDate>
 		</item>
 	</channel>
 </rss>

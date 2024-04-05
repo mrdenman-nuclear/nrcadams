@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 04 Apr 2024 23:15:14 GMT</pubDate>
-		<lastBuildDate>Thu, 04 Apr 2024 23:15:14 GMT</lastBuildDate>
+		<pubDate>Fri, 05 Apr 2024 14:18:38 GMT</pubDate>
+		<lastBuildDate>Fri, 05 Apr 2024 14:18:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Terrestrial Energy USA - Submittal of Revision 2 of Technical Report on Uncertainty Quantification Methodology for Calculation of IMSR Off-Gas Source Term</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24081A015</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>Terrestrial Energy USA</author>
-			<pubDate>2024-03-29 08:51:00</pubDate>
-		</item>
-		<item>
-			<title>Terrestrial Energy USA - Uncertainty Quantification Methodology for Calculation of IMSR OffGas Source Term, Rev. 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24081A018</link>
-			<description>Report, Technical</description>
-			<author>Terrestrial Energy USA</author>
-			<pubDate>2024-03-29 08:51:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

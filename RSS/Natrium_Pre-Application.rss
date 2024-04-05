@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 04 Apr 2024 23:15:14 GMT</pubDate>
-		<lastBuildDate>Thu, 04 Apr 2024 23:15:14 GMT</lastBuildDate>
+		<pubDate>Fri, 05 Apr 2024 14:18:37 GMT</pubDate>
+		<lastBuildDate>Fri, 05 Apr 2024 14:18:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Legal-Affidavit, Letter, Topical Report</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2024-04-01 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower - Meeting Summary - Low Frequency External Events</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24081A334</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-03-29 08:52:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 04 Apr 2024 23:15:14 GMT</pubDate>
-		<lastBuildDate>Thu, 04 Apr 2024 23:15:14 GMT</lastBuildDate>
+		<pubDate>Fri, 05 Apr 2024 14:18:36 GMT</pubDate>
+		<lastBuildDate>Fri, 05 Apr 2024 14:18:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,20 +17,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
 			<pubDate>2024-04-01 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>Memorandum - Summary of Meeting on January 25, 2024 with TRISO-X to Align on NRC Supplement Responses Management Measures</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24066A184</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2024-03-29 08:52:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - Participants List Management Measures for Meeting on January 25, 2024 with TRISO-X Regarding Supplement Responses Management Measures</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24066A183</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2024-03-29 08:52:00</pubDate>
 		</item>
 	</channel>
 </rss>
