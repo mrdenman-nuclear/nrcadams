@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 05 Apr 2024 22:14:08 GMT</pubDate>
-		<lastBuildDate>Fri, 05 Apr 2024 22:14:08 GMT</lastBuildDate>
+		<pubDate>Mon, 08 Apr 2024 14:14:56 GMT</pubDate>
+		<lastBuildDate>Mon, 08 Apr 2024 14:14:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>University of Illinois at Urbana-Champaign, Email Transmitting Form 896 for -A Verification for Safety Classification and Event Identification Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24092A363</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2024-04-08 08:57:00</pubDate>
+		</item>
+		<item>
+			<title>University of Illinois at Urbana-Champaign, NRC Form 896 for -A Verification for Safety Classification and Event Identification Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24092A362</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-04-08 08:57:00</pubDate>
+		</item>
 		<item>
 			<title>Submittal of revised University of Illinois Topical Report, "University of Illinois Urbana-Champaign High Temperature Gas-cooled Research Reactor: Applicability of Nuclear Regulatory Commission Regulations," Release 04, dated March 15, 2024</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24094A299</link>
@@ -24,13 +38,6 @@
 			<description>Topical Report</description>
 			<author>Ultra Safe Nuclear Corporation</author>
 			<pubDate>2024-04-05 14:02:00</pubDate>
-		</item>
-		<item>
-			<title>University of Illinois Urbana-Champaign, High Temperature Gas-cooled Research Reactor: Event Sequence Identification and SSC Safety Classification Methodology Topical Report Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24075A195</link>
-			<description>Topical Report</description>
-			<author>Ultra Safe Nuclear Corporation</author>
-			<pubDate>2024-04-01 15:02:00</pubDate>
 		</item>
 	</channel>
 </rss>

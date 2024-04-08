@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 05 Apr 2024 22:14:01 GMT</pubDate>
-		<lastBuildDate>Fri, 05 Apr 2024 22:14:01 GMT</lastBuildDate>
+		<pubDate>Mon, 08 Apr 2024 14:14:50 GMT</pubDate>
+		<lastBuildDate>Mon, 08 Apr 2024 14:14:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Aerotest Operations, Letter Informing That New Information Is Available To Show Inadequate Oversight By NRC Caused Damage To Other Non-Power Nuclear Facilities.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24011A224</link>
+			<description>Letter</description>
+			<author>Aerotest Operations, Inc</author>
+			<pubDate>2024-04-08 08:56:00</pubDate>
+		</item>
+		<item>
+			<title>Aerotest Operations, Inc. - Re: Missing Documents on Agencywide Documents Access and Management System (ADAMS)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24054A054</link>
+			<description>Letter</description>
+			<author>Aerotest Operations, Inc</author>
+			<pubDate>2024-04-08 08:56:00</pubDate>
+		</item>
+	</channel>
 </rss>
