@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 08 Apr 2024 19:14:06 GMT</pubDate>
-		<lastBuildDate>Mon, 08 Apr 2024 19:14:06 GMT</lastBuildDate>
+		<pubDate>Mon, 08 Apr 2024 20:16:44 GMT</pubDate>
+		<lastBuildDate>Mon, 08 Apr 2024 20:16:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>AP300 White Paper No.5 Core Design & Fuel Cycle Feedback Response Letter</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24064A073</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-04-08 16:01:00</pubDate>
+		</item>
 		<item>
 			<title>04/11/2024 Quarterly NRC-NuScale Management Meeting on NuScale US460 Standard Design Approval Application.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24099A126</link>
@@ -213,13 +220,6 @@
 			<description>Letter</description>
 			<author>SMR, LLC</author>
 			<pubDate>2024-04-04 09:08:00</pubDate>
-		</item>
-		<item>
-			<title>Letter - Request for Withholding Information from Public Disclosure for X Energy, LLC XE-100 Pre-Application Engagement Presentation Materials (EPID No. L-2018-RM-0076)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24067A300</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-04-03 10:38:00</pubDate>
 		</item>
 	</channel>
 </rss>
