@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 08 Apr 2024 23:15:30 GMT</pubDate>
-		<lastBuildDate>Mon, 08 Apr 2024 23:15:30 GMT</lastBuildDate>
+		<pubDate>Tue, 09 Apr 2024 14:15:28 GMT</pubDate>
+		<lastBuildDate>Tue, 09 Apr 2024 14:15:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Basic Component Definition For The Hermes Non-Power Test Reactors</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24092A391</link>
+			<description>- No Document Type Applies</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2024-04-09 08:46:00</pubDate>
+		</item>
+		<item>
+			<title>Application of the 10 CFR Part 21 and 10 CFR 50.55(e) Basic Component Definition to Hermes and Hermes 2 Non-Power Test Reactors</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24092A390</link>
+			<description>Letter</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2024-04-09 08:45:00</pubDate>
+		</item>
 		<item>
 			<title>04/22/2024 Meeting with Kairos Power LLC (Kairos) to Discuss Security Topics Related to Proposed Reactor Projects</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24095A339</link>
@@ -31,20 +45,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2024-04-04 10:32:00</pubDate>
-		</item>
-		<item>
-			<title>2024/03/15 Kairos Power Pre-App Doc - Transmittal of NRC staff Draft Safety Evaluation Regarding Kairos Instrument Setpoint Methodology Topical Report (KP-TR-021-NP, Revision 1) (EPID L-2023-TOP-0033)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24086A549</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2024-04-02 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>2024/03/21 Kairos Power Pre-App Doc - [External_Sender] RE Transmittal of NRC staff Draft Safety Evaluation Regarding Kairos Instrument Setpoint Methodology Topical Report (KP-TR-021-NP, Revision 1) (EPID L-2023-TOP-0033)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24086A551</link>
-			<description>E-Mail</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2024-04-02 08:33:00</pubDate>
 		</item>
 	</channel>
 </rss>
