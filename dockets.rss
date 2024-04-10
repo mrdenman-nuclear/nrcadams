@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 10 Apr 2024 18:18:58 GMT</pubDate>
-		<lastBuildDate>Wed, 10 Apr 2024 18:18:58 GMT</lastBuildDate>
+		<pubDate>Wed, 10 Apr 2024 19:14:56 GMT</pubDate>
+		<lastBuildDate>Wed, 10 Apr 2024 19:14:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>04/11/2024 Quarterly NRC-NuScale Management Meeting on NuScale US460 Standard Design Approval Application.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24101A270</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-04-10 14:53:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 2 - Responses to Request for Additional Information No. 018 (RAI-10121-R1)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24094A295</link>
@@ -150,13 +157,6 @@
 			<description>Letter, Proprietary Information Review</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-04-10 08:54:00</pubDate>
-		</item>
-		<item>
-			<title>04/11/2024 Quarterly NRC-NuScale Management Meeting on NuScale US460 Standard Design Approval Application.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24100A067</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-04-09 09:45:00</pubDate>
 		</item>
 		<item>
 			<title>Basic Component Definition For The Hermes Non-Power Test Reactors</title>
