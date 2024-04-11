@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 11 Apr 2024 20:16:06 GMT</pubDate>
-		<lastBuildDate>Thu, 11 Apr 2024 20:16:06 GMT</lastBuildDate>
+		<pubDate>Thu, 11 Apr 2024 21:15:58 GMT</pubDate>
+		<lastBuildDate>Thu, 11 Apr 2024 21:15:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Notification of 790402 meeting w/GE to discuss methodology for predicting safety relief valve loads for Mark I containments using T-quencher.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML19281B216</link>
+			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
+			<pubDate>2024-04-11 17:08:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards IE Info Notice 79-12, "Attempted Damage to New Fuel Assemblies." No written response necessary.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML19273B877</link>
@@ -213,13 +220,6 @@
 			<description>OPERATING LICENSES & AMENDMENTS, TEXT-LICENSE APPLICATIONS & PERMITS</description>
 			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
 			<pubDate>2024-04-09 13:08:00</pubDate>
-		</item>
-		<item>
-			<title>Aerotest Operations, Letter Informing That New Information Is Available To Show Inadequate Oversight By NRC Caused Damage To Other Non-Power Nuclear Facilities.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24011A224</link>
-			<description>Letter</description>
-			<author>Aerotest Operations, Inc</author>
-			<pubDate>2024-04-08 08:56:00</pubDate>
 		</item>
 	</channel>
 </rss>
