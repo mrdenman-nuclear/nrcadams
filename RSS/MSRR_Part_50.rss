@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 10 Apr 2024 23:16:09 GMT</pubDate>
-		<lastBuildDate>Wed, 10 Apr 2024 23:16:09 GMT</lastBuildDate>
+		<pubDate>Thu, 11 Apr 2024 14:18:11 GMT</pubDate>
+		<lastBuildDate>Thu, 11 Apr 2024 14:18:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>2024/03/28 NRR E-mail Capture - [External_Sender] Abilene Christian University Request for extension of the Request for Additional Information (RAI) 2 response date</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24088A279</link>
+			<description>E-Mail</description>
+			<author>Abilene Christian University (ACU)</author>
+			<pubDate>2024-04-11 08:47:00</pubDate>
+		</item>
+	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 10 Apr 2024 23:16:09 GMT</pubDate>
-		<lastBuildDate>Wed, 10 Apr 2024 23:16:09 GMT</lastBuildDate>
+		<pubDate>Thu, 11 Apr 2024 14:18:13 GMT</pubDate>
+		<lastBuildDate>Thu, 11 Apr 2024 14:18:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,27 +24,6 @@
 			<description>Letter</description>
 			<author>Kairos Power, LLC</author>
 			<pubDate>2024-04-09 08:45:00</pubDate>
-		</item>
-		<item>
-			<title>04/22/2024 Meeting with Kairos Power LLC (Kairos) to Discuss Security Topics Related to Proposed Reactor Projects</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24095A339</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-04-04 17:42:00</pubDate>
-		</item>
-		<item>
-			<title>Safety Evaluation of Kairos Topical Report KP-TR-021-NP, Instrument Setpoint Methodology, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24091A006</link>
-			<description>Safety Evaluation Report, Topical Report Evaluation</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-04-04 10:33:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal Letter of Safety Evaluation for Kairos Power LLC Instrument Setpoint Methodology Topical Report Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24091A005</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-04-04 10:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
