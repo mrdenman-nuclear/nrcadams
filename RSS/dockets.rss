@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 12 Apr 2024 15:15:59 GMT</pubDate>
-		<lastBuildDate>Fri, 12 Apr 2024 15:15:59 GMT</lastBuildDate>
+		<pubDate>Fri, 12 Apr 2024 16:17:13 GMT</pubDate>
+		<lastBuildDate>Fri, 12 Apr 2024 16:17:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>04/25/2024 Terrestrial Energy USA - Meeting with the NRC regarding TEUSA's Modeling & Simulation Source Term White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24103A083</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-04-12 11:20:00</pubDate>
+		</item>
 		<item>
 			<title>04/22/2024 Westinghouse Electric Co - Meeting regarding the Principal Design Criteria Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24103A050</link>
@@ -211,13 +218,6 @@
 			<title>TerraPower, LLC, Affidavit and Request for Withholding from Public Disclosure (10 CFR 2.390(a)(4))</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24088A088</link>
 			<description>Legal-Affidavit, Proprietary Information Review</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2024-04-10 08:54:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC, Major Accident Methodology Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24088A086</link>
-			<description>Report, Technical</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2024-04-10 08:54:00</pubDate>
 		</item>
