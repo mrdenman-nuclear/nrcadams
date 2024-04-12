@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 11 Apr 2024 23:17:22 GMT</pubDate>
-		<lastBuildDate>Thu, 11 Apr 2024 23:17:22 GMT</lastBuildDate>
+		<pubDate>Fri, 12 Apr 2024 14:16:06 GMT</pubDate>
+		<lastBuildDate>Fri, 12 Apr 2024 14:16:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>CORRESPONDENCE-LETTERS, GENERIC LETTERS, GENERIC LETTERS & IE LETTERS TO MULTIPLE PLANTS., NRC TO EDUCATIONAL INSTITUTION, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
 			<pubDate>2024-04-10 14:42:00</pubDate>
-		</item>
-		<item>
-			<title>US Dept. of Commerce, NIST - Non-Availability of Fuel and Funding to Convert NBSR from HEU to LEU in 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24088A134</link>
-			<description>Letter</description>
-			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
-			<pubDate>2024-04-05 08:30:00</pubDate>
 		</item>
 	</channel>
 </rss>
