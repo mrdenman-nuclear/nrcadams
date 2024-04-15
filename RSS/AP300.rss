@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 12 Apr 2024 23:14:57 GMT</pubDate>
-		<lastBuildDate>Fri, 12 Apr 2024 23:14:57 GMT</lastBuildDate>
+		<pubDate>Mon, 15 Apr 2024 14:14:39 GMT</pubDate>
+		<lastBuildDate>Mon, 15 Apr 2024 14:14:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-04-09 08:46:00</pubDate>
-		</item>
-		<item>
-			<title>AP300 White Paper No.5 Core Design & Fuel Cycle Feedback Response Letter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24064A073</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-04-08 16:01:00</pubDate>
-		</item>
-		<item>
-			<title>Letter to Westinghouse for Withholding Proprietary Information From Public Disclosure, “Presentation Slides to Support the Westinghouse-NRC Pre-Submittal Meeting on the Westinghouse AP300 SMR Localized 1E Power System & Safety White Paper”</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23346A266</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-04-08 11:39:00</pubDate>
 		</item>
 	</channel>
 </rss>

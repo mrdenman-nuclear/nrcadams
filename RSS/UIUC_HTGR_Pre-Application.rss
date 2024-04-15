@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 12 Apr 2024 23:14:58 GMT</pubDate>
-		<lastBuildDate>Fri, 12 Apr 2024 23:14:58 GMT</lastBuildDate>
+		<pubDate>Mon, 15 Apr 2024 14:14:40 GMT</pubDate>
+		<lastBuildDate>Mon, 15 Apr 2024 14:14:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Administrative Form, NRC, Topical Report Evaluation</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-04-11 08:47:00</pubDate>
-		</item>
-		<item>
-			<title>University of Illinois at Urbana-Champaign, Email Transmitting Form 896 for -A Verification for Safety Classification and Event Identification Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24092A363</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-04-08 08:57:00</pubDate>
-		</item>
-		<item>
-			<title>University of Illinois at Urbana-Champaign, NRC Form 896 for -A Verification for Safety Classification and Event Identification Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24092A362</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-04-08 08:57:00</pubDate>
 		</item>
 	</channel>
 </rss>

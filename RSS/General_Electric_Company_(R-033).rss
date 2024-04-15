@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 12 Apr 2024 23:15:09 GMT</pubDate>
-		<lastBuildDate>Fri, 12 Apr 2024 23:15:09 GMT</lastBuildDate>
+		<pubDate>Mon, 15 Apr 2024 14:14:47 GMT</pubDate>
+		<lastBuildDate>Mon, 15 Apr 2024 14:14:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -178,13 +178,6 @@
 			<description>CORRESPONDENCE-LETTERS, NRC TO PUBLIC ENTITY/CITIZEN/ORGANIZATION/MEDIA, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
 			<pubDate>2024-04-09 15:22:00</pubDate>
-		</item>
-		<item>
-			<title>Ack receipt of 791220 ltr informing NRC of steps taken to correct violations noted in IE Insp.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML19211D179</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-04-08 12:53:00</pubDate>
 		</item>
 	</channel>
 </rss>

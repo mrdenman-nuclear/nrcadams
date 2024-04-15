@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 12 Apr 2024 23:15:11 GMT</pubDate>
-		<lastBuildDate>Fri, 12 Apr 2024 23:15:11 GMT</lastBuildDate>
+		<pubDate>Mon, 15 Apr 2024 14:14:47 GMT</pubDate>
+		<lastBuildDate>Mon, 15 Apr 2024 14:14:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>CORRESPONDENCE-LETTERS, GENERIC LETTERS, GENERIC LETTERS & IE LETTERS TO MULTIPLE PLANTS., NRC TO EDUCATIONAL INSTITUTION, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
 			<pubDate>2024-04-10 14:42:00</pubDate>
-		</item>
-		<item>
-			<title>Oregon State University TRIGA Reactor (OSTR), Additional Information Regarding License Amendment Request to Remove Square Wave Operation Mode and Targets</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24089A118</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50, Technical Specification, Bases Change</description>
-			<author>Oregon State Univ, TRIGA Reactor</author>
-			<pubDate>2024-04-08 08:56:00</pubDate>
 		</item>
 	</channel>
 </rss>
