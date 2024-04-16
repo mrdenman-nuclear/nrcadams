@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 16 Apr 2024 16:18:45 GMT</pubDate>
-		<lastBuildDate>Tue, 16 Apr 2024 16:18:45 GMT</lastBuildDate>
+		<pubDate>Tue, 16 Apr 2024 17:15:10 GMT</pubDate>
+		<lastBuildDate>Tue, 16 Apr 2024 17:15:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Monthly (28-day) Federal Register Notice - Applications and Amendments to Facility Operating Licenses and Combined Licenses Involving No Significant Hazards Considerations - Publication Date: April 16, 2024.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24086A431</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/NRR/DORL</author>
+			<pubDate>2024-04-16 13:14:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards mods to radiography & research reactor security plan.Mods withheld (ref 10CFR2.790).</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML19327A446</link>
@@ -213,13 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
 			<pubDate>2024-04-10 19:20:00</pubDate>
-		</item>
-		<item>
-			<title>Notifies of Commission 790809 approval to publish proposed amends to 10CFR50 & 70 in FR,re emergency plans for nonpower reactor licensees.Forwards transcript of 790827 meeting re impact of proposed safeguards upgrade rule.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML19254E680</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO EDUCATIONAL INSTITUTION, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
-			<pubDate>2024-04-10 17:50:00</pubDate>
 		</item>
 	</channel>
 </rss>
