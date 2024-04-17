@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 16 Apr 2024 23:16:45 GMT</pubDate>
-		<lastBuildDate>Tue, 16 Apr 2024 23:16:45 GMT</lastBuildDate>
+		<pubDate>Wed, 17 Apr 2024 14:16:05 GMT</pubDate>
+		<lastBuildDate>Wed, 17 Apr 2024 14:16:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,27 +17,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-04-15 11:45:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - Responses to Request for Additional Information No. 018 (RAI-10121-R1)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24094A295</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-04-10 12:50:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3 - Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24094A296</link>
-			<description>Legal-Affidavit</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-04-10 12:50:00</pubDate>
-		</item>
-		<item>
-			<title>GE-Hitachi Nuclear Energy - Responses to Request for Additional Information No. 018 (RAI-10121-R1) for Licensing Topical Report NEDC-33926P/NEDO-33926, Revision 1, BWRX-300 Steel-Plate Composite Containment Vessel (SCCV) and Reactor Building (RB).....</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24094A293</link>
-			<description>Letter</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-04-10 12:50:00</pubDate>
 		</item>
 	</channel>
 </rss>

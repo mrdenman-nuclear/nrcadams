@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 16 Apr 2024 23:16:45 GMT</pubDate>
-		<lastBuildDate>Tue, 16 Apr 2024 23:16:45 GMT</lastBuildDate>
+		<pubDate>Wed, 17 Apr 2024 14:16:05 GMT</pubDate>
+		<lastBuildDate>Wed, 17 Apr 2024 14:16:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Transmittal letter re: NRC Staff Assessment of SMR, LLC, A Holtec International Company, White Paper on Soil Structure Interactions Analysis, Project No. 99902049</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24052A005</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-04-10 08:55:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - NRC Staff Assessment of SMR (Holtec) White Paper on Soil Structure Interactions Analysis (Project No. 99902049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24052A006</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-04-10 08:55:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
