@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 17 Apr 2024 23:16:26 GMT</pubDate>
-		<lastBuildDate>Wed, 17 Apr 2024 23:16:26 GMT</lastBuildDate>
+		<pubDate>Thu, 18 Apr 2024 14:15:51 GMT</pubDate>
+		<lastBuildDate>Thu, 18 Apr 2024 14:15:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submittal of TerraPower Topical Report, “Principal Design Criteria for the Natrium Advanced Reactor,” Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24101A362</link>
+			<description>Letter, Topical Report</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2024-04-18 08:39:00</pubDate>
+		</item>
+		<item>
+			<title>2024/04/04 Kairos - Hermes 2 Docs - Preliminary Chapter of Hermes 2 SE</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24095A292</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2024-04-18 08:37:00</pubDate>
+		</item>
+		<item>
+			<title>2024/04/04 Kairos - Hermes 2 Docs - Preliminary Chapter of Hermes 2 SE</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24095A292</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2024-04-18 08:37:00</pubDate>
+		</item>
 		<item>
 			<title>Request For Withholding Proprietary Information Uncertainty Quantification Methodology For Calculation Of IMSR Off-Gas Rev. 2, Technical Report Submitted On February 9 2024</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24086A319</link>
@@ -171,34 +192,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2024-04-12 09:18:00</pubDate>
-		</item>
-		<item>
-			<title>Request For Withholding Information From Public Disclosure – Oklo, Inc., Letter, “Request For Safeguards Information”</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23242A343</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-04-11 13:37:00</pubDate>
-		</item>
-		<item>
-			<title>University of Illinois at Urbana-Champaign, Email Transmitting NRC Form 898 for Acceptance of Fuel Qualification Methodology Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24093A221</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-04-11 08:48:00</pubDate>
-		</item>
-		<item>
-			<title>2024/03/28 NRR E-mail Capture - [External_Sender] Abilene Christian University Request for extension of the Request for Additional Information (RAI) 2 response date</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24088A279</link>
-			<description>E-Mail</description>
-			<author>Abilene Christian University (ACU)</author>
-			<pubDate>2024-04-11 08:47:00</pubDate>
-		</item>
-		<item>
-			<title>University of Illinois at Urbana-Champaign, NRC Form 898 for Acceptance of Fuel Qualification Methodology Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24093A220</link>
-			<description>Administrative Form, NRC, Topical Report Evaluation</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-04-11 08:47:00</pubDate>
 		</item>
 	</channel>
 </rss>

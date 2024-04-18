@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 17 Apr 2024 23:16:41 GMT</pubDate>
-		<lastBuildDate>Wed, 17 Apr 2024 23:16:41 GMT</lastBuildDate>
+		<pubDate>Thu, 18 Apr 2024 14:16:06 GMT</pubDate>
+		<lastBuildDate>Thu, 18 Apr 2024 14:16:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specification, Amendment</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-04-12 11:15:00</pubDate>
-		</item>
-		<item>
-			<title>"Core XIV Startup Program."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML19263D355</link>
-			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST REPORT</description>
-			<author>YANKEE ATOMIC ELECTRIC CO.</author>
-			<pubDate>2024-04-11 07:08:00</pubDate>
 		</item>
 	</channel>
 </rss>
