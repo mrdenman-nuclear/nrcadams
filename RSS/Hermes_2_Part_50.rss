@@ -5,32 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 18 Apr 2024 23:15:28 GMT</pubDate>
-		<lastBuildDate>Thu, 18 Apr 2024 23:15:28 GMT</lastBuildDate>
+		<pubDate>Fri, 19 Apr 2024 14:16:12 GMT</pubDate>
+		<lastBuildDate>Fri, 19 Apr 2024 14:16:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Environmental Assessment and Finding of No Significant Impact for the Construction Permits for the Kairos Hermes 2 Test Reactors: Draft for Comment</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24103A002</link>
+			<description>Environmental Assessment, Finding of No Significant Impact</description>
+			<author>NRC/NMSS/DREFS/ENRB</author>
+			<pubDate>2024-04-19 08:38:00</pubDate>
+		</item>
 		<item>
 			<title>2024/04/04 Kairos - Hermes 2 Docs - Preliminary Chapter of Hermes 2 SE</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24095A292</link>
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2024-04-18 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Confirmation of Information for Hermes 2 PSAR</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24103A178</link>
-			<description>Request for Additional Information (RAI)</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-04-12 14:55:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal email from NRC to Kairos Power LLC, "Request for Confirmation of Information for the Hermes 2 Preliminary Safety Analysis Report"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24103A176</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-04-12 14:55:00</pubDate>
 		</item>
 	</channel>
 </rss>

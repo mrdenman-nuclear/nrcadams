@@ -5,12 +5,47 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 18 Apr 2024 23:15:34 GMT</pubDate>
-		<lastBuildDate>Thu, 18 Apr 2024 23:15:34 GMT</lastBuildDate>
+		<pubDate>Fri, 19 Apr 2024 14:16:19 GMT</pubDate>
+		<lastBuildDate>Fri, 19 Apr 2024 14:16:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards IE Insp Rept 50-228/81-01 on 810211,12,17,24,25 & 0324 & notice of violation.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20008F796</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
+			<pubDate>2024-04-18 23:50:00</pubDate>
+		</item>
+		<item>
+			<title>Notice of violation from insp on 810211,12,17,24,25 & 0324.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20008F798</link>
+			<description>NOTICE OF VIOLATION OF A REGULATION, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
+			<pubDate>2024-04-18 23:50:00</pubDate>
+		</item>
+		<item>
+			<title>IE Insp Rept 50-228/81-01 on 810211,12,17,24,25 & 0324. Noncompliance noted:neutron exposures received by two individuals from 1970 through Feb 1981 not maintained or recorded on Form NRC-5 or equivalent.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20008F799</link>
+			<description>INSPECTION REPORT, MANUFACTURER/VENDOR/ENGINEER, INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
+			<pubDate>2024-04-18 23:50:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards revised security plan adding details re facility const & layout,personnel data & facility security status. Plan withheld (ref 10CFR2.790(d)).</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20006C722</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
+			<author>AEROTEST OPERATIONS, INC.</author>
+			<pubDate>2024-04-18 20:45:00</pubDate>
+		</item>
+		<item>
+			<title>Notifies of intention of IE Lamb to take early retirement from company by 900126 & designation of author to fill vacancy on interim basis.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20006B508</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
+			<author>AEROTEST OPERATIONS, INC.</author>
+			<pubDate>2024-04-18 20:03:00</pubDate>
+		</item>
 		<item>
 			<title>Advises that licensee request for delay in review of physical security plan is acceptable.Revised plan must be submitted by 810331.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20003F033</link>
@@ -150,27 +185,6 @@
 			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
 			<pubDate>2024-04-15 19:44:00</pubDate>
-		</item>
-		<item>
-			<title>Requests assistance in financial qualification determination of Aerotest Operations Acquisitions,Inc as proposed new owner & operator of License R-98.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML19305E650</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
-			<pubDate>2024-04-12 10:11:00</pubDate>
-		</item>
-		<item>
-			<title>Application for transfer of License R-98 from Acrotest Operations,Inc to Acrotest Operations Acquisitions,Inc. Supporting documentation encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML19305D955</link>
-			<description>OPERATING LICENSES-APPLIATION TO AMEND-RENEW EXISTING, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>AEROTEST OPERATIONS, INC.</author>
-			<pubDate>2024-04-12 09:53:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards IE Circular 80-02, "Nuclear Power Plant Staff Work Hours." No written response required.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML19296C313</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-04-12 06:25:00</pubDate>
 		</item>
 	</channel>
 </rss>

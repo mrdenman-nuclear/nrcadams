@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 18 Apr 2024 23:15:34 GMT</pubDate>
-		<lastBuildDate>Thu, 18 Apr 2024 23:15:34 GMT</lastBuildDate>
+		<pubDate>Fri, 19 Apr 2024 14:16:23 GMT</pubDate>
+		<lastBuildDate>Fri, 19 Apr 2024 14:16:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Advises that IE Bulletin 81-02, "Failure of Gate Type Valves to Close Against Differential Pressure," was sent to listed licensees.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20009D227</link>
+			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I)</author>
+			<pubDate>2024-04-19 01:45:00</pubDate>
+		</item>
+	</channel>
 </rss>
