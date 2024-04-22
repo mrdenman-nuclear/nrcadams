@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 22 Apr 2024 14:16:27 GMT</pubDate>
-		<lastBuildDate>Mon, 22 Apr 2024 14:16:27 GMT</lastBuildDate>
+		<pubDate>Mon, 22 Apr 2024 15:17:35 GMT</pubDate>
+		<lastBuildDate>Mon, 22 Apr 2024 15:17:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards insp rept 50-228/93-01 on 930113-14 & 0204.No violations noted.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20044C416</link>
+			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
+			<pubDate>2024-04-22 10:49:00</pubDate>
+		</item>
+		<item>
+			<title>Requests encl ref matls required to prepare for evaluation of requalification program & licensed personnel at plant scheduled for wk of 921102.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20044B555</link>
+			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
+			<pubDate>2024-04-22 10:24:00</pubDate>
+		</item>
 		<item>
 			<title>PNO-V-90-017A:on 900406,three earthquakes felt in Walnut Creek area.Earthquakes not felt at GE facility & NTR reactor not operating at time of earthquake.No damage resulted.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20042E472</link>
@@ -206,20 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
 			<pubDate>2024-04-17 03:25:00</pubDate>
-		</item>
-		<item>
-			<title>Informs that in-pool temporary storage procedure allowing complete defueling is scheduled for 810131-0201.Defective fuel element will be removed at that time.Requests confirmation of NRC approval of Tech Spec procedure.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML19341A185</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
-			<author>AEROTEST OPERATIONS, INC.</author>
-			<pubDate>2024-04-17 02:09:00</pubDate>
-		</item>
-		<item>
-			<title>Requests temporary hold on review of security plan to allow applicant to incorporate changes bringing plan up-to-date.Changes in emergency alarm sys & bldg configuration will be submitted within two months.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML19340E105</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
-			<author>AEROTEST OPERATIONS, INC.</author>
-			<pubDate>2024-04-17 01:21:00</pubDate>
 		</item>
 	</channel>
 </rss>
