@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 22 Apr 2024 19:15:05 GMT</pubDate>
-		<lastBuildDate>Mon, 22 Apr 2024 19:15:05 GMT</lastBuildDate>
+		<pubDate>Mon, 22 Apr 2024 20:17:49 GMT</pubDate>
+		<lastBuildDate>Mon, 22 Apr 2024 20:17:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>05/22/2024 Westinghouse Electric Co - TRISO Fuel Analysis and Testing Technical Exchange Meeting</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24113A224</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-04-22 15:18:00</pubDate>
+		</item>
 		<item>
 			<title>Transmittal Email for Form 896</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24109A118</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24101A415</link>
 			<description>Topical Report</description>
 			<author>Ultra Safe Nuclear Corporation</author>
-			<pubDate>2024-04-16 15:39:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of "University of Illinois Urbana-Champaign High Temperature Gas-cooled Research Reactor: Micro Modular Reactor (MMR) Principal Design Criteria" Topical Report, Release 02 (Revision 1), dated April 10, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24101A414</link>
-			<description>Letter</description>
-			<author>Univ of Illinois - Urbana - Champaign</author>
 			<pubDate>2024-04-16 15:39:00</pubDate>
 		</item>
 	</channel>
