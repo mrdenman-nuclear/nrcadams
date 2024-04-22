@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 19 Apr 2024 23:17:02 GMT</pubDate>
-		<lastBuildDate>Fri, 19 Apr 2024 23:17:02 GMT</lastBuildDate>
+		<pubDate>Mon, 22 Apr 2024 14:16:28 GMT</pubDate>
+		<lastBuildDate>Mon, 22 Apr 2024 14:16:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Generic ltr to all research & test reactor licensees re current status of revised guidance criteria for research & test reactor emergency planning.FR notice published 811231, amends dates & associated power levels for emergency plans.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20041B925</link>
+			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
+			<pubDate>2024-04-21 23:34:00</pubDate>
+		</item>
+		<item>
+			<title>Partial response to FOIA request for documents re 15 categories of info concerning UCLA license renewal. Forwards documents listed in App A.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20033C576</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO LEGAL/LAW FIRM, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
+			<pubDate>2024-04-21 03:49:00</pubDate>
+		</item>
+	</channel>
 </rss>
