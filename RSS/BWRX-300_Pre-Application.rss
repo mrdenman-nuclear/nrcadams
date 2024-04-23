@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 22 Apr 2024 23:16:23 GMT</pubDate>
-		<lastBuildDate>Mon, 22 Apr 2024 23:16:23 GMT</lastBuildDate>
+		<pubDate>Tue, 23 Apr 2024 14:17:04 GMT</pubDate>
+		<lastBuildDate>Tue, 23 Apr 2024 14:17:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>04/25/2024 Pre-application meeting with GE-Hitachi Nuclear Energy Americas, LLC (GEH) on BWRX-300 stability overview related to Licensing Topical Report, NEDC-33912P-A Revision 2.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24114A043</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-04-23 08:52:00</pubDate>
+		</item>
+	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 22 Apr 2024 23:16:34 GMT</pubDate>
-		<lastBuildDate>Mon, 22 Apr 2024 23:16:34 GMT</lastBuildDate>
+		<pubDate>Tue, 23 Apr 2024 14:17:14 GMT</pubDate>
+		<lastBuildDate>Tue, 23 Apr 2024 14:17:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -143,41 +143,6 @@
 			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
 			<pubDate>2024-04-17 03:25:00</pubDate>
-		</item>
-		<item>
-			<title>Safety evaluation supporting Amend 14 to License R-53.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML19340B948</link>
-			<description>SAFETY EVALUATION REPORT--LICENSING & RELATED ISSUES, TEXT-SAFETY REPORT</description>
-			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
-			<pubDate>2024-04-16 23:59:00</pubDate>
-		</item>
-		<item>
-			<title>GEH - Possession Only License Shutdown Configuration of the GE Nuclear Test Reactor (NTR)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24099A153</link>
-			<description>Letter</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-04-16 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards IE Info Notice 80-19, "NIOSH Recall of Recirculating-Mode (Closed Circuit) Self-Contained Breathing Apparatus (Rebreather)." No response required.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML19323E465</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-04-16 03:06:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards Annual Financial Rept 1979.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML19323A008</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
-			<author>GENERAL ELECTRIC CO.</author>
-			<pubDate>2024-04-16 00:18:00</pubDate>
-		</item>
-		<item>
-			<title>Annual Financial Rept 1979.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML19323A010</link>
-			<description>ANNUAL REPORTS (COMPANY-FINANCIAL), TEXT-SAFETY REPORT</description>
-			<author>GENERAL ELECTRIC CO.</author>
-			<pubDate>2024-04-16 00:18:00</pubDate>
 		</item>
 	</channel>
 </rss>
