@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 23 Apr 2024 23:14:07 GMT</pubDate>
-		<lastBuildDate>Tue, 23 Apr 2024 23:14:07 GMT</lastBuildDate>
+		<pubDate>Wed, 24 Apr 2024 14:15:31 GMT</pubDate>
+		<lastBuildDate>Wed, 24 Apr 2024 14:15:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Provides info that has become available since revised 10CFR20 became effective on 910620 & forwards two press releases re issuance & implementation of revised part 20.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20045H428</link>
+			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
+			<pubDate>2024-04-23 21:55:00</pubDate>
+		</item>
 		<item>
 			<title>"GE 1992 Annual Rept." W/930315 ltr.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20034H641</link>
@@ -150,20 +157,6 @@
 			<description>INSPECTION REPORT, MANUFACTURER/VENDOR/ENGINEER, INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
 			<pubDate>2024-04-19 11:17:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards IE Insp Repts 50-070/81-01 & 50-073/81-01 on 810406-07.No noncompliance noted.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML19343D506</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-04-17 12:43:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards IE Circular 81-02, "Performance of NRC-Licensed Individuals While on Duty." No written response required.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML19341C100</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-04-17 03:25:00</pubDate>
 		</item>
 	</channel>
 </rss>
