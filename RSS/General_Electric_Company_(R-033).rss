@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 25 Apr 2024 23:14:25 GMT</pubDate>
-		<lastBuildDate>Thu, 25 Apr 2024 23:14:25 GMT</lastBuildDate>
+		<pubDate>Fri, 26 Apr 2024 14:14:16 GMT</pubDate>
+		<lastBuildDate>Fri, 26 Apr 2024 14:14:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Order Approving Transfer Of The Vallecitos Nuclear Center Licenses And Conforming License Amendments</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24039A019</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DDUWP/RDB</author>
+			<pubDate>2024-04-26 09:37:00</pubDate>
+		</item>
 		<item>
 			<title>PNO-V-93-015:on 930811,4.7 magnitude earthquake occurred.No damage reported at listed facilities.Aerotest reactor was operating & earthquake SCRAM not triggered.Concludes that since no motion detected,MMI probably less than I.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20056F144</link>
@@ -164,48 +171,6 @@
 			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
 			<pubDate>2024-04-20 15:07:00</pubDate>
-		</item>
-		<item>
-			<title>Notification of 900223 meeting w/GE in Rockville,MD to discuss decommissioning at Vallecitos.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20011F504</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
-			<pubDate>2024-04-19 18:12:00</pubDate>
-		</item>
-		<item>
-			<title>Confirms telecon request re 900223 visit re decommissioning funding requirements & estimated decommissioning cost methodology.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20011F511</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
-			<author>General Electric Co</author>
-			<pubDate>2024-04-19 18:12:00</pubDate>
-		</item>
-		<item>
-			<title>Advises that IE Info Notice 81-26, "Compilation of Health Physics Related Info Items," was distributed to listed licensees.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20010F295</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
-			<pubDate>2024-04-19 14:25:00</pubDate>
-		</item>
-		<item>
-			<title>Advises that encl IE Info Notice 81-22, "Section 235 & 236 Amends to Atomic Energy Act of 1954," was sent to listed licensees on 810731.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20009G894</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
-			<pubDate>2024-04-19 12:06:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards IE Insp Repts 50-018/81-01,50-070/81-02, 50-073/81-02 & 50-183/81-01 on 810513-15,18,20 & 0604 & notice of violation.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20009E203</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
-			<pubDate>2024-04-19 11:17:00</pubDate>
-		</item>
-		<item>
-			<title>IE Insp Repts 50-018/81-01,50-070/81-02,50-073/81-02 & 50-183/81-01 on 810513-15,18,20 & 0604.Noncompliance noted: measurements of airborne radioactive matls not performed prior to or during cleaning GETR tank on 810307.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20009E209</link>
-			<description>INSPECTION REPORT, MANUFACTURER/VENDOR/ENGINEER, INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
-			<pubDate>2024-04-19 11:17:00</pubDate>
 		</item>
 	</channel>
 </rss>

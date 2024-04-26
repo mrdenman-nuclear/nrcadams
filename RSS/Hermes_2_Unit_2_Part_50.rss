@@ -5,25 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 25 Apr 2024 23:14:18 GMT</pubDate>
-		<lastBuildDate>Thu, 25 Apr 2024 23:14:18 GMT</lastBuildDate>
+		<pubDate>Fri, 26 Apr 2024 14:14:08 GMT</pubDate>
+		<lastBuildDate>Fri, 26 Apr 2024 14:14:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>FRN for Issuance of Hermes 2 Draft EA</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24100A053</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/NMSS/DREFS/ENRB</author>
+			<pubDate>2024-04-26 09:37:00</pubDate>
+		</item>
 		<item>
 			<title>Letter to Kairos Power, LLC-Notice of Availability of the Draft Environmental Assessment for the Construction Permit for Hermes 2 Test Reactors</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24101A217</link>
 			<description>Letter</description>
 			<author>NRC/NMSS/DREFS/ENRB</author>
 			<pubDate>2024-04-25 08:42:00</pubDate>
-		</item>
-		<item>
-			<title>Environmental Assessment and Finding of No Significant Impact for the Construction Permits for the Kairos Hermes 2 Test Reactors: Draft for Comment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24103A002</link>
-			<description>Environmental Assessment, Finding of No Significant Impact</description>
-			<author>NRC/NMSS/DREFS/ENRB</author>
-			<pubDate>2024-04-19 08:38:00</pubDate>
 		</item>
 	</channel>
 </rss>

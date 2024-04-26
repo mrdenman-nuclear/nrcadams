@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 25 Apr 2024 23:14:18 GMT</pubDate>
-		<lastBuildDate>Thu, 25 Apr 2024 23:14:18 GMT</lastBuildDate>
+		<pubDate>Fri, 26 Apr 2024 14:14:08 GMT</pubDate>
+		<lastBuildDate>Fri, 26 Apr 2024 14:14:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Summary of the December 12, 2023, and February 28, 2024, Meeting with Oklo, Inc. to Discuss the Preliminary Evaluation of Material Categorization for a Fuel Recycling Facility</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24023A007</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-04-26 08:52:00</pubDate>
+		</item>
+	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 25 Apr 2024 23:14:18 GMT</pubDate>
-		<lastBuildDate>Thu, 25 Apr 2024 23:14:18 GMT</lastBuildDate>
+		<pubDate>Fri, 26 Apr 2024 14:14:08 GMT</pubDate>
+		<lastBuildDate>Fri, 26 Apr 2024 14:14:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2024/04/12 NuScale NPM-20 - NuScale SDAA Section 3.6.2 - Request for Additional Information No. 023 (RAI-10177-R1)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24103A247</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2024-04-26 08:50:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC Response to NRC Request for Additional Information No. 10105 (RAI-10105) on the NuScale Standard Design Approval Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24108A122</link>
@@ -24,13 +31,6 @@
 			<description>Letter, Report, Technical</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2024-04-23 08:38:00</pubDate>
-		</item>
-		<item>
-			<title>2024/04/05 NuScale NPM-20 - NuScale SDAA Section 19.3 - Request for Additional Information No. 019 (RAI-10146-R1)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24096B785</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2024-04-19 08:37:00</pubDate>
 		</item>
 	</channel>
 </rss>

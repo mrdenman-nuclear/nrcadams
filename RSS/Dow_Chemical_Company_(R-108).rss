@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 25 Apr 2024 23:14:25 GMT</pubDate>
-		<lastBuildDate>Thu, 25 Apr 2024 23:14:25 GMT</lastBuildDate>
+		<pubDate>Fri, 26 Apr 2024 14:14:15 GMT</pubDate>
+		<lastBuildDate>Fri, 26 Apr 2024 14:14:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,27 +52,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, UTILITY TO NRC</description>
 			<author>COMMONWEALTH EDISON CO.</author>
 			<pubDate>2024-04-21 00:25:00</pubDate>
-		</item>
-		<item>
-			<title>Notifies that IE Info Notice 81-22, "Section 235 & 236 Amends to Atomic Energy Act of 1954," was sent to licensees on 810731.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20009H681</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION III)</author>
-			<pubDate>2024-04-19 12:25:00</pubDate>
-		</item>
-		<item>
-			<title>Notifies that IE Info Notice 81-22, "Section 235 & 236 Amends to Atomic Energy Act of 1954," has been sent to licensees.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20009H597</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION III)</author>
-			<pubDate>2024-04-19 12:23:00</pubDate>
-		</item>
-		<item>
-			<title>IE Info Notice 81-26, "Compilation of Five Health Physics Related Info Items."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20009D052</link>
-			<description>GENERIC LETTERS & IE LETTERS TO MULTIPLE PLANTS., NRC INFORMATION NOTICE, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE)</author>
-			<pubDate>2024-04-19 01:41:00</pubDate>
 		</item>
 	</channel>
 </rss>
