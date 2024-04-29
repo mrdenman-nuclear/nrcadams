@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 26 Apr 2024 23:16:59 GMT</pubDate>
-		<lastBuildDate>Fri, 26 Apr 2024 23:16:59 GMT</lastBuildDate>
+		<pubDate>Mon, 29 Apr 2024 14:15:23 GMT</pubDate>
+		<lastBuildDate>Mon, 29 Apr 2024 14:15:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SMR, LLC Submittal of Licensing Topical Report, "Quality Assurance Program for Holtec International's Small Modular Reactor Design and Construction," Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24110A089</link>
+			<description>Letter</description>
+			<author>SMR, LLC</author>
+			<pubDate>2024-04-29 08:32:00</pubDate>
+		</item>
+		<item>
+			<title>Licensing Topical Report HI-2230815, "Quality Assurance Program for Holtec International's Small Modular Reactor Design and Construction," Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24110A090</link>
+			<description>Quality Assurance Program, Topical Report</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2024-04-29 08:32:00</pubDate>
+		</item>
 		<item>
 			<title>SMR, LLC Preapplication Meeting Materials for May 1, 2024 (Project No. 99902049)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24109A291</link>
@@ -24,34 +38,6 @@
 			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2024-04-26 08:51:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - 2-26-23 Public Meeting Agenda - SMR Holtec Fire Protection</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24058A342</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-04-22 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3 - 2-26-23 Public Meeting Summary - SMR Holtec Fire Protection</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24058A344</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-04-22 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>2-26-24 Public Meeting Summary - SMR Holtec Fire Protection</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24058A345</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-04-22 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - 2-26-23 Public Meeting Attendees - SMR Holtec Fire Protection</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24058A343</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-04-22 08:33:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 26 Apr 2024 23:16:59 GMT</pubDate>
-		<lastBuildDate>Fri, 26 Apr 2024 23:16:59 GMT</lastBuildDate>
+		<pubDate>Mon, 29 Apr 2024 14:15:23 GMT</pubDate>
+		<lastBuildDate>Mon, 29 Apr 2024 14:15:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,34 +24,6 @@
 			<description>Memoranda</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2024-04-24 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>05/22/2024 Westinghouse Electric Co - TRISO Fuel Analysis and Testing Technical Exchange Meeting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24113A224</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-04-22 15:18:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of the Westinghouse eVinci Microreactor Factory Manufacturing and Assembly Report for Joint NRC and CNSC Review (EVR-LIC-G0-004-P/NP)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24103A034</link>
-			<description>Letter</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2024-04-22 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - Affidavit AW-24-021</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24103A035</link>
-			<description>Legal-Affidavit</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2024-04-22 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3 - EVR-LIC-G0-004-NP, Revision 0, "Factory Manufacturing and Assembly of the eVinci Microreactor"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24103A037</link>
-			<description>Report, Technical</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2024-04-22 08:33:00</pubDate>
 		</item>
 	</channel>
 </rss>

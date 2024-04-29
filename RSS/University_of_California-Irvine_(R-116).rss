@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 26 Apr 2024 23:17:07 GMT</pubDate>
-		<lastBuildDate>Fri, 26 Apr 2024 23:17:07 GMT</lastBuildDate>
+		<pubDate>Mon, 29 Apr 2024 14:15:27 GMT</pubDate>
+		<lastBuildDate>Mon, 29 Apr 2024 14:15:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,27 +31,6 @@
 			<description>CORRESPONDENCE-LETTERS, NRC TO EDUCATIONAL INSTITUTION, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
 			<pubDate>2024-04-23 10:38:00</pubDate>
-		</item>
-		<item>
-			<title>Generic ltr to all research & test reactor licensees re current status of revised guidance criteria for research & test reactor emergency planning.FR notice published 811231, amends dates & associated power levels for emergency plans.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20041B925</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
-			<pubDate>2024-04-21 23:34:00</pubDate>
-		</item>
-		<item>
-			<title>PNO-V-90-019:on 900417,earthquakes measuring 4.6 on Richter Scale measured 3 miles west of Upland,CA.On 900418,three earthquakes occurred in northern California.No visual damage occurred to reactors in area.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20034B028</link>
-			<description>PRELIMINARY NOTIFICATION OF EVENT OR OCCURRENCE (PNO,, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-04-21 05:53:00</pubDate>
-		</item>
-		<item>
-			<title>PNO-V-90-008:on 900228,earthquake w/Richter magnitude of 5.5 occurred near Upland,CA.San Onofre declared unusual event & conducted insp.Area research reactors shut down w/no damage resulting to facilities.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20033E094</link>
-			<description>PRELIMINARY NOTIFICATION OF EVENT OR OCCURRENCE (PNO,, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-04-21 04:13:00</pubDate>
 		</item>
 	</channel>
 </rss>
