@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 29 Apr 2024 23:16:00 GMT</pubDate>
-		<lastBuildDate>Mon, 29 Apr 2024 23:16:00 GMT</lastBuildDate>
+		<pubDate>Tue, 30 Apr 2024 14:14:06 GMT</pubDate>
+		<lastBuildDate>Tue, 30 Apr 2024 14:14:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>Meeting Minutes, Memoranda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-04-24 14:45:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of Advisory Committee on Reactor Safeguards - WCAP-18446_P - Incremental Extension of Burnup Limit - SC - April 2, 2024; Pages 1-250  (OPEN)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24113A241</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-04-23 08:40:00</pubDate>
-		</item>
-		<item>
-			<title>715th Full Committee Meeting of the Advisory Committee on Reactor Safeguards, April 30 - May 3, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24100A001</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/ACRS, NRC/SECY</author>
-			<pubDate>2024-04-23 08:38:00</pubDate>
 		</item>
 	</channel>
 </rss>

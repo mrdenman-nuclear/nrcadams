@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 29 Apr 2024 23:15:45 GMT</pubDate>
-		<lastBuildDate>Mon, 29 Apr 2024 23:15:45 GMT</lastBuildDate>
+		<pubDate>Tue, 30 Apr 2024 14:14:00 GMT</pubDate>
+		<lastBuildDate>Tue, 30 Apr 2024 14:14:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC FORM 898 - Completeness Determination for TerraPower, LLC "Partial Flow Blockage Methodology," Revision 1 (L-2024-TOP-0010)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24107B050</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2024-04-30 08:40:00</pubDate>
+		</item>
+		<item>
+			<title>NRC FORM 898 - Completeness Determination for TerraPower, LLC "Design Basis Accident Methodology for Events with Radiological Release," Revision 0 (L-2024-TOP-0009)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24107B045</link>
+			<description>Topical Report</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2024-04-30 08:40:00</pubDate>
+		</item>
+		<item>
+			<title>EMAIL - Completeness Determination for TerraPower, LLC "Design Basis Accident Methodology for Events with Radiological Release," Revision 0 (L-2024-TOP-0009)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24107B046</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2024-04-30 08:40:00</pubDate>
+		</item>
 		<item>
 			<title>Email Transmitting NRC Form 898 for TerraPower, LLC TR Instrumentation and Control Architecture and Design Basis</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24101A207</link>
@@ -38,13 +59,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2024-04-26 08:50:00</pubDate>
-		</item>
-		<item>
-			<title>EMAIL - Completeness Determination for TerraPower, LLC "Partial Flow Blockage Methodology," Revision 1 (L-2024-TOP-0010)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24107B051</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-04-23 08:40:00</pubDate>
 		</item>
 	</channel>
 </rss>

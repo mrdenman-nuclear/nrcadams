@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 29 Apr 2024 23:15:40 GMT</pubDate>
-		<lastBuildDate>Mon, 29 Apr 2024 23:15:40 GMT</lastBuildDate>
+		<pubDate>Tue, 30 Apr 2024 14:13:56 GMT</pubDate>
+		<lastBuildDate>Tue, 30 Apr 2024 14:13:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Request TRISO-X, LLC. to Provide Structural Supplemental Information to Resolve Programmatic Requests for Additional Information for the TRISO-X License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24101A017</link>
+			<description>Letter, Request for Additional Information (RAI)</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2024-04-30 08:41:00</pubDate>
+		</item>
+		<item>
+			<title>NRC FORM 898 - Completeness Determination for TerraPower, LLC "Partial Flow Blockage Methodology," Revision 1 (L-2024-TOP-0010)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24107B050</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2024-04-30 08:40:00</pubDate>
+		</item>
+		<item>
+			<title>NRC FORM 898 - Completeness Determination for TerraPower, LLC "Design Basis Accident Methodology for Events with Radiological Release," Revision 0 (L-2024-TOP-0009)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24107B045</link>
+			<description>Topical Report</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2024-04-30 08:40:00</pubDate>
+		</item>
+		<item>
+			<title>EMAIL - Completeness Determination for TerraPower, LLC "Design Basis Accident Methodology for Events with Radiological Release," Revision 0 (L-2024-TOP-0009)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24107B046</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2024-04-30 08:40:00</pubDate>
+		</item>
 		<item>
 			<title>2024/04/14 Kairos - Hermes 2 Docs - Environmental Audit Summary Report for Hermes 2</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24105A000</link>
@@ -192,34 +220,6 @@
 			<description>Letter</description>
 			<author>Triso-X, LLC</author>
 			<pubDate>2024-04-24 13:45:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24096B760</link>
-			<description>Legal-Affidavit</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-04-24 13:45:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - BWRX-300 Stability Pre-Application Meeting Presentation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24096B759</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-04-24 13:45:00</pubDate>
-		</item>
-		<item>
-			<title>GE-Hitachi Nuclear Energy Americas, LLC - BWRX-300 Stability Pre-Application Meeting Presentation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24096B757</link>
-			<description>Letter</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-04-24 13:45:00</pubDate>
-		</item>
-		<item>
-			<title>04/25/2024 Terrestrial Energy USA - Meeting with the NRC regarding TEUSA's Modeling & Simulation Source Term White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24115A098</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-04-24 10:46:00</pubDate>
 		</item>
 	</channel>
 </rss>

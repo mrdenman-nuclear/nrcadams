@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 29 Apr 2024 23:15:45 GMT</pubDate>
-		<lastBuildDate>Mon, 29 Apr 2024 23:15:45 GMT</lastBuildDate>
+		<pubDate>Tue, 30 Apr 2024 14:14:00 GMT</pubDate>
+		<lastBuildDate>Tue, 30 Apr 2024 14:14:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Letter, Response to Request for Additional Information (RAI)</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2024-04-25 08:42:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Submittal of the Approved Version of NuScale Topical Report, "Statistical Subchannel Analysis Methodology Supplement 1 to TR-0915-17564-P-A, Revision 2, Subchannel Analysis Methodology," TR-108601-P-A, Revision 4</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24106A160</link>
-			<description>Letter, Report, Technical</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-04-23 08:38:00</pubDate>
 		</item>
 	</channel>
 </rss>
