@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 30 Apr 2024 23:14:20 GMT</pubDate>
-		<lastBuildDate>Tue, 30 Apr 2024 23:14:20 GMT</lastBuildDate>
+		<pubDate>Wed, 01 May 2024 14:16:23 GMT</pubDate>
+		<lastBuildDate>Wed, 01 May 2024 14:16:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,34 +24,6 @@
 			<description>Administrative Form, NRC</description>
 			<author>NRC/NRR/DANU/UAL2, NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-04-25 08:42:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24096B760</link>
-			<description>Legal-Affidavit</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-04-24 13:45:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - BWRX-300 Stability Pre-Application Meeting Presentation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24096B759</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-04-24 13:45:00</pubDate>
-		</item>
-		<item>
-			<title>GE-Hitachi Nuclear Energy Americas, LLC - BWRX-300 Stability Pre-Application Meeting Presentation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24096B757</link>
-			<description>Letter</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-04-24 13:45:00</pubDate>
-		</item>
-		<item>
-			<title>04/25/2024 Pre-application meeting with GE-Hitachi Nuclear Energy Americas, LLC (GEH) on BWRX-300 stability overview related to Licensing Topical Report, NEDC-33912P-A Revision 2.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24115A001</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-04-24 05:32:00</pubDate>
 		</item>
 	</channel>
 </rss>

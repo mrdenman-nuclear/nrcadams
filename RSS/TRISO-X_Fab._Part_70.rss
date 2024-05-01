@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 30 Apr 2024 23:14:20 GMT</pubDate>
-		<lastBuildDate>Tue, 30 Apr 2024 23:14:20 GMT</lastBuildDate>
+		<pubDate>Wed, 01 May 2024 14:16:23 GMT</pubDate>
+		<lastBuildDate>Wed, 01 May 2024 14:16:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Cover Letter - Summary of Meeting on April 9, 2024, with TRISO-X LLC, to Discuss Supplement Responses to Structural Programmatic Requests for Additional Information</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24102A181</link>
+			<description>Memoranda</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2024-05-01 08:58:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1 - Participant List for Meeting on April 9, 2024 with TRISO-X LLC</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24102A182</link>
+			<description>- No Document Type Applies</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2024-05-01 08:58:00</pubDate>
+		</item>
 		<item>
 			<title>Request TRISO-X, LLC. to Provide Structural Supplemental Information to Resolve Programmatic Requests for Additional Information for the TRISO-X License Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24101A017</link>
@@ -31,20 +45,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2024-04-26 17:05:00</pubDate>
-		</item>
-		<item>
-			<title>Triso-X, LLC, Response to Request for Additional Information Set 7 Environmental Safety</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24087A236</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2024-04-24 13:45:00</pubDate>
-		</item>
-		<item>
-			<title>Triso-X, LLC, Response to Request for Additional Information Set 7 (Environmental Safety) for the TRISO-X License Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24087A235</link>
-			<description>Letter</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2024-04-24 13:45:00</pubDate>
 		</item>
 	</channel>
 </rss>
