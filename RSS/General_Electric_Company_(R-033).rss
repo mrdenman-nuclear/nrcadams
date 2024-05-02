@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 01 May 2024 23:15:04 GMT</pubDate>
-		<lastBuildDate>Wed, 01 May 2024 23:15:04 GMT</lastBuildDate>
+		<pubDate>Thu, 02 May 2024 14:14:27 GMT</pubDate>
+		<lastBuildDate>Thu, 02 May 2024 14:14:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -80,20 +80,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS/DDUWP/RDB</author>
 			<pubDate>2024-04-26 09:37:00</pubDate>
-		</item>
-		<item>
-			<title>PNO-V-93-015:on 930811,4.7 magnitude earthquake occurred.No damage reported at listed facilities.Aerotest reactor was operating & earthquake SCRAM not triggered.Concludes that since no motion detected,MMI probably less than I.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20056F144</link>
-			<description>PRELIMINARY NOTIFICATION OF EVENT OR OCCURRENCE (PNO,, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-04-25 13:50:00</pubDate>
-		</item>
-		<item>
-			<title>Ltr to all research & test reactor licensees requesting that Reg Guide 2.6 (for comment) & ANSI/ANS-15.16 (Draft II dtd 811129) be used to meet requirement of final amend to 10CFR50.54(r) re emergency planning.FR notice encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20054L388</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO EDUCATIONAL INSTITUTION, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
-			<pubDate>2024-04-25 04:02:00</pubDate>
 		</item>
 	</channel>
 </rss>
