@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 May 2024 23:15:31 GMT</pubDate>
-		<lastBuildDate>Thu, 02 May 2024 23:15:31 GMT</lastBuildDate>
+		<pubDate>Fri, 03 May 2024 14:15:15 GMT</pubDate>
+		<lastBuildDate>Fri, 03 May 2024 14:15:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Email - Terrapower, LLC - Draft Safety Evaluation of Topical Report NATD-LIC-RPRT-0002, "Principal Design Criteria For The Natrium Advanced Reactor," Revision 1 (EPID L-2021-TOP-0020)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24103A211</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-05-03 08:58:00</pubDate>
+		</item>
+		<item>
+			<title>Terrapower, LLC - Draft Safety Evaluation of Topical Report Natd-LIC-RPRT-0002, "Principal Design Criteria For The Natrium Advanced Reactor," Revision 1 (EPID L-2021-TOP-0020)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24103A212</link>
+			<description>Safety Evaluation</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-05-03 08:58:00</pubDate>
+		</item>
 		<item>
 			<title>TerraPower, LLC - Audit Plan For TP-LIC-RPT-0006, "Stability Methodology Topical Report," Revision 0 (CAC/EPID No. 000431/L-2023-TOP-0057)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24115A128</link>
@@ -45,34 +59,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2024-04-30 08:40:00</pubDate>
-		</item>
-		<item>
-			<title>Email Transmitting NRC Form 898 for TerraPower, LLC TR Instrumentation and Control Architecture and Design Basis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24101A207</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-04-26 08:50:00</pubDate>
-		</item>
-		<item>
-			<title>Instrumentation and Control Architecture and Design Basis TR - NRC 898</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24101A206</link>
-			<description>Topical Report</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-04-26 08:50:00</pubDate>
-		</item>
-		<item>
-			<title>Reactor Seismic Isolation System Qualification Topical Report - NRC 898</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24101A200</link>
-			<description>Administrative Form, NRC</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-04-26 08:50:00</pubDate>
-		</item>
-		<item>
-			<title>Email Transmitting NRC Form 898 for TerraPower, LLC TR Reactor Seismic Isolation Qualification Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24101A198</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-04-26 08:50:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 May 2024 23:15:33 GMT</pubDate>
-		<lastBuildDate>Thu, 02 May 2024 23:15:33 GMT</lastBuildDate>
+		<pubDate>Fri, 03 May 2024 14:15:17 GMT</pubDate>
+		<lastBuildDate>Fri, 03 May 2024 14:15:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Public - Materials License SNM-960 Amendment 4</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24101A290</link>
+			<description>License-Special Nuclear Material Amendment DKT 70</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2024-05-03 08:58:00</pubDate>
+		</item>
+		<item>
+			<title>GE-Hitachi Nuclear Energy Americas LLC - Exemption From Select Requirements Of 10 CFR Part 73 (EPID L-2024-LLE-0003)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24039A080</link>
+			<description>Exemption from NRC Requirements, Letter</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2024-05-03 08:58:00</pubDate>
+		</item>
+		<item>
+			<title>Guidelines for Decontamination of Facilities and Equipment</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24102A186</link>
+			<description>Guidance Document</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2024-05-03 08:58:00</pubDate>
+		</item>
 		<item>
 			<title>Vallecitos Nuclear Center License Transfer Safety Evaluation Report (Public Version)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24068A040</link>
@@ -73,13 +94,6 @@
 			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
 			<pubDate>2024-04-29 11:15:00</pubDate>
-		</item>
-		<item>
-			<title>Order Approving Transfer Of The Vallecitos Nuclear Center Licenses And Conforming License Amendments</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24039A019</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DDUWP/RDB</author>
-			<pubDate>2024-04-26 09:37:00</pubDate>
 		</item>
 	</channel>
 </rss>

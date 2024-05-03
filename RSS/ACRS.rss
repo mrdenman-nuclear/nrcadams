@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 May 2024 23:15:34 GMT</pubDate>
-		<lastBuildDate>Thu, 02 May 2024 23:15:34 GMT</lastBuildDate>
+		<pubDate>Fri, 03 May 2024 14:15:18 GMT</pubDate>
+		<lastBuildDate>Fri, 03 May 2024 14:15:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Meeting Agenda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-04-29 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>Subcommittee Structure and Listing-Description - February 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24094A252</link>
-			<description>Graphics incl Charts and Tables, Guidance Document</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-04-26 09:54:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 May 2024 23:15:33 GMT</pubDate>
-		<lastBuildDate>Thu, 02 May 2024 23:15:33 GMT</lastBuildDate>
+		<pubDate>Fri, 03 May 2024 14:15:17 GMT</pubDate>
+		<lastBuildDate>Fri, 03 May 2024 14:15:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Aerotest Email - Letter Dated February 27 2024 Regarding EA-23-118 Violation 050-00228203-001-001A</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24123A241</link>
+			<description>E-Mail</description>
+			<author>Aerotest Operations, Inc</author>
+			<pubDate>2024-05-03 09:00:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards insp rept 50-228/94-01 on 940103-11.No violations noted.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20063J156</link>
@@ -31,41 +38,6 @@
 			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
 			<pubDate>2024-04-30 01:29:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards amended Page 11 of ARRR security plan.Encl withheld.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20059D798</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>AEROTEST OPERATIONS, INC.</author>
-			<pubDate>2024-04-26 21:15:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards 1993 rev of security plan for Aerotest Operations, Inc.Rev withheld (ref 10CFR2.790).</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20059D789</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>AEROTEST OPERATIONS, INC.</author>
-			<pubDate>2024-04-26 21:14:00</pubDate>
-		</item>
-		<item>
-			<title>Ack receipt of 930902 & 1117 ltrs,transmitting 930731 rev to physical security plan.Rev consistent w/provisions of 10CFR50.54(p) & acceptable.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20058P532</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-04-26 18:07:00</pubDate>
-		</item>
-		<item>
-			<title>Annual summary of changes,tests & experiments performed at Aerotest Radiography & Research Reactor for period ending 820630.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20058H504</link>
-			<description>ANNUAL OPERATING REPORT, TEXT-SAFETY REPORT</description>
-			<author>AEROTEST OPERATIONS, INC.</author>
-			<pubDate>2024-04-26 14:31:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards annual summary of changes,tests & experiments performed at Aerotest Radiography & Research Reactor for period ending 820630.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20058H468</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
-			<author>AEROTEST OPERATIONS, INC.</author>
-			<pubDate>2024-04-26 14:30:00</pubDate>
 		</item>
 	</channel>
 </rss>
