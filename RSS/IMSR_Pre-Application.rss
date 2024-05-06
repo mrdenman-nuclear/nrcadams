@@ -5,11 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 03 May 2024 23:14:28 GMT</pubDate>
-		<lastBuildDate>Fri, 03 May 2024 23:14:28 GMT</lastBuildDate>
+		<pubDate>Mon, 06 May 2024 14:14:34 GMT</pubDate>
+		<lastBuildDate>Mon, 06 May 2024 14:14:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Enclosure 3: Affidavit Supporting Request for Withholding from Public Disclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24117A110</link>
+			<description>Legal-Affidavit</description>
+			<author>Terrestrial Energy USA, Inc</author>
+			<pubDate>2024-05-06 08:32:00</pubDate>
+		</item>
+		<item>
+			<title>Submission of White Paper Titled "Modeling and Simulation Activities Related to Source Term for IMSR Design Basis Accidents"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24117A112</link>
+			<description>Letter</description>
+			<author>Terrestrial Energy USA, Inc</author>
+			<pubDate>2024-05-06 08:32:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: "Modeling and Simulation Activities Related to Source Term for IMSR Design Basis Accidents" (Non-Proprietary)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24117A113</link>
+			<description>Technical Paper</description>
+			<author>Terrestrial Energy USA, Inc</author>
+			<pubDate>2024-05-06 08:32:00</pubDate>
+		</item>
+	</channel>
 </rss>

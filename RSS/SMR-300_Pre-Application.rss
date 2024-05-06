@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 03 May 2024 23:14:28 GMT</pubDate>
-		<lastBuildDate>Fri, 03 May 2024 23:14:28 GMT</lastBuildDate>
+		<pubDate>Mon, 06 May 2024 14:14:34 GMT</pubDate>
+		<lastBuildDate>Mon, 06 May 2024 14:14:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>SMR, LLC Submittal of Licensing Topical Report, "Quality Assurance Program for Holtec International's Small Modular Reactor Design and Construction," Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24110A089</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
-			<pubDate>2024-04-29 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Licensing Topical Report HI-2230815, "Quality Assurance Program for Holtec International's Small Modular Reactor Design and Construction," Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24110A090</link>
-			<description>Quality Assurance Program, Topical Report</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2024-04-29 08:32:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
