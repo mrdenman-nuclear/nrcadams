@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Oklo</title>
+		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
+		<description>NRC ADAMS Docket Update</description>
+		<language>en-us</language>
+		<pubDate>Tue, 07 May 2024 23:19:00 GMT</pubDate>
+		<lastBuildDate>Tue, 07 May 2024 23:19:00 GMT</lastBuildDate>
+		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
+		<generator>Function write_rss() in R package nrcadams</generator>
+		<managingEditor>mrdenman@gmail.com</managingEditor>
+		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Meeting Summary NRC-INL AR Codes and Standards April 4 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24123A021</link>
+			<description>Meeting Summary</description>
+			<author>NRC/RES/DE</author>
+			<pubDate>2024-05-07 14:42:00</pubDate>
+		</item>
+		<item>
+			<title>FOIA request for all correspondence to or from P Crane,OGC, involving NRC insps & investigations of incident at Univ of Cincinnati Hosp in Aug & Sept 1984 & all correspondence to or from E Saenger of Univ of Cincinnati.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20065P169</link>
+			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, INCOMING CORRESPONDENCE</description>
+			<author>PLAIN DEALER, CLEVELAND, OH</author>
+			<pubDate>2024-05-07 13:35:00</pubDate>
+		</item>
+		<item>
+			<title>Transcript of ACNW 62nd meeting on 940323 in Bethesda,MD.Pp 1-303.Related documentation encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20064M620</link>
+			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, TRANSCRIPTS, DEPOSITIONS, NARRATIVE TESTIMONY</description>
+			<author>NRC ADVISORY COMMITTEE ON NUCLEAR WASTE (ACNW)</author>
+			<pubDate>2024-05-06 15:57:00</pubDate>
+		</item>
+		<item>
+			<title>Transcript of ACNW 61st meeting on 940223 in Bethesda,MD.Pp 1-277.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20063L590</link>
+			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, TRANSCRIPTS, DEPOSITIONS, NARRATIVE TESTIMONY</description>
+			<author>NRC ADVISORY COMMITTEE ON NUCLEAR WASTE (ACNW)</author>
+			<pubDate>2024-05-06 09:16:00</pubDate>
+		</item>
+	</channel>
+</rss>

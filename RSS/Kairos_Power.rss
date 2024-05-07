@@ -5,11 +5,46 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 07 May 2024 23:06:59 GMT</pubDate>
-		<lastBuildDate>Tue, 07 May 2024 23:06:59 GMT</lastBuildDate>
+		<pubDate>Tue, 07 May 2024 23:19:00 GMT</pubDate>
+		<lastBuildDate>Tue, 07 May 2024 23:19:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Meeting Summary NRC-INL AR Codes and Standards April 4 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24123A021</link>
+			<description>Meeting Summary</description>
+			<author>NRC/RES/DE</author>
+			<pubDate>2024-05-07 14:42:00</pubDate>
+		</item>
+		<item>
+			<title>News Release-24-029:  NRC Seeks Input on Draft Environmental Assessment for Hermes 2 Test Reactor Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24127A028</link>
+			<description>Press Release</description>
+			<author>NRC/OPA</author>
+			<pubDate>2024-05-06 09:52:00</pubDate>
+		</item>
+		<item>
+			<title>Environmental Review Considerations for Advanced Reactor Used Fuel - Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24123A170</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NMSS/DREFS/ELRB</author>
+			<pubDate>2024-05-02 15:02:00</pubDate>
+		</item>
+		<item>
+			<title>Summary of February 28, 2024 - Advanced Reactor Construction Oversight Process Public Workshop #1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24078A063</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-05-02 14:23:00</pubDate>
+		</item>
+		<item>
+			<title>M240423: Transcript - Strategic Programmatic Overview of the Fuel Facilities and the Spent Fuel Storage and Transportation Business Lines</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24123A018</link>
+			<description>Commission Meeting Transcript</description>
+			<author>NRC/OCM</author>
+			<pubDate>2024-05-02 08:35:00</pubDate>
+		</item>
 	</channel>
 </rss>
