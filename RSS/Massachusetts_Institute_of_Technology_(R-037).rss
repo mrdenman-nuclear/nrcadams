@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 07 May 2024 22:16:07 GMT</pubDate>
-		<lastBuildDate>Tue, 07 May 2024 22:16:07 GMT</lastBuildDate>
+		<pubDate>Tue, 07 May 2024 23:13:50 GMT</pubDate>
+		<lastBuildDate>Tue, 07 May 2024 23:13:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Advises that,except for licensees described in encl, decommissioning financial plan submissions from non-power reactor licensees appear to be in full compliance w/ 10CFR50.33(k) & 50.75.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20066D584</link>
+			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
+			<pubDate>2024-05-07 18:17:00</pubDate>
+		</item>
+	</channel>
 </rss>
