@@ -5,32 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 06 May 2024 23:14:01 GMT</pubDate>
-		<lastBuildDate>Mon, 06 May 2024 23:14:01 GMT</lastBuildDate>
+		<pubDate>Tue, 07 May 2024 14:14:38 GMT</pubDate>
+		<lastBuildDate>Tue, 07 May 2024 14:14:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Safety Evaluation for Hermes Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23158A268</link>
-			<description>Safety Evaluation Report</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2024-04-30 10:29:00</pubDate>
-		</item>
-		<item>
-			<title>Hermes CP Approved Safety Evaluation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23108A119</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-04-30 10:29:00</pubDate>
-		</item>
-		<item>
-			<title>2023/02/07 NRR E-mail Capture - Remaining preliminary chapters of Hermes construction permit application SE</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23065A010</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-04-30 10:29:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

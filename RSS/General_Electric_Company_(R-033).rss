@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 06 May 2024 23:14:03 GMT</pubDate>
-		<lastBuildDate>Mon, 06 May 2024 23:14:03 GMT</lastBuildDate>
+		<pubDate>Tue, 07 May 2024 14:14:40 GMT</pubDate>
+		<lastBuildDate>Tue, 07 May 2024 14:14:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Requests schedular exemption from third-party financial assurance for decommissioning of NRC-licensed facilities.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20065F009</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>GENERAL ELECTRIC CO.</author>
+			<pubDate>2024-05-06 19:35:00</pubDate>
+		</item>
 		<item>
 			<title>Requests that Commission grant specific exemptions from financial assurance instrument requirements.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20065E117</link>
@@ -66,41 +73,6 @@
 			<description>Guidance Document</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2024-05-03 08:58:00</pubDate>
-		</item>
-		<item>
-			<title>Vallecitos Nuclear Center License Transfer Safety Evaluation Report (Public Version)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24068A040</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-04-30 08:42:00</pubDate>
-		</item>
-		<item>
-			<title>Draft Conforming License Amendments - Vallecitos Nuclear Center License Transfer</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24039A020</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-04-30 08:41:00</pubDate>
-		</item>
-		<item>
-			<title>Order - Vallecitos Nuclear Center License Transfer</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24039A021</link>
-			<description>Order</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-04-30 08:41:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards IE Insp Repts 50-070/82-01 & 50-073/82-01 on 820629-0701.No noncompliance noted.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20063G987</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-04-30 07:25:00</pubDate>
-		</item>
-		<item>
-			<title>IE Insp Repts 50-070/82-01 & 50-073/82-01 on 820629-0701.No noncompliance noted.Major areas inspected:licensee actions to correct previously identified noncompliance,organization & staffing,radiation protection & emergency preparedness.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20063H000</link>
-			<description>INSPECTION REPORT, MANUFACTURER/VENDOR/ENGINEER, INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-04-30 07:25:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 06 May 2024 23:14:01 GMT</pubDate>
-		<lastBuildDate>Mon, 06 May 2024 23:14:01 GMT</lastBuildDate>
+		<pubDate>Tue, 07 May 2024 14:14:38 GMT</pubDate>
+		<lastBuildDate>Tue, 07 May 2024 14:14:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Agreement between US SFR Owner, LLC and TerraPower, LLC for Construction Permit Application for Kemmerer Power Station Unit 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24120A377</link>
+			<description>Letter</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2024-05-07 08:40:00</pubDate>
+		</item>
 		<item>
 			<title>Agreement between US SFR Owner, LLC, and TerraPower, LLC</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24123A242</link>
@@ -45,27 +52,6 @@
 			<description>Audit Plan</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2024-05-01 08:58:00</pubDate>
-		</item>
-		<item>
-			<title>NRC FORM 898 - Completeness Determination for TerraPower, LLC "Partial Flow Blockage Methodology," Revision 1 (L-2024-TOP-0010)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24107B050</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-04-30 08:40:00</pubDate>
-		</item>
-		<item>
-			<title>NRC FORM 898 - Completeness Determination for TerraPower, LLC "Design Basis Accident Methodology for Events with Radiological Release," Revision 0 (L-2024-TOP-0009)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24107B045</link>
-			<description>Topical Report</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-04-30 08:40:00</pubDate>
-		</item>
-		<item>
-			<title>EMAIL - Completeness Determination for TerraPower, LLC "Design Basis Accident Methodology for Events with Radiological Release," Revision 0 (L-2024-TOP-0009)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24107B046</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-04-30 08:40:00</pubDate>
 		</item>
 	</channel>
 </rss>

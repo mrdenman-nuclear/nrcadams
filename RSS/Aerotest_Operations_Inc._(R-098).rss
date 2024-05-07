@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 06 May 2024 23:14:03 GMT</pubDate>
-		<lastBuildDate>Mon, 06 May 2024 23:14:03 GMT</lastBuildDate>
+		<pubDate>Tue, 07 May 2024 14:14:40 GMT</pubDate>
+		<lastBuildDate>Tue, 07 May 2024 14:14:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,27 +31,6 @@
 			<description>E-Mail</description>
 			<author>Aerotest Operations, Inc</author>
 			<pubDate>2024-05-03 09:00:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards insp rept 50-228/94-01 on 940103-11.No violations noted.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20063J156</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-04-30 08:02:00</pubDate>
-		</item>
-		<item>
-			<title>Insp rept 50-228/94-01 on 940103-11.No violations noted. Major areas inspected:organization,mgt review & audit, experiments,reator operator requalification training,environ monitoring program & emergency preparedness program.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20063J169</link>
-			<description>INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-04-30 08:02:00</pubDate>
-		</item>
-		<item>
-			<title>Ack receipt of 790115 ltr informing NRC of corrective actions in response to 790105 notice of violation.Encl withheld (ref 10CFR2.790).</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20062G911</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-04-30 01:29:00</pubDate>
 		</item>
 	</channel>
 </rss>
