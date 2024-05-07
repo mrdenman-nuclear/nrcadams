@@ -26,6 +26,10 @@ The last update was at `r Sys.time() |> lubridate::ymd_hms() |> lubridate::with_
 The following code shows the user how they can generate RSS files to help keep updated with their favorite ADAMS search results.
 
 ```{r}
+
+here::here("docs", "RSS") |> dir.create(recursive = TRUE)
+
+
 last_week_in_dockets = nrcadams::docket_codex |>
   dplyr::pull(DocketNumber) |>
   nrcadams::search_docket(days_back = 7) |>
@@ -33,8 +37,6 @@ last_week_in_dockets = nrcadams::docket_codex |>
   dplyr::filter(!is.na(Project))
 
 
-
-here::here("docs", "RSS") |> dir.create(recursive = TRUE)
 
 
 nrcadams::docket_codex |>
@@ -88,6 +90,33 @@ if (length(ACRS) != 0) {
       )  
 }
 
+# Undocketed
+
+toobigtotrack <- c("Holtec", "GE", "Westinghouse")
+
+burning_ears = nrcadams::docket_codex |>
+  dplyr::filter(!Company %in% toobigtotrack) |>
+  dplyr::distinct(Company) |>
+  dplyr::pull(Company) |>
+  purrr::map_dfr(\(.x) {
+    nrcadams::search_undocketed(.x, days_back = 7) 
+    }
+  )
+
+nrcadams::docket_codex |>
+  dplyr::filter(!Company %in% toobigtotrack) |>
+  dplyr::distinct(Company) |>
+  dplyr::pull(Company) |>
+  purrr::walk(\(.x) {
+    burning_ears |>
+      dplyr::filter(Company == .x) |>
+      nrcadams::write_rss(
+        file = here::here("docs", "RSS", paste0(
+          .x |> stringr::str_replace_all(" ", "_")|> stringr::str_replace_all("/", "_"), ".rss")
+          ),
+        title = .x 
+        )
+  })
 
 
 ```
@@ -136,6 +165,21 @@ nrcadams::RTR_docket_codex |>
 ```
 
 # ACRS
+
+```{r}
+tibble::tibble(Project = "ACRS") |>
+  dplyr::mutate(`RSS File` = paste0(
+    "https://mrdenman-nuclear.github.io/nrcadams/RSS/",
+    Project,
+    ".rss"
+  )) |>
+  nrcadams::hyperlink_file_to_name(name_vct = `RSS File`, url_vct = `RSS File`)|>
+  DT::datatable(escape = FALSE)
+
+```
+
+
+# Undocketed Companies
 
 ```{r}
 tibble::tibble(Project = "ACRS") |>

@@ -33,14 +33,33 @@ adams_search_tail = function(content_lgl = TRUE) {
 #' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
 #' @return url segment for docket searches
 #' @keywords Internal
-adams_docket_numbers = function(docket_numbers = NA) {
+adams_docket_numbers = function(
+  docket_numbers = NA,
+  exclude = FALSE,
+  closing_bracket = TRUE
+) {
+
+  if(exclude) {
+    logic = "not"
+    search_prefix = ""
+  } else {
+    logic = "eq"
+    search_prefix = "_any"
+  }
+
+  if(closing_bracket) {
+    ending = ")"
+  } else {
+    ending = ""
+  }
+
   if(!all(is.na(docket_numbers))) {
     paste0(
-      "properties_search_any:!(",
+      "properties_search", search_prefix, ":!(",
       paste0(
-        "!(DocketNumber,eq,'", docket_numbers |> stringr::str_pad(8, pad = "0"), "','')"
+        "!(DocketNumber,", logic, ",'", docket_numbers |> stringr::str_pad(8, pad = "0"), "','')"
       ) |> stringr::str_c(collapse = ","),
-      ")"
+      ending
     )
   } else {
     ""

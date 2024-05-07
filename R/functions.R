@@ -172,7 +172,7 @@ make_results_tibble = function(adams_url, download = FALSE) {
   ) |>
     tidyr::separate_rows(DocketNumber) |>
     dplyr::mutate(
-      `Publish Date` = `Publish Date` - 4*3600,
+      `Publish Date` = `Publish Date` - 4 * 3600,
       DocketNumber = DocketNumber |> as.double()
     ) |>
     dplyr::arrange(dplyr::desc(`Publish Date`)) |>
@@ -185,6 +185,10 @@ make_results_tibble = function(adams_url, download = FALSE) {
     return(adams_tbl |> dplyr::filter(!is.na(DocketNumber)))
   }
 }
+
+
+
+
 
 
 #' Conduct a lengthy search on Docket Numbers
