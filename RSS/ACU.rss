@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 08 May 2024 19:13:03 GMT</pubDate>
-		<lastBuildDate>Wed, 08 May 2024 19:13:03 GMT</lastBuildDate>
+		<pubDate>Wed, 08 May 2024 20:16:31 GMT</pubDate>
+		<lastBuildDate>Wed, 08 May 2024 20:16:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Advises that Quality Mgt Program will not be incorporated into license by condition & allows licensee flexibility to make changes to program w/o obtaining prior NRC approval.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20069J332</link>
+			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
+			<pubDate>2024-05-08 16:04:00</pubDate>
+		</item>
+		<item>
+			<title>"Groundwater Restoration Rept for Rocky Mountain Energy- Halliburton-Mono Power Nine Mile Lake R&D In Situ U Project." One oversize map encl.Aperture card is available in PDR.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20069G733</link>
+			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>ROCKY MOUNTAIN ENERGY CO.</author>
+			<pubDate>2024-05-08 15:27:00</pubDate>
+		</item>
 		<item>
 			<title>License for Cabot Corp to export 500 ft zirconium Grade II seamless tubing to Canada.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20069F146</link>
@@ -206,20 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, INCOMING CORRESPONDENCE</description>
 			<author>PROCESS TECHNOLOGY OF NORTH JERSEY</author>
 			<pubDate>2024-05-07 17:45:00</pubDate>
-		</item>
-		<item>
-			<title>Mod 10,providing CY91 funds,to "Radiation Monitoring Program Requirements."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20066B175</link>
-			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
-			<author>CONNECTICUT, STATE OF, NRC OFFICE OF ADMINISTRATION (ADM)</author>
-			<pubDate>2024-05-07 17:03:00</pubDate>
-		</item>
-		<item>
-			<title>Notification of contract execution,Mod 10,to "Radiation Monitoring Program Requirements." Contractor:Radiological Health Program,Health & Welfare Bldg for State of NH.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20066A993</link>
-			<description>NOTIFICATION OF CONTRACT EXECUTION, TEXT-PROCUREMENT & CONTRACTS</description>
-			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
-			<pubDate>2024-05-07 16:58:00</pubDate>
 		</item>
 	</channel>
 </rss>
