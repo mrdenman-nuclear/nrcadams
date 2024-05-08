@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 08 May 2024 17:15:06 GMT</pubDate>
-		<lastBuildDate>Wed, 08 May 2024 17:15:06 GMT</lastBuildDate>
+		<pubDate>Wed, 08 May 2024 18:19:44 GMT</pubDate>
+		<lastBuildDate>Wed, 08 May 2024 18:19:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Draft "Draft Regulatory Analysis 10CFR51 Proposed Amends: Reactor License Renewal."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20069E391</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>SCIENCE and ENGINEERING ASSOCIATES, INC.</author>
+			<pubDate>2024-05-08 14:10:00</pubDate>
+		</item>
+		<item>
+			<title>Requests Commission approval to publish notice of proposed rulemaking in the FR re rule on "Radiological Criteria for Decommissioning."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20069E347</link>
+			<description>COMMISSION PAPER, TEXT-SAFETY REPORT</description>
+			<author>NRC OFFICE OF THE EXECUTIVE DIRECTOR FOR OPERATIONS (EDO)</author>
+			<pubDate>2024-05-08 14:08:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards draft proposed rule,together w/supporting documents & draft Commission paper re proposed environ protection rule on nuclear power plant license renewal.Requests CRGR review at 910528 Committee meeting.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20069E199</link>
+			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR REGULATORY RESEARCH (RES)</author>
+			<pubDate>2024-05-08 14:02:00</pubDate>
+		</item>
 		<item>
 			<title>"Additional Info on Monitored Retrievable Storage."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20069A180</link>
@@ -199,27 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
 			<pubDate>2024-05-07 10:47:00</pubDate>
-		</item>
-		<item>
-			<title>Board Notification 90-011:forwards JC Stauter 900718 ltr to NRC requesting amend to License STA-583 for authorization of onsite receipt & disposal of offsite contaminated soils, notice of environ assessment & related matls.Svc list encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20065F387</link>
-			<description>BOARD NOTIFICATION (TO LICENSING BOARD OR LICENSING, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
-			<pubDate>2024-05-07 09:40:00</pubDate>
-		</item>
-		<item>
-			<title>Oyster Creek Nuclear Generating Station - Annual Radioactive Environmental Operating Report for 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24120A041</link>
-			<description>Environmental Monitoring Report, Letter, Periodic Monitoring Report (Radiological/Environmental)</description>
-			<author>Holtec Decommissioning International, LLC</author>
-			<pubDate>2024-05-07 08:40:00</pubDate>
-		</item>
-		<item>
-			<title>Virgil C. Summer, Unit 1, Submittal of Annual Radiological Environmental Operating Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24120A207</link>
-			<description>Annual Operating Report, Environmental Monitoring Report, Letter</description>
-			<author>Dominion Energy South Carolina, Inc</author>
-			<pubDate>2024-05-07 08:40:00</pubDate>
 		</item>
 	</channel>
 </rss>
