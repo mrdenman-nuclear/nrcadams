@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 08 May 2024 16:18:44 GMT</pubDate>
-		<lastBuildDate>Wed, 08 May 2024 16:18:44 GMT</lastBuildDate>
+		<pubDate>Wed, 08 May 2024 17:15:06 GMT</pubDate>
+		<lastBuildDate>Wed, 08 May 2024 17:15:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards charter for ACMUI,per Section 9 of Federal Advisory Committee Act,extending life of committee through 960404.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20069A816</link>
+			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF CONGRESSIONAL AFFAIRS (OCA)</author>
+			<pubDate>2024-05-08 12:20:00</pubDate>
+		</item>
+		<item>
+			<title>Rev 0 to WVNS-SD-63SC, "Sys Description VF Steam & Condensate Sys 63SC."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20069A868</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>WEST VALLEY NUCLEAR SERVICES CO., INC.</author>
+			<pubDate>2024-05-08 12:20:00</pubDate>
+		</item>
+		<item>
+			<title>Voided matls licensing action for Siemens Analytical X-Ray Instruments.Control:021443.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20069A711</link>
+			<description>DKT 30 MTL BYPRODUCT, INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I)</author>
+			<pubDate>2024-05-08 12:16:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards DOE/EA-0424, "Final Remedial Investigation/ Feasibility Study-Environ Assessment for Monticello,UT,U Mill Tailings Site."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20069A682</link>
@@ -199,27 +220,6 @@
 			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, TRANSCRIPTS, DEPOSITIONS, NARRATIVE TESTIMONY</description>
 			<author>NRC</author>
 			<pubDate>2024-05-07 11:23:00</pubDate>
-		</item>
-		<item>
-			<title>Application for amend to License SNM-561,modifying allowable removable surface contamination limits for unrestricted release to agree w/max removable surface contamination levels depicted in "Guidelines for Decontamination of...."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20065J181</link>
-			<description>APPLICATION,SNM LICENSE & AMEND /RENEWAL TO LICENSE, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>ARMY, DEPT. OF, ARMAMENT RESEARCH, DEVELOPMENT and</author>
-			<pubDate>2024-05-07 10:54:00</pubDate>
-		</item>
-		<item>
-			<title>License for Edlow International Co to export 1,907 Kg U-235 contained in 42,372 Kg U,as UF6 to Korea.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20065H090</link>
-			<description>LICENSE, IMPORT/EXPORT & AMENDMENTS, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>NRC OFFICE OF INTERNATIONAL PROGRAMS (OIP)</author>
-			<pubDate>2024-05-07 10:27:00</pubDate>
-		</item>
-		<item>
-			<title>Revision 4 to "RADCAL Gamma Thermometers as Local Fuel Power Measuring Devices for Use in Cores of PWRs."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20065G954</link>
-			<description>REPORTS-TOPICAL (BY MANUFACTURERS-VENDORS ETC), TEXT-SAFETY REPORT</description>
-			<author>SCANDPOWER,INC.</author>
-			<pubDate>2024-05-07 10:23:00</pubDate>
 		</item>
 	</channel>
 </rss>
