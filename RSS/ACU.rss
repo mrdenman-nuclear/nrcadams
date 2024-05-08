@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 08 May 2024 15:23:42 GMT</pubDate>
-		<lastBuildDate>Wed, 08 May 2024 15:23:42 GMT</lastBuildDate>
+		<pubDate>Wed, 08 May 2024 16:18:44 GMT</pubDate>
+		<lastBuildDate>Wed, 08 May 2024 16:18:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards DOE/EA-0424, "Final Remedial Investigation/ Feasibility Study-Environ Assessment for Monticello,UT,U Mill Tailings Site."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20069A682</link>
+			<description>CORRESPONDENCE-LETTERS, EXTERNAL CORRESPONDENCE</description>
+			<author>ENERGY, DEPT. OF</author>
+			<pubDate>2024-05-08 12:15:00</pubDate>
+		</item>
+		<item>
+			<title>"Review of Dry Spent Fuel Storage Experience."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20069A185</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>BATTELLE MEMORIAL INSTITUTE, PACIFIC NORTHWEST NATION</author>
+			<pubDate>2024-05-08 12:00:00</pubDate>
+		</item>
 		<item>
 			<title>Mod 7,increasing obligated amount to listed amount,to "Verbatim Reporting Svcs."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20067C453</link>
@@ -206,20 +220,6 @@
 			<description>REPORTS-TOPICAL (BY MANUFACTURERS-VENDORS ETC), TEXT-SAFETY REPORT</description>
 			<author>SCANDPOWER,INC.</author>
 			<pubDate>2024-05-07 10:23:00</pubDate>
-		</item>
-		<item>
-			<title>Notification of contract execution,Mod 11,to "Internal Control Reviews." Contractor:SBA/Irving Burton Assoc,Inc.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20065E829</link>
-			<description>NOTIFICATION OF CONTRACT EXECUTION, TEXT-PROCUREMENT & CONTRACTS</description>
-			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
-			<pubDate>2024-05-06 19:27:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards draft reg guide (DG-1009) on std format & content of technical info for applications to renew nuclear power plant OLs & draft NUREG-1299, "SRP License Renewal," for review.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20065C935</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR REGULATORY RESEARCH (RES)</author>
-			<pubDate>2024-05-06 18:27:00</pubDate>
 		</item>
 	</channel>
 </rss>

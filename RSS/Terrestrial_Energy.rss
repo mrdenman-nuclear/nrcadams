@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 08 May 2024 15:23:42 GMT</pubDate>
-		<lastBuildDate>Wed, 08 May 2024 15:23:42 GMT</lastBuildDate>
+		<pubDate>Wed, 08 May 2024 16:18:44 GMT</pubDate>
+		<lastBuildDate>Wed, 08 May 2024 16:18:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Additional Info on Monitored Retrievable Storage."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20069A180</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>ENERGY, DEPT. OF</author>
+			<pubDate>2024-05-08 12:00:00</pubDate>
+		</item>
+		<item>
+			<title>"Annual Rept to Congress."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20069A098</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>ENERGY, DEPT. OF</author>
+			<pubDate>2024-05-08 11:57:00</pubDate>
+		</item>
+		<item>
+			<title>"Statement of Work for Architect-Engineer Svcs:Monitored Retrievable Storage (MRS) Facility Project D-360."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20069A065</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>BATTELLE MEMORIAL INSTITUTE, PACIFIC NORTHWEST NATION</author>
+			<pubDate>2024-05-08 11:56:00</pubDate>
+		</item>
 		<item>
 			<title>North Anna Power Station, Unit Nos. 1 and 2 - Independent Spent Fuel Storage Installation (SFSI) - Annual Radiological Environmental Operating Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24110A146</link>
@@ -199,27 +220,6 @@
 			<description>Annual Operating Report, Environmental Monitoring Report, Letter</description>
 			<author>Dominion Energy South Carolina, Inc</author>
 			<pubDate>2024-05-07 08:40:00</pubDate>
-		</item>
-		<item>
-			<title>Diablo Canyon, Units 1 and 2 - 2023 Annual Radioactive Effluent Release Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24120A379</link>
-			<description>Environmental Monitoring Report, Letter, Periodic Monitoring Report (Radiological/Environmental)</description>
-			<author>Pacific Gas and Electric Co</author>
-			<pubDate>2024-05-07 08:40:00</pubDate>
-		</item>
-		<item>
-			<title>Application for amend to License SUB-1357,authorizing possession of depleted U in form of U oxide contamination at sites in Newburgh Heights,OH.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20065F128</link>
-			<description>APPLICATION,SOURCE MTL.LICENSE & AMEND/RENEWAL TO, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>CHEMETRON CORP.</author>
-			<pubDate>2024-05-06 19:40:00</pubDate>
-		</item>
-		<item>
-			<title>"Review of Scenario Selection Approaches for Performance Assessment of High-Level Waste Repositories & Related Issues."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20065D750</link>
-			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
-			<author>CENTER FOR NUCLEAR WASTE REGULATORY ANALYSES</author>
-			<pubDate>2024-05-06 18:58:00</pubDate>
 		</item>
 	</channel>
 </rss>
