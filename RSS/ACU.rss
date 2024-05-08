@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 08 May 2024 14:15:52 GMT</pubDate>
-		<lastBuildDate>Wed, 08 May 2024 14:15:52 GMT</lastBuildDate>
+		<pubDate>Wed, 08 May 2024 15:15:46 GMT</pubDate>
+		<lastBuildDate>Wed, 08 May 2024 15:15:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Mod 7,increasing obligated amount to listed amount,to "Verbatim Reporting Svcs."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20067C453</link>
+			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
+			<author>ANN RILEY and ASSOCIATES, NRC OFFICE OF ADMINISTRATION (ADM)</author>
+			<pubDate>2024-05-08 10:46:00</pubDate>
+		</item>
+		<item>
+			<title>Contract: "Replace Electronic Infrastructure Software Hardware & Personnel Computer Support," awarded to SBA & Tri-Cor Industries,Inc.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20067C332</link>
+			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
+			<author>AFFILIATION NOT ASSIGNED, NRC OFFICE OF ADMINISTRATION (ADM), SMALL BUSINESS ADMINISTRATION</author>
+			<pubDate>2024-05-08 10:40:00</pubDate>
+		</item>
 		<item>
 			<title>"Lakeview,OR UMTRAP Draft Completion Rept,Vols 1-5F."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20065F358</link>
@@ -206,20 +220,6 @@
 			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
 			<author>NRC OFFICE OF NUCLEAR REGULATORY RESEARCH (RES)</author>
 			<pubDate>2024-05-06 18:27:00</pubDate>
-		</item>
-		<item>
-			<title>Application for matl/byproduct license,authorizing J Krohmer as radiation physicist & WJ Fayen as user of I-131 & P-32, as sterile solution,for diagnosis & treatment of thyroid diseases & determination of blood vol.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20065B396</link>
-			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, DKT 30 MTL BYPRODUCT, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>LAKEWOOD HOSP., LAKEWOOD, OH</author>
-			<pubDate>2024-05-06 17:27:00</pubDate>
-		</item>
-		<item>
-			<title>Contract: "Radiation Monitoring Program Requirements," awarded to NC Dept of Human Resources.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20065A419</link>
-			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
-			<author>NORTH CAROLINA, STATE OF, NRC OFFICE OF ADMINISTRATION (ADM)</author>
-			<pubDate>2024-05-06 16:58:00</pubDate>
 		</item>
 	</channel>
 </rss>
