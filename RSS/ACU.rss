@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 08 May 2024 21:16:29 GMT</pubDate>
-		<lastBuildDate>Wed, 08 May 2024 21:16:29 GMT</lastBuildDate>
+		<pubDate>Wed, 08 May 2024 22:14:54 GMT</pubDate>
+		<lastBuildDate>Wed, 08 May 2024 22:14:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Nuclear Power Plant Sys Sourcebook:Fitzpatrick."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20069N026</link>
+			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
+			<author>SCIENCE APPLICATIONS INTERNATIONAL CORP. (FORMERLY</author>
+			<pubDate>2024-05-08 18:09:00</pubDate>
+		</item>
+		<item>
+			<title>"Nuclear Power Plant Sys Sourcebook:Limerick."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20069N023</link>
+			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
+			<author>SCIENCE APPLICATIONS INTERNATIONAL CORP. (FORMERLY</author>
+			<pubDate>2024-05-08 18:08:00</pubDate>
+		</item>
+		<item>
+			<title>Contract: "Operation & Maint of Radiation Exposure Info Reporting Sys (REIRS) Database," awarded to SAIC.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20069M349</link>
+			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
+			<author>NRC OFFICE OF ADMINISTRATION (ADM), SCIENCE APPLICATIONS INTERNATIONAL CORP. (FORMERLY</author>
+			<pubDate>2024-05-08 17:30:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards copy of Commission biweekly notice of applications & amends to operating licenses involving NSHC.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20069M162</link>
+			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
+			<pubDate>2024-05-08 17:24:00</pubDate>
+		</item>
 		<item>
 			<title>License for Sigma Chemical Co to export 5 kg deuterium oxide to South Korea.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20069J737</link>
@@ -192,34 +220,6 @@
 			<description>NRC TECHNICAL REPORT, TEXT-SAFETY REPORT</description>
 			<author>NRC</author>
 			<pubDate>2024-05-07 19:59:00</pubDate>
-		</item>
-		<item>
-			<title>"Envirogen Radiation Safety Guide."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20066G244</link>
-			<description>DKT 30 MTL BYPRODUCT, TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
-			<author>ENVIROGEN, INC.</author>
-			<pubDate>2024-05-07 19:38:00</pubDate>
-		</item>
-		<item>
-			<title>Requests order be issued for telephone svc to NRC ofc in Middletown,PA.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20066F220</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
-			<pubDate>2024-05-07 19:05:00</pubDate>
-		</item>
-		<item>
-			<title>Requests orders be issued for telephone svc in Middletown, PA.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20066F225</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO OTHER U.S. GOVERNMENT AGENCY/DEPARTMENT, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
-			<pubDate>2024-05-07 19:05:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of 860219 investigative interview of DR Hicks in Knoxville,TN.Pp 1-101.Related info encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20066E006</link>
-			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, TRANSCRIPTS, DEPOSITIONS, NARRATIVE TESTIMONY</description>
-			<author>AFFILIATION NOT ASSIGNED</author>
-			<pubDate>2024-05-07 18:33:00</pubDate>
 		</item>
 	</channel>
 </rss>
