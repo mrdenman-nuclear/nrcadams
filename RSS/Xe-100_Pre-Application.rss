@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 07 May 2024 23:18:51 GMT</pubDate>
-		<lastBuildDate>Tue, 07 May 2024 23:18:51 GMT</lastBuildDate>
+		<pubDate>Wed, 08 May 2024 14:15:43 GMT</pubDate>
+		<lastBuildDate>Wed, 08 May 2024 14:15:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submittal of X Energy, LLC (X-energy) Xe-100 Licensing Topical Report Transient and Safety Analysis Methodology</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24121A286</link>
+			<description>Letter</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2024-05-08 08:32:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1: Affidavit Supporting Request for Withholding from Public Disclosure (10 CFR 2.390)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24121A287</link>
+			<description>Legal-Affidavit</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2024-05-08 08:32:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: Rev. 1 to 007834, "Xe-100 Licensing Topical Report Transient and Safety Analysis Methodology"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24121A288</link>
+			<description>Topical Report</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2024-05-08 08:32:00</pubDate>
+		</item>
 		<item>
 			<title>December 12 2023 Meeting Summary of Public Meeting With X-Energy to Discuss Principal Design Criteria</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24109A287</link>
@@ -31,20 +52,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2024-05-03 09:00:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Form 898 Topical Report Completeness Determination - X-energy Training Programs Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24115A181</link>
-			<description>Topical Report</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-05-01 08:59:00</pubDate>
-		</item>
-		<item>
-			<title>Email to X-Energy transmitting Acceptance Determination for Training Programs Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24115A182</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-05-01 08:59:00</pubDate>
 		</item>
 	</channel>
 </rss>
