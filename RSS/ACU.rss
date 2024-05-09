@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 May 2024 21:16:14 GMT</pubDate>
-		<lastBuildDate>Thu, 09 May 2024 21:16:14 GMT</lastBuildDate>
+		<pubDate>Thu, 09 May 2024 22:14:47 GMT</pubDate>
+		<lastBuildDate>Thu, 09 May 2024 22:14:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards ltr received from J Sande re waste isolation plant project,for consideration & response.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20072G046</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>SENATE</author>
+			<pubDate>2024-05-09 17:43:00</pubDate>
+		</item>
+		<item>
+			<title>"Maine Yankee Seismic Analysis."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20072F569</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>YANKEE ATOMIC ELECTRIC CO.</author>
+			<pubDate>2024-05-09 17:31:00</pubDate>
+		</item>
+		<item>
+			<title>"TMI Action Plan Tracking Sys," Jan 1983.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20072F135</link>
+			<description>INDEXES, TEXT-BIBLIOGRAPHIC & CATALOGS & INDEXES</description>
+			<author>NRC OFFICE OF RESOURCE MANAGEMENT (ORM)</author>
+			<pubDate>2024-05-09 17:18:00</pubDate>
+		</item>
 		<item>
 			<title>"1981 Excavations on White Mesa,San Juan County,UT" final rept.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20072D175</link>
@@ -199,27 +220,6 @@
 			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
 			<author>NUCLEAR ENERGY SERVICES, INC.</author>
 			<pubDate>2024-05-09 06:40:00</pubDate>
-		</item>
-		<item>
-			<title>Voided matls licensing action for license 48-02122-05 for Luther Hosp.Control:390629.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20070V262</link>
-			<description>DKT 30 MTL BYPRODUCT, INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION III)</author>
-			<pubDate>2024-05-09 06:34:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of ACRS Subcommittee on Extreme External Phenomena 820811 meeting w/NRR & RES in Washington,DC re ACRS recommendations on evaluation of seismic design margins for earthquakes more severe than SSE.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20070V073</link>
-			<description>MEETING MINUTES & NOTES--CORRESPONDENCE, MEETING SUMMARIES-INTERNAL (NON-TRANSCRIPT)</description>
-			<author>NRC ADVISORY COMMITTEE ON REACTOR SAFEGUARDS (ACRS)</author>
-			<pubDate>2024-05-09 06:26:00</pubDate>
-		</item>
-		<item>
-			<title>Voided matls licensing action for license 20-01919-01 for Crane & Co,Inc.Control:110337.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20070U895</link>
-			<description>DKT 30 MTL BYPRODUCT, INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I)</author>
-			<pubDate>2024-05-09 06:21:00</pubDate>
 		</item>
 	</channel>
 </rss>

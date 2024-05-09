@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 May 2024 21:16:14 GMT</pubDate>
-		<lastBuildDate>Thu, 09 May 2024 21:16:14 GMT</lastBuildDate>
+		<pubDate>Thu, 09 May 2024 22:14:47 GMT</pubDate>
+		<lastBuildDate>Thu, 09 May 2024 22:14:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards ltr received from J Sande re waste isolation plant project,for consideration & response.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20072G046</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>SENATE</author>
+			<pubDate>2024-05-09 17:43:00</pubDate>
+		</item>
+		<item>
+			<title>"Maine Yankee Seismic Analysis."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20072F569</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>YANKEE ATOMIC ELECTRIC CO.</author>
+			<pubDate>2024-05-09 17:31:00</pubDate>
+		</item>
+		<item>
+			<title>Amends 89 & 81 to Licenses DPR-21 & DPR-65,respectively, deleting App B ETS re nonradiological water quality-related requirements.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20072F243</link>
+			<description>OPERATING LICENSES & AMENDMENTS, TEXT-LICENSE APPLICATIONS & PERMITS</description>
+			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
+			<pubDate>2024-05-09 17:21:00</pubDate>
+		</item>
 		<item>
 			<title>"Partial Response to NRC Inquiry re Environ Assessment."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20072E448</link>
@@ -199,27 +220,6 @@
 			<description>OPERATING LICENSES-APPLIATION TO AMEND-RENEW EXISTING, TEXT-LICENSE APPLICATIONS & PERMITS</description>
 			<author>Northeast Nuclear Energy Co (NNECO), Northeast Utilities</author>
 			<pubDate>2024-05-09 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>"Radiological Survey & Review of TX Instruments Complex, Attleboro,MA."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071B745</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>TEXAS INSTRUMENTS, INC.</author>
-			<pubDate>2024-05-09 08:02:00</pubDate>
-		</item>
-		<item>
-			<title>Comments on DOE topical rept "Evaluation of Potentially Adverse Condition 'Evidence of Extreme Erosion During Quaternary Period' at Yucca Mountain."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071B186</link>
-			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
-			<author>CENTER FOR NUCLEAR WASTE REGULATORY ANALYSES</author>
-			<pubDate>2024-05-09 07:50:00</pubDate>
-		</item>
-		<item>
-			<title>Requests Commission approval of actions & approach that NRC plans to take to terminate licenses at Cimarron site & of omission of license reopener clause.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071A803</link>
-			<description>COMMISSION PAPER, TEXT-SAFETY REPORT</description>
-			<author>NRC OFFICE OF THE EXECUTIVE DIRECTOR FOR OPERATIONS (EDO)</author>
-			<pubDate>2024-05-09 07:36:00</pubDate>
 		</item>
 	</channel>
 </rss>
