@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 May 2024 18:18:53 GMT</pubDate>
-		<lastBuildDate>Thu, 09 May 2024 18:18:53 GMT</lastBuildDate>
+		<pubDate>Thu, 09 May 2024 19:13:28 GMT</pubDate>
+		<lastBuildDate>Thu, 09 May 2024 19:13:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Fermi, Unit 2, Current Facility Operating License NPF-43, Technical Specifications, Revised 05/09/2024.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053060228</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-05-09 15:10:00</pubDate>
+		</item>
 		<item>
 			<title>Trip rept of 940522-27 visit to Las Vegas,NV to attend annual Intl High-Level Radwaste Mgt Conference re high-level [nuclear] waste underground repository programs,relating to Yucca Mountain.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071Q329</link>
@@ -213,13 +220,6 @@
 			<description>TECHNICAL SPECIFICATIONS-ENVIRONMENTAL, TEXT-ENVIRONMENTAL REPORTS</description>
 			<author>CONNECTICUT YANKEE ATOMIC POWER CO.</author>
 			<pubDate>2024-05-09 07:31:00</pubDate>
-		</item>
-		<item>
-			<title>Responds to NRC 901106 ltr re violations noted in insp rept 30-02942/90-02.Corrective actions:written workers guide revised & improved to provide appropriate info & procedures modified.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20070V169</link>
-			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, INCOMING CORRESPONDENCE</description>
-			<author>THOMAS JEFFERSON UNIV., PHILADELPHIA, PA</author>
-			<pubDate>2024-05-09 06:30:00</pubDate>
 		</item>
 	</channel>
 </rss>

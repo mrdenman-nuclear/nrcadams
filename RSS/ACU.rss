@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 May 2024 18:18:53 GMT</pubDate>
-		<lastBuildDate>Thu, 09 May 2024 18:18:53 GMT</lastBuildDate>
+		<pubDate>Thu, 09 May 2024 19:13:28 GMT</pubDate>
+		<lastBuildDate>Thu, 09 May 2024 19:13:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Revises regulations to obtain Commission approval re proposed & interim final regulations implementing legislation authorizing issuance of temporary OLs & requested OL amends involving no significant hazards.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20072B125</link>
+			<description>COMMISSION PAPER, TEXT-SAFETY REPORT</description>
+			<author>NRC OFFICE OF THE EXECUTIVE DIRECTOR FOR OPERATIONS (EDO)</author>
+			<pubDate>2024-05-09 15:10:00</pubDate>
+		</item>
 		<item>
 			<title>Discusses review of LER failure data for reactor protection sys electrical & mechanical components.No basis found to support industry intuitive guess that ratio of electrical to mechanical failures is 10 to 1.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071P551</link>
@@ -213,13 +220,6 @@
 			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST REPORT</description>
 			<author>AFFILIATION NOT ASSIGNED</author>
 			<pubDate>2024-05-09 04:42:00</pubDate>
-		</item>
-		<item>
-			<title>Ack receipt of 900813,930618,940318 & 24 submittals of financial assurance for decommissioning.Decommissioning funding plan including actual cost estimate should be updated at time of license renewal.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20070R353</link>
-			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I)</author>
-			<pubDate>2024-05-09 04:18:00</pubDate>
 		</item>
 	</channel>
 </rss>
