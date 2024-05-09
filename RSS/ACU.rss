@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 May 2024 20:15:51 GMT</pubDate>
-		<lastBuildDate>Thu, 09 May 2024 20:15:51 GMT</lastBuildDate>
+		<pubDate>Thu, 09 May 2024 21:16:14 GMT</pubDate>
+		<lastBuildDate>Thu, 09 May 2024 21:16:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"1981 Excavations on White Mesa,San Juan County,UT" final rept.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20072D175</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>PLANO ARCHAEOLOGICAL CONSULTANTS</author>
+			<pubDate>2024-05-09 16:17:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards updated P&ID & general arrangement drawing list & drawings & Rev 1 to WVNS-SD-63H, "Sys Description Off-Gas & Vessel Vent Sys Sys 63H" for Vitrification Facility NRC Readiness Notebook.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20072D085</link>
@@ -213,13 +220,6 @@
 			<description>DKT 30 MTL BYPRODUCT, INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I)</author>
 			<pubDate>2024-05-09 06:21:00</pubDate>
-		</item>
-		<item>
-			<title>Proposed Tech Specs re transition to B&W nuclear fuel.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20070T423</link>
-			<description>TECHNICAL SPECIFICATIONS, TECHNICAL SPECIFICATIONS & TEST REPORTS</description>
-			<author>PORTLAND GENERAL ELECTRIC CO.</author>
-			<pubDate>2024-05-09 05:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
