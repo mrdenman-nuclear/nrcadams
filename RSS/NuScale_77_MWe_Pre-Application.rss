@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 08 May 2024 23:16:47 GMT</pubDate>
-		<lastBuildDate>Wed, 08 May 2024 23:16:47 GMT</lastBuildDate>
+		<pubDate>Thu, 09 May 2024 14:16:10 GMT</pubDate>
+		<lastBuildDate>Thu, 09 May 2024 14:16:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>NuScale Power, LLC, Response to NRC Request for Additional Information No. 005 (RAI-10089-R1) on the NuScale Standard Design Approval Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24122C615</link>
+			<description>Letter, Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-05-09 08:41:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC Response to NRC Request for Additional Information No. 009 (RAI-10106) on the NuScale Standard Design Approval Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24122C612</link>
+			<description>Letter, Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-05-09 08:40:00</pubDate>
+		</item>
+	</channel>
 </rss>
