@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 May 2024 22:14:47 GMT</pubDate>
-		<lastBuildDate>Thu, 09 May 2024 22:14:47 GMT</lastBuildDate>
+		<pubDate>Thu, 09 May 2024 23:15:38 GMT</pubDate>
+		<lastBuildDate>Thu, 09 May 2024 23:15:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Safety Aspects of Mulheim-Karlich Plant in View of TMI-2 Accident."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20072K081</link>
+			<description>REPORTS-TOPICAL (BY MANUFACTURERS-VENDORS ETC), TEXT-SAFETY REPORT</description>
+			<author>BABCOCK and WILCOX CO.</author>
+			<pubDate>2024-05-09 19:07:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards SCR requested in ltr,dtd 930723,for Nuclear Metals, Inc holding basin,as amended to include addl info requested.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20072J228</link>
+			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, INCOMING CORRESPONDENCE</description>
+			<author>NUCLEAR METALS, INC.</author>
+			<pubDate>2024-05-09 18:46:00</pubDate>
+		</item>
+		<item>
+			<title>Contract: "Radiation Monitoring Program Requirements," awarded to State of VA.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20072J155</link>
+			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
+			<author>NRC OFFICE OF ADMINISTRATION (ADM), VIRGINIA, COMMONWEALTH OF</author>
+			<pubDate>2024-05-09 18:43:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards ltr received from J Sande re waste isolation plant project,for consideration & response.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20072G046</link>
@@ -199,27 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION III)</author>
 			<pubDate>2024-05-09 07:22:00</pubDate>
-		</item>
-		<item>
-			<title>Contract: "Acquisition of Laser Video Discs,Proprietary Software,Hardware,Perpetual Corporate License & Training," awarded to Computer Aided Training Co.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071A054</link>
-			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
-			<author>COMPUTER AIDED TRAINING CO., NRC OFFICE OF ADMINISTRATION (ADM)</author>
-			<pubDate>2024-05-09 07:08:00</pubDate>
-		</item>
-		<item>
-			<title>License for Edlow Intl Co to export 1,069kg of U-235 containing 28,499kg U enriched to 3.75 w/o max,to Korea.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20070V943</link>
-			<description>LICENSE, IMPORT/EXPORT & AMENDMENTS, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>NRC OFFICE OF GOVERNMENTAL and PUBLIC AFFAIRS (GPA)</author>
-			<pubDate>2024-05-09 06:56:00</pubDate>
-		</item>
-		<item>
-			<title>Rev 3 to "Safety-Related Electrical Equipment Anchorages for LACBWR." Related info encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20070V392</link>
-			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>NUCLEAR ENERGY SERVICES, INC.</author>
-			<pubDate>2024-05-09 06:40:00</pubDate>
 		</item>
 	</channel>
 </rss>
