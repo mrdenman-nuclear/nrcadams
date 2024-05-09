@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 May 2024 17:14:37 GMT</pubDate>
-		<lastBuildDate>Thu, 09 May 2024 17:14:37 GMT</lastBuildDate>
+		<pubDate>Thu, 09 May 2024 18:18:53 GMT</pubDate>
+		<lastBuildDate>Thu, 09 May 2024 18:18:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Discusses review of LER failure data for reactor protection sys electrical & mechanical components.No basis found to support industry intuitive guess that ratio of electrical to mechanical failures is 10 to 1.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071P551</link>
+			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
+			<pubDate>2024-05-09 13:43:00</pubDate>
+		</item>
 		<item>
 			<title>Solicits proposals for 11th water reactor research meeting. Summary,instructions & solicitation package encl.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071N289</link>
@@ -213,13 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I)</author>
 			<pubDate>2024-05-09 04:18:00</pubDate>
-		</item>
-		<item>
-			<title>Submits update of safety assessment re 900719 meeting held in response to survey results of MOV data supplied by BWROG on BWR containment isolation valves incapable of isolating blowdown flow from postulated pipe break.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20070R280</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
-			<pubDate>2024-05-09 04:15:00</pubDate>
 		</item>
 	</channel>
 </rss>
