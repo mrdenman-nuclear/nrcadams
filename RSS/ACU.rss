@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 May 2024 15:16:56 GMT</pubDate>
-		<lastBuildDate>Thu, 09 May 2024 15:16:56 GMT</lastBuildDate>
+		<pubDate>Thu, 09 May 2024 16:18:33 GMT</pubDate>
+		<lastBuildDate>Thu, 09 May 2024 16:18:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>QA Program Insp Rept 99900031/83-01 on 830228-0303. Noncompliance noted:no documented evidence that committed training of pump engineering personnel re HX design accomplished.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071K400</link>
+			<description>INSPECTION REPORT, MANUFACTURER/VENDOR/ENGINEER, INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
+			<pubDate>2024-05-09 11:30:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards results from first long-term tests of decontaminated sludge wash cement-waste Type I &  Type V portland cement.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071K173</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>ENERGY, DEPT. OF</author>
+			<pubDate>2024-05-09 11:21:00</pubDate>
+		</item>
 		<item>
 			<title>Mod 5,deobligating funds,to "Source Term Characterization Resulting From Explosively-Caused Secondary Violations of Spent Fuel Shipping Casks."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071J686</link>
@@ -206,20 +220,6 @@
 			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
 			<author>WESTINGHOUSE ELECTRIC COMPANY, DIV OF CBS CORP.</author>
 			<pubDate>2024-05-09 04:08:00</pubDate>
-		</item>
-		<item>
-			<title>"Nuclear Power Plant Sys Sourcebook,Yankee Rowe."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20070Q781</link>
-			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
-			<author>SCIENCE APPLICATIONS INTERNATIONAL CORP. (FORMERLY</author>
-			<pubDate>2024-05-09 03:57:00</pubDate>
-		</item>
-		<item>
-			<title>"Nuclear Power Plant Sys Sourcebook,Maine Yankee."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20070Q621</link>
-			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
-			<author>SCIENCE APPLICATIONS INTERNATIONAL CORP. (FORMERLY</author>
-			<pubDate>2024-05-09 03:52:00</pubDate>
 		</item>
 	</channel>
 </rss>

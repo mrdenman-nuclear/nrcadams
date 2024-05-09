@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 May 2024 15:16:56 GMT</pubDate>
-		<lastBuildDate>Thu, 09 May 2024 15:16:56 GMT</lastBuildDate>
+		<pubDate>Thu, 09 May 2024 16:18:33 GMT</pubDate>
+		<lastBuildDate>Thu, 09 May 2024 16:18:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Rev 4 to EMF-14, "Suppl to Applicant Environ Rept."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071L055</link>
+			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>SIEMENS POWER CORP. (FORMERLY SIEMENS NUCLEAR POWER</author>
+			<pubDate>2024-05-09 11:44:00</pubDate>
+		</item>
+		<item>
+			<title>Informs of training course on "Gas & Oil Well Logging for Regulatory Personnel" on 941031-1104.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071K072</link>
+			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF STATE PROGRAMS (OSP)</author>
+			<pubDate>2024-05-09 11:19:00</pubDate>
+		</item>
 		<item>
 			<title>"Final TER for Proposed Remedial Action at Grand Junction U Mill Tailings Site,Grand Junction,CO UMTRA Project."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071J871</link>
@@ -206,20 +220,6 @@
 			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
 			<author>INTERIOR, DEPT. OF, GEOLOGICAL SURVEY</author>
 			<pubDate>2024-05-09 04:01:00</pubDate>
-		</item>
-		<item>
-			<title>"EA of Remedial Action at Slick Rock U Mill Tailings Sites Slick Rock,CO."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20070P291</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>JACOBS ENGINEERING GROUP, INC.</author>
-			<pubDate>2024-05-09 03:32:00</pubDate>
-		</item>
-		<item>
-			<title>Comments on proposed rule 10CFR20 re radiological criteria for decommissioning.Encourages members of Commission to reconsider basis for stds before publishing proposed rule.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20070P244</link>
-			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, PUBLIC COMMENTS ON PROPOSED RULES & PETITIONS FOR</description>
-			<author>HEALTH PHYSICS SOCIETY</author>
-			<pubDate>2024-05-09 03:30:00</pubDate>
 		</item>
 	</channel>
 </rss>
