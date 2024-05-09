@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 May 2024 14:16:32 GMT</pubDate>
-		<lastBuildDate>Thu, 09 May 2024 14:16:32 GMT</lastBuildDate>
+		<pubDate>Thu, 09 May 2024 15:16:56 GMT</pubDate>
+		<lastBuildDate>Thu, 09 May 2024 15:16:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Mod 5,deobligating funds,to "Source Term Characterization Resulting From Explosively-Caused Secondary Violations of Spent Fuel Shipping Casks."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071J686</link>
+			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
+			<author>BATTELLE MEMORIAL INSTITUTE, COLUMBUS LABORATORIES, NRC OFFICE OF ADMINISTRATION (ADM)</author>
+			<pubDate>2024-05-09 11:04:00</pubDate>
+		</item>
+		<item>
+			<title>Rev 1 to "SAR for Packaging:ORNL Gas Cylinder Fire & Impact Shield," final draft.W/six oversize drawings.Aperture cards are available in PDR.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071J105</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>OAK RIDGE NATIONAL LABORATORY</author>
+			<pubDate>2024-05-09 10:45:00</pubDate>
+		</item>
 		<item>
 			<title>Voided matls licensing action for license 34-26160-01 for Professional Svc Industries,Inc.Control:396560.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071G295</link>
@@ -206,20 +220,6 @@
 			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
 			<author>SCIENCE APPLICATIONS INTERNATIONAL CORP. (FORMERLY</author>
 			<pubDate>2024-05-09 03:52:00</pubDate>
-		</item>
-		<item>
-			<title>"Nuclear Power Plant Sys Sourcebook,Trojan."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20070Q598</link>
-			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
-			<author>SCIENCE APPLICATIONS INTERNATIONAL CORP. (FORMERLY</author>
-			<pubDate>2024-05-09 03:51:00</pubDate>
-		</item>
-		<item>
-			<title>"Nuclear Power Plant Sys Sourcebook,Millstone 1."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20070Q464</link>
-			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
-			<author>SCIENCE APPLICATIONS INTERNATIONAL CORP. (FORMERLY</author>
-			<pubDate>2024-05-09 03:49:00</pubDate>
 		</item>
 	</channel>
 </rss>
