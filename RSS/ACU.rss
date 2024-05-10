@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 10 May 2024 16:18:35 GMT</pubDate>
-		<lastBuildDate>Fri, 10 May 2024 16:18:35 GMT</lastBuildDate>
+		<pubDate>Fri, 10 May 2024 17:14:29 GMT</pubDate>
+		<lastBuildDate>Fri, 10 May 2024 17:14:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Safety evaluation supporting conclusion that rooms A344 & B118 meet NRC guidelines for release for unrestricted use.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20073K704</link>
+			<description>DKT 30 MTL BYPRODUCT, SAFETY EVALUATION REPORT--LICENSING & RELATED ISSUES, TEXT-SAFETY REPORT</description>
+			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
+			<pubDate>2024-05-10 13:02:00</pubDate>
+		</item>
+		<item>
+			<title>Discusses insp & investigation repts 30-04325/92-01 & 3-92-035R in response to allegations that RSO failed to conduct field audits of radiography personnel & falsified audit repts.OI synopsis & NRC enforcement policy encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20073K146</link>
+			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION III)</author>
+			<pubDate>2024-05-10 12:37:00</pubDate>
+		</item>
 		<item>
 			<title>Responds to NRC ltr re violations noted in insp rept 30-01204/91-01.Corrective actions:RSO will review 10CFR35.22(a)(3) at next Radiation Safety Committee meeting & increase number on unannounced insp of reseaarch areas.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20073H280</link>
@@ -206,20 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, NRC TO ENGINEERING/CONSTRUCTION/CONSULTING FIRM, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
 			<pubDate>2024-05-09 13:09:00</pubDate>
-		</item>
-		<item>
-			<title>QA Program Insp Rept 99900031/83-01 on 830228-0303. Noncompliance noted:no documented evidence that committed training of pump engineering personnel re HX design accomplished.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071K400</link>
-			<description>INSPECTION REPORT, MANUFACTURER/VENDOR/ENGINEER, INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
-			<pubDate>2024-05-09 11:30:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards results from first long-term tests of decontaminated sludge wash cement-waste Type I &  Type V portland cement.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071K173</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>ENERGY, DEPT. OF</author>
-			<pubDate>2024-05-09 11:21:00</pubDate>
 		</item>
 	</channel>
 </rss>
