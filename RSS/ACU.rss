@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 10 May 2024 20:16:12 GMT</pubDate>
-		<lastBuildDate>Fri, 10 May 2024 20:16:12 GMT</lastBuildDate>
+		<pubDate>Fri, 10 May 2024 21:16:01 GMT</pubDate>
+		<lastBuildDate>Fri, 10 May 2024 21:16:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards Amend 80 to License NPF-1 & notice of issuance & availability.Amend adds License Condition 2.C.(10) re implementation of IAEA safeguards at facility.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20073S436</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO UTILITY, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
+			<pubDate>2024-05-10 16:19:00</pubDate>
+		</item>
 		<item>
 			<title>Transcript of 910520 briefing in Rockville,MD re final rule on performance based QA part 35.Pp 1-95.W/supporting documents.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20073R180</link>
@@ -213,13 +220,6 @@
 			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, TRANSCRIPTS, DEPOSITIONS, NARRATIVE TESTIMONY</description>
 			<author>NRC COMMISSION (OCM)</author>
 			<pubDate>2024-05-09 16:04:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of 830222 public meeting in Washington,DC re discussion of SECY-83-16A on regulations to implement Public Law 97-415.Pp 1-60.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20072B354</link>
-			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, TRANSCRIPTS, DEPOSITIONS, NARRATIVE TESTIMONY</description>
-			<author>NRC COMMISSION (OCM)</author>
-			<pubDate>2024-05-09 15:20:00</pubDate>
 		</item>
 	</channel>
 </rss>
