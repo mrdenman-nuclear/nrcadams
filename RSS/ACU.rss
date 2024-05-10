@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 10 May 2024 15:15:19 GMT</pubDate>
-		<lastBuildDate>Fri, 10 May 2024 15:15:19 GMT</lastBuildDate>
+		<pubDate>Fri, 10 May 2024 16:18:35 GMT</pubDate>
+		<lastBuildDate>Fri, 10 May 2024 16:18:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Responds to NRC ltr re violations noted in insp rept 30-01204/91-01.Corrective actions:RSO will review 10CFR35.22(a)(3) at next Radiation Safety Committee meeting & increase number on unannounced insp of reseaarch areas.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20073H280</link>
+			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, INCOMING CORRESPONDENCE</description>
+			<author>VETERANS ADMIN. MEDICAL CENTER, BIRMINGHAM, AL</author>
+			<pubDate>2024-05-10 11:51:00</pubDate>
+		</item>
+		<item>
+			<title>"Analysis Of Operability of Automatic Process Control Sys & Development Of Automated Sys For Detection & Elimination of Defects in Automatic Control Sys Equipment in Power Units W/VVER-1000."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20073G321</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>SCITRAN CO.</author>
+			<pubDate>2024-05-10 11:25:00</pubDate>
+		</item>
+		<item>
+			<title>NUMARC 91-02, "Summary Rept of NUMARC Activities to Address Oil Loss in Rosemount Transmitters."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20073G280</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>NUCLEAR ENERGY INSTITUTE (FORMERLY NUCLEAR MGMT and</author>
+			<pubDate>2024-05-10 11:24:00</pubDate>
+		</item>
 		<item>
 			<title>Summary of 940725 meeting w/AECLT in Canada re topics concerning pending design certification application.List of attendees & presentation viewgraphs encl.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20073E739</link>
@@ -199,27 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
 			<author>ENERGY, DEPT. OF</author>
 			<pubDate>2024-05-09 11:21:00</pubDate>
-		</item>
-		<item>
-			<title>Mod 5,deobligating funds,to "Source Term Characterization Resulting From Explosively-Caused Secondary Violations of Spent Fuel Shipping Casks."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071J686</link>
-			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
-			<author>BATTELLE MEMORIAL INSTITUTE, COLUMBUS LABORATORIES, NRC OFFICE OF ADMINISTRATION (ADM)</author>
-			<pubDate>2024-05-09 11:04:00</pubDate>
-		</item>
-		<item>
-			<title>Rev 1 to "SAR for Packaging:ORNL Gas Cylinder Fire & Impact Shield," final draft.W/six oversize drawings.Aperture cards are available in PDR.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071J105</link>
-			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>OAK RIDGE NATIONAL LABORATORY</author>
-			<pubDate>2024-05-09 10:45:00</pubDate>
-		</item>
-		<item>
-			<title>Voided matls licensing action for license 34-26160-01 for Professional Svc Industries,Inc.Control:396560.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071G295</link>
-			<description>DKT 30 MTL BYPRODUCT, INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION III)</author>
-			<pubDate>2024-05-09 09:57:00</pubDate>
 		</item>
 	</channel>
 </rss>
