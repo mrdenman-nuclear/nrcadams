@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 10 May 2024 18:19:18 GMT</pubDate>
-		<lastBuildDate>Fri, 10 May 2024 18:19:18 GMT</lastBuildDate>
+		<pubDate>Fri, 10 May 2024 19:14:51 GMT</pubDate>
+		<lastBuildDate>Fri, 10 May 2024 19:14:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC regulatory info conference on 910507 & 08 in Washington, DC.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20073P790</link>
+			<description>CONFERENCE & WORKSHOP PAPERS/PROCEEDINGS/ABSTRACTS, TEXT-SAFETY REPORT</description>
+			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
+			<pubDate>2024-05-10 14:46:00</pubDate>
+		</item>
 		<item>
 			<title>Haddam Neck Plant Independent Spent Fuel Storage Installation, Request for Exemption from 10 CFR 50.82(a)(8)(i)(A) and 10 CFR 50.75(h)(2)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23130A118</link>
@@ -213,13 +220,6 @@
 			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
 			<author>BATTELLE MEMORIAL INSTITUTE, COLUMBUS LABORATORIES</author>
 			<pubDate>2024-05-09 14:11:00</pubDate>
-		</item>
-		<item>
-			<title>Application for Certificate of Compliance 9017 for SNAP-23A, Model 1000.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071Q201</link>
-			<description>CERTIFICATES OF COMPLIANCE-APPLICATION TO RENEW, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>HITTMAN NUCLEAR and DEVELOPMENT CORP. (SUBS. OF HITTMAN</author>
-			<pubDate>2024-05-09 14:08:00</pubDate>
 		</item>
 	</channel>
 </rss>
