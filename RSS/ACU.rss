@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 10 May 2024 22:16:07 GMT</pubDate>
-		<lastBuildDate>Fri, 10 May 2024 22:16:07 GMT</lastBuildDate>
+		<pubDate>Fri, 10 May 2024 23:16:04 GMT</pubDate>
+		<lastBuildDate>Fri, 10 May 2024 23:16:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Rev to 910328 application for amend to License SNM-0033, requesting hematite organizational changes.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20076E281</link>
+			<description>APPLICATION,SNM LICENSE & AMEND /RENEWAL TO LICENSE, TEXT-LICENSE APPLICATIONS & PERMITS</description>
+			<author>ABB COMBUSTION ENGINEERING NUCLEAR FUEL (FORMERLY, ASEA BROWN BOVERI, INC.</author>
+			<pubDate>2024-05-10 19:05:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards second quarter FY-91 update of generic issue mgt control sys for info.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20076B615</link>
@@ -213,13 +220,6 @@
 			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
 			<author>YANKEE ATOMIC ELECTRIC CO.</author>
 			<pubDate>2024-05-09 17:31:00</pubDate>
-		</item>
-		<item>
-			<title>"TMI Action Plan Tracking Sys," Jan 1983.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20072F135</link>
-			<description>INDEXES, TEXT-BIBLIOGRAPHIC & CATALOGS & INDEXES</description>
-			<author>NRC OFFICE OF RESOURCE MANAGEMENT (ORM)</author>
-			<pubDate>2024-05-09 17:18:00</pubDate>
 		</item>
 	</channel>
 </rss>
