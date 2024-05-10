@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 10 May 2024 17:14:29 GMT</pubDate>
-		<lastBuildDate>Fri, 10 May 2024 17:14:29 GMT</lastBuildDate>
+		<pubDate>Fri, 10 May 2024 18:19:18 GMT</pubDate>
+		<lastBuildDate>Fri, 10 May 2024 18:19:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Haddam Neck Plant Independent Spent Fuel Storage Installation, Request for Exemption from 10 CFR 50.82(a)(8)(i)(A) and 10 CFR 50.75(h)(2)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23130A118</link>
+			<description>Letter</description>
+			<author>Connecticut Yankee Atomic Power Co</author>
+			<pubDate>2024-05-10 13:52:00</pubDate>
+		</item>
+		<item>
+			<title>Prairie Island Nuclear Generating Plant, Units 1 and 2 and Prairie Island Independent Spent Fuel Storage Installation - 2023 Annual Radiological Environmental Monitoring Program Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24130A236</link>
+			<description>Environmental Monitoring Report, Letter</description>
+			<author>Northern States Power Company, Minnesota, Xcel Energy</author>
+			<pubDate>2024-05-10 13:52:00</pubDate>
+		</item>
 		<item>
 			<title>"1990 Radiological Environ Monitoring Rept,TMI." W/910429 ltr. W/one oversize encl.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20073H158</link>
@@ -206,20 +220,6 @@
 			<description>CERTIFICATES OF COMPLIANCE-APPLICATION TO RENEW, TEXT-LICENSE APPLICATIONS & PERMITS</description>
 			<author>HITTMAN NUCLEAR and DEVELOPMENT CORP. (SUBS. OF HITTMAN</author>
 			<pubDate>2024-05-09 14:08:00</pubDate>
-		</item>
-		<item>
-			<title>Application for renewal of License SNM-1107,authorizing use of SNM at Columbia,SC site.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071P485</link>
-			<description>APPLICATION,SNM LICENSE & AMEND /RENEWAL TO LICENSE, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>WESTINGHOUSE ELECTRIC COMPANY, DIV OF CBS CORP.</author>
-			<pubDate>2024-05-09 13:40:00</pubDate>
-		</item>
-		<item>
-			<title>NRC staff response to supplement to request for hearing filed by N Begay.* Submits that N Begay request for hearing should be denied for failure to establish standing to request hearing.W/Certificate of Svc.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071P432</link>
-			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, PLEADINGS</description>
-			<author>NRC OFFICE OF THE GENERAL COUNSEL (OGC)</author>
-			<pubDate>2024-05-09 13:39:00</pubDate>
 		</item>
 	</channel>
 </rss>
