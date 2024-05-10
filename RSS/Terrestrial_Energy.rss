@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 10 May 2024 19:14:51 GMT</pubDate>
-		<lastBuildDate>Fri, 10 May 2024 19:14:51 GMT</lastBuildDate>
+		<pubDate>Fri, 10 May 2024 20:16:12 GMT</pubDate>
+		<lastBuildDate>Fri, 10 May 2024 20:16:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards guidance on format & content expected in requested Environ Rept or Suppls to aid licensee compliance.W/o encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20073R832</link>
+			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
+			<pubDate>2024-05-10 15:58:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards encls 3,4,5 & 7 for SECY-91-138, "Final Rule on Nuclear Power Plant License Renewal."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20073R419</link>
+			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC OFFICE OF THE EXECUTIVE DIRECTOR FOR OPERATIONS (EDO)</author>
+			<pubDate>2024-05-10 15:44:00</pubDate>
+		</item>
 		<item>
 			<title>NRC regulatory info conference on 910507 & 08 in Washington, DC.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20073P790</link>
@@ -206,20 +220,6 @@
 			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-05-09 15:10:00</pubDate>
-		</item>
-		<item>
-			<title>Trip rept of 940522-27 visit to Las Vegas,NV to attend annual Intl High-Level Radwaste Mgt Conference re high-level [nuclear] waste underground repository programs,relating to Yucca Mountain.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071Q329</link>
-			<description>MEETING MINUTES & NOTES--CORRESPONDENCE, TRIP REPORTS</description>
-			<author>CENTER FOR NUCLEAR WASTE REGULATORY ANALYSES</author>
-			<pubDate>2024-05-09 14:13:00</pubDate>
-		</item>
-		<item>
-			<title>"BCL Decommissioning Project Site Environ Rept for CY93 on Radiological & Nonradiological Parameters."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071Q293</link>
-			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>BATTELLE MEMORIAL INSTITUTE, COLUMBUS LABORATORIES</author>
-			<pubDate>2024-05-09 14:11:00</pubDate>
 		</item>
 	</channel>
 </rss>
