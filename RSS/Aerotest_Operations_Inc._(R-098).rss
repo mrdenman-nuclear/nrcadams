@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 May 2024 23:15:31 GMT</pubDate>
-		<lastBuildDate>Thu, 09 May 2024 23:15:31 GMT</lastBuildDate>
+		<pubDate>Fri, 10 May 2024 14:15:27 GMT</pubDate>
+		<lastBuildDate>Fri, 10 May 2024 14:15:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submits info to keep NRC informed on licensee program to meet requirements of 10CFR20.1301.Licensee currently using calculations as specified in 10CFR20.1301(b)(1) to demonstrate that licensee not exceeding annual dose limit.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20072K256</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>AEROTEST OPERATIONS, INC.</author>
+			<pubDate>2024-05-09 19:17:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards initial exam retake administered on 910320. Evaluation conducted according to NUREG-1021, "Operator Licensing Examiner Stds," rev 6.V Scott meets requirements for licensing.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20070W132</link>
@@ -94,13 +101,6 @@
 			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
 			<pubDate>2024-05-06 16:05:00</pubDate>
-		</item>
-		<item>
-			<title>Aerotest Email - Letter Dated February 27 2024 Regarding EA-23-118 Violation 050-00228203-001-001A</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24123A241</link>
-			<description>E-Mail</description>
-			<author>Aerotest Operations, Inc</author>
-			<pubDate>2024-05-03 09:00:00</pubDate>
 		</item>
 	</channel>
 </rss>

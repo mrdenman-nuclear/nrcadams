@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 May 2024 23:15:27 GMT</pubDate>
-		<lastBuildDate>Thu, 09 May 2024 23:15:27 GMT</lastBuildDate>
+		<pubDate>Fri, 10 May 2024 14:15:22 GMT</pubDate>
+		<lastBuildDate>Fri, 10 May 2024 14:15:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Withholding Determination Letter for the GE-Hitachi Nuclear Energy Americas LLC and Global Nuclear Fuel Americas, LLC, Part 21</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24114A113</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DORL/LLPB</author>
+			<pubDate>2024-05-10 08:41:00</pubDate>
+		</item>
+	</channel>
 </rss>

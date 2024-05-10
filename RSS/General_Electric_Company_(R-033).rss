@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 May 2024 23:15:31 GMT</pubDate>
-		<lastBuildDate>Thu, 09 May 2024 23:15:31 GMT</lastBuildDate>
+		<pubDate>Fri, 10 May 2024 14:15:27 GMT</pubDate>
+		<lastBuildDate>Fri, 10 May 2024 14:15:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Annual Financial Rept 1982.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20072T774</link>
+			<description>ANNUAL REPORTS (COMPANY-FINANCIAL), TEXT-SAFETY REPORT</description>
+			<author>GENERAL ELECTRIC CO.</author>
+			<pubDate>2024-05-09 23:49:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards Annual Financial Rept 1982.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20072T758</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
+			<author>GENERAL ELECTRIC CO.</author>
+			<pubDate>2024-05-09 23:48:00</pubDate>
+		</item>
+		<item>
+			<title>Provides decommissioning cost estimate for facilities.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20072R906</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>GENERAL ELECTRIC CO.</author>
+			<pubDate>2024-05-09 22:49:00</pubDate>
+		</item>
+		<item>
+			<title>Provides decommissioning cost estimates for facilities.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20072R802</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>GENERAL ELECTRIC CO.</author>
+			<pubDate>2024-05-09 22:44:00</pubDate>
+		</item>
 		<item>
 			<title>Responds to 790730 request for info re impact of compliance w/proposed safeguards upgrade rule.Implementation cost of upgrade rule may imperil continued operation.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071G720</link>
@@ -164,27 +192,6 @@
 			<description>ANNUAL REPORTS (COMPANY-FINANCIAL), TEXT-SAFETY REPORT</description>
 			<author>GENERAL ELECTRIC CO.</author>
 			<pubDate>2024-05-06 14:01:00</pubDate>
-		</item>
-		<item>
-			<title>Public - Materials License SNM-960 Amendment 4</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24101A290</link>
-			<description>License-Special Nuclear Material Amendment DKT 70</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2024-05-03 08:58:00</pubDate>
-		</item>
-		<item>
-			<title>GE-Hitachi Nuclear Energy Americas LLC - Exemption From Select Requirements Of 10 CFR Part 73 (EPID L-2024-LLE-0003)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24039A080</link>
-			<description>Exemption from NRC Requirements, Letter</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2024-05-03 08:58:00</pubDate>
-		</item>
-		<item>
-			<title>Guidelines for Decontamination of Facilities and Equipment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24102A186</link>
-			<description>Guidance Document</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-05-03 08:58:00</pubDate>
 		</item>
 	</channel>
 </rss>
