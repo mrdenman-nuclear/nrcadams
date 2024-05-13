@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 May 2024 17:12:49 GMT</pubDate>
-		<lastBuildDate>Mon, 13 May 2024 17:12:49 GMT</lastBuildDate>
+		<pubDate>Mon, 13 May 2024 18:16:29 GMT</pubDate>
+		<lastBuildDate>Mon, 13 May 2024 18:16:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Site Environ Rept for CY90 on Radiological & Nonradiologicl Parameters."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079L779</link>
+			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>BATTELLE MEMORIAL INSTITUTE, COLUMBUS LABORATORIES</author>
+			<pubDate>2024-05-13 13:42:00</pubDate>
+		</item>
+		<item>
+			<title>Crystal River Nuclear Power Station, Unit 3 - Response to Request for Additional Information for the Environmental Assessment of the License Termination Plan</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24131A075</link>
+			<description>Environmental Assessment, Letter, Response to Request for Additional Information (RAI)</description>
+			<author>ADP CR3, LLC</author>
+			<pubDate>2024-05-13 13:15:00</pubDate>
+		</item>
 		<item>
 			<title>"Supplemental Seismic Probabilistic Study,Yankee Atomic Electric Co,Rowe."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079J694</link>
@@ -206,20 +220,6 @@
 			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, PUBLIC COMMENTS ON PROPOSED RULES & PETITIONS FOR</description>
 			<author>ENVIRONMENTAL COALITION ON NUCLEAR POWER</author>
 			<pubDate>2024-05-11 10:20:00</pubDate>
-		</item>
-		<item>
-			<title>Draft, "Aerial Radiological Survey of Neutron Products Co & Surrounding Area," Nov 1993.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20078B791</link>
-			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>EGandG ENERGY MEASUREMENTS</author>
-			<pubDate>2024-05-11 10:16:00</pubDate>
-		</item>
-		<item>
-			<title>Comment on proposed rules 10CFR20,30,40,50,51,70 & 72 re radiological criteria for decommissioning of lands & structures.Urges significant rev of proposal & reissuance for further public comment.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20078B774</link>
-			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, PUBLIC COMMENTS ON PROPOSED RULES & PETITIONS FOR</description>
-			<author>KERR-MCGEE CORP.</author>
-			<pubDate>2024-05-11 10:15:00</pubDate>
 		</item>
 	</channel>
 </rss>

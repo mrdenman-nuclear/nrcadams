@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 May 2024 17:12:49 GMT</pubDate>
-		<lastBuildDate>Mon, 13 May 2024 17:12:49 GMT</lastBuildDate>
+		<pubDate>Mon, 13 May 2024 18:16:29 GMT</pubDate>
+		<lastBuildDate>Mon, 13 May 2024 18:16:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards util preliminary data from test irradiation program.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079M908</link>
+			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
+			<pubDate>2024-05-13 14:10:00</pubDate>
+		</item>
+		<item>
+			<title>IE Insp Findings & Licensee Ack dtd 831206 of License 56-18134-01.Insp findings:no violations observed.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079M026</link>
+			<description>DKT 30 MTL BYPRODUCT, SAFETY INSPECTION (FORMERLY INSPECTION FINDINGS &, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
+			<pubDate>2024-05-13 13:49:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards State Agreements Program internal procedures B.7, "Criteria for Compatibility Determinations" & June 1991 "Summary of US NRC Agreement State Program," to be placed in PDR.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079L207</link>
+			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC OFFICE OF GOVERNMENTAL and PUBLIC AFFAIRS (GPA)</author>
+			<pubDate>2024-05-13 13:27:00</pubDate>
+		</item>
 		<item>
 			<title>"Seismic & Stress Analysis of LACBWR HPCS Discharge Line Piping Sys," Revision 1.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079H975</link>
@@ -199,27 +220,6 @@
 			<description>EXPORT LICENSES & AMENDMENTS, LICENSE, IMPORT/EXPORT & AMENDMENTS, TEXT-LICENSE APPLICATIONS & PERMITS</description>
 			<author>NRC OFFICE OF INTERNATIONAL PROGRAMS (OIP)</author>
 			<pubDate>2024-05-11 13:39:00</pubDate>
-		</item>
-		<item>
-			<title>Informs that item 14 of NMSS 910211 Delegation of Authority, delegates authority to grant Kerr-McGee Corp exemptions from physical protection requirements of 10CFR73 & criticality accident requirements of 10CFR70.24.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20078G553</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
-			<pubDate>2024-05-11 13:30:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards rev 1 replacement pages which incorporate changes to licensee device application for model 934 underwater radiography device.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20078C127</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>AMERSHAM CORP.</author>
-			<pubDate>2024-05-11 10:32:00</pubDate>
-		</item>
-		<item>
-			<title>CNWRA 91-02Q "Rept on Research Activities for Quarter 910401-0630."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20077S758</link>
-			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
-			<author>CENTER FOR NUCLEAR WASTE REGULATORY ANALYSES</author>
-			<pubDate>2024-05-11 09:10:00</pubDate>
 		</item>
 	</channel>
 </rss>
