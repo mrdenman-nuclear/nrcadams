@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 May 2024 21:15:32 GMT</pubDate>
-		<lastBuildDate>Mon, 13 May 2024 21:15:32 GMT</lastBuildDate>
+		<pubDate>Mon, 13 May 2024 22:14:30 GMT</pubDate>
+		<lastBuildDate>Mon, 13 May 2024 22:14:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Edgemont Remedial Action Program," monthly rept for May 1982.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20080C637</link>
+			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
+			<author>BATTELLE MEMORIAL INSTITUTE, PACIFIC NORTHWEST NATION</author>
+			<pubDate>2024-05-13 18:01:00</pubDate>
+		</item>
+		<item>
+			<title>"Trojan Natural Gas-Fired Turbine Combined Cycle Safety Evaluation Phase 1 Rept."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20080B730</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>BECHTEL POWER CORP.</author>
+			<pubDate>2024-05-13 17:27:00</pubDate>
+		</item>
 		<item>
 			<title>SER approving 840123 application to authorize temporary outside storage of enriched U hexafluoride subj to listed conditions.Relocation provides sufficient interim fire protection.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20080B167</link>
@@ -206,20 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
 			<author>NEVADA, STATE OF</author>
 			<pubDate>2024-05-11 21:11:00</pubDate>
-		</item>
-		<item>
-			<title>"Co-60 Contamination Accident,Mexico 1984."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20078S997</link>
-			<description>REPORTS-FOREIGN, TEXT-SAFETY REPORT</description>
-			<author>MEXICO, GOVT. OF</author>
-			<pubDate>2024-05-11 20:39:00</pubDate>
-		</item>
-		<item>
-			<title>Trip rept of 940615 visit to Florida Steel Corp,Baldwin,FL mill to provide opportunity to become better acquainted w/ problems of radioactive matl in recycled metal scrap & decontamination & disposal of radwastes.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20078S949</link>
-			<description>MEETING MINUTES & NOTES--CORRESPONDENCE, TRIP REPORTS</description>
-			<author>NRC COMMISSION (OCM)</author>
-			<pubDate>2024-05-11 20:37:00</pubDate>
 		</item>
 	</channel>
 </rss>

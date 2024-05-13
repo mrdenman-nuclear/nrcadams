@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 May 2024 21:15:32 GMT</pubDate>
-		<lastBuildDate>Mon, 13 May 2024 21:15:32 GMT</lastBuildDate>
+		<pubDate>Mon, 13 May 2024 22:14:30 GMT</pubDate>
+		<lastBuildDate>Mon, 13 May 2024 22:14:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards draft rept on "Aerial Radiological Survey of Neutron Products Co & Surrounding Area."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20080C846</link>
+			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF STATE PROGRAMS (OSP)</author>
+			<pubDate>2024-05-13 18:08:00</pubDate>
+		</item>
+		<item>
+			<title>Preliminary draft "Environ Assessment for Renewal of Source Matl License SUB-1010."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20080B951</link>
+			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
+			<author>SCIENCE APPLICATIONS INTERNATIONAL CORP. (FORMERLY</author>
+			<pubDate>2024-05-13 17:35:00</pubDate>
+		</item>
 		<item>
 			<title>Monthly notice of amends to OLs involving NSHC issued since 830523.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079S461</link>
@@ -206,20 +220,6 @@
 			<description>INDEXES, TEXT-BIBLIOGRAPHIC & CATALOGS & INDEXES</description>
 			<author>NRC OFFICE OF NUCLEAR REGULATORY RESEARCH (RES)</author>
 			<pubDate>2024-05-11 13:36:00</pubDate>
-		</item>
-		<item>
-			<title>Draft "Plan for Implementing EPA Stds for U Mill Tailings Remedial Action Sites."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20078G680</link>
-			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
-			<author>ENERGY, DEPT. OF</author>
-			<pubDate>2024-05-11 13:35:00</pubDate>
-		</item>
-		<item>
-			<title>DES re remedial actions at former Union Carbide Corp sites in Rifle,Garfield County,CO.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20078G603</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>NUS CORP.</author>
-			<pubDate>2024-05-11 13:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
