@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 May 2024 19:12:08 GMT</pubDate>
-		<lastBuildDate>Mon, 13 May 2024 19:12:08 GMT</lastBuildDate>
+		<pubDate>Mon, 13 May 2024 20:14:59 GMT</pubDate>
+		<lastBuildDate>Mon, 13 May 2024 20:14:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Record of Decision EI DuPont,Newport Superfund Site,New Castle County,DE."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079R767</link>
+			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, OTHER LEGAL DOCUMENT</description>
+			<author>ENVIRONMENTAL PROTECTION AGENCY</author>
+			<pubDate>2024-05-13 16:10:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards NRC staff final comments & corrections for Envirocare environ impact statement.Proposal to replace Table 2.3 w/retyped version faxed on 930719,satisfactory.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079R367</link>
+			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
+			<pubDate>2024-05-13 15:52:00</pubDate>
+		</item>
+		<item>
+			<title>Reg Guide 4.18 Task WM 013-4, "Std Format & Content of Environ Repts for Near-Surface Disposal of Radwaste."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079R246</link>
+			<description>REGULATORY GUIDE (REG GUIDE), REGULATORY GUIDES & STD. REVIEW PLANS-TEXT</description>
+			<author>NRC OFFICE OF NUCLEAR REGULATORY RESEARCH (RES)</author>
+			<pubDate>2024-05-13 15:47:00</pubDate>
+		</item>
 		<item>
 			<title>"Monitoring Marine Environ of Long Island Sound at Millstone Nuclear Power Station,Waterford,CT."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079N247</link>
@@ -199,27 +220,6 @@
 			<description>MEETING MINUTES & NOTES--CORRESPONDENCE, TRIP REPORTS</description>
 			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
 			<pubDate>2024-05-11 12:10:00</pubDate>
-		</item>
-		<item>
-			<title>"Compendium of Major US Radiation Protection Stds & Guides: Legal & Technical Facts."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20078D598</link>
-			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
-			<author>OAK RIDGE ASSOCIATED UNIVERSITIES</author>
-			<pubDate>2024-05-11 11:33:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards preliminary draft rept, "Aerial Radiological Survey of Neutron Products Co & Surrounding Area," conducted as part of joint NRC - State of Maryland insp of NPI facility in Nov 1993.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20078D391</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF THE EXECUTIVE DIRECTOR FOR OPERATIONS (EDO)</author>
-			<pubDate>2024-05-11 11:24:00</pubDate>
-		</item>
-		<item>
-			<title>Draft, "Aerial Radiological Survey of Neutron Products Co & Surrounding Area,Nov 1993."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20078D401</link>
-			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>EGandG ENERGY MEASUREMENTS</author>
-			<pubDate>2024-05-11 11:24:00</pubDate>
 		</item>
 	</channel>
 </rss>
