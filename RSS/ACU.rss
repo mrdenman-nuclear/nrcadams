@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 May 2024 22:14:30 GMT</pubDate>
-		<lastBuildDate>Mon, 13 May 2024 22:14:30 GMT</lastBuildDate>
+		<pubDate>Mon, 13 May 2024 23:14:10 GMT</pubDate>
+		<lastBuildDate>Mon, 13 May 2024 23:14:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Application for matl byproduct license,authorizing use of Cs-137 gamma survey instrument calibrator & dosimeter calibrator.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20080E046</link>
+			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, TEXT-LICENSE APPLICATIONS & PERMITS</description>
+			<author>STAN A. HUBER CONSULTANTS, INC.</author>
+			<pubDate>2024-05-13 18:47:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards request for addl info re monitoring of electric power to reactor protection sys (Multi-Plant Action C-11). Response requested within 45 days of receipt of ltr.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20080D342</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO UTILITY, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
+			<pubDate>2024-05-13 18:23:00</pubDate>
+		</item>
 		<item>
 			<title>"Edgemont Remedial Action Program," monthly rept for May 1982.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20080C637</link>
@@ -206,20 +220,6 @@
 			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
 			<author>COMMERCE, DEPT. OF, NRC OFFICE OF ADMINISTRATION (ADM)</author>
 			<pubDate>2024-05-11 22:26:00</pubDate>
-		</item>
-		<item>
-			<title>"1991 Emergency Exercise Manual." W/910425 ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079B943</link>
-			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
-			<author>SEQUOYAH FUELS CORP.</author>
-			<pubDate>2024-05-11 22:09:00</pubDate>
-		</item>
-		<item>
-			<title>Extends invitation to participate as featured speaker for "Nuclear Waste Transportation & Role of Public" conference. Presentation scheduled for 950131.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079A675</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>NEVADA, STATE OF</author>
-			<pubDate>2024-05-11 21:11:00</pubDate>
 		</item>
 	</channel>
 </rss>
