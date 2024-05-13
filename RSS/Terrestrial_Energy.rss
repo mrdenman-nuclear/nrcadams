@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 May 2024 16:19:38 GMT</pubDate>
-		<lastBuildDate>Mon, 13 May 2024 16:19:38 GMT</lastBuildDate>
+		<pubDate>Mon, 13 May 2024 17:12:49 GMT</pubDate>
+		<lastBuildDate>Mon, 13 May 2024 17:12:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Supplemental Seismic Probabilistic Study,Yankee Atomic Electric Co,Rowe."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079J694</link>
+			<description>REPORTS-TOPICAL (BY MANUFACTURERS-VENDORS ETC), TEXT-SAFETY REPORT</description>
+			<author>YANKEE ATOMIC ELECTRIC CO.</author>
+			<pubDate>2024-05-13 12:29:00</pubDate>
+		</item>
+		<item>
+			<title>Proposed rule 10CFR51, "Environ Review for Renewal of Operating Licenses." Rule would establish new requirements for environ review of applicants to renew operating licenses for nuclear power plants.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079J526</link>
+			<description>PROPOSED RULE, TEXT-CODE OF FEDERAL REGULATIONS</description>
+			<author>NRC OFFICE OF THE SECRETARY (SECY)</author>
+			<pubDate>2024-05-13 12:23:00</pubDate>
+		</item>
 		<item>
 			<title>Point Beach Nuclear Plant, Units 1 and 2 - Periodic Update of the Updated Final Safety Analysis Report, Chapter 2, Site and Environment</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24116A046</link>
@@ -206,20 +220,6 @@
 			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, PUBLIC COMMENTS ON PROPOSED RULES & PETITIONS FOR</description>
 			<author>KERR-MCGEE CORP.</author>
 			<pubDate>2024-05-11 10:15:00</pubDate>
-		</item>
-		<item>
-			<title>Comment supporting proposed rules 10CFR20,30,40,50 51,70 & 72 re radiological criteria for decommissioning of lands & structures.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20078B687</link>
-			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, PUBLIC COMMENTS ON PROPOSED RULES & PETITIONS FOR</description>
-			<author>FUEL CYCLE FACILITIES FORUM</author>
-			<pubDate>2024-05-11 10:11:00</pubDate>
-		</item>
-		<item>
-			<title>"Instruction Book for Radiac Calibrator Set AN/UDM-1."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20078B591</link>
-			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
-			<author>NAVY, DEPT. OF</author>
-			<pubDate>2024-05-11 10:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
