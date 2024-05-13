@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 May 2024 18:16:29 GMT</pubDate>
-		<lastBuildDate>Mon, 13 May 2024 18:16:29 GMT</lastBuildDate>
+		<pubDate>Mon, 13 May 2024 19:12:08 GMT</pubDate>
+		<lastBuildDate>Mon, 13 May 2024 19:12:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Monitoring Marine Environ of Long Island Sound at Millstone Nuclear Power Station,Waterford,CT."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079N247</link>
+			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>NORTHEAST NUCLEAR ENERGY CO.</author>
+			<pubDate>2024-05-13 14:20:00</pubDate>
+		</item>
 		<item>
 			<title>"Site Environ Rept for CY90 on Radiological & Nonradiologicl Parameters."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079L779</link>
@@ -213,13 +220,6 @@
 			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
 			<author>EGandG ENERGY MEASUREMENTS</author>
 			<pubDate>2024-05-11 11:24:00</pubDate>
-		</item>
-		<item>
-			<title>Comment on proposed rules 10CFR20,30,40,50,51,70 & 72 re radiological criteria for decommissioning of lands & structures.Each site decommissioning must be preceded by both full EIS & completed site decommissioning plan.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20078B882</link>
-			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, PUBLIC COMMENTS ON PROPOSED RULES & PETITIONS FOR</description>
-			<author>ENVIRONMENTAL COALITION ON NUCLEAR POWER</author>
-			<pubDate>2024-05-11 10:20:00</pubDate>
 		</item>
 	</channel>
 </rss>
