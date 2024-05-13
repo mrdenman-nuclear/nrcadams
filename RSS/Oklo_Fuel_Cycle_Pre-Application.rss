@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 10 May 2024 23:15:49 GMT</pubDate>
-		<lastBuildDate>Fri, 10 May 2024 23:15:49 GMT</lastBuildDate>
+		<pubDate>Mon, 13 May 2024 14:14:03 GMT</pubDate>
+		<lastBuildDate>Mon, 13 May 2024 14:14:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for Oklo, Inc. Licensing Project Plan (Fuel Recycling): 3Q2023 Update</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24116A115</link>
+			<description>Note to File incl Telcon Record, Verbal Comm</description>
+			<author>NRC/RGN-IV/DRSS</author>
+			<pubDate>2024-05-13 08:31:00</pubDate>
+		</item>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for Oklo Inc., Licensing Project Plan (Fuel Recycling): 2Q2023 Update</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24116A082</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-05-13 08:31:00</pubDate>
+		</item>
+	</channel>
 </rss>

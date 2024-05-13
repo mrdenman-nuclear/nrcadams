@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 10 May 2024 23:15:49 GMT</pubDate>
-		<lastBuildDate>Fri, 10 May 2024 23:15:49 GMT</lastBuildDate>
+		<pubDate>Mon, 13 May 2024 14:14:03 GMT</pubDate>
+		<lastBuildDate>Mon, 13 May 2024 14:14:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Letter, Response to Request for Additional Information (RAI)</description>
 			<author>Abilene Christian University, Nuclear Energy eXperimental Testing Lab</author>
 			<pubDate>2024-05-08 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Abilene Christian University Molten Salt Research Reactor White Paper on Material Control and Accounting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24117A071</link>
-			<description>Letter</description>
-			<author>Abilene Christian University (ACU), Nuclear Energy eXperimental Testing Lab</author>
-			<pubDate>2024-05-06 08:32:00</pubDate>
 		</item>
 	</channel>
 </rss>

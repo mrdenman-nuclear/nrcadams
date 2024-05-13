@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 10 May 2024 23:15:49 GMT</pubDate>
-		<lastBuildDate>Fri, 10 May 2024 23:15:49 GMT</lastBuildDate>
+		<pubDate>Mon, 13 May 2024 14:14:03 GMT</pubDate>
+		<lastBuildDate>Mon, 13 May 2024 14:14:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Rev.1, Updated Form 898 - Completeness Determination for the SMR, LLC (Holtec) Quality Assurance Program Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24117A139</link>
+			<description>Administrative Form, NRC</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-05-13 08:31:00</pubDate>
+		</item>
+		<item>
+			<title>Rev.1, Updated Form 898 - Completeness Determination Transmittal for the SMR, LLC (Holtec) Quality Assurance Program Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24117A138</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-05-13 08:31:00</pubDate>
+		</item>
 		<item>
 			<title>SMR, LLC, Preapplication Meeting Materials for May 8, 2024</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24122C700</link>
@@ -59,13 +73,6 @@
 			<description>Meeting Summary</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-05-08 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>05/08/2024 Preapplication meeting with SMR, LLC (A Holtec International Company)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24127A215</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-05-06 16:44:00</pubDate>
 		</item>
 	</channel>
 </rss>
