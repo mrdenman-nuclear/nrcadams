@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 May 2024 20:14:59 GMT</pubDate>
-		<lastBuildDate>Mon, 13 May 2024 20:14:59 GMT</lastBuildDate>
+		<pubDate>Mon, 13 May 2024 21:15:32 GMT</pubDate>
+		<lastBuildDate>Mon, 13 May 2024 21:15:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SER approving 840123 application to authorize temporary outside storage of enriched U hexafluoride subj to listed conditions.Relocation provides sufficient interim fire protection.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20080B167</link>
+			<description>SAFETY EVALUATION REPORT--LICENSING & RELATED ISSUES, TEXT-SAFETY REPORT</description>
+			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
+			<pubDate>2024-05-13 17:09:00</pubDate>
+		</item>
+		<item>
+			<title>"Handbook for NRC Staff Participating in IAEA Activities."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079S346</link>
+			<description>NRC TECHNICAL REPORT, TEXT-SAFETY REPORT</description>
+			<author>NRC OFFICE OF INTERNATIONAL PROGRAMS (OIP)</author>
+			<pubDate>2024-05-13 16:29:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards vendor info rept, "Containment Water Level Monitoring," in response to 830415 request for addl info re NUREG-0737,Items II.F.1.4 & II.F.1.5, "Containment Pressure Monitor" & "Containment Water Level Monitor."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079R619</link>
@@ -206,20 +220,6 @@
 			<description>MEETING MINUTES & NOTES--CORRESPONDENCE, TRIP REPORTS</description>
 			<author>NRC COMMISSION (OCM)</author>
 			<pubDate>2024-05-11 20:37:00</pubDate>
-		</item>
-		<item>
-			<title>Application for amend to License 24-18695-01,changing radiation safety officer from K Kays to HD Phillips. Supporting documentation encl.Fee paid.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20078S310</link>
-			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, DKT 30 MTL BYPRODUCT, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>MOBERLY REGIONAL MEDICAL CENTER, MOBERLY, MO</author>
-			<pubDate>2024-05-11 20:08:00</pubDate>
-		</item>
-		<item>
-			<title>Provides response to request for addl info re GL 92-08, "Thermo-Lag 330-1 Fire Barriers," per 10CFR50.54(f).Licensee will submit summary of test program & schedule status in Sept 1995.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20078Q549</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>COMMONWEALTH EDISON CO.</author>
-			<pubDate>2024-05-11 18:43:00</pubDate>
 		</item>
 	</channel>
 </rss>
