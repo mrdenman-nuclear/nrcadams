@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 May 2024 15:16:12 GMT</pubDate>
-		<lastBuildDate>Mon, 13 May 2024 15:16:12 GMT</lastBuildDate>
+		<pubDate>Mon, 13 May 2024 16:19:38 GMT</pubDate>
+		<lastBuildDate>Mon, 13 May 2024 16:19:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Point Beach Nuclear Plant, Units 1 and 2 - Periodic Update of the Updated Final Safety Analysis Report, Chapter 2, Site and Environment</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24116A046</link>
+			<description>Updated Final Safety Analysis Report (UFSAR)</description>
+			<author>NextEra Energy Point Beach, LLC</author>
+			<pubDate>2024-05-13 11:41:00</pubDate>
+		</item>
 		<item>
 			<title>LaSalle County Station, Units 1 and 2 - 2023 Annual Radiological Environmental Operating Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24124A045</link>
@@ -213,13 +220,6 @@
 			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
 			<author>NAVY, DEPT. OF</author>
 			<pubDate>2024-05-11 10:07:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards Amends 92 & 87 to Licenses DPR-21 & DPR-65, respectively.Amend changes App B ETS re meteorological monitoring & terrestrial impacts.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20078B364</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO UTILITY, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
-			<pubDate>2024-05-11 09:59:00</pubDate>
 		</item>
 	</channel>
 </rss>

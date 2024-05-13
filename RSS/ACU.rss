@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 May 2024 15:16:12 GMT</pubDate>
-		<lastBuildDate>Mon, 13 May 2024 15:16:12 GMT</lastBuildDate>
+		<pubDate>Mon, 13 May 2024 16:19:38 GMT</pubDate>
+		<lastBuildDate>Mon, 13 May 2024 16:19:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Seismic & Stress Analysis of LACBWR HPCS Discharge Line Piping Sys," Revision 1.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079H975</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>NUCLEAR ENERGY SERVICES, INC.</author>
+			<pubDate>2024-05-13 12:08:00</pubDate>
+		</item>
+		<item>
+			<title>License for Edlow Intl Co as agent for Kansai Electric Power Co to export 242 kg U-235 contained in 5,965 kg U to Japan.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079H821</link>
+			<description>LICENSE, IMPORT/EXPORT & AMENDMENTS, TEXT-LICENSE APPLICATIONS & PERMITS</description>
+			<author>NRC OFFICE OF GOVERNMENTAL and PUBLIC AFFAIRS (GPA)</author>
+			<pubDate>2024-05-13 12:02:00</pubDate>
+		</item>
 		<item>
 			<title>QA Program Insp Rept 99900525/83-04 on 831107-11 & 14-18.No noncompliance noted.Major areas inspected:design of exhaust sys for diesel generator & HPCS diesels.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079G871</link>
@@ -206,20 +220,6 @@
 			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
 			<author>CENTER FOR NUCLEAR WASTE REGULATORY ANALYSES</author>
 			<pubDate>2024-05-11 09:10:00</pubDate>
-		</item>
-		<item>
-			<title>Submits addendum to 940617 ltr,in response to CAL 4-94-03, dtd 940503 & as amended according to CAL 4-94-03A,dtd 940526,addressing actions taken w/respect to ARS treatment planning computer in Bozeman.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20077S002</link>
-			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, INCOMING CORRESPONDENCE</description>
-			<author>DEACONESS MEDICAL CENTER OF BILLINGS, BILLINGS, MT</author>
-			<pubDate>2024-05-11 08:43:00</pubDate>
-		</item>
-		<item>
-			<title>Request for OMB review & supporting statement re proposed rev to policy statement, "Cooperation W/States at Commercial Nuclear Power Plants & Other Nuclear Production or Utilization ...." Estimated respondent burden is 2,000 h.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20077R919</link>
-			<description>ARCHIVE RECORDS, Request for OMB Review</description>
-			<author>NRC OFFICE OF INFORMATION RESOURCES MANAGEMENT (IRM)</author>
-			<pubDate>2024-05-11 08:39:00</pubDate>
 		</item>
 	</channel>
 </rss>
