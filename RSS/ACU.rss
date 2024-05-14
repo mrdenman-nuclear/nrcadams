@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 14 May 2024 18:18:23 GMT</pubDate>
-		<lastBuildDate>Tue, 14 May 2024 18:18:23 GMT</lastBuildDate>
+		<pubDate>Tue, 14 May 2024 19:12:53 GMT</pubDate>
+		<lastBuildDate>Tue, 14 May 2024 19:12:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Requests that nuclear power plant be closed.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20082R191</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>AFFILIATION NOT ASSIGNED</author>
+			<pubDate>2024-05-14 14:18:00</pubDate>
+		</item>
 		<item>
 			<title>Submits listed info in response to NRC 780117 ltr requesting that effluent & environ monitoring program be brought up to stds of RG 4.14 & addl analysis & frequencies of sampling beyond RG 4.14.W/two oversize encls.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20082H899</link>
@@ -213,13 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, INCOMING CORRESPONDENCE</description>
 			<author>CINCINNATI, UNIV. OF, CINCINNATI, OH</author>
 			<pubDate>2024-05-12 01:00:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of ACRS & Commission 820604 public meeting in Washington,DC.Pp 1-64.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079F713</link>
-			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, TRANSCRIPTS, DEPOSITIONS, NARRATIVE TESTIMONY</description>
-			<author>NRC ADVISORY COMMITTEE ON REACTOR SAFEGUARDS (ACRS), NRC COMMISSION (OCM)</author>
-			<pubDate>2024-05-12 00:33:00</pubDate>
 		</item>
 	</channel>
 </rss>
