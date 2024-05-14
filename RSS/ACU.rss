@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 14 May 2024 19:12:53 GMT</pubDate>
-		<lastBuildDate>Tue, 14 May 2024 19:12:53 GMT</lastBuildDate>
+		<pubDate>Tue, 14 May 2024 20:17:38 GMT</pubDate>
+		<lastBuildDate>Tue, 14 May 2024 20:17:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>License for Mitsubishi Intl Corp to export 488 kg U-235, containing 11,750 kg U,enriched to 4.15 w/o max,to Japan.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20082V007</link>
+			<description>LICENSE, IMPORT/EXPORT & AMENDMENTS, TEXT-LICENSE APPLICATIONS & PERMITS</description>
+			<author>NRC OFFICE OF GOVERNMENTAL and PUBLIC AFFAIRS (GPA)</author>
+			<pubDate>2024-05-14 16:01:00</pubDate>
+		</item>
 		<item>
 			<title>Requests that nuclear power plant be closed.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20082R191</link>
@@ -213,13 +220,6 @@
 			<description>INSPECTION REPORT, MANUFACTURER/VENDOR/ENGINEER, INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
 			<pubDate>2024-05-12 01:08:00</pubDate>
-		</item>
-		<item>
-			<title>Provides addl info re personal dosimetry program,computer inventory,ofc mgt programs & enforcement program,per 910724 request.Radiation control & safety program encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079G688</link>
-			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, INCOMING CORRESPONDENCE</description>
-			<author>CINCINNATI, UNIV. OF, CINCINNATI, OH</author>
-			<pubDate>2024-05-12 01:00:00</pubDate>
 		</item>
 	</channel>
 </rss>
