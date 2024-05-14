@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 May 2024 23:14:11 GMT</pubDate>
-		<lastBuildDate>Mon, 13 May 2024 23:14:11 GMT</lastBuildDate>
+		<pubDate>Tue, 14 May 2024 14:15:29 GMT</pubDate>
+		<lastBuildDate>Tue, 14 May 2024 14:15:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Informs of three aerial radiological surveys of six uranium ore sites,scheduled for 811023-29.Sample news release encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20082D724</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>EGandG, INC.</author>
+			<pubDate>2024-05-14 08:23:00</pubDate>
+		</item>
+		<item>
+			<title>Informs that Class I & II fees due for review of util 830216 request for deletion of nonradiological water quality & terrestrial monitoring programs.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20081L737</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO UTILITY, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
+			<pubDate>2024-05-14 06:11:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards draft rept on "Aerial Radiological Survey of Neutron Products Co & Surrounding Area."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20080C846</link>
@@ -206,20 +220,6 @@
 			<description>SAFETY EVALUATION REPORT--LICENSING & RELATED ISSUES, TEXT-SAFETY REPORT</description>
 			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
 			<pubDate>2024-05-11 16:03:00</pubDate>
-		</item>
-		<item>
-			<title>Application for amend to License SMB-911,requesting to permit processing of existing pond residues.Encl withheld (ref 10CFR2.790).</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20078K090</link>
-			<description>APPLICATION,SOURCE MTL.LICENSE & AMEND/RENEWAL TO, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>EARTH SCIENCES ASSOCIATES</author>
-			<pubDate>2024-05-11 15:14:00</pubDate>
-		</item>
-		<item>
-			<title>"Regulatory Guide List."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20078G701</link>
-			<description>INDEXES, TEXT-BIBLIOGRAPHIC & CATALOGS & INDEXES</description>
-			<author>NRC OFFICE OF NUCLEAR REGULATORY RESEARCH (RES)</author>
-			<pubDate>2024-05-11 13:36:00</pubDate>
 		</item>
 	</channel>
 </rss>

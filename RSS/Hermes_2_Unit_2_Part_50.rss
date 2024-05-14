@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 May 2024 23:13:57 GMT</pubDate>
-		<lastBuildDate>Mon, 13 May 2024 23:13:57 GMT</lastBuildDate>
+		<pubDate>Tue, 14 May 2024 14:14:57 GMT</pubDate>
+		<lastBuildDate>Tue, 14 May 2024 14:14:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2024-05-09 08:40:00</pubDate>
-		</item>
-		<item>
-			<title>2024/04/23 Kairos - Hermes 2 Docs - Preliminary Chapter of Hermes 2 SE to ACRS</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24114A280</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2024-05-07 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>2024/04/23 Kairos - Hermes 2 Docs - Preliminary Chapter of Hermes 2 SE</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24114A282</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2024-05-07 08:39:00</pubDate>
 		</item>
 	</channel>
 </rss>

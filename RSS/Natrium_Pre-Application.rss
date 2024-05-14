@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 May 2024 23:13:57 GMT</pubDate>
-		<lastBuildDate>Mon, 13 May 2024 23:13:57 GMT</lastBuildDate>
+		<pubDate>Tue, 14 May 2024 14:14:57 GMT</pubDate>
+		<lastBuildDate>Tue, 14 May 2024 14:14:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Legal-Affidavit, Letter, Report, Technical</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2024-05-13 15:18:00</pubDate>
-		</item>
-		<item>
-			<title>Agreement between US SFR Owner, LLC and TerraPower, LLC for Construction Permit Application for Kemmerer Power Station Unit 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24120A377</link>
-			<description>Letter</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2024-05-07 08:40:00</pubDate>
 		</item>
 	</channel>
 </rss>

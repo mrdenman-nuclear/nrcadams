@@ -5,18 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 May 2024 23:13:57 GMT</pubDate>
-		<lastBuildDate>Mon, 13 May 2024 23:13:57 GMT</lastBuildDate>
+		<pubDate>Tue, 14 May 2024 14:14:57 GMT</pubDate>
+		<lastBuildDate>Tue, 14 May 2024 14:14:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>Email Summary of Meeting Held with TRISO-X, LLC on April 16, 2024, Regarding Clarifications for Chemical Safety Analysis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24117A290</link>
-			<description>E-Mail</description>
+			<title>COVER LETTER - RAI Status update for the Safety and Safeguards Requests for Additional Information for the TRISO-X License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24089A201</link>
+			<description>Letter</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2024-05-07 08:41:00</pubDate>
+			<pubDate>2024-05-14 08:40:00</pubDate>
+		</item>
+		<item>
+			<title>ENCLOSURE 1 - RAI Status Update for the Safety and Safeguards Requests for Additional Information for the TRISO-X License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24115A245</link>
+			<description>Request for Additional Information (RAI)</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2024-05-14 08:40:00</pubDate>
 		</item>
 	</channel>
 </rss>

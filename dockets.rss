@@ -5,12 +5,47 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 May 2024 23:13:50 GMT</pubDate>
-		<lastBuildDate>Mon, 13 May 2024 23:13:50 GMT</lastBuildDate>
+		<pubDate>Tue, 14 May 2024 14:14:49 GMT</pubDate>
+		<lastBuildDate>Tue, 14 May 2024 14:14:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>COVER LETTER - RAI Status update for the Safety and Safeguards Requests for Additional Information for the TRISO-X License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24089A201</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2024-05-14 08:40:00</pubDate>
+		</item>
+		<item>
+			<title>ENCLOSURE 1 - RAI Status Update for the Safety and Safeguards Requests for Additional Information for the TRISO-X License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24115A245</link>
+			<description>Request for Additional Information (RAI)</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2024-05-14 08:40:00</pubDate>
+		</item>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for Oklo Inc. Licensing Project Plan (Fuel Recycling) 1Q2024 Update</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24116A016</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-05-14 08:39:00</pubDate>
+		</item>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for Oklo Inc. Presentation Materials for the July 31, 2023 Meeting Regarding Licensing Approach for Fuel Recycling</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24120A208</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-05-14 08:39:00</pubDate>
+		</item>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for Oklo Inc Presentation Materials for the December 12, 2023, Meeting Regarding Recycling Facility Material Categorization</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24120A210</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-05-14 08:39:00</pubDate>
+		</item>
 		<item>
 			<title>TerraPower, LLC - Fitness-for-Duty and Security Clarifying Information</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24123A243</link>
@@ -184,41 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24121A272</link>
 			<description>Letter, Response to Request for Additional Information (RAI)</description>
 			<author>Abilene Christian University, Nuclear Energy eXperimental Testing Lab</author>
-			<pubDate>2024-05-08 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of X Energy, LLC (X-energy) Xe-100 Licensing Topical Report Transient and Safety Analysis Methodology</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24121A286</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2024-05-08 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Affidavit Supporting Request for Withholding from Public Disclosure (10 CFR 2.390)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24121A287</link>
-			<description>Legal-Affidavit</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2024-05-08 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Rev. 1 to 007834, "Xe-100 Licensing Topical Report Transient and Safety Analysis Methodology"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24121A288</link>
-			<description>Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2024-05-08 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>3-27-24 Meeting Summary of the Public Meeting with SMR, LLC, a Holtec International Company, to Discuss Information Needs re the SMR Holtec QAPD Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24107B152</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-05-08 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - 3-27-24 Meeting Agenda of the Public Meeting with SMR, LLC, a Holtec International Company, to Discuss Information Needs re: the SMR (Holtec) QAPD Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24107B153</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-05-08 08:32:00</pubDate>
 		</item>
 	</channel>

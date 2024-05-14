@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 May 2024 23:14:11 GMT</pubDate>
-		<lastBuildDate>Mon, 13 May 2024 23:14:11 GMT</lastBuildDate>
+		<pubDate>Tue, 14 May 2024 14:15:29 GMT</pubDate>
+		<lastBuildDate>Tue, 14 May 2024 14:15:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Guidelines for Implementing Seismic Isolation in Advanced Reactors_Rev A.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24134A173</link>
+			<description>Guidance Document</description>
+			<author>Southern Nuclear Company</author>
+			<pubDate>2024-05-14 08:40:00</pubDate>
+		</item>
 		<item>
 			<title>Prohibited Securities List (May 2024 Update)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24131A114</link>
@@ -24,13 +31,6 @@
 			<description>Letter, Meeting Summary</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-05-09 09:37:00</pubDate>
-		</item>
-		<item>
-			<title>Meeting Summary NRC-INL AR Codes and Standards April 4 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24123A021</link>
-			<description>Meeting Summary</description>
-			<author>NRC/RES/DE</author>
-			<pubDate>2024-05-07 14:42:00</pubDate>
 		</item>
 	</channel>
 </rss>

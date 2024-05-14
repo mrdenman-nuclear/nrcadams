@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 May 2024 23:14:03 GMT</pubDate>
-		<lastBuildDate>Mon, 13 May 2024 23:14:03 GMT</lastBuildDate>
+		<pubDate>Tue, 14 May 2024 14:15:04 GMT</pubDate>
+		<lastBuildDate>Tue, 14 May 2024 14:15:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards list of Non-Power Reactors,requested by recipient.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20080N863</link>
+			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
+			<author>NRC (Affiliation Not Assigned)</author>
+			<pubDate>2024-05-13 22:20:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards originally signed documents,delivered on 910322, to GE for custody.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20073G323</link>
@@ -122,41 +129,6 @@
 			<description>INSPECTION REPORT, MANUFACTURER/VENDOR/ENGINEER, INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
 			<pubDate>2024-05-08 11:57:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards public version of revised radiological emergency plan.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20066G547</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
-			<author>GENERAL ELECTRIC CO.</author>
-			<pubDate>2024-05-07 19:50:00</pubDate>
-		</item>
-		<item>
-			<title>Releases public version of revised radiological emergency plan.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20066G528</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
-			<pubDate>2024-05-07 19:49:00</pubDate>
-		</item>
-		<item>
-			<title>Advises that,except for licensees described in encl, decommissioning financial plan submissions from non-power reactor licensees appear to be in full compliance w/ 10CFR50.33(k) & 50.75.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20066D584</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
-			<pubDate>2024-05-07 18:17:00</pubDate>
-		</item>
-		<item>
-			<title>Vallecitos Nuclear Center License Transfer Federal Register Notice</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24082A250</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NMSS/DDUWP/RDB</author>
-			<pubDate>2024-05-07 14:41:00</pubDate>
-		</item>
-		<item>
-			<title>Accepts submittal of GE Self-Guarantee package of documents as GE financial assurance instrument,in response to GE 940301 ltr.Package will be reviewed utilizing criteria published in FR on 931229 (58FR68726).</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20065H885</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
-			<pubDate>2024-05-07 10:46:00</pubDate>
 		</item>
 	</channel>
 </rss>
