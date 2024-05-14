@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 14 May 2024 22:15:23 GMT</pubDate>
-		<lastBuildDate>Tue, 14 May 2024 22:15:23 GMT</lastBuildDate>
+		<pubDate>Tue, 14 May 2024 23:15:34 GMT</pubDate>
+		<lastBuildDate>Tue, 14 May 2024 23:15:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Requests Executive Branch position on encl Gamma-Metrics applications for licenses to export neutron flux monitoring & reactor control sys for nuclear power reactors in Eastern European countries,Republic of South Africa & USSR.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20083F058</link>
+			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF GOVERNMENTAL and PUBLIC AFFAIRS (GPA)</author>
+			<pubDate>2024-05-14 19:06:00</pubDate>
+		</item>
+		<item>
+			<title>Mod 6,providing funds & extending period of performance,to "FTS/FTS 2000 Svcs."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20083E016</link>
+			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
+			<author>GENERAL SERVICES ADMINISTRATION, NRC OFFICE OF ADMINISTRATION (ADM)</author>
+			<pubDate>2024-05-14 18:24:00</pubDate>
+		</item>
 		<item>
 			<title>License for Mitsubishi Intl Corp to export 488 kg U-235, containing 11,750 kg U,enriched to 4.15 w/o max,to Japan.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20082V007</link>
@@ -206,20 +220,6 @@
 			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
 			<author>NUCLEAR ENERGY SERVICES, INC.</author>
 			<pubDate>2024-05-13 12:08:00</pubDate>
-		</item>
-		<item>
-			<title>License for Edlow Intl Co as agent for Kansai Electric Power Co to export 242 kg U-235 contained in 5,965 kg U to Japan.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079H821</link>
-			<description>LICENSE, IMPORT/EXPORT & AMENDMENTS, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>NRC OFFICE OF GOVERNMENTAL and PUBLIC AFFAIRS (GPA)</author>
-			<pubDate>2024-05-13 12:02:00</pubDate>
-		</item>
-		<item>
-			<title>QA Program Insp Rept 99900525/83-04 on 831107-11 & 14-18.No noncompliance noted.Major areas inspected:design of exhaust sys for diesel generator & HPCS diesels.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079G871</link>
-			<description>INSPECTION REPORT, MANUFACTURER/VENDOR/ENGINEER, INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
-			<pubDate>2024-05-12 01:08:00</pubDate>
 		</item>
 	</channel>
 </rss>
