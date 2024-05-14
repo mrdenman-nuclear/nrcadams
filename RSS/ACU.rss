@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 14 May 2024 14:15:29 GMT</pubDate>
-		<lastBuildDate>Tue, 14 May 2024 14:15:29 GMT</lastBuildDate>
+		<pubDate>Tue, 14 May 2024 15:17:02 GMT</pubDate>
+		<lastBuildDate>Tue, 14 May 2024 15:17:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submits listed info in response to NRC 780117 ltr requesting that effluent & environ monitoring program be brought up to stds of RG 4.14 & addl analysis & frequencies of sampling beyond RG 4.14.W/two oversize encls.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20082H899</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>FEDERAL-AMERICAN PARTNERS</author>
+			<pubDate>2024-05-14 10:33:00</pubDate>
+		</item>
 		<item>
 			<title>Informs that per 10CFR40,SML SUA-667,amended to add Condition 33 to read as listed.Effect of amend should make specific recommendations of Staff Technical Position on Bioassay at U Mills requirement of license.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20082E482</link>
@@ -213,13 +220,6 @@
 			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, TRANSCRIPTS, DEPOSITIONS, NARRATIVE TESTIMONY</description>
 			<author>NRC ADVISORY COMMITTEE ON REACTOR SAFEGUARDS (ACRS), NRC COMMISSION (OCM)</author>
 			<pubDate>2024-05-12 00:33:00</pubDate>
-		</item>
-		<item>
-			<title>Key interface dates.Related info encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079F103</link>
-			<description>NRC TECHNICAL REPORT, TEXT-SAFETY REPORT</description>
-			<author>NRC</author>
-			<pubDate>2024-05-12 00:17:00</pubDate>
 		</item>
 	</channel>
 </rss>
