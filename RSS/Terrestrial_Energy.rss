@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 15 May 2024 17:15:19 GMT</pubDate>
-		<lastBuildDate>Wed, 15 May 2024 17:15:19 GMT</lastBuildDate>
+		<pubDate>Wed, 15 May 2024 18:19:58 GMT</pubDate>
+		<lastBuildDate>Wed, 15 May 2024 18:19:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Voided matls licensing action for license 34-16429-01 for Harris Semiconductor.Decommissioning financial assurance no longer applicable for license.Control:300050.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20081F711</link>
+			<description>DKT 30 MTL BYPRODUCT, INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION III)</author>
+			<pubDate>2024-05-15 13:44:00</pubDate>
+		</item>
+		<item>
+			<title>"Environ Rept," in support of application for 11e.(2) radioactive matl license.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20081E696</link>
+			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>ENVIROCARE OF UTAH, INC.</author>
+			<pubDate>2024-05-15 13:33:00</pubDate>
+		</item>
+		<item>
+			<title>"Generic Site Characterization Plan."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20081E401</link>
+			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
+			<author>BATTELLE MEMORIAL INSTITUTE, PACIFIC NORTHWEST NATION</author>
+			<pubDate>2024-05-15 13:30:00</pubDate>
+		</item>
 		<item>
 			<title>"US Army Armament R&D Command Cartridge 105MM,APFSDS-T, XM774 & Cartridge 105MM,APFSDS-T,M735E1 Environ Inpact Assessment Production Phase."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20081C268</link>
@@ -199,27 +220,6 @@
 			<description>NUREG</description>
 			<author>NRC/NRR, Oak Ridge Associated Universities</author>
 			<pubDate>2024-05-15 08:59:00</pubDate>
-		</item>
-		<item>
-			<title>Comments on proposed rule 10CFR2 re role of NRC in adjudicatory licensing hearings.NRC existing role in licensing process (Option 3) should be retained.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20083H584</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, LEGAL/LAW FIRM TO NRC</description>
-			<author>CONNER and WETTERHAHN, PECO ENERGY CO., (FORMERLY PHILADELPHIA ELECTRIC</author>
-			<pubDate>2024-05-14 20:17:00</pubDate>
-		</item>
-		<item>
-			<title>Informs of status of upgrading NRC emergency telecommunications sys (ETS),to relate findings of ETS risk analysis study & obtain approval of NRC recommendation to complete upgrading of ETS w/o satellite link.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20083F242</link>
-			<description>COMMISSION PAPER, TEXT-SAFETY REPORT</description>
-			<author>NRC OFFICE OF THE EXECUTIVE DIRECTOR FOR OPERATIONS (EDO)</author>
-			<pubDate>2024-05-14 19:12:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of Joint ACNW/ACRS Working Group 910923 meeting in Bethesda,MD re 10CFR20 reg guides.Pp 1-275.Viewgraphs encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20083D799</link>
-			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, TRANSCRIPTS, DEPOSITIONS, NARRATIVE TESTIMONY</description>
-			<author>NRC ADVISORY COMMITTEE ON NUCLEAR WASTE (ACNW), NRC ADVISORY COMMITTEE ON REACTOR SAFEGUARDS (ACRS)</author>
-			<pubDate>2024-05-14 18:15:00</pubDate>
 		</item>
 	</channel>
 </rss>
