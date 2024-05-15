@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 14 May 2024 23:15:34 GMT</pubDate>
-		<lastBuildDate>Tue, 14 May 2024 23:15:34 GMT</lastBuildDate>
+		<pubDate>Wed, 15 May 2024 14:16:40 GMT</pubDate>
+		<lastBuildDate>Wed, 15 May 2024 14:16:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,34 +73,6 @@
 			<description>TEXT-SAFETY REPORT, Weekly Information Report</description>
 			<author>NRC OFFICE OF THE EXECUTIVE DIRECTOR FOR OPERATIONS (EDO)</author>
 			<pubDate>2024-05-09 00:00:00</pubDate>
-		</item>
-		<item>
-			<title>Weekly info rept for wk ending 940527.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20070C351</link>
-			<description>TEXT-SAFETY REPORT, Weekly Information Report</description>
-			<author>NRC OFFICE OF THE EXECUTIVE DIRECTOR FOR OPERATIONS (EDO)</author>
-			<pubDate>2024-05-08 21:18:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards final DOE regulation to implement requirements of title X of Energy Policy Act of 1992.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20069J419</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF STATE PROGRAMS (OSP)</author>
-			<pubDate>2024-05-08 16:08:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards DOE final rule 10CFR765, "Reimbursement for Costs of Remedial Action at Active U & Thorium Processing Sites" & "Draft Guidance for Preparation of Reimbursement Claims Under Title X of Energy Policy Act."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20069D783</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>ENERGY, DEPT. OF</author>
-			<pubDate>2024-05-08 13:46:00</pubDate>
-		</item>
-		<item>
-			<title>"Draft Guidance for Preparation of Reimbursement Claims Under Title X of Energy Policy Act."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20069D800</link>
-			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>ENERGY, DEPT. OF</author>
-			<pubDate>2024-05-08 13:46:00</pubDate>
 		</item>
 	</channel>
 </rss>
