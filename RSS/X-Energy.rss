@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 15 May 2024 15:14:45 GMT</pubDate>
-		<lastBuildDate>Wed, 15 May 2024 15:14:45 GMT</lastBuildDate>
+		<pubDate>Wed, 15 May 2024 16:18:46 GMT</pubDate>
+		<lastBuildDate>Wed, 15 May 2024 16:18:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"LYNXT - Core Transient Thermal-Hydraulic Program."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20080P759</link>
+			<description>REPORTS-TOPICAL (BY MANUFACTURERS-VENDORS ETC), TEXT-SAFETY REPORT</description>
+			<author>BABCOCK and WILCOX CO.</author>
+			<pubDate>2024-05-15 12:07:00</pubDate>
+		</item>
 		<item>
 			<title>"NEMO-Nodal Expansion Method Optimized."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20083D766</link>
