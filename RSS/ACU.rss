@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 15 May 2024 16:18:45 GMT</pubDate>
-		<lastBuildDate>Wed, 15 May 2024 16:18:45 GMT</lastBuildDate>
+		<pubDate>Wed, 15 May 2024 17:15:19 GMT</pubDate>
+		<lastBuildDate>Wed, 15 May 2024 17:15:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Evaluation of Passive Containment Sys Concept as Applied to PWR Nuclear Power Plant."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20081B767</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>GIBBS and HILL, INC. (SUBS. OF DRAVO CORP.)</author>
+			<pubDate>2024-05-15 13:07:00</pubDate>
+		</item>
+		<item>
+			<title>"Unicom Corp 1994 Summary Annual Rept." W/950222 ltr.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20081A978</link>
+			<description>ANNUAL REPORTS (COMPANY-FINANCIAL), TEXT-SAFETY REPORT</description>
+			<author>AFFILIATION NOT ASSIGNED</author>
+			<pubDate>2024-05-15 12:58:00</pubDate>
+		</item>
+		<item>
+			<title>"Radionuclide Release Under Specific LWR Accident Conditions," Vol II, "BWR,Mark I Design."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20081A474</link>
+			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, RESEARCH AND TECHNICAL ASSISTANCE REPORTS, TEXT-PROCUREMENT & CONTRACTS</description>
+			<author>BATTELLE MEMORIAL INSTITUTE, COLUMBUS LABORATORIES</author>
+			<pubDate>2024-05-15 12:54:00</pubDate>
+		</item>
 		<item>
 			<title>QA Program Insp Rept 99900786/83-02 on 831129-1202. Nonconformance noted:adequate written procedure not available to control quality requirements for brazing as evidenced by nonpresentation of requested document.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20080N912</link>
@@ -199,27 +220,6 @@
 			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, TEXT-LICENSE APPLICATIONS & PERMITS</description>
 			<author>STAN A. HUBER CONSULTANTS, INC.</author>
 			<pubDate>2024-05-13 18:47:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards request for addl info re monitoring of electric power to reactor protection sys (Multi-Plant Action C-11). Response requested within 45 days of receipt of ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20080D342</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO UTILITY, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
-			<pubDate>2024-05-13 18:23:00</pubDate>
-		</item>
-		<item>
-			<title>"Edgemont Remedial Action Program," monthly rept for May 1982.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20080C637</link>
-			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
-			<author>BATTELLE MEMORIAL INSTITUTE, PACIFIC NORTHWEST NATION</author>
-			<pubDate>2024-05-13 18:01:00</pubDate>
-		</item>
-		<item>
-			<title>"Trojan Natural Gas-Fired Turbine Combined Cycle Safety Evaluation Phase 1 Rept."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20080B730</link>
-			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>BECHTEL POWER CORP.</author>
-			<pubDate>2024-05-13 17:27:00</pubDate>
 		</item>
 	</channel>
 </rss>
