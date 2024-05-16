@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 16 May 2024 14:16:08 GMT</pubDate>
-		<lastBuildDate>Thu, 16 May 2024 14:16:08 GMT</lastBuildDate>
+		<pubDate>Thu, 16 May 2024 15:14:37 GMT</pubDate>
+		<lastBuildDate>Thu, 16 May 2024 15:14:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Quad Cities Nuclear Power Station, Units 1 and 2 - Annual Radiological Environmental Operating Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24131A030</link>
+			<description>Environmental Monitoring Report, Letter</description>
+			<author>Constellation Energy Generation, LLC</author>
+			<pubDate>2024-05-16 10:48:00</pubDate>
+		</item>
+		<item>
+			<title>Point Beach Nuclear Plant, Units 1 and 2, 2023 Annual Monitoring Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24117A243</link>
+			<description>Annual Operating Report, Letter</description>
+			<author>NextEra Energy Point Beach, LLC</author>
+			<pubDate>2024-05-16 10:47:00</pubDate>
+		</item>
 		<item>
 			<title>Proceedings of 1982 Natl Waste Terminal Storage Program Info Meeting on 821214-16 in Las Vegas,NV.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20083M006</link>
@@ -206,20 +220,6 @@
 			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, PUBLIC COMMENTS ON PROPOSED RULES & PETITIONS FOR</description>
 			<author>NUCLEAR FUEL SERVICES, INC.</author>
 			<pubDate>2024-05-15 15:34:00</pubDate>
-		</item>
-		<item>
-			<title>Rev 3 to, "Draft Environ Impact Study Plan,Connecticut Low Level Radwaste Program."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20082D871</link>
-			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
-			<author>BATTELLE MEMORIAL INSTITUTE, PACIFIC NORTHWEST NATION</author>
-			<pubDate>2024-05-15 15:23:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards draft "PRA - Status Rept & Guidance For Regulatory Application." Redraft expected by early Dec 1983.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20082D936</link>
-			<description>CORRESPONDENCE-LETTERS, INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE, NRC TO ACRS</description>
-			<author>NRC OFFICE OF NUCLEAR REGULATORY RESEARCH (RES)</author>
-			<pubDate>2024-05-15 15:23:00</pubDate>
 		</item>
 	</channel>
 </rss>

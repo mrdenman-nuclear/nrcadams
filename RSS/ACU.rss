@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 16 May 2024 14:16:08 GMT</pubDate>
-		<lastBuildDate>Thu, 16 May 2024 14:16:08 GMT</lastBuildDate>
+		<pubDate>Thu, 16 May 2024 15:14:37 GMT</pubDate>
+		<lastBuildDate>Thu, 16 May 2024 15:14:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards response to NRC SER re environ qualification of electrical equipment.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20083M898</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, UTILITY TO NRC</description>
+			<author>NORTHEAST NUCLEAR ENERGY CO., NORTHEAST UTILITIES</author>
+			<pubDate>2024-05-16 10:34:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards calculations for rocker arm capscrew stress analysis & cylinder head stud evaluation.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20083L278</link>
@@ -213,13 +220,6 @@
 			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
 			<author>AFFILIATION NOT ASSIGNED</author>
 			<pubDate>2024-05-15 13:33:00</pubDate>
-		</item>
-		<item>
-			<title>"Evaluation of Passive Containment Sys Concept as Applied to PWR Nuclear Power Plant."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20081B767</link>
-			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>GIBBS and HILL, INC. (SUBS. OF DRAVO CORP.)</author>
-			<pubDate>2024-05-15 13:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
