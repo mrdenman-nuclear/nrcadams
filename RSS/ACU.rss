@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 16 May 2024 15:14:37 GMT</pubDate>
-		<lastBuildDate>Thu, 16 May 2024 15:14:37 GMT</lastBuildDate>
+		<pubDate>Thu, 16 May 2024 16:17:17 GMT</pubDate>
+		<lastBuildDate>Thu, 16 May 2024 16:17:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>License for Mitsui & Co,Inc to export 662 kg U-235,contained in 21,516 kg U,to Japan.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20083Q699</link>
+			<description>EXPORT LICENSES & AMENDMENTS, LICENSE, IMPORT/EXPORT & AMENDMENTS, TEXT-LICENSE APPLICATIONS & PERMITS</description>
+			<author>NRC OFFICE OF INTERNATIONAL PROGRAMS (OIP)</author>
+			<pubDate>2024-05-16 12:06:00</pubDate>
+		</item>
+		<item>
+			<title>"FY84-86 NRR Operating Plan." Related info encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20083P254</link>
+			<description>NRC TECHNICAL REPORT, TEXT-SAFETY REPORT</description>
+			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
+			<pubDate>2024-05-16 11:16:00</pubDate>
+		</item>
+		<item>
+			<title>Rev 7 of "Implementation Plan for EIS for Completion of West Valley Demonstration Project By DOE & Closure of Western NY Nuclear Svc Ctr By NY State Energy Research & Development Authority," dtd Mar 1995.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20083P214</link>
+			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
+			<author>ENERGY, DEPT. OF</author>
+			<pubDate>2024-05-16 11:15:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards response to NRC SER re environ qualification of electrical equipment.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20083M898</link>
@@ -199,27 +220,6 @@
 			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
 			<author>I-NET, INC., NRC OFFICE OF ADMINISTRATION (ADM)</author>
 			<pubDate>2024-05-15 13:39:00</pubDate>
-		</item>
-		<item>
-			<title>Rev 0 to "Geotechnical Profiles."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20081E867</link>
-			<description>ARCHIVE RECORDS, OPERATIONS SUPPORT-CALCULATIONS</description>
-			<author>MK-FERGUSON CO.</author>
-			<pubDate>2024-05-15 13:36:00</pubDate>
-		</item>
-		<item>
-			<title>Rev 2 to "Geotechnical Properties."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20081E824</link>
-			<description>ARCHIVE RECORDS, OPERATIONS SUPPORT-CALCULATIONS</description>
-			<author>MK-FERGUSON CO.</author>
-			<pubDate>2024-05-15 13:35:00</pubDate>
-		</item>
-		<item>
-			<title>Vol 1 to "Description of Current Conditions Rept."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20081E597</link>
-			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>AFFILIATION NOT ASSIGNED</author>
-			<pubDate>2024-05-15 13:33:00</pubDate>
 		</item>
 	</channel>
 </rss>
