@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 16 May 2024 20:15:27 GMT</pubDate>
-		<lastBuildDate>Thu, 16 May 2024 20:15:27 GMT</lastBuildDate>
+		<pubDate>Thu, 16 May 2024 21:14:41 GMT</pubDate>
+		<lastBuildDate>Thu, 16 May 2024 21:14:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards Calculations 11600.60-245.1-M3 re air start valve capscrew & dimensional & stress analysis,unnumbered calculation re jacket water pump & sketches of intake & exhaust tappet valve sys,per 840426 request.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20084F971</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, UTILITY TO NRC</description>
+			<author>DUKE POWER CO., TDI (TRANSAMERICA DELAVAL, INC.) OWNERS GROUP</author>
+			<pubDate>2024-05-16 16:32:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards Second Quarter FY84 update of Generic Issue Mgt Control Sys.Progress on Issues II.C.2,III.A.1.3 & IV.E.5 halted awaiting Commission action.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20084C935</link>
@@ -213,13 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
 			<pubDate>2024-05-15 14:00:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards info for vitrification facility NRC readiness notebook.Encls includes updated P&IDs,various sys descriptions & general arrangement drawings lists & drawings.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20081G816</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>ENERGY, DEPT. OF</author>
-			<pubDate>2024-05-15 13:55:00</pubDate>
 		</item>
 	</channel>
 </rss>
