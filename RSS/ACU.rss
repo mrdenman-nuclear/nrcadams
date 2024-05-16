@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 16 May 2024 18:17:36 GMT</pubDate>
-		<lastBuildDate>Thu, 16 May 2024 18:17:36 GMT</lastBuildDate>
+		<pubDate>Thu, 16 May 2024 19:11:51 GMT</pubDate>
+		<lastBuildDate>Thu, 16 May 2024 19:11:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards Second Quarter FY84 update of Generic Issue Mgt Control Sys.Progress on Issues II.C.2,III.A.1.3 & IV.E.5 halted awaiting Commission action.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20084C935</link>
+			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
+			<pubDate>2024-05-16 14:52:00</pubDate>
+		</item>
+		<item>
+			<title>Procedure MK-UMTRA-09, "Health Physics Procedures."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20084C395</link>
+			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
+			<author>CHEM-NUCLEAR SYSTEMS, INC.</author>
+			<pubDate>2024-05-16 14:32:00</pubDate>
+		</item>
 		<item>
 			<title>License for Mitsui & Co,Inc to export 662 kg U-235,contained in 21,516 kg U,to Japan.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20083Q699</link>
@@ -206,20 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
 			<author>ENERGY, DEPT. OF</author>
 			<pubDate>2024-05-15 13:55:00</pubDate>
-		</item>
-		<item>
-			<title>Application for amend to License SNM-778,reflecting recent change in corporate organization.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20081G320</link>
-			<description>APPLICATION,SNM LICENSE & AMEND /RENEWAL TO LICENSE, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>BABCOCK and WILCOX CO.</author>
-			<pubDate>2024-05-15 13:50:00</pubDate>
-		</item>
-		<item>
-			<title>Contract: "Technical Support Svcs for Telecommunications Network Analysis" awarded to I-Net.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20081F292</link>
-			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
-			<author>I-NET, INC., NRC OFFICE OF ADMINISTRATION (ADM)</author>
-			<pubDate>2024-05-15 13:39:00</pubDate>
 		</item>
 	</channel>
 </rss>

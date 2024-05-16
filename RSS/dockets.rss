@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 16 May 2024 18:17:21 GMT</pubDate>
-		<lastBuildDate>Thu, 16 May 2024 18:17:21 GMT</lastBuildDate>
+		<pubDate>Thu, 16 May 2024 19:11:38 GMT</pubDate>
+		<lastBuildDate>Thu, 16 May 2024 19:11:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submittal of Presentation Materials for Pre-submittal Meeting Regarding Kairos Power's Reactor Protection System Platform Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24136A145</link>
+			<description>Letter</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2024-05-16 14:34:00</pubDate>
+		</item>
+		<item>
+			<title>Presentation Materials for Pre-submittal Meeting Regarding Kairos Power's Reactor Protection System Platform Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24136A146</link>
+			<description>Slides and Viewgraphs</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2024-05-16 14:34:00</pubDate>
+		</item>
 		<item>
 			<title>Kairos Power, LLC - Transmittal of Response to NRC Request for Confirmation of Information for the Review of the Hermes 2 PSAR Chapter 5</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24135A383</link>
@@ -206,20 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-05-14 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Information from Public Disclosure for Oklo Inc Presentation Materials for the December 12, 2023, Meeting Regarding Recycling Facility Material Categorization</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24120A210</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-05-14 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC - Fitness-for-Duty and Security Clarifying Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24123A243</link>
-			<description>Letter</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2024-05-13 15:18:00</pubDate>
 		</item>
 	</channel>
 </rss>

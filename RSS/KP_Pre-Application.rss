@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 16 May 2024 18:17:21 GMT</pubDate>
-		<lastBuildDate>Thu, 16 May 2024 18:17:21 GMT</lastBuildDate>
+		<pubDate>Thu, 16 May 2024 19:11:38 GMT</pubDate>
+		<lastBuildDate>Thu, 16 May 2024 19:11:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Submittal of Presentation Materials for Pre-submittal Meeting Regarding Kairos Power's Reactor Protection System Platform Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24136A145</link>
+			<description>Letter</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2024-05-16 14:34:00</pubDate>
+		</item>
+		<item>
+			<title>Presentation Materials for Pre-submittal Meeting Regarding Kairos Power's Reactor Protection System Platform Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24136A146</link>
+			<description>Slides and Viewgraphs</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2024-05-16 14:34:00</pubDate>
+		</item>
+	</channel>
 </rss>
