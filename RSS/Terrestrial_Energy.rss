@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 16 May 2024 19:11:51 GMT</pubDate>
-		<lastBuildDate>Thu, 16 May 2024 19:11:51 GMT</lastBuildDate>
+		<pubDate>Thu, 16 May 2024 20:15:27 GMT</pubDate>
+		<lastBuildDate>Thu, 16 May 2024 20:15:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Dresden Nuclear Power Station, Units 1, 2 and 3, 2023 Radioactive Effluent Release Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24127A098</link>
+			<description>Environmental Monitoring Report, Letter</description>
+			<author>Constellation Energy Generation, LLC</author>
+			<pubDate>2024-05-16 15:23:00</pubDate>
+		</item>
 		<item>
 			<title>"Work Plan For Remedial Investigation & Feasibility Study At Shieldalloy Metallurgical Corp Site In Cambridge,OH."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20084D434</link>
@@ -213,13 +220,6 @@
 			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
 			<author>I-NET, INC., NRC OFFICE OF ADMINISTRATION (ADM)</author>
 			<pubDate>2024-05-15 16:28:00</pubDate>
-		</item>
-		<item>
-			<title>Informs that NRC LLW disposal regulation does not specifically address groundwater protection & could allow LLW disposal facility to cause radioactive contamination of groundwater to levels that require treatment.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20082L408</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>ENVIRONMENTAL PROTECTION AGENCY</author>
-			<pubDate>2024-05-15 16:20:00</pubDate>
 		</item>
 	</channel>
 </rss>
