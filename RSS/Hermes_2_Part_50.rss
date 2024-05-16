@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 15 May 2024 23:14:48 GMT</pubDate>
-		<lastBuildDate>Wed, 15 May 2024 23:14:48 GMT</lastBuildDate>
+		<pubDate>Thu, 16 May 2024 14:15:51 GMT</pubDate>
+		<lastBuildDate>Thu, 16 May 2024 14:15:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,27 +38,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Kairos Power, LLC</author>
 			<pubDate>2024-05-14 13:06:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power, LLC, Transmittal of Reponses to NRC Requests for Confirmation of Information for the Review of the Hermes 2 PSAR Chapter 5</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24103A242</link>
-			<description>Letter</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2024-05-09 11:32:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power, LLC, Reponses to NRC Requests for Confirmation of Information for the Review of the Hermes 2 PSAR Chapter 5</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24103A243</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2024-05-09 11:32:00</pubDate>
-		</item>
-		<item>
-			<title>2024/04/25 Kairos - Hermes 2 Docs - Draft Environmental Assessment and Finding of No Significant Impact for Kairos Hermes 2 Test Reactors in Oak Ridge, Tennessee</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24116A162</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2024-05-09 08:40:00</pubDate>
 		</item>
 	</channel>
 </rss>

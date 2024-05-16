@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 15 May 2024 23:15:05 GMT</pubDate>
-		<lastBuildDate>Wed, 15 May 2024 23:15:05 GMT</lastBuildDate>
+		<pubDate>Thu, 16 May 2024 14:16:08 GMT</pubDate>
+		<lastBuildDate>Thu, 16 May 2024 14:16:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>X-Energy Xenith Reactor May 1, 2024 - Public Meeting Summary Analytical Methods Topical Report Discussion</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24129A041</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-05-16 08:32:00</pubDate>
+		</item>
 		<item>
 			<title>"GPU Annual Rept 1994."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20082S298</link>
@@ -87,34 +94,6 @@
 			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, INCOMING CORRESPONDENCE, OTHER U.S. GOVERNMENT AGENCY/DEPARTMENT TO NRC</description>
 			<author>AGRICULTURE, DEPT. OF</author>
 			<pubDate>2024-05-10 15:50:00</pubDate>
-		</item>
-		<item>
-			<title>Recommends that State of WY be exempt from fees associated w/reclamation of Gas Hills site as described in encl ltr from State of WY dtd 940721.W/o encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20072L330</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
-			<pubDate>2024-05-09 20:10:00</pubDate>
-		</item>
-		<item>
-			<title>Voided matls licensing action for License 37-16238-01 for Allentown Hosp & Lehigh Valley Hosp Ctr.Control:112789.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20070R217</link>
-			<description>DKT 30 MTL BYPRODUCT, INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I)</author>
-			<pubDate>2024-05-09 04:12:00</pubDate>
-		</item>
-		<item>
-			<title>Rev 1 to BAW-10156-A, "LYNXT Core Transient Thermal- Hydraulic Program."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20070L081</link>
-			<description>REPORTS-TOPICAL (BY MANUFACTURERS-VENDORS ETC), TEXT-SAFETY REPORT</description>
-			<author>BABCOCK and WILCOX CO.</author>
-			<pubDate>2024-05-09 01:43:00</pubDate>
-		</item>
-		<item>
-			<title>Weekly info rept for wk ending 940603.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20070H143</link>
-			<description>TEXT-SAFETY REPORT, Weekly Information Report</description>
-			<author>NRC OFFICE OF THE EXECUTIVE DIRECTOR FOR OPERATIONS (EDO)</author>
-			<pubDate>2024-05-09 00:00:00</pubDate>
 		</item>
 	</channel>
 </rss>

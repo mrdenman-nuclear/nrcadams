@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 15 May 2024 23:14:48 GMT</pubDate>
-		<lastBuildDate>Wed, 15 May 2024 23:14:48 GMT</lastBuildDate>
+		<pubDate>Thu, 16 May 2024 14:15:51 GMT</pubDate>
+		<lastBuildDate>Thu, 16 May 2024 14:15:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Non-Prop - Meeting Summary - Apr 11 2024 - Quarterly NRC-NuScale SDAA Status Public Meeting</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24127A162</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2024-05-16 08:32:00</pubDate>
+		</item>
 		<item>
 			<title>Staff -A Verification Form 896 for NuScale Topical Report TR-108601-P-A, Revision 4, "Statistical Subchannel Analysis Methodology to TR-0915-1756-P-A, Revision 2, Subchannel Analysis Methodology."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24123A159</link>
@@ -24,20 +31,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2024-05-15 08:57:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Response to NRC Request for Additional Information No. 005 (RAI-10089-R1) on the NuScale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24122C615</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-05-09 08:41:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Response to NRC Request for Additional Information No. 009 (RAI-10106) on the NuScale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24122C612</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-05-09 08:40:00</pubDate>
 		</item>
 	</channel>
 </rss>
