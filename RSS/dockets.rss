@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 16 May 2024 23:15:26 GMT</pubDate>
-		<lastBuildDate>Thu, 16 May 2024 23:15:26 GMT</lastBuildDate>
+		<pubDate>Fri, 17 May 2024 13:39:40 GMT</pubDate>
+		<lastBuildDate>Fri, 17 May 2024 13:39:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure - NRC Staff Assessment of SMR (Holtec) White Paper on Limited Work Authorization (Project No. 99902049)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24074A294</link>
+			<description>- No Document Type Applies</description>
+			<author>NRC/NRR/DNRL</author>
+			<pubDate>2024-05-17 08:39:00</pubDate>
+		</item>
+		<item>
+			<title>Transmittal letter re - NRC Staff Assessment of SMR, LLC (A Holtec International Company) White Paper on Limited Work Authorization (Project No. 99902049).</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24074A293</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-05-17 08:38:00</pubDate>
+		</item>
+		<item>
+			<title>Transmittal email Draft SE for Topical Reports Advanced Logic System v2 Platform Topical Report and Advanced Logic System v2 Development Process</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24051A115</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-05-17 08:38:00</pubDate>
+		</item>
 		<item>
 			<title>Submittal of Presentation Materials for Pre-submittal Meeting Regarding Kairos Power's Reactor Protection System Platform Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24136A145</link>
@@ -199,27 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
 			<pubDate>2024-05-14 08:40:00</pubDate>
-		</item>
-		<item>
-			<title>ENCLOSURE 1 - RAI Status Update for the Safety and Safeguards Requests for Additional Information for the TRISO-X License Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24115A245</link>
-			<description>Request for Additional Information (RAI)</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2024-05-14 08:40:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Information from Public Disclosure for Oklo Inc. Licensing Project Plan (Fuel Recycling) 1Q2024 Update</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24116A016</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-05-14 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Information from Public Disclosure for Oklo Inc. Presentation Materials for the July 31, 2023 Meeting Regarding Licensing Approach for Fuel Recycling</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24120A208</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-05-14 08:39:00</pubDate>
 		</item>
 	</channel>
 </rss>

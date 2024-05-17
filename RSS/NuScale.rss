@@ -5,32 +5,39 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 16 May 2024 23:15:43 GMT</pubDate>
-		<lastBuildDate>Thu, 16 May 2024 23:15:43 GMT</lastBuildDate>
+		<pubDate>Fri, 17 May 2024 13:39:57 GMT</pubDate>
+		<lastBuildDate>Fri, 17 May 2024 13:39:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure - NRC Staff Assessment of SMR (Holtec) White Paper on Limited Work Authorization (Project No. 99902049)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24074A294</link>
+			<description>- No Document Type Applies</description>
+			<author>NRC/NRR/DNRL</author>
+			<pubDate>2024-05-17 08:39:00</pubDate>
+		</item>
+		<item>
+			<title>03/12/2024 Regulatory Information Conference (RIC) Chair Hanson Opening Plenary Transcript</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24136A217</link>
+			<description>Conference/Symposium/Workshop Paper, Meeting Transcript</description>
+			<author>NRC/Chairman, NRC/OCM/CTH</author>
+			<pubDate>2024-05-17 08:39:00</pubDate>
+		</item>
+		<item>
+			<title>M240607: Slides - Meeting with Advisory Committee on Reactor Safeguards</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24138A002</link>
+			<description>Commission Meeting Slides</description>
+			<author>NRC/OCM</author>
+			<pubDate>2024-05-17 08:39:00</pubDate>
+		</item>
 		<item>
 			<title>Peach Bottom Lessons Learned for ECCS Digital I&C License Amendment - Rev 0</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24134A203</link>
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NRC/NRR/DORL/LPLI</author>
 			<pubDate>2024-05-14 08:40:00</pubDate>
-		</item>
-		<item>
-			<title>Prohibited Securities List (May 2024 Update)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24131A114</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/OGC</author>
-			<pubDate>2024-05-10 16:23:00</pubDate>
-		</item>
-		<item>
-			<title>Peach Bottom Lessons Learned for ECCS Digital I&C License Amendment (EPID L-2024-LRM-0009)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24131A128</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DORL</author>
-			<pubDate>2024-05-10 16:23:00</pubDate>
 		</item>
 	</channel>
 </rss>

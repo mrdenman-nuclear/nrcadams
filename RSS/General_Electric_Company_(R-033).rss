@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 16 May 2024 23:15:33 GMT</pubDate>
-		<lastBuildDate>Thu, 16 May 2024 23:15:33 GMT</lastBuildDate>
+		<pubDate>Fri, 17 May 2024 13:39:46 GMT</pubDate>
+		<lastBuildDate>Fri, 17 May 2024 13:39:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
 			<author>NRC (Affiliation Not Assigned)</author>
 			<pubDate>2024-05-13 22:20:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards originally signed documents,delivered on 910322, to GE for custody.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20073G323</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
-			<pubDate>2024-05-10 11:25:00</pubDate>
 		</item>
 	</channel>
 </rss>
