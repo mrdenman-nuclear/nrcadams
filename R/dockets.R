@@ -32,7 +32,7 @@ docket_codex = tibble::tribble(
   # "X-Energy", "Entergy",  7200075, FALSE,
 
   "Natrium Pre-Application", "TerraPower", 99902100, TRUE,
-  "Natrium Part 50", "USO", 05000613, TRUE,
+  "Natrium Part 50", "TerraPower", 05000613, TRUE,
   "UIUC HTGR Pre-Application", "UCUI", 99902094, TRUE,
   "eVinci Pre-Application", "Westinghouse", 99902079, TRUE,
   "IMSR Pre-Application", "Terrestrial Energy", 99902076, TRUE,

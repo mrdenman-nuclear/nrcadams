@@ -36,33 +36,8 @@ search_undocketed <- function(
   paste("Searching with the following URL:\n", url,"\n") |>
     tictoc::tic()
   
-  results = xml2::read_xml(url)
-  if(results |> nrcadams:::extract_from_xml("count") |> as.integer() == 0) return(tibble::tibble())
 
-  adams_tbl = tibble::tibble(
-    Title = results |>
-      nrcadams:::extract_from_xml("DocumentTitle"),
-    `Document Date` = results |>
-      nrcadams:::extract_from_xml("DocumentDate") |>
-      lubridate::mdy(),
-    `Publish Date` = results |>
-      nrcadams:::extract_from_xml("PublishDatePARS") |>
-      lubridate::mdy_hm(tz = "EDT"),
-    Type = results|>
-      nrcadams:::extract_from_xml("DocumentType"),
-    Affiliation = results|>
-      nrcadams:::extract_from_xml("AuthorAffiliation"),
-    URL = results |>
-      nrcadams:::extract_from_xml("URI"),
-    `ML Number` = results |>
-      nrcadams:::extract_from_xml("AccessionNumber")
-  ) |>
-    dplyr::mutate(
-      `Publish Date` = `Publish Date` - 4*3600,
-      Company = company
-    ) |>
-    dplyr::arrange(dplyr::desc(`Publish Date`)) |>
-    suppressWarnings()
+  adams_tbl = nrcadams:::make_results_tibble_no_docket(url, company)
 
 
   tictoc::toc()
