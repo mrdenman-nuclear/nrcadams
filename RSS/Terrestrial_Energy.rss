@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 May 2024 21:14:05 GMT</pubDate>
-		<lastBuildDate>Fri, 24 May 2024 21:14:05 GMT</lastBuildDate>
+		<pubDate>Fri, 24 May 2024 22:15:44 GMT</pubDate>
+		<lastBuildDate>Fri, 24 May 2024 22:15:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Progress Rept on Site Characterization:Yucca Mountain for Apr-Sept 1991" Number 5.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20097D376</link>
+			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
+			<author>ENERGY, DEPT. OF</author>
+			<pubDate>2024-05-24 17:36:00</pubDate>
+		</item>
 		<item>
 			<title>Comment re Draft Reg Guide DG-8016, "Constraints for Air Effluents for Licensees Other Than Power Reactors."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20097B555</link>
@@ -213,13 +220,6 @@
 			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
 			<author>LOUISIANA ENERGY SERVICES</author>
 			<pubDate>2024-05-23 13:14:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards proposed rule,changing Commission regulations in 10CFR20 to specify residual radioactive contamination limits for decommissioning,for comment.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20094N573</link>
-			<description>CORRESPONDENCE-LETTERS, INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE, NRC TO ACRS</description>
-			<author>NRC OFFICE OF NUCLEAR REGULATORY RESEARCH (RES)</author>
-			<pubDate>2024-05-23 13:02:00</pubDate>
 		</item>
 	</channel>
 </rss>
