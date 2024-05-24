@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 17 May 2024 13:39:40 GMT</pubDate>
-		<lastBuildDate>Fri, 17 May 2024 13:39:40 GMT</lastBuildDate>
+		<pubDate>Fri, 24 May 2024 01:17:51 GMT</pubDate>
+		<lastBuildDate>Fri, 24 May 2024 01:17:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Summary of the December 18, 2023, Closed Meeting with Terrestrial Energy USA, Post-Submittal Discussion regarding NRC’S Staff Feedback</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24113A311</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-05-23 09:01:00</pubDate>
+		</item>
+	</channel>
 </rss>

@@ -5,39 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 17 May 2024 13:39:46 GMT</pubDate>
-		<lastBuildDate>Fri, 17 May 2024 13:39:46 GMT</lastBuildDate>
+		<pubDate>Fri, 24 May 2024 01:17:55 GMT</pubDate>
+		<lastBuildDate>Fri, 24 May 2024 01:17:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Summarizes results from check at all facilities operating at high or reasonably high power level following 651109 loss of power in major geographical areas within Region I.No unusual or unsafe conditions occurred.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20084B216</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>US ATOMIC ENERGY COMMISSION (AEC)</author>
-			<pubDate>2024-05-16 13:47:00</pubDate>
-		</item>
-		<item>
-			<title>MIT - Proposal for Conversion to Low Enriched Uranium (LEU), MIT Research Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24127A100</link>
-			<description>Letter</description>
-			<author>Massachusetts Institute of Technology (MIT)</author>
-			<pubDate>2024-05-14 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>MIT - Update of Professor Ian A. Waitz Named as MIT Vice President for Research</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24127A101</link>
-			<description>Letter</description>
-			<author>Massachusetts Institute of Technology (MIT)</author>
-			<pubDate>2024-05-14 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards list of Non-Power Reactors,requested by recipient.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20080N863</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC (Affiliation Not Assigned)</author>
-			<pubDate>2024-05-13 22:20:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

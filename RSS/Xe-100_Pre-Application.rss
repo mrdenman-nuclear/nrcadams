@@ -5,11 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 17 May 2024 13:39:40 GMT</pubDate>
-		<lastBuildDate>Fri, 17 May 2024 13:39:40 GMT</lastBuildDate>
+		<pubDate>Fri, 24 May 2024 01:17:51 GMT</pubDate>
+		<lastBuildDate>Fri, 24 May 2024 01:17:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Submittal of X Energy, LLC (X-energy) Xe-100 Licensing Topical Report Mechanistic Source Term Approach</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24131A147</link>
+			<description>Letter</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2024-05-20 08:51:00</pubDate>
+		</item>
+		<item>
+			<title>X Energy, LLC - Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24131A148</link>
+			<description>Legal-Affidavit</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2024-05-20 08:51:00</pubDate>
+		</item>
+		<item>
+			<title>000632, Revision 2, "Xe-100 Licensing Topical Report Mechanistic Source Term Approach"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24131A149</link>
+			<description>Topical Report</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2024-05-20 08:51:00</pubDate>
+		</item>
+	</channel>
 </rss>
