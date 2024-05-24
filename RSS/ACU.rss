@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 May 2024 18:19:29 GMT</pubDate>
-		<lastBuildDate>Fri, 24 May 2024 18:19:29 GMT</lastBuildDate>
+		<pubDate>Fri, 24 May 2024 19:13:39 GMT</pubDate>
+		<lastBuildDate>Fri, 24 May 2024 19:13:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards NMED Rept covering April through Dec 1995.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20096E428</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>UTAH, STATE OF</author>
+			<pubDate>2024-05-24 14:57:00</pubDate>
+		</item>
+		<item>
+			<title>Package of two comments supporting proposed rule 10CFR50 re limiting use of highly enriched U in domestic research & test reactors.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20096D759</link>
+			<description>CORRESPONDENCE-LETTERS, EDUCATIONAL INSTITUTION TO NRC, INCOMING CORRESPONDENCE</description>
+			<author>CALIFORNIA, UNIV. OF, SANTA CRUZ, CA, COMMITTEE TO BRIDGE THE GAP</author>
+			<pubDate>2024-05-24 14:40:00</pubDate>
+		</item>
 		<item>
 			<title>Informs that time provided by NRC regulation within which Commission may act to review decision of ASLB terminating proceeding under docket has expired.W/Certificate of Svc. Served on 951229.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20096A521</link>
@@ -206,20 +220,6 @@
 			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, DKT 30 MTL BYPRODUCT, TEXT-LICENSE APPLICATIONS & PERMITS</description>
 			<author>INTERIOR, DEPT. OF, BUREAU OF INDIAN AFFAIRS</author>
 			<pubDate>2024-05-23 09:19:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards page changes to Subcontractor Documents for Gunnison,CO remedial action plan.Page changes consistent w/ changes made in previously submitted PIDs up to PID 08-S-18.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20094E398</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>ENERGY, DEPT. OF</author>
-			<pubDate>2024-05-23 04:47:00</pubDate>
-		</item>
-		<item>
-			<title>Rev to Vols I,III & IV of "Vitrification Facility NRC Readiness Notebook."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20094C035</link>
-			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>WEST VALLEY NUCLEAR SERVICES CO., INC.</author>
-			<pubDate>2024-05-23 03:17:00</pubDate>
 		</item>
 	</channel>
 </rss>
