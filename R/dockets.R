@@ -17,7 +17,7 @@ docket_codex = tibble::tribble(
   "Shine Recycling Pre-Application", "Shine Medical Technologies", 99902115, TRUE,
   "Xe-100 Pre-Application", "X-Energy", 99902071, TRUE,
   "TRISO-X Fab. Part 70", "X-Energy", 07007027, TRUE,
-  # "Long Mott", "X-Energy", 99902117, TRUE,
+  "Long Mott Pre-Application", "X-Energy", 99902117, TRUE,
   "AP300", "Westinghouse", 99902111, FALSE,
 
   # # The following docket numbers were assigned to one prop withholding form...
@@ -32,6 +32,7 @@ docket_codex = tibble::tribble(
   # "X-Energy", "Entergy",  7200075, FALSE,
 
   "Natrium Pre-Application", "TerraPower", 99902100, TRUE,
+  "Natrium Part 50", "USO", 05000613, TRUE,
   "UIUC HTGR Pre-Application", "UCUI", 99902094, TRUE,
   "eVinci Pre-Application", "Westinghouse", 99902079, TRUE,
   "IMSR Pre-Application", "Terrestrial Energy", 99902076, TRUE,

@@ -7,7 +7,11 @@
 \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
 }
 \usage{
-adams_docket_numbers(docket_numbers = NA, exclude = FALSE)
+adams_docket_numbers(
+  docket_numbers = NA,
+  exclude = FALSE,
+  closing_bracket = TRUE
+)
 }
 \arguments{
 \item{docket_numbers}{dbl/vector: Docket number (or numbers) to be searched on ADAMS}

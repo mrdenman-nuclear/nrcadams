@@ -7,7 +7,7 @@
 \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
 }
 \usage{
-search_undocketed(company = "Kairos Power", days_back = 7)
+search_undocketed(company = "Kairos Power", days_back = 30)
 }
 \arguments{
 \item{company}{chr: Name of the company in nrcadams::docket_codex to be searched for.}
