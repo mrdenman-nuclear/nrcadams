@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 May 2024 01:18:03 GMT</pubDate>
-		<lastBuildDate>Fri, 24 May 2024 01:18:03 GMT</lastBuildDate>
+		<pubDate>Fri, 24 May 2024 15:25:58 GMT</pubDate>
+		<lastBuildDate>Fri, 24 May 2024 15:25:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -122,6 +122,76 @@
 			<description>Status Report</description>
 			<author>NRC/OCM</author>
 			<pubDate>2024-05-20 08:51:00</pubDate>
+		</item>
+		<item>
+			<title>Summary of ACRS Subcommittee on Human Factors 830519 meeting in Washington,DC re review of priorities assigned to human factors related safety issues & briefing by IE on recent activities at NRC Incident Response Ctr.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20085E224</link>
+			<description>MEETING MINUTES & NOTES--CORRESPONDENCE, MEETING SUMMARIES-INTERNAL (NON-TRANSCRIPT)</description>
+			<author>NRC ADVISORY COMMITTEE ON REACTOR SAFEGUARDS (ACRS)</author>
+			<pubDate>2024-05-17 05:49:00</pubDate>
+		</item>
+		<item>
+			<title>X-Energy Xenith Reactor May 1, 2024 - Public Meeting Summary Analytical Methods Topical Report Discussion</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24129A041</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-05-16 08:32:00</pubDate>
+		</item>
+		<item>
+			<title>"GPU Annual Rept 1994."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20082S298</link>
+			<description>ANNUAL REPORTS (COMPANY-FINANCIAL), TEXT-SAFETY REPORT</description>
+			<author>GENERAL PUBLIC UTILITIES CORP.</author>
+			<pubDate>2024-05-15 17:16:00</pubDate>
+		</item>
+		<item>
+			<title>Intervenor exhibit I-CANT-19,consisting of rept "World Nuclear Outlook,1994."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20082G574</link>
+			<description>EXHIBITS (DOCKETING AND SERVICES BRANCH INFORMATION, LEGAL TRANSCRIPTS & ORDERS & PLEADINGS</description>
+			<author>ENERGY, DEPT. OF</author>
+			<pubDate>2024-05-15 15:49:00</pubDate>
+		</item>
+		<item>
+			<title>Intervenor exhibit I-CANT-20,consisting of rept, "World Nuclear Capacity & Fuel Cycle Requirements 1993."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20082G586</link>
+			<description>EXHIBITS (DOCKETING AND SERVICES BRANCH INFORMATION, LEGAL TRANSCRIPTS & ORDERS & PLEADINGS</description>
+			<author>ENERGY, DEPT. OF</author>
+			<pubDate>2024-05-15 15:49:00</pubDate>
+		</item>
+		<item>
+			<title>Discusses licensee use of financial test to demonstrate financial assurance.W/1994 annual rept encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20082D245</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>HOMESTAKE MINING CO.</author>
+			<pubDate>2024-05-15 15:17:00</pubDate>
+		</item>
+		<item>
+			<title>"Homestake Mining Co 1994 Annual Rept."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20082D254</link>
+			<description>ANNUAL REPORTS (COMPANY-FINANCIAL), TEXT-SAFETY REPORT</description>
+			<author>HOMESTAKE MINING CO.</author>
+			<pubDate>2024-05-15 15:17:00</pubDate>
+		</item>
+		<item>
+			<title>"LYNXT - Core Transient Thermal-Hydraulic Program."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20080P759</link>
+			<description>REPORTS-TOPICAL (BY MANUFACTURERS-VENDORS ETC), TEXT-SAFETY REPORT</description>
+			<author>BABCOCK and WILCOX CO.</author>
+			<pubDate>2024-05-15 12:07:00</pubDate>
+		</item>
+		<item>
+			<title>"NEMO-Nodal Expansion Method Optimized."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20083D766</link>
+			<description>REPORTS-TOPICAL (BY MANUFACTURERS-VENDORS ETC), TEXT-SAFETY REPORT</description>
+			<author>BABCOCK and WILCOX CO.</author>
+			<pubDate>2024-05-14 18:14:00</pubDate>
+		</item>
+		<item>
+			<title>"RETRAN-02 - Program for Transient Thermal-Hydraulic Analysis of Complex Fluid Flow Sys,Vol 4:Applications."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079R783</link>
+			<description>REPORTS-TOPICAL (BY MANUFACTURERS-VENDORS ETC), TEXT-SAFETY REPORT</description>
+			<author>ENERGY, INC.</author>
+			<pubDate>2024-05-13 16:10:00</pubDate>
 		</item>
 	</channel>
 </rss>

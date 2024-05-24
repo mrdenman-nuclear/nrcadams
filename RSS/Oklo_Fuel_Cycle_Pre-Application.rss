@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 May 2024 01:17:51 GMT</pubDate>
-		<lastBuildDate>Fri, 24 May 2024 01:17:51 GMT</lastBuildDate>
+		<pubDate>Fri, 24 May 2024 15:24:00 GMT</pubDate>
+		<lastBuildDate>Fri, 24 May 2024 15:24:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,6 +52,48 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2024-05-21 08:51:00</pubDate>
+		</item>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for Oklo Inc. Presentation Materials for the December 18, 2023 Meeting Regarding Fuel Recycling Licensing Approach Outline.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24120A222</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-05-15 08:57:00</pubDate>
+		</item>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for Oklo Inc. Licensing Project Plan (Fuel Recycling) 1Q2024 Update</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24116A016</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-05-14 08:39:00</pubDate>
+		</item>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for Oklo Inc. Presentation Materials for the July 31, 2023 Meeting Regarding Licensing Approach for Fuel Recycling</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24120A208</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-05-14 08:39:00</pubDate>
+		</item>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for Oklo Inc Presentation Materials for the December 12, 2023, Meeting Regarding Recycling Facility Material Categorization</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24120A210</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-05-14 08:39:00</pubDate>
+		</item>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for Oklo, Inc. Licensing Project Plan (Fuel Recycling): 3Q2023 Update</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24116A115</link>
+			<description>Note to File incl Telcon Record, Verbal Comm</description>
+			<author>NRC/RGN-IV/DRSS</author>
+			<pubDate>2024-05-13 08:31:00</pubDate>
+		</item>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for Oklo Inc., Licensing Project Plan (Fuel Recycling): 2Q2023 Update</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24116A082</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-05-13 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

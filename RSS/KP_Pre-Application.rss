@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 May 2024 01:17:51 GMT</pubDate>
-		<lastBuildDate>Fri, 24 May 2024 01:17:51 GMT</lastBuildDate>
+		<pubDate>Fri, 24 May 2024 15:24:00 GMT</pubDate>
+		<lastBuildDate>Fri, 24 May 2024 15:24:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,6 +24,34 @@
 			<description>Meeting Agenda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-05-21 08:52:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1: Changes to Hermes 2 PSAR Chapter 9</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24136A255</link>
+			<description>Preliminary Safety Analysis Report (PSAR)</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2024-05-17 13:19:00</pubDate>
+		</item>
+		<item>
+			<title>Kairos Power LLC - Transmittal of Changes to Hermes 2 Construction Permit Application - PSAR Chapter 9</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24136A254</link>
+			<description>Letter</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2024-05-17 10:48:00</pubDate>
+		</item>
+		<item>
+			<title>Submittal of Presentation Materials for Pre-submittal Meeting Regarding Kairos Power's Reactor Protection System Platform Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24136A145</link>
+			<description>Letter</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2024-05-16 14:34:00</pubDate>
+		</item>
+		<item>
+			<title>Presentation Materials for Pre-submittal Meeting Regarding Kairos Power's Reactor Protection System Platform Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24136A146</link>
+			<description>Slides and Viewgraphs</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2024-05-16 14:34:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 May 2024 01:18:03 GMT</pubDate>
-		<lastBuildDate>Fri, 24 May 2024 01:18:03 GMT</lastBuildDate>
+		<pubDate>Fri, 24 May 2024 15:25:58 GMT</pubDate>
+		<lastBuildDate>Fri, 24 May 2024 15:25:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -108,6 +108,41 @@
 			<description>Report, Technical</description>
 			<author>Oak Ridge National Lab (ORNL)</author>
 			<pubDate>2024-05-20 10:24:00</pubDate>
+		</item>
+		<item>
+			<title>"Geochemical Natural Analogs Literature Review" final rept.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20085B432</link>
+			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
+			<author>CENTER FOR NUCLEAR WASTE REGULATORY ANALYSES</author>
+			<pubDate>2024-05-17 02:54:00</pubDate>
+		</item>
+		<item>
+			<title>"Waste Inventory & Preliminary Source Term Model for Greater Confinement Disposal Site at Nevada Test Site," dtd 910711.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20080L633</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>SANDIA NATIONAL LABORATORIES</author>
+			<pubDate>2024-05-15 09:58:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards Rev 1 to "Main Process Bldg Investigation Milestone Preliminary Findings Rept." Apps also encl.Rept prepared per NRC 900919 order modifying License SUA-1010.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079A766</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>SEQUOYAH FUELS CORP.</author>
+			<pubDate>2024-05-11 21:16:00</pubDate>
+		</item>
+		<item>
+			<title>"Response Package - Site Characterization Plan Public Hearings,Amargosa Valley,NV - 890320."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20077G788</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>ENERGY, DEPT. OF</author>
+			<pubDate>2024-05-11 03:43:00</pubDate>
+		</item>
+		<item>
+			<title>"Response Package - Site Characterization Plan Public Hearings,Reno,NV - 890323."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20077G799</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>ENERGY, DEPT. OF</author>
+			<pubDate>2024-05-11 03:43:00</pubDate>
 		</item>
 	</channel>
 </rss>

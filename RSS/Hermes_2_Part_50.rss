@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 May 2024 01:17:51 GMT</pubDate>
-		<lastBuildDate>Fri, 24 May 2024 01:17:51 GMT</lastBuildDate>
+		<pubDate>Fri, 24 May 2024 15:24:00 GMT</pubDate>
+		<lastBuildDate>Fri, 24 May 2024 15:24:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,6 +31,62 @@
 			<description>Report, Miscellaneous</description>
 			<author>Kairos Power, LLC</author>
 			<pubDate>2024-05-21 08:52:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1: Changes to Hermes 2 PSAR Chapter 9</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24136A255</link>
+			<description>Preliminary Safety Analysis Report (PSAR)</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2024-05-17 13:19:00</pubDate>
+		</item>
+		<item>
+			<title>Kairos Power LLC - Transmittal of Changes to Hermes 2 Construction Permit Application - PSAR Chapter 9</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24136A254</link>
+			<description>Letter</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2024-05-17 10:48:00</pubDate>
+		</item>
+		<item>
+			<title>Kairos Power, LLC - Transmittal of Response to NRC Request for Confirmation of Information for the Review of the Hermes 2 PSAR Chapter 5</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24135A383</link>
+			<description>Letter</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2024-05-16 10:48:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1: Kairos Power Response to NRC Request for Confirmation of Information for the Review of the Hermes 2 PSAR Chapter 5</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24135A384</link>
+			<description>Response to Request for Additional Information (RAI)</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2024-05-16 10:48:00</pubDate>
+		</item>
+		<item>
+			<title>Request for Confirmation of Information #3 for Hermes 2 Preliminary Safety Analysis Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24135A263</link>
+			<description>Request for Additional Information (RAI)</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-05-14 16:30:00</pubDate>
+		</item>
+		<item>
+			<title>Transmittal email for Request for Confirmation of Information #3 for Hermes 2 Preliminary Safety Analysis Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24135A260</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-05-14 16:30:00</pubDate>
+		</item>
+		<item>
+			<title>Kairos Power, LLC - Presentation Materials for Kairos Power Briefing to the Advisory Committee on Reactor Safeguards, Kairos Power Subcommittee on Hermes 2 Preliminary Safety Analysis Report Chapters 1, 4, 6-8, 10-12, 14, and 16-18</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24131A126</link>
+			<description>Letter</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2024-05-14 13:06:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1 - Presentation Slides for the May 16, 2024 ACRS Kairos Power Subcommittee Meeting</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24131A127</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2024-05-14 13:06:00</pubDate>
 		</item>
 	</channel>
 </rss>

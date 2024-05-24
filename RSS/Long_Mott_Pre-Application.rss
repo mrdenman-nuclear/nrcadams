@@ -5,11 +5,39 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 May 2024 01:17:51 GMT</pubDate>
-		<lastBuildDate>Fri, 24 May 2024 01:17:51 GMT</lastBuildDate>
+		<pubDate>Fri, 24 May 2024 15:24:00 GMT</pubDate>
+		<lastBuildDate>Fri, 24 May 2024 15:24:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>06/05/2024 Meeting with X-energy pertaining to Project Long Mott</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24138A086</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-05-17 11:27:00</pubDate>
+		</item>
+		<item>
+			<title>Submittal of 2024 Project Long Mott Regulatory Engagement Plan (REP)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24130A254</link>
+			<description>Letter</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2024-05-17 08:38:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1: Affidavit Supporting Request for Withholding from Public Disclosure (10 CFR 2.390)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24130A255</link>
+			<description>Legal-Affidavit</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2024-05-17 08:38:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: Project Long Mott Regulatory Engagements</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24130A256</link>
+			<description>Report, Miscellaneous</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2024-05-17 08:38:00</pubDate>
+		</item>
+	</channel>
 </rss>

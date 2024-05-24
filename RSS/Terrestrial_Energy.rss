@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 May 2024 01:18:03 GMT</pubDate>
-		<lastBuildDate>Fri, 24 May 2024 01:18:03 GMT</lastBuildDate>
+		<pubDate>Fri, 24 May 2024 15:25:58 GMT</pubDate>
+		<lastBuildDate>Fri, 24 May 2024 15:25:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TMI-2 email to FWS</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24120A324</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DREFS/ERMB</author>
+			<pubDate>2024-05-24 10:05:00</pubDate>
+		</item>
+		<item>
+			<title>Diablo Canyon Units 1 and 2 - Responses to NRC Requests for Additional Information on the Diablo Canyon Power Plant License Renewal Application Environmental Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24137A314</link>
+			<description>Letter, Response to Request for Additional Information (RAI)</description>
+			<author>Pacific Gas and Electric Co</author>
+			<pubDate>2024-05-24 08:47:00</pubDate>
+		</item>
 		<item>
 			<title>Informs that NRC assessing status of NRC/Licensee programs at each commercial nuclear power generating facility under licensing jurisdiction.Requests that info listed in encl be provided in support of assessment effort.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20096A686</link>
@@ -206,20 +220,6 @@
 			<description>ANNUAL OPERATING REPORT, TEXT-SAFETY REPORT</description>
 			<author>PORTLAND GENERAL ELECTRIC CO.</author>
 			<pubDate>2024-05-23 09:57:00</pubDate>
-		</item>
-		<item>
-			<title>Kewaunee Power Station 2023 Annual Radiological Environmental Operating Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24136A195</link>
-			<description>Environmental Monitoring Report, Letter, Periodic Monitoring Report (Radiological/Environmental)</description>
-			<author>Kewaunee Solutions, Inc</author>
-			<pubDate>2024-05-23 09:01:00</pubDate>
-		</item>
-		<item>
-			<title>Donald C. Cook Nuclear Plant Units 1 and 2 - Annual Radiological Environmental Operating Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24136A235</link>
-			<description>Environmental Monitoring Report, Letter, Periodic Monitoring Report (Radiological/Environmental)</description>
-			<author>Indiana Michigan Power Co</author>
-			<pubDate>2024-05-23 09:01:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 May 2024 01:18:03 GMT</pubDate>
-		<lastBuildDate>Fri, 24 May 2024 01:18:03 GMT</lastBuildDate>
+		<pubDate>Fri, 24 May 2024 15:25:58 GMT</pubDate>
+		<lastBuildDate>Fri, 24 May 2024 15:25:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,6 +66,62 @@
 			<description>Status Report</description>
 			<author>NRC/OCM</author>
 			<pubDate>2024-05-20 08:51:00</pubDate>
+		</item>
+		<item>
+			<title>Input for ACRS Review of the Nuscale Standard Design Approval (SDA) Application - Safety Evaluation Report for Chapter 17, "Quality Assurance and Reliability Assurance"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24124A184</link>
+			<description>Memoranda</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2024-05-17 09:48:00</pubDate>
+		</item>
+		<item>
+			<title>Input for ACRS Review of the Nuscale Standard Design Approval (SDA) Application - Safety Evaluation Report for Chapter 11, "Radioactive Waste Management"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24124A174</link>
+			<description>Memoranda</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2024-05-17 09:47:00</pubDate>
+		</item>
+		<item>
+			<title>Input for ACRS Review of the Nuscale Standard Design Approval (SDA) Application - Safety Evaluation Report for Chapter 13, "Conduct of Operations"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24124A188</link>
+			<description>Memoranda</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2024-05-17 09:47:00</pubDate>
+		</item>
+		<item>
+			<title>Input for ACRS Review of the Nuscale Standard Design Approval (SDA) Application - Safety Evaluation Report for Chapter 2, "Site Characteristics and Site Parameters"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24124A191</link>
+			<description>Memoranda</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2024-05-17 09:47:00</pubDate>
+		</item>
+		<item>
+			<title>Input for ACRS Review of the Nuscale Standard Design Approval (SDA) Application - Safety Evaluation Report for Chapter 10, "Steam and Power Conversion System"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24124A170</link>
+			<description>Memoranda</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2024-05-17 09:47:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure - NRC Staff Assessment of SMR (Holtec) White Paper on Limited Work Authorization (Project No. 99902049)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24074A294</link>
+			<description>- No Document Type Applies</description>
+			<author>NRC/NRR/DNRL</author>
+			<pubDate>2024-05-17 08:39:00</pubDate>
+		</item>
+		<item>
+			<title>03/12/2024 Regulatory Information Conference (RIC) Chair Hanson Opening Plenary Transcript</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24136A217</link>
+			<description>Conference/Symposium/Workshop Paper, Meeting Transcript</description>
+			<author>NRC/Chairman, NRC/OCM/CTH</author>
+			<pubDate>2024-05-17 08:39:00</pubDate>
+		</item>
+		<item>
+			<title>Peach Bottom Lessons Learned for ECCS Digital I&C License Amendment - Rev 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24134A203</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NRR/DORL/LPLI</author>
+			<pubDate>2024-05-14 08:40:00</pubDate>
 		</item>
 	</channel>
 </rss>

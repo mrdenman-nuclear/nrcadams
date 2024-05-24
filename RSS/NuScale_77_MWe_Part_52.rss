@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 May 2024 01:17:51 GMT</pubDate>
-		<lastBuildDate>Fri, 24 May 2024 01:17:51 GMT</lastBuildDate>
+		<pubDate>Fri, 24 May 2024 15:24:00 GMT</pubDate>
+		<lastBuildDate>Fri, 24 May 2024 15:24:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Audit Status May 2024 - The Staff Review of The Nuscale Power, LLC Standard Design Approval Application - NuScale US460</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24138A200</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2024-05-24 10:45:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC Resubmittal of Supplemental Information in Support of NRC Review of Topical Report TR-124587-P, "Extended Passive Cooling and Reactivity Control Methodology," Revision O (A-XPC.LTR-8 Resubmittal)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24135A294</link>
@@ -24,6 +31,27 @@
 			<description>Letter, Licensee Response to Notice of Violation</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2024-05-20 08:51:00</pubDate>
+		</item>
+		<item>
+			<title>Non-Prop - Meeting Summary - Apr 11 2024 - Quarterly NRC-NuScale SDAA Status Public Meeting</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24127A162</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2024-05-16 08:32:00</pubDate>
+		</item>
+		<item>
+			<title>Staff -A Verification Form 896 for NuScale Topical Report TR-108601-P-A, Revision 4, "Statistical Subchannel Analysis Methodology to TR-0915-1756-P-A, Revision 2, Subchannel Analysis Methodology."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24123A159</link>
+			<description>Administrative Form, NRC</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2024-05-15 08:57:00</pubDate>
+		</item>
+		<item>
+			<title>Email of -A Verification Form 896 for TR-108601-P-A, Rev. 4</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24123A158</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2024-05-15 08:57:00</pubDate>
 		</item>
 	</channel>
 </rss>
