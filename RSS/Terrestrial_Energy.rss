@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 May 2024 22:15:44 GMT</pubDate>
-		<lastBuildDate>Fri, 24 May 2024 22:15:44 GMT</lastBuildDate>
+		<pubDate>Fri, 24 May 2024 23:14:45 GMT</pubDate>
+		<lastBuildDate>Fri, 24 May 2024 23:14:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Revised "EIS Implementation Plan."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20097H501</link>
+			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>ENERGY, DEPT. OF</author>
+			<pubDate>2024-05-24 19:10:00</pubDate>
+		</item>
 		<item>
 			<title>"Progress Rept on Site Characterization:Yucca Mountain for Apr-Sept 1991" Number 5.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20097D376</link>
@@ -213,13 +220,6 @@
 			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, PUBLIC COMMENTS ON PROPOSED RULES & PETITIONS FOR</description>
 			<author>MB-MICROTEC (USA)</author>
 			<pubDate>2024-05-23 14:38:00</pubDate>
-		</item>
-		<item>
-			<title>Rev 4 to "Environ Rept."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20094P133</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>LOUISIANA ENERGY SERVICES</author>
-			<pubDate>2024-05-23 13:14:00</pubDate>
 		</item>
 	</channel>
 </rss>

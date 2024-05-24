@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 May 2024 22:15:44 GMT</pubDate>
-		<lastBuildDate>Fri, 24 May 2024 22:15:44 GMT</lastBuildDate>
+		<pubDate>Fri, 24 May 2024 23:14:45 GMT</pubDate>
+		<lastBuildDate>Fri, 24 May 2024 23:14:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Mod 1,correcting effective date of contract from 920415 to 920511,to "Minicomputer Data Communications & Sys Integration Support."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20097H352</link>
+			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
+			<author>CEXEC, INC., NRC OFFICE OF ADMINISTRATION (ADM), SMALL BUSINESS ADMINISTRATION</author>
+			<pubDate>2024-05-24 19:07:00</pubDate>
+		</item>
+		<item>
+			<title>Application for license to receive,possess,demonstrate & transfer H-3 to authorized persons.Related info encl.Fee paid.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20097G821</link>
+			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, DKT 30 MTL BYPRODUCT, TEXT-LICENSE APPLICATIONS & PERMITS</description>
+			<author>BRANDHURST, INC.</author>
+			<pubDate>2024-05-24 18:56:00</pubDate>
+		</item>
+		<item>
+			<title>Rev 2 to Volumes 1 & 2 SAR for Portsmouth Gaseous Diffusion Plant.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20097F132</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>UNITED STATES ENRICHMENT CORP. (USEC)</author>
+			<pubDate>2024-05-24 18:16:00</pubDate>
+		</item>
 		<item>
 			<title>Safety Procedure 1, "Emergency Procedure."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20097A243</link>
@@ -199,27 +220,6 @@
 			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
 			<author>CITY COLLEGE OF NEW YORK, NEW YORK, NY, NRC OFFICE OF ADMINISTRATION (ADM)</author>
 			<pubDate>2024-05-23 11:44:00</pubDate>
-		</item>
-		<item>
-			<title>Advises that,unless requested addl info received within 30 days of ltr date,application will be considered abandoned.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20094J171</link>
-			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-05-23 10:51:00</pubDate>
-		</item>
-		<item>
-			<title>Rev 1 to Radiological Survey Plan for Unrestricted Areas at Sequoyah Fuels Corp,including evaluation of contaminated matl found at Sequoyah Fuels Facility Carlile Training Ctr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20094H796</link>
-			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
-			<author>SEQUOYAH FUELS CORP.</author>
-			<pubDate>2024-05-23 10:33:00</pubDate>
-		</item>
-		<item>
-			<title>Requests remittance of fee for 840710 application for renewal of QA program.Revised 10CFR170 encl.W/o encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20094G381</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
-			<pubDate>2024-05-23 09:42:00</pubDate>
 		</item>
 	</channel>
 </rss>
