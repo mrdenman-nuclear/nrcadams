@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 May 2024 16:16:40 GMT</pubDate>
-		<lastBuildDate>Fri, 24 May 2024 16:16:40 GMT</lastBuildDate>
+		<pubDate>Fri, 24 May 2024 17:16:27 GMT</pubDate>
+		<lastBuildDate>Fri, 24 May 2024 17:16:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Millstone, Unit 3, Current Facility Operating License NPF-49, Tech Specs, Revised 05/24/2024.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052720310</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-05-24 12:20:00</pubDate>
+		</item>
 		<item>
 			<title>TMI-2 email to FWS</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24120A324</link>
@@ -213,13 +220,6 @@
 			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
 			<author>COLORADO, STATE OF</author>
 			<pubDate>2024-05-23 10:26:00</pubDate>
-		</item>
-		<item>
-			<title>"Annual Rept of Trojan Nuclear Power Plant for 1991." W/ 920228 ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20094G805</link>
-			<description>ANNUAL OPERATING REPORT, TEXT-SAFETY REPORT</description>
-			<author>PORTLAND GENERAL ELECTRIC CO.</author>
-			<pubDate>2024-05-23 09:57:00</pubDate>
 		</item>
 	</channel>
 </rss>
