@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 May 2024 17:16:27 GMT</pubDate>
-		<lastBuildDate>Fri, 24 May 2024 17:16:27 GMT</lastBuildDate>
+		<pubDate>Fri, 24 May 2024 18:19:29 GMT</pubDate>
+		<lastBuildDate>Fri, 24 May 2024 18:19:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"PCS Water Distribution Test Phase II Test Data Rept."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20096C251</link>
+			<description>REPORTS-TOPICAL (BY MANUFACTURERS-VENDORS ETC), TEXT-SAFETY REPORT</description>
+			<author>WESTINGHOUSE ELECTRIC COMPANY, DIV OF CBS CORP.</author>
+			<pubDate>2024-05-24 14:04:00</pubDate>
+		</item>
+		<item>
+			<title>"An Aerial Radiological Survey of Area Surrounding New England Nuclear Corp Facility,Billerica,MA.Date of Survey: Aug 1979."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20096B270</link>
+			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, DKT 30 MTL BYPRODUCT, TEXT-PROCUREMENT & CONTRACTS</description>
+			<author>ENERGY ENGINEERING GROUP</author>
+			<pubDate>2024-05-24 13:43:00</pubDate>
+		</item>
+		<item>
+			<title>"Hydrogeochemical Studies of U Mill Tailings at Riverton,WY & Maybell,CO," quarterly progress rept,Jul-Sept 1982.Undated Riverton Mill radiological contamination survey encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20096A966</link>
+			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>LAWRENCE BERKELEY LABORATORY</author>
+			<pubDate>2024-05-24 13:35:00</pubDate>
+		</item>
 		<item>
 			<title>Millstone, Unit 3, Current Facility Operating License NPF-49, Tech Specs, Revised 05/24/2024.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052720310</link>
@@ -199,27 +220,6 @@
 			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS, TEXT-SAFETY REPORT</description>
 			<author>DAMES and MOORE</author>
 			<pubDate>2024-05-23 11:58:00</pubDate>
-		</item>
-		<item>
-			<title>Comment on proposed rule 10CFR51 re generic environ impact statement for plant license renewal.Requests addl info & clarification concerning media specific issues on environ stds & regulation.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20094K628</link>
-			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, PUBLIC COMMENTS ON PROPOSED RULES & PETITIONS FOR</description>
-			<author>ENVIRONMENTAL PROTECTION AGENCY</author>
-			<pubDate>2024-05-23 11:56:00</pubDate>
-		</item>
-		<item>
-			<title>TMI-2 Draft Environmental Assessment for Public Review and Comment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24117A224</link>
-			<description>Environmental Assessment</description>
-			<author>NRC/NMSS/DREFS/ERMB</author>
-			<pubDate>2024-05-23 10:42:00</pubDate>
-		</item>
-		<item>
-			<title>"Evaluation of Application for Renewal of Specific Radioactive Matls License 660-01 for Final Decontamination, Decommissioning & Reclamation of Umetco Minerals Corp Maybell U Heap Leach Site."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20094H587</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>COLORADO, STATE OF</author>
-			<pubDate>2024-05-23 10:26:00</pubDate>
 		</item>
 	</channel>
 </rss>
