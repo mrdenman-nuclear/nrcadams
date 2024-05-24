@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 May 2024 20:15:53 GMT</pubDate>
-		<lastBuildDate>Fri, 24 May 2024 20:15:53 GMT</lastBuildDate>
+		<pubDate>Fri, 24 May 2024 21:14:05 GMT</pubDate>
+		<lastBuildDate>Fri, 24 May 2024 21:14:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Comment re Draft Reg Guide DG-8016, "Constraints for Air Effluents for Licensees Other Than Power Reactors."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20097B555</link>
+			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, PUBLIC COMMENTS ON PROPOSED RULES & PETITIONS FOR</description>
+			<author>NEBRASKA, UNIV. OF</author>
+			<pubDate>2024-05-24 16:53:00</pubDate>
+		</item>
+		<item>
+			<title>"Semiannual Radioactive Effluent Release Rept for Jan-June 1984." W/840830 ltr.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20097B478</link>
+			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>NORTHEAST NUCLEAR ENERGY CO., NORTHEAST UTILITIES</author>
+			<pubDate>2024-05-24 16:51:00</pubDate>
+		</item>
 		<item>
 			<title>Rev 5 to environ rept.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20096H181</link>
@@ -206,20 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE, NRC TO ACRS</description>
 			<author>NRC OFFICE OF NUCLEAR REGULATORY RESEARCH (RES)</author>
 			<pubDate>2024-05-23 13:02:00</pubDate>
-		</item>
-		<item>
-			<title>"Millstone Nuclear Power Station,Units 1,2 & 3 Annual Radioactive Effluents Dose Rept,1991." W/920330 ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20094N252</link>
-			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>NORTHEAST NUCLEAR ENERGY CO., NORTHEAST UTILITIES</author>
-			<pubDate>2024-05-23 12:57:00</pubDate>
-		</item>
-		<item>
-			<title>"Environ Rept," in support of application for 11e.(2) radioactive matl license.W/one oversize drawing.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20094N037</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>ENVIROCARE OF UTAH, INC.</author>
-			<pubDate>2024-05-23 12:52:00</pubDate>
 		</item>
 	</channel>
 </rss>

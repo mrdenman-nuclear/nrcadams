@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 May 2024 20:15:12 GMT</pubDate>
-		<lastBuildDate>Fri, 24 May 2024 20:15:12 GMT</lastBuildDate>
+		<pubDate>Fri, 24 May 2024 21:13:25 GMT</pubDate>
+		<lastBuildDate>Fri, 24 May 2024 21:13:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>06/06/2024 Call between the NRC and TRISO-X staff to discuss draft responses to the requests for additional information related to the Integrated Safety Analysis summary methodology.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24145A181</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2024-05-24 16:28:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 3: KP-TR-022-NP "Hermes 2 Postulated Event Methodology" Revision 1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24144A094</link>
@@ -213,13 +220,6 @@
 			<description>Legal-Affidavit, Letter</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2024-05-22 09:22:00</pubDate>
-		</item>
-		<item>
-			<title>USO - TerraPower - Construction Permit Application - Kemmerer 1 - Acceptance Review Letter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24135A109</link>
-			<description>Acceptance Review Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-05-21 11:17:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 May 2024 20:15:53 GMT</pubDate>
-		<lastBuildDate>Fri, 24 May 2024 20:15:53 GMT</lastBuildDate>
+		<pubDate>Fri, 24 May 2024 21:14:05 GMT</pubDate>
+		<lastBuildDate>Fri, 24 May 2024 21:14:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Safety Procedure 1, "Emergency Procedure."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20097A243</link>
+			<description>DKT 30 MTL BYPRODUCT, TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
+			<author>OLIN CORP.</author>
+			<pubDate>2024-05-24 16:21:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards NMED Rept covering April through Dec 1995.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20096E428</link>
@@ -213,13 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
 			<pubDate>2024-05-23 09:42:00</pubDate>
-		</item>
-		<item>
-			<title>Application to amend License 40-15053-01,authorizing use of listed licensed matls.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20094F717</link>
-			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, DKT 30 MTL BYPRODUCT, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>INTERIOR, DEPT. OF, BUREAU OF INDIAN AFFAIRS</author>
-			<pubDate>2024-05-23 09:19:00</pubDate>
 		</item>
 	</channel>
 </rss>
