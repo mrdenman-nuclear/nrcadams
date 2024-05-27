@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 May 2024 23:14:45 GMT</pubDate>
-		<lastBuildDate>Fri, 24 May 2024 23:14:45 GMT</lastBuildDate>
+		<pubDate>Mon, 27 May 2024 14:16:31 GMT</pubDate>
+		<lastBuildDate>Mon, 27 May 2024 14:16:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Offers listed comments on NRC draft confirmatory order proposed for licensee U mine & mill site in Gas Hills of WY (site).</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20097J511</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>WYOMING, STATE OF</author>
+			<pubDate>2024-05-24 19:41:00</pubDate>
+		</item>
 		<item>
 			<title>Rev 1 to "NEMO--Nodal Expansion Method Optimized."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20097B172</link>
@@ -192,13 +199,6 @@
 			<description>REPORTS-TOPICAL (BY MANUFACTURERS-VENDORS ETC), TEXT-SAFETY REPORT</description>
 			<author>BABCOCK and WILCOX CO.</author>
 			<pubDate>2024-05-14 18:14:00</pubDate>
-		</item>
-		<item>
-			<title>"RETRAN-02 - Program for Transient Thermal-Hydraulic Analysis of Complex Fluid Flow Sys,Vol 4:Applications."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079R783</link>
-			<description>REPORTS-TOPICAL (BY MANUFACTURERS-VENDORS ETC), TEXT-SAFETY REPORT</description>
-			<author>ENERGY, INC.</author>
-			<pubDate>2024-05-13 16:10:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 May 2024 23:14:27 GMT</pubDate>
-		<lastBuildDate>Fri, 24 May 2024 23:14:27 GMT</lastBuildDate>
+		<pubDate>Mon, 27 May 2024 14:16:18 GMT</pubDate>
+		<lastBuildDate>Mon, 27 May 2024 14:16:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
 			<pubDate>2024-05-15 17:25:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards list of Non-Power Reactors,requested by recipient.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20080N863</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC (Affiliation Not Assigned)</author>
-			<pubDate>2024-05-13 22:20:00</pubDate>
 		</item>
 	</channel>
 </rss>

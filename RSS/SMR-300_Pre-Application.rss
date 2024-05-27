@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 May 2024 23:14:15 GMT</pubDate>
-		<lastBuildDate>Fri, 24 May 2024 23:14:15 GMT</lastBuildDate>
+		<pubDate>Mon, 27 May 2024 14:16:08 GMT</pubDate>
+		<lastBuildDate>Mon, 27 May 2024 14:16:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-05-17 08:38:00</pubDate>
-		</item>
-		<item>
-			<title>Rev.1, Updated Form 898 - Completeness Determination for the SMR, LLC (Holtec) Quality Assurance Program Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24117A139</link>
-			<description>Administrative Form, NRC</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-05-13 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Rev.1, Updated Form 898 - Completeness Determination Transmittal for the SMR, LLC (Holtec) Quality Assurance Program Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24117A138</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-05-13 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 May 2024 23:14:27 GMT</pubDate>
-		<lastBuildDate>Fri, 24 May 2024 23:14:27 GMT</lastBuildDate>
+		<pubDate>Mon, 27 May 2024 14:16:18 GMT</pubDate>
+		<lastBuildDate>Mon, 27 May 2024 14:16:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Advises that Jan 1992 rev to GE Vallecitos Nuclear Ctr reactor facilities emergency plan,acceptable.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20099H239</link>
+			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
+			<pubDate>2024-05-25 01:32:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards GE 920318 Mfg Hanover Amend to Ltr of Credit & Trust Agreement Schedule A,reflecting increased in sum by stated amount w/expiration date extended to 930323,per terms & conditions of Ltr of Credit.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20094M365</link>
@@ -59,13 +66,6 @@
 			<description>ANNUAL REPORTS (COMPANY-FINANCIAL), TEXT-SAFETY REPORT</description>
 			<author>GENERAL ELECTRIC CO.</author>
 			<pubDate>2024-05-15 12:39:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards list of Non-Power Reactors,requested by recipient.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20080N863</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC (Affiliation Not Assigned)</author>
-			<pubDate>2024-05-13 22:20:00</pubDate>
 		</item>
 	</channel>
 </rss>

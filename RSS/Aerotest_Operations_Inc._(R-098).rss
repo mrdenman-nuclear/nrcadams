@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 May 2024 23:14:27 GMT</pubDate>
-		<lastBuildDate>Fri, 24 May 2024 23:14:27 GMT</lastBuildDate>
+		<pubDate>Mon, 27 May 2024 14:16:18 GMT</pubDate>
+		<lastBuildDate>Mon, 27 May 2024 14:16:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Advises that Endorsements 90 & 100 to nuclear liability insurance policy Agreement B-2 not received.Endorsements requested.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20099J682</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO UTILITY, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF STATE PROGRAMS (OSP)</author>
+			<pubDate>2024-05-25 02:02:00</pubDate>
+		</item>
 		<item>
 			<title>Notifies that R Newacheck license SOP-696-12 has decided not to maintain license.Informs that T Wisse has terminated employment at facility.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20095K269</link>
@@ -115,34 +122,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
 			<author>AEROTEST OPERATIONS, INC.</author>
 			<pubDate>2024-05-14 07:31:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards list of Non-Power Reactors,requested by recipient.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20080N863</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC (Affiliation Not Assigned)</author>
-			<pubDate>2024-05-13 22:20:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards Insp Rept 50-228/91-03 on 910430-0521.No violations or deviations noted.Rept withheld (ref 10CFR2.790(d)).</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20079C854</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-05-11 22:51:00</pubDate>
-		</item>
-		<item>
-			<title>"Annual Summary of Changes,Tests & Experiments Performed at Aerotest Radiography & Research Reactor," for period ending June 1983.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20077F846</link>
-			<description>ANNUAL OPERATING REPORT, TEXT-SAFETY REPORT</description>
-			<author>AEROTEST OPERATIONS, INC.</author>
-			<pubDate>2024-05-11 03:11:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards "Annual Summary of Changes,Tests & Experiments Performed at Aerotest Radiography & Research Reactor," for period ending June 1983.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20077F831</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
-			<author>AEROTEST OPERATIONS, INC.</author>
-			<pubDate>2024-05-11 03:10:00</pubDate>
 		</item>
 	</channel>
 </rss>

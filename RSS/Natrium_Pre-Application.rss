@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 May 2024 23:14:15 GMT</pubDate>
-		<lastBuildDate>Fri, 24 May 2024 23:14:15 GMT</lastBuildDate>
+		<pubDate>Mon, 27 May 2024 14:16:08 GMT</pubDate>
+		<lastBuildDate>Mon, 27 May 2024 14:16:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Acceptance Review Letter</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2024-05-21 11:17:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC - Fitness-for-Duty and Security Clarifying Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24123A243</link>
-			<description>Letter</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2024-05-13 15:18:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC, Submittal of Materials of Construction Clarifying Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24130A181</link>
-			<description>Legal-Affidavit, Letter, Report, Technical</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2024-05-13 15:18:00</pubDate>
 		</item>
 	</channel>
 </rss>
