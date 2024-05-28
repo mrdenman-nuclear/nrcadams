@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 27 May 2024 23:15:51 GMT</pubDate>
-		<lastBuildDate>Mon, 27 May 2024 23:15:51 GMT</lastBuildDate>
+		<pubDate>Tue, 28 May 2024 14:15:57 GMT</pubDate>
+		<lastBuildDate>Tue, 28 May 2024 14:15:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>MACCS Verification Report Revision 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24145A149</link>
+			<description>CNWRA Technical Report</description>
+			<author>Center for Nuclear Waste Regulatory Analyses (CNWRA), Southwest Research Institute</author>
+			<pubDate>2024-05-28 08:46:00</pubDate>
+		</item>
 		<item>
 			<title>Mod 11,modifying various task orders,issuing new Task Order 14 & providing incremental funding,to "Support Svcs for Research & Evaluation of Severe Accident Phenomenon & Mitigation."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20100C253</link>
@@ -213,13 +220,6 @@
 			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, PUBLIC COMMENTS ON PROPOSED RULES & PETITIONS FOR</description>
 			<author>MERCY HOSP., PITTSBURGH, PA</author>
 			<pubDate>2024-05-23 17:29:00</pubDate>
-		</item>
-		<item>
-			<title>Draft "Radiological & Engineering Assessment for Property GJ-05785-CS & Property GJ-09566-VL."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20095F396</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>BENDIX CORP.</author>
-			<pubDate>2024-05-23 16:38:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 27 May 2024 23:15:39 GMT</pubDate>
-		<lastBuildDate>Mon, 27 May 2024 23:15:39 GMT</lastBuildDate>
+		<pubDate>Tue, 28 May 2024 14:15:18 GMT</pubDate>
+		<lastBuildDate>Tue, 28 May 2024 14:15:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,20 +17,6 @@
 			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
 			<author>US ATOMIC ENERGY COMMISSION (AEC)</author>
 			<pubDate>2024-05-16 13:47:00</pubDate>
-		</item>
-		<item>
-			<title>MIT - Proposal for Conversion to Low Enriched Uranium (LEU), MIT Research Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24127A100</link>
-			<description>Letter</description>
-			<author>Massachusetts Institute of Technology (MIT)</author>
-			<pubDate>2024-05-14 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>MIT - Update of Professor Ian A. Waitz Named as MIT Vice President for Research</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24127A101</link>
-			<description>Letter</description>
-			<author>Massachusetts Institute of Technology (MIT)</author>
-			<pubDate>2024-05-14 08:39:00</pubDate>
 		</item>
 	</channel>
 </rss>

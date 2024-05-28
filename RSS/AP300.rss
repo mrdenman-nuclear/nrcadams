@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 27 May 2024 23:15:29 GMT</pubDate>
-		<lastBuildDate>Mon, 27 May 2024 23:15:29 GMT</lastBuildDate>
+		<pubDate>Tue, 28 May 2024 14:15:10 GMT</pubDate>
+		<lastBuildDate>Tue, 28 May 2024 14:15:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-05-16 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of the Westinghouse AP300 SMR I&C Concept of Operations White Paper for Pre-Application Engagement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24117A339</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2024-05-14 10:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
