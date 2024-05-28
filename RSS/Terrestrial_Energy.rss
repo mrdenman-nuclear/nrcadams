@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 28 May 2024 14:15:57 GMT</pubDate>
-		<lastBuildDate>Tue, 28 May 2024 14:15:57 GMT</lastBuildDate>
+		<pubDate>Tue, 28 May 2024 15:14:39 GMT</pubDate>
+		<lastBuildDate>Tue, 28 May 2024 15:14:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Insp repts 30-04593/95-01,40-2253/95-01 & 70-0263/95-01 on 951016-20.No violations noted.Major areas inspected: organization & staffing;facilities & equipment;posting & labeling;final survey rept & termination survey packages.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20100D213</link>
+			<description>DKT 30 MTL BYPRODUCT, INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I)</author>
+			<pubDate>2024-05-28 10:49:00</pubDate>
+		</item>
 		<item>
 			<title>Transcript of ACNW 81st meeting on 960125 in Rockville,MD.Pp 173-216.Certificate of svc encl.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20100C109</link>
@@ -213,13 +220,6 @@
 			<description>ENVIRONMENTAL IMPACT APPRAISALS, TEXT-ENVIRONMENTAL REPORTS</description>
 			<author>ENERGY, DEPT. OF</author>
 			<pubDate>2024-05-24 14:50:00</pubDate>
-		</item>
-		<item>
-			<title>"Maine Yankee Nuclear Power Station Annual Radiological Environ Operating Rept,1991." W/920507 ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20096D366</link>
-			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>MAINE YANKEE ATOMIC POWER CO.</author>
-			<pubDate>2024-05-24 14:29:00</pubDate>
 		</item>
 	</channel>
 </rss>
