@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 29 May 2024 20:16:50 GMT</pubDate>
-		<lastBuildDate>Wed, 29 May 2024 20:16:50 GMT</lastBuildDate>
+		<pubDate>Wed, 29 May 2024 21:14:52 GMT</pubDate>
+		<lastBuildDate>Wed, 29 May 2024 21:14:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"1996 Suppl to Environ Rept."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20111D124</link>
+			<description>ENVIRONMENTAL REPORT, ALL VERSIONS, TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>GENERAL ELECTRIC CO.</author>
+			<pubDate>2024-05-29 16:38:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards characterization & assessment package re vicinity properties at Maybell UMTRA site potentially associated w/ windblown or waterborne contamination for review & comment.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20111B554</link>
@@ -213,13 +220,6 @@
 			<description>ENVIRONMENTAL IMPACT APPRAISALS, TEXT-ENVIRONMENTAL REPORTS</description>
 			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
 			<pubDate>2024-05-29 09:18:00</pubDate>
-		</item>
-		<item>
-			<title>"SRP for Draft Environ Assessment for DOE Pursuant to Section 112(b) of Nuclear Waste Policy Act."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20107H011</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
-			<pubDate>2024-05-29 09:11:00</pubDate>
 		</item>
 	</channel>
 </rss>
