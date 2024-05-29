@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 28 May 2024 23:15:41 GMT</pubDate>
-		<lastBuildDate>Tue, 28 May 2024 23:15:41 GMT</lastBuildDate>
+		<pubDate>Wed, 29 May 2024 14:15:57 GMT</pubDate>
+		<lastBuildDate>Wed, 29 May 2024 14:15:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -101,13 +101,6 @@
 			<description>Federal Register Notice</description>
 			<author>NRC/ACRS, NRC/SECY</author>
 			<pubDate>2024-05-17 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>Report on the Safety Aspects of the License Renewal Application Review of Comanche Peak Nuclear Power Plant Units 1 & 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24128A269</link>
-			<description>Committee Letter Report</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-05-15 08:59:00</pubDate>
 		</item>
 	</channel>
 </rss>

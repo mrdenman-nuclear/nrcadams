@@ -5,12 +5,47 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 28 May 2024 23:15:40 GMT</pubDate>
-		<lastBuildDate>Tue, 28 May 2024 23:15:40 GMT</lastBuildDate>
+		<pubDate>Wed, 29 May 2024 14:15:44 GMT</pubDate>
+		<lastBuildDate>Wed, 29 May 2024 14:15:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Physical Protection Insp Repts 50-070/79-03 & 50-073/79-02 on 791107-09.Deviation noted:noncompliance w/Reg Guide 5.12, "General Use of Locks in the Protection & Control of Facilities & Nuclear Matls." Portions withheld.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20107G471</link>
+			<description>INSPECTION REPORT, MANUFACTURER/VENDOR/ENGINEER, INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
+			<pubDate>2024-05-29 09:00:00</pubDate>
+		</item>
+		<item>
+			<title>Notice of deviation from insp on 791107-09.Portions deleted.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20107G448</link>
+			<description>NOTICE OF DEVIATION/NONCONFORMANCE FROM A REGULATORY, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
+			<pubDate>2024-05-29 08:59:00</pubDate>
+		</item>
+		<item>
+			<title>Physical Security Insp Repts 50-070/81-01 & 50-073/81-73 on 810406-07.No noncompliance noted.Major areas inspected: security plan,protection of SNM,security organization,access control,alarm sys & keys.Portions deleted.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20107G203</link>
+			<description>INSPECTION REPORT, MANUFACTURER/VENDOR/ENGINEER, INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I), NRC OFFICE OF INSPECTION & ENFORCEMENT (IE REGION IV)</author>
+			<pubDate>2024-05-29 08:53:00</pubDate>
+		</item>
+		<item>
+			<title>Further response to FOIA request for physical security & safeguards insp repts for nonpower reactors in Regions II & V from 1979 to present.Portions of documents in app withheld (ref FOIA Exemption 4).</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20107F608</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO PUBLIC ENTITY/CITIZEN/ORGANIZATION/MEDIA, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
+			<pubDate>2024-05-29 08:45:00</pubDate>
+		</item>
+		<item>
+			<title>Advises that Vallecitos Nuclear Ctr implemented provisions of "Vallecitos Nuclear Ctr Radiological Emergency Plan," effective 840910.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20106C681</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
+			<author>GENERAL ELECTRIC CO.</author>
+			<pubDate>2024-05-29 04:07:00</pubDate>
+		</item>
 		<item>
 			<title>"GE 1995 Annual Rept." W/960306 ltr.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20101C918</link>
@@ -66,20 +101,6 @@
 			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
 			<pubDate>2024-05-16 09:40:00</pubDate>
-		</item>
-		<item>
-			<title>Provides nonpower reactor insps performed during first & second half of CY91.Current status summary sheet for nonpower reactor facilities also encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20082T132</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-05-15 17:25:00</pubDate>
-		</item>
-		<item>
-			<title>"GE 1994 Annual Rept." W/950306 ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20080T484</link>
-			<description>ANNUAL REPORTS (COMPANY-FINANCIAL), TEXT-SAFETY REPORT</description>
-			<author>GENERAL ELECTRIC CO.</author>
-			<pubDate>2024-05-15 12:39:00</pubDate>
 		</item>
 	</channel>
 </rss>

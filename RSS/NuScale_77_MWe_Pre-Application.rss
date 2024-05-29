@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 28 May 2024 23:15:31 GMT</pubDate>
-		<lastBuildDate>Tue, 28 May 2024 23:15:31 GMT</lastBuildDate>
+		<pubDate>Wed, 29 May 2024 14:15:34 GMT</pubDate>
+		<lastBuildDate>Wed, 29 May 2024 14:15:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2024-05-16 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Staff -A Verification Form 896 for NuScale Topical Report TR-108601-P-A, Revision 4, "Statistical Subchannel Analysis Methodology to TR-0915-1756-P-A, Revision 2, Subchannel Analysis Methodology."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24123A159</link>
-			<description>Administrative Form, NRC</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2024-05-15 08:57:00</pubDate>
 		</item>
 	</channel>
 </rss>

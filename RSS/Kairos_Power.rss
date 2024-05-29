@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 28 May 2024 23:15:51 GMT</pubDate>
-		<lastBuildDate>Tue, 28 May 2024 23:15:51 GMT</lastBuildDate>
+		<pubDate>Wed, 29 May 2024 14:16:10 GMT</pubDate>
+		<lastBuildDate>Wed, 29 May 2024 14:16:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,13 +66,6 @@
 			<description>Conference/Symposium/Workshop Paper, Meeting Transcript</description>
 			<author>NRC/Chairman, NRC/OCM/CTH</author>
 			<pubDate>2024-05-17 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>03/12/2024 Commissioner David A. Wright Plenary Transcript</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24136A087</link>
-			<description>Conference/Symposium/Workshop Paper</description>
-			<author>NRC/OCM/DAW</author>
-			<pubDate>2024-05-15 15:38:00</pubDate>
 		</item>
 	</channel>
 </rss>
