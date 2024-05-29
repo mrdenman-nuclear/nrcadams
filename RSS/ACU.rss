@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 29 May 2024 17:16:02 GMT</pubDate>
-		<lastBuildDate>Wed, 29 May 2024 17:16:02 GMT</lastBuildDate>
+		<pubDate>Wed, 29 May 2024 18:18:15 GMT</pubDate>
+		<lastBuildDate>Wed, 29 May 2024 18:18:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Proposed tech specs,providing addl info necessary to facilitate NRC development of SE & to make minor document corrections identified during pre-implementation procedure rev process.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20108C319</link>
+			<description>TECHNICAL SPECIFICATIONS, TECHNICAL SPECIFICATIONS & TEST REPORTS</description>
+			<author>COMMONWEALTH EDISON CO.</author>
+			<pubDate>2024-05-29 14:08:00</pubDate>
+		</item>
+		<item>
+			<title>Confirms that QA program approval for radioactive matl package:0160 expires on 850331,in response to 850208 ltr.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20108C296</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO ENGINEERING/CONSTRUCTION/CONSULTING FIRM, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
+			<pubDate>2024-05-29 14:07:00</pubDate>
+		</item>
+		<item>
+			<title>Affidavit of JH Ellis on administrative organization amendment.* Recommends that Sequoyah Fuels Corp license amend be approved.W/Certificate of Svc.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20108B829</link>
+			<description>AFFIDAVITS, LEGAL TRANSCRIPTS & ORDERS & PLEADINGS</description>
+			<author>NRC COMMISSION (OCM)</author>
+			<pubDate>2024-05-29 13:55:00</pubDate>
+		</item>
+		<item>
+			<title>Purchase Orders re current contracts w/air freight svcs to all intl points & points in continental US.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20108A805</link>
+			<description>ARCHIVE RECORDS, PACKAGE OF NONCODED MATERIAL</description>
+			<author>External (Affiliation Not Assigned)</author>
+			<pubDate>2024-05-29 13:26:00</pubDate>
+		</item>
 		<item>
 			<title>Safety insp on 840626 of license SUA-1228.Insp findings: calibration of alpha detecting instruments & high volume air samplers not performed on 6 month frequency.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20107L697</link>
@@ -192,34 +220,6 @@
 			<description>QUALITY ASSURANCE PROGRAM, TEXT-SAFETY REPORT</description>
 			<author>BABCOCK and WILCOX CO.</author>
 			<pubDate>2024-05-29 02:30:00</pubDate>
-		</item>
-		<item>
-			<title>"Results of Environ Monitoring Program for First Half of 1992." W/920828 ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20105B825</link>
-			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>ATLAS-TUCK CONCRETE, INC.</author>
-			<pubDate>2024-05-29 02:29:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards sampling of results from CRAC calculations of reactor accident consequences & risks assuming source terms developed for NUREG-0956,Vol 1.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20105B647</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR REGULATORY RESEARCH (RES)</author>
-			<pubDate>2024-05-29 02:23:00</pubDate>
-		</item>
-		<item>
-			<title>Discusses proposed 10CFR170 change,lifting cost ceiling on fee collection cost reporting change implementation should be planned.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20105B242</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO OTHER U.S. GOVERNMENT AGENCY/DEPARTMENT, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF THE CONTROLLER</author>
-			<pubDate>2024-05-29 02:16:00</pubDate>
-		</item>
-		<item>
-			<title>Updated application for renewal of License SNM-561.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20105A707</link>
-			<description>APPLICATION,SNM LICENSE & AMEND /RENEWAL TO LICENSE, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>ARMY, DEPT. OF, ARMAMENT RESEARCH, DEVELOPMENT and</author>
-			<pubDate>2024-05-29 02:03:00</pubDate>
 		</item>
 	</channel>
 </rss>
