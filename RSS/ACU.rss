@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 29 May 2024 18:18:15 GMT</pubDate>
-		<lastBuildDate>Wed, 29 May 2024 18:18:15 GMT</lastBuildDate>
+		<pubDate>Wed, 29 May 2024 19:13:39 GMT</pubDate>
+		<lastBuildDate>Wed, 29 May 2024 19:13:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Requests listed addl info re 840709 application for license.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20108D651</link>
+			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I)</author>
+			<pubDate>2024-05-29 14:41:00</pubDate>
+		</item>
 		<item>
 			<title>Proposed tech specs,providing addl info necessary to facilitate NRC development of SE & to make minor document corrections identified during pre-implementation procedure rev process.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20108C319</link>
@@ -213,13 +220,6 @@
 			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
 			<author>BABCOCK and WILCOX CO.</author>
 			<pubDate>2024-05-29 02:31:00</pubDate>
-		</item>
-		<item>
-			<title>Rev 1 to "B&W Nuclear Power Generating Div QA Program for Nuclear Equipment."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20105B874</link>
-			<description>QUALITY ASSURANCE PROGRAM, TEXT-SAFETY REPORT</description>
-			<author>BABCOCK and WILCOX CO.</author>
-			<pubDate>2024-05-29 02:30:00</pubDate>
 		</item>
 	</channel>
 </rss>
