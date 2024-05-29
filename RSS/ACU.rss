@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 29 May 2024 14:16:10 GMT</pubDate>
-		<lastBuildDate>Wed, 29 May 2024 14:16:10 GMT</lastBuildDate>
+		<pubDate>Wed, 29 May 2024 15:17:10 GMT</pubDate>
+		<lastBuildDate>Wed, 29 May 2024 15:17:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Safety insp on 840626 of license SUA-1228.Insp findings: calibration of alpha detecting instruments & high volume air samplers not performed on 6 month frequency.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20107L697</link>
+			<description>SAFETY INSPECTION (FORMERLY INSPECTION FINDINGS &, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
+			<author>NRC, ROCKY MOUNTAIN ENERGY CO.</author>
+			<pubDate>2024-05-29 10:45:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards 820224 ltr being returned w/o payment & confirms understanding that no payment required,IAW recommendations made by J Linehan during 820301 meeting.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20107L507</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>ROCKY MOUNTAIN ENERGY CO.</author>
+			<pubDate>2024-05-29 10:41:00</pubDate>
+		</item>
+		<item>
+			<title>Requests that earlier NRC license document & application form,DFS5200,submitted in support of NRC license renewal request be placed w/encl more current info.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20107K590</link>
+			<description>CORRESPONDENCE-LETTERS, EXTERNAL CORRESPONDENCE</description>
+			<author>GENERAL ELECTRIC CO.</author>
+			<pubDate>2024-05-29 10:15:00</pubDate>
+		</item>
 		<item>
 			<title>"First Article Test Rept - Chemical Agent Point Detector Sys," prepared for NAVAL SEA SYS COMMAND,SEA-56Z23.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20107H534</link>
@@ -199,27 +220,6 @@
 			<description>APPLICATION,SNM LICENSE & AMEND /RENEWAL TO LICENSE, TEXT-LICENSE APPLICATIONS & PERMITS</description>
 			<author>ARMY, DEPT. OF, ARMAMENT RESEARCH, DEVELOPMENT and</author>
 			<pubDate>2024-05-29 02:03:00</pubDate>
-		</item>
-		<item>
-			<title>Requests fee for 841219 application for amend to Certificate of Compliance 9181.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20104B294</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
-			<pubDate>2024-05-29 01:38:00</pubDate>
-		</item>
-		<item>
-			<title>Discusses items of interest re renewal of GA Technologies, Inc License SNM-696,Allied Chemical/NRC 850117 meeting in Glen Ellyn,IL & Kerr-McGee Corp 850116 announcement of Quivira U mining & milling shutdown.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20104A982</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
-			<pubDate>2024-05-29 01:31:00</pubDate>
-		</item>
-		<item>
-			<title>Miscellaneous data from two NRC branches for 790409-0501. Info partially withheld:home telephone numbers (ref FOIA Exemption 6).</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20104A852</link>
-			<description>ARCHIVE RECORDS, OPERATIONAL LOG-PLANT SYSTEMS</description>
-			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
-			<pubDate>2024-05-29 01:28:00</pubDate>
 		</item>
 	</channel>
 </rss>
