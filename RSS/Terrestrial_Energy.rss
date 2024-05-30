@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 30 May 2024 16:18:28 GMT</pubDate>
-		<lastBuildDate>Thu, 30 May 2024 16:18:28 GMT</lastBuildDate>
+		<pubDate>Thu, 30 May 2024 17:14:15 GMT</pubDate>
+		<lastBuildDate>Thu, 30 May 2024 17:14:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards "Site Survey & Soil Testing Rept for Johnny M Mine" prepared IAW submittal entitled "Work Plan for Site Surveys & Cleanup" dtd 871016.W/two oversize drawings.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20117C626</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>HECLA MINING CO.</author>
+			<pubDate>2024-05-30 13:01:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards draft "Above Ground Gamma Ray Logging of Edgemont,SD & Vicinity" rept for review,per telcon & requests any recommended changes to text matl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20117B889</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>ENVIRONMENTAL PROTECTION AGENCY</author>
+			<pubDate>2024-05-30 12:35:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards response to comments on rept "Preliminary Review of Data Adequacy & Potential Radiologic Dose Scenarios for Harvard & Bert Avenue Sites,Chemetron Corp,Newburgh Heights, OH."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20117A168</link>
@@ -206,20 +220,6 @@
 			<description>COMMISSION PAPER, TEXT-SAFETY REPORT</description>
 			<author>NRC OFFICE OF THE EXECUTIVE DIRECTOR FOR OPERATIONS (EDO)</author>
 			<pubDate>2024-05-30 02:29:00</pubDate>
-		</item>
-		<item>
-			<title>"Predicting Remaining Svc Life of Concrete."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20114D977</link>
-			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
-			<author>OAK RIDGE NATIONAL LABORATORY</author>
-			<pubDate>2024-05-30 02:23:00</pubDate>
-		</item>
-		<item>
-			<title>"Haddam Neck Plant Semiannual Radioactive Effluent Release Rept,Jan-June 1992." W/920828 ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20114D606</link>
-			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>CONNECTICUT YANKEE ATOMIC POWER CO., NORTHEAST UTILITIES</author>
-			<pubDate>2024-05-30 02:13:00</pubDate>
 		</item>
 	</channel>
 </rss>

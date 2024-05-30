@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 30 May 2024 16:18:28 GMT</pubDate>
-		<lastBuildDate>Thu, 30 May 2024 16:18:28 GMT</lastBuildDate>
+		<pubDate>Thu, 30 May 2024 17:14:14 GMT</pubDate>
+		<lastBuildDate>Thu, 30 May 2024 17:14:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Safety insp on 680523 & 24 of license R-174.Insp findings: no item of noncompliance found.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20117C223</link>
+			<description>SAFETY INSPECTION (FORMERLY INSPECTION FINDINGS &, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
+			<author>External (Affiliation Not Assigned), NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
+			<pubDate>2024-05-30 12:47:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards AEC SML SUA-816,as renewed.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20117C176</link>
+			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
+			<pubDate>2024-05-30 12:46:00</pubDate>
+		</item>
+		<item>
+			<title>Requests remittance of addl fee for 840924 application for renewal of License 21-18667-01.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20117C076</link>
+			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
+			<pubDate>2024-05-30 12:42:00</pubDate>
+		</item>
+		<item>
+			<title>Requests Commission consent re merger w/Encon Corp to extent necessary under Sections 81,101 & 184 of Atomic Energy Act & under 10CFR50.80 & 30.34.Util & Enron financial info encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20117B385</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>PORTLAND GENERAL ELECTRIC CO.</author>
+			<pubDate>2024-05-30 12:18:00</pubDate>
+		</item>
 		<item>
 			<title>"As-Built Description of Petrotomics Co Tailings Seepage Collection Sys." Three oversize drawings encl.Aperture cards available in PDR.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20117A015</link>
@@ -192,34 +220,6 @@
 			<description>COMMISSION PAPER, TEXT-SAFETY REPORT</description>
 			<author>NRC OFFICE OF THE GENERAL COUNSEL (OGC)</author>
 			<pubDate>2024-05-30 02:20:00</pubDate>
-		</item>
-		<item>
-			<title>Requests addl fee for 841121 application for license.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20114D640</link>
-			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
-			<pubDate>2024-05-30 02:14:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards final portion of ALWR program response to draft SER for Passive Plant Utility Requirements Document.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20114D613</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>ELECTRIC POWER RESEARCH INSTITUTE</author>
-			<pubDate>2024-05-30 02:13:00</pubDate>
-		</item>
-		<item>
-			<title>Notifies of 910507 meeting to discuss listed subjects re Envirocare review.Suggests that meeting be held on biweekly basis.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20114D426</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC</author>
-			<pubDate>2024-05-30 01:56:00</pubDate>
-		</item>
-		<item>
-			<title>Provides up-to-date application of GSA Bulletin D-222 to Inspector General Ofc.Advises that no renovations completed for IG could be considered improvements subj to D-222.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20114D131</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC</author>
-			<pubDate>2024-05-30 01:49:00</pubDate>
 		</item>
 	</channel>
 </rss>
