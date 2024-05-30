@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 30 May 2024 15:16:17 GMT</pubDate>
-		<lastBuildDate>Thu, 30 May 2024 15:16:17 GMT</lastBuildDate>
+		<pubDate>Thu, 30 May 2024 16:17:47 GMT</pubDate>
+		<lastBuildDate>Thu, 30 May 2024 16:17:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>05/31/2024 Preapplication Meeting with SMR, LLC (A Holtec International Company) to discuss its Quality Assurance Program (QAPD) Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24151A221</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-05-30 11:26:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 2: NEDO-33926, Revision 2, "BWRX-300 Steel-Plate Composite Containment Vessel (SCCV) and Reactor Building (RB) Structural Design"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24110A134</link>
@@ -213,13 +220,6 @@
 			<description>Topical Report</description>
 			<author>Westinghouse Electric Co, LLC</author>
 			<pubDate>2024-05-24 08:46:00</pubDate>
-		</item>
-		<item>
-			<title>05/28/2024 Meeting with TRISO-X LLC to discuss Material Control & Accounting RAI Responses</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24144A220</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-05-23 15:15:00</pubDate>
 		</item>
 	</channel>
 </rss>

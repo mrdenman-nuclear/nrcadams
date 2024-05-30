@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 30 May 2024 15:16:38 GMT</pubDate>
-		<lastBuildDate>Thu, 30 May 2024 15:16:38 GMT</lastBuildDate>
+		<pubDate>Thu, 30 May 2024 16:18:28 GMT</pubDate>
+		<lastBuildDate>Thu, 30 May 2024 16:18:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"As-Built Description of Petrotomics Co Tailings Seepage Collection Sys." Three oversize drawings encl.Aperture cards available in PDR.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20117A015</link>
+			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>HYDRO-ENGINEERING</author>
+			<pubDate>2024-05-30 11:42:00</pubDate>
+		</item>
+		<item>
+			<title>Responds to 960712 request & forwards info re distribution of Co-57 sources to persons exempt from requirements for license.Listing of Agreement State contact officials,10CFR30 & 10CFR32 encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20116P066</link>
+			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION II)</author>
+			<pubDate>2024-05-30 11:35:00</pubDate>
+		</item>
 		<item>
 			<title>Responds to 830701 request for addl info re 830524 application for amend to License 14-18885-01.Diagram of three Ohmart Corp coal scales & proposed mod to procedures for cleaning coal discharge chutes encl.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20116M548</link>
@@ -206,20 +220,6 @@
 			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
 			<author>NRC</author>
 			<pubDate>2024-05-30 01:49:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards listed documents being added as updates to hearing file,per 10CFR2.1231.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20114C995</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF THE GENERAL COUNSEL (OGC)</author>
-			<pubDate>2024-05-30 01:46:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards Rev 9 to Certificate of Compliance 6144 for Model B-2.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20114B989</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
-			<pubDate>2024-05-30 01:20:00</pubDate>
 		</item>
 	</channel>
 </rss>

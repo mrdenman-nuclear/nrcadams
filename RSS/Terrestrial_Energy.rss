@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 30 May 2024 15:16:38 GMT</pubDate>
-		<lastBuildDate>Thu, 30 May 2024 15:16:38 GMT</lastBuildDate>
+		<pubDate>Thu, 30 May 2024 16:18:28 GMT</pubDate>
+		<lastBuildDate>Thu, 30 May 2024 16:18:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards response to comments on rept "Preliminary Review of Data Adequacy & Potential Radiologic Dose Scenarios for Harvard & Bert Avenue Sites,Chemetron Corp,Newburgh Heights, OH."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20117A168</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>BATTELLE MEMORIAL INSTITUTE, PACIFIC NORTHWEST NATION</author>
+			<pubDate>2024-05-30 11:45:00</pubDate>
+		</item>
 		<item>
 			<title>"For comment" issue of suppl 1 to RG 4.2,task DG-4002, "Guidance for Preparation of Supplemental Environ Repts in Support of Application to Review Nuclear Power Station Operating License."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20116M861</link>
@@ -213,13 +220,6 @@
 			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
 			<author>CONNECTICUT YANKEE ATOMIC POWER CO., NORTHEAST UTILITIES</author>
 			<pubDate>2024-05-30 02:13:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards suggested tables of content from Title II SRPs Providing Guidance for U Recovery Facilities.Advises that some mod will be needed to address Part 61 portion of documentation.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20114D344</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC</author>
-			<pubDate>2024-05-30 01:54:00</pubDate>
 		</item>
 	</channel>
 </rss>
