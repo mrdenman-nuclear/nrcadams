@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 30 May 2024 21:16:20 GMT</pubDate>
-		<lastBuildDate>Thu, 30 May 2024 21:16:20 GMT</lastBuildDate>
+		<pubDate>Thu, 30 May 2024 22:16:47 GMT</pubDate>
+		<lastBuildDate>Thu, 30 May 2024 22:16:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Requests addl fees for 841119 application to renew License 37-13187-01.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20117L185</link>
+			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
+			<pubDate>2024-05-30 17:59:00</pubDate>
+		</item>
+		<item>
+			<title>Supplemental affidavit of RA Mellor.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20117J999</link>
+			<description>AFFIDAVITS, LEGAL TRANSCRIPTS & ORDERS & PLEADINGS</description>
+			<author>AFFILIATION NOT ASSIGNED</author>
+			<pubDate>2024-05-30 17:31:00</pubDate>
+		</item>
+		<item>
+			<title>"QA & Data Review of NPRDS,Task 1,Phase 1B."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20117J735</link>
+			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
+			<author>EGandG, INC.</author>
+			<pubDate>2024-05-30 17:23:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards info re Am-241 contamination problem in Tonawanda, NY,including K Rimawi 840816 ltr & 840609 memo w/encls & internal correspondence re need for rule change & IE bulletin on discharge to sewers.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20117E155</link>
@@ -199,27 +220,6 @@
 			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
 			<author>GENERAL SERVICES ADMINISTRATION, NRC OFFICE OF ADMINISTRATION (ADM)</author>
 			<pubDate>2024-05-30 03:50:00</pubDate>
-		</item>
-		<item>
-			<title>Mod 17,deobligating all remaining excess funds to, "Shuttle Bus Svc."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20115B859</link>
-			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
-			<author>DD ENTERPRISES, INC. T/A BELTWAY TRANSPORTATION SERVI, NRC OFFICE OF ADMINISTRATION (ADM)</author>
-			<pubDate>2024-05-30 03:31:00</pubDate>
-		</item>
-		<item>
-			<title>Mod 3,increasing funds,to "Radiation Embrittlement Damage Analysis & Predictions."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20114F680</link>
-			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
-			<author>CALIFORNIA, UNIV. OF, SANTA BARBARA, CA, NRC OFFICE OF ADMINISTRATION (ADM)</author>
-			<pubDate>2024-05-30 02:48:00</pubDate>
-		</item>
-		<item>
-			<title>"Structural Matls Info Ctr & Potential Applications."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20114D978</link>
-			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
-			<author>OAK RIDGE NATIONAL LABORATORY</author>
-			<pubDate>2024-05-30 02:23:00</pubDate>
 		</item>
 	</channel>
 </rss>
