@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 30 May 2024 19:14:50 GMT</pubDate>
-		<lastBuildDate>Thu, 30 May 2024 19:14:50 GMT</lastBuildDate>
+		<pubDate>Thu, 30 May 2024 20:17:53 GMT</pubDate>
+		<lastBuildDate>Thu, 30 May 2024 20:17:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards info re Am-241 contamination problem in Tonawanda, NY,including K Rimawi 840816 ltr & 840609 memo w/encls & internal correspondence re need for rule change & IE bulletin on discharge to sewers.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20117E155</link>
+			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I)</author>
+			<pubDate>2024-05-30 15:14:00</pubDate>
+		</item>
 		<item>
 			<title>Safety insp on 680523 & 24 of license R-174.Insp findings: no item of noncompliance found.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20117C223</link>
@@ -213,13 +220,6 @@
 			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
 			<author>OAK RIDGE NATIONAL LABORATORY</author>
 			<pubDate>2024-05-30 02:23:00</pubDate>
-		</item>
-		<item>
-			<title>Litigation rept 1992-18.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20114D881</link>
-			<description>COMMISSION PAPER, TEXT-SAFETY REPORT</description>
-			<author>NRC OFFICE OF THE GENERAL COUNSEL (OGC)</author>
-			<pubDate>2024-05-30 02:20:00</pubDate>
 		</item>
 	</channel>
 </rss>
