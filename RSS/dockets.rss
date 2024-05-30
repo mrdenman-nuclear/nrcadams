@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 30 May 2024 14:16:23 GMT</pubDate>
-		<lastBuildDate>Thu, 30 May 2024 14:16:23 GMT</lastBuildDate>
+		<pubDate>Thu, 30 May 2024 15:16:17 GMT</pubDate>
+		<lastBuildDate>Thu, 30 May 2024 15:16:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 2: NEDO-33926, Revision 2, "BWRX-300 Steel-Plate Composite Containment Vessel (SCCV) and Reactor Building (RB) Structural Design"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24110A134</link>
+			<description>Topical Report</description>
+			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
+			<pubDate>2024-05-30 11:11:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 3: Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24110A135</link>
+			<description>Legal-Affidavit</description>
+			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
+			<pubDate>2024-05-30 11:11:00</pubDate>
+		</item>
+		<item>
+			<title>GE-Hitachi Nuclear Energy Americas, LLC - NEDC-33926P/NEDO-33926, Revision 2, BWRX-300 Steel-Plate Composite Containment Vessel (SCCV) and Reactor Building (RB) Structural Design</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24110A132</link>
+			<description>Letter</description>
+			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
+			<pubDate>2024-05-30 11:11:00</pubDate>
+		</item>
 		<item>
 			<title>2024/05/15 Kairos - Hermes 2 Docs - Preliminary Chapter 9 of Hermes 2 SE  to ACRS</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24137A266</link>
@@ -199,27 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2024-05-23 15:15:00</pubDate>
-		</item>
-		<item>
-			<title>06/05/2024 Pre-submittal meeting with Kairos Power on the Hermes Test Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24144A125</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-05-23 11:30:00</pubDate>
-		</item>
-		<item>
-			<title>06/05/2024 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding Instrumentation & Control (I&C), Electrical Design, and Human Factors Engineering</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24144A046</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-05-23 09:52:00</pubDate>
-		</item>
-		<item>
-			<title>2024/05/15 Oklo SNF Reprocessing Docs - Request for Withholding Information from Public Disclosure for Oklo Inc. Licensing Project Plan (Fuel Recycling) 1Q2024 Update</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24137A035</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2024-05-23 09:01:00</pubDate>
 		</item>
 	</channel>
 </rss>

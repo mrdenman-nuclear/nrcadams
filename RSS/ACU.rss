@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 30 May 2024 14:17:03 GMT</pubDate>
-		<lastBuildDate>Thu, 30 May 2024 14:17:03 GMT</lastBuildDate>
+		<pubDate>Thu, 30 May 2024 15:16:38 GMT</pubDate>
+		<lastBuildDate>Thu, 30 May 2024 15:16:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Responds to 830701 request for addl info re 830524 application for amend to License 14-18885-01.Diagram of three Ohmart Corp coal scales & proposed mod to procedures for cleaning coal discharge chutes encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20116M548</link>
+			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, INCOMING CORRESPONDENCE</description>
+			<author>MUSCATINE,IA</author>
+			<pubDate>2024-05-30 10:58:00</pubDate>
+		</item>
+		<item>
+			<title>Requests fee for 850228 application to amend License 12-09316-02,adding Gd-153 & I-125 for use in bone mineral scanning equipment.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20116M195</link>
+			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
+			<pubDate>2024-05-30 10:50:00</pubDate>
+		</item>
+		<item>
+			<title>Request for OMB review & supporting statement re survey, solicitation of info on actual decommissioning activities. Estimated respondent burden is 290 h.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20116L559</link>
+			<description>ARCHIVE RECORDS, Request for OMB Review</description>
+			<author>NRC</author>
+			<pubDate>2024-05-30 10:35:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards QA program approval for radioactive matl package: 0122,Rev 3.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20116J269</link>
@@ -199,27 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
 			<pubDate>2024-05-30 01:20:00</pubDate>
-		</item>
-		<item>
-			<title>Weekly info rept for wk ending 920821.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20114B932</link>
-			<description>TEXT-SAFETY REPORT, Weekly Information Report</description>
-			<author>NRC OFFICE OF THE EXECUTIVE DIRECTOR FOR OPERATIONS (EDO)</author>
-			<pubDate>2024-05-30 01:19:00</pubDate>
-		</item>
-		<item>
-			<title>Provides further detailed comments on Draft 4 of environ assessment for Palo Duro Basin.Description of test strategy inadequate.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20114B880</link>
-			<description>CORRESPONDENCE-LETTERS, ENGINEERING/CONSTRUCTION/CONSULTING FIRM TO NRC, INCOMING CORRESPONDENCE</description>
-			<author>WILLIAMS and ASSOCIATES</author>
-			<pubDate>2024-05-30 01:18:00</pubDate>
-		</item>
-		<item>
-			<title>"Radiologic & Engineering Assessment for Location GJ-06063-CS."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20114B893</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>BENDIX CORP.</author>
-			<pubDate>2024-05-30 01:18:00</pubDate>
 		</item>
 	</channel>
 </rss>

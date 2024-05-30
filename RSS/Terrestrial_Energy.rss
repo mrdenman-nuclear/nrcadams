@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 30 May 2024 14:17:03 GMT</pubDate>
-		<lastBuildDate>Thu, 30 May 2024 14:17:03 GMT</lastBuildDate>
+		<pubDate>Thu, 30 May 2024 15:16:38 GMT</pubDate>
+		<lastBuildDate>Thu, 30 May 2024 15:16:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"For comment" issue of suppl 1 to RG 4.2,task DG-4002, "Guidance for Preparation of Supplemental Environ Repts in Support of Application to Review Nuclear Power Station Operating License."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20116M861</link>
+			<description>REGULATORY GUIDE (REG GUIDE), REGULATORY GUIDES & STD. REVIEW PLANS-TEXT</description>
+			<author>NRC OFFICE OF NUCLEAR REGULATORY RESEARCH (RES)</author>
+			<pubDate>2024-05-30 11:07:00</pubDate>
+		</item>
+		<item>
+			<title>"BWIP Document Accession List Monthly Rept for Period Ending 850325."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20116M295</link>
+			<description>INDEXES, TEXT-BIBLIOGRAPHIC & CATALOGS & INDEXES</description>
+			<author>NRC</author>
+			<pubDate>2024-05-30 10:53:00</pubDate>
+		</item>
 		<item>
 			<title>Voided matls licensing action for Harris Semiconductor International.Control:112986.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20116G295</link>
@@ -206,20 +220,6 @@
 			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
 			<author>NRC</author>
 			<pubDate>2024-05-30 01:54:00</pubDate>
-		</item>
-		<item>
-			<title>Amend 187 to license NPF-1,revising TS section 6.0 to clarify responsibilities of Vice President & Chief Nuclear Officer & corrects editorial errors.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20114D086</link>
-			<description>OPERATING LICENSES & AMENDMENTS, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
-			<pubDate>2024-05-30 01:48:00</pubDate>
-		</item>
-		<item>
-			<title>"Millstone Nuclear Power Station,Units 1,2 & 3 Semiannual Radioactive Effluents Rept,Jan-June 1992." W/920828 ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20114C763</link>
-			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>NORTHEAST NUCLEAR ENERGY CO., NORTHEAST UTILITIES</author>
-			<pubDate>2024-05-30 01:40:00</pubDate>
 		</item>
 	</channel>
 </rss>
