@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 30 May 2024 22:16:48 GMT</pubDate>
-		<lastBuildDate>Thu, 30 May 2024 22:16:48 GMT</lastBuildDate>
+		<pubDate>Thu, 30 May 2024 23:17:06 GMT</pubDate>
+		<lastBuildDate>Thu, 30 May 2024 23:17:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Aerial Radiological Survey of RMI Facility & Surrounding Area,Ashtabula,OH."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20117N452</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>EGandG ENERGY MEASUREMENTS</author>
+			<pubDate>2024-05-30 19:02:00</pubDate>
+		</item>
+		<item>
+			<title>Vols I & II of "Environ Assessment of Remedial Action at Lakeview U Mill Tailings Site,Lakeview,OR."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20117M322</link>
+			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>ENERGY, DEPT. OF</author>
+			<pubDate>2024-05-30 18:34:00</pubDate>
+		</item>
+		<item>
+			<title>Mod 26,Task Order 13,defining Task Order 13 & increasing contract amount,to "Licensing Technical Assistance."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20117M089</link>
+			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
+			<author>NRC OFFICE OF ADMINISTRATION (ADM), SCIENCE APPLICATIONS INTERNATIONAL CORP. (FORMERLY</author>
+			<pubDate>2024-05-30 18:28:00</pubDate>
+		</item>
+		<item>
+			<title>"Preliminary Calculations of Expected Dose From Extrusive Volcanic Events at Yucca Mountain."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20117L893</link>
+			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
+			<author>CENTER FOR NUCLEAR WASTE REGULATORY ANALYSES</author>
+			<pubDate>2024-05-30 18:22:00</pubDate>
+		</item>
 		<item>
 			<title>"Std Review Plan for U Title 1 Mill Tailings Remedial Action Plans."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20117L462</link>
@@ -192,34 +220,6 @@
 			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
 			<author>HEALTH and HUMAN SERVICES, DEPT. OF, U.S. PUBLIC HEALTH</author>
 			<pubDate>2024-05-30 08:24:00</pubDate>
-		</item>
-		<item>
-			<title>Insp rept 40-7722/96-01 docket 4007722 for Matching Technology Corp on 960703.No violations noted.Major areas inspected:survey of facilities to identify radiation fields & radioactive matl remaining following license termination.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20116E830</link>
-			<description>INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I)</author>
-			<pubDate>2024-05-30 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>Revised Environ Rept,Chapters 2,4,5,10,11 & Apps A-1 through A-3.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20116E204</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>ENVIROCARE OF UTAH, INC.</author>
-			<pubDate>2024-05-30 07:52:00</pubDate>
-		</item>
-		<item>
-			<title>Notification of 921104-11 meeting w/util in Vasteras,Sweden to discuss thermal-hydraulic model being developed for staff by LANL for PIUS preapplication & pending design certification reviews.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20116D413</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
-			<pubDate>2024-05-30 07:36:00</pubDate>
-		</item>
-		<item>
-			<title>Application for renewal of License 34-17601-01.Fee paid.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20116B079</link>
-			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, DKT 30 MTL BYPRODUCT, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>DOW CHEMICAL CO.</author>
-			<pubDate>2024-05-30 06:44:00</pubDate>
 		</item>
 	</channel>
 </rss>
