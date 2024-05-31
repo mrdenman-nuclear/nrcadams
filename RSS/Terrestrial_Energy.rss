@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 31 May 2024 14:16:17 GMT</pubDate>
-		<lastBuildDate>Fri, 31 May 2024 14:16:17 GMT</lastBuildDate>
+		<pubDate>Fri, 31 May 2024 15:20:55 GMT</pubDate>
+		<lastBuildDate>Fri, 31 May 2024 15:20:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Revised application for license,authorizing use of radioactive matls by or under supervision of individuals designated by radiation safety committee.Revised procedures encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128J004</link>
+			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, DKT 30 MTL BYPRODUCT, TEXT-LICENSE APPLICATIONS & PERMITS</description>
+			<author>HOUSTON LIGHTING and POWER CO.</author>
+			<pubDate>2024-05-31 10:58:00</pubDate>
+		</item>
+		<item>
+			<title>"Operational Ecological Monitoring Program,Annual Rept 1984." W/850430 ltr.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128H318</link>
+			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>PORTLAND GENERAL ELECTRIC CO.</author>
+			<pubDate>2024-05-31 10:38:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards summary of foreign travel to IAEA in Vienna,AU on 960826-30 & 960902 ltr from IAIA.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128H294</link>
+			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
+			<pubDate>2024-05-31 10:37:00</pubDate>
+		</item>
 		<item>
 			<title>Provides rept w/annotations re facility.Concludes that facility can be operated w/o endangering health & safety of public flooding potential at site due to probable max hurricane & inservice insp program.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128F246</link>
@@ -199,27 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, NRC TO U.S. CONGRESS, OUTGOING CORRESPONDENCE</description>
 			<author>NRC COMMISSION (OCM)</author>
 			<pubDate>2024-05-30 23:14:00</pubDate>
-		</item>
-		<item>
-			<title>"Radioecological Assessment of WYHL Nuclear Power Plant," prepared by Univ of Heidelberg.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20126B187</link>
-			<description>REPORTS-FOREIGN, TEXT-SAFETY REPORT</description>
-			<author>HEIDELBERG, UNIV. OF, HEIDELBERG, GE</author>
-			<pubDate>2024-05-30 23:14:00</pubDate>
-		</item>
-		<item>
-			<title>"Collection of Literature Relevant to High Level & Intermediate Level Radwastes," Vol 1,working draft.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20126A964</link>
-			<description>BIBLIOGRAPHIES, INDEXES, TEXT-BIBLIOGRAPHIC & CATALOGS & INDEXES</description>
-			<author>OAK RIDGE NATIONAL LABORATORY</author>
-			<pubDate>2024-05-30 23:08:00</pubDate>
-		</item>
-		<item>
-			<title>"Collection of Literature Relevant to High Level & Intermediate Level Radwastes," Vol 2,working draft.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20126A968</link>
-			<description>BIBLIOGRAPHIES, INDEXES, TEXT-BIBLIOGRAPHIC & CATALOGS & INDEXES</description>
-			<author>OAK RIDGE NATIONAL LABORATORY</author>
-			<pubDate>2024-05-30 23:08:00</pubDate>
 		</item>
 	</channel>
 </rss>

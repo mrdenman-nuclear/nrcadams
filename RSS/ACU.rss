@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 31 May 2024 14:16:17 GMT</pubDate>
-		<lastBuildDate>Fri, 31 May 2024 14:16:17 GMT</lastBuildDate>
+		<pubDate>Fri, 31 May 2024 15:20:55 GMT</pubDate>
+		<lastBuildDate>Fri, 31 May 2024 15:20:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Sources & Effects of Ionizing Radiation United Nations Scientific Committee on Effects of Atomic Radiation."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128H417</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>UNITED NATION DEVELOPMENT PROGRAM</author>
+			<pubDate>2024-05-31 10:41:00</pubDate>
+		</item>
 		<item>
 			<title>Rev 5 to "Nuclear Energy Business Operations QA Program Description."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128F993</link>
@@ -213,13 +220,6 @@
 			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS, TEXT-SAFETY REPORT</description>
 			<author>Morrison-Knudsen Co, Inc</author>
 			<pubDate>2024-05-31 03:12:00</pubDate>
-		</item>
-		<item>
-			<title>FOIA request for documents re briefing papers on various issues,ranging from plant license renewals,to resident inspector program.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20126L250</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>AFFILIATION NOT ASSIGNED</author>
-			<pubDate>2024-05-31 02:43:00</pubDate>
 		</item>
 	</channel>
 </rss>
