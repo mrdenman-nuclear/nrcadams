@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 30 May 2024 23:17:06 GMT</pubDate>
-		<lastBuildDate>Thu, 30 May 2024 23:17:06 GMT</lastBuildDate>
+		<pubDate>Fri, 31 May 2024 14:16:17 GMT</pubDate>
+		<lastBuildDate>Fri, 31 May 2024 14:16:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards matl to be placed in PDR,consisting of viewgraphs used at three separate meetings of Nuclear Safety Research Review Committee.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20126C460</link>
+			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR REGULATORY RESEARCH (RES)</author>
+			<pubDate>2024-05-30 23:39:00</pubDate>
+		</item>
+		<item>
+			<title>"Collection of Literature Relevant to High Level & Intermediate Level Radwastes," Vol 1,working draft.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20126A964</link>
+			<description>BIBLIOGRAPHIES, INDEXES, TEXT-BIBLIOGRAPHIC & CATALOGS & INDEXES</description>
+			<author>OAK RIDGE NATIONAL LABORATORY</author>
+			<pubDate>2024-05-30 23:08:00</pubDate>
+		</item>
+		<item>
+			<title>"Nuclear Waste Mgt Status & Recent Accomplishments."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20126A960</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>BATTELLE MEMORIAL INSTITUTE, PACIFIC NORTHWEST NATION</author>
+			<pubDate>2024-05-30 23:07:00</pubDate>
+		</item>
+		<item>
+			<title>Trip rept of 921005-09 visit to Toledo,Spain to attend 5th Natural Analogue Working Group Meeting to review Alligator Rivers Analog Project,review other analog work & develop relation between performance assessment & natural analogs.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20125E529</link>
+			<description>MEETING MINUTES & NOTES--CORRESPONDENCE, TRIP REPORTS</description>
+			<author>CENTER FOR NUCLEAR WASTE REGULATORY ANALYSES</author>
+			<pubDate>2024-05-30 22:48:00</pubDate>
+		</item>
 		<item>
 			<title>RIC 2024 Ted Jones Presentation - Nonproliferation Considerations for the Export of Advanced Reactors:  An Industry Perspective</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24151A004</link>
@@ -185,13 +213,6 @@
 			<description>Report, Technical</description>
 			<author>Oak Ridge National Lab (ORNL)</author>
 			<pubDate>2024-05-20 10:24:00</pubDate>
-		</item>
-		<item>
-			<title>"Geochemical Natural Analogs Literature Review" final rept.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20085B432</link>
-			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
-			<author>CENTER FOR NUCLEAR WASTE REGULATORY ANALYSES</author>
-			<pubDate>2024-05-17 02:54:00</pubDate>
 		</item>
 	</channel>
 </rss>

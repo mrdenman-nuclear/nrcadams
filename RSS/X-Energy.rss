@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 30 May 2024 23:17:06 GMT</pubDate>
-		<lastBuildDate>Thu, 30 May 2024 23:17:06 GMT</lastBuildDate>
+		<pubDate>Fri, 31 May 2024 14:16:17 GMT</pubDate>
+		<lastBuildDate>Fri, 31 May 2024 14:16:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -213,13 +213,6 @@
 			<description>Status Report</description>
 			<author>NRC/OCM</author>
 			<pubDate>2024-05-20 08:51:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of ACRS Subcommittee on Human Factors 830519 meeting in Washington,DC re review of priorities assigned to human factors related safety issues & briefing by IE on recent activities at NRC Incident Response Ctr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20085E224</link>
-			<description>MEETING MINUTES & NOTES--CORRESPONDENCE, MEETING SUMMARIES-INTERNAL (NON-TRANSCRIPT)</description>
-			<author>NRC ADVISORY COMMITTEE ON REACTOR SAFEGUARDS (ACRS)</author>
-			<pubDate>2024-05-17 05:49:00</pubDate>
 		</item>
 	</channel>
 </rss>
