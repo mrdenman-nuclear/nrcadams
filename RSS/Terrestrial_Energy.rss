@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 31 May 2024 18:19:32 GMT</pubDate>
-		<lastBuildDate>Fri, 31 May 2024 18:19:32 GMT</lastBuildDate>
+		<pubDate>Fri, 31 May 2024 19:14:32 GMT</pubDate>
+		<lastBuildDate>Fri, 31 May 2024 19:14:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"IAEA Div of Radiation & Waste Safety - Criteria for Clean-up of Contaminated Areas," produced at consultants meeting on 960624-28.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128Q257</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>INTERNATIONAL ATOMIC ENERGY AGENCY</author>
+			<pubDate>2024-05-31 15:08:00</pubDate>
+		</item>
+		<item>
+			<title>FOIA request for document re site known as Kerr-McGee Chemical Corp Rare Earth Facility located in West Chicago, IL.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128P832</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>External (Affiliation Not Assigned)</author>
+			<pubDate>2024-05-31 14:57:00</pubDate>
+		</item>
+		<item>
+			<title>"Source & Environmental Monitoring For Radiation Protection of Public."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128N817</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>INTERNATIONAL ATOMIC ENERGY AGENCY</author>
+			<pubDate>2024-05-31 14:27:00</pubDate>
+		</item>
 		<item>
 			<title>North Anna, Unit 2, Current Facility Operating License NPF-7, Revised 05/31/2024.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052990147</link>
@@ -199,27 +220,6 @@
 			<description>ARCHIVE RECORDS, PACKAGE OF NONCODED MATERIAL</description>
 			<author>NRC</author>
 			<pubDate>2024-05-31 03:10:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards updated copies of Claiborne Enrichment Center ER sections 4.2,6.1 & 6.2.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20126J314</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>LOUISIANA ENERGY SERVICES</author>
-			<pubDate>2024-05-31 01:53:00</pubDate>
-		</item>
-		<item>
-			<title>U mining & milling environ effects program plan.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20126J214</link>
-			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
-			<author>NEW MEXICO, STATE OF</author>
-			<pubDate>2024-05-31 01:50:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards addl info in response to 810328 request to dismantle Bldg 1 on West Chicago property.Includes training programs being conducted onsite & current organization chart.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20126H771</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
-			<author>KERR-MCGEE CORP.</author>
-			<pubDate>2024-05-31 01:37:00</pubDate>
 		</item>
 	</channel>
 </rss>
