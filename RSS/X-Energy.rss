@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 31 May 2024 20:17:33 GMT</pubDate>
-		<lastBuildDate>Fri, 31 May 2024 20:17:33 GMT</lastBuildDate>
+		<pubDate>Fri, 31 May 2024 21:15:24 GMT</pubDate>
+		<lastBuildDate>Fri, 31 May 2024 21:15:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Press release 96-151, "NRC Announces Agreement w/Wyoming on Cleanup of ANC U Mill Site."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20129B722</link>
+			<description>ARCHIVE RECORDS, PRESS RELEASE OR NEWS ARTICLE</description>
+			<author>NRC OFFICE OF PUBLIC AFFAIRS (OPA)</author>
+			<pubDate>2024-05-31 16:22:00</pubDate>
+		</item>
 		<item>
 			<title>Orders that WY Dept of Environ Quality shall perform reclamation of site IAW/approved reclamation plan identified & described in Section III of order & mods thereto submitted by Dept & approved by NRC.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128P133</link>
@@ -213,13 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
 			<pubDate>2024-05-20 13:02:00</pubDate>
-		</item>
-		<item>
-			<title>ORNL/TM-2024/3248, Current State of Benchmark Applicability for Commercial-Scale HALEU Fuel Transport"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24107A030</link>
-			<description>Report, Technical</description>
-			<author>Oak Ridge National Lab (ORNL)</author>
-			<pubDate>2024-05-20 10:24:00</pubDate>
 		</item>
 	</channel>
 </rss>

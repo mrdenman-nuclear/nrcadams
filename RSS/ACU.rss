@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 31 May 2024 20:17:32 GMT</pubDate>
-		<lastBuildDate>Fri, 31 May 2024 20:17:32 GMT</lastBuildDate>
+		<pubDate>Fri, 31 May 2024 21:15:24 GMT</pubDate>
+		<lastBuildDate>Fri, 31 May 2024 21:15:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Mod 3,exercising option to extend period of performance to 860429,to "Data Entry Region III."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20129B796</link>
+			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
+			<author>NORCOM INTERNATIONAL CORP. (FORMERLY NORIEGA COMMUNIC, NRC OFFICE OF ADMINISTRATION (ADM), SMALL BUSINESS ADMINISTRATION</author>
+			<pubDate>2024-05-31 16:24:00</pubDate>
+		</item>
+		<item>
+			<title>Safety insp on 960801 of license 29-10313-01.Insp findings: no violations observed.Inspector verified steps taken to correct violations identified during last insp.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20129B737</link>
+			<description>DKT 30 MTL BYPRODUCT, SAFETY INSPECTION (FORMERLY INSPECTION FINDINGS &, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I), UNION HOSP., UNION, NJ (FORMERLY MEMORIAL GENERAL</author>
+			<pubDate>2024-05-31 16:22:00</pubDate>
+		</item>
 		<item>
 			<title>Places on file info pertinent to Sr-90 line radiation source model 3A1F.Ltr supercedes info contained in ltr from R Walz to J Hitch dtd 621113.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128R045</link>
@@ -206,20 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
 			<pubDate>2024-05-31 06:20:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of ACRS Subcommittee on Human Factors 850620 meeting in Washington,DC re operator requalification program.Pp 1-259.Supporting documentation encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20127J262</link>
-			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, TRANSCRIPTS, DEPOSITIONS, NARRATIVE TESTIMONY</description>
-			<author>NRC ADVISORY COMMITTEE ON REACTOR SAFEGUARDS (ACRS)</author>
-			<pubDate>2024-05-31 06:05:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of 850418 meeting w/DOE,Rockwell,Battelle,Aerospace, Sandia,Weston,EWA/Yakima & Univ of Arizona in Silver Spring, MD re conceptual design info described in DOE site characterization plan.Viewgraphs encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20127G724</link>
-			<description>MEETING MINUTES & NOTES--CORRESPONDENCE, MEETING SUMMARIES-INTERNAL (NON-TRANSCRIPT)</description>
-			<author>ENERGY, DEPT. OF, NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
-			<pubDate>2024-05-31 05:44:00</pubDate>
 		</item>
 	</channel>
 </rss>
