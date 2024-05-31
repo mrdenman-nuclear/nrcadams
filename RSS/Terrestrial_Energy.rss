@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 31 May 2024 17:15:26 GMT</pubDate>
-		<lastBuildDate>Fri, 31 May 2024 17:15:26 GMT</lastBuildDate>
+		<pubDate>Fri, 31 May 2024 18:19:32 GMT</pubDate>
+		<lastBuildDate>Fri, 31 May 2024 18:19:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>North Anna, Unit 2, Current Facility Operating License NPF-7, Revised 05/31/2024.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052990147</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-05-31 13:53:00</pubDate>
+		</item>
+		<item>
+			<title>North Anna, Unit 1, Current Facility Operating License NPF-4, Tech Specs, Revised 05/31/2024.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052990145</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-05-31 13:51:00</pubDate>
+		</item>
+		<item>
+			<title>Voided matls licensing action for Nuclear Energy Svc. Control:115467.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128K982</link>
+			<description>DKT 30 MTL BYPRODUCT, INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I)</author>
+			<pubDate>2024-05-31 13:12:00</pubDate>
+		</item>
 		<item>
 			<title>Revised application for license,authorizing use of radioactive matls by or under supervision of individuals designated by radiation safety committee.Revised procedures encl.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128J004</link>
@@ -199,27 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
 			<author>KERR-MCGEE CORP.</author>
 			<pubDate>2024-05-31 01:37:00</pubDate>
-		</item>
-		<item>
-			<title>"Radiological Environ Surveillance Rept for 1980."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20126H155</link>
-			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>MAINE YANKEE ATOMIC POWER CO.</author>
-			<pubDate>2024-05-31 01:22:00</pubDate>
-		</item>
-		<item>
-			<title>"Proceedings of Public Forum on Environ Protection Criteria for Radwastes," 780330-0401,Denver,CO.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20126B657</link>
-			<description>CONFERENCE & WORKSHOP PAPERS/PROCEEDINGS/ABSTRACTS, TEXT-SAFETY REPORT</description>
-			<author>ENVIRONMENTAL PROTECTION AGENCY</author>
-			<pubDate>2024-05-30 23:23:00</pubDate>
-		</item>
-		<item>
-			<title>Provides Subcommittee on Energy Research & Production w/ comments on 791111 news article re Univ of Heidelberg rept asserting that NRC underestimates reactor radiation doses to public.Rept incorrect.Rept original & translation encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20126B183</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO U.S. CONGRESS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC COMMISSION (OCM)</author>
-			<pubDate>2024-05-30 23:14:00</pubDate>
 		</item>
 	</channel>
 </rss>

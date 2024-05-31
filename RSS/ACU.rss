@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 31 May 2024 17:15:26 GMT</pubDate>
-		<lastBuildDate>Fri, 31 May 2024 17:15:26 GMT</lastBuildDate>
+		<pubDate>Fri, 31 May 2024 18:19:32 GMT</pubDate>
+		<lastBuildDate>Fri, 31 May 2024 18:19:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Rev 3 to CP 801/2801/3801Y, "Routine Operation & Calibr of Lab Ion Chromatography Sys."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128N173</link>
+			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
+			<author>NORTHEAST NUCLEAR ENERGY CO.</author>
+			<pubDate>2024-05-31 14:09:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards directory to documents on severe accident source term reassessment.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128M650</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO PROFESSIONAL/INDUSTRIAL ASSOCIATION, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR REGULATORY RESEARCH (RES)</author>
+			<pubDate>2024-05-31 13:55:00</pubDate>
+		</item>
+		<item>
+			<title>Weekly info rept for wk ending 850628.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128M528</link>
+			<description>TEXT-SAFETY REPORT, Weekly Information Report</description>
+			<author>NRC OFFICE OF THE EXECUTIVE DIRECTOR FOR OPERATIONS (EDO)</author>
+			<pubDate>2024-05-31 13:52:00</pubDate>
+		</item>
 		<item>
 			<title>Deposition of GD King on 880505 & 06,consisting of vols I & II.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128K421</link>
@@ -199,27 +220,6 @@
 			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
 			<author>NRC OFFICE OF NUCLEAR REGULATORY RESEARCH (RES)</author>
 			<pubDate>2024-05-31 04:03:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards Amend 5 to License 20-09568-18.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20127A498</link>
-			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I)</author>
-			<pubDate>2024-05-31 03:42:00</pubDate>
-		</item>
-		<item>
-			<title>Discusses 871104 sample collection at SCA/WMI landfill site in Kawkawlin,MI.Results encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20127A191</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION III)</author>
-			<pubDate>2024-05-31 03:35:00</pubDate>
-		</item>
-		<item>
-			<title>Trip rept of 820609 meeting w/State of IL in Chicago,IL re environ monitoring activities.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20127A196</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION III)</author>
-			<pubDate>2024-05-31 03:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
