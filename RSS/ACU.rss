@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Jun 2024 15:17:37 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Jun 2024 15:17:37 GMT</lastBuildDate>
+		<pubDate>Mon, 03 Jun 2024 16:19:52 GMT</pubDate>
+		<lastBuildDate>Mon, 03 Jun 2024 16:19:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Public version of revised emergency plan implementing procedures,including Rev 10 to 2.50.4 re general emergency & Rev 8 to 2.50.10 re evaluation of radiological data. W/850709 release memo.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20129F157</link>
+			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
+			<author>MAINE YANKEE ATOMIC POWER CO.</author>
+			<pubDate>2024-06-03 11:21:00</pubDate>
+		</item>
 		<item>
 			<title>Rev 3 to hydrogen control program plan.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20129E649</link>
@@ -213,13 +220,6 @@
 			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
 			<author>MAINE YANKEE ATOMIC POWER CO.</author>
 			<pubDate>2024-05-31 09:10:00</pubDate>
-		</item>
-		<item>
-			<title>Affidavit of TS Gills re decommissioning of Portsmouth,VA laundry facility.Concern expressed re tank in ground & removal of contaminated soil.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128A110</link>
-			<description>AFFIDAVITS, DKT 30 MTL BYPRODUCT, LEGAL TRANSCRIPTS & ORDERS & PLEADINGS</description>
-			<author>AFFILIATION NOT ASSIGNED</author>
-			<pubDate>2024-05-31 07:58:00</pubDate>
 		</item>
 	</channel>
 </rss>

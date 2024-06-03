@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Jun 2024 15:17:24 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Jun 2024 15:17:24 GMT</lastBuildDate>
+		<pubDate>Mon, 03 Jun 2024 16:19:36 GMT</pubDate>
+		<lastBuildDate>Mon, 03 Jun 2024 16:19:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Package of compilations of results of operator licensing & requalification exams.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20129F483</link>
+			<description>ARCHIVE RECORDS, PACKAGE OF NONCODED MATERIAL</description>
+			<author>NRC</author>
+			<pubDate>2024-06-03 11:30:00</pubDate>
+		</item>
+		<item>
+			<title>Responds to FOIA request for compilations of results of operator licensing & requalification exams.App A documents placed in PDR.App B documents already in PDR.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20129E997</link>
+			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
+			<pubDate>2024-06-03 11:17:00</pubDate>
+		</item>
+	</channel>
 </rss>

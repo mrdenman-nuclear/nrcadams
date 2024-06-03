@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Jun 2024 15:16:59 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Jun 2024 15:16:59 GMT</lastBuildDate>
+		<pubDate>Mon, 03 Jun 2024 16:19:10 GMT</pubDate>
+		<lastBuildDate>Mon, 03 Jun 2024 16:19:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>06/20/2024 Notice of Partially Closed Meeting with Terrestrial Energy USA, Inc. (Terrestrial)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24155A108</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-06-03 12:10:00</pubDate>
+		</item>
 		<item>
 			<title>Kairos Power, LLC - Request for Documents Related to Non-Power Security</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24150A217</link>
@@ -213,13 +220,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2024-05-30 08:46:00</pubDate>
-		</item>
-		<item>
-			<title>06/12/2024 Meeting with Oklo to discuss physical security for its advanced reactor design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24150A073</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-05-29 09:38:00</pubDate>
 		</item>
 	</channel>
 </rss>
