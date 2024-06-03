@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Jun 2024 19:14:54 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Jun 2024 19:14:54 GMT</lastBuildDate>
+		<pubDate>Mon, 03 Jun 2024 20:16:41 GMT</pubDate>
+		<lastBuildDate>Mon, 03 Jun 2024 20:16:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Guide to Canadian Nuclear Fuel Waste Mgt Program," second edition.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20133A942</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>ATOMIC ENERGY OF CANADA, LTD.</author>
+			<pubDate>2024-06-03 16:02:00</pubDate>
+		</item>
+		<item>
+			<title>"Important Criteria for Site Characterization & Performance Modeling of Low Level Waste Sites W/Special Ref to Chalk River Nuclear Labs Liquid Disposal Area."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20133A726</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>BATTELLE MEMORIAL INSTITUTE, PACIFIC NORTHWEST NATION</author>
+			<pubDate>2024-06-03 15:55:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards final rule,SP-96-122,re environ review for renewal of nuclear power plant operating licenses.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20132F979</link>
@@ -206,20 +220,6 @@
 			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
 			<author>INTERNATIONAL ATOMIC ENERGY AGENCY</author>
 			<pubDate>2024-05-31 14:27:00</pubDate>
-		</item>
-		<item>
-			<title>North Anna, Unit 2, Current Facility Operating License NPF-7, Revised 05/31/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052990147</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-05-31 13:53:00</pubDate>
-		</item>
-		<item>
-			<title>North Anna, Unit 1, Current Facility Operating License NPF-4, Tech Specs, Revised 05/31/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052990145</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-05-31 13:51:00</pubDate>
 		</item>
 	</channel>
 </rss>
