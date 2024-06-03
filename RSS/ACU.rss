@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 31 May 2024 23:15:54 GMT</pubDate>
-		<lastBuildDate>Fri, 31 May 2024 23:15:54 GMT</lastBuildDate>
+		<pubDate>Mon, 03 Jun 2024 14:17:10 GMT</pubDate>
+		<lastBuildDate>Mon, 03 Jun 2024 14:17:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Beaver Valley, Unit 2 - Administered exam: operating test (admin, sim, and in-plant JPMs; scenarios)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22164A949</link>
+			<description>License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/RGN-I/DORS/OB</author>
+			<pubDate>2024-06-03 08:32:00</pubDate>
+		</item>
+		<item>
+			<title>Beaver Valley, Unit 2 - Administered exam: written test with answer key</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22164A955</link>
+			<description>License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/RGN-I/DORS/OB</author>
+			<pubDate>2024-06-03 08:32:00</pubDate>
+		</item>
+		<item>
+			<title>Beaver Valley, Unit 2 - Proposed exam: walkthrough (admin, sim, and in-plant JPMs)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22285A246</link>
+			<description>License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/RGN-I/DORS/OB</author>
+			<pubDate>2024-06-03 08:32:00</pubDate>
+		</item>
+		<item>
+			<title>Beaver Valley, Unit 2 - Proposed Exam: Written Test</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22285A248</link>
+			<description>License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/RGN-I/DORS/OB</author>
+			<pubDate>2024-06-03 08:32:00</pubDate>
+		</item>
 		<item>
 			<title>Mod 3,exercising option to extend period of performance to 860429,to "Data Entry Region III."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20129B796</link>
@@ -192,34 +220,6 @@
 			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, DKT 30 MTL BYPRODUCT, TEXT-LICENSE APPLICATIONS & PERMITS</description>
 			<author>CORY LABORATORIES, INC.</author>
 			<pubDate>2024-05-31 07:15:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of 48th ACNW Meeting in Bethesda,MD on 921120. Pp 187-349.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20127M304</link>
-			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, TRANSCRIPTS, DEPOSITIONS, NARRATIVE TESTIMONY</description>
-			<author>NRC ADVISORY COMMITTEE ON NUCLEAR WASTE (ACNW)</author>
-			<pubDate>2024-05-31 07:04:00</pubDate>
-		</item>
-		<item>
-			<title>Package consisting of general records schedule 23,NRC Manual Chapter Bulletin 0231-30,NRC Manual Chapter 0231, "Maint & Disposition of NRC Official Files & Records" & Mgt Directive 3.53, "NRC Records Mgt Program."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20127L433</link>
-			<description>ARCHIVE RECORDS, PACKAGE OF NONCODED MATERIAL</description>
-			<author>NRC</author>
-			<pubDate>2024-05-31 06:45:00</pubDate>
-		</item>
-		<item>
-			<title>Application for amend to License 34-01055-01,authorizing receipt,possession,use,transfer &/or disposal of uranyl acetate as source matl for staining purposes.Fee paid.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20127L006</link>
-			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, DKT 30 MTL BYPRODUCT, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>RIVERSIDE METHODIST HOSP. COLUMBUS,OH</author>
-			<pubDate>2024-05-31 06:37:00</pubDate>
-		</item>
-		<item>
-			<title>Advises that 850611 ltr & 850613 Bill D0328 re fee for review of Topical Rept XN-NF-734 on confirmation of XN-3 critical power correlation for 9x9 fuel assemblies should be disregarded,per 850617 telcon.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20127K029</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
-			<pubDate>2024-05-31 06:20:00</pubDate>
 		</item>
 	</channel>
 </rss>

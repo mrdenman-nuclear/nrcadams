@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 31 May 2024 23:15:09 GMT</pubDate>
-		<lastBuildDate>Fri, 31 May 2024 23:15:09 GMT</lastBuildDate>
+		<pubDate>Mon, 03 Jun 2024 14:16:51 GMT</pubDate>
+		<lastBuildDate>Mon, 03 Jun 2024 14:16:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -185,13 +185,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
 			<author>AEROTEST OPERATIONS, INC.</author>
 			<pubDate>2024-05-22 05:12:00</pubDate>
-		</item>
-		<item>
-			<title>Requests voluntary responses to enable NRC staff to assess need for addl clarification of regulatory framework re control of access to radiation in beams at non-power reactors.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20085K226</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC (Affiliation Not Assigned)</author>
-			<pubDate>2024-05-20 10:45:00</pubDate>
 		</item>
 	</channel>
 </rss>
