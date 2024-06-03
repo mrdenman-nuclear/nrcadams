@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Jun 2024 14:17:10 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Jun 2024 14:17:10 GMT</lastBuildDate>
+		<pubDate>Mon, 03 Jun 2024 15:17:37 GMT</pubDate>
+		<lastBuildDate>Mon, 03 Jun 2024 15:17:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Rev 3 to hydrogen control program plan.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20129E649</link>
+			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
+			<author>HYDROGEN CONTROL OWNERS GROUP</author>
+			<pubDate>2024-06-03 11:08:00</pubDate>
+		</item>
+		<item>
+			<title>Informs of 840806 meeting w/contract users & Div of Contracts to discuss deficiencies & manner of resolution,per 840723 telcon & 840720 ltr.Agenda encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20129C966</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO ENGINEERING/CONSTRUCTION/CONSULTING FIRM, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
+			<pubDate>2024-06-03 10:25:00</pubDate>
+		</item>
 		<item>
 			<title>Beaver Valley, Unit 2 - Administered exam: operating test (admin, sim, and in-plant JPMs; scenarios)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22164A949</link>
@@ -206,20 +220,6 @@
 			<description>AFFIDAVITS, DKT 30 MTL BYPRODUCT, LEGAL TRANSCRIPTS & ORDERS & PLEADINGS</description>
 			<author>AFFILIATION NOT ASSIGNED</author>
 			<pubDate>2024-05-31 07:58:00</pubDate>
-		</item>
-		<item>
-			<title>Safety insp on 920930 of license 20-15613-01.Insp findings: no violations noted.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20127N755</link>
-			<description>DKT 30 MTL BYPRODUCT, SAFETY INSPECTION (FORMERLY INSPECTION FINDINGS &, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>MILFORD-WHITINSVILLE REGIONAL HOSP., MILFORD, MA, NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I)</author>
-			<pubDate>2024-05-31 07:37:00</pubDate>
-		</item>
-		<item>
-			<title>Application for license,authorizing use of 250 mCi H-3 planted on stainless steel in Varian Aeograph 1200 for electron capture detector in gas chromatograph.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20127M715</link>
-			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, DKT 30 MTL BYPRODUCT, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>CORY LABORATORIES, INC.</author>
-			<pubDate>2024-05-31 07:15:00</pubDate>
 		</item>
 	</channel>
 </rss>

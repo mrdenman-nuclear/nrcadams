@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Jun 2024 14:16:37 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Jun 2024 14:16:37 GMT</lastBuildDate>
+		<pubDate>Mon, 03 Jun 2024 15:17:11 GMT</pubDate>
+		<lastBuildDate>Mon, 03 Jun 2024 15:17:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Kairos Power, LLC - Request for Documents Related to Non-Power Security</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24150A217</link>
+			<description>Letter</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2024-06-03 10:19:00</pubDate>
+		</item>
+		<item>
+			<title>Kairos Power, LLC - Request for Documents Related to Non-Power Security</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24150A217</link>
+			<description>Letter</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2024-06-03 10:19:00</pubDate>
+		</item>
 		<item>
 			<title>Kairos Power, LLC - Presentation Materials for Kairos Power Briefing to the Advisory Committee on Reactor Safeguards, Kairos Power Subcommittee on Hermes 2 Preliminary Safety Analysis Report, Chapters 2, 3, 5, 9, and 13</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24150A244</link>
@@ -206,20 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-05-29 09:38:00</pubDate>
-		</item>
-		<item>
-			<title>2024/05/10 Kairos - Hermes 2 Docs - Preliminary Chapters (2 & 3) of Hermes 2 SE  to ACRS</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24136A068</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-05-29 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>2024/05/10 Kairos - Hermes 2 Docs - Preliminary Chapters (2 & 3) of Hermes 2 SE  to ACRS</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24136A068</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-05-29 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
