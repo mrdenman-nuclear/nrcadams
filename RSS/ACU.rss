@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Jun 2024 22:16:42 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Jun 2024 22:16:42 GMT</lastBuildDate>
+		<pubDate>Mon, 03 Jun 2024 23:18:03 GMT</pubDate>
+		<lastBuildDate>Mon, 03 Jun 2024 23:18:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Provides addl info requested by 850904 ltr re application for amend to License 20-14597-01.3M Model 4F6H sealed source maintained.Application revised to require annual meeting of radiation safety committee.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20133K190</link>
+			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, INCOMING CORRESPONDENCE</description>
+			<author>YANKEE ATOMIC ELECTRIC CO.</author>
+			<pubDate>2024-06-03 19:12:00</pubDate>
+		</item>
+		<item>
+			<title>Requests that any revs to 10CFR20.402 re theft or loss of licensed matl be consistent w/encl revs to 10CFR73.71 concerning licensee event reporting requirements.W/o encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20133H978</link>
+			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
+			<pubDate>2024-06-03 18:49:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards "Prioritization Evaluation,Generic Issue 97, `PWR Reactor Cavity Uncontrolled Exposures.'" Generic Issue 97 assigned resolved priority ranking.Encl evaluation will be incorporated into NUREG-0933, "Prioritization of Generic..."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20133H253</link>
+			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
+			<pubDate>2024-06-03 18:29:00</pubDate>
+		</item>
 		<item>
 			<title>LER 85-017-00:on 850909,purge valves tripped shut.Caused by workers inadvertently actuating high radiation protection circuitry.Mod initiated to remove necessity of installing jumpers to start fans.W/851009 ltr.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20133G423</link>
@@ -199,27 +220,6 @@
 			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
 			<author>NORCOM INTERNATIONAL CORP. (FORMERLY NORIEGA COMMUNIC, NRC OFFICE OF ADMINISTRATION (ADM), SMALL BUSINESS ADMINISTRATION</author>
 			<pubDate>2024-05-31 16:24:00</pubDate>
-		</item>
-		<item>
-			<title>Safety insp on 960801 of license 29-10313-01.Insp findings: no violations observed.Inspector verified steps taken to correct violations identified during last insp.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20129B737</link>
-			<description>DKT 30 MTL BYPRODUCT, SAFETY INSPECTION (FORMERLY INSPECTION FINDINGS &, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I), UNION HOSP., UNION, NJ (FORMERLY MEMORIAL GENERAL</author>
-			<pubDate>2024-05-31 16:22:00</pubDate>
-		</item>
-		<item>
-			<title>Places on file info pertinent to Sr-90 line radiation source model 3A1F.Ltr supercedes info contained in ltr from R Walz to J Hitch dtd 621113.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128R045</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>MINNESOTA MINING and MANUFACTURING CO. (3M CO.)</author>
-			<pubDate>2024-05-31 15:32:00</pubDate>
-		</item>
-		<item>
-			<title>Application for amend to license 06-02135-08,authorizing distribution of Electron Capture Detector Cell to licensees under 10CFR31.5 & use of 15 mCi Ni-63 per device or foil. W/one oversize encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128Q855</link>
-			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>PERKIN ELMER CORP.</author>
-			<pubDate>2024-05-31 15:26:00</pubDate>
 		</item>
 	</channel>
 </rss>
