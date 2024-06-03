@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Jun 2024 17:15:51 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Jun 2024 17:15:51 GMT</lastBuildDate>
+		<pubDate>Mon, 03 Jun 2024 18:19:59 GMT</pubDate>
+		<lastBuildDate>Mon, 03 Jun 2024 18:19:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Safety evaluation supporting renewal of License SUB-1010 for Sequoyah Fuels Corp,authorizing possession & use of natural U for production of UF6 from U ore concentrates.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20132D156</link>
+			<description>SAFETY EVALUATION REPORT--LICENSING & RELATED ISSUES, TEXT-SAFETY REPORT</description>
+			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
+			<pubDate>2024-06-03 14:01:00</pubDate>
+		</item>
+		<item>
+			<title>Rev 0 to "SAFSTOR ODCM."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20132C739</link>
+			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
+			<author>PACIFIC GAS and ELECTRIC CO.</author>
+			<pubDate>2024-06-03 13:51:00</pubDate>
+		</item>
+		<item>
+			<title>"Engineering Assessment of Inactive U Mill Tailings for Edgemont Site,Edgemont,SD."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20132C662</link>
+			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
+			<author>FORD, BACON and DAVIS UTAH, INC.</author>
+			<pubDate>2024-06-03 13:50:00</pubDate>
+		</item>
 		<item>
 			<title>NRC Staff Answer to Amended and New Contentions and Petition for Waiver</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24155A110</link>
@@ -199,27 +220,6 @@
 			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
 			<author>US ATOMIC ENERGY COMMISSION (AEC)</author>
 			<pubDate>2024-05-31 09:45:00</pubDate>
-		</item>
-		<item>
-			<title>Vogtle, Unit 1, Current Facility Operating License NPF-68, Tech Specs, Revised 05/31/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052840233</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-05-31 09:45:00</pubDate>
-		</item>
-		<item>
-			<title>"Operational Environ Radiological Surveillance Program 1984 Annual Rept." W/850430 ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128F179</link>
-			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>PORTLAND GENERAL ELECTRIC CO.</author>
-			<pubDate>2024-05-31 09:43:00</pubDate>
-		</item>
-		<item>
-			<title>SALP Repts 50-245/85-99 & 50-336/85-99 for Sept 1983 - Feb 1985.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128B284</link>
-			<description>SYSTEMATIC ASSESSMENT OF LICENSEE PERFORMANCE, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I)</author>
-			<pubDate>2024-05-31 08:22:00</pubDate>
 		</item>
 	</channel>
 </rss>
