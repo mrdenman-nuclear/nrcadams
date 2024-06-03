@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Jun 2024 21:19:02 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Jun 2024 21:19:02 GMT</lastBuildDate>
+		<pubDate>Mon, 03 Jun 2024 22:16:42 GMT</pubDate>
+		<lastBuildDate>Mon, 03 Jun 2024 22:16:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Journal of Natural Resources & Environmental Law, Reclamation & Groundwater Restoration in U Milling Industry: An Assessment of UMTRCA,Title II."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20133E388</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>AFFILIATION NOT ASSIGNED</author>
+			<pubDate>2024-06-03 17:26:00</pubDate>
+		</item>
 		<item>
 			<title>"Confirmatory Order for Reclamation of American Nuclear Corp Gas Hills,WY,Site."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20132A654</link>
@@ -213,13 +220,6 @@
 			<description>QUALITY ASSURANCE PROGRAM, TEXT-SAFETY REPORT</description>
 			<author>WESTINGHOUSE ELECTRIC COMPANY, DIV OF CBS CORP.</author>
 			<pubDate>2024-05-22 01:49:00</pubDate>
-		</item>
-		<item>
-			<title>Trip rept of 840313 visit to Denver,CO for second quarterly program review of U Recovery Field Ofc.Details of caseload forecast & current caseload status encl.File started for possible changes to Reg Guide 8.30 re detection monitoring.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20090G986</link>
-			<description>MEETING MINUTES & NOTES--CORRESPONDENCE, TRIP REPORTS</description>
-			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
-			<pubDate>2024-05-21 21:11:00</pubDate>
 		</item>
 	</channel>
 </rss>

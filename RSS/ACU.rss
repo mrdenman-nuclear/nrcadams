@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Jun 2024 21:19:02 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Jun 2024 21:19:02 GMT</lastBuildDate>
+		<pubDate>Mon, 03 Jun 2024 22:16:42 GMT</pubDate>
+		<lastBuildDate>Mon, 03 Jun 2024 22:16:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>LER 85-017-00:on 850909,purge valves tripped shut.Caused by workers inadvertently actuating high radiation protection circuitry.Mod initiated to remove necessity of installing jumpers to start fans.W/851009 ltr.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20133G423</link>
+			<description>LICENSEE EVENT REPORT (SEE ALSO AO,RO), TEXT-SAFETY REPORT</description>
+			<author>COMMONWEALTH EDISON CO.</author>
+			<pubDate>2024-06-03 18:09:00</pubDate>
+		</item>
 		<item>
 			<title>Requests fee re 850520 application for amend to License 29-08636-02.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20133C728</link>
@@ -213,13 +220,6 @@
 			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, TEXT-LICENSE APPLICATIONS & PERMITS</description>
 			<author>PERKIN ELMER CORP.</author>
 			<pubDate>2024-05-31 15:26:00</pubDate>
-		</item>
-		<item>
-			<title>Requests that CO:III inspect six customers in Chicago to determine confirmation of device model & serial numbers & dates of receipt & installation,type of cleaning agents, techniques employed & approximate dates performed.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128Q468</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>US ATOMIC ENERGY COMMISSION (AEC)</author>
-			<pubDate>2024-05-31 15:14:00</pubDate>
 		</item>
 	</channel>
 </rss>
