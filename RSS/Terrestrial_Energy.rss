@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Jun 2024 16:19:52 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Jun 2024 16:19:52 GMT</lastBuildDate>
+		<pubDate>Mon, 03 Jun 2024 17:15:51 GMT</pubDate>
+		<lastBuildDate>Mon, 03 Jun 2024 17:15:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC Staff Answer to Amended and New Contentions and Petition for Waiver</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24155A110</link>
+			<description>Legal-Pleading</description>
+			<author>NRC/OGC</author>
+			<pubDate>2024-06-03 13:02:00</pubDate>
+		</item>
+		<item>
+			<title>"Staff Technical Position Alternate Concentration Limits for Title 2 Uranium Mills."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20129J604</link>
+			<description>NRC TECHNICAL REPORT, TEXT-SAFETY REPORT</description>
+			<author>NRC (Affiliation Not Assigned)</author>
+			<pubDate>2024-06-03 12:36:00</pubDate>
+		</item>
+		<item>
+			<title>Voided matls licensing action for Quadra Linc. Control:021672.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20129J215</link>
+			<description>DKT 30 MTL BYPRODUCT, INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
+			<pubDate>2024-06-03 12:26:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards application for facility license to Air Force Matl Command Sacramento Air Logistics Ctrs McClellan Nuclear Radiation Ctr 2-megawatt nonpower reactor.Related info,encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20129H791</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>AIR FORCE, DEPT. OF</author>
+			<pubDate>2024-06-03 12:18:00</pubDate>
+		</item>
 		<item>
 			<title>Submits addl data requested during 880921 telcon,supporting application for safety evaluation & registration.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20129H478</link>
@@ -192,34 +220,6 @@
 			<description>SYSTEMATIC ASSESSMENT OF LICENSEE PERFORMANCE, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I)</author>
 			<pubDate>2024-05-31 08:22:00</pubDate>
-		</item>
-		<item>
-			<title>"Site Environ Rept for CY91 on Radiological & Nonradiological Parameters."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128A790</link>
-			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>BATTELLE MEMORIAL INSTITUTE, COLUMBUS LABORATORIES</author>
-			<pubDate>2024-05-31 08:13:00</pubDate>
-		</item>
-		<item>
-			<title>"Evaluation of Edgemont U Tailings Disposal Site Reclamation." W/one oversize encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20127N385</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>SHEPHERD MILLER, INC.</author>
-			<pubDate>2024-05-31 07:29:00</pubDate>
-		</item>
-		<item>
-			<title>EA re expansion of spent fuel pool for license DPR-39 & DPR-48.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20127M824</link>
-			<description>ENVIRONMENTAL IMPACT APPRAISALS, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
-			<pubDate>2024-05-31 07:17:00</pubDate>
-		</item>
-		<item>
-			<title>FR notice of final rules 10CFR30,40 & 70 re regional nuclear matls licensing for certain federal facilities.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20127M565</link>
-			<description>FEDERAL REGISTER NOTICES, TEXT-CODE OF FEDERAL REGULATIONS</description>
-			<author>OFFICE OF THE FEDERAL REGISTER</author>
-			<pubDate>2024-05-31 07:11:00</pubDate>
 		</item>
 	</channel>
 </rss>
