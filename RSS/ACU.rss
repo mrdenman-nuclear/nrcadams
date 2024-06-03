@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Jun 2024 20:16:40 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Jun 2024 20:16:40 GMT</lastBuildDate>
+		<pubDate>Mon, 03 Jun 2024 21:19:02 GMT</pubDate>
+		<lastBuildDate>Mon, 03 Jun 2024 21:19:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Requests fee re 850520 application for amend to License 29-08636-02.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20133C728</link>
+			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
+			<pubDate>2024-06-03 16:49:00</pubDate>
+		</item>
+		<item>
+			<title>Transcript of 880126 conference in Bethesda,MD re Advisory Committee on Medical Uses of Isotopes.Pp 1-166.Supporting documentation encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20133C202</link>
+			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, TRANSCRIPTS, DEPOSITIONS, NARRATIVE TESTIMONY</description>
+			<author>NRC OFFICE OF INVESTIGATIONS (OI)</author>
+			<pubDate>2024-06-03 16:36:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards evaluation of response to Falls City,TX,Completion Rept issues.Addl info on Issues 1b & 2 requested.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20133C098</link>
+			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
+			<pubDate>2024-06-03 16:34:00</pubDate>
+		</item>
 		<item>
 			<title>Ack receipt of 961002 request for renewal of QA approval for radioactive matl packages,rev 0.Approval not issued at this time since 10CFR34 regulation changes not in effect until early 1997.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20133A882</link>
@@ -199,27 +220,6 @@
 			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
 			<author>US ATOMIC ENERGY COMMISSION (AEC)</author>
 			<pubDate>2024-05-31 15:14:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards copy of ltr recently written to L Caruthers re model 210 static eliminator that was subjected to solvent washing & copy of present instruction sheet which is sent to customer w/each nuclear static eliminator.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128Q399</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>MINNESOTA MINING and MANUFACTURING CO. (3M CO.)</author>
-			<pubDate>2024-05-31 15:12:00</pubDate>
-		</item>
-		<item>
-			<title>Requests Commission approval to publish notice of final rulemaking in FR.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128Q200</link>
-			<description>COMMISSION PAPER, TEXT-SAFETY REPORT</description>
-			<author>NRC OFFICE OF THE EXECUTIVE DIRECTOR FOR OPERATIONS (EDO)</author>
-			<pubDate>2024-05-31 15:06:00</pubDate>
-		</item>
-		<item>
-			<title>Special Insp Rept 30-08985/82-01 on 820622.No noncompliance noted.Major areas inspected:training & instructions to employees,radiation protection procedures & matls facilities & instruments.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128Q036</link>
-			<description>DKT 30 MTL BYPRODUCT, INSPECTION REPORT, MANUFACTURER/VENDOR/ENGINEER, INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC</author>
-			<pubDate>2024-05-31 15:02:00</pubDate>
 		</item>
 	</channel>
 </rss>
