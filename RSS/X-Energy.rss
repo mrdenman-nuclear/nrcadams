@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Jun 2024 20:14:54 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Jun 2024 20:14:54 GMT</lastBuildDate>
+		<pubDate>Tue, 04 Jun 2024 21:13:50 GMT</pubDate>
+		<lastBuildDate>Tue, 04 Jun 2024 21:13:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards rept which constitutes Annual ALARA.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20137N665</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>ENERGY FUELS NUCLEAR, INC.</author>
+			<pubDate>2024-06-04 16:35:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards copy of Settlement Agreement between American Nuclear Corp & Wyoming Dept of Environ Quality,Land Quality Div.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20135D022</link>
@@ -213,13 +220,6 @@
 			<description>TEXT-SAFETY REPORT, Weekly Information Report</description>
 			<author>NRC OFFICE OF THE EXECUTIVE DIRECTOR FOR OPERATIONS (EDO)</author>
 			<pubDate>2024-05-22 12:27:00</pubDate>
-		</item>
-		<item>
-			<title>Ack TVA recent claim against ANC reimbursement under Title X of Energy Policy Act of 1992.Title X monies are essential to success of project & must be used for reclamation.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20091S279</link>
-			<description>CORRESPONDENCE-LETTERS, EXTERNAL CORRESPONDENCE</description>
-			<author>WYOMING, STATE OF</author>
-			<pubDate>2024-05-22 09:44:00</pubDate>
 		</item>
 	</channel>
 </rss>

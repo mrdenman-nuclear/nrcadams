@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Jun 2024 20:14:54 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Jun 2024 20:14:54 GMT</lastBuildDate>
+		<pubDate>Tue, 04 Jun 2024 21:13:50 GMT</pubDate>
+		<lastBuildDate>Tue, 04 Jun 2024 21:13:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Mgt Appraisal Rept."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20137N437</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>LRS CONSULTANTS</author>
+			<pubDate>2024-06-04 16:31:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards credentials of listed witnesses that may be called to testify,in response to ASLB 851120 memorandum & order. Related correspondence.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20137L957</link>
@@ -213,13 +220,6 @@
 			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
 			<author>ADVANCED MEDICAL SYSTEMS, INC.</author>
 			<pubDate>2024-06-04 00:07:00</pubDate>
-		</item>
-		<item>
-			<title>"Onsite Radiological Contingency Plan for Cleveland,OH Facility," license 34-19089-01.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20134F147</link>
-			<description>DKT 30 MTL BYPRODUCT, TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
-			<author>ADVANCED MEDICAL SYSTEMS, INC.</author>
-			<pubDate>2024-06-04 00:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
