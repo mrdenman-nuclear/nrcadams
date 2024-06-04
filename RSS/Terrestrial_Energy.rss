@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Jun 2024 15:19:31 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Jun 2024 15:19:31 GMT</lastBuildDate>
+		<pubDate>Tue, 04 Jun 2024 16:19:46 GMT</pubDate>
+		<lastBuildDate>Tue, 04 Jun 2024 16:19:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Clinton, Unit 1, Current Facility Operating License NPF-62, Tech Specs, Revised 06/04/2024.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052720312</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-06-04 12:14:00</pubDate>
+		</item>
+		<item>
+			<title>Diablo Canyon, Unit 1, Current Facility Operating License DPR-80, Tech Specs, Revised 06/04/2024.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053140349</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-06-04 11:23:00</pubDate>
+		</item>
+		<item>
+			<title>Columbia, Current Facility Operating License NPF-21, Technical Specifications, Revised 06/04/2024.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053130319</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-06-04 11:18:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards Vols 1 & 2 of draft NUREG/CR-2815, "Probabilistic Safety Analysis Procedure Guide," & proposed FR notice of availability of rept for public comments.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20137A313</link>
@@ -199,27 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, NRC TO U.S. CONGRESS, OUTGOING CORRESPONDENCE</description>
 			<author>NRC COMMISSION (OCM)</author>
 			<pubDate>2024-06-03 22:22:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of 930219 meeting in Rockville,MD re briefing on status of issues & approach to GEIS rulemaking for Part 51. Pp 1-76.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20134B318</link>
-			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, TRANSCRIPTS, DEPOSITIONS, NARRATIVE TESTIMONY</description>
-			<author>NRC COMMISSION (OCM)</author>
-			<pubDate>2024-06-03 22:21:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards 40CFR192, "Health & Environ Protection Stds for U & Thorium Mill Tailings," to assist in understanding recently promulgated EPA stds.Any errors or omissions should be submitted.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20134A667</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
-			<pubDate>2024-06-03 22:08:00</pubDate>
-		</item>
-		<item>
-			<title>Vols 1 & 2 of "Remedial Actions at Former Vanadium Corp of America U Mill Site Durango,La Plata County,CO."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20134A538</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>ENERGY, DEPT. OF</author>
-			<pubDate>2024-06-03 22:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
