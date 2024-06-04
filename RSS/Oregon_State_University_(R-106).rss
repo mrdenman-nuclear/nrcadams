@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Jun 2024 23:17:46 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Jun 2024 23:17:46 GMT</lastBuildDate>
+		<pubDate>Tue, 04 Jun 2024 14:18:07 GMT</pubDate>
+		<lastBuildDate>Tue, 04 Jun 2024 14:18:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Oregon State University TRIGA Reactor (OSTR) re Self-Reporting of a Potential Violation of a Technical Specification Involving Minimum Staffing</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24145A126</link>
+			<description>Letter</description>
+			<author>Oregon State Univ</author>
+			<pubDate>2024-06-04 08:33:00</pubDate>
+		</item>
 		<item>
 			<title>Partial response to FOIA request for physical security & safeguards insp repts for all nonpower reactors in Regions II & V from 1979 to present.Forwards App A documents. Portions of documents withheld (ref FOIA Exemption 4).</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20112E343</link>
@@ -24,20 +31,6 @@
 			<description>CORRESPONDENCE-LETTERS, NRC TO PUBLIC ENTITY/CITIZEN/ORGANIZATION/MEDIA, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
 			<pubDate>2024-05-29 08:45:00</pubDate>
-		</item>
-		<item>
-			<title>Advises that schedular info for implementation of provisions of Rev 2 to Reg Guide 1.97 will not be submitted by 840717 due to plans to evaluate proposed mods as part of integrated safety assessment program,per Suppl 1 to NUREG-0737.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20090G817</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, UTILITY TO NRC</description>
-			<author>CONNECTICUT YANKEE ATOMIC POWER CO., NORTHEAST NUCLEAR ENERGY CO., NORTHEAST UTILITIES</author>
-			<pubDate>2024-05-21 21:04:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Confirmation Letter No. 50-243/OL 24-01, Oregon State University</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24078A351</link>
-			<description>Letter, License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2024-05-21 10:06:00</pubDate>
 		</item>
 	</channel>
 </rss>

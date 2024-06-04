@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Jun 2024 23:17:31 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Jun 2024 23:17:31 GMT</lastBuildDate>
+		<pubDate>Tue, 04 Jun 2024 14:17:51 GMT</pubDate>
+		<lastBuildDate>Tue, 04 Jun 2024 14:17:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -94,27 +94,6 @@
 			<description>Preliminary Safety Analysis Report (PSAR)</description>
 			<author>Kairos Power, LLC</author>
 			<pubDate>2024-05-24 15:09:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC Transmittal of Changes to Hermes 2 Construction Permit Application – PSAR Chapters 3, 5, and 13</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24138A212</link>
-			<description>Letter</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2024-05-21 08:52:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Changes to Hermes 2 PSAR Chapters 3, 5 and 13 (non-proprietary)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24138A213</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2024-05-21 08:52:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Supplemental Information on Rupture Disk Design Code Evaluation (non-proprietary)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24138A214</link>
-			<description>Report, Miscellaneous</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2024-05-21 08:52:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Jun 2024 23:18:03 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Jun 2024 23:18:03 GMT</lastBuildDate>
+		<pubDate>Tue, 04 Jun 2024 14:18:41 GMT</pubDate>
+		<lastBuildDate>Tue, 04 Jun 2024 14:18:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>FOIA request for documents referring,relating or pertaining to Spectronics,Inc,M Earl or EP Tolbert,per 10CFR9.13, Part 9.1.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20134F849</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>TROUTMANSANDERS (FORMERLY TROUTMAN, SANDERS, LOCKERMA</author>
+			<pubDate>2024-06-04 00:27:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards revised PWR near-term OL group generic comments for Reg Guide 1.97,proposed Revision 2.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20126D185</link>
@@ -59,13 +66,6 @@
 			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, TEXT-LICENSE APPLICATIONS & PERMITS</description>
 			<author>GENERAL ELECTRIC CO.</author>
 			<pubDate>2024-05-23 13:35:00</pubDate>
-		</item>
-		<item>
-			<title>Notifies of 950829 meeting w/B&WOG in Rockville,MD to discuss NRC operator licensing exam process w/B&WOG training task force.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20087J557</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC (Affiliation Not Assigned)</author>
-			<pubDate>2024-05-21 13:18:00</pubDate>
 		</item>
 	</channel>
 </rss>

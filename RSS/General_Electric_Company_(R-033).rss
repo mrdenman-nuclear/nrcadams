@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Jun 2024 23:17:46 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Jun 2024 23:17:46 GMT</lastBuildDate>
+		<pubDate>Tue, 04 Jun 2024 14:18:07 GMT</pubDate>
+		<lastBuildDate>Tue, 04 Jun 2024 14:18:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -206,13 +206,6 @@
 			<description>Federal Register Notice</description>
 			<author>NRC/NRR/DORL/LPL2-1</author>
 			<pubDate>2024-05-22 13:54:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards safety evaluation of radiological emergency plan submitted on 821029 per 10CFR50.54(q) & (r).Plan complies w/guidance of Rev 1 to Reg Guide 2.6 & ANSI/ANS-15.16-1982 & acceptable.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20091A245</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
-			<pubDate>2024-05-21 23:59:00</pubDate>
 		</item>
 	</channel>
 </rss>
