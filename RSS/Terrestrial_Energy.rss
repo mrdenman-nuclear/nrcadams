@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Jun 2024 17:15:08 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Jun 2024 17:15:08 GMT</lastBuildDate>
+		<pubDate>Tue, 04 Jun 2024 18:20:10 GMT</pubDate>
+		<lastBuildDate>Tue, 04 Jun 2024 18:20:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submits completion of response to staff requirements memo for SECY-95-249,on risk harmonization white paper & recommendations by Interagency Steering Committee on Radiation Stds.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20137E434</link>
+			<description>COMMISSION PAPER, TEXT-SAFETY REPORT</description>
+			<author>NRC OFFICE OF THE EXECUTIVE DIRECTOR FOR OPERATIONS (EDO)</author>
+			<pubDate>2024-06-04 13:57:00</pubDate>
+		</item>
+		<item>
+			<title>Insp repts 50-312/97-01 & 72-0011/97-01 on 970224-27.No violations noted.Major areas inspected:licensee planned work associated w/dismantlement of turbine bldg & radiological controls being implemented during work activities.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20137C759</link>
+			<description>INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
+			<pubDate>2024-06-04 13:21:00</pubDate>
+		</item>
+		<item>
+			<title>Environ assessment for amend to License SUB-1010 to permit const & operation of facility to convert UF6 to UF4.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20137C476</link>
+			<description>ENVIRONMENTAL IMPACT APPRAISALS, TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
+			<pubDate>2024-06-04 13:16:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards Rev 12 to Corporate Emergency Plan.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20137B824</link>
@@ -199,27 +220,6 @@
 			<description>ENVIRONMENTAL IMPACT STATEMENT, ALL VERSIONS, TEXT-ENVIRONMENTAL REPORTS</description>
 			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
 			<pubDate>2024-06-03 23:07:00</pubDate>
-		</item>
-		<item>
-			<title>"NRC Workshop on Site Characterization for Decommissioning in Rockville,MD."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20134C806</link>
-			<description>CONFERENCE & WORKSHOP PAPERS/PROCEEDINGS/ABSTRACTS, TEXT-SAFETY REPORT</description>
-			<author>NRC OFFICE OF PUBLIC AFFAIRS (OPA)</author>
-			<pubDate>2024-06-03 23:06:00</pubDate>
-		</item>
-		<item>
-			<title>Submits NRR Ofc Ltr 906,Rev 1, "Procedural Guidance for Preparing EA & Considering Environ Issues."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20134C755</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC (Affiliation Not Assigned)</author>
-			<pubDate>2024-06-03 23:04:00</pubDate>
-		</item>
-		<item>
-			<title>Informs Commission of public comments received on final rule notice,10CFR51 & supporting final generic environ impact statement.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20134B890</link>
-			<description>COMMISSION PAPER, TEXT-SAFETY REPORT</description>
-			<author>NRC OFFICE OF THE EXECUTIVE DIRECTOR FOR OPERATIONS (EDO)</author>
-			<pubDate>2024-06-03 22:36:00</pubDate>
 		</item>
 	</channel>
 </rss>
