@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Jun 2024 18:20:10 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Jun 2024 18:20:10 GMT</lastBuildDate>
+		<pubDate>Tue, 04 Jun 2024 19:13:36 GMT</pubDate>
+		<lastBuildDate>Tue, 04 Jun 2024 19:13:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Informs Commission that staff plans to remove Dept of Army Aberdeen Proving Ground,MD site from Site Decommissioning Mgt Plan list within ten days.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20137H393</link>
+			<description>COMMISSION PAPER, TEXT-SAFETY REPORT</description>
+			<author>NRC OFFICE OF THE EXECUTIVE DIRECTOR FOR OPERATIONS (EDO)</author>
+			<pubDate>2024-06-04 14:49:00</pubDate>
+		</item>
+		<item>
+			<title>"Evaluation of Residual Radionuclide Source Term at Trojan NPP at Start of Decommissioning."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20137H284</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>External (Affiliation Not Assigned)</author>
+			<pubDate>2024-06-04 14:45:00</pubDate>
+		</item>
 		<item>
 			<title>Submits completion of response to staff requirements memo for SECY-95-249,on risk harmonization white paper & recommendations by Interagency Steering Committee on Radiation Stds.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20137E434</link>
@@ -206,20 +220,6 @@
 			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
 			<author>INTERIOR, DEPT. OF, FISH and WILDLIFE SERVICE</author>
 			<pubDate>2024-06-03 23:44:00</pubDate>
-		</item>
-		<item>
-			<title>Revised SALP Rept 50-213/85-99 for Sept 1983 - Feb 1985, modifying discussion re deviations from normal QA requirements & after-the-fact determinations of quality.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20134D508</link>
-			<description>SYSTEMATIC ASSESSMENT OF LICENSEE PERFORMANCE, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I)</author>
-			<pubDate>2024-06-03 23:25:00</pubDate>
-		</item>
-		<item>
-			<title>"Preliminary Draft FEIS,Crownpoint U Solution Mining Project,Crownpoint,NM,Proposed by Hydro Resources,Inc."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20134C844</link>
-			<description>ENVIRONMENTAL IMPACT STATEMENT, ALL VERSIONS, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
-			<pubDate>2024-06-03 23:07:00</pubDate>
 		</item>
 	</channel>
 </rss>

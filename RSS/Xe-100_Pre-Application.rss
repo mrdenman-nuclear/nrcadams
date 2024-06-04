@@ -5,26 +5,12 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Jun 2024 18:19:30 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Jun 2024 18:19:30 GMT</lastBuildDate>
+		<pubDate>Tue, 04 Jun 2024 19:13:13 GMT</pubDate>
+		<lastBuildDate>Tue, 04 Jun 2024 19:13:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Energy, LLC (X-energy) Submittal of Xe-100 Licensing Topical Report GOTHIC and Flownex Analysis Codes Qualification, Rev. 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24143A193</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2024-05-31 09:09:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Affidavit Supporting Request for Withholding from Public Disclosure (10 CFR 2.390)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24143A194</link>
-			<description>Legal-Affidavit</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2024-05-31 09:09:00</pubDate>
-		</item>
 		<item>
 			<title>Enclosure 2: “Xe-100 Licensing Topical Report GOTHIC and Flownex Analysis Codes Qualification,” Revision 2 to 008585</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24143A195</link>
@@ -37,6 +23,20 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24122A992</link>
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-05-31 09:09:00</pubDate>
+		</item>
+		<item>
+			<title>Energy, LLC (X-energy) Submittal of Xe-100 Licensing Topical Report GOTHIC and Flownex Analysis Codes Qualification, Rev. 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24143A193</link>
+			<description>Letter</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2024-05-31 09:09:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1: Affidavit Supporting Request for Withholding from Public Disclosure (10 CFR 2.390)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24143A194</link>
+			<description>Legal-Affidavit</description>
+			<author>X-Energy, LLC</author>
 			<pubDate>2024-05-31 09:09:00</pubDate>
 		</item>
 	</channel>
