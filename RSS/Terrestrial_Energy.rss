@@ -5,12 +5,47 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 05 Jun 2024 15:14:36 GMT</pubDate>
-		<lastBuildDate>Wed, 05 Jun 2024 15:14:36 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Jun 2024 16:19:22 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Jun 2024 16:19:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards partial response to DOI comments on DES.Addl response to be forwarded no later than 740820.Initial response submitted on 740620.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20141C350</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
+			<author>KERR-MCGEE NUCLEAR CORP.</author>
+			<pubDate>2024-06-05 12:03:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards responses to 740627 transmittal of DOI comments. Solid waste contaminated w/radioactive matl buried in area burial on Page II-7 of DES.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20141B987</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
+			<author>KERR-MCGEE CORP.</author>
+			<pubDate>2024-06-05 11:53:00</pubDate>
+		</item>
+		<item>
+			<title>"Applicants Environ Rept."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20141B527</link>
+			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>KERR-MCGEE CORP.</author>
+			<pubDate>2024-06-05 11:40:00</pubDate>
+		</item>
+		<item>
+			<title>DES for Kerr-McGee Nuclear Corp Sequoyah U Hexafluoride plant.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20141B437</link>
+			<description>ENVIRONMENTAL IMPACT STATEMENT, ALL VERSIONS, TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>US ATOMIC ENERGY COMMISSION (AEC)</author>
+			<pubDate>2024-06-05 11:37:00</pubDate>
+		</item>
+		<item>
+			<title>Transmits State Agreements program info (SP-97-045) re acceptance to introductory health physics course.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20141A962</link>
+			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF STATE PROGRAMS (OSP)</author>
+			<pubDate>2024-06-05 11:22:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards listed info,in response to request for addl info on Agreement State Program.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20141A549</link>
@@ -185,41 +220,6 @@
 			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, TRANSCRIPTS, DEPOSITIONS, NARRATIVE TESTIMONY</description>
 			<author>NRC</author>
 			<pubDate>2024-06-05 00:07:00</pubDate>
-		</item>
-		<item>
-			<title>Application for license 05-00046-13,authorizing use of Cr-51.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20138P441</link>
-			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, DKT 30 MTL BYPRODUCT, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>FITZSIMONS ARMY MEDICAL CENTER, AURORA, CO</author>
-			<pubDate>2024-06-05 00:01:00</pubDate>
-		</item>
-		<item>
-			<title>"Sentinel 5S Radiation,Structural & Thermal Evaluation (Application for Type B(U) Package Approval)."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20138P051</link>
-			<description>CERTIFICATES OF COMPLIANCE-APPLICATION TO RENEW, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>TELEDYNE ENERGY SYSTEMS</author>
-			<pubDate>2024-06-04 23:53:00</pubDate>
-		</item>
-		<item>
-			<title>Ack receipt of 970109 ltr informing NRC of steps taken to correct violations noted in insp of license SNM-1373.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20138N167</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
-			<pubDate>2024-06-04 23:33:00</pubDate>
-		</item>
-		<item>
-			<title>"Radiological Environ Monitoring Program,Annual Environ Operating Rept for 1984." W/850327 ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20138M752</link>
-			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>CONNECTICUT YANKEE ATOMIC POWER CO., NORTHEAST UTILITIES SERVICE CO.</author>
-			<pubDate>2024-06-04 23:28:00</pubDate>
-		</item>
-		<item>
-			<title>"Annual Environ Operating Rept,Part B,1984." W/850327 ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20138M510</link>
-			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>Connecticut Yankee Atomic Power Co</author>
-			<pubDate>2024-06-04 23:25:00</pubDate>
 		</item>
 	</channel>
 </rss>
