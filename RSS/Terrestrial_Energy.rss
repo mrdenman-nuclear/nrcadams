@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 05 Jun 2024 22:14:16 GMT</pubDate>
-		<lastBuildDate>Wed, 05 Jun 2024 22:14:16 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Jun 2024 23:16:09 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Jun 2024 23:16:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards draft waste mgt staff guide "Format & Content of Environ Repts for Conventional Geologic High-Level Waste Repositories." intent of document is to provide Dept of Energy w/guidance on preparing environ repts.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20147H657</link>
+			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
+			<pubDate>2024-06-05 19:02:00</pubDate>
+		</item>
+		<item>
+			<title>RG 1.165,DG-1032, "Identification & Characterization of Seismic Sources & Determination of Safe Shutdown Earthquake Ground Motion."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20147H614</link>
+			<description>REGULATORY GUIDE (REG GUIDE), REGULATORY GUIDES & STD. REVIEW PLANS-TEXT</description>
+			<author>NRC OFFICE OF NUCLEAR REGULATORY RESEARCH (RES)</author>
+			<pubDate>2024-06-05 19:00:00</pubDate>
+		</item>
 		<item>
 			<title>"Site Suitability Environ Rept Vol 1-5 for Carroll County Generating Station." Info incl:purpose of facil,site preparation,station constru,monitoring prog,econ & social effects,design alternatives & cost-benefit analysis.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20147E641</link>
@@ -206,20 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF NUCLEAR REGULATORY RESEARCH (RES)</author>
 			<pubDate>2024-06-05 09:56:00</pubDate>
-		</item>
-		<item>
-			<title>Environ Rept for Federal American Partners,Gas Hills Mining District.W/eight oversized drawings.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20140F394</link>
-			<description>ENVIRONMENTAL REPORT, ALL VERSIONS, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>KAISER ENGINEERING (FORMERLY KAISER ENGINEERS)</author>
-			<pubDate>2024-06-05 09:55:00</pubDate>
-		</item>
-		<item>
-			<title>DOE RL newsclippings.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20140F299</link>
-			<description>ARCHIVE RECORDS, PRESS RELEASE OR NEWS ARTICLE</description>
-			<author>ENERGY, DEPT. OF</author>
-			<pubDate>2024-06-05 09:52:00</pubDate>
 		</item>
 	</channel>
 </rss>
