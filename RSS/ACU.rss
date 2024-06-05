@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 05 Jun 2024 21:16:08 GMT</pubDate>
-		<lastBuildDate>Wed, 05 Jun 2024 21:16:08 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Jun 2024 22:14:16 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Jun 2024 22:14:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Application for renewal of License 31-12000-02.Rev 6 to "Operations Manual," reflecting current program encl.No rev to Conditions 6-9 of license requested.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20147F177</link>
+			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, DKT 30 MTL BYPRODUCT, TEXT-LICENSE APPLICATIONS & PERMITS</description>
+			<author>NDL ORGANIZATION, INC., PEEKSKILL, NY</author>
+			<pubDate>2024-06-05 18:09:00</pubDate>
+		</item>
+		<item>
+			<title>Transcript of 781211 hearing in Salem,OR.Pp 2390-2573.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20147E126</link>
+			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, TRANSCRIPTS, DEPOSITIONS, NARRATIVE TESTIMONY</description>
+			<author>NRC ATOMIC SAFETY and LICENSING BOARD PANEL (ASLBP)</author>
+			<pubDate>2024-06-05 17:36:00</pubDate>
+		</item>
 		<item>
 			<title>Application for license,authorizing use & possession of Cs-137 & Am-241 for use in Troxler Models 3448 & 4640 surface moisture/density gauges.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20147B465</link>
@@ -206,20 +220,6 @@
 			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
 			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
 			<pubDate>2024-06-05 11:42:00</pubDate>
-		</item>
-		<item>
-			<title>Notifies that facility DES ready for printing.Outstanding technical issues resolved.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20141B425</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>US ATOMIC ENERGY COMMISSION (AEC)</author>
-			<pubDate>2024-06-05 11:36:00</pubDate>
-		</item>
-		<item>
-			<title>Notifies of review re FES for UF6 facility.No adverse environ impact anticipated.State of OK requires no further review.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20141B360</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, STATE/LOCAL GOVERNMENT TO NRC</description>
-			<author>OKLAHOMA, STATE OF</author>
-			<pubDate>2024-06-05 11:34:00</pubDate>
 		</item>
 	</channel>
 </rss>

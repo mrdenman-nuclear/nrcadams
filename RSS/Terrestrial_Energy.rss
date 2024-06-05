@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 05 Jun 2024 21:16:08 GMT</pubDate>
-		<lastBuildDate>Wed, 05 Jun 2024 21:16:08 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Jun 2024 22:14:16 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Jun 2024 22:14:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Site Suitability Environ Rept Vol 1-5 for Carroll County Generating Station." Info incl:purpose of facil,site preparation,station constru,monitoring prog,econ & social effects,design alternatives & cost-benefit analysis.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20147E641</link>
+			<description>SITE SUITABILITY SAFETY REPORT/EARLY SITE REPORT, TEXT-SAFETY REPORT</description>
+			<author>COMMONWEALTH EDISON CO.</author>
+			<pubDate>2024-06-05 17:49:00</pubDate>
+		</item>
+		<item>
+			<title>Vol 1 & 2 to "Final PEIS For UMTRA Ground Water Project."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20147D957</link>
+			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>ENERGY, DEPT. OF</author>
+			<pubDate>2024-06-05 17:32:00</pubDate>
+		</item>
+		<item>
+			<title>Reg Guide 8.13,Rev 2, "Instruction Concerning Prenatal Radiation Exposure."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20147D724</link>
+			<description>OCCUPATIONAL HEALTH, REGULATORY GUIDE (REG GUIDE), REGULATORY GUIDES & STD. REVIEW PLANS-TEXT</description>
+			<author>NRC OFFICE OF NUCLEAR REGULATORY RESEARCH (RES)</author>
+			<pubDate>2024-06-05 17:29:00</pubDate>
+		</item>
 		<item>
 			<title>Monthly Progress Rept for July 1978 details status of environ revs,activity in tech projs,support group activities & budget.Only major activity was in ORFAD-Cooling Tower Fog & Drift Prog.Main prog split to 5 prog.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20147C664</link>
@@ -199,27 +220,6 @@
 			<description>ARCHIVE RECORDS, PRESS RELEASE OR NEWS ARTICLE</description>
 			<author>ENERGY, DEPT. OF</author>
 			<pubDate>2024-06-05 09:52:00</pubDate>
-		</item>
-		<item>
-			<title>"Zion Station Annual Radiological Environ Operating Rept for 1996."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20140F261</link>
-			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>COMMONWEALTH EDISON CO.</author>
-			<pubDate>2024-06-05 09:51:00</pubDate>
-		</item>
-		<item>
-			<title>"Yankee Nuclear Power Station Annual Radiological Environ Operating Rept for Jan-Dec 1996." W/970430 ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20140F268</link>
-			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>YANKEE ATOMIC ELECTRIC CO.</author>
-			<pubDate>2024-06-05 09:51:00</pubDate>
-		</item>
-		<item>
-			<title>"Annual Radiological Environ Operating Rept," Jan-Dec 1996. W/970430 ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20140F203</link>
-			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>NORTHEAST NUCLEAR ENERGY CO., NORTHEAST UTILITIES SERVICE CO.</author>
-			<pubDate>2024-06-05 09:50:00</pubDate>
 		</item>
 	</channel>
 </rss>
