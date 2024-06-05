@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Jun 2024 23:15:41 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Jun 2024 23:15:41 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Jun 2024 15:14:36 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Jun 2024 15:14:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2024-05-31 09:09:00</pubDate>
-		</item>
-		<item>
-			<title>Addendum to NRC Staff Review of DHS Consultation Rpt Hermes/Hermes 2 Non-Power Test Reactor Construction Permit Application Submitted by Kairos Power, LLC</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24095A279</link>
-			<description>Memoranda</description>
-			<author>NRC/NSIR/DPCP/RSB</author>
-			<pubDate>2024-05-22 12:03:00</pubDate>
-		</item>
-		<item>
-			<title>M240607: Slides - Meeting with Advisory Committee on Reactor Safeguards</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24138A002</link>
-			<description>Commission Meeting Slides</description>
-			<author>NRC/OCM</author>
-			<pubDate>2024-05-22 10:37:00</pubDate>
 		</item>
 	</channel>
 </rss>

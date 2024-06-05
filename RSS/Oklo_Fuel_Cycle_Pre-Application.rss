@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Jun 2024 23:15:24 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Jun 2024 23:15:24 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Jun 2024 15:14:17 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Jun 2024 15:14:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,20 +45,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2024-05-23 09:01:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo Inc. - "Classification and Plan for Disposal of Radioactive Wastes from Recycling Used Oxide Fuel" White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24135A272</link>
-			<description>Letter</description>
-			<author>Oklo Inc</author>
-			<pubDate>2024-05-22 09:22:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Affidavit Regarding Request For Withholding</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24135A274</link>
-			<description>Legal-Affidavit</description>
-			<author>Oklo Inc</author>
-			<pubDate>2024-05-22 09:22:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Jun 2024 23:15:41 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Jun 2024 23:15:41 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Jun 2024 15:14:36 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Jun 2024 15:14:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -101,20 +101,6 @@
 			<description>Meeting Agenda, Meeting Notice</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-05-23 15:37:00</pubDate>
-		</item>
-		<item>
-			<title>M240607: Slides - Meeting with Advisory Committee on Reactor Safeguards</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24138A002</link>
-			<description>Commission Meeting Slides</description>
-			<author>NRC/OCM</author>
-			<pubDate>2024-05-22 10:37:00</pubDate>
-		</item>
-		<item>
-			<title>Deep Fission Standard Design Approval Regulatory Engagement Plan, Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24135A163</link>
-			<description>- No Document Type Applies</description>
-			<author>Deep Fission, Inc</author>
-			<pubDate>2024-05-22 09:23:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Jun 2024 23:15:26 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Jun 2024 23:15:26 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Jun 2024 15:14:20 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Jun 2024 15:14:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Corrected Page 2 to Insp Repts 50-070/85-01 & 50-073/85-02.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20138B520</link>
+			<description>INSPECTION REPORT, MANUFACTURER/VENDOR/ENGINEER, INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
+			<author>NRC</author>
+			<pubDate>2024-06-04 20:25:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards corrected Page 2 to Insp Repts 50-070/85-01 & 50-073/85-02 per 851007 telcon re presence of second individual at facility whenever licensed operator w/medical restrictions is performing licensed activities.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20138B513</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
+			<author>NRC</author>
+			<pubDate>2024-06-04 20:25:00</pubDate>
+		</item>
 		<item>
 			<title>Advises that presence & irradiation of explosives in reactor must be evaluated due to potential for damage to reactor. Evaluation requested establishing operating restrictions,max quantity of explosives allowed in facility & form.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20137G472</link>
@@ -103,17 +117,17 @@
 			<pubDate>2024-05-30 06:13:00</pubDate>
 		</item>
 		<item>
-			<title>Ack receipt of 960627 ltr in response to 960418 ltr & insp repts 50-018/96-01,50-070/96-01,50-073/96-01 & 50-183/96-01 re ALARA program at licensee facility.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20115G614</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
-			<pubDate>2024-05-30 05:12:00</pubDate>
-		</item>
-		<item>
 			<title>Responds to concern re pesonnel radiation doses expressed in rept issued as result of insp performed on 960311-15.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20115G618</link>
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
 			<author>GENERAL ELECTRIC CO.</author>
+			<pubDate>2024-05-30 05:12:00</pubDate>
+		</item>
+		<item>
+			<title>Ack receipt of 960627 ltr in response to 960418 ltr & insp repts 50-018/96-01,50-070/96-01,50-073/96-01 & 50-183/96-01 re ALARA program at licensee facility.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20115G614</link>
+			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
 			<pubDate>2024-05-30 05:12:00</pubDate>
 		</item>
 		<item>
@@ -206,20 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
 			<author>GENERAL ELECTRIC CO.</author>
 			<pubDate>2024-05-23 12:39:00</pubDate>
-		</item>
-		<item>
-			<title>"General Electric Annual Rept,1991." W/920313 ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20094K444</link>
-			<description>ANNUAL REPORTS (COMPANY-FINANCIAL), TEXT-SAFETY REPORT</description>
-			<author>GENERAL ELECTRIC CO.</author>
-			<pubDate>2024-05-23 11:51:00</pubDate>
-		</item>
-		<item>
-			<title>April 2024, Issuance of Multiple Exemptions Regarding Security Notifications, Reports, and Recording Keeping</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24130A001</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NRR/DORL/LPL2-1</author>
-			<pubDate>2024-05-22 13:54:00</pubDate>
 		</item>
 	</channel>
 </rss>

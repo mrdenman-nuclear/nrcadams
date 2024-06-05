@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Jun 2024 23:15:41 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Jun 2024 23:15:41 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Jun 2024 15:14:36 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Jun 2024 15:14:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Homestake Mining Co 1996 Annual Rept." W/970612 ltr.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20141A305</link>
+			<description>ANNUAL OPERATING REPORT, TEXT-SAFETY REPORT</description>
+			<author>HOMESTAKE MINING CO.</author>
+			<pubDate>2024-06-05 11:04:00</pubDate>
+		</item>
+		<item>
+			<title>Rev 1.0 to "Reclamation Plan White Mesa Mill Blanding,UT." W/nine oversize drawings.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20138Q582</link>
+			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
+			<author>ENERGY FUELS NUCLEAR, INC.</author>
+			<pubDate>2024-06-05 00:31:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards rept which constitutes Annual ALARA.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20137N665</link>
@@ -206,20 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
 			<pubDate>2024-05-23 03:34:00</pubDate>
-		</item>
-		<item>
-			<title>Submits annual surety update in compliance w/license condition 42 of source matl license SUA-917.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20092M866</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>ATLAS CORP.</author>
-			<pubDate>2024-05-22 17:26:00</pubDate>
-		</item>
-		<item>
-			<title>Weekly info rept for wk ending 950901.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20092E092</link>
-			<description>TEXT-SAFETY REPORT, Weekly Information Report</description>
-			<author>NRC OFFICE OF THE EXECUTIVE DIRECTOR FOR OPERATIONS (EDO)</author>
-			<pubDate>2024-05-22 12:27:00</pubDate>
 		</item>
 	</channel>
 </rss>

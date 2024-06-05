@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Jun 2024 23:15:41 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Jun 2024 23:15:41 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Jun 2024 15:14:36 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Jun 2024 15:14:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Advisory Committee on Medical Uses of Isotopes briefing book for Spring 1997 meeting on 970410-11.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20140B882</link>
+			<description>CONFERENCE & WORKSHOP PAPERS/PROCEEDINGS/ABSTRACTS, TEXT-SAFETY REPORT</description>
+			<author>NRC ADVISORY COMMITTEE ON MEDICAL USES OF ISOTOPES (ACMUI)</author>
+			<pubDate>2024-06-05 08:36:00</pubDate>
+		</item>
 		<item>
 			<title>"Analysis of Potassium Iodide Prophylaxis for General Public in Event of Nuclear Accident."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20135B264</link>
@@ -87,13 +94,6 @@
 			<description>DECOMMISSIONING PLANS, TEXT-SAFETY REPORT</description>
 			<author>PACIFIC GAS and ELECTRIC CO.</author>
 			<pubDate>2024-05-23 01:46:00</pubDate>
-		</item>
-		<item>
-			<title>EJ Epstein reply to licensee response to contentions of petitioner.* Concludes that licensee failed to undermine petitioner contentions.Contentions should be admitted for discussion during proceeding.W/Certificate of Svc.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20091E973</link>
-			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, PLEADINGS</description>
-			<author>EPSTEIN, E.J.</author>
-			<pubDate>2024-05-22 02:47:00</pubDate>
 		</item>
 	</channel>
 </rss>
