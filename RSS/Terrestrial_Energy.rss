@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 05 Jun 2024 16:19:22 GMT</pubDate>
-		<lastBuildDate>Wed, 05 Jun 2024 16:19:22 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Jun 2024 17:13:45 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Jun 2024 17:13:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Addendum to "Environ Rept for CY84 on Radiological & Nonradiological Parameters."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20141F028</link>
+			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>BATTELLE MEMORIAL INSTITUTE, COLUMBUS LABORATORIES</author>
+			<pubDate>2024-06-05 13:03:00</pubDate>
+		</item>
+		<item>
+			<title>Application for renewal of Source Matl License SUA-1326 for Blanding Ore-Buying Station.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20141D964</link>
+			<description>APPLICATION,SOURCE MTL.LICENSE & AMEND/RENEWAL TO, TEXT-LICENSE APPLICATIONS & PERMITS</description>
+			<author>PLATEAU RESOURCES, LTD.</author>
+			<pubDate>2024-06-05 12:42:00</pubDate>
+		</item>
+		<item>
+			<title>Rev 0 to "Trojan ISFSI Environ Rept."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20141D886</link>
+			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>PORTLAND GENERAL ELECTRIC CO.</author>
+			<pubDate>2024-06-05 12:41:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards partial response to DOI comments on DES.Addl response to be forwarded no later than 740820.Initial response submitted on 740620.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20141C350</link>
@@ -199,27 +220,6 @@
 			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
 			<author>ENERGY FUELS NUCLEAR, INC.</author>
 			<pubDate>2024-06-05 00:31:00</pubDate>
-		</item>
-		<item>
-			<title>"Nuclear Power & Radiation,Workshop Manual."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20138Q198</link>
-			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
-			<author>NRC OFFICE OF PUBLIC AFFAIRS (OPA)</author>
-			<pubDate>2024-06-05 00:20:00</pubDate>
-		</item>
-		<item>
-			<title>"Reactor Health Physics Technology Course."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20138Q206</link>
-			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
-			<author>BATTELLE MEMORIAL INSTITUTE, PACIFIC NORTHWEST NATION</author>
-			<pubDate>2024-06-05 00:20:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of 951017 Incident Investigation Team Meeting. Pp 1-33.W/related info.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20138P734</link>
-			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, TRANSCRIPTS, DEPOSITIONS, NARRATIVE TESTIMONY</description>
-			<author>NRC</author>
-			<pubDate>2024-06-05 00:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
