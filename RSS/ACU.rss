@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 05 Jun 2024 20:15:52 GMT</pubDate>
-		<lastBuildDate>Wed, 05 Jun 2024 20:15:52 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Jun 2024 21:16:08 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Jun 2024 21:16:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Application for license,authorizing use & possession of Cs-137 & Am-241 for use in Troxler Models 3448 & 4640 surface moisture/density gauges.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20147B465</link>
+			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, DKT 30 MTL BYPRODUCT, TEXT-LICENSE APPLICATIONS & PERMITS</description>
+			<author>ROY N. FORD CO., INC.</author>
+			<pubDate>2024-06-05 16:17:00</pubDate>
+		</item>
 		<item>
 			<title>Informs that Radiation Safety Committee approved BH Robson as authorized user for matls & procedures specified in 35.100,35.200 & 35.300 excluding I-131 for thyroid carcinoma.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20147B202</link>
@@ -213,13 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, STATE/LOCAL GOVERNMENT TO NRC</description>
 			<author>OKLAHOMA, STATE OF</author>
 			<pubDate>2024-06-05 11:34:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards fee submitted w/860129 application for license.NRC will take no licensing action on application since Dept of Army will be submitting application to cover activities.Fee not required.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20140H889</link>
-			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
-			<pubDate>2024-06-05 10:41:00</pubDate>
 		</item>
 	</channel>
 </rss>

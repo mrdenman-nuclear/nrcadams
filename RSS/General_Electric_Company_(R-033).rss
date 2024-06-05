@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 05 Jun 2024 20:15:36 GMT</pubDate>
-		<lastBuildDate>Wed, 05 Jun 2024 20:15:36 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Jun 2024 21:15:49 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Jun 2024 21:15:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Requests that recipient resubmit proposal to convert to low enriched U fuel to meet 10CFR50.64(6)(2) or (3) requirements by 880327.Identical ltrs sent to listed dockets.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20147D042</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO EDUCATIONAL INSTITUTION, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
+			<pubDate>2024-06-05 17:15:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards NRC order to show cause which reqires that GETR be placed & maintained safely in cold shutdown condition pending further order.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20147C985</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
+			<pubDate>2024-06-05 17:14:00</pubDate>
+		</item>
+		<item>
+			<title>Show cause order requiring that,upon completion of present operating cycle on 771027,GETR should be placed & maintained safely in cold shutdown condition.Comments for GETR 771202 meeting encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20147C998</link>
+			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, ORDERS</description>
+			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
+			<pubDate>2024-06-05 17:14:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards Summary of a 771202 meeting re postulated Verona fault,771209 NRC ltr to US Geological Survey requesting info on surface faulting.Requests course of action planned to resolve surface faulting issue.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20147C927</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
+			<pubDate>2024-06-05 17:12:00</pubDate>
+		</item>
 		<item>
 			<title>Corrected Page 2 to Insp Repts 50-070/85-01 & 50-073/85-02.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20138B520</link>
@@ -192,34 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
 			<author>GENERAL ELECTRIC CO.</author>
 			<pubDate>2024-05-29 04:07:00</pubDate>
-		</item>
-		<item>
-			<title>"GE 1995 Annual Rept." W/960306 ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20101C918</link>
-			<description>ANNUAL REPORTS (COMPANY-FINANCIAL), TEXT-SAFETY REPORT</description>
-			<author>GENERAL ELECTRIC CO.</author>
-			<pubDate>2024-05-28 17:40:00</pubDate>
-		</item>
-		<item>
-			<title>"GE Annual Rept 1984." W/850327 ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20100D991</link>
-			<description>ANNUAL REPORTS (COMPANY-FINANCIAL), TEXT-SAFETY REPORT</description>
-			<author>GENERAL ELECTRIC CO.</author>
-			<pubDate>2024-05-28 11:16:00</pubDate>
-		</item>
-		<item>
-			<title>Advises that Jan 1992 rev to GE Vallecitos Nuclear Ctr reactor facilities emergency plan,acceptable.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20099H239</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
-			<pubDate>2024-05-25 01:32:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards GE 920318 Mfg Hanover Amend to Ltr of Credit & Trust Agreement Schedule A,reflecting increased in sum by stated amount w/expiration date extended to 930323,per terms & conditions of Ltr of Credit.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20094M365</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>GENERAL ELECTRIC CO.</author>
-			<pubDate>2024-05-23 12:39:00</pubDate>
 		</item>
 	</channel>
 </rss>
