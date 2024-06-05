@@ -26,7 +26,6 @@ The last update was at `r Sys.time() |> lubridate::ymd_hms() |> lubridate::with_
 The following code shows the user how they can generate RSS files to help keep updated with their favorite ADAMS search results.
 
 ```{r}
-
 here::here("docs", "RSS") |> dir.create(recursive = TRUE)
 
 
@@ -197,4 +196,26 @@ nrcadams::docket_codex |>
   )) |>
   nrcadams::hyperlink_file_to_name(name_vct = `RSS File`, url_vct = `RSS File`)|>
   DT::datatable(escape = FALSE)
+```
+
+
+
+```{r, echo = FALSE}
+inpsection <- nrcadams::search_advanced(
+    search_field = "properties_search_all:!(!(DocumentType,eq,%27Inspection+Manual%27,%27%27),!(AuthorAffiliation,starts,NRC/NRR,%27%27),",
+    results_tag = "Inspections",
+    days_back = 7
+)
+
+if (length(inpsection) != 0) {
+  inpsection |>
+    nrcadams::write_rss(
+      file = here::here("docs", "RSS", paste0(
+        "inpsection", ".rss")
+        ),
+      title = "inpsection"
+      )  
+}
+
+
 ```
