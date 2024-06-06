@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 06 Jun 2024 15:16:13 GMT</pubDate>
-		<lastBuildDate>Thu, 06 Jun 2024 15:16:13 GMT</lastBuildDate>
+		<pubDate>Thu, 06 Jun 2024 16:21:20 GMT</pubDate>
+		<lastBuildDate>Thu, 06 Jun 2024 16:21:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Advises that US Army Natick Lab Research Irradiator package meets 10CFR71 requirements provided that space between inner surface of overpack & irradiaton is blocked w/plywood to prevent internal impacts during transport.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20148K566</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO OTHER U.S. GOVERNMENT AGENCY/DEPARTMENT, OUTGOING CORRESPONDENCE</description>
+			<author>US ATOMIC ENERGY COMMISSION (AEC)</author>
+			<pubDate>2024-06-06 12:01:00</pubDate>
+		</item>
+		<item>
+			<title>Vols 1 & 2 of "SAR for Portsmouth Gasesous Diffusion Plant in Piketon,OH." Pages 17-1 thru 17-4 not received w/incoming submittal.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20148K494</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>AFFILIATION NOT ASSIGNED</author>
+			<pubDate>2024-06-06 11:58:00</pubDate>
+		</item>
+		<item>
+			<title>Affidavit re calculational analyses & documentation required by 10CFR50.46 & App K for ECCS.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20148K382</link>
+			<description>AFFIDAVITS, LEGAL TRANSCRIPTS & ORDERS & PLEADINGS</description>
+			<author>WESTINGHOUSE ELECTRIC COMPANY, DIV OF CBS CORP., WESTINGHOUSE ELECTRIC CORP.</author>
+			<pubDate>2024-06-06 11:38:00</pubDate>
+		</item>
+		<item>
+			<title>Requests that util request license amend per encl revised model Tech Specs re identification of safety-related snubbers & accessibility per Table 3.6.1 of model Tech Specs.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20148K128</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO UTILITY, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
+			<pubDate>2024-06-06 11:32:00</pubDate>
+		</item>
 		<item>
 			<title>Amend 15 to License DPR-3,including Change 120 to Tech Specs re inservice insp program for RCS.Adds new Section G, "RCS Surveillance Testing" in Tech Specs,App A.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20148H918</link>
@@ -192,34 +220,6 @@
 			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, TRANSCRIPTS, DEPOSITIONS, NARRATIVE TESTIMONY</description>
 			<author>NRC ADVISORY COMMITTEE ON REACTOR SAFEGUARDS (ACRS)</author>
 			<pubDate>2024-06-05 15:47:00</pubDate>
-		</item>
-		<item>
-			<title>"Fission Product Releases & Radiological Consequences of Degraded Core Accidents," monthly highlights for Oct 1985. Related info encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20141N299</link>
-			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
-			<author>BROOKHAVEN NATIONAL LABORATORY</author>
-			<pubDate>2024-06-05 15:23:00</pubDate>
-		</item>
-		<item>
-			<title>Notification of registration as user of Model 700 in response to 860212 request.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20141N128</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO EDUCATIONAL INSTITUTION, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
-			<pubDate>2024-06-05 15:22:00</pubDate>
-		</item>
-		<item>
-			<title>"Safety Training Manual for Radiographic Operations at Lukens Steel Co,Coatesville,PA."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20141M810</link>
-			<description>DKT 30 MTL BYPRODUCT, TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
-			<author>LUKENS STEEL CO.</author>
-			<pubDate>2024-06-05 15:15:00</pubDate>
-		</item>
-		<item>
-			<title>Mod 9,revising key personnel & billing clauses to remove ltr of credit provisions,to "Validation Studies for Assessing Unsaturated Flow & Transport Through Fractured Rock."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20141M169</link>
-			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
-			<author>ARIZONA, UNIV. OF, TUCSON, AZ, NRC OFFICE OF ADMINISTRATION (ADM)</author>
-			<pubDate>2024-06-05 15:00:00</pubDate>
 		</item>
 	</channel>
 </rss>

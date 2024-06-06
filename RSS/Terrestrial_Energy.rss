@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 06 Jun 2024 15:16:13 GMT</pubDate>
-		<lastBuildDate>Thu, 06 Jun 2024 15:16:13 GMT</lastBuildDate>
+		<pubDate>Thu, 06 Jun 2024 16:21:20 GMT</pubDate>
+		<lastBuildDate>Thu, 06 Jun 2024 16:21:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"TMI Nuclear Generating Station Radiological Environ Monitoring Rept 1996." W/970425 ltr.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20148J522</link>
+			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>GENERAL PUBLIC UTILITIES CORP.</author>
+			<pubDate>2024-06-06 11:18:00</pubDate>
+		</item>
 		<item>
 			<title>LaSalle, Unit 1, Current Facility Operating License NPF-11, Technical Specifications, Revised 06/06/2024.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052990324</link>
@@ -213,13 +220,6 @@
 			<description>DKT 30 MTL BYPRODUCT, TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
 			<author>USX CORP. (FORMERLY UNITED STATES STEEL)</author>
 			<pubDate>2024-06-05 14:02:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards,for review,recently adopted State of IL Pollution Control Board regulations establishing stds for protection against radiological air pollutants.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20141G939</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION III)</author>
-			<pubDate>2024-06-05 13:49:00</pubDate>
 		</item>
 	</channel>
 </rss>

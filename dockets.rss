@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 06 Jun 2024 15:15:52 GMT</pubDate>
-		<lastBuildDate>Thu, 06 Jun 2024 15:15:52 GMT</lastBuildDate>
+		<pubDate>Thu, 06 Jun 2024 16:20:46 GMT</pubDate>
+		<lastBuildDate>Thu, 06 Jun 2024 16:20:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>06/25/2024 Meeting with Oklo to discuss site investigations</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24158A058</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-06-06 12:14:00</pubDate>
+		</item>
 		<item>
 			<title>Comment (6) of Kenneth S. Petersen and Craig H. Piercy, on Behalf of American Nuclear Society on Kairos Power, LLC; Hermes 2; Draft Environmental Assessment and Draft Finding of No Significant Impact</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24151A116</link>
@@ -213,13 +220,6 @@
 			<description>Audit Plan</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-05-31 09:10:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: “Xe-100 Licensing Topical Report GOTHIC and Flownex Analysis Codes Qualification,” Revision 2 to 008585</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24143A195</link>
-			<description>Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2024-05-31 09:09:00</pubDate>
 		</item>
 	</channel>
 </rss>
