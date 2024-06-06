@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 06 Jun 2024 00:09:39 GMT</pubDate>
-		<lastBuildDate>Thu, 06 Jun 2024 00:09:39 GMT</lastBuildDate>
+		<pubDate>Thu, 06 Jun 2024 00:30:42 GMT</pubDate>
+		<lastBuildDate>Thu, 06 Jun 2024 00:30:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Technology for Commercial Radwaste Mgt," Vol 5.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20148B707</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>ENERGY, DEPT. OF</author>
+			<pubDate>2024-06-05 20:16:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards revised App D,Section 5.1,re irradiated fuel container sys for Model 100.Anticipates replacing or modifying most Section 5 info.Exhibits A,B & C encl.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20148B118</link>
@@ -213,13 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, PUBLIC ENTITY/CITIZEN/ORGANIZATION/MEDIA TO NRC</description>
 			<author>SMUD RATEPAYERS ASSOCIATION, INC.</author>
 			<pubDate>2024-06-05 12:47:00</pubDate>
-		</item>
-		<item>
-			<title>Application for amend to License 34-13857-01,replacing encl sheet for first sheet of previous submission entitled, "Procedures for Utilization of Sealed Radioactive Sources at Ketering Medical Ctr."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20141D621</link>
-			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, DKT 30 MTL BYPRODUCT, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>KETTERING MEDICAL CENTER, ADVENTIST HEALTH SYSTEMS-EA</author>
-			<pubDate>2024-06-05 12:35:00</pubDate>
 		</item>
 	</channel>
 </rss>

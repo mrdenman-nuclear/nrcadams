@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 06 Jun 2024 00:09:39 GMT</pubDate>
-		<lastBuildDate>Thu, 06 Jun 2024 00:09:39 GMT</lastBuildDate>
+		<pubDate>Thu, 06 Jun 2024 00:30:42 GMT</pubDate>
+		<lastBuildDate>Thu, 06 Jun 2024 00:30:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Radwaste Processing & Disposal," Suppl 3.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20148B675</link>
+			<description>INDEXES, TEXT-BIBLIOGRAPHIC & CATALOGS & INDEXES</description>
+			<author>US ATOMIC ENERGY COMMISSION (AEC)</author>
+			<pubDate>2024-06-05 20:15:00</pubDate>
+		</item>
+		<item>
+			<title>"Radwaste Processing & Disposal," Suppl 4.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20148B683</link>
+			<description>BIBLIOGRAPHIES, INDEXES, TEXT-BIBLIOGRAPHIC & CATALOGS & INDEXES</description>
+			<author>US ATOMIC ENERGY COMMISSION (AEC)</author>
+			<pubDate>2024-06-05 20:15:00</pubDate>
+		</item>
+		<item>
+			<title>"Radwaste Processing & Disposal."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20148B693</link>
+			<description>BIBLIOGRAPHIES, INDEXES, TEXT-BIBLIOGRAPHIC & CATALOGS & INDEXES</description>
+			<author>ENERGY RESEARCH and DEVELOPMENT ADMIN.(PRESENTLY DOE)</author>
+			<pubDate>2024-06-05 20:15:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards Kerr-McGee Chemical Corp response to comments on draft suppl to final environ statement re decommissioning of Rare Earths Facility,West Chicago,IL,per 880202 request.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20148B555</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, LEGAL/LAW FIRM TO NRC</description>
+			<author>COVINGTON and BURLING</author>
+			<pubDate>2024-06-05 20:12:00</pubDate>
+		</item>
 		<item>
 			<title>Petition for emergency & remedial action.Petitioner affirms that nuclear energy inimical to human health & seeks to compel NRC to cease all nuclear operations.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20148A875</link>
@@ -192,34 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF STATE PROGRAMS (OSP)</author>
 			<pubDate>2024-06-05 11:22:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards listed info,in response to request for addl info on Agreement State Program.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20141A549</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF STATE PROGRAMS (OSP)</author>
-			<pubDate>2024-06-05 11:09:00</pubDate>
-		</item>
-		<item>
-			<title>"Threatened & Endangered Species Evaluation for 75 Licensed Commerical Nuclear Power Generating Plants."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20141A399</link>
-			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
-			<author>BATTELLE MEMORIAL INSTITUTE, PACIFIC NORTHWEST NATION</author>
-			<pubDate>2024-06-05 11:06:00</pubDate>
-		</item>
-		<item>
-			<title>Vol II,consisting of revs to "Radiological Protection Manual & Associated Radiological Control Procedures."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20140G932</link>
-			<description>DKT 30 MTL BYPRODUCT, TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
-			<author>NUCLEAR ENERGY SERVICES, INC.</author>
-			<pubDate>2024-06-05 10:26:00</pubDate>
-		</item>
-		<item>
-			<title>"Ohio Environ Protection Agency Decision Document for Shieldalloy Metallurgical Corp Site Cambridge,OH."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20140G949</link>
-			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>OHIO, STATE OF</author>
-			<pubDate>2024-06-05 10:26:00</pubDate>
 		</item>
 	</channel>
 </rss>

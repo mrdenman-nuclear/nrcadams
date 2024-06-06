@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Inpsection</title>
+		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
+		<description>NRC ADAMS Docket Update</description>
+		<language>en-us</language>
+		<pubDate>Thu, 06 Jun 2024 00:30:43 GMT</pubDate>
+		<lastBuildDate>Thu, 06 Jun 2024 00:30:43 GMT</lastBuildDate>
+		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
+		<generator>Function write_rss() in R package nrcadams</generator>
+		<managingEditor>mrdenman@gmail.com</managingEditor>
+		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>IMC 1245 Qualification Program for Reactor Inspectors</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24019A160</link>
+			<description>Inspection Manual</description>
+			<author>NRC/NRR/DRO/IRAB</author>
+			<pubDate>2024-05-30 15:04:00</pubDate>
+		</item>
+		<item>
+			<title>IMC 1245 Appendix A, Basic Level Training and Qualification Journal</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24068A122</link>
+			<description>Inspection Manual</description>
+			<author>NRC/NRR/DRO/IRAB</author>
+			<pubDate>2024-05-30 15:04:00</pubDate>
+		</item>
+		<item>
+			<title>Table of Contents for Inspection Manual Change Notice 24-017</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24151A409</link>
+			<description>Inspection Manual</description>
+			<author>NRC/NRR/DRO/IRIB</author>
+			<pubDate>2024-05-30 15:04:00</pubDate>
+		</item>
+		<item>
+			<title>Table of Contents for Inspection Manual Change Notice 24-016</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24149A304</link>
+			<description>Inspection Manual</description>
+			<author>NRC/NRR/DRO/IRIB</author>
+			<pubDate>2024-05-30 08:47:00</pubDate>
+		</item>
+	</channel>
+</rss>
