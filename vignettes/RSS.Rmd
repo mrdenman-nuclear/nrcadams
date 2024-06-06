@@ -209,7 +209,7 @@ inpsection <- nrcadams::search_advanced(
   inpsection |>
     nrcadams::write_rss(
       file = here::here("docs", "RSS", paste0(
-        "inpsection", ".rss")
+        "inspection", ".rss")
         ),
       title = "Inpsection"
       )  
