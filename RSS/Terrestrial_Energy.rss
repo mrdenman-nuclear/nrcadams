@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 06 Jun 2024 14:15:02 GMT</pubDate>
-		<lastBuildDate>Thu, 06 Jun 2024 14:15:02 GMT</lastBuildDate>
+		<pubDate>Thu, 06 Jun 2024 15:16:13 GMT</pubDate>
+		<lastBuildDate>Thu, 06 Jun 2024 15:16:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>LaSalle, Unit 1, Current Facility Operating License NPF-11, Technical Specifications, Revised 06/06/2024.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052990324</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-06-06 10:56:00</pubDate>
+		</item>
+		<item>
+			<title>"Annual Radioactive Effluents Dose Rept for 1987." W/880235 ltr.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20148G584</link>
+			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>NORTHEAST NUCLEAR ENERGY CO., NORTHEAST UTILITIES</author>
+			<pubDate>2024-06-06 10:33:00</pubDate>
+		</item>
 		<item>
 			<title>"AL Nuclear Fuel Fabrication Plant Site Aquatic & Terrestrial Annual Summary Rept." Info re environ rept encl.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20148F326</link>
@@ -194,13 +208,6 @@
 			<pubDate>2024-06-05 14:25:00</pubDate>
 		</item>
 		<item>
-			<title>LaSalle, Unit 1, Current Facility Operating License NPF-11, Technical Specifications, Revised 06/05/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052990324</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-06-05 14:07:00</pubDate>
-		</item>
-		<item>
 			<title>"Procedures,Installation Operation & Maint,Berthold 'Mold Level' Gauge Model LB 300-2 ML for Q/BOP Slab Casting Facility Steel Producing Div,Gary Works." W/three oversize drawings.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20141H491</link>
 			<description>DKT 30 MTL BYPRODUCT, TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
@@ -213,13 +220,6 @@
 			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION III)</author>
 			<pubDate>2024-06-05 13:49:00</pubDate>
-		</item>
-		<item>
-			<title>"Assessment of Potential Environ & Adverse Health Impacts Resulting From Operation of Sequoyah Fuels Facility,Gore, OK."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20141G083</link>
-			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>OKLAHOMA, STATE OF</author>
-			<pubDate>2024-06-05 13:28:00</pubDate>
 		</item>
 	</channel>
 </rss>
