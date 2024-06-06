@@ -112,10 +112,3 @@ search_advanced <- function(
     }
     return(results)
 }
-
-
-nrcadams::search_advanced(
-    search_field = "properties_search_all:!(!(DocumentType,eq,%27Inspection+Manual%27,%27%27),!(AuthorAffiliation,starts,NRC/NRR,%27%27),",
-    results_tag = "Inspections",
-    days_back = 7
-)
