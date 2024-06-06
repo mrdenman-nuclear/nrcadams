@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 05 Jun 2024 23:16:09 GMT</pubDate>
-		<lastBuildDate>Wed, 05 Jun 2024 23:16:09 GMT</lastBuildDate>
+		<pubDate>Thu, 06 Jun 2024 00:09:39 GMT</pubDate>
+		<lastBuildDate>Thu, 06 Jun 2024 00:09:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Petition for emergency & remedial action.Petitioner affirms that nuclear energy inimical to human health & seeks to compel NRC to cease all nuclear operations.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20148A875</link>
+			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, PLEADINGS</description>
+			<author>UNION OF CONCERNED SCIENTISTS</author>
+			<pubDate>2024-06-05 19:54:00</pubDate>
+		</item>
+		<item>
+			<title>Environ assessment for renewal of license SNM-1097 for General Electric Co.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20148A222</link>
+			<description>ENVIRONMENTAL IMPACT APPRAISALS, TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>NRC</author>
+			<pubDate>2024-06-05 19:40:00</pubDate>
+		</item>
+		<item>
+			<title>"Annual Radiological Environ Operating Rept 960101-1231."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20148A005</link>
+			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>NORTHEAST UTILITIES</author>
+			<pubDate>2024-06-05 19:34:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards draft waste mgt staff guide "Format & Content of Environ Repts for Conventional Geologic High-Level Waste Repositories." intent of document is to provide Dept of Energy w/guidance on preparing environ repts.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20147H657</link>
@@ -199,27 +220,6 @@
 			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
 			<author>OHIO, STATE OF</author>
 			<pubDate>2024-06-05 10:26:00</pubDate>
-		</item>
-		<item>
-			<title>Extends invitation to 970609 ISCORS Sewage Subcommittee meeting in Rockville,MD to discuss progress on sewage sludge/ash survey & guidance document for POTW operators.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20140G142</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
-			<pubDate>2024-06-05 10:09:00</pubDate>
-		</item>
-		<item>
-			<title>Press release PR-92-152, "NRC Proposes Revs to Reactor Siting Regulations."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20140F568</link>
-			<description>ARCHIVE RECORDS, PRESS RELEASE OR NEWS ARTICLE</description>
-			<author>NRC OFFICE OF PUBLIC AFFAIRS (OPA)</author>
-			<pubDate>2024-06-05 09:58:00</pubDate>
-		</item>
-		<item>
-			<title>Responds to 920508 ltr re proposed rev of App A, "Seismic & Geologic Siting Criteria for Nuclear Power Plants," to 10CFR100.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20140F466</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR REGULATORY RESEARCH (RES)</author>
-			<pubDate>2024-06-05 09:56:00</pubDate>
 		</item>
 	</channel>
 </rss>

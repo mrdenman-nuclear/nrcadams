@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 05 Jun 2024 23:15:52 GMT</pubDate>
-		<lastBuildDate>Wed, 05 Jun 2024 23:15:52 GMT</lastBuildDate>
+		<pubDate>Thu, 06 Jun 2024 00:09:23 GMT</pubDate>
+		<lastBuildDate>Thu, 06 Jun 2024 00:09:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,27 +24,6 @@
 			<description>Legal-Affidavit</description>
 			<author>Oklo Inc</author>
 			<pubDate>2024-05-28 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>2024/05/15 Oklo SNF Reprocessing Docs - Request for Withholding Information from Public Disclosure for Oklo Inc. Licensing Project Plan (Fuel Recycling) 1Q2024 Update</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24137A035</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2024-05-23 09:01:00</pubDate>
-		</item>
-		<item>
-			<title>2024/05/15 Oklo SNF Reprocessing Docs - Request for Withholding Information from Public Disclosure for Oklo Inc. Licensing Project Plan (Fuel Recycling) 3Q2023 Update</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24137A039</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2024-05-23 09:01:00</pubDate>
-		</item>
-		<item>
-			<title>2024/05/16 Oklo SNF Reprocessing Docs - Request for Withholding Information from Public Disclosure for Oklo Inc. Presentation Materials for the July 31, 2023 Meeting Regarding Licensing Approach for Fuel Recycling</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24137A275</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2024-05-23 09:01:00</pubDate>
 		</item>
 	</channel>
 </rss>

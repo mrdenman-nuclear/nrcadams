@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Kairos Power Meetings</title>
+		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
+		<description>NRC ADAMS Docket Update</description>
+		<language>en-us</language>
+		<pubDate>Thu, 06 Jun 2024 00:09:40 GMT</pubDate>
+		<lastBuildDate>Thu, 06 Jun 2024 00:09:40 GMT</lastBuildDate>
+		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
+		<generator>Function write_rss() in R package nrcadams</generator>
+		<managingEditor>mrdenman@gmail.com</managingEditor>
+		<webMaster>mrdenman@gmail.com</webMaster>
+</channel>
+</rss>

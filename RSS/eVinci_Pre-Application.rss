@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 05 Jun 2024 23:15:52 GMT</pubDate>
-		<lastBuildDate>Wed, 05 Jun 2024 23:15:52 GMT</lastBuildDate>
+		<pubDate>Thu, 06 Jun 2024 00:09:23 GMT</pubDate>
+		<lastBuildDate>Thu, 06 Jun 2024 00:09:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,20 +52,6 @@
 			<description>Topical Report</description>
 			<author>Westinghouse Electric Co, LLC</author>
 			<pubDate>2024-05-24 08:46:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal of "NRC Technical Exchange Meeting on TRISO Fuel Analysis and Testing" Presentation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24136A032</link>
-			<description>Letter</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2024-05-23 09:00:00</pubDate>
-		</item>
-		<item>
-			<title>Affidavit AW-24-029</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24136A033</link>
-			<description>Legal-Affidavit</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2024-05-23 09:00:00</pubDate>
 		</item>
 	</channel>
 </rss>
