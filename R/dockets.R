@@ -14,7 +14,7 @@ docket_codex = tibble::tribble(
   "MSRR Pre-Application", "ACU", 99902088, TRUE,
   "MSRR Part 50", "ACU", 05000610, TRUE,
   "Shine Part 50", "SHINE Medical Technologies", 05000608, TRUE,
-  "Shine Recycling Pre-Application", "Shine Medical Technologies", 99902115, TRUE,
+  "Shine Recycling Pre-Application", "SHINE Medical Technologies", 99902115, TRUE,
   "Xe-100 Pre-Application", "X-Energy", 99902071, TRUE,
   "TRISO-X Fab. Part 70", "X-Energy", 07007027, TRUE,
   "Long Mott Pre-Application", "X-Energy", 99902117, TRUE,
