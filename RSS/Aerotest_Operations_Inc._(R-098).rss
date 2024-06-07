@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 07 Jun 2024 14:15:26 GMT</pubDate>
-		<lastBuildDate>Fri, 07 Jun 2024 14:15:26 GMT</lastBuildDate>
+		<pubDate>Fri, 07 Jun 2024 15:14:49 GMT</pubDate>
+		<lastBuildDate>Fri, 07 Jun 2024 15:14:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards Certification of Medical Exam by Facility Licensee for renewal of SRO license for S Warren.W/o encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20149M358</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>AEROTEST OPERATIONS, INC.</author>
+			<pubDate>2024-06-07 11:07:00</pubDate>
+		</item>
+		<item>
+			<title>Ack ltr dtd 961120 transmitting info for renewal of SRO license for S Warren.Advises that info has been forwarded to W Eresian at NRC Headquarters for processing.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20149M355</link>
+			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
+			<pubDate>2024-06-07 11:07:00</pubDate>
+		</item>
 		<item>
 			<title>Generic Ltr 80-38 to all nonpower reactor licensees re NPR physical protection requirements.Summary of certain NPR physical protection requirements encl & should aid in determining safeguards requirements applicable to facility.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20149K191</link>
@@ -206,20 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
 			<author>REED COLLEGE, PORTLAND, OR</author>
 			<pubDate>2024-05-30 03:04:00</pubDate>
-		</item>
-		<item>
-			<title>Notice of violation from insp during period of 960422-26. Violation noted:on 960426,inspector determined that 2 access points to high radiation area on top of reactor operations did not have one or more of listed control features.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20112K126</link>
-			<description>NOTICE OF VIOLATION OF A REGULATION, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
-			<pubDate>2024-05-29 20:17:00</pubDate>
-		</item>
-		<item>
-			<title>Insp rept 50-228/96-01 on 960422-26.Violations noted.Major areas inspected:organization & mgt controls,qualifications & training,special nuclear matl & accountability,reviews & audits,logs & records,procedures & reactor operations.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20112K131</link>
-			<description>INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
-			<pubDate>2024-05-29 20:17:00</pubDate>
 		</item>
 	</channel>
 </rss>
