@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 06 Jun 2024 23:17:53 GMT</pubDate>
-		<lastBuildDate>Thu, 06 Jun 2024 23:17:53 GMT</lastBuildDate>
+		<pubDate>Fri, 07 Jun 2024 14:15:42 GMT</pubDate>
+		<lastBuildDate>Fri, 07 Jun 2024 14:15:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -87,13 +87,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-05-29 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Hermes 2 Preliminary Safety Analysis Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24144A092</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2024-05-24 15:09:00</pubDate>
 		</item>
 	</channel>
 </rss>

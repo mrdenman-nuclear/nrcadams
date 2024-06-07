@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 06 Jun 2024 23:17:36 GMT</pubDate>
-		<lastBuildDate>Thu, 06 Jun 2024 23:17:36 GMT</lastBuildDate>
+		<pubDate>Fri, 07 Jun 2024 14:15:23 GMT</pubDate>
+		<lastBuildDate>Fri, 07 Jun 2024 14:15:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Letter, Response to Request for Additional Information (RAI)</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2024-06-04 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Audit Status May 2024 - The Staff Review of The Nuscale Power, LLC Standard Design Approval Application - NuScale US460</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24138A200</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2024-05-24 10:45:00</pubDate>
 		</item>
 	</channel>
 </rss>

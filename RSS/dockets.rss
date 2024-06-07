@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 06 Jun 2024 23:17:36 GMT</pubDate>
-		<lastBuildDate>Thu, 06 Jun 2024 23:17:36 GMT</lastBuildDate>
+		<pubDate>Fri, 07 Jun 2024 14:15:23 GMT</pubDate>
+		<lastBuildDate>Fri, 07 Jun 2024 14:15:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>March 22, 2024 Westinghouse Electric Company AP300 Pre-Application Meeting Summary on I&C Concept of Operations Public Meeting</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24124A180</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-06-07 08:37:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1: Affidavit AW-24-032</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24151A209</link>
+			<description>Legal-Affidavit</description>
+			<author>Westinghouse Electric Co</author>
+			<pubDate>2024-06-07 08:36:00</pubDate>
+		</item>
+		<item>
+			<title>Submittal of Westinghouse Comments on the draft Safety Evaluation for Topical Reports: “Advanced Logic System v2 Platform” and “Advanced Logic System v2 Development Process”</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24151A208</link>
+			<description>Letter</description>
+			<author>Westinghouse Electric Co</author>
+			<pubDate>2024-06-07 08:36:00</pubDate>
+		</item>
 		<item>
 			<title>Nuscale Power, LLC - Acknowledgement of Disputed Notice Of Violation - Nuclear Regulatory Commission Inspection Report 05200050/2024-201</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24155A070</link>
@@ -199,27 +220,6 @@
 			<description>Slides and Viewgraphs</description>
 			<author>Kairos Power, LLC</author>
 			<pubDate>2024-05-31 10:38:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (3) of Natalie Houghtalen on Kairos Power, LLC Receipt of Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24145A117</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>ClearPath, Inc</author>
-			<pubDate>2024-05-31 09:10:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (3) of Natalie Houghtalen on Kairos Power, LLC Receipt of Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24145A117</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>ClearPath, Inc</author>
-			<pubDate>2024-05-31 09:10:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power, LLC Thermo-Physical Properties Audit Plan.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24150A408</link>
-			<description>Audit Plan</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-05-31 09:10:00</pubDate>
 		</item>
 	</channel>
 </rss>
