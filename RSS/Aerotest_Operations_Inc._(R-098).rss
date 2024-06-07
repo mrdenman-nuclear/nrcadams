@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 07 Jun 2024 16:16:25 GMT</pubDate>
-		<lastBuildDate>Fri, 07 Jun 2024 16:16:25 GMT</lastBuildDate>
+		<pubDate>Fri, 07 Jun 2024 17:14:07 GMT</pubDate>
+		<lastBuildDate>Fri, 07 Jun 2024 17:14:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Informs of relocation of NRR to Rockville,MD.Official mailing address still remains same & project managers have new locations & phone numbers.TS Michaels still lead project manager for facility & A Adams will serve as backup.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20150D864</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO PUBLIC ENTITY/CITIZEN/ORGANIZATION/MEDIA, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
+			<pubDate>2024-06-07 12:19:00</pubDate>
+		</item>
 		<item>
 			<title>PNO-V-88-044:on 880627,earthquake occurred 5 miles east of Santa Cruz,CA.Seismic instrumentation not triggered at Vallecitos,Aerotest operations or at Univ of California at Berkeley.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20150B025</link>
@@ -213,13 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
 			<author>AEROTEST OPERATIONS, INC.</author>
 			<pubDate>2024-05-30 05:34:00</pubDate>
-		</item>
-		<item>
-			<title>Informs of decision to reduce fence area surveillance to twice in morning & twice in afternoon w/reactor shutdown during lunch,effective 960701,in view of listed observations.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20115B269</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>AEROTEST OPERATIONS, INC.</author>
-			<pubDate>2024-05-30 03:16:00</pubDate>
 		</item>
 	</channel>
 </rss>
