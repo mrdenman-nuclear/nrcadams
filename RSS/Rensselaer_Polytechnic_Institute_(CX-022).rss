@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 07 Jun 2024 23:16:34 GMT</pubDate>
-		<lastBuildDate>Fri, 07 Jun 2024 23:16:34 GMT</lastBuildDate>
+		<pubDate>Mon, 10 Jun 2024 14:16:32 GMT</pubDate>
+		<lastBuildDate>Mon, 10 Jun 2024 14:16:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
 			<pubDate>2024-06-03 11:17:00</pubDate>
-		</item>
-		<item>
-			<title>Requests that repts required by 10CFR73.71 re unaccounted for shipments,suspected thefts,unlawful diversion & radiological sabotage be transmitted to RW Starostecki at Region I.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20099E056</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I)</author>
-			<pubDate>2024-05-25 00:12:00</pubDate>
 		</item>
 	</channel>
 </rss>
