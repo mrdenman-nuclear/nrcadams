@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 10 Jun 2024 19:12:23 GMT</pubDate>
-		<lastBuildDate>Mon, 10 Jun 2024 19:12:23 GMT</lastBuildDate>
+		<pubDate>Mon, 10 Jun 2024 21:14:47 GMT</pubDate>
+		<lastBuildDate>Mon, 10 Jun 2024 21:14:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>PNO-V-88-038:on 880612,earthquake occurred on Calaveras Fault within 50 miles of identified facilities.All reactors shutdown at time of earthquake.No seismic trips observed. Insp revealed no signs of damage at facilities.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20155E409</link>
+			<description>PRELIMINARY NOTIFICATION OF EVENT OR OCCURRENCE (PNO,, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
+			<pubDate>2024-06-10 16:04:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards security plan.Plan change involves storage of irradiated & unirradiated fuel.Plan withheld (ref 10CFR2.790).</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20154E267</link>
@@ -213,13 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
 			<author>AEROTEST OPERATIONS, INC.</author>
 			<pubDate>2024-05-31 06:55:00</pubDate>
-		</item>
-		<item>
-			<title>"Potential for Earthquake Rupture of Northern Calaveras Fault."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20127D838</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>INTERIOR, DEPT. OF, GEOLOGICAL SURVEY</author>
-			<pubDate>2024-05-31 04:49:00</pubDate>
 		</item>
 	</channel>
 </rss>
