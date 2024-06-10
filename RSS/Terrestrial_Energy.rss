@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 10 Jun 2024 15:16:09 GMT</pubDate>
-		<lastBuildDate>Mon, 10 Jun 2024 15:16:09 GMT</lastBuildDate>
+		<pubDate>Mon, 10 Jun 2024 16:17:47 GMT</pubDate>
+		<lastBuildDate>Mon, 10 Jun 2024 16:17:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"West Valley Demonstration Project Site Environ Rept for CY96."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20154L169</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>DAMES and MOORE, WEST VALLEY NUCLEAR SERVICES CO., INC.</author>
+			<pubDate>2024-06-10 12:11:00</pubDate>
+		</item>
+		<item>
+			<title>"Radiological Survey of Inactive U-Mill Tailings at Slick Rock,CO."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20154L184</link>
+			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
+			<author>OAK RIDGE NATIONAL LABORATORY</author>
+			<pubDate>2024-06-10 12:11:00</pubDate>
+		</item>
+		<item>
+			<title>"Radiological Survey of Inactive U Mill Tailings at Spook Site,Converse County Wyoming."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20154J577</link>
+			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
+			<author>OAK RIDGE NATIONAL LABORATORY</author>
+			<pubDate>2024-06-10 11:43:00</pubDate>
+		</item>
 		<item>
 			<title>"Annual Rept of Trojan Nuclear Plant for 1985."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20154G211</link>
@@ -199,27 +220,6 @@
 			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, DKT 30 MTL BYPRODUCT, TEXT-LICENSE APPLICATIONS & PERMITS</description>
 			<author>UNITED TECHNOLOGIES CORP.</author>
 			<pubDate>2024-06-08 21:16:00</pubDate>
-		</item>
-		<item>
-			<title>Responds to 821102 request for addl info re application for renewal of License 29-02477-05.Forwards mfg procedures for cleaning detector cells of gas chromatograph & info packet re alternate source for counting leak test wipes for Ni-63.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20151W685</link>
-			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, INCOMING CORRESPONDENCE</description>
-			<author>UNITED STATES TESTING CO., INC.</author>
-			<pubDate>2024-06-08 21:03:00</pubDate>
-		</item>
-		<item>
-			<title>"Haddam Neck Station Radiological Environ Monitoring Program Annual Operating Rept,1987." W/880428 ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20151W264</link>
-			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>CONNECTICUT YANKEE ATOMIC POWER CO., NORTHEAST UTILITIES, NORTHEAST UTILITIES SERVICE CO.</author>
-			<pubDate>2024-06-08 20:46:00</pubDate>
-		</item>
-		<item>
-			<title>Reg Guide 3.51, "Calculational Models for Estimating Radiation Doses to Man From Airborne Radioactive Matls Resulting From U Milling Operations."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20151V768</link>
-			<description>REGULATORY GUIDE (REG GUIDE), REGULATORY GUIDES & STD. REVIEW PLANS-TEXT</description>
-			<author>NRC OFFICE OF NUCLEAR REGULATORY RESEARCH (RES)</author>
-			<pubDate>2024-06-07 20:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
