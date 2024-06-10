@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 10 Jun 2024 22:15:24 GMT</pubDate>
-		<lastBuildDate>Mon, 10 Jun 2024 22:15:24 GMT</lastBuildDate>
+		<pubDate>Mon, 10 Jun 2024 23:14:02 GMT</pubDate>
+		<lastBuildDate>Mon, 10 Jun 2024 23:14:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Package consisting of radiation/contamination protection exam questions & course matls,including viewgraphs.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20195B915</link>
+			<description>ARCHIVE RECORDS, PACKAGE OF NONCODED MATERIAL</description>
+			<author>NRC</author>
+			<pubDate>2024-06-10 18:40:00</pubDate>
+		</item>
+		<item>
+			<title>Trip rept of 790619 visit to Nine Mile Lake in-situ U recovery project,Natrona County,WY re opportunity for NRC project manager & ORNL consultants to inspect proposed project site & to discuss potential environ impacts.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20155K600</link>
+			<description>MEETING MINUTES & NOTES--CORRESPONDENCE, TRIP REPORTS</description>
+			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
+			<pubDate>2024-06-10 18:25:00</pubDate>
+		</item>
 		<item>
 			<title>"Performance Assessment Methodology Development LLW Disposal Safety Assessment,Subtask 2,1 Identification of Potential Exposure Pathways."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20155K079</link>
@@ -206,20 +220,6 @@
 			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
 			<author>FORD, BACON and DAVIS UTAH, INC.</author>
 			<pubDate>2024-06-10 12:44:00</pubDate>
-		</item>
-		<item>
-			<title>"Phase II-Title I Engineering Assessment of Inactive Uranium Mill Tailings Naturita Site,Naturita,Colorado."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20154M751</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>FORD, BACON and DAVIS UTAH, INC.</author>
-			<pubDate>2024-06-10 12:43:00</pubDate>
-		</item>
-		<item>
-			<title>"Engineering Assessment of Inactive Uranium Mill Tailings Edgemont Site,Edgemont,South Dakota."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20154M737</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>FORD, BACON and DAVIS UTAH, INC.</author>
-			<pubDate>2024-06-10 12:43:00</pubDate>
 		</item>
 	</channel>
 </rss>
