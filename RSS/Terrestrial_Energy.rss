@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Jun 2024 19:13:30 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Jun 2024 19:13:30 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Jun 2024 20:15:34 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Jun 2024 20:15:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards rev 15 to "GPU Nuclear Corporate Emergency Plan for TMI & Oyster Creek Nuclear Station." With summary of changes which reflect use of EALs approved in NRC ltr to GPUN on 980908 & other changes not related to use of new EALs.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198T106</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>GENERAL PUBLIC UTILITIES CORP.</author>
+			<pubDate>2024-06-11 16:03:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards 690605 source matl license for Rare Earths facility,in effect during 1973 cessation of operations & current license issued on 740822.Related correspondence.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198R959</link>
+			<description>CORRESPONDENCE-LETTERS, INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE, NRC TO ASLP</description>
+			<author>NRC OFFICE OF THE EXECUTIVE LEGAL DIRECTOR (OELD)</author>
+			<pubDate>2024-06-11 15:33:00</pubDate>
+		</item>
+		<item>
+			<title>Declaration of R Morgan.* Authorizes SRIC to represent author in matter re Hydro Resources,Inc.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198R155</link>
+			<description>AFFIDAVITS, LEGAL TRANSCRIPTS & ORDERS & PLEADINGS</description>
+			<author>AFFILIATION NOT ASSIGNED</author>
+			<pubDate>2024-06-11 15:13:00</pubDate>
+		</item>
 		<item>
 			<title>Final, "Environ Assessment of Remedial Action at Monument Valley U Mill Tailings Site Monument Valley,AZ."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198M325</link>
@@ -199,27 +220,6 @@
 			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, PLEADINGS</description>
 			<author>NRC OFFICE OF THE GENERAL COUNSEL (OGC)</author>
 			<pubDate>2024-06-11 05:58:00</pubDate>
-		</item>
-		<item>
-			<title>"Environ Rept Amend in Support of Amend Request of 920817, to Accept Radioactive Matls from Sites Located Within State of CO at U Project Disposal Site."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20197J902</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>UMETCO MINERALS CORP.</author>
-			<pubDate>2024-06-11 05:58:00</pubDate>
-		</item>
-		<item>
-			<title>Draft "Environ Assessment of Remedial Action at Gunnison U Mill Tailings Site,Gunnison,CO," Vols I - Text & II - Apps.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20197J845</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>ENERGY, DEPT. OF</author>
-			<pubDate>2024-06-11 05:57:00</pubDate>
-		</item>
-		<item>
-			<title>Final, "EA of Remedial Action at Lowman U Mill Tailing Site Near Lowman,ID."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20197J630</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>ENERGY, DEPT. OF</author>
-			<pubDate>2024-06-11 05:53:00</pubDate>
 		</item>
 	</channel>
 </rss>

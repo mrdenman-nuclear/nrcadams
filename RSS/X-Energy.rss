@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Jun 2024 19:13:30 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Jun 2024 19:13:30 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Jun 2024 20:15:34 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Jun 2024 20:15:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Non-proprietary version of topical rept SL-5159(NP), "Methodology & Verification of Gapp Program for Analysis of Piping Sys w/E-Bar Supports."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198T049</link>
+			<description>REPORTS-TOPICAL (BY MANUFACTURERS-VENDORS ETC), TEXT-SAFETY REPORT</description>
+			<author>External (Affiliation Not Assigned), SARGENT and LUNDY, INC.</author>
+			<pubDate>2024-06-11 16:02:00</pubDate>
+		</item>
 		<item>
 			<title>"Training & Experience."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198L863</link>
@@ -213,13 +220,6 @@
 			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
 			<author>NRC</author>
 			<pubDate>2024-05-29 14:54:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards responses to DEIS & DTER noticed for public comment 960130 re reclamation of Atlas U tailings site near Moab,UT.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20108A003</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>ATLAS CORP.</author>
-			<pubDate>2024-05-29 13:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
