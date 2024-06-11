@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Jun 2024 18:19:46 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Jun 2024 18:19:46 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Jun 2024 19:13:30 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Jun 2024 19:13:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Safety insp on 820623 of license 43-03227-03.Insp findings: records of incoming matl radiation surveys not properly maintained.Documents not properly posted or made available in bldg M3.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198P110</link>
+			<description>SAFETY INSPECTION (FORMERLY INSPECTION FINDINGS &, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV), THIOKOL CORP.</author>
+			<pubDate>2024-06-11 14:17:00</pubDate>
+		</item>
+		<item>
+			<title>NPDES monthly discharge monitoring rept for Sept 1997.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198P070</link>
+			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>CONNECTICUT YANKEE ATOMIC POWER CO.</author>
+			<pubDate>2024-06-11 14:16:00</pubDate>
+		</item>
 		<item>
 			<title>Application for amend to license 21-04127-06,adding listed individuals as authorized users of matl listed in 6.A, 6.B & 6.C.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198N577</link>
@@ -206,20 +220,6 @@
 			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
 			<author>US ATOMIC ENERGY COMMISSION (AEC)</author>
 			<pubDate>2024-06-11 03:51:00</pubDate>
-		</item>
-		<item>
-			<title>"BWR Vessel & Internals Project Update of Bounding Assessment of BWR/2-6 Reactor Pressure Vessel Integrity Issues (BWRVIP-46)," final rept.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20197D629</link>
-			<description>REPORTS-TOPICAL (BY MANUFACTURERS-VENDORS ETC), TEXT-SAFETY REPORT</description>
-			<author>ATI CONSULTING, ELECTRIC POWER RESEARCH INSTITUTE</author>
-			<pubDate>2024-06-11 03:42:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards file containing some documents that author would like to have w/reference to low-level radioactive waste disposal facility.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20197C514</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>TEXAS, STATE OF</author>
-			<pubDate>2024-06-11 03:10:00</pubDate>
 		</item>
 	</channel>
 </rss>
