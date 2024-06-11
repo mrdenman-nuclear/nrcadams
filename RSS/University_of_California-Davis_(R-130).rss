@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 10 Jun 2024 23:13:49 GMT</pubDate>
-		<lastBuildDate>Mon, 10 Jun 2024 23:13:49 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Jun 2024 14:15:35 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Jun 2024 14:15:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Annual Operating Report</description>
 			<author>Univ of California - Davis</author>
 			<pubDate>2024-05-31 09:09:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Report Letter No. 50-607/OL-24-01, University of California - Davis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24052A070</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2024-05-28 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Result Letter No. 50-607/OL-24-01, University of California - Davis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24052A071</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2024-05-28 08:35:00</pubDate>
 		</item>
 	</channel>
 </rss>

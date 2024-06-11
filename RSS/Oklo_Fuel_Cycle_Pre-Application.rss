@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 10 Jun 2024 23:13:47 GMT</pubDate>
-		<lastBuildDate>Mon, 10 Jun 2024 23:13:47 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Jun 2024 14:15:33 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Jun 2024 14:15:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Oklo Inc. - Transportation of Nuclear Material to and from the Oklo Fuel Recycling Facility - White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24138A082</link>
-			<description>Letter</description>
-			<author>Oklo Inc</author>
-			<pubDate>2024-05-28 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo Inc. - Enclosure 2: Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24138A084</link>
-			<description>Legal-Affidavit</description>
-			<author>Oklo Inc</author>
-			<pubDate>2024-05-28 08:34:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

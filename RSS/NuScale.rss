@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 10 Jun 2024 23:14:02 GMT</pubDate>
-		<lastBuildDate>Mon, 10 Jun 2024 23:14:02 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Jun 2024 14:16:20 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Jun 2024 14:16:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>FAVPRO Release Public Meeting Slides</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24162A277</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/RES/DE</author>
+			<pubDate>2024-06-11 09:37:00</pubDate>
+		</item>
 		<item>
 			<title>NEI Concept Paper: "Regulation of Rapid High-Volume Deployable Reactors in Remote Applications"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24152A325</link>
@@ -38,69 +45,6 @@
 			<description>Conference/Symposium/Workshop Paper, Slides and Viewgraphs</description>
 			<author>Govt of Romania, National Commission for Nuclear Activities Control</author>
 			<pubDate>2024-05-29 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>09/26/2024 Meeting with NuScale Power, LLC on NuScale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24149A116</link>
-			<description>Meeting Agenda, Meeting Notice</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-05-28 10:46:00</pubDate>
-		</item>
-		<item>
-			<title>09/19/2024 Meeting with NuScale Power, LLC on NuScale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24149A111</link>
-			<description>Meeting Agenda, Meeting Notice</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-05-28 10:45:00</pubDate>
-		</item>
-		<item>
-			<title>09/12/2024 Meeting with NuScale Power, LLC on NuScale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24149A109</link>
-			<description>Meeting Agenda, Meeting Notice</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-05-28 10:44:00</pubDate>
-		</item>
-		<item>
-			<title>09/05/2024 Meeting with NuScale Power, LLC on NuScale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24149A099</link>
-			<description>Meeting Agenda, Meeting Notice</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-05-28 10:41:00</pubDate>
-		</item>
-		<item>
-			<title>08/29/2024 Meeting with NuScale Power, LLC on NuScale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24149A098</link>
-			<description>Meeting Agenda, Meeting Notice</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-05-28 10:31:00</pubDate>
-		</item>
-		<item>
-			<title>08/22/2024 Meeting with NuScale Power, LLC on NuScale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24149A096</link>
-			<description>Meeting Agenda, Meeting Notice</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-05-28 10:30:00</pubDate>
-		</item>
-		<item>
-			<title>08/15/2024 Meeting with NuScale Power, LLC on NuScale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24149A095</link>
-			<description>Meeting Agenda, Meeting Notice</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-05-28 10:29:00</pubDate>
-		</item>
-		<item>
-			<title>08/08/2024 Meeting with NuScale Power, LLC on NuScale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24149A093</link>
-			<description>Meeting Agenda, Meeting Notice</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-05-28 10:28:00</pubDate>
-		</item>
-		<item>
-			<title>08/01/2024 Meeting with NuScale Power, LLC on NuScale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24149A089</link>
-			<description>Meeting Agenda, Meeting Notice</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-05-28 10:24:00</pubDate>
 		</item>
 	</channel>
 </rss>

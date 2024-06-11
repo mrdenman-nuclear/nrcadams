@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 10 Jun 2024 23:13:49 GMT</pubDate>
-		<lastBuildDate>Mon, 10 Jun 2024 23:13:49 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Jun 2024 14:15:35 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Jun 2024 14:15:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,20 +66,6 @@
 			<description>CORRESPONDENCE-LETTERS, NRC TO PUBLIC ENTITY/CITIZEN/ORGANIZATION/MEDIA, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
 			<pubDate>2024-05-29 08:45:00</pubDate>
-		</item>
-		<item>
-			<title>PNO-V-92-020:on 920628,two major earthquakes occurred in State of CA desert.Unusual event declared at San Onofre & Diablo Canyon.Tremors felt at Palo Verde & at two research reactors & fuel facility.Peak accelerations listed.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20101P059</link>
-			<description>PRELIMINARY NOTIFICATION OF EVENT OR OCCURRENCE (PNO,, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-05-28 21:52:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Result Letter No. 50-326/OL-24-02, University of California-Irvine</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24113A006</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2024-05-28 08:35:00</pubDate>
 		</item>
 	</channel>
 </rss>

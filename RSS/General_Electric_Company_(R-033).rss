@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 10 Jun 2024 23:13:49 GMT</pubDate>
-		<lastBuildDate>Mon, 10 Jun 2024 23:13:49 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Jun 2024 14:15:35 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Jun 2024 14:15:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards insp repts 50-070/99-301,50-073/99-201 & 50-183/99-201 on 990607-10.No safety concern or noncompliance to NRC requirements was identified.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20196K392</link>
+			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
+			<author>NRC (Affiliation Not Assigned)</author>
+			<pubDate>2024-06-11 01:52:00</pubDate>
+		</item>
+		<item>
+			<title>Insp repts 50-070/99-201,50-073/99-201 & 50-183/99-201 on 990607-10.No violations noted.Major areas inspected: operation program,organizational structure & functions program.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20196K408</link>
+			<description>INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
+			<author>NRC (Affiliation Not Assigned)</author>
+			<pubDate>2024-06-11 01:52:00</pubDate>
+		</item>
+		<item>
+			<title>"GE 1987 Annual Rept." W/880308 ltr.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20196J515</link>
+			<description>ANNUAL REPORTS (COMPANY-FINANCIAL), TEXT-SAFETY REPORT</description>
+			<author>GENERAL ELECTRIC CO.</author>
+			<pubDate>2024-06-11 01:28:00</pubDate>
+		</item>
 		<item>
 			<title>PNO-V-88-038:on 880612,earthquake occurred on Calaveras Fault within 50 miles of identified facilities.All reactors shutdown at time of earthquake.No seismic trips observed. Insp revealed no signs of damage at facilities.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20155E409</link>
@@ -199,27 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
 			<pubDate>2024-05-30 03:50:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards revised pages to radiological emergency plan, reflecting minor changes in organization clarification of designation of emergency operations coordinator & consolidation of communications at central alarm station.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20107L037</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
-			<author>GENERAL ELECTRIC CO.</author>
-			<pubDate>2024-05-29 10:27:00</pubDate>
-		</item>
-		<item>
-			<title>Insp repts 50-018/96-01,50-070/96-01,50-073/96-01 & 50-183/96-01 on 960311-15.No violations noted.Major areas inspected:organization & mgt controls,qualifications & training,special nuclear matl & accountability & more.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20107K655</link>
-			<description>INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
-			<pubDate>2024-05-29 10:16:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards insp rept 50-018/96-01,50-070/96-01,50-073/96-01 & 50-183/96-01 on 960311-15.No violations noted.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20107K635</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
-			<pubDate>2024-05-29 10:15:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 10 Jun 2024 23:13:49 GMT</pubDate>
-		<lastBuildDate>Mon, 10 Jun 2024 23:13:49 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Jun 2024 14:15:35 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Jun 2024 14:15:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
 			<author>GENERAL ATOMICS (FORMERLY GA TECHNOLOGIES, INC./GENER</author>
 			<pubDate>2024-05-29 02:08:00</pubDate>
-		</item>
-		<item>
-			<title>Informs that licensee imposed final offer as binding contract w/o Union approval.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20100K887</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>AFFILIATION NOT ASSIGNED</author>
-			<pubDate>2024-05-28 13:44:00</pubDate>
 		</item>
 	</channel>
 </rss>
