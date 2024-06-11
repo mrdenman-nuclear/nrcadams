@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Jun 2024 22:15:18 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Jun 2024 22:15:18 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Jun 2024 23:14:57 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Jun 2024 23:14:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Recommends Epstein application for AEC license w/o reservation.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20199G406</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>PETER BENT BRIGHAM HOSP., BOSTON, MA</author>
+			<pubDate>2024-06-11 19:06:00</pubDate>
+		</item>
 		<item>
 			<title>Voided matls licensing action for license 13-08615-04 for St Elizabeth Medical Ctr.Control:303145.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20199D130</link>
@@ -213,13 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
 			<author>AFFILIATION NOT ASSIGNED</author>
 			<pubDate>2024-06-11 05:34:00</pubDate>
-		</item>
-		<item>
-			<title>Monthly operating rept for May 1984.W/840612 ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20197H213</link>
-			<description>MONTHLY OPERATING ANALYSIS REPORT, TEXT-SAFETY REPORT</description>
-			<author>NORTHEAST NUCLEAR ENERGY CO., NORTHEAST UTILITIES</author>
-			<pubDate>2024-06-11 05:26:00</pubDate>
 		</item>
 	</channel>
 </rss>

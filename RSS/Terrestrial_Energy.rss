@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Jun 2024 22:15:18 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Jun 2024 22:15:18 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Jun 2024 23:14:57 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Jun 2024 23:14:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Oregon State Info Handbook:UMTRA Project."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20199F223</link>
+			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
+			<author>AFFILIATION NOT ASSIGNED</author>
+			<pubDate>2024-06-11 18:39:00</pubDate>
+		</item>
+		<item>
+			<title>Comment opposing Draft NUREG-1555, "Std Review Plans For Environmental Reviews For NPPs."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20199F113</link>
+			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, PUBLIC COMMENTS ON PROPOSED RULES & PETITIONS FOR</description>
+			<author>DUKE POWER CO.</author>
+			<pubDate>2024-06-11 18:35:00</pubDate>
+		</item>
+		<item>
+			<title>"Environ Analysis Phase IV for Decommissioning of Kerr-McGee,West Chicago Rare Earths Facility."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20199E849</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>DUKE ENGINEERING and SERVICES, HANSON ENGINEERS, INC.,, ROGERS & ASSOCIATES ENGINEERING CORP.</author>
+			<pubDate>2024-06-11 18:28:00</pubDate>
+		</item>
+		<item>
+			<title>Transcript of 980123 ACRS Plant License Renewal Subcommittee meeting in Rockville,MD.Pp 1-184.W/viewgraphs.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20199E697</link>
+			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, TRANSCRIPTS, DEPOSITIONS, NARRATIVE TESTIMONY</description>
+			<author>NRC ADVISORY COMMITTEE ON REACTOR SAFEGUARDS (ACRS)</author>
+			<pubDate>2024-06-11 18:18:00</pubDate>
+		</item>
 		<item>
 			<title>"DOE Input to NRC Annual Rept to Congress re Status of Environ,Safety & Health Conditions at Paducah & Portsmouth Gaseous Diffusion Plants for FY98."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20199E355</link>
@@ -192,34 +220,6 @@
 			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
 			<author>ENERGY, DEPT. OF</author>
 			<pubDate>2024-06-11 09:28:00</pubDate>
-		</item>
-		<item>
-			<title>"Final Environ Assessment of Remedial Action at Gunnison U Mill Tailings Site Near Gunnison,CO."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198J225</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>ENERGY, DEPT. OF</author>
-			<pubDate>2024-06-11 09:26:00</pubDate>
-		</item>
-		<item>
-			<title>Advises that no formal filing sys set up for branch since reorganization,except reading files & travel folders.Filing sys used prior to reorganization encl,per FOIA Request 86-206.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198H552</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
-			<pubDate>2024-06-11 09:11:00</pubDate>
-		</item>
-		<item>
-			<title>"Environ Assessment for Disposal of Project Low Level Waste."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198G870</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>ENERGY, DEPT. OF</author>
-			<pubDate>2024-06-11 08:51:00</pubDate>
-		</item>
-		<item>
-			<title>Unclassified Chapters 2,3,5,7,8,13,16,11 & 12 to application for renewal of License SNM-368.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198G641</link>
-			<description>APPLICATION,SNM LICENSE & AMEND /RENEWAL TO LICENSE, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>UNC, INC. (FORMERLY UNC RESOURCES, INC.)</author>
-			<pubDate>2024-06-11 08:45:00</pubDate>
 		</item>
 	</channel>
 </rss>

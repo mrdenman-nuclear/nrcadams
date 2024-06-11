@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Jun 2024 22:15:18 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Jun 2024 22:15:18 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Jun 2024 23:14:57 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Jun 2024 23:14:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Notation vote approving with comments SECY-98-275, "Rept to Congress on Gaseous Diffusion Plants Located Near Paducah, Kentucky & Portsmouth,Ohio."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20199G695</link>
+			<description>ARCHIVE RECORDS, LETTER BALLOT, NOMINATION VOTE, COMMISSION VOTING</description>
+			<author>NRC COMMISSION (OCM)</author>
+			<pubDate>2024-06-11 19:12:00</pubDate>
+		</item>
 		<item>
 			<title>Non-proprietary version of topical rept SL-5159(NP), "Methodology & Verification of Gapp Program for Analysis of Piping Sys w/E-Bar Supports."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198T049</link>
@@ -213,13 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
 			<pubDate>2024-05-29 21:15:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards Vols I & II of 960429 response of Atlas Corp to NRC DEIS,NUREG-1531 & DTER,NUREG-1532 re reclamation of U mill tailings at Atlas site Moab,UT,replacing vols submitted earlier.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20108E156</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC</author>
-			<pubDate>2024-05-29 14:54:00</pubDate>
 		</item>
 	</channel>
 </rss>
