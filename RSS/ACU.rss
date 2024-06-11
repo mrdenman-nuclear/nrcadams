@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Jun 2024 21:14:27 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Jun 2024 21:14:27 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Jun 2024 22:15:18 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Jun 2024 22:15:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Voided matls licensing action for license 13-08615-04 for St Elizabeth Medical Ctr.Control:303145.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20199D130</link>
+			<description>DKT 30 MTL BYPRODUCT, INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION III)</author>
+			<pubDate>2024-06-11 17:33:00</pubDate>
+		</item>
+		<item>
+			<title>Requests addl fee for 860213 application for amend to License 47-06067-03.Fee required prior to issuance of amend.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20199C518</link>
+			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
+			<pubDate>2024-06-11 17:18:00</pubDate>
+		</item>
+		<item>
+			<title>Voided matls licensing action for license 05-01399-08 for USGS - Denver.Control:466991.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20199C481</link>
+			<description>DKT 30 MTL BYPRODUCT, INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
+			<pubDate>2024-06-11 17:17:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards notice re overdue billing,dtd 970715 & ltr re nuclear gauges which was sold to Soils Engineering Firm.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20199B577</link>
@@ -199,27 +220,6 @@
 			<description>MONTHLY OPERATING ANALYSIS REPORT, TEXT-SAFETY REPORT</description>
 			<author>NORTHEAST NUCLEAR ENERGY CO., NORTHEAST UTILITIES</author>
 			<pubDate>2024-06-11 05:26:00</pubDate>
-		</item>
-		<item>
-			<title>"Cover Design - Radium Profile,Final Embankment/Cut Acid Pile 5 Ft,Recalculate RA Layers."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20197G634</link>
-			<description>ARCHIVE RECORDS, OPERATIONS SUPPORT-CALCULATIONS</description>
-			<author>AFFILIATION NOT ASSIGNED</author>
-			<pubDate>2024-06-11 05:12:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards safety evaluation re "PG&E,Humboldt Bay Power Plant Unit 3,Failure Mode Analysis of Reactor Protection Sys." Concurs that mods will improve overall sys reliability.Plans for implementing "Backfitting" mod 3 requested in 90 days.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20197F553</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>US ATOMIC ENERGY COMMISSION (AEC)</author>
-			<pubDate>2024-06-11 04:48:00</pubDate>
-		</item>
-		<item>
-			<title>Submits rept re 4006621 including summary of available radiation safety survey programs results from mill start up to present.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20197E910</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>WESTERN NUCLEAR, INC.</author>
-			<pubDate>2024-06-11 04:27:00</pubDate>
 		</item>
 	</channel>
 </rss>
