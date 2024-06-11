@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Jun 2024 17:15:32 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Jun 2024 17:15:32 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Jun 2024 18:19:46 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Jun 2024 18:19:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Final, "Environ Assessment of Remedial Action at Monument Valley U Mill Tailings Site Monument Valley,AZ."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198M325</link>
+			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>ENERGY, DEPT. OF</author>
+			<pubDate>2024-06-11 13:41:00</pubDate>
+		</item>
+		<item>
+			<title>Draft of "Environ Assessment of Remedial Action at Lakeview U Mill Tailings Site,Lakeview,OR," vols I & II.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198M149</link>
+			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>ENERGY, DEPT. OF</author>
+			<pubDate>2024-06-11 13:35:00</pubDate>
+		</item>
+		<item>
+			<title>Final, "Mod to Remedial Action Plan & Site Design for Stabilization of Inactive U Mill Tailings Site at Mexican Hat,UT," Vol I-Text,Attachments 1-6 & Vol II,App F Specifications & Drawings.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198L742</link>
+			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
+			<author>ENERGY, DEPT. OF</author>
+			<pubDate>2024-06-11 13:17:00</pubDate>
+		</item>
 		<item>
 			<title>"Environ Assessment of Remedial Actions of U Mill Tailings At Mexican Hat Site,Mexican Utah," dtd Feb 1983.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198L321</link>
@@ -199,27 +220,6 @@
 			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
 			<author>ENERGY, DEPT. OF</author>
 			<pubDate>2024-06-11 05:53:00</pubDate>
-		</item>
-		<item>
-			<title>"Environ Assessment - License Amend for Matl License SMB-911."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20197H476</link>
-			<description>ENVIRONMENTAL IMPACT APPRAISALS, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
-			<pubDate>2024-06-11 05:32:00</pubDate>
-		</item>
-		<item>
-			<title>"Engineering Assessment of Inactive U Mill Tailings,Bowman Site,Bowman,ND."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20197H421</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>FORD, BACON and DAVIS UTAH, INC.</author>
-			<pubDate>2024-06-11 05:31:00</pubDate>
-		</item>
-		<item>
-			<title>Informs of completed review,for docket 4009048,of team input for Reno Creek EA affected environ chapter.Encl sections should be considered incomplete.Review & response to encl sections,requested.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20197G865</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>ARGONNE NATIONAL LABORATORY</author>
-			<pubDate>2024-06-11 05:18:00</pubDate>
 		</item>
 	</channel>
 </rss>

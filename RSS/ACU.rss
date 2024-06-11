@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Jun 2024 17:15:32 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Jun 2024 17:15:32 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Jun 2024 18:19:46 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Jun 2024 18:19:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Application for amend to license 21-04127-06,adding listed individuals as authorized users of matl listed in 6.A, 6.B & 6.C.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198N577</link>
+			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, DKT 30 MTL BYPRODUCT, TEXT-LICENSE APPLICATIONS & PERMITS</description>
+			<author>HARPER-GRACE HOSPS., DETROIT, MI</author>
+			<pubDate>2024-06-11 14:05:00</pubDate>
+		</item>
+		<item>
+			<title>Application for license,authorizing use of I-125 sealed source in Norland bone densitometer Model N2740 w/N2780 module.Fee paid.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198N292</link>
+			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, DKT 30 MTL BYPRODUCT, TEXT-LICENSE APPLICATIONS & PERMITS</description>
+			<author>BMA, ABINGTON, PA</author>
+			<pubDate>2024-06-11 14:00:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards response to 970416 RAI info per 10CFR50.54(f) for each Millstone Station unit.Response includes listed items re restart issues.Commitment made by util,encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198L909</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>NORTHEAST NUCLEAR ENERGY CO.</author>
+			<pubDate>2024-06-11 13:22:00</pubDate>
+		</item>
 		<item>
 			<title>Discusses 970520 converstation w/W London re leaking source from Tucker technologies.Informs that W London claimed that source had been used downhole but not within last 6 months.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198L606</link>
@@ -199,27 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
 			<author>TEXAS, STATE OF</author>
 			<pubDate>2024-06-11 03:10:00</pubDate>
-		</item>
-		<item>
-			<title>Marked-Up FES, "Remedial Actions at Former Climax U Co U Mill Site,Grand Junction,Mesa County,CO," Vol 1, "Text."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20197B847</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>ENERGY, DEPT. OF</author>
-			<pubDate>2024-06-11 02:51:00</pubDate>
-		</item>
-		<item>
-			<title>Responds to 780802 NRC ltr re violations noted in inspec on 780719.Provides explanations for 2 violations noted:radiat safety review results were in file & source not documented because it was not co's source.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20197B819</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>UNIVERSAL TECHNICAL TESTING LABORATORIES, INC.</author>
-			<pubDate>2024-06-11 02:50:00</pubDate>
-		</item>
-		<item>
-			<title>Determines that residents in housing subdivisions bordering Homestake Mining Co U mill site exposed to airborne radiation at levels posing significant,increased risks of lung cancer.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20197B205</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NEW MEXICO, STATE OF</author>
-			<pubDate>2024-06-11 02:36:00</pubDate>
 		</item>
 	</channel>
 </rss>
