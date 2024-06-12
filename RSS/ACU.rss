@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 12 Jun 2024 17:13:55 GMT</pubDate>
-		<lastBuildDate>Wed, 12 Jun 2024 17:13:55 GMT</lastBuildDate>
+		<pubDate>Wed, 12 Jun 2024 18:18:37 GMT</pubDate>
+		<lastBuildDate>Wed, 12 Jun 2024 18:18:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards petitions for formal public hearing re DES for reactor decommissioning.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20202F572</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, PUBLIC ENTITY/CITIZEN/ORGANIZATION/MEDIA TO NRC</description>
+			<author>ACORN ALLIANCE</author>
+			<pubDate>2024-06-12 14:15:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards AEC staff draft response to arguments stated in EPA memorandum to President,for consents or comments.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20202E245</link>
@@ -213,13 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
 			<author>ILLINOIS, STATE OF</author>
 			<pubDate>2024-06-11 13:12:00</pubDate>
-		</item>
-		<item>
-			<title>"Uranium Mill Tailings Remedial Action Project (UMTRAP) for Mexican Hat,UT." Preliminary design for Review.Calculations. Volumes I-IV.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198K593</link>
-			<description>ARCHIVE RECORDS, OPERATIONS SUPPORT-CALCULATIONS</description>
-			<author>MORRISON-KNUDSEN ENGINEERS, INC.</author>
-			<pubDate>2024-06-11 12:41:00</pubDate>
 		</item>
 	</channel>
 </rss>
