@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 12 Jun 2024 14:15:42 GMT</pubDate>
-		<lastBuildDate>Wed, 12 Jun 2024 14:15:42 GMT</lastBuildDate>
+		<pubDate>Wed, 12 Jun 2024 15:14:26 GMT</pubDate>
+		<lastBuildDate>Wed, 12 Jun 2024 15:14:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Environmental Assessment of Remedial Action at Ambrosia Lake Uranium Mill Tailings Site Ambrosia Lake,New Mexico." Volume I text,Vol II appendices,App D radiation & App E permits,licenses & approvals.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20202C480</link>
+			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>ENERGY, DEPT. OF</author>
+			<pubDate>2024-06-12 11:11:00</pubDate>
+		</item>
+		<item>
+			<title>"Remedial Action Plan & Site Conceptual Design for Stabilization of Inactive U Mill Tailings at Ambrosia Lake, NM," draft App B of Cooperative Agreement DE-FC04-Al20533, Vols I-II.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20202C391</link>
+			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>ENERGY, DEPT. OF</author>
+			<pubDate>2024-06-12 11:06:00</pubDate>
+		</item>
 		<item>
 			<title>"Engineering Assessment of Inactive U Mill Tailings,Naturita Site,Naturita,CO."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20202B353</link>
@@ -206,20 +220,6 @@
 			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
 			<author>ENERGY, DEPT. OF</author>
 			<pubDate>2024-06-11 12:46:00</pubDate>
-		</item>
-		<item>
-			<title>Vols I & II to draft "EA of Remedial Action at Mexican Hat & Monument Valley U Mill Tailings Sites,Mexican Hat,UT, Monument Valley,AZ."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198K570</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>ENERGY, DEPT. OF</author>
-			<pubDate>2024-06-11 12:40:00</pubDate>
-		</item>
-		<item>
-			<title>Insp rept 50-312/97-04 on 970922-25.Violations noted. Major areas inspected:organization,mgt,cost control,safety reviews,design changes,mods,decommissioning performance & status review.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198K549</link>
-			<description>INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
-			<pubDate>2024-06-11 12:39:00</pubDate>
 		</item>
 	</channel>
 </rss>

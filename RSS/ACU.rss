@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 12 Jun 2024 14:15:42 GMT</pubDate>
-		<lastBuildDate>Wed, 12 Jun 2024 14:15:42 GMT</lastBuildDate>
+		<pubDate>Wed, 12 Jun 2024 15:14:26 GMT</pubDate>
+		<lastBuildDate>Wed, 12 Jun 2024 15:14:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC Form 241, "Rept of Proposed Activities in Non-Agreement States." Activities to be conducted:work scheduled for 990108.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20202C303</link>
+			<description>ARCHIVE RECORDS, PACKAGE OF NONCODED MATERIAL</description>
+			<author>CODE SERVICES, INC.</author>
+			<pubDate>2024-06-12 11:04:00</pubDate>
+		</item>
+		<item>
+			<title>Insp repts 50-245/97-203,50-336/97-203 & 50-423/97-203 on 970722-1001.Violations noted.Major areas inspected:maint, engineering,plant support & conduct of operations.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20202C236</link>
+			<description>INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I)</author>
+			<pubDate>2024-06-12 11:01:00</pubDate>
+		</item>
+		<item>
+			<title>Calculations,revised final design review,Vol I-IV for "U Mill Tailings Remedial Action Project,Falls City,TX."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20202B532</link>
+			<description>ARCHIVE RECORDS, OPERATIONS SUPPORT-CALCULATIONS</description>
+			<author>MK-FERGUSON CO.</author>
+			<pubDate>2024-06-12 10:39:00</pubDate>
+		</item>
 		<item>
 			<title>Mod 6 to contract NRC-18-96-001.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20202A907</link>
@@ -199,27 +220,6 @@
 			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
 			<author>OAK RIDGE NATIONAL LABORATORY</author>
 			<pubDate>2024-06-11 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>Discharge monitoring rept for June 1997 for Millstone Nuclear Power Station.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198F561</link>
-			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>NORTHEAST NUCLEAR ENERGY CO.</author>
-			<pubDate>2024-06-11 08:19:00</pubDate>
-		</item>
-		<item>
-			<title>Rev 6 to Sections 0 & 5 to "Test Procedure T-1652 for Determining Safety Valve Set Pressure W/Air Set Pressure Device."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198E792</link>
-			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
-			<author>CROSBY VALVE and GAGE CO.</author>
-			<pubDate>2024-06-11 08:00:00</pubDate>
-		</item>
-		<item>
-			<title>"Environ Assessment & Proposed License Conditions Related to Everest Exploration,Inc Gruy-7B Project Jim Hogg County,TX."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198E445</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>TEXAS, STATE OF</author>
-			<pubDate>2024-06-11 07:50:00</pubDate>
 		</item>
 	</channel>
 </rss>
