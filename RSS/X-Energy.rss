@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Jun 2024 23:14:57 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Jun 2024 23:14:57 GMT</lastBuildDate>
+		<pubDate>Wed, 12 Jun 2024 14:15:42 GMT</pubDate>
+		<lastBuildDate>Wed, 12 Jun 2024 14:15:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -199,27 +199,6 @@
 			<description>Conference/Symposium/Workshop Paper</description>
 			<author>Nuclear Energy Institute (NEI)</author>
 			<pubDate>2024-05-30 15:41:00</pubDate>
-		</item>
-		<item>
-			<title>Informs DOE & TVA have entered into encl Agreement of Transfer for Depts long-term custody of util U mill tailings disposal cell near Edgemont,SD.DOE plans to issue reimbursement to util & transfer withheld funds to Treasury.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20113C863</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>ENERGY, DEPT. OF</author>
-			<pubDate>2024-05-29 21:28:00</pubDate>
-		</item>
-		<item>
-			<title>Informs Long-Term Surveillance Plan satisfies requirements set forth in U Mill Tailings Radiation Control Act of 1978 for long-term disposal site based on review of final Plan for Edgemont,SD U mill site.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20113C421</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
-			<pubDate>2024-05-29 21:16:00</pubDate>
-		</item>
-		<item>
-			<title>Advises that NRC has accepted Long-Term Surveillance Plan submitted by 960624 ltr from DOE & long-term care payment to US Treasury has been satisfied.TVA license SUA-816 has been terminated.ER suppl for Edgemont site,acceptable.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20113C396</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
-			<pubDate>2024-05-29 21:15:00</pubDate>
 		</item>
 	</channel>
 </rss>

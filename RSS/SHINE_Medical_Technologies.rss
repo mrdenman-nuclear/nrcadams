@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Jun 2024 23:14:57 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Jun 2024 23:14:57 GMT</lastBuildDate>
+		<pubDate>Wed, 12 Jun 2024 14:15:42 GMT</pubDate>
+		<lastBuildDate>Wed, 12 Jun 2024 14:15:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -108,20 +108,6 @@
 			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, TRANSCRIPTS, DEPOSITIONS, NARRATIVE TESTIMONY</description>
 			<author>NRC</author>
 			<pubDate>2024-05-30 07:20:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards 92 privileged documents,inadvertently disclosed to State of OK during document insp.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20108A085</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, LEGAL/LAW FIRM TO NRC</description>
-			<author>COVINGTON and BURLING</author>
-			<pubDate>2024-05-29 13:09:00</pubDate>
-		</item>
-		<item>
-			<title>2024/05/10 Kairos - Hermes 2 Docs - Preliminary Chapters (2 & 3) of Hermes 2 SE  to ACRS</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24136A068</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-05-29 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

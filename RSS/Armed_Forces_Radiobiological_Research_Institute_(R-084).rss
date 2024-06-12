@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Jun 2024 23:14:38 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Jun 2024 23:14:38 GMT</lastBuildDate>
+		<pubDate>Wed, 12 Jun 2024 14:15:27 GMT</pubDate>
+		<lastBuildDate>Wed, 12 Jun 2024 14:15:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,13 +59,6 @@
 			<description>CORRESPONDENCE-LETTERS, NRC TO PUBLIC ENTITY/CITIZEN/ORGANIZATION/MEDIA, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
 			<pubDate>2024-06-04 14:30:00</pubDate>
-		</item>
-		<item>
-			<title>Advises that on 920904,licensee received notification from AFRRI that while moving control rod up,operator pushed pulse mode switch to go into pulse mode & rod continued to move up.Software fix will be available to customers by 920918.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20105A884</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>GENERAL ATOMICS (FORMERLY GA TECHNOLOGIES, INC./GENER</author>
-			<pubDate>2024-05-29 02:08:00</pubDate>
 		</item>
 	</channel>
 </rss>

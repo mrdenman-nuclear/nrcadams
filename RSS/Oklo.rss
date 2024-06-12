@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Jun 2024 23:14:57 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Jun 2024 23:14:57 GMT</lastBuildDate>
+		<pubDate>Wed, 12 Jun 2024 14:15:42 GMT</pubDate>
+		<lastBuildDate>Wed, 12 Jun 2024 14:15:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -185,34 +185,6 @@
 			<description>Conference/Symposium/Workshop Paper</description>
 			<author>Nuclear Energy Institute (NEI)</author>
 			<pubDate>2024-05-30 15:41:00</pubDate>
-		</item>
-		<item>
-			<title>List of commercial contracts awarded by NRC since 900801 & purchase orders issued in FY91 & FY92 as of 911106.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20106B824</link>
-			<description>INDEXES, TEXT-BIBLIOGRAPHIC & CATALOGS & INDEXES</description>
-			<author>NRC</author>
-			<pubDate>2024-05-29 03:49:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards summary of 820922-23 trip rept to Ann Arbor,MI re critical review at NRC research program planning workshop on geochemistry of high level waste disposal.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20106B048</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, RESEARCH INSTITUTION/LABORATORY TO NRC</description>
-			<author>OAK RIDGE NATIONAL LABORATORY</author>
-			<pubDate>2024-05-29 03:28:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards summary of 830112-13 meetings in Los Alamos,NM & 830114 meeting in Las Vegas,NV re geochemistry issues & site visit to candidate high level waste repository site at Yucca Mountain,NV test site.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20106A999</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, RESEARCH INSTITUTION/LABORATORY TO NRC</description>
-			<author>OAK RIDGE NATIONAL LABORATORY</author>
-			<pubDate>2024-05-29 03:26:00</pubDate>
-		</item>
-		<item>
-			<title>Comments on monthly progress rept for Sept 1983.Progress satisfactory to date.Questions posed in 831011 ltr answered.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20106A933</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO RESEARCH INSTITUTION/LABORATORY, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
-			<pubDate>2024-05-29 03:24:00</pubDate>
 		</item>
 	</channel>
 </rss>

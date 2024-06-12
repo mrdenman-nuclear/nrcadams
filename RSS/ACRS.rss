@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Jun 2024 23:14:45 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Jun 2024 23:14:45 GMT</lastBuildDate>
+		<pubDate>Wed, 12 Jun 2024 14:15:30 GMT</pubDate>
+		<lastBuildDate>Wed, 12 Jun 2024 14:15:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>Meeting Agenda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-05-30 16:30:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of Advisory Committee on Reactor Safeguards 715th Full Committee Meeting, April 30, 2024, Pages 1-207 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24150A195</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-05-29 16:23:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of Advisory Committee on Reactor Safeguards: Design-Centered Review: TerraPower Subcommittee Meeting, May 15, 2024, Pages 1-312 (OPEN)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24150A180</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-05-29 16:23:00</pubDate>
 		</item>
 	</channel>
 </rss>
