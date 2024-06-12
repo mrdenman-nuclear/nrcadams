@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 12 Jun 2024 16:17:20 GMT</pubDate>
-		<lastBuildDate>Wed, 12 Jun 2024 16:17:20 GMT</lastBuildDate>
+		<pubDate>Wed, 12 Jun 2024 17:13:55 GMT</pubDate>
+		<lastBuildDate>Wed, 12 Jun 2024 17:13:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"SRP for UMTRAP Remedial Actions Plans,Cahpter 4:Water Resources Protection."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20202E401</link>
+			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
+			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
+			<pubDate>2024-06-12 12:17:00</pubDate>
+		</item>
 		<item>
 			<title>Notation vote approving with comment SECY-98-278 re changes to requirements for environmental review for renewal of nuclear power plant operating licenses (10CFR51).</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20202E032</link>
@@ -213,13 +220,6 @@
 			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, TRANSCRIPTS, DEPOSITIONS, NARRATIVE TESTIMONY</description>
 			<author>AFFILIATION NOT ASSIGNED, SOUTHWEST RESEARCH AND INFORMATION CENTER</author>
 			<pubDate>2024-06-11 16:25:00</pubDate>
-		</item>
-		<item>
-			<title>Eastern Navajo Dine Against U Mining & Southwest Research & Info Ctr brief re radioactive air emissions at Crownpoint project.* Decision to license Crownpoint project must be reversed.With Certificate of Svc.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20199A418</link>
-			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, PLEADINGS</description>
-			<author>AFFILIATION NOT ASSIGNED, HARMON, CURRAN, SPIELBERG and EISENBERG, LLP., SOUTHWEST RESEARCH AND INFORMATION CENTER</author>
-			<pubDate>2024-06-11 16:24:00</pubDate>
 		</item>
 	</channel>
 </rss>
