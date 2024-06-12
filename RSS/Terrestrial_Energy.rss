@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 12 Jun 2024 19:13:39 GMT</pubDate>
-		<lastBuildDate>Wed, 12 Jun 2024 19:13:39 GMT</lastBuildDate>
+		<pubDate>Wed, 12 Jun 2024 21:14:35 GMT</pubDate>
+		<lastBuildDate>Wed, 12 Jun 2024 21:14:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Millstone, Unit 3, Current Facility Operating License NPF-49, Tech Specs, Revised 06/12/2024.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052720310</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-06-12 17:04:00</pubDate>
+		</item>
+		<item>
+			<title>Provides clarification & correction on two items in supplemental submittal dtd 981215,as per telcon between K Campbell of NRC & Intl U Corp on 990201.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20202J284</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>External (Affiliation Not Assigned)</author>
+			<pubDate>2024-06-12 15:36:00</pubDate>
+		</item>
+		<item>
+			<title>Rev 0 to "Radiological Assessment for Revere,PA Site."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20202H561</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>AFFILIATION NOT ASSIGNED</author>
+			<pubDate>2024-06-12 15:16:00</pubDate>
+		</item>
 		<item>
 			<title>Draft "Corrective Measures Study Rept."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20202H284</link>
@@ -199,27 +220,6 @@
 			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
 			<author>DUKE ENGINEERING and SERVICES, HANSON ENGINEERS, INC.,, ROGERS & ASSOCIATES ENGINEERING CORP.</author>
 			<pubDate>2024-06-11 18:28:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of 980123 ACRS Plant License Renewal Subcommittee meeting in Rockville,MD.Pp 1-184.W/viewgraphs.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20199E697</link>
-			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, TRANSCRIPTS, DEPOSITIONS, NARRATIVE TESTIMONY</description>
-			<author>NRC ADVISORY COMMITTEE ON REACTOR SAFEGUARDS (ACRS)</author>
-			<pubDate>2024-06-11 18:18:00</pubDate>
-		</item>
-		<item>
-			<title>"DOE Input to NRC Annual Rept to Congress re Status of Environ,Safety & Health Conditions at Paducah & Portsmouth Gaseous Diffusion Plants for FY98."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20199E355</link>
-			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>ENERGY, DEPT. OF</author>
-			<pubDate>2024-06-11 18:10:00</pubDate>
-		</item>
-		<item>
-			<title>"Radiological Survey of Inactive U-Mill Tailings at Lakeview,OR."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20199D892</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>OAK RIDGE NATIONAL LABORATORY</author>
-			<pubDate>2024-06-11 17:59:00</pubDate>
 		</item>
 	</channel>
 </rss>
