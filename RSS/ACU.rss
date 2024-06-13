@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Jun 2024 20:16:08 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Jun 2024 20:16:08 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Jun 2024 21:15:26 GMT</pubDate>
+		<lastBuildDate>Thu, 13 Jun 2024 21:15:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Summary of 990222 meeting with Westinghouse in Rockville,MD to discuss issues re Westinghouse TR WCAP-14404-P.List of attendees & copy of matl handed out at meeting encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20204C375</link>
+			<description>MEETING MINUTES & NOTES--CORRESPONDENCE, MEETING SUMMARIES-INTERNAL (NON-TRANSCRIPT)</description>
+			<author>NRC (Affiliation Not Assigned)</author>
+			<pubDate>2024-06-13 16:33:00</pubDate>
+		</item>
 		<item>
 			<title>Motion for leave to file petition to intervene past expiration of filing period,due to extraordinary events occurring after expiration of filing period.Served on 860418.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203P911</link>
@@ -213,13 +220,6 @@
 			<description>COMMISSION PAPER, TEXT-SAFETY REPORT</description>
 			<author>US ATOMIC ENERGY COMMISSION (AEC)</author>
 			<pubDate>2024-06-12 12:13:00</pubDate>
-		</item>
-		<item>
-			<title>Responds to 851218 request for addl info re 850312 application for license,including Tech/Ops Model 873 radiographic exposure cabinet sys & training & experience of individuals using cabinet.Record of 860109 telcon encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20202D907</link>
-			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, INCOMING CORRESPONDENCE</description>
-			<author>GTE LABORATORIES, INC.</author>
-			<pubDate>2024-06-12 12:02:00</pubDate>
 		</item>
 	</channel>
 </rss>

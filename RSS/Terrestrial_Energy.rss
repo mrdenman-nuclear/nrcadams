@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Jun 2024 20:16:08 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Jun 2024 20:16:08 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Jun 2024 21:15:26 GMT</pubDate>
+		<lastBuildDate>Thu, 13 Jun 2024 21:15:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Application for amend,renewing license SUB-834.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20204D397</link>
+			<description>APPLICATION,SOURCE MTL.LICENSE & AMEND/RENEWAL TO, TEXT-LICENSE APPLICATIONS & PERMITS</description>
+			<author>ARMY, DEPT. OF</author>
+			<pubDate>2024-06-13 17:00:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Staff response to Grand Canyon Trust,et al,request for hearing & petition for leave to intervene.* Opposes request for hearing (docket 40-3453) on basis of requesters failure to prove request delay excusable.With Certificate of Svc.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20204D105</link>
+			<description>INTERVENTION PETITIONS, RESPONSES & CONTENTIONS, LEGAL TRANSCRIPTS & ORDERS & PLEADINGS</description>
+			<author>NRC OFFICE OF THE GENERAL COUNSEL (OGC)</author>
+			<pubDate>2024-06-13 16:52:00</pubDate>
+		</item>
+		<item>
+			<title>Application for amend to License 34-09846-02,authorizing use of 1,500 mCi Cs-137 in AECL Gammacell 1000 irradiator to irradiate blood & blood byproducts.Fee paid.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20204D058</link>
+			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, DKT 30 MTL BYPRODUCT, TEXT-LICENSE APPLICATIONS & PERMITS</description>
+			<author>CHILDRENS HOSP. MEDICAL CENTER OF AKRON, AKRON, OH</author>
+			<pubDate>2024-06-13 16:51:00</pubDate>
+		</item>
 		<item>
 			<title>"Remedial Action Plan & Site Design For Stabilization of Inactive U Mill Tailings Site at Lakview,OR "</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203P943</link>
@@ -199,27 +220,6 @@
 			<description>REPORTS-TOPICAL (BY MANUFACTURERS-VENDORS ETC), TEXT-SAFETY REPORT</description>
 			<author>ELECTRIC POWER RESEARCH INSTITUTE</author>
 			<pubDate>2024-06-13 08:56:00</pubDate>
-		</item>
-		<item>
-			<title>Preliminary Final, "Remedial Action Plan & Site Design for Stabilization of Inactive U Mill Tailings," Vol I - Text, Appendices A-C;Vol II - appendices D & E & Vol III - App F, "Subcontract Documents."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203K169</link>
-			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
-			<author>ENERGY, DEPT. OF</author>
-			<pubDate>2024-06-13 08:56:00</pubDate>
-		</item>
-		<item>
-			<title>"BWIP Documents/Data Accessions List,June 1986."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20204J293</link>
-			<description>INDEXES, TEXT-BIBLIOGRAPHIC & CATALOGS & INDEXES</description>
-			<author>ROCKWELL INTERNATIONAL CORP.</author>
-			<pubDate>2024-06-13 08:56:00</pubDate>
-		</item>
-		<item>
-			<title>Millstone, Unit 3, Current Facility Operating License NPF-49, Tech Specs, Revised 06/12/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052720310</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-06-12 17:04:00</pubDate>
 		</item>
 	</channel>
 </rss>
