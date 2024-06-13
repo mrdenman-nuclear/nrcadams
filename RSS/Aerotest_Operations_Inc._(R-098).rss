@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Jun 2024 17:14:31 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Jun 2024 17:14:31 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Jun 2024 18:19:00 GMT</pubDate>
+		<lastBuildDate>Thu, 13 Jun 2024 18:19:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards Insp Rept 50-228/86-01 on 860716.No violation noted.Rept withheld (ref 10CFR2.790).</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203J172</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
+			<pubDate>2024-06-13 13:39:00</pubDate>
+		</item>
+		<item>
+			<title>Advises of change to telephone number as listed.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203H736</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
+			<author>AEROTEST OPERATIONS, INC.</author>
+			<pubDate>2024-06-13 13:29:00</pubDate>
+		</item>
 		<item>
 			<title>Requests fee determinations for listed emergency plans & revs to emergency plans.W/o encl.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203B461</link>
@@ -206,20 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
 			<pubDate>2024-06-05 09:49:00</pubDate>
-		</item>
-		<item>
-			<title>Requests one set of reference matl listed in encl one be furnished at least 60 days prior to OL exams scheduled for wk of 970604 to listed address.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20137L473</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC (Affiliation Not Assigned)</author>
-			<pubDate>2024-06-04 15:57:00</pubDate>
-		</item>
-		<item>
-			<title>Lists types of applications which fall under 6-month billing process,per 840620 rev to 10CFR170, "Fees for Facilities & Matls Licenses & Other Regulatory Svcs...." Bills will be issued in Dec & June.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20137J686</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
-			<pubDate>2024-06-04 15:21:00</pubDate>
 		</item>
 	</channel>
 </rss>
