@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Jun 2024 14:16:06 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Jun 2024 14:16:06 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Jun 2024 15:15:57 GMT</pubDate>
+		<lastBuildDate>Thu, 13 Jun 2024 15:15:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Embankment Design,Geotechnical Profiles," for Falls City, TX.App A also included.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203A741</link>
+			<description>ARCHIVE RECORDS, OPERATIONS SUPPORT-CALCULATIONS</description>
+			<author>MORRISON-KNUDSEN CO., INC.</author>
+			<pubDate>2024-06-13 10:13:00</pubDate>
+		</item>
+		<item>
+			<title>"UMTRAP Ambrosia Lake,New Mexico Calculations Final Design For Review," Vol IV,dtd Feb 1987.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203A744</link>
+			<description>ARCHIVE RECORDS, OPERATIONS SUPPORT-CALCULATIONS</description>
+			<author>MORRISON-KNUDSEN ENGINEERS, INC.</author>
+			<pubDate>2024-06-13 10:13:00</pubDate>
+		</item>
 		<item>
 			<title>"UMTRAP Ambrosia Lake,New Mexico Calculations Final Design For Review," Vol III,dtd Feb 1987.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203A701</link>
@@ -206,20 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
 			<author>NRC (Affiliation Not Assigned)</author>
 			<pubDate>2024-06-11 16:22:00</pubDate>
-		</item>
-		<item>
-			<title>Application for amend to License 36-15657-01,adding Items 15-A,15-B,15-C & 15-D,radiation protection plan.Fee paid. "Jim Bridger Plant Operating Procedures" encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198R096</link>
-			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, DKT 30 MTL BYPRODUCT, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>PACIFICORP (FORMERLY PACIFIC POWER and LIGHT)</author>
-			<pubDate>2024-06-11 15:12:00</pubDate>
-		</item>
-		<item>
-			<title>Safety insp on 820623 of license 43-03227-03.Insp findings: records of incoming matl radiation surveys not properly maintained.Documents not properly posted or made available in bldg M3.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198P110</link>
-			<description>SAFETY INSPECTION (FORMERLY INSPECTION FINDINGS &, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV), THIOKOL CORP.</author>
-			<pubDate>2024-06-11 14:17:00</pubDate>
 		</item>
 	</channel>
 </rss>

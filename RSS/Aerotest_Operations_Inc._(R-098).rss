@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Jun 2024 14:15:54 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Jun 2024 14:15:54 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Jun 2024 15:15:44 GMT</pubDate>
+		<lastBuildDate>Thu, 13 Jun 2024 15:15:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Requests fee determinations for listed emergency plans & revs to emergency plans.W/o encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203B461</link>
+			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
+			<pubDate>2024-06-13 10:31:00</pubDate>
+		</item>
 		<item>
 			<title>Exam Rept 50-228/OL-88-01 on 880413.Exam results:of two candidates administered test,one passed & given senior reactor operator license & one failed written exam & not granted license.Master copy of test encl.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20197F502</link>
@@ -213,13 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
 			<pubDate>2024-06-04 15:21:00</pubDate>
-		</item>
-		<item>
-			<title>Advises that presence & irradiation of explosives in reactor must be evaluated due to potential for damage to reactor. Evaluation requested establishing operating restrictions,max quantity of explosives allowed in facility & form.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20137G472</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO EDUCATIONAL INSTITUTION, OUTGOING CORRESPONDENCE</description>
-			<author>US ATOMIC ENERGY COMMISSION (AEC)</author>
-			<pubDate>2024-06-04 14:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
