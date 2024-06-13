@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Jun 2024 22:15:46 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Jun 2024 22:15:46 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Jun 2024 23:15:35 GMT</pubDate>
+		<lastBuildDate>Thu, 13 Jun 2024 23:15:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Application for amend to License 21-00607-04,authorizing JF Cherry as user of licensed matl.Fee paid.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20204J333</link>
+			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, DKT 30 MTL BYPRODUCT, TEXT-LICENSE APPLICATIONS & PERMITS</description>
+			<author>SAGINAW GENERAL HOSP., SAGINAW, MI</author>
+			<pubDate>2024-06-13 19:10:00</pubDate>
+		</item>
+		<item>
+			<title>"UMTRAP,Belfield & Bowman,ND,Calculations,Preliminary Design for Review,Vol I:Embankment Design."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20204H274</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>MORRISON-KNUDSEN ENGINEERS, INC.</author>
+			<pubDate>2024-06-13 18:43:00</pubDate>
+		</item>
 		<item>
 			<title>"Industrial Radiography Program."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20204F318</link>
@@ -206,20 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, INCOMING CORRESPONDENCE</description>
 			<author>MALLINCKRODT INSTITUTE OF RADIOLOGY AT WASHINGTON</author>
 			<pubDate>2024-06-12 15:01:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards NECR tailings impoundment weekly rept for 800518-24 to ensure compliance w/NM Environ Improvement Division ltrs dtd 791023 & 31 & NRC order dtd 791026.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20202G766</link>
-			<description>CORRESPONDENCE-LETTERS, EXTERNAL CORRESPONDENCE</description>
-			<author>UNITED NUCLEAR CORP. (SUBS. OF UNC, INC.)</author>
-			<pubDate>2024-06-12 14:50:00</pubDate>
-		</item>
-		<item>
-			<title>Voided matls licensing action for license 29-01022-10 for Department of Army.Control:123816.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20202F697</link>
-			<description>DKT 30 MTL BYPRODUCT, INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I)</author>
-			<pubDate>2024-06-12 14:17:00</pubDate>
 		</item>
 	</channel>
 </rss>

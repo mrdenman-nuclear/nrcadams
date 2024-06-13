@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Jun 2024 22:15:46 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Jun 2024 22:15:46 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Jun 2024 23:15:35 GMT</pubDate>
+		<lastBuildDate>Thu, 13 Jun 2024 23:15:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Assessment of Risk from U Mining in Virginia."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20204G888</link>
+			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>SENES CONSULTANTS, LTD.</author>
+			<pubDate>2024-06-13 18:32:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards finished copy of latest suggested state regulation from Conference for Radiation Control Program Directors. Part N - Regulation & licensing of Technologically Enhanced Naturally Occurring Radioactive Matl adopted on 981014.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20204G013</link>
@@ -213,13 +220,6 @@
 			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
 			<author>NORTHEAST UTILITIES</author>
 			<pubDate>2024-06-13 10:49:00</pubDate>
-		</item>
-		<item>
-			<title>Applies for review & approval of topical rept, "Steam Generator Replacement." Rept will introduce Kraftwerk Union steam generators w/specific matl & design features. Supporting documentation encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203A981</link>
-			<description>CORRESPONDENCE-LETTERS, ENGINEERING/CONSTRUCTION/CONSULTING FIRM TO NRC, INCOMING CORRESPONDENCE</description>
-			<author>UTILITY POWER CORP.</author>
-			<pubDate>2024-06-13 10:20:00</pubDate>
 		</item>
 	</channel>
 </rss>
