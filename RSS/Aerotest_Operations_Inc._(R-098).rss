@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Jun 2024 19:12:53 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Jun 2024 19:12:53 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Jun 2024 20:15:51 GMT</pubDate>
+		<lastBuildDate>Thu, 13 Jun 2024 20:15:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Advises of change in telephone number.Telephone company will intercept calls dialed to old number & give correct number. Referral svc will be terminated within next few months.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20204A527</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
+			<author>AEROTEST OPERATIONS, INC.</author>
+			<pubDate>2024-06-13 15:58:00</pubDate>
+		</item>
 		<item>
 			<title>Advises of telephone number change,per Pacific Bell Telephone Co requirements.New number provided.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203K926</link>
@@ -213,13 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
 			<author>AEROTEST OPERATIONS, INC.</author>
 			<pubDate>2024-06-06 17:22:00</pubDate>
-		</item>
-		<item>
-			<title>Informs that operator licensing exams rescheduled to the wk of 880411 instead of 880322-23.Exam contracted to EG&G Idaho,Inc.Ref matl should be received by EG&G no later than 880311.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20147C220</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-06-05 16:54:00</pubDate>
 		</item>
 	</channel>
 </rss>
