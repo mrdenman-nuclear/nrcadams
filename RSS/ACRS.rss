@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 12 Jun 2024 23:14:07 GMT</pubDate>
-		<lastBuildDate>Wed, 12 Jun 2024 23:14:07 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Jun 2024 14:15:56 GMT</pubDate>
+		<lastBuildDate>Thu, 13 Jun 2024 14:15:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Revised Agenda - 717th ACRS Full Committee Meeting - July 10-12 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24162A001</link>
+			<description>Meeting Agenda</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2024-06-13 08:35:00</pubDate>
+		</item>
 		<item>
 			<title>Agenda - ACRS Kairos SC Meeting on Hermes 2 CP - SC - June 26, 2024</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24162A164</link>
@@ -24,13 +31,6 @@
 			<description>Meeting Agenda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-06-04 14:24:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - Status of Completed and Ongoing DI&C Regulatory Activities - SC - June 27, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24151A570</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-05-30 16:30:00</pubDate>
 		</item>
 	</channel>
 </rss>

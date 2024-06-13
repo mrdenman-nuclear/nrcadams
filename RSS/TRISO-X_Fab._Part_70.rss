@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 12 Jun 2024 23:14:04 GMT</pubDate>
-		<lastBuildDate>Wed, 12 Jun 2024 23:14:04 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Jun 2024 14:15:38 GMT</pubDate>
+		<lastBuildDate>Thu, 13 Jun 2024 14:15:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>06/17/2024 Overview of the TRISO-X Dashboards, Potential Updates to the Schedule and the High Impact Technical Items, and a Continued Discussion on the Management Measures Programmatic RAI Supplement</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24165A109</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2024-06-13 10:05:00</pubDate>
+		</item>
 		<item>
 			<title>06/27/2024 Call between the NRC and TRISO-X staff to discuss draft responses to the requests for additional information related to the structural building risk category.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24163A332</link>
@@ -24,13 +31,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
 			<pubDate>2024-06-10 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>06/17/2024 Overview of the TRISO-X Dashboards, Potential Updates to the Schedule and the High Impact Technical Items, and a Continued Discussion on the Management Measures Programmatic RAI Supplement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24155A251</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-06-03 16:36:00</pubDate>
 		</item>
 	</channel>
 </rss>
