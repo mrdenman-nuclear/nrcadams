@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Jun 2024 18:19:19 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Jun 2024 18:19:19 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Jun 2024 19:13:10 GMT</pubDate>
+		<lastBuildDate>Thu, 13 Jun 2024 19:13:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Radiation Protection Program Manual."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203M978</link>
+			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
+			<author>R.M. WESTER and ASSOCIATES,INC.</author>
+			<pubDate>2024-06-13 15:07:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards author preceptor statement,per request.Expeditious processing of application for license requested.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203M717</link>
+			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, INCOMING CORRESPONDENCE</description>
+			<author>BECKLEY RADIOLOGY ASSOCIATES, BECKLEY, WV</author>
+			<pubDate>2024-06-13 15:00:00</pubDate>
+		</item>
 		<item>
 			<title>"UMTRA Project Ambrosia Lake Info to Bidders Volume V,June 1988 Riprap Borrow Source."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203K270</link>
@@ -206,20 +220,6 @@
 			<description>ARCHIVE RECORDS, PACKAGE OF NONCODED MATERIAL</description>
 			<author>CODE SERVICES, INC.</author>
 			<pubDate>2024-06-12 11:04:00</pubDate>
-		</item>
-		<item>
-			<title>Insp repts 50-245/97-203,50-336/97-203 & 50-423/97-203 on 970722-1001.Violations noted.Major areas inspected:maint, engineering,plant support & conduct of operations.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20202C236</link>
-			<description>INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I)</author>
-			<pubDate>2024-06-12 11:01:00</pubDate>
-		</item>
-		<item>
-			<title>Calculations,revised final design review,Vol I-IV for "U Mill Tailings Remedial Action Project,Falls City,TX."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20202B532</link>
-			<description>ARCHIVE RECORDS, OPERATIONS SUPPORT-CALCULATIONS</description>
-			<author>MK-FERGUSON CO.</author>
-			<pubDate>2024-06-12 10:39:00</pubDate>
 		</item>
 	</channel>
 </rss>

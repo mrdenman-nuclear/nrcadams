@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Jun 2024 18:19:00 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Jun 2024 18:19:00 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Jun 2024 19:12:53 GMT</pubDate>
+		<lastBuildDate>Thu, 13 Jun 2024 19:12:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Advises of telephone number change,per Pacific Bell Telephone Co requirements.New number provided.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203K926</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
+			<author>AEROTEST OPERATIONS, INC.</author>
+			<pubDate>2024-06-13 14:27:00</pubDate>
+		</item>
+		<item>
+			<title>Advises of telephone number change,per Pacific Bell Telephone Co requirements.New number provided.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203K872</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
+			<author>AEROTEST OPERATIONS, INC.</author>
+			<pubDate>2024-06-13 14:25:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards Insp Rept 50-228/86-01 on 860716.No violation noted.Rept withheld (ref 10CFR2.790).</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203J172</link>
@@ -206,20 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
 			<pubDate>2024-06-05 16:54:00</pubDate>
-		</item>
-		<item>
-			<title>PNO-V-86-014:on 860331,earthquake w/magnitude of 5.3 on Richter Scale occurred approx 10 miles east of Fremont,CA.No damage observed at research reactor facilities.Rancho Seco did not feel effects of earthquake.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20141A048</link>
-			<description>PRELIMINARY NOTIFICATION OF EVENT OR OCCURRENCE (PNO,, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-06-05 10:56:00</pubDate>
-		</item>
-		<item>
-			<title>Advises of NRR reorganization.Telephone number of J Dosa changed.D Tondi new section leader for Nonpower Reactors & Safeguards Licensing Section.Correspondence should be addressed to NRC,attention Document Control Desk.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20140F120</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
-			<pubDate>2024-06-05 09:49:00</pubDate>
 		</item>
 	</channel>
 </rss>
