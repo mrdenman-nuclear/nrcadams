@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Jun 2024 21:15:26 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Jun 2024 21:15:26 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Jun 2024 22:15:46 GMT</pubDate>
+		<lastBuildDate>Thu, 13 Jun 2024 22:15:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Industrial Radiography Program."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20204F318</link>
+			<description>DKT 30 MTL BYPRODUCT, TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
+			<author>MATERIAL TESTING LABORATORIES, INC. (FORMERLY MATERIA</author>
+			<pubDate>2024-06-13 17:52:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards application for amend of Source Matl License SMB-141.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20204E228</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>ARMY, DEPT. OF</author>
+			<pubDate>2024-06-13 17:26:00</pubDate>
+		</item>
 		<item>
 			<title>Summary of 990222 meeting with Westinghouse in Rockville,MD to discuss issues re Westinghouse TR WCAP-14404-P.List of attendees & copy of matl handed out at meeting encl.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20204C375</link>
@@ -206,20 +220,6 @@
 			<description>DKT 30 MTL BYPRODUCT, INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I)</author>
 			<pubDate>2024-06-12 14:17:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards petitions for formal public hearing re DES for reactor decommissioning.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20202F572</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, PUBLIC ENTITY/CITIZEN/ORGANIZATION/MEDIA TO NRC</description>
-			<author>ACORN ALLIANCE</author>
-			<pubDate>2024-06-12 14:15:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards AEC staff draft response to arguments stated in EPA memorandum to President,for consents or comments.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20202E245</link>
-			<description>COMMISSION PAPER, TEXT-SAFETY REPORT</description>
-			<author>US ATOMIC ENERGY COMMISSION (AEC)</author>
-			<pubDate>2024-06-12 12:13:00</pubDate>
 		</item>
 	</channel>
 </rss>

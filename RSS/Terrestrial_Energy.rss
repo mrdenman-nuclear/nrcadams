@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Jun 2024 21:15:26 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Jun 2024 21:15:26 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Jun 2024 22:15:46 GMT</pubDate>
+		<lastBuildDate>Thu, 13 Jun 2024 22:15:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards finished copy of latest suggested state regulation from Conference for Radiation Control Program Directors. Part N - Regulation & licensing of Technologically Enhanced Naturally Occurring Radioactive Matl adopted on 981014.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20204G013</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>CONFERENCE OF RADIATION CONTROL PROGRAM DIRECTORS,</author>
+			<pubDate>2024-06-13 18:09:00</pubDate>
+		</item>
+		<item>
+			<title>"Nuclear Industry 1968."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20204F855</link>
+			<description>NRC TECHNICAL REPORT, TEXT-SAFETY REPORT</description>
+			<author>US ATOMIC ENERGY COMMISSION (AEC)</author>
+			<pubDate>2024-06-13 18:04:00</pubDate>
+		</item>
+		<item>
+			<title>"The Nuclear Industry 1969."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20204F233</link>
+			<description>NRC TECHNICAL REPORT, TEXT-SAFETY REPORT</description>
+			<author>US ATOMIC ENERGY COMMISSION (AEC)</author>
+			<pubDate>2024-06-13 17:49:00</pubDate>
+		</item>
 		<item>
 			<title>Application for amend,renewing license SUB-834.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20204D397</link>
@@ -199,27 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, ENGINEERING/CONSTRUCTION/CONSULTING FIRM TO NRC, INCOMING CORRESPONDENCE</description>
 			<author>UTILITY POWER CORP.</author>
 			<pubDate>2024-06-13 10:20:00</pubDate>
-		</item>
-		<item>
-			<title>Comment on NUREG-1569, "Draft Std Review Plan for In Situ U Extraction License Applicants." Draft believed to be far from being uniformed,focused document that will assist applicants to prepare license applications.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203A362</link>
-			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, PUBLIC COMMENTS ON PROPOSED RULES & PETITIONS FOR</description>
-			<author>AFFILIATION NOT ASSIGNED</author>
-			<pubDate>2024-06-13 10:02:00</pubDate>
-		</item>
-		<item>
-			<title>Environ rept for docket 7003095 for receipt,possession & transfer of SNM at Envirocare of UT,Inc,Clive,UT,Vols 1-5.W/ oversize drawings.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20202J668</link>
-			<description>ENVIRONMENTAL REPORT, ALL VERSIONS, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>ENVIROCARE OF UTAH, INC.</author>
-			<pubDate>2024-06-13 08:56:00</pubDate>
-		</item>
-		<item>
-			<title>"Alternative Approaches to Assessing Performance & Suitability of Yucca Mountain for Spent Fuel Disposal," final rept.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203B304</link>
-			<description>REPORTS-TOPICAL (BY MANUFACTURERS-VENDORS ETC), TEXT-SAFETY REPORT</description>
-			<author>ELECTRIC POWER RESEARCH INSTITUTE</author>
-			<pubDate>2024-06-13 08:56:00</pubDate>
 		</item>
 	</channel>
 </rss>
