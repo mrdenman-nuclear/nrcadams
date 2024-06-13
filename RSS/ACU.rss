@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Jun 2024 16:18:56 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Jun 2024 16:18:56 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Jun 2024 17:14:56 GMT</pubDate>
+		<lastBuildDate>Thu, 13 Jun 2024 17:14:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Action Plan Monthly Progress Rept," Dec 1993.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203H062</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>NORTHEAST UTILITIES</author>
+			<pubDate>2024-06-13 13:08:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards event rept RI-98-101 re misadministration at Rhode Island Hosp on 971231.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203F338</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>RHODE ISLAND, STATE OF</author>
+			<pubDate>2024-06-13 12:24:00</pubDate>
+		</item>
 		<item>
 			<title>Special Study, "Operating Experience Feedback for Svc Water Sys Failures & Degradations 1986-1995."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203D888</link>
@@ -206,20 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
 			<author>PETER BENT BRIGHAM HOSP., BOSTON, MA</author>
 			<pubDate>2024-06-11 19:06:00</pubDate>
-		</item>
-		<item>
-			<title>Voided matls licensing action for license 13-08615-04 for St Elizabeth Medical Ctr.Control:303145.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20199D130</link>
-			<description>DKT 30 MTL BYPRODUCT, INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION III)</author>
-			<pubDate>2024-06-11 17:33:00</pubDate>
-		</item>
-		<item>
-			<title>Requests addl fee for 860213 application for amend to License 47-06067-03.Fee required prior to issuance of amend.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20199C518</link>
-			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
-			<pubDate>2024-06-11 17:18:00</pubDate>
 		</item>
 	</channel>
 </rss>
