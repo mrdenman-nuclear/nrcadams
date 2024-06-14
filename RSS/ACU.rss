@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 14 Jun 2024 21:26:21 GMT</pubDate>
-		<lastBuildDate>Fri, 14 Jun 2024 21:26:21 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Jun 2024 22:14:56 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Jun 2024 22:14:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Mod 5,changing billing address as listed,to "Radiation Monitoring Program Requirements."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20206N110</link>
+			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
+			<author>NEW HAMPSHIRE, STATE OF, NRC OFFICE OF ADMINISTRATION (ADM)</author>
+			<pubDate>2024-06-14 18:00:00</pubDate>
+		</item>
+		<item>
+			<title>Mod 2,changing billing address due to NRC reorganization,to "Review of Severe Accident Risk Reduction Program Containment Event Tree Methodology & Results."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20206M737</link>
+			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
+			<author>NRC OFFICE OF ADMINISTRATION (ADM), WISCONSIN, UNIV. OF, MADISON, WI</author>
+			<pubDate>2024-06-14 17:52:00</pubDate>
+		</item>
+		<item>
+			<title>Notification of contract execution,Mod 1,to "Evaluation of Uncertainties in Irradiated Hardware Characterization." Contractor:Waste Mgt Group,Inc.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20206L802</link>
+			<description>NOTIFICATION OF CONTRACT EXECUTION, TEXT-PROCUREMENT & CONTRACTS</description>
+			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
+			<pubDate>2024-06-14 17:27:00</pubDate>
+		</item>
 		<item>
 			<title>Mod 5,changing contract billing address due to NRC reorganization,to "Partial Support of Geological Sciences Board."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20206K624</link>
@@ -199,27 +220,6 @@
 			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
 			<author>GENERAL ELECTRIC CO.</author>
 			<pubDate>2024-06-14 12:01:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Staff response to questions by Presiding Officer in form of affidavit by H Peterson.* Forwards answers to questions directed to Staff,attached to 990319 order.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20205P330</link>
-			<description>AFFIDAVITS, LEGAL TRANSCRIPTS & ORDERS & PLEADINGS</description>
-			<author>AFFILIATION NOT ASSIGNED</author>
-			<pubDate>2024-06-14 11:45:00</pubDate>
-		</item>
-		<item>
-			<title>"Insp Plan for GE,San Jose,CA,860714-18." NRC lists of required GE documents,insp rept drafts & related documentation encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20205N755</link>
-			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
-			<author>NRC</author>
-			<pubDate>2024-06-14 11:31:00</pubDate>
-		</item>
-		<item>
-			<title>Organization & Policy Guide Policy 30.5, "Employees Outside Business Interests." S Milam work records & related documentation encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20205N655</link>
-			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
-			<author>GENERAL ELECTRIC CO.</author>
-			<pubDate>2024-06-14 11:28:00</pubDate>
 		</item>
 	</channel>
 </rss>
