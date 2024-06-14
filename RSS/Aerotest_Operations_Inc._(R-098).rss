@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 14 Jun 2024 22:14:45 GMT</pubDate>
-		<lastBuildDate>Fri, 14 Jun 2024 22:14:45 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Jun 2024 23:14:24 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Jun 2024 23:14:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Responds to violations noted in insp of license R-98. Corrective actions:reviewed applicable portions of 10CFR & 49CFR re shipment of dangerous goods & registered cognizant personnel in seminars on shipment of radioactive matls.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20206P185</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>AEROTEST OPERATIONS, INC.</author>
+			<pubDate>2024-06-14 18:26:00</pubDate>
+		</item>
 		<item>
 			<title>Informs that two items re control room as emergency support ctr & alternate assembly area used only in case of fire not addressed in 870121 emergency plan,per 840914 telcon. Response requested within 60 days of ltr date.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20205R224</link>
@@ -213,13 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
 			<author>NRC (Affiliation Not Assigned)</author>
 			<pubDate>2024-06-06 18:06:00</pubDate>
-		</item>
-		<item>
-			<title>"Annual Summary of Changes,Tests & Experiments Performed at Aerotest Radiography & Research Reactor (ARRR)," for period of 960701-970630.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20149A716</link>
-			<description>ANNUAL OPERATING REPORT, TEXT-SAFETY REPORT</description>
-			<author>AEROTEST OPERATIONS, INC.</author>
-			<pubDate>2024-06-06 17:22:00</pubDate>
 		</item>
 	</channel>
 </rss>
