@@ -5,18 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Jun 2024 23:15:01 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Jun 2024 23:15:01 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Jun 2024 21:26:06 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Jun 2024 21:26:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>06/25/2024 Pre-submittal meeting with Kairos Power on the Hermes Test Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24165A267</link>
+			<title>06/27/2024 Meeting with X-energy pertaining to Project Long Mott</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24166A107</link>
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
-			<pubDate>2024-06-13 15:47:00</pubDate>
+			<pubDate>2024-06-14 12:03:00</pubDate>
+		</item>
+		<item>
+			<title>Kemmerer Power Station Unit 1 CP Review - Notice of Intent to Conduct Scoping Process and Prepare an Environmental Impact Statement</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24109A275</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DREFS/ENRB</author>
+			<pubDate>2024-06-14 10:46:00</pubDate>
+		</item>
+		<item>
+			<title>06/25/2024 Pre-submittal meeting with Kairos Power on the Hermes Test Reactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24166A033</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-06-14 08:42:00</pubDate>
 		</item>
 		<item>
 			<title>6-17-24 Slides Meeting to Discuss an Overview of the TRISO-X License Application Review Status</title>
@@ -178,20 +192,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2024-06-10 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>March 22, 2024 Westinghouse Electric Company AP300 Pre-Application Meeting Summary on I&C Concept of Operations Public Meeting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24124A180</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-06-07 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Affidavit AW-24-032</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24151A209</link>
-			<description>Legal-Affidavit</description>
-			<author>Westinghouse Electric Co</author>
-			<pubDate>2024-06-07 08:36:00</pubDate>
 		</item>
 	</channel>
 </rss>

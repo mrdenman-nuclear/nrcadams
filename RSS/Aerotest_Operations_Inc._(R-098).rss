@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Jun 2024 23:15:19 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Jun 2024 23:15:19 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Jun 2024 21:26:10 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Jun 2024 21:26:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Informs that two items re control room as emergency support ctr & alternate assembly area used only in case of fire not addressed in 870121 emergency plan,per 840914 telcon. Response requested within 60 days of ltr date.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20205R224</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
+			<pubDate>2024-06-14 12:25:00</pubDate>
+		</item>
 		<item>
 			<title>Advises of change in telephone number.Telephone company will intercept calls dialed to old number & give correct number. Referral svc will be terminated within next few months.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20204A527</link>
@@ -211,13 +218,6 @@
 			<title>"Annual Summary of Changes,Tests & Experiments Performed at Aerotest Radiography & Research Reactor (ARRR)," for period of 960701-970630.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20149A716</link>
 			<description>ANNUAL OPERATING REPORT, TEXT-SAFETY REPORT</description>
-			<author>AEROTEST OPERATIONS, INC.</author>
-			<pubDate>2024-06-06 17:22:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards "Annual Summary of Changes,Tests & Experiments Performed at Aerotest Radiography & Research Reactor (ARRR)." Summary forms of monthly operations & unscheduled power reductions included.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20149A707</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
 			<author>AEROTEST OPERATIONS, INC.</author>
 			<pubDate>2024-06-06 17:22:00</pubDate>
 		</item>

@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Jun 2024 23:15:35 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Jun 2024 23:15:35 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Jun 2024 21:26:21 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Jun 2024 21:26:21 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Trip rept of 990323-25 visit to Strasbourg,France re results,applications & future directions of natural analogue studies.Abstracts & list of attendees available from authors.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20206H331</link>
+			<description>MEETING MINUTES & NOTES--CORRESPONDENCE, TRIP REPORTS</description>
+			<author>CENTER FOR NUCLEAR WASTE REGULATORY ANALYSES</author>
+			<pubDate>2024-06-14 16:16:00</pubDate>
+		</item>
+		<item>
+			<title>"U-233 Waste Definition:Disposal Options,Safeguards, Criticality Control & Arms Control."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20206G806</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>IDAHO NATIONAL ENGINEERING and ENVIRONMENTAL LABORATORY, OAK RIDGE NATIONAL LABORATORY</author>
+			<pubDate>2024-06-14 16:04:00</pubDate>
+		</item>
+		<item>
+			<title>Rev 1 to "Issue Resolution Status Rept,Key Technical Issue: Evolution of Near-Field Environ."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20206E711</link>
+			<description>NRC TECHNICAL REPORT, TEXT-SAFETY REPORT</description>
+			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
+			<pubDate>2024-06-14 15:13:00</pubDate>
+		</item>
 		<item>
 			<title>Trip rept of 970928-1010 visit to Switzerland for 21st Intl Symposium Basis for Nuclear Waste Mgt re informal meeting on maqarin natural analogue project & visit to Universitat Bern.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203K189</link>
@@ -157,20 +178,6 @@
 			<description>MEETING MINUTES & NOTES--CORRESPONDENCE, MEETING SUMMARIES-INTERNAL (NON-TRANSCRIPT)</description>
 			<author>NRC ADVISORY COMMITTEE ON NUCLEAR WASTE (ACNW)</author>
 			<pubDate>2024-06-03 12:32:00</pubDate>
-		</item>
-		<item>
-			<title>Documents re faxed info from Price to Faraz & computer printouts re West Valley Water.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128L314</link>
-			<description>ARCHIVE RECORDS, PACKAGE OF NONCODED MATERIAL</description>
-			<author>SCIENCE APPLICATIONS INTERNATIONAL CORP. (FORMERLY</author>
-			<pubDate>2024-05-31 13:21:00</pubDate>
-		</item>
-		<item>
-			<title>Speech entitled, "Natural Analogues & Validation of Performance Assessment Models."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20128H611</link>
-			<description>CONFERENCE & WORKSHOP PAPERS/PROCEEDINGS/ABSTRACTS, RESEARCH AND TECHNICAL ASSISTANCE REPORTS, TEXT-SAFETY REPORT</description>
-			<author>NRC OFFICE OF NUCLEAR REGULATORY RESEARCH (RES)</author>
-			<pubDate>2024-05-31 10:46:00</pubDate>
 		</item>
 	</channel>
 </rss>

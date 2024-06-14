@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Jun 2024 23:15:19 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Jun 2024 23:15:19 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Jun 2024 21:26:10 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Jun 2024 21:26:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>University of California-Davis McClellan Nuclear Research Center - 2023 Annual Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24143A143</link>
-			<description>Annual Operating Report</description>
-			<author>Univ of California - Davis</author>
-			<pubDate>2024-05-31 09:09:00</pubDate>
-		</item>
-		<item>
-			<title>University of California-Davis McClellan Nuclear Research Center - 2023 Annual Report (Cover Letter)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24143A142</link>
-			<description>Letter</description>
-			<author>Univ of California - Davis</author>
-			<pubDate>2024-05-31 09:09:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

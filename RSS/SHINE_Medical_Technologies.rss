@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Jun 2024 23:15:35 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Jun 2024 23:15:35 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Jun 2024 21:26:21 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Jun 2024 21:26:21 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>EDO control of rulemaking package re proposed rule, "Emergency Preparedness for Fuel Cycle & Other Radioactive Matl Licensees." Continuation of rulemaking approved.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20206E990</link>
+			<description>ARCHIVE RECORDS, PACKAGE OF NONCODED MATERIAL</description>
+			<author>NRC OFFICE OF THE EXECUTIVE DIRECTOR FOR OPERATIONS (EDO)</author>
+			<pubDate>2024-06-14 15:22:00</pubDate>
+		</item>
+		<item>
+			<title>Notifies of 860509 meeting at OECD headquarters re possible impact on OECD countries of reactor accident in USSR. Proposed topics listed.Related documentation encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20205N736</link>
+			<description>CORRESPONDENCE-LETTERS, FOREIGN GOVERNMENT/AGENCY TO NRC, INCOMING CORRESPONDENCE</description>
+			<author>ORGANIZATION FOR ECONOMIC COOPERATION and DEVELOPMENT</author>
+			<pubDate>2024-06-14 11:30:00</pubDate>
+		</item>
 		<item>
 			<title>Rev 7 to WVNS-SAR-003, "SAR for Vitrification Sys Operations & High-Level Waste Interim Storage."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20209E542</link>
@@ -115,27 +129,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
 			<author>ADVANCED MEDICAL SYSTEMS, INC.</author>
 			<pubDate>2024-06-03 23:04:00</pubDate>
-		</item>
-		<item>
-			<title>Review of Advanced Manufacturing Technologies for Fusion Reactor Materials</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24137A055</link>
-			<description>Technical Paper</description>
-			<author>NRC/RES/DE</author>
-			<pubDate>2024-05-31 09:09:00</pubDate>
-		</item>
-		<item>
-			<title>Provides Commission w/info about status of national medical use program,re prevention of serious radiation injury or death caused by medical misadministration & current activities related to aspect of regulatory program.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20127H497</link>
-			<description>COMMISSION PAPER, TEXT-SAFETY REPORT</description>
-			<author>NRC OFFICE OF THE EXECUTIVE DIRECTOR FOR OPERATIONS (EDO)</author>
-			<pubDate>2024-05-31 05:57:00</pubDate>
-		</item>
-		<item>
-			<title>Informs of NRC activities related to decommissioning of site located in RI.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20126K993</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC COMMISSION (OCM)</author>
-			<pubDate>2024-05-31 02:36:00</pubDate>
 		</item>
 	</channel>
 </rss>
