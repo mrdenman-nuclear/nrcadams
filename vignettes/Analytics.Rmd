@@ -139,7 +139,7 @@ plt = grouped_dockets |>
   ggplot() +
     geom_step(aes(x = `Publish Date`, y = `Document Count`, color = Project)) +
     theme_bw() +
-    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) +
     labs(
       title = "Advanced Reactor ADAMS Documents",
       subtitle =  paste("as of", Sys.Date())
