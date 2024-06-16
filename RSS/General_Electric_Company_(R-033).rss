@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 14 Jun 2024 23:14:24 GMT</pubDate>
-		<lastBuildDate>Fri, 14 Jun 2024 23:14:24 GMT</lastBuildDate>
+		<pubDate>Sun, 16 Jun 2024 23:32:37 GMT</pubDate>
+		<lastBuildDate>Sun, 16 Jun 2024 23:32:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"GE 1985 Annual Rept." W/860321 ltr.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210D722</link>
+			<description>ANNUAL REPORTS (COMPANY-FINANCIAL), TEXT-SAFETY REPORT</description>
+			<author>GENERAL ELECTRIC CO.</author>
+			<pubDate>2024-06-15 08:31:00</pubDate>
+		</item>
 		<item>
 			<title>Comment opposing proposed rules 10CFR170 & 171 re insp & annual fees for FY 1999.GE requests NRC reconsider application of proposed fee structure to VBWR,in possession only status with no spent fuel stored on-site.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20206D316</link>
@@ -40,16 +47,16 @@
 			<pubDate>2024-06-11 10:29:00</pubDate>
 		</item>
 		<item>
-			<title>Forwards insp repts 50-070/99-301,50-073/99-201 & 50-183/99-201 on 990607-10.No safety concern or noncompliance to NRC requirements was identified.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20196K392</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
+			<title>Insp repts 50-070/99-201,50-073/99-201 & 50-183/99-201 on 990607-10.No violations noted.Major areas inspected: operation program,organizational structure & functions program.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20196K408</link>
+			<description>INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
 			<author>NRC (Affiliation Not Assigned)</author>
 			<pubDate>2024-06-11 01:52:00</pubDate>
 		</item>
 		<item>
-			<title>Insp repts 50-070/99-201,50-073/99-201 & 50-183/99-201 on 990607-10.No violations noted.Major areas inspected: operation program,organizational structure & functions program.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20196K408</link>
-			<description>INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
+			<title>Forwards insp repts 50-070/99-301,50-073/99-201 & 50-183/99-201 on 990607-10.No safety concern or noncompliance to NRC requirements was identified.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20196K392</link>
+			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
 			<author>NRC (Affiliation Not Assigned)</author>
 			<pubDate>2024-06-11 01:52:00</pubDate>
 		</item>
@@ -152,13 +159,6 @@
 			<pubDate>2024-06-04 14:30:00</pubDate>
 		</item>
 		<item>
-			<title>Notice of violation from insp on 850812-15.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20133H438</link>
-			<description>NOTICE OF VIOLATION OF A REGULATION, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-06-03 18:35:00</pubDate>
-		</item>
-		<item>
 			<title>Forwards Insp Repts 50-070/85-01 & 50-073/85-02 on 850812-15 & notice of violation.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20133H433</link>
 			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
@@ -169,6 +169,13 @@
 			<title>Insp Repts 50-070/85-01 & 50-073/85-02 on 850812-15. Violation noted:failure to conspicuously post radiation area.Unresolved item involving nuclear test reactor licensed operator activities identified.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20133H441</link>
 			<description>INSPECTION REPORT, MANUFACTURER/VENDOR/ENGINEER, INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
+			<pubDate>2024-06-03 18:35:00</pubDate>
+		</item>
+		<item>
+			<title>Notice of violation from insp on 850812-15.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20133H438</link>
+			<description>NOTICE OF VIOLATION OF A REGULATION, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
 			<pubDate>2024-06-03 18:35:00</pubDate>
 		</item>
