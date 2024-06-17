@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 17 Jun 2024 20:13:33 GMT</pubDate>
-		<lastBuildDate>Mon, 17 Jun 2024 20:13:33 GMT</lastBuildDate>
+		<pubDate>Mon, 17 Jun 2024 21:14:44 GMT</pubDate>
+		<lastBuildDate>Mon, 17 Jun 2024 21:14:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Mod 107 to contract NRC-02-97-009.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20211A386</link>
+			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
+			<author>NRC OFFICE OF ADMINISTRATION (ADM), SOUTHWEST RESEARCH INSTITUTE</author>
+			<pubDate>2024-06-17 16:37:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards application for export license XNSM-3005,for export of low-enriched U,in form of UO2 to Japan for use as reload fuel in Fukushima I,Units 2-5.Assurances from Japan required that matl will be subject to all terms & conditions.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20211A052</link>
+			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF INTERNATIONAL PROGRAMS (OIP)</author>
+			<pubDate>2024-06-17 16:29:00</pubDate>
+		</item>
 		<item>
 			<title>"Discharger Self-Monitoring Rept for Jan 1987."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210U151</link>
@@ -206,20 +220,6 @@
 			<description>REPORTS-TOPICAL (BY MANUFACTURERS-VENDORS ETC), TEXT-SAFETY REPORT</description>
 			<author>ABB COMBUSTION ENGINEERING NUCLEAR FUEL (FORMERLY</author>
 			<pubDate>2024-06-15 07:59:00</pubDate>
-		</item>
-		<item>
-			<title>"Compliance Plan Status Rept," covering period 990101-0630."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210B977</link>
-			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
-			<author>UNITED STATES ENRICHMENT CORP. (USEC)</author>
-			<pubDate>2024-06-15 07:54:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards listed technical info in support of util responses to technical questions by NRC re SEP Topic III-6, "Seismic Design Considerations," from 1986/87 meetings.Meeting viewgraphs encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210B510</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, UTILITY TO NRC</description>
-			<author>YANKEE ATOMIC ELECTRIC CO.</author>
-			<pubDate>2024-06-15 07:42:00</pubDate>
 		</item>
 	</channel>
 </rss>
