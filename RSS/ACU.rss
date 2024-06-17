@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 17 Jun 2024 15:16:04 GMT</pubDate>
-		<lastBuildDate>Mon, 17 Jun 2024 15:16:04 GMT</lastBuildDate>
+		<pubDate>Mon, 17 Jun 2024 16:18:05 GMT</pubDate>
+		<lastBuildDate>Mon, 17 Jun 2024 16:18:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Application for license,authorizing R&D,mfg & distribution of radiation sources & devices containing Cf-252 in Cf oxide/palladium wire or pellets for reactor startup & Co-60 for electric furnace monitors.Fee paid.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210J760</link>
+			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, TEXT-LICENSE APPLICATIONS & PERMITS</description>
+			<author>FRONTIER TECHNOLOGY CORP.</author>
+			<pubDate>2024-06-17 12:04:00</pubDate>
+		</item>
+		<item>
+			<title>Revised pages to "SAR Update." Pages 4.3-92,4.3-128 & 2.1-21 of incoming submittal not included.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210H257</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>UNITED STATES ENRICHMENT CORP. (USEC)</author>
+			<pubDate>2024-06-17 11:23:00</pubDate>
+		</item>
 		<item>
 			<title>Application for amend to License SMB-744,authorizing use of thorium.Collection & analyses of health physics samples will be performed by Applied Health Physics,Inc.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210G696</link>
@@ -206,20 +220,6 @@
 			<description>OPERATING LICENSES & AMENDMENTS, TEXT-LICENSE APPLICATIONS & PERMITS</description>
 			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
 			<pubDate>2024-06-15 04:49:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards State of WY,Dept of Environ Quality approved ltr of credit for Willow Creek R&D operation & V Bryan 870129 ltr accepting terms of ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20207T788</link>
-			<description>CORRESPONDENCE-LETTERS, ENGINEERING/CONSTRUCTION/CONSULTING FIRM TO NRC, INCOMING CORRESPONDENCE</description>
-			<author>MALAPAI RESOURCES CO.</author>
-			<pubDate>2024-06-15 03:59:00</pubDate>
-		</item>
-		<item>
-			<title>"Procedures for Leak Testing CDV-782 Training Source Set."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20207T817</link>
-			<description>DKT 30 MTL BYPRODUCT, TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
-			<author>MASSACHUSETTS, COMMONWEALTH OF</author>
-			<pubDate>2024-06-15 03:59:00</pubDate>
 		</item>
 	</channel>
 </rss>
