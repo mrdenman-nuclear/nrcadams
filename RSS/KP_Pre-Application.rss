@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Sun, 16 Jun 2024 23:32:34 GMT</pubDate>
-		<lastBuildDate>Sun, 16 Jun 2024 23:32:34 GMT</lastBuildDate>
+		<pubDate>Mon, 17 Jun 2024 14:16:29 GMT</pubDate>
+		<lastBuildDate>Mon, 17 Jun 2024 14:16:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Kairos Power, LLC</author>
 			<pubDate>2024-06-04 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power, LLC - Request for Documents Related to Non-Power Security</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24150A217</link>
-			<description>Letter</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2024-06-03 10:19:00</pubDate>
 		</item>
 	</channel>
 </rss>

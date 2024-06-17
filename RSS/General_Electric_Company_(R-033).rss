@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Sun, 16 Jun 2024 23:32:37 GMT</pubDate>
-		<lastBuildDate>Sun, 16 Jun 2024 23:32:37 GMT</lastBuildDate>
+		<pubDate>Mon, 17 Jun 2024 14:16:32 GMT</pubDate>
+		<lastBuildDate>Mon, 17 Jun 2024 14:16:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -157,34 +157,6 @@
 			<description>CORRESPONDENCE-LETTERS, NRC TO PUBLIC ENTITY/CITIZEN/ORGANIZATION/MEDIA, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
 			<pubDate>2024-06-04 14:30:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards Insp Repts 50-070/85-01 & 50-073/85-02 on 850812-15 & notice of violation.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20133H433</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-06-03 18:35:00</pubDate>
-		</item>
-		<item>
-			<title>Insp Repts 50-070/85-01 & 50-073/85-02 on 850812-15. Violation noted:failure to conspicuously post radiation area.Unresolved item involving nuclear test reactor licensed operator activities identified.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20133H441</link>
-			<description>INSPECTION REPORT, MANUFACTURER/VENDOR/ENGINEER, INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-06-03 18:35:00</pubDate>
-		</item>
-		<item>
-			<title>Notice of violation from insp on 850812-15.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20133H438</link>
-			<description>NOTICE OF VIOLATION OF A REGULATION, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-06-03 18:35:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards IE Info Notice 79-20, "NRC Enforcement Policy - NRC Licensed Individuals." No action required.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20132A949</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-06-03 13:13:00</pubDate>
 		</item>
 	</channel>
 </rss>
