@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 17 Jun 2024 16:18:05 GMT</pubDate>
-		<lastBuildDate>Mon, 17 Jun 2024 16:18:05 GMT</lastBuildDate>
+		<pubDate>Mon, 17 Jun 2024 17:14:23 GMT</pubDate>
+		<lastBuildDate>Mon, 17 Jun 2024 17:14:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards info re certificate amend request to update application SAR & identifies new commitments made in submittal.Deficiencies identified in SAR Chapter 3.Plan of action & schedule will be submitted by 971031.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210M521</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>UNITED STATES ENRICHMENT CORP. (USEC)</author>
+			<pubDate>2024-06-17 13:03:00</pubDate>
+		</item>
+		<item>
+			<title>Draft "Environ Assessment of Remedial Action at Green River U Mill Tailings Site."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210L649</link>
+			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>ENERGY, DEPT. OF</author>
+			<pubDate>2024-06-17 12:51:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards DES (NUREG-1166) & notice of availability for decommissioning facility.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210K785</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO UTILITY, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
+			<pubDate>2024-06-17 12:29:00</pubDate>
+		</item>
+		<item>
+			<title>Ack receipt of e-mail on 990606 complimenting NRC for being responsive to many of concerns identified over past few years.NRR responses to questions re 990519 ltr & NUREG-BR-0241 encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210K221</link>
+			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
+			<author>NRC (Affiliation Not Assigned)</author>
+			<pubDate>2024-06-17 12:15:00</pubDate>
+		</item>
 		<item>
 			<title>Informs that NRC has not reviewed Atlas comments in detail & & thus has no position on technical merits.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210J558</link>
@@ -192,34 +220,6 @@
 			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
 			<author>NORTHEAST NUCLEAR ENERGY CO., NORTHEAST UTILITIES, NORTHEAST UTILITIES SERVICE CO.</author>
 			<pubDate>2024-06-15 07:25:00</pubDate>
-		</item>
-		<item>
-			<title>"Radiological Environ Monitoring Program Annual Radiological Environ Operating Rept,1986." W/870430 ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20209J351</link>
-			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>CONNECTICUT YANKEE ATOMIC POWER CO., NORTHEAST UTILITIES SERVICE CO.</author>
-			<pubDate>2024-06-15 07:04:00</pubDate>
-		</item>
-		<item>
-			<title>"Procedural & Technical Requirements for Siting Low Level Radwaste Disposal Facilities."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20209G990</link>
-			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>EGandG IDAHO, INC.</author>
-			<pubDate>2024-06-15 06:38:00</pubDate>
-		</item>
-		<item>
-			<title>"Feasibility of Establishing 'De Minimis' Level of Radiation Dose & Regulatory Cutoff Policy for Nuclear Regulation."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20209G343</link>
-			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>GENERAL PHYSICS CORP.</author>
-			<pubDate>2024-06-15 06:22:00</pubDate>
-		</item>
-		<item>
-			<title>Comments on proposed rule 10CFR140 re criteria for extraordinary nuclear occurrence.Supports decision to modify Sections 140.84 & 140.85.Prefers all three options over current rule.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20209E902</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, STATE/LOCAL GOVERNMENT TO NRC</description>
-			<author>ILLINOIS, STATE OF</author>
-			<pubDate>2024-06-15 05:48:00</pubDate>
 		</item>
 	</channel>
 </rss>
