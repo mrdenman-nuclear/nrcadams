@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 17 Jun 2024 17:14:23 GMT</pubDate>
-		<lastBuildDate>Mon, 17 Jun 2024 17:14:23 GMT</lastBuildDate>
+		<pubDate>Mon, 17 Jun 2024 18:18:13 GMT</pubDate>
+		<lastBuildDate>Mon, 17 Jun 2024 18:18:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Haddam Neck Plant Post Decommissioning Activities Rept," for Aug 1997.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210P872</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>CONNECTICUT YANKEE ATOMIC POWER CO.</author>
+			<pubDate>2024-06-17 14:09:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards response to comments & recommendations from P Costner on NUREG-1189, "Assessment of Public Health Impact From Accidental Release of UF6 at Sequoyah Fuels Corp Faciliity at Gore,OK," per author 861210 ltr.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210P505</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO PUBLIC ENTITY/CITIZEN/ORGANIZATION/MEDIA, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
+			<pubDate>2024-06-17 13:58:00</pubDate>
+		</item>
+		<item>
+			<title>Transcript of 860428 evidentiary hearing in West Chicago,IL re facility decontamination.Pp 205-383.Supporting documentation encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210N567</link>
+			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, TRANSCRIPTS, DEPOSITIONS, NARRATIVE TESTIMONY</description>
+			<author>NRC ATOMIC SAFETY and LICENSING BOARD PANEL (ASLBP)</author>
+			<pubDate>2024-06-17 13:34:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards info re certificate amend request to update application SAR & identifies new commitments made in submittal.Deficiencies identified in SAR Chapter 3.Plan of action & schedule will be submitted by 971031.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210M521</link>
@@ -199,27 +220,6 @@
 			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
 			<author>BWIP ENGINEERING MANAGEMENT SYSTEMS</author>
 			<pubDate>2024-06-15 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Discusses SI Auerbach 790525 briefing before Commissioners re 1958 Soviet nuclear accident.Exhaustive critical analysis of Soviet literature warranted to resolve doubts about exact nature & consequence of accident.Related documentation encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210B980</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC ADVISORY COMMITTEE ON REACTOR SAFEGUARDS (ACRS)</author>
-			<pubDate>2024-06-15 07:54:00</pubDate>
-		</item>
-		<item>
-			<title>"Trojan Nuclear Plant Operational Environ Radiological Surveillance Program 1986 Annual Rept." W/870430 ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210A893</link>
-			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>PORTLAND GENERAL ELECTRIC CO.</author>
-			<pubDate>2024-06-15 07:29:00</pubDate>
-		</item>
-		<item>
-			<title>"Radiological Environ Monitoring Program Annual Radiological Environ Operating Rept,1986." W/870430 ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210A689</link>
-			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>NORTHEAST NUCLEAR ENERGY CO., NORTHEAST UTILITIES, NORTHEAST UTILITIES SERVICE CO.</author>
-			<pubDate>2024-06-15 07:25:00</pubDate>
 		</item>
 	</channel>
 </rss>
