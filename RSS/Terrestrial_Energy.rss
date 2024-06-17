@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 17 Jun 2024 18:18:13 GMT</pubDate>
-		<lastBuildDate>Mon, 17 Jun 2024 18:18:13 GMT</lastBuildDate>
+		<pubDate>Mon, 17 Jun 2024 19:12:45 GMT</pubDate>
+		<lastBuildDate>Mon, 17 Jun 2024 19:12:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Staff Assessment of Environ Radioactive Contamination in Vicinity of Rancho Seco Nuclear Power Plant."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210R060</link>
+			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>NRC</author>
+			<pubDate>2024-06-17 14:40:00</pubDate>
+		</item>
+		<item>
+			<title>SRM-SECY-22-0100:  Enclosure 1 - Proposed Rule Categorical Exclusions from Environmental Review</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24169A285</link>
+			<description>Commission Staff Requirements Memo (SRM)</description>
+			<author>NRC/SECY</author>
+			<pubDate>2024-06-17 14:33:00</pubDate>
+		</item>
 		<item>
 			<title>"Haddam Neck Plant Post Decommissioning Activities Rept," for Aug 1997.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210P872</link>
@@ -206,20 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
 			<pubDate>2024-06-15 08:51:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards draft rept of results of recent survey for possible contamination of environs by inactive Susquehanna Western U mill tailings pile near Riverton,WY.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210E391</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
-			<pubDate>2024-06-15 08:44:00</pubDate>
-		</item>
-		<item>
-			<title>"Documents/Data Accessions List."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210C810</link>
-			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>BWIP ENGINEERING MANAGEMENT SYSTEMS</author>
-			<pubDate>2024-06-15 08:11:00</pubDate>
 		</item>
 	</channel>
 </rss>
