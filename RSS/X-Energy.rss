@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 18 Jun 2024 18:19:53 GMT</pubDate>
-		<lastBuildDate>Tue, 18 Jun 2024 18:19:53 GMT</lastBuildDate>
+		<pubDate>Tue, 18 Jun 2024 19:13:47 GMT</pubDate>
+		<lastBuildDate>Tue, 18 Jun 2024 19:13:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Summary Report – 715th Meeting of the Advisory Committee on Reactor Safeguards, April 30 - May 2, 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24165A219</link>
+			<description>ACRS Summary Report, Letter</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2024-06-18 14:34:00</pubDate>
+		</item>
+		<item>
+			<title>"SAR for Project Overview & General Info,Vol 1," rev 5.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20217E954</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>WEST VALLEY NUCLEAR SERVICES CO., INC.</author>
+			<pubDate>2024-06-18 13:29:00</pubDate>
+		</item>
 		<item>
 			<title>Informs that NRC,with concurrence of State of UT,has chosen Dames & Moore to become trustee for Atlas Corp U mill site near Moab,UT,based primarily on 990709 transmittal & representations made therein.Copy of trust agreement encl.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20212G796</link>
@@ -206,20 +220,6 @@
 			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, RESEARCH AND TECHNICAL ASSISTANCE REPORTS, TEXT-PROCUREMENT & CONTRACTS</description>
 			<author>BROOKHAVEN NATIONAL LABORATORY</author>
 			<pubDate>2024-06-06 11:05:00</pubDate>
-		</item>
-		<item>
-			<title>"LYNXT,Core Transient Thermal-Hydraulic Program."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20141H098</link>
-			<description>REPORTS-TOPICAL (BY MANUFACTURERS-VENDORS ETC), TEXT-SAFETY REPORT</description>
-			<author>BABCOCK and WILCOX CO.</author>
-			<pubDate>2024-06-05 13:54:00</pubDate>
-		</item>
-		<item>
-			<title>Informs that NRC staff wishes to participate as party in proceeding re Energy Fuels Nuclear,Inc,if adjudicatory proceeding in fact conducted.Notices of appearance encl. W/Certificate of Svc.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20141C630</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF THE GENERAL COUNSEL (OGC)</author>
-			<pubDate>2024-06-05 12:10:00</pubDate>
 		</item>
 	</channel>
 </rss>
