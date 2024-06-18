@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 18 Jun 2024 14:16:00 GMT</pubDate>
-		<lastBuildDate>Tue, 18 Jun 2024 14:16:00 GMT</lastBuildDate>
+		<pubDate>Tue, 18 Jun 2024 15:15:29 GMT</pubDate>
+		<lastBuildDate>Tue, 18 Jun 2024 15:15:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards revised NRC Form 398.Rev reflects changes to 10CFR55 effective on 870526.Revised form requires new applications to complete each category including educ, training & experience.Changes detailed in Encl 2.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20214M663</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
+			<pubDate>2024-06-18 10:39:00</pubDate>
+		</item>
 		<item>
 			<title>Provides NRC w/correct mailing address.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20214K515</link>
@@ -213,13 +220,6 @@
 			<description>PRELIMINARY NOTIFICATION OF EVENT OR OCCURRENCE (PNO,, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
 			<pubDate>2024-06-10 16:04:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards security plan.Plan change involves storage of irradiated & unirradiated fuel.Plan withheld (ref 10CFR2.790).</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20154E267</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
-			<author>AEROTEST OPERATIONS, INC.</author>
-			<pubDate>2024-06-10 10:05:00</pubDate>
 		</item>
 	</channel>
 </rss>
