@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 18 Jun 2024 20:18:59 GMT</pubDate>
-		<lastBuildDate>Tue, 18 Jun 2024 20:18:59 GMT</lastBuildDate>
+		<pubDate>Tue, 18 Jun 2024 21:14:33 GMT</pubDate>
+		<lastBuildDate>Tue, 18 Jun 2024 21:14:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"TMI-2 Cleanup Program,Post-Defueling Monitoring Storage."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20214S448</link>
+			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
+			<author>GENERAL PUBLIC UTILITIES CORP.</author>
+			<pubDate>2024-06-18 16:41:00</pubDate>
+		</item>
 		<item>
 			<title>Rev 1 to "Suppl to Applicant Environ Rept."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20214Q725</link>
@@ -213,13 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
 			<author>AFFILIATION NOT ASSIGNED, ENVIRONMENTAL COALITION ON NUCLEAR POWER, FOOD and WATER, INC., NUCLEAR INFORMATION & RESOURCE SERVICE</author>
 			<pubDate>2024-06-18 02:51:00</pubDate>
-		</item>
-		<item>
-			<title>Decision LBP-87-8 (Authorizing Operation).* Director of NMSS authorized to issue amend to License SUB-1010 to operate facility.Questions submitted by intervenors,but not asked at hearing encl.Served on 870305.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20212K530</link>
-			<description>DECISIONS, LEGAL TRANSCRIPTS & ORDERS & PLEADINGS</description>
-			<author>NRC ATOMIC SAFETY and LICENSING BOARD PANEL (ASLBP)</author>
-			<pubDate>2024-06-18 02:43:00</pubDate>
 		</item>
 	</channel>
 </rss>
