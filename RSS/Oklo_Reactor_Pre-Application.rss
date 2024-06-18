@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 17 Jun 2024 23:15:51 GMT</pubDate>
-		<lastBuildDate>Mon, 17 Jun 2024 23:15:51 GMT</lastBuildDate>
+		<pubDate>Tue, 18 Jun 2024 14:15:45 GMT</pubDate>
+		<lastBuildDate>Tue, 18 Jun 2024 14:15:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,27 +17,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-06-06 12:14:00</pubDate>
-		</item>
-		<item>
-			<title>Cover Letter - Oklo Inc. NRC Staff Feedback and Observations on the Oklo White Paper for Pre-Application Engagement, "Development of Regulatory Controls: Shutdown Case Study."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24033A068</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-06-04 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Cover Letter - Oklo Inc. NRC Feedback Regarding Oklo White Paper on Principal Design Criteria</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24071A064</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-06-04 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - NRC feedback regarding Oklo White Paper on Principal Design Criteria</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24071A066</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-06-04 08:33:00</pubDate>
 		</item>
 	</channel>
 </rss>

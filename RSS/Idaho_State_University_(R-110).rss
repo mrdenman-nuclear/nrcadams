@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 17 Jun 2024 23:15:53 GMT</pubDate>
-		<lastBuildDate>Mon, 17 Jun 2024 23:15:53 GMT</lastBuildDate>
+		<pubDate>Tue, 18 Jun 2024 14:16:00 GMT</pubDate>
+		<lastBuildDate>Tue, 18 Jun 2024 14:16:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2024/06/04 NRR E-mail Capture - Update to NRC Review Schedule for Idaho State University (ISU) License Amendment Request (LAR)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24156A195</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2024-06-18 08:30:00</pubDate>
+		</item>
 		<item>
 			<title>Informs of relocation of NRR to Rockville,MD.Official mailing address still remains same & project managers have new locations & phone numbers.TS Michaels still lead project manager for facility & A Adams will serve as backup.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20150D864</link>
@@ -24,20 +31,6 @@
 			<description>CORRESPONDENCE-LETTERS, GENERIC LETTERS, GENERIC LETTERS & IE LETTERS TO MULTIPLE PLANTS., OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
 			<pubDate>2024-06-07 10:13:00</pubDate>
-		</item>
-		<item>
-			<title>Advises that presence & irradiation of explosives in reactor must be evaluated due to potential for damage to reactor. Evaluation requested establishing operating restrictions,max quantity of explosives allowed in facility & form.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20137G472</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO EDUCATIONAL INSTITUTION, OUTGOING CORRESPONDENCE</description>
-			<author>US ATOMIC ENERGY COMMISSION (AEC)</author>
-			<pubDate>2024-06-04 14:32:00</pubDate>
-		</item>
-		<item>
-			<title>Further response to FOIA requests for documents re Dow Chemical Co of Midland,MI.Forwards Apps H,I,J & K documents. Documents also available in PDR.Document I-10 partially withheld (ref FOIA Exemption 6).</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20137G357</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO PUBLIC ENTITY/CITIZEN/ORGANIZATION/MEDIA, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
-			<pubDate>2024-06-04 14:30:00</pubDate>
 		</item>
 	</channel>
 </rss>
