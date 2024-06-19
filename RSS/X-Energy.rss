@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 19 Jun 2024 15:16:48 GMT</pubDate>
-		<lastBuildDate>Wed, 19 Jun 2024 15:16:48 GMT</lastBuildDate>
+		<pubDate>Wed, 19 Jun 2024 16:18:36 GMT</pubDate>
+		<lastBuildDate>Wed, 19 Jun 2024 16:18:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Natl Castings,Inc Toledo Plant Radiography Program."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235D468</link>
+			<description>DKT 30 MTL BYPRODUCT, TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
+			<author>NATIONAL CASTINGS, INC.</author>
+			<pubDate>2024-06-19 11:28:00</pubDate>
+		</item>
 		<item>
 			<title>Supports company use of financial test to demonstrate financial assurance,as specified in 10CFR40,App A.Licensee Form 10-K filed w/Securities & Exchange Commission for FY97, encl.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20217Q874</link>
@@ -213,13 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
 			<author>ATLAS CORP.</author>
 			<pubDate>2024-06-11 07:09:00</pubDate>
-		</item>
-		<item>
-			<title>Rev 1 to "QA Project Plan."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20155E897</link>
-			<description>QUALITY ASSURANCE PROGRAM, TEXT-SAFETY REPORT</description>
-			<author>ENERGY LABORATORIES, INC.</author>
-			<pubDate>2024-06-10 16:14:00</pubDate>
 		</item>
 	</channel>
 </rss>
