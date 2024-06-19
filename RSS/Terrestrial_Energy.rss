@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 19 Jun 2024 17:17:04 GMT</pubDate>
-		<lastBuildDate>Wed, 19 Jun 2024 17:17:04 GMT</lastBuildDate>
+		<pubDate>Wed, 19 Jun 2024 18:21:12 GMT</pubDate>
+		<lastBuildDate>Wed, 19 Jun 2024 18:21:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submits response to request for addl info.Training program & sketch of storage area encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235K290</link>
+			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, INCOMING CORRESPONDENCE</description>
+			<author>WESTINGHOUSE ENVIRONMENTAL and GEOTECHNICAL SERVICES,</author>
+			<pubDate>2024-06-19 13:42:00</pubDate>
+		</item>
+		<item>
+			<title>"Supplemental Environ Info Enrico Fermi Atomic Power Plant, Unit 1."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235J427</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>DETROIT EDISON CO.</author>
+			<pubDate>2024-06-19 13:20:00</pubDate>
+		</item>
 		<item>
 			<title>"Policy Reader,Apr 1987."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235F639</link>
@@ -206,20 +220,6 @@
 			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
 			<author>ENERGY, DEPT. OF</author>
 			<pubDate>2024-06-19 05:50:00</pubDate>
-		</item>
-		<item>
-			<title>Rev 2 to "Post Shutdown Decommissioning Activities Rept (PSDAR)."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20217H464</link>
-			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>CONSUMERS ENERGY CO. (FORMERLY CONSUMERS POWER CO.),</author>
-			<pubDate>2024-06-19 05:45:00</pubDate>
-		</item>
-		<item>
-			<title>Draft "Environ Assessment of Proposed Remedial Action at Gunnison U Mill Tailings Site,Gunnison,CO."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20217H346</link>
-			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>ENERGY, DEPT. OF</author>
-			<pubDate>2024-06-19 05:41:00</pubDate>
 		</item>
 	</channel>
 </rss>

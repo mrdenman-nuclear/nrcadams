@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 19 Jun 2024 17:16:46 GMT</pubDate>
-		<lastBuildDate>Wed, 19 Jun 2024 17:16:46 GMT</lastBuildDate>
+		<pubDate>Wed, 19 Jun 2024 18:20:55 GMT</pubDate>
+		<lastBuildDate>Wed, 19 Jun 2024 18:20:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards addl info re 881216 incident.Caused by designers of TRIGA Mark I.Licensee intends to add cleaning & lubricating rod actuating linkage & cleaning of housing above electrical portion of rod actuating switch to annual maint schedule.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235K543</link>
+			<description>CORRESPONDENCE-LETTERS, EDUCATIONAL INSTITUTION TO NRC, INCOMING CORRESPONDENCE</description>
+			<author>REED COLLEGE, PORTLAND, OR</author>
+			<pubDate>2024-06-19 13:48:00</pubDate>
+		</item>
+		<item>
+			<title>Extends invitation to attend 871110 meeting w/Region V in San Francisco,CA to discuss policies & procedures for operator licensing activity in Region V & NRC policy & developments.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235J957</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
+			<pubDate>2024-06-19 13:33:00</pubDate>
+		</item>
 		<item>
 			<title>Informs of recent reorganization of NRR.T Michaels assigned as project manager for facility.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20215C697</link>
@@ -206,20 +220,6 @@
 			<description>INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
 			<author>NRC (Affiliation Not Assigned)</author>
 			<pubDate>2024-06-11 00:19:00</pubDate>
-		</item>
-		<item>
-			<title>Notice of violation from insp on 981102-05.Violation noted: several discrepancies were noted on shipping papers as listed.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20196F880</link>
-			<description>NOTICE OF VIOLATION OF A REGULATION, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC (Affiliation Not Assigned)</author>
-			<pubDate>2024-06-11 00:18:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards insp rept 50-228/98-201 on 981102-05 & notice of violation.Various aspects of safety program were inspected including selective examinations of procedures & representative records & interviews with personnel.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20196F857</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC (Affiliation Not Assigned)</author>
-			<pubDate>2024-06-11 00:17:00</pubDate>
 		</item>
 	</channel>
 </rss>
