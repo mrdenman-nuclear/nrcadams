@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 19 Jun 2024 18:20:55 GMT</pubDate>
-		<lastBuildDate>Wed, 19 Jun 2024 18:20:55 GMT</lastBuildDate>
+		<pubDate>Wed, 19 Jun 2024 19:13:15 GMT</pubDate>
+		<lastBuildDate>Wed, 19 Jun 2024 19:13:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Annual Summary of Changes,Tests & Experiments Performed at Aerotest Radiography & Research Reactor for Jul 1986 - June 1987." W/870724 ltr.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235N278</link>
+			<description>ANNUAL OPERATING REPORT, NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-SAFETY REPORT</description>
+			<author>AEROTEST OPERATIONS, INC.</author>
+			<pubDate>2024-06-19 15:05:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards addl info re 881216 incident.Caused by designers of TRIGA Mark I.Licensee intends to add cleaning & lubricating rod actuating linkage & cleaning of housing above electrical portion of rod actuating switch to annual maint schedule.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235K543</link>
@@ -213,13 +220,6 @@
 			<description>EXAMINATION REPORT, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
 			<pubDate>2024-06-11 04:46:00</pubDate>
-		</item>
-		<item>
-			<title>Insp rept 50-228/98-201 on 981102-05.Violations noted.Major areas inspected:on-site review of selected aspects of licensees Class II non-power reactor operation including organization & staffing & review & audit functions.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20196F909</link>
-			<description>INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC (Affiliation Not Assigned)</author>
-			<pubDate>2024-06-11 00:19:00</pubDate>
 		</item>
 	</channel>
 </rss>
