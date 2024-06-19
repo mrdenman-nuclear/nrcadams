@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 18 Jun 2024 23:16:21 GMT</pubDate>
-		<lastBuildDate>Tue, 18 Jun 2024 23:16:21 GMT</lastBuildDate>
+		<pubDate>Wed, 19 Jun 2024 14:18:02 GMT</pubDate>
+		<lastBuildDate>Wed, 19 Jun 2024 14:18:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Water Quality Rept for June 1984." W/ltr dtd 840911.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20217M503</link>
+			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>COTTER CORP.</author>
+			<pubDate>2024-06-19 07:13:00</pubDate>
+		</item>
 		<item>
 			<title>Application for amend to License 34-16710-01,deleting DB Neeland from list of authorized users.Fee paid.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20214L590</link>
@@ -24,20 +31,6 @@
 			<description>CORRESPONDENCE-LETTERS, EXTERNAL CORRESPONDENCE</description>
 			<author>MOBIL OIL CORP. (SUBS. OF MOBIL CORP.)</author>
 			<pubDate>2024-06-11 08:16:00</pubDate>
-		</item>
-		<item>
-			<title>Requests extension of Amends 2 & 3,authorizing test distribution of barium treated raffinate from storage pits on portion of graded area at facility,through 1974 growing season.Rept covering results of 1973 test encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20141C353</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
-			<author>KERR-MCGEE NUCLEAR CORP.</author>
-			<pubDate>2024-06-05 12:03:00</pubDate>
-		</item>
-		<item>
-			<title>Ack receipt of correspondence to Chairman Jackson re Louisiana Energy Svcs facility.Correspondence forwarded to NRC staff for appropriate action.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20140G082</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF THE SECRETARY (SECY)</author>
-			<pubDate>2024-06-05 10:08:00</pubDate>
 		</item>
 	</channel>
 </rss>

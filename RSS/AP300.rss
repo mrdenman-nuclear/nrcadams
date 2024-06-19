@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 18 Jun 2024 23:15:46 GMT</pubDate>
-		<lastBuildDate>Tue, 18 Jun 2024 23:15:46 GMT</lastBuildDate>
+		<pubDate>Wed, 19 Jun 2024 14:17:30 GMT</pubDate>
+		<lastBuildDate>Wed, 19 Jun 2024 14:17:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-06-07 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>06/24/2024 AP300 pre-application meeting for White Paper on Safety Classification and Seismic Categorization</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24157A321</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-06-05 13:56:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 18 Jun 2024 23:16:21 GMT</pubDate>
-		<lastBuildDate>Tue, 18 Jun 2024 23:16:21 GMT</lastBuildDate>
+		<pubDate>Wed, 19 Jun 2024 14:18:02 GMT</pubDate>
+		<lastBuildDate>Wed, 19 Jun 2024 14:18:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Supports company use of financial test to demonstrate financial assurance,as specified in 10CFR40,App A.Licensee Form 10-K filed w/Securities & Exchange Commission for FY97, encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20217Q874</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
+			<author>HOMESTAKE MINING CO.</author>
+			<pubDate>2024-06-19 08:45:00</pubDate>
+		</item>
+		<item>
+			<title>"Patient Notification of Reportable Event."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20217G028</link>
+			<description>NRC TECHNICAL REPORT, TEXT-SAFETY REPORT</description>
+			<author>NRC</author>
+			<pubDate>2024-06-19 05:08:00</pubDate>
+		</item>
+		<item>
+			<title>Addendum "Status of Byproduct Matl Created Prior to Enact- ment of UMTRCA."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20217D504</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>AFFILIATION NOT ASSIGNED, SHAW, PITTMAN, POTTS and TROWBRIDGE</author>
+			<pubDate>2024-06-19 03:58:00</pubDate>
+		</item>
 		<item>
 			<title>Summary Report – 715th Meeting of the Advisory Committee on Reactor Safeguards, April 30 - May 2, 2024</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24165A219</link>
@@ -199,27 +220,6 @@
 			<description>QUALITY ASSURANCE PROGRAM, TEXT-SAFETY REPORT</description>
 			<author>ENERGY LABORATORIES, INC.</author>
 			<pubDate>2024-06-10 16:14:00</pubDate>
-		</item>
-		<item>
-			<title>Informs that OGC has no legal objection to publication of proposed rule, "Expand Applicability of 10CFR72 to Holders of & Applicants for,Certificates of Compliance & Their Contractors & Subcontractors."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20153C682</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF THE GENERAL COUNSEL (OGC)</author>
-			<pubDate>2024-06-08 22:55:00</pubDate>
-		</item>
-		<item>
-			<title>"Decommissioning of US U Production Facilities Feb 1995."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20151L641</link>
-			<description>DECOMMISSIONING PLANS, TEXT-SAFETY REPORT</description>
-			<author>ENERGY, DEPT. OF</author>
-			<pubDate>2024-06-07 16:10:00</pubDate>
-		</item>
-		<item>
-			<title>"The Spectral & Density components of the MTC for PWR Assemblies," Interim Rept.Influence of CE shimmed design on changes in thermal utilization w/temp make spectral & density MTC components significantly more negative.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20148H974</link>
-			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, RESEARCH AND TECHNICAL ASSISTANCE REPORTS, TEXT-PROCUREMENT & CONTRACTS</description>
-			<author>BROOKHAVEN NATIONAL LABORATORY</author>
-			<pubDate>2024-06-06 11:05:00</pubDate>
 		</item>
 	</channel>
 </rss>
