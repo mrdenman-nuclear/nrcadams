@@ -5,12 +5,61 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 19 Jun 2024 23:15:51 GMT</pubDate>
-		<lastBuildDate>Wed, 19 Jun 2024 23:15:51 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Jun 2024 14:15:17 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Jun 2024 14:15:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>07/15/2024 Meeting with X-energy pertaining to Project Long Mott</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24172A042</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-06-20 09:24:00</pubDate>
+		</item>
+		<item>
+			<title>Abilene Christian University Construction Permit Application Response to Request for Confirmatory Information</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24164A236</link>
+			<description>Letter</description>
+			<author>NEXT Laboratory,  Abilene Christian Univ</author>
+			<pubDate>2024-06-20 08:46:00</pubDate>
+		</item>
+		<item>
+			<title>2024/06/06 NuScale NPM-20 - RE RE NuScale SDAA Section 3.6.2 - Request for Additional Information No. 023 (RAI-10177-R1)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24158A003</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2024-06-20 08:45:00</pubDate>
+		</item>
+		<item>
+			<title>2024/05/30 NRR E-mail Capture - Materials Degradation Request for Confirmation of Information (RCI) re: Abilene Christian University (ACU) proposed Molten Salt Research Reactor (MSRR)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24158A230</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2024-06-20 08:45:00</pubDate>
+		</item>
+		<item>
+			<title>Email - The U.S. Nuclear Regulatory Commission Extension of Due Dates for TRISO-X Request for Additional Information Supplements for Integrated Safety Analysis Summary and Structural Design</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24162A326</link>
+			<description>E-Mail, Request for Additional Information (RAI)</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2024-06-20 08:45:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC, Submittal of Holtec PSA Risk Significance Determination Methodology Licensing Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24163A398</link>
+			<description>Letter</description>
+			<author>SMR, LLC</author>
+			<pubDate>2024-06-20 08:45:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC, Holtec PSA Risk Significance Determination Methodology Licensing Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24163A399</link>
+			<description>Topical Report</description>
+			<author>SMR, LLC</author>
+			<pubDate>2024-06-20 08:45:00</pubDate>
+		</item>
 		<item>
 			<title>06/17/2024 Overview of the TRISO-X Dashboards, Potential Updates to the Schedule and the High Impact Technical Items</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24169A130</link>
@@ -143,20 +192,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-06-14 08:42:00</pubDate>
-		</item>
-		<item>
-			<title>6-17-24 Slides Meeting to Discuss an Overview of the TRISO-X License Application Review Status</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24165A136</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2024-06-13 13:11:00</pubDate>
-		</item>
-		<item>
-			<title>Request For Withholding Proprietary Information Of The NRC Technical Exchange Meeting On Triso Fuel Analysis Submitted On May 14 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24144A247</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-06-13 08:33:00</pubDate>
 		</item>
 	</channel>
 </rss>

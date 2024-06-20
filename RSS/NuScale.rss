@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 19 Jun 2024 23:16:52 GMT</pubDate>
-		<lastBuildDate>Wed, 19 Jun 2024 23:16:52 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Jun 2024 14:16:39 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Jun 2024 14:16:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SMR, LLC, Holtec PSA Risk Significance Determination Methodology Licensing Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24163A399</link>
+			<description>Topical Report</description>
+			<author>SMR, LLC</author>
+			<pubDate>2024-06-20 08:45:00</pubDate>
+		</item>
 		<item>
 			<title>Summary Report – 715th Meeting of the Advisory Committee on Reactor Safeguards, April 30 - May 2, 2024</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24165A219</link>
@@ -66,13 +73,6 @@
 			<description>Technical Paper</description>
 			<author>Nuclear Energy Institute (NEI)</author>
 			<pubDate>2024-06-10 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>OMB-3150-0011 Draft 2024 Collection Renewal, 10 CFR Part 50 Domestic Licensing of Production and Utilization Facilities - Supporting Statement Section 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24008A101</link>
-			<description>OMB Clearance Material, Technical Paper</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-06-06 10:40:00</pubDate>
 		</item>
 	</channel>
 </rss>

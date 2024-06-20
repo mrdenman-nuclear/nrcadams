@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 19 Jun 2024 23:16:27 GMT</pubDate>
-		<lastBuildDate>Wed, 19 Jun 2024 23:16:27 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Jun 2024 14:16:02 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Jun 2024 14:16:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>CORRESPONDENCE-LETTERS, GENERIC LETTERS, GENERIC LETTERS & IE LETTERS TO MULTIPLE PLANTS., OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
 			<pubDate>2024-06-07 10:13:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Confirmation Letter No. 50-170/OL 24-02, Armed Forces Radiobiology Research Institute</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24136A109</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2024-06-06 08:28:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 19 Jun 2024 23:16:52 GMT</pubDate>
-		<lastBuildDate>Wed, 19 Jun 2024 23:16:52 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Jun 2024 14:16:39 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Jun 2024 14:16:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Memorandum of Understanding under the National Environmental Policy Act between Nuclear Regulatory Commission and Department of Energy Loan Programs Office</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24172A001</link>
+			<description>Legal-Memorandum of Agreement/Understanding</description>
+			<author>NRC/NMSS, NRC/NRR, US Dept of Energy (DOE)</author>
+			<pubDate>2024-06-20 08:47:00</pubDate>
+		</item>
 		<item>
 			<title>"Natl Castings,Inc Toledo Plant Radiography Program."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235D468</link>
@@ -213,13 +220,6 @@
 			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
 			<author>NEW MEXICO, STATE OF</author>
 			<pubDate>2024-06-11 08:19:00</pubDate>
-		</item>
-		<item>
-			<title>Responds to 971202 ltr requesting licensee to submit plan to update surety for U mill tailings pile in Moab,UT.Licensee requests that NRC approve license amend request & withdraw request for upward adjustment of surety for Moab site.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198C882</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>ATLAS CORP.</author>
-			<pubDate>2024-06-11 07:09:00</pubDate>
 		</item>
 	</channel>
 </rss>

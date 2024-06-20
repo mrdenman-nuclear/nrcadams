@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 19 Jun 2024 23:16:52 GMT</pubDate>
-		<lastBuildDate>Wed, 19 Jun 2024 23:16:52 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Jun 2024 14:16:39 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Jun 2024 14:16:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Radiological emergency plan 1987 annual exercise.W/870828 ltr.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235U871</link>
+			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
+			<author>PORTLAND GENERAL ELECTRIC CO.</author>
+			<pubDate>2024-06-20 09:40:00</pubDate>
+		</item>
+		<item>
+			<title>FES "Alternative Cooling Water Sys,Savannah River Plant, Aiken,SC."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20236J449</link>
+			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>ENERGY, DEPT. OF</author>
+			<pubDate>2024-06-20 09:40:00</pubDate>
+		</item>
+		<item>
+			<title>Provides Commission,for review & approval,w/guidance documents that staff plans to issue in support of final rule addressing radiological criteria for license termination published on 970721.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20236L464</link>
+			<description>COMMISSION PAPER, TEXT-SAFETY REPORT</description>
+			<author>NRC OFFICE OF THE EXECUTIVE DIRECTOR FOR OPERATIONS (EDO)</author>
+			<pubDate>2024-06-20 09:40:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards response to concerns raised at 870729 meeting re tailings stabilization & site reclamation plan.Responses provide schedule for completion of items not yet fully responded to.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235N106</link>
@@ -199,27 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
 			<author>CHEM-NUCLEAR SYSTEMS, INC.</author>
 			<pubDate>2024-06-19 09:59:00</pubDate>
-		</item>
-		<item>
-			<title>Draft "Hydraulic Property Data From Selected Test Zones on Hanford Site." Related documentation encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20234E217</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>ROCKWELL INTERNATIONAL CORP.</author>
-			<pubDate>2024-06-19 09:59:00</pubDate>
-		</item>
-		<item>
-			<title>"Hydrology of Separations Area."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20234E125</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>ROCKWELL INTERNATIONAL CORP.</author>
-			<pubDate>2024-06-19 09:57:00</pubDate>
-		</item>
-		<item>
-			<title>"Riprap Source Identification & Evaluations,Bluewater Tailings Facilities Reclamation,Grants,NM for Anaconda Minerals Co."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20234D872</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>DAMES and MOORE</author>
-			<pubDate>2024-06-19 09:53:00</pubDate>
 		</item>
 	</channel>
 </rss>
