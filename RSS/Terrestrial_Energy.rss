@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 20 Jun 2024 20:16:42 GMT</pubDate>
-		<lastBuildDate>Thu, 20 Jun 2024 20:16:42 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Jun 2024 22:15:11 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Jun 2024 22:15:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Requests comments on proposed US positions at IAEA Intl Advisory Committee meeting,scheduled for 890410-14 in Vienna.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20236B825</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, OTHER U.S. GOVERNMENT AGENCY/DEPARTMENT TO NRC</description>
+			<author>ENERGY, DEPT. OF</author>
+			<pubDate>2024-06-20 17:43:00</pubDate>
+		</item>
+		<item>
+			<title>Revised "Restart Rept for Rancho Seco Nuclear Generating Station Following 851226 Overcooling Event."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235Z291</link>
+			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST REPORT</description>
+			<author>SACRAMENTO MUNICIPAL UTILITY DISTRICT</author>
+			<pubDate>2024-06-20 16:47:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards addl info re nonradiological impacts associated w/extension of facility operating licensing to support 861222 application for amend to License DPR-21,extending duration of license to 40 yrs from date of issuance.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235X030</link>
@@ -206,20 +220,6 @@
 			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
 			<author>NORTHEAST NUCLEAR ENERGY CO.</author>
 			<pubDate>2024-06-19 10:47:00</pubDate>
-		</item>
-		<item>
-			<title>"Environ Assessment & Finding of No Significant Impact for Renewal of NRC License SMB-1300 Governing Night Vision Sys."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20234E648</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>ARMY, DEPT. OF, HEADQUARTERS MATERIEL DEVELOPMENT</author>
-			<pubDate>2024-06-19 10:08:00</pubDate>
-		</item>
-		<item>
-			<title>"Environ Assessment & Finding of No Significant Impact re AN/UDM-6 Radiac Calibrator Set."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20234E558</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>ARMY, DEPT. OF, HEADQUARTERS MATERIEL DEVELOPMENT</author>
-			<pubDate>2024-06-19 10:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
