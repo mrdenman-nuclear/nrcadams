@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 20 Jun 2024 15:17:34 GMT</pubDate>
-		<lastBuildDate>Thu, 20 Jun 2024 15:17:34 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Jun 2024 16:21:03 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Jun 2024 16:21:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Rev 0 to "Main Control Room Sys Investigation Rept."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235N599</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>SACRAMENTO MUNICIPAL UTILITY DISTRICT</author>
+			<pubDate>2024-06-20 12:04:00</pubDate>
+		</item>
 		<item>
 			<title>"BWIP Accessions List Issuance Notice for Period Ending 870625."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20236U510</link>
@@ -213,13 +220,6 @@
 			<description>COMMISSION PAPER, TEXT-SAFETY REPORT</description>
 			<author>NRC OFFICE OF THE EXECUTIVE DIRECTOR FOR OPERATIONS (EDO)</author>
 			<pubDate>2024-06-19 10:57:00</pubDate>
-		</item>
-		<item>
-			<title>Rev 0 to Chapter 4, "Reactor Sys" to advanced LWR requirements document.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235A774</link>
-			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>ELECTRIC POWER RESEARCH INSTITUTE</author>
-			<pubDate>2024-06-19 10:39:00</pubDate>
 		</item>
 	</channel>
 </rss>

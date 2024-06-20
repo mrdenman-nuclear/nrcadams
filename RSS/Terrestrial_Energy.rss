@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 20 Jun 2024 15:17:34 GMT</pubDate>
-		<lastBuildDate>Thu, 20 Jun 2024 15:17:34 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Jun 2024 16:21:03 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Jun 2024 16:21:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Application for license authorizing use of thorium in magnesium-thorium castings for machining of magnesium- thorium castings for customers.Record of 870407 telcon encl. W/two oversize drawings.Fee paid.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235N916</link>
+			<description>APPLICATION,SOURCE MTL.LICENSE & AMEND/RENEWAL TO, TEXT-LICENSE APPLICATIONS & PERMITS</description>
+			<author>ALPHA Q, INC. (FORMERLY REB INDUSTRIES, INC.)</author>
+			<pubDate>2024-06-20 12:13:00</pubDate>
+		</item>
 		<item>
 			<title>"BWIP Accessions List Issuance Notice for Period Ending 870625."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20236U510</link>
@@ -213,13 +220,6 @@
 			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
 			<author>ROCKWELL INTERNATIONAL CORP.</author>
 			<pubDate>2024-06-19 09:59:00</pubDate>
-		</item>
-		<item>
-			<title>Rev 0 to "QA Program Requirements for Space & Terrestrial Nuclear Power Sys."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20234D986</link>
-			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>ENERGY, DEPT. OF</author>
-			<pubDate>2024-06-19 09:55:00</pubDate>
 		</item>
 	</channel>
 </rss>
