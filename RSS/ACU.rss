@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 20 Jun 2024 18:21:51 GMT</pubDate>
-		<lastBuildDate>Thu, 20 Jun 2024 18:21:51 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Jun 2024 19:14:26 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Jun 2024 19:14:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Application for amend to License 06-00253-04,authorizing listed individuals to use &/or supervise use of listed licensed matls.Related documentation encl.Fee paid.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235V445</link>
+			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, DKT 30 MTL BYPRODUCT, TEXT-LICENSE APPLICATIONS & PERMITS</description>
+			<author>HARTFORD HOSP., HARTFORD, CT</author>
+			<pubDate>2024-06-20 15:07:00</pubDate>
+		</item>
+		<item>
+			<title>Amend 1 to export license for Transnuclear,Inc,authorizing export of 0.213 kg U-235,contained in 11.495 kg U,enriched to 3.5063 w/o max & changing name of ultimate consignee from Reaktor Brennelement Union,GmbH,to Siemens AG.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235U506</link>
+			<description>EXPORT LICENSES & AMENDMENTS, LICENSE, IMPORT/EXPORT & AMENDMENTS, TEXT-LICENSE APPLICATIONS & PERMITS</description>
+			<author>NRC OFFICE OF GOVERNMENTAL and PUBLIC AFFAIRS (GPA)</author>
+			<pubDate>2024-06-20 14:46:00</pubDate>
+		</item>
 		<item>
 			<title>Application for renewal of License 47-14862-01,authorizing GL Blackshaw to use &/or supervise use of Am-241 for moisture measuring probes in sand bins.Fee paid.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235T148</link>
@@ -206,20 +220,6 @@
 			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
 			<author>INDIANA UNIV. FOUNDATION, INDIANAPOLIS, IN, NRC OFFICE OF ADMINISTRATION and RESOURCES MANAGEMENT (ARM)</author>
 			<pubDate>2024-06-19 13:08:00</pubDate>
-		</item>
-		<item>
-			<title>Application for amend to License DPR-36,consisting of Proposed Change 146,amending Tech Spec Sections 3.9 & 4.1 to add primary inventory trend sys for reactor vessel level indication & core exit thermocouples channel operability.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235H540</link>
-			<description>OPERATING LICENSES-APPLIATION TO AMEND-RENEW EXISTING, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>MAINE YANKEE ATOMIC POWER CO.</author>
-			<pubDate>2024-06-19 12:57:00</pubDate>
-		</item>
-		<item>
-			<title>SAR Vol IV,Rev 1 to "Low Level Class A Radwaste Handling & Disposal Operations."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235H554</link>
-			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>ENERGY, DEPT. OF</author>
-			<pubDate>2024-06-19 12:57:00</pubDate>
 		</item>
 	</channel>
 </rss>
