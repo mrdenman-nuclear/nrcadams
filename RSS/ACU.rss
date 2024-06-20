@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 20 Jun 2024 14:16:39 GMT</pubDate>
-		<lastBuildDate>Thu, 20 Jun 2024 14:16:39 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Jun 2024 15:17:34 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Jun 2024 15:17:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"BWIP Accessions List Issuance Notice for Period Ending 870625."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20236U510</link>
+			<description>INDEXES, TEXT-BIBLIOGRAPHIC & CATALOGS & INDEXES</description>
+			<author>WESTINGHOUSE HANFORD CO.</author>
+			<pubDate>2024-06-20 09:41:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards vol 1-4 of Nose Rock project u mill source license application prepared pursuant to guidelines received from New Mexico Environmental Improvement Division.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20237B295</link>
+			<description>CORRESPONDENCE-LETTERS, EXTERNAL CORRESPONDENCE</description>
+			<author>PHILLIPS URANIUM CORP.</author>
+			<pubDate>2024-06-20 09:41:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards Vols 1 & 2 to NUREG-0904,Suppl 1, "Suppl to FES," re decommissioning of facility.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20245E079</link>
+			<description>CORRESPONDENCE-LETTERS, INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE, NRC TO ASLP</description>
+			<author>NRC OFFICE OF THE GENERAL COUNSEL (OGC)</author>
+			<pubDate>2024-06-20 09:41:00</pubDate>
+		</item>
 		<item>
 			<title>Radiological emergency plan 1987 annual exercise.W/870828 ltr.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235U871</link>
@@ -199,27 +220,6 @@
 			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
 			<author>ELECTRIC POWER RESEARCH INSTITUTE</author>
 			<pubDate>2024-06-19 10:39:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards info re Resource Technical Svcs,Inc,including summary of NRC contract work,NRC Form 26 for three existing contracts,audit info,work history & lists of expertise available for special insps & of current resource svcs.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235A125</link>
-			<description>CORRESPONDENCE-LETTERS, ENGINEERING/CONSTRUCTION/CONSULTING FIRM TO NRC, INCOMING CORRESPONDENCE</description>
-			<author>RESOURCE TECHNICAL SERVICES, INC.</author>
-			<pubDate>2024-06-19 10:27:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards,for info,recently issued Project Interface Document (PID) 16-S-07 for Ambrosia Lake Mill site.PID considered Class III change per Section 8.11 of remedial action plan.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20234E411</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, OTHER U.S. GOVERNMENT AGENCY/DEPARTMENT TO NRC</description>
-			<author>ENERGY, DEPT. OF</author>
-			<pubDate>2024-06-19 10:03:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards viewgraphs presented to NRC during 871203 visit to site.Encl should be used for discussion only & not as part of topical rept.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20234E197</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
-			<author>CHEM-NUCLEAR SYSTEMS, INC.</author>
-			<pubDate>2024-06-19 09:59:00</pubDate>
 		</item>
 	</channel>
 </rss>

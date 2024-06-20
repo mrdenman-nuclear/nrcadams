@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 20 Jun 2024 14:16:39 GMT</pubDate>
-		<lastBuildDate>Thu, 20 Jun 2024 14:16:39 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Jun 2024 15:17:34 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Jun 2024 15:17:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Rev 3 to NP-7450, "RETRAN-3D - Program for Transient Thermal-Hydraulic Analysis of Complex Fluid Flow Sys," vol 4.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20236U666</link>
+			<description>REPORTS-TOPICAL (BY MANUFACTURERS-VENDORS ETC), TEXT-SAFETY REPORT</description>
+			<author>COMPUTER SIMULATION and ANALYSIS, INC.</author>
+			<pubDate>2024-06-20 09:41:00</pubDate>
+		</item>
+		<item>
+			<title>"RELAP5YA Computer Program for LWR Sys Thermal-Hydraulic Analysis,Vol 1:Code Description."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20245H329</link>
+			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
+			<author>YANKEE ATOMIC ELECTRIC CO.</author>
+			<pubDate>2024-06-20 09:41:00</pubDate>
+		</item>
 		<item>
 			<title>Memorandum of Understanding under the National Environmental Policy Act between Nuclear Regulatory Commission and Department of Energy Loan Programs Office</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24172A001</link>
@@ -206,20 +220,6 @@
 			<description>NRC TECHNICAL REPORT, TEXT-SAFETY REPORT</description>
 			<author>NRC</author>
 			<pubDate>2024-06-11 13:20:00</pubDate>
-		</item>
-		<item>
-			<title>Requests assistance in responding to annual surety review for Atlas Corp.Response should be submitted by 980209.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198L226</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
-			<pubDate>2024-06-11 13:02:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards "Response to Questions from Members of Energy, Natural Resources & Extractive Industries Committee" & "Discharge Plans Relationship to NRC Licenses."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198F586</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NEW MEXICO, STATE OF</author>
-			<pubDate>2024-06-11 08:19:00</pubDate>
 		</item>
 	</channel>
 </rss>
