@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 20 Jun 2024 19:14:26 GMT</pubDate>
-		<lastBuildDate>Thu, 20 Jun 2024 19:14:26 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Jun 2024 20:16:42 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Jun 2024 20:16:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards addl info re nonradiological impacts associated w/extension of facility operating licensing to support 861222 application for amend to License DPR-21,extending duration of license to 40 yrs from date of issuance.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235X030</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, UTILITY TO NRC</description>
+			<author>NORTHEAST NUCLEAR ENERGY CO., NORTHEAST UTILITIES</author>
+			<pubDate>2024-06-20 15:46:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards Amend 11 to License SUA-1473,modifying License Conditions 10 & 34 re implementing groundwater compliance monitoring program & adding License Condition 35,per 881202 & 890118 compliance monitoring submittals.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235S056</link>
@@ -213,13 +220,6 @@
 			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
 			<author>ARMY, DEPT. OF, HEADQUARTERS MATERIEL DEVELOPMENT</author>
 			<pubDate>2024-06-19 10:06:00</pubDate>
-		</item>
-		<item>
-			<title>"Environ Assessment & Finding of No Significant Impact for AN/UDM-1A Radiac Calibrator Set,Fort Monmouth,NJ."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20234E390</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>ARMY, DEPT. OF, HEADQUARTERS MATERIEL DEVELOPMENT</author>
-			<pubDate>2024-06-19 10:02:00</pubDate>
 		</item>
 	</channel>
 </rss>

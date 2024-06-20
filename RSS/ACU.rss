@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 20 Jun 2024 19:14:26 GMT</pubDate>
-		<lastBuildDate>Thu, 20 Jun 2024 19:14:26 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Jun 2024 20:16:42 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Jun 2024 20:16:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Suppl 1 to "Reactor Protection Sys/ESFAS Extended Test Interval Evaluation."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235X195</link>
+			<description>REPORTS-TOPICAL (BY MANUFACTURERS-VENDORS ETC), TEXT-SAFETY REPORT</description>
+			<author>ABB COMBUSTION ENGINEERING NUCLEAR FUEL (FORMERLY</author>
+			<pubDate>2024-06-20 15:51:00</pubDate>
+		</item>
 		<item>
 			<title>Application for amend to License 06-00253-04,authorizing listed individuals to use &/or supervise use of listed licensed matls.Related documentation encl.Fee paid.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235V445</link>
@@ -213,13 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, UTILITY TO NRC</description>
 			<author>PORTLAND GENERAL ELECTRIC CO.</author>
 			<pubDate>2024-06-19 13:19:00</pubDate>
-		</item>
-		<item>
-			<title>Contract: "Survey of State & Tribal Emergency Response Capabilities for Radiological Transportation Incidents," awarded to Indiana Univ Foundation.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235H973</link>
-			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
-			<author>INDIANA UNIV. FOUNDATION, INDIANAPOLIS, IN, NRC OFFICE OF ADMINISTRATION and RESOURCES MANAGEMENT (ARM)</author>
-			<pubDate>2024-06-19 13:08:00</pubDate>
 		</item>
 	</channel>
 </rss>
