@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 20 Jun 2024 16:21:03 GMT</pubDate>
-		<lastBuildDate>Thu, 20 Jun 2024 16:21:03 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Jun 2024 18:21:52 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Jun 2024 18:21:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards Amend 11 to License SUA-1473,modifying License Conditions 10 & 34 re implementing groundwater compliance monitoring program & adding License Condition 35,per 881202 & 890118 compliance monitoring submittals.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235S056</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION IV)</author>
+			<pubDate>2024-06-20 13:46:00</pubDate>
+		</item>
+		<item>
+			<title>Application for license to possess thorium.Supporting info, including personnel experience,encl.Fee paid.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235P328</link>
+			<description>APPLICATION,SOURCE MTL.LICENSE & AMEND/RENEWAL TO, TEXT-LICENSE APPLICATIONS & PERMITS</description>
+			<author>BUTKIN PRECISION MANUFACTURING CORP.</author>
+			<pubDate>2024-06-20 12:25:00</pubDate>
+		</item>
 		<item>
 			<title>Application for license authorizing use of thorium in magnesium-thorium castings for machining of magnesium- thorium castings for customers.Record of 870407 telcon encl. W/two oversize drawings.Fee paid.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235N916</link>
@@ -206,20 +220,6 @@
 			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
 			<author>ARMY, DEPT. OF, HEADQUARTERS MATERIEL DEVELOPMENT</author>
 			<pubDate>2024-06-19 10:02:00</pubDate>
-		</item>
-		<item>
-			<title>"Assessment of Aquifer Intercommunication in B Pond-Gable Mountain Pond Area of Hanford Site."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20234E207</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>ROCKWELL INTERNATIONAL CORP.</author>
-			<pubDate>2024-06-19 09:59:00</pubDate>
-		</item>
-		<item>
-			<title>Draft "Hydraulic Property Data From Selected Test Zones on Hanford Site." Related documentation encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20234E217</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>ROCKWELL INTERNATIONAL CORP.</author>
-			<pubDate>2024-06-19 09:59:00</pubDate>
 		</item>
 	</channel>
 </rss>

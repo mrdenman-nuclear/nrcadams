@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 20 Jun 2024 16:20:23 GMT</pubDate>
-		<lastBuildDate>Thu, 20 Jun 2024 16:20:23 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Jun 2024 18:20:56 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Jun 2024 18:20:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Receipt Letter - TerraPower - Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24127A183</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-06-20 13:29:00</pubDate>
+		</item>
+		<item>
+			<title>FRN: General Notice. US SFR Owner, LLC (USO) - Receipt of Kemmerer Power Station Unit 1 Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24088A017</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-06-20 13:29:00</pubDate>
+		</item>
+		<item>
+			<title>FRN: General Notice. US SFR Owner, LLC (USO) - Acceptance and Notice of Hearing for Kemmerer Power Station Unit 1 Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24143A018</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/SECY</author>
+			<pubDate>2024-06-20 13:29:00</pubDate>
+		</item>
+		<item>
+			<title>07/22/2024 Pre-submittal meeting with Kairos Power on the Hermes Test Reactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24172A173</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-06-20 13:17:00</pubDate>
+		</item>
 		<item>
 			<title>07/15/2024 Meeting with X-energy pertaining to Project Long Mott</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24172A042</link>
@@ -187,39 +215,11 @@
 			<pubDate>2024-06-14 10:46:00</pubDate>
 		</item>
 		<item>
-			<title>06/25/2024 Pre-submittal meeting with Kairos Power on the Hermes Test Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24166A033</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-06-14 08:42:00</pubDate>
-		</item>
-		<item>
 			<title>6-17-24 Slides Meeting to Discuss an Overview of the TRISO-X License Application Review Status</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24165A136</link>
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
 			<pubDate>2024-06-13 13:11:00</pubDate>
-		</item>
-		<item>
-			<title>Request For Withholding Proprietary Information Of The NRC Technical Exchange Meeting On Triso Fuel Analysis Submitted On May 14 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24144A247</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-06-13 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower Kemmerer 1 Scheduling and Resource Letter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24162A063</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-06-12 15:44:00</pubDate>
-		</item>
-		<item>
-			<title>Abilene Christian University - Molten Salt Research Reactor Construction Permit Application Revised Review Schedule Letter (EPID L-2022-NFW-0002)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24162A093</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-06-12 14:50:00</pubDate>
 		</item>
 	</channel>
 </rss>
