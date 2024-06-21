@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 20 Jun 2024 23:18:42 GMT</pubDate>
-		<lastBuildDate>Thu, 20 Jun 2024 23:18:42 GMT</lastBuildDate>
+		<pubDate>Fri, 21 Jun 2024 14:15:43 GMT</pubDate>
+		<lastBuildDate>Fri, 21 Jun 2024 14:15:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Fiscal Year 2024 Final Fee Rule</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24123A056</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/OCFO</author>
+			<pubDate>2024-06-21 08:53:00</pubDate>
+		</item>
 		<item>
 			<title>NUREG-0750, Vol. 98, Nuclear Regulatory Commission Issuances: Opinions and Decisions of the Nuclear Regulatory Commission with Selected Orders (July 1, 2023 - December 31, 2023)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24170A865</link>
@@ -52,13 +59,6 @@
 			<description>Technical Paper</description>
 			<author>Nuclear Energy Institute (NEI)</author>
 			<pubDate>2024-06-10 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (7) of Anne Leigh on Kairos Power, LLC; Hermes 2; Draft Environmental Assessment and Draft Finding of No Significant Impact</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24151A117</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>The Breakthrough Institue</author>
-			<pubDate>2024-06-07 15:12:00</pubDate>
 		</item>
 	</channel>
 </rss>
