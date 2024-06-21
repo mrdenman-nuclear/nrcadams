@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 21 Jun 2024 18:19:55 GMT</pubDate>
-		<lastBuildDate>Fri, 21 Jun 2024 18:19:55 GMT</lastBuildDate>
+		<pubDate>Fri, 21 Jun 2024 19:11:51 GMT</pubDate>
+		<lastBuildDate>Fri, 21 Jun 2024 19:11:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Changes in Reactor Decommissioning Branch Project Management Assignments for Some Decommissioning Facilities</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24151A648</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DDUWP/RDB</author>
+			<pubDate>2024-06-21 14:22:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards Insp Rept 50-228/89-01 on 890327-30.No violations noted.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20245D670</link>
@@ -213,13 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
 			<author>AEROTEST OPERATIONS, INC.</author>
 			<pubDate>2024-06-13 15:58:00</pubDate>
-		</item>
-		<item>
-			<title>Advises of telephone number change,per Pacific Bell Telephone Co requirements.New number provided.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203K926</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
-			<author>AEROTEST OPERATIONS, INC.</author>
-			<pubDate>2024-06-13 14:27:00</pubDate>
 		</item>
 	</channel>
 </rss>

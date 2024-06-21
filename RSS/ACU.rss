@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 21 Jun 2024 18:20:15 GMT</pubDate>
-		<lastBuildDate>Fri, 21 Jun 2024 18:20:15 GMT</lastBuildDate>
+		<pubDate>Fri, 21 Jun 2024 19:12:08 GMT</pubDate>
+		<lastBuildDate>Fri, 21 Jun 2024 19:12:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards request for changes to be made on text of revised rule 10CFR62,in order to match actual proposed text.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20246H021</link>
+			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC</author>
+			<pubDate>2024-06-21 14:51:00</pubDate>
+		</item>
 		<item>
 			<title>Nonproprietary Rev 1 to "Steam Generator Tube Plug Integrity Summary Rept."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20245G500</link>
@@ -213,13 +220,6 @@
 			<description>CONTRACTS & AMENDMENTS OR SUPPLEMENTS, TEXT-PROCUREMENT & CONTRACTS</description>
 			<author>EBASCO SERVICES, INC., NRC OFFICE OF ADMINISTRATION and RESOURCES MANAGEMENT (ARM)</author>
 			<pubDate>2024-06-21 06:56:00</pubDate>
-		</item>
-		<item>
-			<title>Nonproprietary WCAP-10750-A, "Steam Generator Tube Rupture Analysis Methodology to Determine Margin to Steam Generator Overfill."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20238C860</link>
-			<description>REPORTS-TOPICAL (BY MANUFACTURERS-VENDORS ETC), TEXT-SAFETY REPORT</description>
-			<author>WESTINGHOUSE ELECTRIC COMPANY, DIV OF CBS CORP.</author>
-			<pubDate>2024-06-21 06:54:00</pubDate>
 		</item>
 	</channel>
 </rss>

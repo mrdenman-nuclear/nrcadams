@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 21 Jun 2024 18:20:15 GMT</pubDate>
-		<lastBuildDate>Fri, 21 Jun 2024 18:20:15 GMT</lastBuildDate>
+		<pubDate>Fri, 21 Jun 2024 19:12:08 GMT</pubDate>
+		<lastBuildDate>Fri, 21 Jun 2024 19:12:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Reclamation Plan:White Mesa Project Blanding,UT." W/seven oversize drawings.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20246J239</link>
+			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
+			<author>UMETCO MINERALS CORP.</author>
+			<pubDate>2024-06-21 14:51:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards 890414 FR notice re final LSS rule.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20245H527</link>
@@ -213,13 +220,6 @@
 			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
 			<author>ENERGY, DEPT. OF</author>
 			<pubDate>2024-06-21 00:17:00</pubDate>
-		</item>
-		<item>
-			<title>Final rept, "Regional Radiological Environ Baseline Monitoring Program,McKinley County,NM." W/two oversize drawings.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20236T776</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>CAMP DRESSER and MCKEE, INC.</author>
-			<pubDate>2024-06-21 00:12:00</pubDate>
 		</item>
 	</channel>
 </rss>
