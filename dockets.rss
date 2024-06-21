@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 21 Jun 2024 21:15:43 GMT</pubDate>
-		<lastBuildDate>Fri, 21 Jun 2024 21:15:43 GMT</lastBuildDate>
+		<pubDate>Fri, 21 Jun 2024 22:15:20 GMT</pubDate>
+		<lastBuildDate>Fri, 21 Jun 2024 22:15:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>07/17/2024 Meeting with X-energy pertaining to the Xe-100 design</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24173A322</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-06-21 17:33:00</pubDate>
+		</item>
 		<item>
 			<title>07/01/2024 Meeting with X-energy pertaining to the Xe-100 design</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24173A312</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24159A539</link>
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2024-06-17 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - 5-31-24 Meeting Agenda of Public Meeting with SMR, LLC (A Holtec International Company) regarding its Quality Assurance Program Description Topical Report (Project No. 99902049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24152A004</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-06-17 08:33:00</pubDate>
 		</item>
 	</channel>
