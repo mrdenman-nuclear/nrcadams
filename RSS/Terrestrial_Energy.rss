@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 21 Jun 2024 22:16:50 GMT</pubDate>
-		<lastBuildDate>Fri, 21 Jun 2024 22:16:50 GMT</lastBuildDate>
+		<pubDate>Fri, 21 Jun 2024 23:15:51 GMT</pubDate>
+		<lastBuildDate>Fri, 21 Jun 2024 23:15:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Application for renewal of License 27-05861-02,consolidated w/SNM-691,authorizing listed items.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20246H709</link>
+			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, DKT 30 MTL BYPRODUCT, TEXT-LICENSE APPLICATIONS & PERMITS</description>
+			<author>ENVIRONMENTAL PROTECTION AGENCY</author>
+			<pubDate>2024-06-21 19:07:00</pubDate>
+		</item>
+		<item>
+			<title>"Std Format & Content for Documentation of Remedial Action Selection at Title I U Mill Tailings Sites," staff technical position.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20246H016</link>
+			<description>NRC TECHNICAL REPORT, TEXT-SAFETY REPORT</description>
+			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
+			<pubDate>2024-06-21 18:45:00</pubDate>
+		</item>
+		<item>
+			<title>Rev 0,Draft B to "Implementation Plan for Environ Impact Statement on Phase II of West Valley Demonstration Project & Closure of Western New York Nuclear Svc Ctr."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20246G153</link>
+			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
+			<author>ENERGY, DEPT. OF</author>
+			<pubDate>2024-06-21 18:35:00</pubDate>
+		</item>
 		<item>
 			<title>Requests review of encl draft guidance re consideration of global climatic change in environ documents prepared per NEPA & AA Hill forwarding ltr,dtd 890621.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20246F264</link>
@@ -199,27 +220,6 @@
 			<description>ENVIRONMENTAL IMPACT APPRAISALS, TEXT-ENVIRONMENTAL REPORTS</description>
 			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
 			<pubDate>2024-06-21 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>"Environ Rept for La Crosse BWR."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20238C959</link>
-			<description>ENVIRONMENTAL REPORT, ALL VERSIONS, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>DAIRYLAND POWER COOPERATIVE</author>
-			<pubDate>2024-06-21 06:57:00</pubDate>
-		</item>
-		<item>
-			<title>"Environ Radiation Study in Vicinity of Humboldt Bay Power Plant,Annual Rept 1986."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20238B508</link>
-			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>PACIFIC GAS and ELECTRIC CO.</author>
-			<pubDate>2024-06-21 06:24:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards 860829 FR notice on policy statement re petitions for rulemaking to exempt specific radwaste streams from regulation (ref 10CFR2).Trade or prof organizations may be encouraged to submit petitions.Comments requested.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20237J522</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO PUBLIC ENTITY/CITIZEN/ORGANIZATION/MEDIA, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
-			<pubDate>2024-06-21 05:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
