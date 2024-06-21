@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 21 Jun 2024 15:21:07 GMT</pubDate>
-		<lastBuildDate>Fri, 21 Jun 2024 15:21:07 GMT</lastBuildDate>
+		<pubDate>Fri, 21 Jun 2024 16:18:41 GMT</pubDate>
+		<lastBuildDate>Fri, 21 Jun 2024 16:18:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Responds to 890523 ltr re offsite radiation monitoring & emergency warning sys in vicinity of TMI-2.NRC opinion that existing real time monitoring sys will remain operational for at least next several yrs expressed.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20245G030</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO PUBLIC ENTITY/CITIZEN/ORGANIZATION/MEDIA, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
+			<pubDate>2024-06-21 11:48:00</pubDate>
+		</item>
+		<item>
+			<title>"Annual Radiological Environ Operating Rept,1988." W/890425 ltr.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20245F272</link>
+			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>CONNECTICUT YANKEE ATOMIC POWER CO., NORTHEAST UTILITIES</author>
+			<pubDate>2024-06-21 11:31:00</pubDate>
+		</item>
+		<item>
+			<title>"Trojan Nuclear Plant Operational Environ Radiological Surveillance Program 1988 Annual Rept." W/890428 ltr.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20245E880</link>
+			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>PORTLAND GENERAL ELECTRIC CO.</author>
+			<pubDate>2024-06-21 11:22:00</pubDate>
+		</item>
+		<item>
+			<title>"Millstone Point Site Radiological Environ Monitoring Program,Annual Radiological Environ Operating Rept 1988." W/890425 ltr.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20245E849</link>
+			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
+			<author>NORTHEAST NUCLEAR ENERGY CO., NORTHEAST UTILITIES, NORTHEAST UTILITIES SERVICE CO.</author>
+			<pubDate>2024-06-21 11:21:00</pubDate>
+		</item>
 		<item>
 			<title>"Chemical Durability of Tektites - Lab Study & Correlation w/Long-Term Corrosion Behavior."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20245D087</link>
@@ -192,34 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
 			<author>ENERGY, DEPT. OF</author>
 			<pubDate>2024-06-20 23:21:00</pubDate>
-		</item>
-		<item>
-			<title>"Environ Assessment of Remedial Action at Mexican Hat U Mill Tailings Site,Mexican Hat,UT."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20236Q989</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>ENERGY, DEPT. OF</author>
-			<pubDate>2024-06-20 23:04:00</pubDate>
-		</item>
-		<item>
-			<title>Licensee response to suppl to petition for leave to intervene by Susquehanna Valley Alliance & TMI Alert.* Petition for hearing should be denied.Supporting documentation & Certificate of Svc encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20236P848</link>
-			<description>INTERVENTION PETITIONS, RESPONSES & CONTENTIONS, LEGAL TRANSCRIPTS & ORDERS & PLEADINGS</description>
-			<author>GENERAL PUBLIC UTILITIES CORP., SHAW, PITTMAN, POTTS and TROWBRIDGE</author>
-			<pubDate>2024-06-20 22:39:00</pubDate>
-		</item>
-		<item>
-			<title>"Comparison of Aerial Radiolgical Survey Results of Nuclear Fuel Svcs Ctr." Date of Survey:Sept 1979.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20236N843</link>
-			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>EGandG, INC.</author>
-			<pubDate>2024-06-20 22:18:00</pubDate>
-		</item>
-		<item>
-			<title>"Aerial Radiological Survey of Area Surrounding Nuclear Fuel Svcs Facility." Date of survey:Nov 1997.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20236N819</link>
-			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
-			<author>EGandG, INC.</author>
-			<pubDate>2024-06-20 22:17:00</pubDate>
 		</item>
 	</channel>
 </rss>
