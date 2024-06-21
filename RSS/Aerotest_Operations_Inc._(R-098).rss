@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 21 Jun 2024 14:15:05 GMT</pubDate>
-		<lastBuildDate>Fri, 21 Jun 2024 14:15:05 GMT</lastBuildDate>
+		<pubDate>Fri, 21 Jun 2024 15:20:50 GMT</pubDate>
+		<lastBuildDate>Fri, 21 Jun 2024 15:20:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards Insp Rept 50-228/89-01 on 890327-30.No violations noted.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20245D670</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
+			<pubDate>2024-06-21 11:00:00</pubDate>
+		</item>
+		<item>
+			<title>Insp Rept 50-228/89-01 on 890327-30.No violations noted. Major areas inspected:ARRR operation,including organization, review & audit,experiments,reactor operator requalification training,environ monitoring program & procedures.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20245D675</link>
+			<description>INSPECTION REPORT, MANUFACTURER/VENDOR/ENGINEER, INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
+			<pubDate>2024-06-21 11:00:00</pubDate>
+		</item>
 		<item>
 			<title>Advises that in order for NRC to meet schedule for written & operating reactor operator & senior reactor operator licensing exams on 880322 & 23,respectively,encl ref matl should be furnished by 880122.Other guidiance matl encl.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20238C241</link>
@@ -206,20 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
 			<author>AEROTEST OPERATIONS, INC.</author>
 			<pubDate>2024-06-13 14:27:00</pubDate>
-		</item>
-		<item>
-			<title>Advises of telephone number change,per Pacific Bell Telephone Co requirements.New number provided.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203K872</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
-			<author>AEROTEST OPERATIONS, INC.</author>
-			<pubDate>2024-06-13 14:25:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards Insp Rept 50-228/86-01 on 860716.No violation noted.Rept withheld (ref 10CFR2.790).</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203J172</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-06-13 13:39:00</pubDate>
 		</item>
 	</channel>
 </rss>

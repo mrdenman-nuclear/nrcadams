@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 21 Jun 2024 14:15:43 GMT</pubDate>
-		<lastBuildDate>Fri, 21 Jun 2024 14:15:43 GMT</lastBuildDate>
+		<pubDate>Fri, 21 Jun 2024 15:21:07 GMT</pubDate>
+		<lastBuildDate>Fri, 21 Jun 2024 15:21:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Chemical Durability of Tektites - Lab Study & Correlation w/Long-Term Corrosion Behavior."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20245D087</link>
+			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>CATHOLIC UNIV. OF AMERICA, WASHINGTON, DC</author>
+			<pubDate>2024-06-21 10:46:00</pubDate>
+		</item>
+		<item>
+			<title>Environmental Assessment for USEC Inc's  Lead Cascade Facility  Piketon, OH.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML040210751</link>
+			<description>Environmental Assessment</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2024-06-21 10:41:00</pubDate>
+		</item>
+		<item>
+			<title>Requests Commission approval for notice of final rulemaking 10CFR61, "Land Disposal of Radwaste," to be published.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20245B729</link>
+			<description>COMMISSION PAPER, TEXT-SAFETY REPORT</description>
+			<author>NRC OFFICE OF THE EXECUTIVE DIRECTOR FOR OPERATIONS (EDO)</author>
+			<pubDate>2024-06-21 10:19:00</pubDate>
+		</item>
 		<item>
 			<title>Transcript of Advisory Panel for Decontamination of TMI-2 890413 meeting in Harrisburg,PA.Pp 1-79.Supporting info encl.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20245A838</link>
@@ -199,27 +220,6 @@
 			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, TEXT-PROCUREMENT & CONTRACTS</description>
 			<author>EGandG, INC.</author>
 			<pubDate>2024-06-20 22:17:00</pubDate>
-		</item>
-		<item>
-			<title>"Environ Assessment of Remedial Action at Ambrosia Lake U Mill Tailings Site,Ambrosia Lake,NM."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20236N829</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>ENERGY, DEPT. OF</author>
-			<pubDate>2024-06-20 22:17:00</pubDate>
-		</item>
-		<item>
-			<title>"Rept on Investigation of Cancer Incidence in Municipalities Adjacent to Stepan Chemical Co/Maywood Interim Storage Site Maywood,Bergen County,NJ."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20236N665</link>
-			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>NEW JERSEY, STATE OF</author>
-			<pubDate>2024-06-20 22:13:00</pubDate>
-		</item>
-		<item>
-			<title>"Performance of Remedial Response Activities at Uncontrolled Hazardous Waste Sites (REM II),EPA Contract 68-01-6939,Work Plan for Maxey Flats Disposal Site Remedial Investigation/Feasibility Study,Fleming County,KY."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20236M789</link>
-			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
-			<author>CAMP DRESSER and MCKEE, INC.</author>
-			<pubDate>2024-06-20 21:53:00</pubDate>
 		</item>
 	</channel>
 </rss>
