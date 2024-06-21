@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 21 Jun 2024 16:18:41 GMT</pubDate>
-		<lastBuildDate>Fri, 21 Jun 2024 16:18:41 GMT</lastBuildDate>
+		<pubDate>Fri, 21 Jun 2024 17:16:21 GMT</pubDate>
+		<lastBuildDate>Fri, 21 Jun 2024 17:16:21 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards 890414 FR notice re final LSS rule.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20245H527</link>
+			<description>ANY EXTERNAL MEMORANDUM ROUTED TO NRC & NOTES, INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>CONSERVATION FOUNDATION</author>
+			<pubDate>2024-06-21 12:26:00</pubDate>
+		</item>
+		<item>
+			<title>"Technical Position Paper,Environ Monitoring of Low Level Radwaste Disposal Facilities."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20245H504</link>
+			<description>NRC TECHNICAL REPORT, TEXT-SAFETY REPORT</description>
+			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
+			<pubDate>2024-06-21 12:25:00</pubDate>
+		</item>
 		<item>
 			<title>Responds to 890523 ltr re offsite radiation monitoring & emergency warning sys in vicinity of TMI-2.NRC opinion that existing real time monitoring sys will remain operational for at least next several yrs expressed.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20245G030</link>
@@ -206,20 +220,6 @@
 			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS</description>
 			<author>CAMP DRESSER and MCKEE, INC.</author>
 			<pubDate>2024-06-21 00:12:00</pubDate>
-		</item>
-		<item>
-			<title>State of Utah request for hearing & petition for leave to intervene.* State of Utah requests State be admitted as intervenor & be granted hearing on NRC approval of rock apron design for Atlas tailing pile.W/Certificate of Svc.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20236R978</link>
-			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, PLEADINGS</description>
-			<author>UTAH, STATE OF</author>
-			<pubDate>2024-06-20 23:28:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards,for review & comment,App "B" from completion repts for Naturita,CO,vicinity properties NT-058 & NT-065.Complete versions will be provided,if required.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20236R669</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>ENERGY, DEPT. OF</author>
-			<pubDate>2024-06-20 23:21:00</pubDate>
 		</item>
 	</channel>
 </rss>
