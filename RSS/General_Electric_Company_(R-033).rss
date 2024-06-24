@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 21 Jun 2024 23:15:35 GMT</pubDate>
-		<lastBuildDate>Fri, 21 Jun 2024 23:15:35 GMT</lastBuildDate>
+		<pubDate>Mon, 24 Jun 2024 11:31:58 GMT</pubDate>
+		<lastBuildDate>Mon, 24 Jun 2024 11:31:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>PNO-V-89-022:on 880403,earthquake of magnitude of 4.5 on Richter scale occurred 10 miles northeast of San Jose,CA. Automatic seismic protection did not trigger shutdown. Reactors manually shutdown.No radioactive release occurred.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20248J245</link>
+			<description>PRELIMINARY NOTIFICATION OF EVENT OR OCCURRENCE (PNO,, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
+			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
+			<pubDate>2024-06-22 08:00:00</pubDate>
+		</item>
+		<item>
+			<title>"GE 1988 Annual Rept." W/890315 ltr.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20246L634</link>
+			<description>ANNUAL REPORTS (COMPANY-FINANCIAL), TEXT-SAFETY REPORT</description>
+			<author>GENERAL ELECTRIC CO.</author>
+			<pubDate>2024-06-21 20:40:00</pubDate>
+		</item>
 		<item>
 			<title>PNO-V-89-047:on 890808,earthquake & aftershock of 5.1 & 4.2 magnitudes,respectively,occurred approx 15 miles southwest of San Jose,CA.Reactors shutdown during earthquake.Tour of GE reactor disclosed no damage.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20245K861</link>
@@ -178,13 +192,6 @@
 			<description>ANNUAL REPORTS (COMPANY-FINANCIAL), TEXT-SAFETY REPORT</description>
 			<author>GENERAL ELECTRIC CO.</author>
 			<pubDate>2024-06-11 01:28:00</pubDate>
-		</item>
-		<item>
-			<title>PNO-V-88-038:on 880612,earthquake occurred on Calaveras Fault within 50 miles of identified facilities.All reactors shutdown at time of earthquake.No seismic trips observed. Insp revealed no signs of damage at facilities.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20155E409</link>
-			<description>PRELIMINARY NOTIFICATION OF EVENT OR OCCURRENCE (PNO,, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-06-10 16:04:00</pubDate>
 		</item>
 	</channel>
 </rss>
