@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 24 Jun 2024 23:16:38 GMT</pubDate>
-		<lastBuildDate>Mon, 24 Jun 2024 23:16:38 GMT</lastBuildDate>
+		<pubDate>Tue, 25 Jun 2024 14:16:29 GMT</pubDate>
+		<lastBuildDate>Tue, 25 Jun 2024 14:16:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,34 +52,6 @@
 			<description>Meeting Summary</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-06-17 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Submittal of Responses to NRC Questions on SMR-300 Design Overview</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24155A282</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
-			<pubDate>2024-06-11 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24155A284</link>
-			<description>Legal-Affidavit</description>
-			<author>SMR, LLC</author>
-			<pubDate>2024-06-11 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Submittal of Licensing Topical Report, "Quality Assurance Program for Holtec International's Small Modular Reactor Design and Construction," Revision 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24155A286</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
-			<pubDate>2024-06-11 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Topical Report On The Quality Assurance Program for Holtec International's Small Modular Reactor (SMR) Design and Construction</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24155A287</link>
-			<description>Topical Report</description>
-			<author>SMR, LLC</author>
-			<pubDate>2024-06-11 08:32:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 24 Jun 2024 23:17:08 GMT</pubDate>
-		<lastBuildDate>Mon, 24 Jun 2024 23:17:08 GMT</lastBuildDate>
+		<pubDate>Tue, 25 Jun 2024 14:17:28 GMT</pubDate>
+		<lastBuildDate>Tue, 25 Jun 2024 14:17:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,13 +59,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DORL/LLPB</author>
 			<pubDate>2024-06-12 08:46:00</pubDate>
-		</item>
-		<item>
-			<title>FAVPRO Release Public Meeting Slides</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24162A277</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/RES/DE</author>
-			<pubDate>2024-06-11 09:37:00</pubDate>
 		</item>
 	</channel>
 </rss>
