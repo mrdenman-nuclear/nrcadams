@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 25 Jun 2024 23:14:16 GMT</pubDate>
-		<lastBuildDate>Tue, 25 Jun 2024 23:14:16 GMT</lastBuildDate>
+		<pubDate>Wed, 26 Jun 2024 15:16:27 GMT</pubDate>
+		<lastBuildDate>Wed, 26 Jun 2024 15:16:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-06-20 13:17:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Safety Analysis Methodology for the Kairos Power Fluoride Salt-Cooled High-Temperature Test Reactor - Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24156A163</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2024-06-12 08:45:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Safety Analysis Methodology for the Kairos Power Fluoride Salt-Cooled High-Temperature Test Reactor, Rev. 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24156A165</link>
-			<description>Topical Report</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2024-06-12 08:45:00</pubDate>
 		</item>
 	</channel>
 </rss>

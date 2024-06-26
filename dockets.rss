@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 25 Jun 2024 23:14:01 GMT</pubDate>
-		<lastBuildDate>Tue, 25 Jun 2024 23:14:01 GMT</lastBuildDate>
+		<pubDate>Wed, 26 Jun 2024 15:16:06 GMT</pubDate>
+		<lastBuildDate>Wed, 26 Jun 2024 15:16:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Request for Withholding Determination Oklo Waste Management White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24162A332</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-06-26 08:32:00</pubDate>
+		</item>
+		<item>
+			<title>Request For Withholding Information From Public Disclosure For X Energy, LLC., - 2024 Project Long Mott Regulatory Engagement Plan</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24143A016</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-06-26 08:31:00</pubDate>
+		</item>
+		<item>
+			<title>Westinghouse Electric Co. - May 22 2024, TRISO Fuel Analysis and Testing Technical Exchange Meeting Summary</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24158A222</link>
+			<description>Memoranda</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-06-26 08:31:00</pubDate>
+		</item>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for Oklo Inc. "Transportation of Nuclear Material to and from the Oklo Fuel Recycling Facility"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24163A015</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-06-26 08:31:00</pubDate>
+		</item>
 		<item>
 			<title>AP300 White Paper No.3 Feedback Response Letter.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24155A133</link>
@@ -192,34 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS/DREFS/ERMB</author>
 			<pubDate>2024-06-24 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower Tribal Scoping and Initiation Letter-St. Clair, John-Eastern Shoshone Tribe</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24165A181</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/ERMB</author>
-			<pubDate>2024-06-24 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Request For Withholding Proprietary Information Of The Factory Manufacturing And Assembly Report Submitted On April 12 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24149A342</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-06-24 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Request For Withholding Pi From Public Disclosure For Terrestrial Energy WP Modeling And Simulation Activities Related To Source Term For IMSR Design Basis Accidents</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24150A082</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-06-24 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower Tribal Scoping and Initiation Letter-Alex, Dennis-Northwestern Band of the Shoshone Nation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24165A160</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/ERMB</author>
-			<pubDate>2024-06-24 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
