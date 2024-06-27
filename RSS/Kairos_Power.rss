@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 26 Jun 2024 23:15:05 GMT</pubDate>
-		<lastBuildDate>Wed, 26 Jun 2024 23:15:05 GMT</lastBuildDate>
+		<pubDate>Thu, 27 Jun 2024 14:15:03 GMT</pubDate>
+		<lastBuildDate>Thu, 27 Jun 2024 14:15:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Commission Meeting Transcript</description>
 			<author>NRC/OCM</author>
 			<pubDate>2024-06-18 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>SECY-24-0046: Enclosure 2 - Procedure for Determination of Level of Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24078A048</link>
-			<description>Commission SECY Paper</description>
-			<author>NRC/SECY</author>
-			<pubDate>2024-06-13 08:34:00</pubDate>
 		</item>
 	</channel>
 </rss>

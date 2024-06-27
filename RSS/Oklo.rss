@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 26 Jun 2024 23:15:05 GMT</pubDate>
-		<lastBuildDate>Wed, 26 Jun 2024 23:15:05 GMT</lastBuildDate>
+		<pubDate>Thu, 27 Jun 2024 14:15:03 GMT</pubDate>
+		<lastBuildDate>Thu, 27 Jun 2024 14:15:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,27 +59,6 @@
 			<description>NRC TECHNICAL REPORT, TEXT-SAFETY REPORT</description>
 			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
 			<pubDate>2024-06-14 15:13:00</pubDate>
-		</item>
-		<item>
-			<title>Trip rept of 970928-1010 visit to Switzerland for 21st Intl Symposium Basis for Nuclear Waste Mgt re informal meeting on maqarin natural analogue project & visit to Universitat Bern.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203K189</link>
-			<description>MEETING MINUTES & NOTES--CORRESPONDENCE, TRIP REPORTS</description>
-			<author>CENTER FOR NUCLEAR WASTE REGULATORY ANALYSES</author>
-			<pubDate>2024-06-13 14:09:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of ACRS Subcommittee on Waste Mgt 860722 meeting in Washington,DC.Pp 1-291.Supporting documentation encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203E994</link>
-			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, TRANSCRIPTS, DEPOSITIONS, NARRATIVE TESTIMONY</description>
-			<author>NRC ADVISORY COMMITTEE ON REACTOR SAFEGUARDS (ACRS)</author>
-			<pubDate>2024-06-13 12:14:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of 990208 meeting in Rockville,MD re briefing on high level waste program viability assessment.Pp 1-43.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203D131</link>
-			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, TRANSCRIPTS, DEPOSITIONS, NARRATIVE TESTIMONY</description>
-			<author>NRC (Affiliation Not Assigned)</author>
-			<pubDate>2024-06-13 11:18:00</pubDate>
 		</item>
 	</channel>
 </rss>

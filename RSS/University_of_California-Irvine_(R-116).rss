@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 26 Jun 2024 23:14:22 GMT</pubDate>
-		<lastBuildDate>Wed, 26 Jun 2024 23:14:22 GMT</lastBuildDate>
+		<pubDate>Thu, 27 Jun 2024 14:14:49 GMT</pubDate>
+		<lastBuildDate>Thu, 27 Jun 2024 14:14:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>DEFICIENCY REPORTS (PER 10CFR50.55E & PART 21), TEXT-SAFETY REPORT</description>
 			<author>GENERAL ATOMICS (FORMERLY GA TECHNOLOGIES, INC./GENER</author>
 			<pubDate>2024-06-18 15:51:00</pubDate>
-		</item>
-		<item>
-			<title>PNO-V-86-041:on 860713,earthquake measuring 5.7 on Richter scale & aftershocks occurred actuating seismic alarms.Insp procedures implemented.No abnormal condition noted.Effects also felt at listed nonpower reactors.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203C915</link>
-			<description>PRELIMINARY NOTIFICATION OF EVENT OR OCCURRENCE (PNO,, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-06-13 11:11:00</pubDate>
 		</item>
 	</channel>
 </rss>
