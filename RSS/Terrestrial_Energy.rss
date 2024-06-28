@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 28 Jun 2024 14:15:11 GMT</pubDate>
-		<lastBuildDate>Fri, 28 Jun 2024 14:15:11 GMT</lastBuildDate>
+		<pubDate>Fri, 28 Jun 2024 15:15:55 GMT</pubDate>
+		<lastBuildDate>Fri, 28 Jun 2024 15:15:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>St. Lucie Plant, Unit No. 2, Current Facility Operating License NPF-016, Tech Specs, 06/28/2024.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052800077</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-06-28 10:57:00</pubDate>
+		</item>
+		<item>
+			<title>St. Lucie Plant, Unit No. 1, Current Facility Operating License DPR-067, Tech Specs, Revised 06/28/2024.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052790654</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-06-28 10:54:00</pubDate>
+		</item>
 		<item>
 			<title>Supplement 2024-0023697 Crystal River License Termination Plan Unit 3</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24170A924</link>
@@ -206,20 +220,6 @@
 			<description>ANNUAL REPORTS (COMPANY-FINANCIAL), TEXT-SAFETY REPORT</description>
 			<author>GENERAL ELECTRIC CO.</author>
 			<pubDate>2024-06-21 20:40:00</pubDate>
-		</item>
-		<item>
-			<title>Application for renewal of License 27-05861-02,consolidated w/SNM-691,authorizing listed items.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20246H709</link>
-			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, DKT 30 MTL BYPRODUCT, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>ENVIRONMENTAL PROTECTION AGENCY</author>
-			<pubDate>2024-06-21 19:07:00</pubDate>
-		</item>
-		<item>
-			<title>"Std Format & Content for Documentation of Remedial Action Selection at Title I U Mill Tailings Sites," staff technical position.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20246H016</link>
-			<description>NRC TECHNICAL REPORT, TEXT-SAFETY REPORT</description>
-			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
-			<pubDate>2024-06-21 18:45:00</pubDate>
 		</item>
 	</channel>
 </rss>
