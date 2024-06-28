@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 27 Jun 2024 23:16:37 GMT</pubDate>
-		<lastBuildDate>Thu, 27 Jun 2024 23:16:37 GMT</lastBuildDate>
+		<pubDate>Fri, 28 Jun 2024 14:14:55 GMT</pubDate>
+		<lastBuildDate>Fri, 28 Jun 2024 14:14:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Examination Confirmation Letter 50-083/OL-24-001, University of Florida</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24169A052</link>
+			<description>Letter, License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2024-06-28 08:35:00</pubDate>
+		</item>
+	</channel>
 </rss>

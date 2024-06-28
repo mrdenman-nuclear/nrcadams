@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 27 Jun 2024 23:16:39 GMT</pubDate>
-		<lastBuildDate>Thu, 27 Jun 2024 23:16:39 GMT</lastBuildDate>
+		<pubDate>Fri, 28 Jun 2024 14:14:57 GMT</pubDate>
+		<lastBuildDate>Fri, 28 Jun 2024 14:14:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Draft Safety Evaluation Of Terrapower’s Natrium Topical  Report On Fuel And Control Assembly Qualification</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24172A046</link>
+			<description>Committee Letter Report</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2024-06-28 09:24:00</pubDate>
+		</item>
 		<item>
 			<title>Agenda - TerraPower Natrium Analysis of Potential Volcanic Hazards Topical Report Review - SC - July 9, 2024</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24178A384</link>
@@ -66,13 +73,6 @@
 			<description>Meeting Agenda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-06-17 16:15:00</pubDate>
-		</item>
-		<item>
-			<title>COMSECY-24-0008: Request to Solicit for the Appointment of Two New Members on the Advisory Committee on Reactor Safeguards</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24143A091</link>
-			<description>Commission Action Memoranda (COM)</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-06-14 10:46:00</pubDate>
 		</item>
 	</channel>
 </rss>

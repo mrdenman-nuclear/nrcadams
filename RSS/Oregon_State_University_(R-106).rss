@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 27 Jun 2024 23:16:37 GMT</pubDate>
-		<lastBuildDate>Thu, 27 Jun 2024 23:16:37 GMT</lastBuildDate>
+		<pubDate>Fri, 28 Jun 2024 14:14:55 GMT</pubDate>
+		<lastBuildDate>Fri, 28 Jun 2024 14:14:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,20 +17,6 @@
 			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
 			<pubDate>2024-06-18 10:39:00</pubDate>
-		</item>
-		<item>
-			<title>Informs that NNECO has provided info to NRC re Rosemount transmitters at plants.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20207F656</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>NORTHEAST NUCLEAR ENERGY CO.</author>
-			<pubDate>2024-06-14 23:21:00</pubDate>
-		</item>
-		<item>
-			<title>Sixth partial response to FOIA request for documents.Records in App J encl & will be available in PDR.App K records withheld in part (ref FOIA exemptions 7) & App L records completely withheld (ref FOIA exemption 7).</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20207F620</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
-			<pubDate>2024-06-14 23:20:00</pubDate>
 		</item>
 	</channel>
 </rss>
