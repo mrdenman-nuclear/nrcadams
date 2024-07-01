@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 28 Jun 2024 23:15:08 GMT</pubDate>
-		<lastBuildDate>Fri, 28 Jun 2024 23:15:08 GMT</lastBuildDate>
+		<pubDate>Mon, 01 Jul 2024 14:14:54 GMT</pubDate>
+		<lastBuildDate>Mon, 01 Jul 2024 14:14:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -115,34 +115,6 @@
 			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
 			<pubDate>2024-06-18 10:39:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards revised scheduled A,which increased cost estimate for license SMB-191.Other items remain as submitted.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20212C972</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>GENERAL ELECTRIC CO.</author>
-			<pubDate>2024-06-17 23:46:00</pubDate>
-		</item>
-		<item>
-			<title>Informs that self-guarantee documents submitted 970328 & 1015,are in compliance w/10CFR30 App C.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20212C959</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
-			<pubDate>2024-06-17 23:45:00</pubDate>
-		</item>
-		<item>
-			<title>Lists change in telephone number for H Bernard,facility project manager,due to NRR reorganization.D Tondi new Nonpower Reactors & Safeguards Licensing Section leader. Correspondence should be sent to listed address.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210H875</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
-			<pubDate>2024-06-17 11:41:00</pubDate>
-		</item>
-		<item>
-			<title>"GE 1985 Annual Rept." W/860321 ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210D722</link>
-			<description>ANNUAL REPORTS (COMPANY-FINANCIAL), TEXT-SAFETY REPORT</description>
-			<author>GENERAL ELECTRIC CO.</author>
-			<pubDate>2024-06-15 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

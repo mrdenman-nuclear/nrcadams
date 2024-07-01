@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 28 Jun 2024 23:14:57 GMT</pubDate>
-		<lastBuildDate>Fri, 28 Jun 2024 23:14:57 GMT</lastBuildDate>
+		<pubDate>Mon, 01 Jul 2024 14:14:44 GMT</pubDate>
+		<lastBuildDate>Mon, 01 Jul 2024 14:14:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Westinghouse Electric Co - Meeting Summary eVinci Principal Design Criteria TR on April 22, 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24155A076</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-07-01 08:34:00</pubDate>
+		</item>
 		<item>
 			<title>07/15/2024 Partially Closed Meeting- Westinghouse Electric Co -eVinci Fuel Design Methodology Topical Report Pre-submittal Meeting</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24179A306</link>
@@ -31,20 +38,6 @@
 			<description>Letter, Proprietary Information Review</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2024-06-24 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse, Transmittal of the "Nuclear Design Methodology Topical Report NRC Pre-submittal Meeting" Presentation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24159A538</link>
-			<description>Letter</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2024-06-17 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse,  WAAP-12983, Revision 0, "Nuclear Design Methodology Topical Report NRC Pre-submittal Meeting"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24159A539</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2024-06-17 08:33:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 28 Jun 2024 23:15:08 GMT</pubDate>
-		<lastBuildDate>Fri, 28 Jun 2024 23:15:08 GMT</lastBuildDate>
+		<pubDate>Mon, 01 Jul 2024 14:14:54 GMT</pubDate>
+		<lastBuildDate>Mon, 01 Jul 2024 14:14:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -178,48 +178,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
 			<author>AEROTEST OPERATIONS, INC.</author>
 			<pubDate>2024-06-18 03:01:00</pubDate>
-		</item>
-		<item>
-			<title>Responds to NRC 870123 ltr re violations noted in insp. Corrective actions:all scheduled tests,calibrs & maint requirements extracted & written into computerized calendar.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20212C576</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
-			<author>AEROTEST OPERATIONS, INC.</author>
-			<pubDate>2024-06-17 23:36:00</pubDate>
-		</item>
-		<item>
-			<title>Ack receipt of 870213 ltr informing NRC of steps taken to correct violations noted in insp.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20212C550</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-06-17 23:35:00</pubDate>
-		</item>
-		<item>
-			<title>Insp rept 50-228/99-201 on 990816-19.No violations noted. Major areas inspected:routine,announced insp was on-site review of selected aspects of licensee class II non-power reactor operation.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20211K356</link>
-			<description>INSPECTION REPORT, NRC-GENERATED, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC (Affiliation Not Assigned)</author>
-			<pubDate>2024-06-17 20:23:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards insp rept 50-228/99-201 on 990816-19.No violations noted.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20211K340</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC (Affiliation Not Assigned)</author>
-			<pubDate>2024-06-17 20:22:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards rev to security plan,updating changes within past 5 yrs.Rev withheld (ref 10CFR2.790(d)).</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210E656</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
-			<author>AEROTEST OPERATIONS, INC.</author>
-			<pubDate>2024-06-15 08:51:00</pubDate>
-		</item>
-		<item>
-			<title>"Summary of Changes,Tests & Experiments Performed at Aerotest Radiography & Research Reactor (ARRR),for period 980701 through 990630." With 990701 ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20210E457</link>
-			<description>ANNUAL OPERATING REPORT, TEXT-SAFETY REPORT</description>
-			<author>AEROTEST OPERATIONS, INC.</author>
-			<pubDate>2024-06-15 08:46:00</pubDate>
 		</item>
 	</channel>
 </rss>
