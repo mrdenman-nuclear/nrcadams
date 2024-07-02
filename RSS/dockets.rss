@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 02 Jul 2024 16:19:11 GMT</pubDate>
-		<lastBuildDate>Tue, 02 Jul 2024 16:19:11 GMT</lastBuildDate>
+		<pubDate>Tue, 02 Jul 2024 17:14:08 GMT</pubDate>
+		<lastBuildDate>Tue, 02 Jul 2024 17:14:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>07/23/2024 Meeting with X-energy pertaining to Project Long Mott</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24184B201</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-07-02 12:59:00</pubDate>
+		</item>
 		<item>
 			<title>Westinghouse Electric Co - Meeting Summary eVinci Principal Design Criteria TR on April 22, 2024</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24155A076</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24158A222</link>
 			<description>Memoranda</description>
 			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-06-26 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Information from Public Disclosure for Oklo Inc. "Transportation of Nuclear Material to and from the Oklo Fuel Recycling Facility"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24163A015</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-06-26 08:31:00</pubDate>
 		</item>
 	</channel>
