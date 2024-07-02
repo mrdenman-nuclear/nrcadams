@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 01 Jul 2024 23:14:35 GMT</pubDate>
-		<lastBuildDate>Mon, 01 Jul 2024 23:14:35 GMT</lastBuildDate>
+		<pubDate>Tue, 02 Jul 2024 14:15:14 GMT</pubDate>
+		<lastBuildDate>Tue, 02 Jul 2024 14:15:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Minutes Of The 715th Meeting Of The Advisory Committee On Reactor Safeguards (ACRS), April 30 - May 2, 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24179A342</link>
+			<description>Meeting Minutes, Memoranda</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2024-07-02 09:48:00</pubDate>
+		</item>
 		<item>
 			<title>Revised Agenda - 717th ACRS Full Committee Meeting - July 10-12 2024 Supersedes ML24143A137</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24162A001</link>
@@ -66,20 +73,6 @@
 			<description>Meeting Agenda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-06-20 16:06:00</pubDate>
-		</item>
-		<item>
-			<title>Summary Report – 715th Meeting of the Advisory Committee on Reactor Safeguards, April 30 - May 2, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24165A219</link>
-			<description>ACRS Summary Report, Letter</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-06-18 14:34:00</pubDate>
-		</item>
-		<item>
-			<title>Documentation of Receipt of Applicable Official NRC Notices to the Advisory Committee on Reactor Safeguards For June 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24163A271</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-06-18 10:56:00</pubDate>
 		</item>
 	</channel>
 </rss>

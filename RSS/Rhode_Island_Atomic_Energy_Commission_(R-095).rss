@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 01 Jul 2024 23:14:33 GMT</pubDate>
-		<lastBuildDate>Mon, 01 Jul 2024 23:14:33 GMT</lastBuildDate>
+		<pubDate>Tue, 02 Jul 2024 14:15:13 GMT</pubDate>
+		<lastBuildDate>Tue, 02 Jul 2024 14:15:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Rhode Island Atomic Energy Commission - U.S. Nuclear Regulatory Commission Security Inspection Report No. 05000193/2024202 - Non-OUO-SRI Cover Letter</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24156A140</link>
+			<description>Inspection Report, Letter</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2024-07-02 08:30:00</pubDate>
+		</item>
+	</channel>
 </rss>

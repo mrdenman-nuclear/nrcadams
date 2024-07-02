@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 01 Jul 2024 23:14:38 GMT</pubDate>
-		<lastBuildDate>Mon, 01 Jul 2024 23:14:38 GMT</lastBuildDate>
+		<pubDate>Tue, 02 Jul 2024 14:15:34 GMT</pubDate>
+		<lastBuildDate>Tue, 02 Jul 2024 14:15:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,20 +73,6 @@
 			<description>General FR Notice Comment Letter</description>
 			<author>- No Known Affiliation</author>
 			<pubDate>2024-06-20 08:46:00</pubDate>
-		</item>
-		<item>
-			<title>Summary Report – 715th Meeting of the Advisory Committee on Reactor Safeguards, April 30 - May 2, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24165A219</link>
-			<description>ACRS Summary Report, Letter</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-06-18 14:34:00</pubDate>
-		</item>
-		<item>
-			<title>M240607: Transcript - Meeting with Advisory Committee on Reactor Safeguards</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24169A555</link>
-			<description>Commission Meeting Transcript</description>
-			<author>NRC/OCM</author>
-			<pubDate>2024-06-18 08:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
