@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 02 Jul 2024 23:14:04 GMT</pubDate>
-		<lastBuildDate>Tue, 02 Jul 2024 23:14:04 GMT</lastBuildDate>
+		<pubDate>Wed, 03 Jul 2024 14:16:53 GMT</pubDate>
+		<lastBuildDate>Wed, 03 Jul 2024 14:16:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -115,27 +115,6 @@
 			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
 			<pubDate>2024-06-20 16:38:00</pubDate>
-		</item>
-		<item>
-			<title>"Annual Summary of Changes,Tests & Experiments Performed at Aerotest Radiography & Research Reactor for Jul 1986 - June 1987." W/870724 ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235N278</link>
-			<description>ANNUAL OPERATING REPORT, NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-SAFETY REPORT</description>
-			<author>AEROTEST OPERATIONS, INC.</author>
-			<pubDate>2024-06-19 15:05:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards addl info re 881216 incident.Caused by designers of TRIGA Mark I.Licensee intends to add cleaning & lubricating rod actuating linkage & cleaning of housing above electrical portion of rod actuating switch to annual maint schedule.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235K543</link>
-			<description>CORRESPONDENCE-LETTERS, EDUCATIONAL INSTITUTION TO NRC, INCOMING CORRESPONDENCE</description>
-			<author>REED COLLEGE, PORTLAND, OR</author>
-			<pubDate>2024-06-19 13:48:00</pubDate>
-		</item>
-		<item>
-			<title>Extends invitation to attend 871110 meeting w/Region V in San Francisco,CA to discuss policies & procedures for operator licensing activity in Region V & NRC policy & developments.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235J957</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-06-19 13:33:00</pubDate>
 		</item>
 	</channel>
 </rss>
