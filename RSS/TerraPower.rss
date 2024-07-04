@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 03 Jul 2024 23:17:23 GMT</pubDate>
-		<lastBuildDate>Wed, 03 Jul 2024 23:17:23 GMT</lastBuildDate>
+		<pubDate>Thu, 04 Jul 2024 14:16:10 GMT</pubDate>
+		<lastBuildDate>Thu, 04 Jul 2024 14:16:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,20 +66,6 @@
 			<description>Drawing</description>
 			<author>NRC/NMSS/DREFS</author>
 			<pubDate>2024-06-21 08:50:00</pubDate>
-		</item>
-		<item>
-			<title>Memorandum of Understanding under the National Environmental Policy Act between Nuclear Regulatory Commission and Department of Energy Loan Programs Office</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24172A001</link>
-			<description>Legal-Memorandum of Agreement/Understanding</description>
-			<author>NRC/NMSS, NRC/NRR, US Dept of Energy (DOE)</author>
-			<pubDate>2024-06-20 08:47:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (1) of Joseph Hinckley on US SFR Owner, LLC.; Kemmerer Power Station Unit 1; Notice of Intent To Conduct Scoping Process and Prepare Environmental Impact Statement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24165A227</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2024-06-20 08:46:00</pubDate>
 		</item>
 	</channel>
 </rss>

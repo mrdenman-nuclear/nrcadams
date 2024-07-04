@@ -5,18 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 03 Jul 2024 23:16:56 GMT</pubDate>
-		<lastBuildDate>Wed, 03 Jul 2024 23:16:56 GMT</lastBuildDate>
+		<pubDate>Thu, 04 Jul 2024 14:15:34 GMT</pubDate>
+		<lastBuildDate>Thu, 04 Jul 2024 14:15:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>PNO-V-87-076:on 871123-24,two moderate earthquakes centered near Westmoreland,CA occurred,triggering seismic alarms at San Onofre.Unusal event declared.Plant sys & components not adversely affected.Effects on other locations noted.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20236S883</link>
-			<description>PRELIMINARY NOTIFICATION OF EVENT OR OCCURRENCE (PNO,, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-06-20 23:51:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

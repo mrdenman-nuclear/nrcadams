@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 03 Jul 2024 23:16:56 GMT</pubDate>
-		<lastBuildDate>Wed, 03 Jul 2024 23:16:56 GMT</lastBuildDate>
+		<pubDate>Thu, 04 Jul 2024 14:15:34 GMT</pubDate>
+		<lastBuildDate>Thu, 04 Jul 2024 14:15:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -108,13 +108,6 @@
 			<description>ANNUAL OPERATING REPORT, TEXT-SAFETY REPORT</description>
 			<author>AEROTEST OPERATIONS, INC.</author>
 			<pubDate>2024-06-21 00:14:00</pubDate>
-		</item>
-		<item>
-			<title>Advises that 870521 rev to radiography & research reactor emergency plan consistent w/provisions of 10CFR50.54(q) & acceptable.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235Y919</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO VENDOR/MANUFACTURER, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
-			<pubDate>2024-06-20 16:38:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 03 Jul 2024 23:17:23 GMT</pubDate>
-		<lastBuildDate>Wed, 03 Jul 2024 23:17:23 GMT</lastBuildDate>
+		<pubDate>Thu, 04 Jul 2024 14:16:10 GMT</pubDate>
+		<lastBuildDate>Thu, 04 Jul 2024 14:16:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, INCOMING CORRESPONDENCE</description>
 			<author>DOCTORS HOSP., INC., MASSILLON, OH</author>
 			<pubDate>2024-06-21 03:29:00</pubDate>
-		</item>
-		<item>
-			<title>Rev 0 to "Main Control Room Sys Investigation Rept."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20235N599</link>
-			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>SACRAMENTO MUNICIPAL UTILITY DISTRICT</author>
-			<pubDate>2024-06-20 12:04:00</pubDate>
 		</item>
 	</channel>
 </rss>
