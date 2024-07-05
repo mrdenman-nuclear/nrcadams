@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 05 Jul 2024 15:15:31 GMT</pubDate>
-		<lastBuildDate>Fri, 05 Jul 2024 15:15:31 GMT</lastBuildDate>
+		<pubDate>Fri, 05 Jul 2024 16:16:58 GMT</pubDate>
+		<lastBuildDate>Fri, 05 Jul 2024 16:16:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>08/01/2024 Meeting with X-energy pertaining to Project Long Mott</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24187A100</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-07-05 12:09:00</pubDate>
+		</item>
 		<item>
 			<title>TerraPower - Audit Plan - Instrumentation and Control Architecture and Design Basis Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24163A003</link>
@@ -213,13 +220,6 @@
 			<description>Legal-Affidavit, Letter, Topical Report</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2024-06-28 13:14:00</pubDate>
-		</item>
-		<item>
-			<title>Email - Extended Due date for the TRISO-X RAIs supplements for the Management Measures and Quality Assurance portion of the License Application to July 28, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24179A331</link>
-			<description>E-Mail</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2024-06-28 09:24:00</pubDate>
 		</item>
 	</channel>
 </rss>
