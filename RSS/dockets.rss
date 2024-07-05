@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 05 Jul 2024 19:11:52 GMT</pubDate>
-		<lastBuildDate>Fri, 05 Jul 2024 19:11:52 GMT</lastBuildDate>
+		<pubDate>Fri, 05 Jul 2024 20:15:39 GMT</pubDate>
+		<lastBuildDate>Fri, 05 Jul 2024 20:15:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>07/22/2024 Call between the NRC and TRISO-X staff regarding chemical safety to discuss technical items related to the license application for a fuel fabrication facility.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24187A157</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2024-07-05 16:04:00</pubDate>
+		</item>
+		<item>
+			<title>07/17/2024 Call between the NRC and TRISO-X staff to continue discussions regarding the NRC request to supplement the requests for additional information (RAIs) related to management measures.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24187A156</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2024-07-05 16:03:00</pubDate>
+		</item>
 		<item>
 			<title>08/01/2024 Meeting with X-energy pertaining to Project Long Mott</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24187A100</link>
@@ -206,20 +220,6 @@
 			<description>Safety Evaluation Report, Draft</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-06-28 14:54:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Response to NuScale Topical Report Audit Question</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24178A401</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-06-28 13:14:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of Topical Report "NuScale Power Plant Design Capability to Mitigate Beyond-Design-Basis Events Defined by 10 CFR 50.155," TR-141299-P, Revision 1 and Docketing of Resolved Audit Responses</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24178A398</link>
-			<description>Legal-Affidavit, Letter, Topical Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-06-28 13:14:00</pubDate>
 		</item>
 	</channel>
 </rss>
