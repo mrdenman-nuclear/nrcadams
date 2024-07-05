@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 04 Jul 2024 23:14:36 GMT</pubDate>
-		<lastBuildDate>Thu, 04 Jul 2024 23:14:36 GMT</lastBuildDate>
+		<pubDate>Fri, 05 Jul 2024 14:15:48 GMT</pubDate>
+		<lastBuildDate>Fri, 05 Jul 2024 14:15:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,27 +17,6 @@
 			<description>PRELIMINARY NOTIFICATION OF EVENT OR OCCURRENCE (PNO,, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
 			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
 			<pubDate>2024-06-22 08:00:00</pubDate>
-		</item>
-		<item>
-			<title>"GE 1988 Annual Rept." W/890315 ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20246L634</link>
-			<description>ANNUAL REPORTS (COMPANY-FINANCIAL), TEXT-SAFETY REPORT</description>
-			<author>GENERAL ELECTRIC CO.</author>
-			<pubDate>2024-06-21 20:40:00</pubDate>
-		</item>
-		<item>
-			<title>PNO-V-89-047:on 890808,earthquake & aftershock of 5.1 & 4.2 magnitudes,respectively,occurred approx 15 miles southwest of San Jose,CA.Reactors shutdown during earthquake.Tour of GE reactor disclosed no damage.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20245K861</link>
-			<description>PRELIMINARY NOTIFICATION OF EVENT OR OCCURRENCE (PNO,, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-06-21 15:40:00</pubDate>
-		</item>
-		<item>
-			<title>Changes in Reactor Decommissioning Branch Project Management Assignments for Some Decommissioning Facilities</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24151A648</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DDUWP/RDB</author>
-			<pubDate>2024-06-21 14:22:00</pubDate>
 		</item>
 	</channel>
 </rss>

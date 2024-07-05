@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 04 Jul 2024 23:15:21 GMT</pubDate>
-		<lastBuildDate>Thu, 04 Jul 2024 23:15:21 GMT</lastBuildDate>
+		<pubDate>Fri, 05 Jul 2024 14:16:05 GMT</pubDate>
+		<lastBuildDate>Fri, 05 Jul 2024 14:16:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-06-25 14:57:00</pubDate>
-		</item>
-		<item>
-			<title>Fiscal Year 2024 Final Fee Rule</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24123A056</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/OCFO</author>
-			<pubDate>2024-06-21 08:53:00</pubDate>
 		</item>
 	</channel>
 </rss>
