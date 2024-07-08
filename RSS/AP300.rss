@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 05 Jul 2024 23:14:34 GMT</pubDate>
-		<lastBuildDate>Fri, 05 Jul 2024 23:14:34 GMT</lastBuildDate>
+		<pubDate>Mon, 08 Jul 2024 14:12:24 GMT</pubDate>
+		<lastBuildDate>Mon, 08 Jul 2024 14:12:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NVIB</author>
 			<pubDate>2024-06-25 13:43:00</pubDate>
-		</item>
-		<item>
-			<title>Public Presentation Slides to Support the Westinghouse-NRC Pre-Submittal Meeting on the Westinghouse AP300 SMR Safety Classification and Seismic Categorization Approach White Paper (Enclosure 2)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24170B035</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2024-06-24 14:29:00</pubDate>
-		</item>
-		<item>
-			<title>06/24/2024 Proprietary meeting to discuss AP300 white paper information on "Safety Classification and Seismic Qualification"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24176A123</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-06-24 11:32:00</pubDate>
 		</item>
 	</channel>
 </rss>

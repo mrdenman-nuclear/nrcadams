@@ -5,18 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 05 Jul 2024 23:14:37 GMT</pubDate>
-		<lastBuildDate>Fri, 05 Jul 2024 23:14:37 GMT</lastBuildDate>
+		<pubDate>Mon, 08 Jul 2024 14:12:25 GMT</pubDate>
+		<lastBuildDate>Mon, 08 Jul 2024 14:12:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>PNO-V-89-022:on 880403,earthquake of magnitude of 4.5 on Richter scale occurred 10 miles northeast of San Jose,CA. Automatic seismic protection did not trigger shutdown. Reactors manually shutdown.No radioactive release occurred.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20248J245</link>
-			<description>PRELIMINARY NOTIFICATION OF EVENT OR OCCURRENCE (PNO,, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION V)</author>
-			<pubDate>2024-06-22 08:00:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

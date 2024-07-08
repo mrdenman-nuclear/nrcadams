@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 05 Jul 2024 23:14:41 GMT</pubDate>
-		<lastBuildDate>Fri, 05 Jul 2024 23:14:41 GMT</lastBuildDate>
+		<pubDate>Mon, 08 Jul 2024 14:12:29 GMT</pubDate>
+		<lastBuildDate>Mon, 08 Jul 2024 14:12:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,34 +31,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2024-06-26 14:40:00</pubDate>
-		</item>
-		<item>
-			<title>Submits addl info in response to NRC 880506 ltr re application for license.K&S Assoc will calibr instruments & hosp will use Keithley Instruments digital survey meter.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20248G139</link>
-			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, INCOMING CORRESPONDENCE</description>
-			<author>ONCOLOGY THERAPY CENTER, SCRANTON, PA</author>
-			<pubDate>2024-06-22 07:12:00</pubDate>
-		</item>
-		<item>
-			<title>Advises that licensee must submit,within thirty days of receipt of ltr,plan to update surety to account for revs to reclamation plan.Response to three main concerns contained in NRC 971202 ltr,listed.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20248E566</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
-			<pubDate>2024-06-22 06:30:00</pubDate>
-		</item>
-		<item>
-			<title>Responds to 980415 ltr,advising WJ Sinclair of motion approved by UT Radiation Control Board & State of UT, Attorney General Ofc work to determine best course of action to resolve rock apron issue at Atlas site.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20248E335</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
-			<pubDate>2024-06-22 06:24:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards state of WY claim for reimbursement under Title X of Energy Policy Act for costs associated w/reclamation of American Nuclear Corp site.Costs claimed are supported by reasonable documentation.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20247D763</link>
-			<description>CORRESPONDENCE-LETTERS, EXTERNAL CORRESPONDENCE</description>
-			<author>WYOMING, STATE OF</author>
-			<pubDate>2024-06-22 00:01:00</pubDate>
 		</item>
 	</channel>
 </rss>

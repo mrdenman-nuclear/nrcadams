@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 05 Jul 2024 23:14:34 GMT</pubDate>
-		<lastBuildDate>Fri, 05 Jul 2024 23:14:34 GMT</lastBuildDate>
+		<pubDate>Mon, 08 Jul 2024 14:12:24 GMT</pubDate>
+		<lastBuildDate>Mon, 08 Jul 2024 14:12:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Memoranda</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2024-06-26 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Request For Withholding Proprietary Information Of The Factory Manufacturing And Assembly Report Submitted On April 12 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24149A342</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-06-24 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
