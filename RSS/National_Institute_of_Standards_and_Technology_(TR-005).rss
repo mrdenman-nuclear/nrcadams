@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 08 Jul 2024 23:14:04 GMT</pubDate>
-		<lastBuildDate>Mon, 08 Jul 2024 23:14:04 GMT</lastBuildDate>
+		<pubDate>Tue, 09 Jul 2024 12:20:45 GMT</pubDate>
+		<lastBuildDate>Tue, 09 Jul 2024 12:20:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>NIST - Second Nuclear Safety Culture Assessment Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24166A199</link>
-			<description>Letter</description>
-			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
-			<pubDate>2024-06-25 08:52:00</pubDate>
-		</item>
-		<item>
-			<title>NIST - Independent Third-Party Second Nuclear Safety Culture Assessment, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24166A198</link>
-			<description>Report, Technical</description>
-			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
-			<pubDate>2024-06-25 08:51:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
