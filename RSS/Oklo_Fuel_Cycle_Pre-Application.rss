@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 09 Jul 2024 23:19:14 GMT</pubDate>
-		<lastBuildDate>Tue, 09 Jul 2024 23:19:14 GMT</lastBuildDate>
+		<pubDate>Wed, 10 Jul 2024 14:15:02 GMT</pubDate>
+		<lastBuildDate>Wed, 10 Jul 2024 14:15:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Legal-Affidavit</description>
 			<author>Oklo Inc</author>
 			<pubDate>2024-07-09 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Determination Oklo Waste Management White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24162A332</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-06-26 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Information from Public Disclosure for Oklo Inc. "Transportation of Nuclear Material to and from the Oklo Fuel Recycling Facility"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24163A015</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-06-26 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 09 Jul 2024 23:19:16 GMT</pubDate>
-		<lastBuildDate>Tue, 09 Jul 2024 23:19:16 GMT</lastBuildDate>
+		<pubDate>Wed, 10 Jul 2024 14:15:03 GMT</pubDate>
+		<lastBuildDate>Wed, 10 Jul 2024 14:15:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -94,20 +94,6 @@
 			<description>Meeting Agenda, Meeting Briefing Package/Handouts</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-06-27 08:47:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of Advisory Committee on Reactor Safeguards 715th Full Committee Meeting, May 1, 2024, Pages 1-126 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24178A236</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-06-26 14:40:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - BWRX-300 NEDC-33926 R1 Steel-Plate SCCV RB Structural Design - SC - July 9, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24177A260</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-06-26 08:32:00</pubDate>
 		</item>
 	</channel>
 </rss>

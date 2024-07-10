@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 09 Jul 2024 23:19:14 GMT</pubDate>
-		<lastBuildDate>Tue, 09 Jul 2024 23:19:14 GMT</lastBuildDate>
+		<pubDate>Wed, 10 Jul 2024 14:15:02 GMT</pubDate>
+		<lastBuildDate>Wed, 10 Jul 2024 14:15:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>X-Energy, LLC, Submittal of Project Long Mott Presentation Materials - Civil and Structural Analysis Methodology (Process for Developing Risk-Informed Performance-Based Structural Design Criteria)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24183A402</link>
+			<description>Letter</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2024-07-10 08:34:00</pubDate>
+		</item>
+		<item>
+			<title>X-Energy, LLC, Affidavit Supporting Request for Withholding from Public Disclosure (10 CFR 2.390)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24183A403</link>
+			<description>Legal-Affidavit</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2024-07-10 08:34:00</pubDate>
+		</item>
 		<item>
 			<title>08/01/2024 Meeting with X-energy pertaining to Project Long Mott</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24187A100</link>
@@ -45,13 +59,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-07-02 12:59:00</pubDate>
-		</item>
-		<item>
-			<title>Request For Withholding Information From Public Disclosure For X Energy, LLC., - 2024 Project Long Mott Regulatory Engagement Plan</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24143A016</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-06-26 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
