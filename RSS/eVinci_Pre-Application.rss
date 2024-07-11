@@ -5,25 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 10 Jul 2024 23:14:22 GMT</pubDate>
-		<lastBuildDate>Wed, 10 Jul 2024 23:14:22 GMT</lastBuildDate>
+		<pubDate>Thu, 11 Jul 2024 14:14:32 GMT</pubDate>
+		<lastBuildDate>Thu, 11 Jul 2024 14:14:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Westinghouse, Transmittal of Presentation from CNSC/NRC Technical Exchange on June 19-20, 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24184A039</link>
+			<description>Letter</description>
+			<author>Westinghouse Electric Co</author>
+			<pubDate>2024-07-11 08:35:00</pubDate>
+		</item>
+		<item>
+			<title>Westinghouse, Affidavit AW-24-039</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24184A040</link>
+			<description>Legal-Affidavit</description>
+			<author>Westinghouse Electric Co</author>
+			<pubDate>2024-07-11 08:35:00</pubDate>
+		</item>
 		<item>
 			<title>Westinghouse Electric Co - Meeting Summary eVinci Principal Design Criteria TR on April 22, 2024</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24155A076</link>
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2024-07-01 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>07/15/2024 Partially Closed Meeting- Westinghouse Electric Co -eVinci Fuel Design Methodology Topical Report Pre-submittal Meeting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24179A306</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-06-27 16:10:00</pubDate>
 		</item>
 	</channel>
 </rss>

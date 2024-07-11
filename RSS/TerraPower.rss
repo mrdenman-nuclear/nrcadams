@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 10 Jul 2024 23:14:27 GMT</pubDate>
-		<lastBuildDate>Wed, 10 Jul 2024 23:14:27 GMT</lastBuildDate>
+		<pubDate>Thu, 11 Jul 2024 14:14:37 GMT</pubDate>
+		<lastBuildDate>Thu, 11 Jul 2024 14:14:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,20 +38,6 @@
 			<description>Committee Letter Report</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-06-28 09:24:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - TerraPower Natrium Analysis of Potential Volcanic Hazards Topical Report Review - SC - July 9, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24178A384</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-06-27 08:47:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (2) of Jeffrey Amelse on US SFR Owner, LLC.; Kemmerer Power Station Unit 1; Notice of Intent To Conduct Scoping Process and Prepare Environmental Impact Statement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24172A033</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2024-06-27 08:45:00</pubDate>
 		</item>
 	</channel>
 </rss>
