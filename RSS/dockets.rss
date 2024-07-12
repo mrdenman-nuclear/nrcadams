@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 12 Jul 2024 18:19:00 GMT</pubDate>
-		<lastBuildDate>Fri, 12 Jul 2024 18:19:00 GMT</lastBuildDate>
+		<pubDate>Fri, 12 Jul 2024 19:12:32 GMT</pubDate>
+		<lastBuildDate>Fri, 12 Jul 2024 19:12:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SMR, LLC, Preapplication Meeting Materials for July 19, 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24190A063</link>
+			<description>Letter</description>
+			<author>SMR, LLC</author>
+			<pubDate>2024-07-12 14:46:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 3: Affidavit Pursuant to 10 CFR 2.390 to Withhold Information from Public Disclosure (NP)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24190A066</link>
+			<description>Legal-Affidavit</description>
+			<author>SMR, LLC</author>
+			<pubDate>2024-07-12 14:46:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1: SMR, LLC Public Meeting Presentation Materials for July 19, 2024 (NP)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24190A064</link>
+			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2024-07-12 14:46:00</pubDate>
+		</item>
 		<item>
 			<title>07/24/2024 Safety Basis Development Approach for Oklo Fuel Recycling Facility</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24194A135</link>
@@ -199,27 +220,6 @@
 			<description>Letter</description>
 			<author>Oklo Inc</author>
 			<pubDate>2024-07-08 08:27:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo, Inc., Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24180A067</link>
-			<description>Legal-Affidavit</description>
-			<author>Oklo Inc</author>
-			<pubDate>2024-07-08 08:27:00</pubDate>
-		</item>
-		<item>
-			<title>07/22/2024 Call between the NRC and TRISO-X staff regarding chemical safety to discuss technical items related to the license application for a fuel fabrication facility.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24187A157</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-07-05 16:04:00</pubDate>
-		</item>
-		<item>
-			<title>07/17/2024 Call between the NRC and TRISO-X staff to continue discussions regarding the NRC request to supplement the requests for additional information (RAIs) related to management measures.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24187A156</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-07-05 16:03:00</pubDate>
 		</item>
 	</channel>
 </rss>
