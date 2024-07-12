@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 12 Jul 2024 15:14:43 GMT</pubDate>
-		<lastBuildDate>Fri, 12 Jul 2024 15:14:43 GMT</lastBuildDate>
+		<pubDate>Fri, 12 Jul 2024 16:17:48 GMT</pubDate>
+		<lastBuildDate>Fri, 12 Jul 2024 16:17:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Kairos Power LLC, Metallic Material Qualification Topical Report Limitations and Conditions Closure Plans</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24183A408</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2024-07-12 11:45:00</pubDate>
+		</item>
 		<item>
 			<title>X-Energy, LLC, Submittal of Project Long Mott Presentation Materials - Sharing of Structures and Systems</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24185A262</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-07-05 12:09:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower - Audit Plan - Instrumentation and Control Architecture and Design Basis Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24163A003</link>
-			<description>Audit Plan</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-07-05 08:26:00</pubDate>
 		</item>
 	</channel>
 </rss>
