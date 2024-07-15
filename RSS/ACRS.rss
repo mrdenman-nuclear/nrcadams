@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 12 Jul 2024 23:14:48 GMT</pubDate>
-		<lastBuildDate>Fri, 12 Jul 2024 23:14:48 GMT</lastBuildDate>
+		<pubDate>Mon, 15 Jul 2024 14:14:10 GMT</pubDate>
+		<lastBuildDate>Mon, 15 Jul 2024 14:14:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,20 +66,6 @@
 			<description>Meeting Minutes, Memoranda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-07-02 09:48:00</pubDate>
-		</item>
-		<item>
-			<title>Revised Agenda - 717th ACRS Full Committee Meeting - July 10-12 2024 Supersedes ML24143A137</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24162A001</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-07-01 16:19:00</pubDate>
-		</item>
-		<item>
-			<title>Draft Safety Evaluation of Terrapower Topical Report, “Principal Design Criteria For The Natrium Advanced Reactor,” Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24170A853</link>
-			<description>Letter</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-07-01 09:34:00</pubDate>
 		</item>
 	</channel>
 </rss>

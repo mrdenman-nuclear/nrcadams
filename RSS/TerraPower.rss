@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 12 Jul 2024 23:14:52 GMT</pubDate>
-		<lastBuildDate>Fri, 12 Jul 2024 23:14:52 GMT</lastBuildDate>
+		<pubDate>Mon, 15 Jul 2024 14:14:15 GMT</pubDate>
+		<lastBuildDate>Mon, 15 Jul 2024 14:14:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Environmental Scoping Meeting for the Kemmerer Unit 1 Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24197A036</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NMSS/DREFS/EPMB3</author>
+			<pubDate>2024-07-15 09:51:00</pubDate>
+		</item>
 		<item>
 			<title>Denial Of Fee Exemption Request For Review And Evaluation Of Safety And Security Portions Of The USO Construction Permit Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24177A274</link>
@@ -31,13 +38,6 @@
 			<description>Press Release</description>
 			<author>NRC/OPA</author>
 			<pubDate>2024-07-03 09:39:00</pubDate>
-		</item>
-		<item>
-			<title>Draft Safety Evaluation of Terrapower Topical Report, “Principal Design Criteria For The Natrium Advanced Reactor,” Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24170A853</link>
-			<description>Letter</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-07-01 09:34:00</pubDate>
 		</item>
 	</channel>
 </rss>

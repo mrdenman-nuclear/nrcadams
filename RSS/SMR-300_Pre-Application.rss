@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 12 Jul 2024 23:14:47 GMT</pubDate>
-		<lastBuildDate>Fri, 12 Jul 2024 23:14:47 GMT</lastBuildDate>
+		<pubDate>Mon, 15 Jul 2024 14:14:09 GMT</pubDate>
+		<lastBuildDate>Mon, 15 Jul 2024 14:14:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,34 +45,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-07-08 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Regulatory Engagement Plan, HI-2240423, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24173A233</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
-			<pubDate>2024-07-01 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Regulatory Engagement Plan Report No. HI-2240423, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24173A234</link>
-			<description>Report, Technical</description>
-			<author>SMR, LLC</author>
-			<pubDate>2024-07-01 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Preapplication Meeting Materials for July 11, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24173A247</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
-			<pubDate>2024-07-01 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Environmental Qualification Program SMR-300</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24173A248</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>SMR, LLC</author>
-			<pubDate>2024-07-01 08:33:00</pubDate>
 		</item>
 	</channel>
 </rss>
