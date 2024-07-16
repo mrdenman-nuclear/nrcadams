@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 15 Jul 2024 23:17:02 GMT</pubDate>
-		<lastBuildDate>Mon, 15 Jul 2024 23:17:02 GMT</lastBuildDate>
+		<pubDate>Tue, 16 Jul 2024 14:16:29 GMT</pubDate>
+		<lastBuildDate>Tue, 16 Jul 2024 14:16:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Public Workshop on Risk Metrics for Advanced Reactors - Presentation from X-energy - Risk-Informed Design Basis Hazard Levels</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24197A173</link>
+			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>X-Energy</author>
+			<pubDate>2024-07-16 08:28:00</pubDate>
+		</item>
 		<item>
 			<title>Revised Agenda for Public Workshop on Development of Risk Metrics to Support Implementation of Risk-Informed Programs for Advanced Reactors</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24197A160</link>
@@ -31,20 +38,6 @@
 			<description>FACT Sheet</description>
 			<author>NRC/OPA</author>
 			<pubDate>2024-07-10 15:02:00</pubDate>
-		</item>
-		<item>
-			<title>07/18/2024 Public Workshop on Development of Risk Metrics to Support Implementation of Risk-Informed Programs for Advanced Reactors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24184B890</link>
-			<description>Meeting Agenda, Meeting Notice</description>
-			<author>NRC/RES</author>
-			<pubDate>2024-07-02 15:45:00</pubDate>
-		</item>
-		<item>
-			<title>Public Meeting Notification: Public Workshop on Development of Risk Metrics to Support Implementation of Risk-Informed Programs for Advanced Reactors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24184A063</link>
-			<description>Meeting Agenda, Meeting Notice</description>
-			<author>NRC/RES/DRA/PRB</author>
-			<pubDate>2024-07-02 11:11:00</pubDate>
 		</item>
 	</channel>
 </rss>

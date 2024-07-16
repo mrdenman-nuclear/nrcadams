@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 15 Jul 2024 23:16:54 GMT</pubDate>
-		<lastBuildDate>Mon, 15 Jul 2024 23:16:54 GMT</lastBuildDate>
+		<pubDate>Tue, 16 Jul 2024 14:16:24 GMT</pubDate>
+		<lastBuildDate>Tue, 16 Jul 2024 14:16:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Completeness Review Determination - X-Energy Topical Reports</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24187A134</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-07-16 08:27:00</pubDate>
+		</item>
+	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 15 Jul 2024 23:16:56 GMT</pubDate>
-		<lastBuildDate>Mon, 15 Jul 2024 23:16:56 GMT</lastBuildDate>
+		<pubDate>Tue, 16 Jul 2024 14:16:25 GMT</pubDate>
+		<lastBuildDate>Tue, 16 Jul 2024 14:16:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,20 +52,6 @@
 			<description>Meeting Transcript, Slides and Viewgraphs</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-07-08 09:33:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - Region II Annual Regional Visitation - SC - July 25, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24172A188</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-07-02 16:18:00</pubDate>
-		</item>
-		<item>
-			<title>Minutes Of The 715th Meeting Of The Advisory Committee On Reactor Safeguards (ACRS), April 30 - May 2, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24179A342</link>
-			<description>Meeting Minutes, Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-07-02 09:48:00</pubDate>
 		</item>
 	</channel>
 </rss>
