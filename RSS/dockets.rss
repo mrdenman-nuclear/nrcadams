@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 18 Jul 2024 15:16:45 GMT</pubDate>
-		<lastBuildDate>Thu, 18 Jul 2024 15:16:45 GMT</lastBuildDate>
+		<pubDate>Thu, 18 Jul 2024 16:18:18 GMT</pubDate>
+		<lastBuildDate>Thu, 18 Jul 2024 16:18:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>GE-Hitachi Nuclear Energy Americas, LLC - NEDC-33934P/NEDO-33934, Revision 1, BWRX-300 Safety Strategy Licensing Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24173A200</link>
+			<description>Letter</description>
+			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
+			<pubDate>2024-07-18 11:44:00</pubDate>
+		</item>
+		<item>
+			<title>GE-Hitachi Nuclear Energy Americas, LLC - NEDO-33934, Revision 1, BWRX-300 Safety Strategy</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24173A202</link>
+			<description>Topical Report</description>
+			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
+			<pubDate>2024-07-18 11:43:00</pubDate>
+		</item>
+		<item>
+			<title>GE-Hitachi Nuclear Energy Americas, LLC - Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24173A203</link>
+			<description>Legal-Affidavit</description>
+			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
+			<pubDate>2024-07-18 11:43:00</pubDate>
+		</item>
 		<item>
 			<title>X Energy, LLC, Project Long Mott GeoTechnical and Groundwater Modeling Approach</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24179A316</link>
@@ -199,27 +220,6 @@
 			<description>Letter</description>
 			<author>Westinghouse Electric Co</author>
 			<pubDate>2024-07-11 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse, Affidavit AW-24-039</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24184A040</link>
-			<description>Legal-Affidavit</description>
-			<author>Westinghouse Electric Co</author>
-			<pubDate>2024-07-11 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>2024/06/26 NRR E-mail Capture - [External_Sender] RE: Proposed Revised Schedule: TerraPower "Stability Methodology Topical Report" (L-2023-TOP-0057)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24178A121</link>
-			<description>E-Mail</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2024-07-10 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>X-Energy, LLC, Submittal of Project Long Mott Presentation Materials - Civil and Structural Analysis Methodology (Process for Developing Risk-Informed Performance-Based Structural Design Criteria)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24183A402</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2024-07-10 08:34:00</pubDate>
 		</item>
 	</channel>
 </rss>
