@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 18 Jul 2024 22:14:39 GMT</pubDate>
-		<lastBuildDate>Thu, 18 Jul 2024 22:14:39 GMT</lastBuildDate>
+		<pubDate>Fri, 19 Jul 2024 14:16:18 GMT</pubDate>
+		<lastBuildDate>Fri, 19 Jul 2024 14:16:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Legal-Affidavit</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2024-07-10 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>08/01/2024 Meeting with X-energy pertaining to Project Long Mott</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24187A100</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-07-05 12:09:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 18 Jul 2024 22:14:40 GMT</pubDate>
-		<lastBuildDate>Thu, 18 Jul 2024 22:14:40 GMT</lastBuildDate>
+		<pubDate>Fri, 19 Jul 2024 14:16:18 GMT</pubDate>
+		<lastBuildDate>Fri, 19 Jul 2024 14:16:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Audit Plan for the Regulatory Audit of the GE Hitachi Topical Report NEDC-33934P/NEDO-33934, Revision 1, BWRX-300 Safety Strategy (Docket No. 99900003)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24144A192</link>
+			<description>Audit Plan, Topical Report</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-07-19 08:35:00</pubDate>
+		</item>
+		<item>
+			<title>NRC 897 - REV 1 Withholding Determination</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24193A085</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-07-19 08:34:00</pubDate>
+		</item>
+		<item>
+			<title>Withholding Determination GEH SS TR Rev1 Acknowledgment Letter Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24193A084</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-07-19 08:34:00</pubDate>
+		</item>
+		<item>
+			<title>Memo - Audit Plan for the Regulatory Audit of the GE Hitachi Topical Report NEDC-33934P NEDO-33934, Revision 1, BWRX-300 Safety Strategy (Docket No. 99900003)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24144A193</link>
+			<description>Memoranda</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-07-19 08:34:00</pubDate>
+		</item>
 		<item>
 			<title>GE-Hitachi Nuclear Energy Americas, LLC - NEDC-33934P/NEDO-33934, Revision 1, BWRX-300 Safety Strategy Licensing Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24173A200</link>
@@ -31,13 +59,6 @@
 			<description>Legal-Affidavit</description>
 			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
 			<pubDate>2024-07-18 11:43:00</pubDate>
-		</item>
-		<item>
-			<title>2024/06/20 GEH BWRX-300 SMR - April 25, 2024 Pre-Application Public & Partially Closed Meeting with GEH regarding BWRX-300 Reactor Stability</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24172A107</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2024-07-05 08:24:00</pubDate>
 		</item>
 	</channel>
 </rss>

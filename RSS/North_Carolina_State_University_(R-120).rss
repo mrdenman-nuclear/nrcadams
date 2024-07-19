@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 18 Jul 2024 22:14:40 GMT</pubDate>
-		<lastBuildDate>Thu, 18 Jul 2024 22:14:40 GMT</lastBuildDate>
+		<pubDate>Fri, 19 Jul 2024 14:16:19 GMT</pubDate>
+		<lastBuildDate>Fri, 19 Jul 2024 14:16:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>North Carolina State University - Report for Event Number 57196 "Technical Specification Violation"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24193A107</link>
+			<description>Letter, Written Event Report (30 or 60 day)</description>
+			<author>North Carolina State Univ</author>
+			<pubDate>2024-07-19 08:33:00</pubDate>
+		</item>
+	</channel>
 </rss>
