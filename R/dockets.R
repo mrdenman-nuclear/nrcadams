@@ -48,7 +48,8 @@ docket_codex = tibble::tribble(
   "Hermes 2 Unit 2 Part 50", "Kairos Power", 05000612, TRUE,
   "Oklo Reactor Pre-Application", "Oklo", 99902095, TRUE,
   "Oklo Fuel Cycle Pre-Application", "Oklo", 99902101, TRUE,
-  "Aurora Part 52", "Oklo", 05200049, TRUE
+  "Aurora Part 52", "Oklo", 05200049, TRUE,
+  "Aalo-1 Pre-Application","Aalo", 99902128, TRUE
 )
 
 #' Codex of Research and Test Reactor Docket Numbers
