@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 19 Jul 2024 23:15:02 GMT</pubDate>
-		<lastBuildDate>Fri, 19 Jul 2024 23:15:02 GMT</lastBuildDate>
+		<pubDate>Mon, 22 Jul 2024 14:15:42 GMT</pubDate>
+		<lastBuildDate>Mon, 22 Jul 2024 14:15:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,13 +66,6 @@
 			<description>FACT Sheet</description>
 			<author>NRC/OPA</author>
 			<pubDate>2024-07-10 15:02:00</pubDate>
-		</item>
-		<item>
-			<title>2024/06/25 - Comment (1125) E-mail regarding Monticello SLR Draft EIS</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24178A040</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>Public Commenter</author>
-			<pubDate>2024-07-08 08:27:00</pubDate>
 		</item>
 	</channel>
 </rss>

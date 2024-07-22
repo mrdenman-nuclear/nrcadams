@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 19 Jul 2024 23:14:58 GMT</pubDate>
-		<lastBuildDate>Fri, 19 Jul 2024 23:14:58 GMT</lastBuildDate>
+		<pubDate>Mon, 22 Jul 2024 14:15:38 GMT</pubDate>
+		<lastBuildDate>Mon, 22 Jul 2024 14:15:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,20 +17,6 @@
 			<description>Letter</description>
 			<author>NorthStar Vallecitos, LLC</author>
 			<pubDate>2024-07-09 13:17:00</pubDate>
-		</item>
-		<item>
-			<title>GEH/GNF-A Financial Assurance of Decommissioning Funds - Standby Trust Agreement Amendments</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML18096A039</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>Global Nuclear Fuel - Americas, LLC</author>
-			<pubDate>2024-07-08 15:58:00</pubDate>
-		</item>
-		<item>
-			<title>Letter 18-022 M180065 GEH-GNF-A NRC Decommissioning Surety Bonds 3-27-18</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML18087A176</link>
-			<description>Financial Assurance Document, Legal-Affidavit, Letter</description>
-			<author>Global Nuclear Fuel - Americas, LLC</author>
-			<pubDate>2024-07-08 15:58:00</pubDate>
 		</item>
 	</channel>
 </rss>

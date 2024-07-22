@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 19 Jul 2024 23:15:02 GMT</pubDate>
-		<lastBuildDate>Fri, 19 Jul 2024 23:15:02 GMT</lastBuildDate>
+		<pubDate>Mon, 22 Jul 2024 14:15:42 GMT</pubDate>
+		<lastBuildDate>Mon, 22 Jul 2024 14:15:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -143,13 +143,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2024-07-09 12:30:00</pubDate>
-		</item>
-		<item>
-			<title>US Dept. of Transportation, Maritime Administration - Submittal of CR-137, Supplemental Environmental Assessment and Finding of No Significant Impact</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24145A128</link>
-			<description>Environmental Assessment, Letter</description>
-			<author>US Dept of Transportation, Maritime Admin, US Dept of Transportation, Office of Ship Operations</author>
-			<pubDate>2024-07-08 10:43:00</pubDate>
 		</item>
 	</channel>
 </rss>
