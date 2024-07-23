@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 22 Jul 2024 23:14:55 GMT</pubDate>
-		<lastBuildDate>Mon, 22 Jul 2024 23:14:55 GMT</lastBuildDate>
+		<pubDate>Tue, 23 Jul 2024 14:15:32 GMT</pubDate>
+		<lastBuildDate>Tue, 23 Jul 2024 14:15:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,13 +66,6 @@
 			<description>Meeting Transcript, Slides and Viewgraphs</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-07-16 14:46:00</pubDate>
-		</item>
-		<item>
-			<title>June 5, 2024 Summary of Meeting on Medical Uses of Isotopes (ACMUI)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24191A469</link>
-			<description>Meeting Agenda, Meeting Summary</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-07-09 15:34:00</pubDate>
 		</item>
 	</channel>
 </rss>

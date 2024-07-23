@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 22 Jul 2024 23:14:53 GMT</pubDate>
-		<lastBuildDate>Mon, 22 Jul 2024 23:14:53 GMT</lastBuildDate>
+		<pubDate>Tue, 23 Jul 2024 14:15:31 GMT</pubDate>
+		<lastBuildDate>Tue, 23 Jul 2024 14:15:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,20 +38,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-07-15 10:09:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo Inc., Licensing Project Plan (Fuel Recycling): 2Q2024 Update</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24179A319</link>
-			<description>Letter</description>
-			<author>Oklo Inc</author>
-			<pubDate>2024-07-09 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo Inc., Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24179A320</link>
-			<description>Legal-Affidavit</description>
-			<author>Oklo Inc</author>
-			<pubDate>2024-07-09 08:37:00</pubDate>
 		</item>
 	</channel>
 </rss>
