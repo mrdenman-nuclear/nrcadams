@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 25 Jul 2024 14:14:23 GMT</pubDate>
-		<lastBuildDate>Thu, 25 Jul 2024 14:14:23 GMT</lastBuildDate>
+		<pubDate>Thu, 25 Jul 2024 15:15:48 GMT</pubDate>
+		<lastBuildDate>Thu, 25 Jul 2024 15:15:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SECY-24-0064: Weekly Information Report Week Ending July 19, 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24205A229</link>
+			<description>Commission SECY Paper, Weekly Information Report</description>
+			<author>NRC/EDO/AO</author>
+			<pubDate>2024-07-25 10:27:00</pubDate>
+		</item>
 		<item>
 			<title>1-Insights from 07-18-24 Workshop on Risk Metrics and Reliability Data to Support Risk-Informed Program for Advanced Reactors.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24205A021</link>
