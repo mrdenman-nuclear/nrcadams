@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 25 Jul 2024 18:18:46 GMT</pubDate>
-		<lastBuildDate>Thu, 25 Jul 2024 18:18:46 GMT</lastBuildDate>
+		<pubDate>Thu, 25 Jul 2024 19:13:02 GMT</pubDate>
+		<lastBuildDate>Thu, 25 Jul 2024 19:13:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>X-Energy, LLC, Sharing of Structures and Systems Long Mott Plant Configuration</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24185A264</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2024-07-25 14:39:00</pubDate>
+		</item>
 		<item>
 			<title>UIUC - Safety Evaluation For Topical Report Related To Principal Design Criteria (EPID L-2023?NFN?0013)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24155A168</link>
@@ -213,13 +220,6 @@
 			<description>Legal-Affidavit, Letter</description>
 			<author>Westinghouse Electric Co, LLC</author>
 			<pubDate>2024-07-19 09:56:00</pubDate>
-		</item>
-		<item>
-			<title>Audit Plan for the Regulatory Audit of the GE Hitachi Topical Report NEDC-33934P/NEDO-33934, Revision 1, BWRX-300 Safety Strategy (Docket No. 99900003)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24144A192</link>
-			<description>Audit Plan, Topical Report</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-07-19 08:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
