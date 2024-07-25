@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 25 Jul 2024 19:13:02 GMT</pubDate>
-		<lastBuildDate>Thu, 25 Jul 2024 19:13:02 GMT</lastBuildDate>
+		<pubDate>Thu, 25 Jul 2024 20:15:19 GMT</pubDate>
+		<lastBuildDate>Thu, 25 Jul 2024 20:15:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Email Readiness Assessment Plan For XE-100 Graphite Structural Analysis and Qualification Methodologies Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24197A049</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-07-25 16:12:00</pubDate>
+		</item>
+		<item>
+			<title>Pre-Submittal Readiness Assessment Plan for XE-100 "Graphite Structural Analysis And Qualification Methodologies Topical Report"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24197A050</link>
+			<description>Topical Report</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-07-25 16:12:00</pubDate>
+		</item>
 		<item>
 			<title>X-Energy, LLC, Sharing of Structures and Systems Long Mott Plant Configuration</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24185A264</link>
@@ -206,20 +220,6 @@
 			<description>Safety Evaluation</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2024-07-19 10:39:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Transmittal of Public Session Presentation Slides to Support the Westinghouse-NRC Pre-Submittal Meeting on the Westinghouse AP300 SMR Core Design & Fuel Cycle White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24031A570</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2024-07-19 09:56:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal of Presentation Slides to Support the Westinghouse-NRC Pre-Submittal Meeting on the Westinghouse AP300 SMR Core Design & Fuel Cycle White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24031A569</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2024-07-19 09:56:00</pubDate>
 		</item>
 	</channel>
 </rss>
