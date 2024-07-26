@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 25 Jul 2024 23:16:10 GMT</pubDate>
-		<lastBuildDate>Thu, 25 Jul 2024 23:16:10 GMT</lastBuildDate>
+		<pubDate>Fri, 26 Jul 2024 14:14:07 GMT</pubDate>
+		<lastBuildDate>Fri, 26 Jul 2024 14:14:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2024/07/12 NRR E-mail Capture - [External_Sender] Proprietary Classification in Hi Temperature Materials Topical Report Conditions Presentation Materials related to July 22, 2024 public meeting.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24194A087</link>
+			<description>E-Mail</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2024-07-26 08:31:00</pubDate>
+		</item>
 		<item>
 			<title>Withholding Letter - Kairos presentation 7-22-24 meeting.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24192A176</link>
@@ -45,34 +52,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2024-07-15 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Metallic Material Qualification Topical Report Limitations and Conditions Closure Plans</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24183A408</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2024-07-12 11:45:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Form 897 Proprietary Withholding Determination.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24184A057</link>
-			<description>Proprietary Information Review, Topical Report</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-07-12 08:45:00</pubDate>
-		</item>
-		<item>
-			<title>Email transmitting Forms 897 and 898.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24184A056</link>
-			<description>Acceptance Review Letter, E-Mail</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-07-12 08:45:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Form 898 Topical Report Completeness Determination.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24184A058</link>
-			<description>Acceptance Review Letter, Topical Report</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-07-12 08:37:00</pubDate>
 		</item>
 	</channel>
 </rss>

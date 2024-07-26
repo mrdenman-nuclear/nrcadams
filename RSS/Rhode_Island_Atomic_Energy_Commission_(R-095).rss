@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 25 Jul 2024 23:16:11 GMT</pubDate>
-		<lastBuildDate>Thu, 25 Jul 2024 23:16:11 GMT</lastBuildDate>
+		<pubDate>Fri, 26 Jul 2024 14:14:08 GMT</pubDate>
+		<lastBuildDate>Fri, 26 Jul 2024 14:14:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>State of RI, Atomic Energy Comm., Annual Report Required by the RINSC Technical Specifications</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24200A163</link>
+			<description>Letter, Report, Miscellaneous</description>
+			<author>State of RI, Atomic Energy Comm</author>
+			<pubDate>2024-07-26 08:32:00</pubDate>
+		</item>
+	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 25 Jul 2024 23:16:16 GMT</pubDate>
-		<lastBuildDate>Thu, 25 Jul 2024 23:16:16 GMT</lastBuildDate>
+		<pubDate>Fri, 26 Jul 2024 14:14:12 GMT</pubDate>
+		<lastBuildDate>Fri, 26 Jul 2024 14:14:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NUREG-2267, "NRCDose3 Code Version 1.1.4 User Guide and Technical Manual"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24207A225</link>
+			<description>Manual, NUREG</description>
+			<author>Chesapeake Nuclear Services, Inc, NRC/RES</author>
+			<pubDate>2024-07-26 09:34:00</pubDate>
+		</item>
 		<item>
 			<title>NUREG-1437, Supplement 7a, Second Renewal, "Site-Specific Environmental Impact Statement for License Renewal of Nuclear Plants Regarding Subsequent License Renewal for North Anna Power Station Units 1 and 2" Final Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24204A104</link>
@@ -122,13 +129,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/NMSS/DREFS/ELRB</author>
 			<pubDate>2024-07-15 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Holtec International, Final Safety Analysis Report on the HI-STORM UMAX Canister Storage System</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24180A168</link>
-			<description>Final Safety Analysis Report (FSAR)</description>
-			<author>Holtec International</author>
-			<pubDate>2024-07-12 14:46:00</pubDate>
 		</item>
 	</channel>
 </rss>
