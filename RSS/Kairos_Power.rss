@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 26 Jul 2024 23:14:28 GMT</pubDate>
-		<lastBuildDate>Fri, 26 Jul 2024 23:14:28 GMT</lastBuildDate>
+		<pubDate>Mon, 29 Jul 2024 14:15:37 GMT</pubDate>
+		<lastBuildDate>Mon, 29 Jul 2024 14:15:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,13 +73,6 @@
 			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-07-16 14:46:00</pubDate>
-		</item>
-		<item>
-			<title>VR-SECY-24-0032: Revisiting the Mandatory Hearing Process at the U.S. Nuclear Regulatory Commission (Caputo)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24197A064</link>
-			<description>Commission Voting Record (CVR)</description>
-			<author>NRC/OCM</author>
-			<pubDate>2024-07-15 11:45:00</pubDate>
 		</item>
 	</channel>
 </rss>

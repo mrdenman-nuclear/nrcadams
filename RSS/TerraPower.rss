@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 26 Jul 2024 23:14:28 GMT</pubDate>
-		<lastBuildDate>Fri, 26 Jul 2024 23:14:28 GMT</lastBuildDate>
+		<pubDate>Mon, 29 Jul 2024 14:15:37 GMT</pubDate>
+		<lastBuildDate>Mon, 29 Jul 2024 14:15:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,13 +52,6 @@
 			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-07-16 14:46:00</pubDate>
-		</item>
-		<item>
-			<title>Environmental Scoping Meeting for the Kemmerer Unit 1 Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24197A036</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2024-07-15 09:51:00</pubDate>
 		</item>
 	</channel>
 </rss>
