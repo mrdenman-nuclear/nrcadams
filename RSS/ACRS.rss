@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 30 Jul 2024 19:17:09 GMT</pubDate>
-		<lastBuildDate>Tue, 30 Jul 2024 19:17:09 GMT</lastBuildDate>
+		<pubDate>Tue, 30 Jul 2024 20:15:19 GMT</pubDate>
+		<lastBuildDate>Tue, 30 Jul 2024 20:15:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Summarizes ACRS 820304-06 meeting re licensee proposal to perform sys interactions study.Util should conduct proposed walkdown phase of study during upcoming plant shutdown for refueling.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML093451175</link>
+			<description>CORRESPONDENCE-LETTERS, INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2024-07-30 15:55:00</pubDate>
+		</item>
 		<item>
 			<title>Transcript of ACRS Ad Hoc Subcommittee on TVA 860612 meeting in Chattanooga,TN.Pp 1-322.Supporting documentation encl.Continuation of Transcript.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML083250656</link>
@@ -213,13 +220,6 @@
 			<description>Legal-Deposition, Legal-Narrative Testimony, Legal-Order, Legal-Pleading, Meeting Transcript, Transcript</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-07-30 13:57:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of ACRS Subcommittee on Quality & QA in Design & Const (Watts Bar) 850626 meeting in Washington,DC.Pp 1-225. Supporting documentation encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML082520491</link>
-			<description>LEGAL TRANSCRIPTS & ORDERS & PLEADINGS, TRANSCRIPTS, DEPOSITIONS, NARRATIVE TESTIMONY</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-07-30 13:55:00</pubDate>
 		</item>
 	</channel>
 </rss>
