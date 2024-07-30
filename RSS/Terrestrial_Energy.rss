@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 29 Jul 2024 23:14:29 GMT</pubDate>
-		<lastBuildDate>Mon, 29 Jul 2024 23:14:29 GMT</lastBuildDate>
+		<pubDate>Tue, 30 Jul 2024 14:14:37 GMT</pubDate>
+		<lastBuildDate>Tue, 30 Jul 2024 14:14:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Prairie Island, Units 1 and 2 - Updated Safety Analysis Report (USAR), Revision 38, Section 2, Site And Environs</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24128A102</link>
+			<description>Updated Final Safety Analysis Report (UFSAR)</description>
+			<author>Northern States Power Company, Minnesota, Xcel Energy</author>
+			<pubDate>2024-07-30 09:21:00</pubDate>
+		</item>
+		<item>
+			<title>NUREG-2266, "Environmental Evaluation of Accident Tolerant Fuels with Increased Enrichment and Higher Burnup Levels" Final Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24207A210</link>
+			<description>NUREG</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2024-07-30 08:36:00</pubDate>
+		</item>
 		<item>
 			<title>Palo Verde, Unit 1, Current Facility Operating License NPF-41, Tech Specs, Revised 07/26/2024.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053110045</link>
@@ -94,41 +108,6 @@
 			<description>Environmental Monitoring Report, Letter, Periodic Monitoring Report (Radiological/Environmental)</description>
 			<author>Constellation Energy Generation, LLC</author>
 			<pubDate>2024-07-17 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>St. Lucie Plant, Unit No. 2, Current Facility Operating License NPF-016, Tech Specs, 07/16/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052800077</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-07-16 13:55:00</pubDate>
-		</item>
-		<item>
-			<title>St. Lucie Plant, Unit No. 1, Current Facility Operating License DPR-067, Tech Specs, Revised 07/16/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052790654</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-07-16 13:53:00</pubDate>
-		</item>
-		<item>
-			<title>Watts Bar, Unit 2, Current Facility Operating License NPF-96, Tech Specs, Revised 07/16/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML15301A140</link>
-			<description>Environmental Protection Plan, Letter, License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR/DORL</author>
-			<pubDate>2024-07-16 10:19:00</pubDate>
-		</item>
-		<item>
-			<title>Watts Bar, Unit 1, Current Facility Operating License NPF-90, Tech Specs, Revised 07/16/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052930169</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-07-16 10:16:00</pubDate>
-		</item>
-		<item>
-			<title>Crystal River LTP Environmental Assessment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24081A068</link>
-			<description>Environmental Assessment</description>
-			<author>NRC/NMSS/DREFS/ERMB</author>
-			<pubDate>2024-07-16 09:41:00</pubDate>
 		</item>
 	</channel>
 </rss>

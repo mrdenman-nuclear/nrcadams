@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 29 Jul 2024 23:14:29 GMT</pubDate>
-		<lastBuildDate>Mon, 29 Jul 2024 23:14:29 GMT</lastBuildDate>
+		<pubDate>Tue, 30 Jul 2024 14:14:37 GMT</pubDate>
+		<lastBuildDate>Tue, 30 Jul 2024 14:14:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,20 +52,6 @@
 			<description>Graphics incl Charts and Tables, Schedule and Calendars</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-07-17 14:41:00</pubDate>
-		</item>
-		<item>
-			<title>07/18/2024 Public Workshop on Development of Risk Metrics to Support Implementation of Risk-Informed Programs for Advanced Reactors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24198A198</link>
-			<description>Meeting Agenda, Meeting Notice</description>
-			<author>NRC/RES</author>
-			<pubDate>2024-07-16 15:25:00</pubDate>
-		</item>
-		<item>
-			<title>Public Workshop on Risk Metrics for Advanced Reactors - Presentation from X-energy - Risk-Informed Design Basis Hazard Levels</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24197A173</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>X-Energy</author>
-			<pubDate>2024-07-16 08:28:00</pubDate>
 		</item>
 	</channel>
 </rss>

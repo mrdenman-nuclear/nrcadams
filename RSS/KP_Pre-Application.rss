@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 29 Jul 2024 23:14:24 GMT</pubDate>
-		<lastBuildDate>Mon, 29 Jul 2024 23:14:24 GMT</lastBuildDate>
+		<pubDate>Tue, 30 Jul 2024 14:14:33 GMT</pubDate>
+		<lastBuildDate>Tue, 30 Jul 2024 14:14:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2024-07-22 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>2024/07/15 Kairos Power Pre-App Doc - NRC staff Slides for public meeting with Kairos on geologic mapping condition and foundation design for Hermes</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24197A172</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-07-16 14:46:00</pubDate>
 		</item>
 	</channel>
 </rss>
