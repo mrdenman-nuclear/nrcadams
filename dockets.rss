@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 30 Jul 2024 14:14:30 GMT</pubDate>
-		<lastBuildDate>Tue, 30 Jul 2024 14:14:30 GMT</lastBuildDate>
+		<pubDate>Tue, 30 Jul 2024 15:15:35 GMT</pubDate>
+		<lastBuildDate>Tue, 30 Jul 2024 15:15:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>AP300 White Paper No.10 Preapplication Meeting Summary Safety Class & Seismic Categorization Memo + Enclosure 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24178A416</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-07-30 10:54:00</pubDate>
+		</item>
+		<item>
+			<title>Response To Proprietary Withholding Request, Enclosure 3-Transmittal of Closed Session Presentation Slides to Support the Westinghouse-NRC Pre-Submittal Meeting June 24, 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24180A087</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-07-30 10:54:00</pubDate>
+		</item>
 		<item>
 			<title>University Of Illinois At Urbana-Champaign – Safety Evaluation For Topical Report Titled High-Temperature Gas-Cooled Research Reactor</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24165A000</link>
@@ -206,20 +220,6 @@
 			<description>General FR Notice Comment Letter</description>
 			<author>- No Known Affiliation</author>
 			<pubDate>2024-07-26 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>2024/07/12 NRR E-mail Capture - [External_Sender] Proprietary Classification in Hi Temperature Materials Topical Report Conditions Presentation Materials related to July 22, 2024 public meeting.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24194A087</link>
-			<description>E-Mail</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2024-07-26 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo, Inc., Transmittal of slides for the July 25, 2024 fuel recycling meeting on waste management and material transportation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24200A123</link>
-			<description>Letter</description>
-			<author>Oklo Inc</author>
-			<pubDate>2024-07-26 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
