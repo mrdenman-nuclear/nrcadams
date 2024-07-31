@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 30 Jul 2024 23:13:41 GMT</pubDate>
-		<lastBuildDate>Tue, 30 Jul 2024 23:13:41 GMT</lastBuildDate>
+		<pubDate>Wed, 31 Jul 2024 14:15:51 GMT</pubDate>
+		<lastBuildDate>Wed, 31 Jul 2024 14:15:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC, Response to NRC Request for Additional Information No. 14 (RAI-10131 R1, Question 3.9.4-8) on the NuScale Standard Design Approval Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24205A156</link>
+			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-07-31 08:37:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC, Response to NRC Request for Additional Information No. 022 (RAI-10157 R1) on the NuScale Standard Design Approval Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24205A211</link>
+			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-07-31 08:37:00</pubDate>
+		</item>
 		<item>
 			<title>Email Transmitting Revised NRC Form 898 for non-LOCA LTR 06-27-2024</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24178A423</link>
@@ -66,13 +80,6 @@
 			<description>Topical Report</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2024-07-30 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>Presentation Slides for the July 17, 2024, Quarterly Public Meeting on the Status of NuScale's US460 Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24194A090</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2024-07-17 09:44:00</pubDate>
 		</item>
 	</channel>
 </rss>
