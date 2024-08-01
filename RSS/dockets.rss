@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 01 Aug 2024 18:20:02 GMT</pubDate>
-		<lastBuildDate>Thu, 01 Aug 2024 18:20:02 GMT</lastBuildDate>
+		<pubDate>Thu, 01 Aug 2024 19:12:37 GMT</pubDate>
+		<lastBuildDate>Thu, 01 Aug 2024 19:12:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for Oklo, Inc., Presentation Materials for the July 24, 2024 Meeting Regarding Safety Analysis for Fuel Recycling</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24214A007</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-08-01 14:41:00</pubDate>
+		</item>
 		<item>
 			<title>US SFR Owner, LLC–Kemmerer Unit 1 Environmental Report Audit Plan - CAC No. 001912; EPID No. L-2024-LNE-0002</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24213A268</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24201A190</link>
 			<description>Legal-Affidavit</description>
 			<author>X-Energy, LLC</author>
-			<pubDate>2024-07-29 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Revised Project-specific Docket Request for Project Long Mott in Support of Dow and X-energy’s Advanced Reactor Demonstration Program Applications</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24201A197</link>
-			<description>Letter</description>
-			<author>Dow Chemical Co</author>
 			<pubDate>2024-07-29 08:33:00</pubDate>
 		</item>
 	</channel>
