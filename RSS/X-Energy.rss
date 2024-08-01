@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 31 Jul 2024 23:14:53 GMT</pubDate>
-		<lastBuildDate>Wed, 31 Jul 2024 23:14:53 GMT</lastBuildDate>
+		<pubDate>Thu, 01 Aug 2024 14:15:26 GMT</pubDate>
+		<lastBuildDate>Thu, 01 Aug 2024 14:15:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Legal-Affidavit</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2024-07-22 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>RIC 2024 Commissioner Annie Caputo Plenary Transcript.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24199A150</link>
-			<description>Conference/Symposium/Workshop Paper, Transcript</description>
-			<author>NRC/OCM/AXC</author>
-			<pubDate>2024-07-18 16:24:00</pubDate>
 		</item>
 	</channel>
 </rss>

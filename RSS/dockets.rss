@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 31 Jul 2024 23:14:46 GMT</pubDate>
-		<lastBuildDate>Wed, 31 Jul 2024 23:14:46 GMT</lastBuildDate>
+		<pubDate>Thu, 01 Aug 2024 14:15:17 GMT</pubDate>
+		<lastBuildDate>Thu, 01 Aug 2024 14:15:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Transmittal of TerraPower, LLC, Topical Report, "Design Basis Accident Methodology for In-Vessel Events without Radiological Release," NAT-9390, Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24206A102</link>
+			<description>Legal-Affidavit, Letter, Topical Report</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2024-08-01 08:36:00</pubDate>
+		</item>
+		<item>
+			<title>08/20/2024 Closed Technology Update Meeting with GE-Hitachi Nuclear Energy, Global Nuclear Fuel Americas, and the U. S. Nuclear Regulatory Commission (NRC)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24214A012</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-08-01 08:20:00</pubDate>
+		</item>
 		<item>
 			<title>Form 897 Withholding Determination for Enclosure 3: Rev. 1 to 007834, "Xe-100 Licensing Topical Report Transient and Safety Analysis Methodology (Propriety)."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24211A043</link>
@@ -206,20 +220,6 @@
 			<description>General FR Notice Comment Letter</description>
 			<author>- No Known Affiliation</author>
 			<pubDate>2024-07-29 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (29) of Mike Crosson on US SFR Owner, LLC.; Kemmerer Power Station Unit 1; Notice of Intent To Conduct Scoping Process and Prepare Environmental Impact Statement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24204A134</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2024-07-29 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>X-Energy Withholding Determination Form 897 "Xe-100 Topical Report GOTHIC and Flownex Analysis Codes Qualification," Revision 2 to 008585 (Proprietary) Enclosure 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24204A166</link>
-			<description>Administrative Form, NRC, Topical Report Evaluation</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-07-26 13:03:00</pubDate>
 		</item>
 	</channel>
 </rss>

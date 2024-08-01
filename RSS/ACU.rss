@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 31 Jul 2024 23:14:53 GMT</pubDate>
-		<lastBuildDate>Wed, 31 Jul 2024 23:14:53 GMT</lastBuildDate>
+		<pubDate>Thu, 01 Aug 2024 14:15:26 GMT</pubDate>
+		<lastBuildDate>Thu, 01 Aug 2024 14:15:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -80,13 +80,6 @@
 			<description>Inspection Report</description>
 			<author>NRC/RGN-II</author>
 			<pubDate>2024-07-30 11:11:00</pubDate>
-		</item>
-		<item>
-			<title>Limerick, Units 1 and 2, James A. FitzPatrick, and Independent Spent Fuel Storage Installation, Nine Mile Point, Units 1 and 2, Quad Cities, Units 1 and 2, R. E. Ginna - Nuclear Radiological Emergency Plan Document Revisions</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24194A124</link>
-			<description>Emergency Preparedness-Emergency Plan, Letter</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2024-07-18 14:01:00</pubDate>
 		</item>
 	</channel>
 </rss>

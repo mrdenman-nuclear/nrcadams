@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 31 Jul 2024 23:14:46 GMT</pubDate>
-		<lastBuildDate>Wed, 31 Jul 2024 23:14:46 GMT</lastBuildDate>
+		<pubDate>Thu, 01 Aug 2024 14:15:17 GMT</pubDate>
+		<lastBuildDate>Thu, 01 Aug 2024 14:15:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>08/20/2024 Closed Technology Update Meeting with GE-Hitachi Nuclear Energy, Global Nuclear Fuel Americas, and the U. S. Nuclear Regulatory Commission (NRC)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24214A012</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-08-01 08:20:00</pubDate>
+		</item>
 		<item>
 			<title>Audit Plan for the Regulatory Audit of the GE Hitachi Topical Report NEDC-33934P/NEDO-33934, Revision 1, BWRX-300 Safety Strategy (Docket No. 99900003)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24144A192</link>
@@ -38,27 +45,6 @@
 			<description>Memoranda</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-07-19 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>GE-Hitachi Nuclear Energy Americas, LLC - NEDC-33934P/NEDO-33934, Revision 1, BWRX-300 Safety Strategy Licensing Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24173A200</link>
-			<description>Letter</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-07-18 11:44:00</pubDate>
-		</item>
-		<item>
-			<title>GE-Hitachi Nuclear Energy Americas, LLC - NEDO-33934, Revision 1, BWRX-300 Safety Strategy</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24173A202</link>
-			<description>Topical Report</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-07-18 11:43:00</pubDate>
-		</item>
-		<item>
-			<title>GE-Hitachi Nuclear Energy Americas, LLC - Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24173A203</link>
-			<description>Legal-Affidavit</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-07-18 11:43:00</pubDate>
 		</item>
 	</channel>
 </rss>
