@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 01 Aug 2024 22:14:39 GMT</pubDate>
-		<lastBuildDate>Thu, 01 Aug 2024 22:14:39 GMT</lastBuildDate>
+		<pubDate>Thu, 01 Aug 2024 23:16:17 GMT</pubDate>
+		<lastBuildDate>Thu, 01 Aug 2024 23:16:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Application for license,authorizing use of listed byproduct matl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20092B174</link>
+			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, DKT 30 MTL BYPRODUCT, TEXT-LICENSE APPLICATIONS & PERMITS</description>
+			<author>BOSTON UNIV., BOSTON, MA</author>
+			<pubDate>2024-08-01 18:35:00</pubDate>
+		</item>
 		<item>
 			<title>Application for amend to License 37-18461-01MD,including G Snyder as authorized user.Supporting documentation encl.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20087P466</link>
@@ -213,13 +220,6 @@
 			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
 			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
 			<pubDate>2024-08-01 11:11:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards Task III draft "Review & Recommendations of Environ Transport Parameters for Pb-210," for review & comment. Related info encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20052D099</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, RESEARCH INSTITUTION/LABORATORY TO NRC</description>
-			<author>OAK RIDGE NATIONAL LABORATORY</author>
-			<pubDate>2024-08-01 11:10:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 01 Aug 2024 22:14:39 GMT</pubDate>
-		<lastBuildDate>Thu, 01 Aug 2024 22:14:39 GMT</lastBuildDate>
+		<pubDate>Thu, 01 Aug 2024 23:16:17 GMT</pubDate>
+		<lastBuildDate>Thu, 01 Aug 2024 23:16:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Ack receipt of 700416 ltr advising AEC that UNC monitored 40 employees during CY69.Annual exposure repts for two individuals whose annual exposure exceeded limits in CY69 should be submitted.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20091S440</link>
+			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
+			<author>US ATOMIC ENERGY COMMISSION (AEC)</author>
+			<pubDate>2024-08-01 18:31:00</pubDate>
+		</item>
+		<item>
+			<title>Rev B to Test Procedure TP-IN-108, "Insulation Resistance- Electrical Penetrations."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20091R993</link>
+			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
+			<author>D.G. O'BRIEN, INC.</author>
+			<pubDate>2024-08-01 18:24:00</pubDate>
+		</item>
 		<item>
 			<title>Insp rept 70-2990/84-01 on 840524.No noncompliance noted. Major areas inspected:organization,licensee internal audits, training & instructions to employees & radiation proctection procedures.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20091J398</link>
@@ -206,20 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
 			<author>NRC</author>
 			<pubDate>2024-08-01 15:07:00</pubDate>
-		</item>
-		<item>
-			<title>Application for license,authorizing use of radioactive matl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20072S527</link>
-			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>LABORATORIO CLINICO JAYUYA, JAYUYA, PR</author>
-			<pubDate>2024-08-01 15:06:00</pubDate>
-		</item>
-		<item>
-			<title>Requests amend to registration certificate 8184 to show that in-vitro tests w/byproduct matl will be conducted in aviation toxicology lab under supervision of EJ Colangelo.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20072S219</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
-			<author>FEDERAL AVIATION ADMINISTRATION</author>
-			<pubDate>2024-08-01 15:04:00</pubDate>
 		</item>
 	</channel>
 </rss>
