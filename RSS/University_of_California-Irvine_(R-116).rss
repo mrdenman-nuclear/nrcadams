@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 01 Aug 2024 14:15:21 GMT</pubDate>
-		<lastBuildDate>Thu, 01 Aug 2024 14:15:21 GMT</lastBuildDate>
+		<pubDate>Thu, 01 Aug 2024 16:18:37 GMT</pubDate>
+		<lastBuildDate>Thu, 01 Aug 2024 16:18:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Responds to FOIA request for five categories of documents re Sept 1979 rept, "Recommendations of TMI-2 IE Investigation Team." Approx 170 pages of matl being placed in PDR.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20052B087</link>
+			<description>CORRESPONDENCE-LETTERS, NRC TO PUBLIC ENTITY/CITIZEN/ORGANIZATION/MEDIA, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
+			<pubDate>2024-08-01 10:45:00</pubDate>
+		</item>
+	</channel>
 </rss>

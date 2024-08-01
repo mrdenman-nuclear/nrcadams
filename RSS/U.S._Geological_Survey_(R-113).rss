@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 01 Aug 2024 14:15:20 GMT</pubDate>
-		<lastBuildDate>Thu, 01 Aug 2024 14:15:20 GMT</lastBuildDate>
+		<pubDate>Thu, 01 Aug 2024 16:18:37 GMT</pubDate>
+		<lastBuildDate>Thu, 01 Aug 2024 16:18:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Updates delivery schedule for siren shipments to facilities.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20054E908</link>
+			<description>CORRESPONDENCE-LETTERS, EXTERNAL CORRESPONDENCE, EXTERNAL LETTERS ROUTED TO NRC</description>
+			<author>FEDERAL SIGNAL CORP.</author>
+			<pubDate>2024-08-01 11:38:00</pubDate>
+		</item>
 		<item>
 			<title>Forwards guidelines for valve operability re containment purging & venting during normal operation.Requests commitment to implement valve qualification program within 30 days.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML112990297</link>
