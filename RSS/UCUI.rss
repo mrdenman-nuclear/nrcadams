@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 01 Aug 2024 20:17:07 GMT</pubDate>
-		<lastBuildDate>Thu, 01 Aug 2024 20:17:07 GMT</lastBuildDate>
+		<pubDate>Thu, 01 Aug 2024 21:17:01 GMT</pubDate>
+		<lastBuildDate>Thu, 01 Aug 2024 21:17:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Forwards check 1100 for $50.00.Fees not required for registration certificate for possession & use of small quantities of byproduct matl for in vitro testing.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20073D740</link>
+			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR MATERIAL SAFETY and SAFEGUARDS (NMSS)</author>
+			<pubDate>2024-08-01 15:21:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards results of recent BNL calculations of loss of feedwater & station blackout ATWS transients.Addl review expected to resolve conflicts w/B&W analyses.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML19352A469</link>
+			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
+			<pubDate>2024-07-31 15:49:00</pubDate>
+		</item>
+	</channel>
 </rss>
