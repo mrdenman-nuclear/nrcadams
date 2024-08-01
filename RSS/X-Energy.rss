@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 01 Aug 2024 21:17:01 GMT</pubDate>
-		<lastBuildDate>Thu, 01 Aug 2024 21:17:01 GMT</lastBuildDate>
+		<pubDate>Thu, 01 Aug 2024 22:14:39 GMT</pubDate>
+		<lastBuildDate>Thu, 01 Aug 2024 22:14:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,6 +17,13 @@
 			<description>NRC TECHNICAL REPORT, TEXT-SAFETY REPORT</description>
 			<author>NRC</author>
 			<pubDate>2024-08-01 09:37:00</pubDate>
+		</item>
+		<item>
+			<title>"Factory Training Course AEC Cobalt," for License 34-07225-15.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20035B584</link>
+			<description>DKT 30 MTL BYPRODUCT, TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
+			<author>PICKER INTERNATIONAL, INC.</author>
+			<pubDate>2024-07-31 17:37:00</pubDate>
 		</item>
 		<item>
 			<title>Agenda - 718th ACRS Full Committee Meeting - September 4-6, 2024</title>
