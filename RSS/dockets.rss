@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 02 Aug 2024 17:14:41 GMT</pubDate>
-		<lastBuildDate>Fri, 02 Aug 2024 17:14:41 GMT</lastBuildDate>
+		<pubDate>Fri, 02 Aug 2024 18:19:54 GMT</pubDate>
+		<lastBuildDate>Fri, 02 Aug 2024 18:19:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>08/14/2024 Call between the NRC and TRISO-X staff to discuss draft responses to the requests for additional information related to the structural building risk category.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24214A210</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2024-08-02 13:22:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 1: SMR, LLC Public Meeting Presentation Materials for August 13, 2024 (NP)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24212A352</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24198A035</link>
 			<description>E-Mail</description>
 			<author>NRC</author>
-			<pubDate>2024-07-30 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>Terrestrial Energy USA Principal Design Criteria for IMSR Structures, Systems and Components Topical Report Revision C</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24204A093</link>
-			<description>Letter</description>
-			<author>Terrestrial Energy USA, Inc</author>
 			<pubDate>2024-07-30 08:35:00</pubDate>
 		</item>
 	</channel>
