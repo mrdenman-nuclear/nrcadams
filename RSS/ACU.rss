@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 02 Aug 2024 14:16:46 GMT</pubDate>
-		<lastBuildDate>Fri, 02 Aug 2024 14:16:46 GMT</lastBuildDate>
+		<pubDate>Fri, 02 Aug 2024 15:15:49 GMT</pubDate>
+		<lastBuildDate>Fri, 02 Aug 2024 15:15:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards minutes of NPRDS Engineering Data Working Group 820524 meeting.Related info encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20115D859</link>
+			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
+			<author>ABB COMBUSTION ENGINEERING NUCLEAR FUEL (FORMERLY</author>
+			<pubDate>2024-08-02 10:44:00</pubDate>
+		</item>
+		<item>
+			<title>Nonproprietary Vols 1 & 2 "Qualification of One-Dimensional Core Transient Model for BWRs."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20215H873</link>
+			<description>REPORTS-TOPICAL (BY MANUFACTURERS-VENDORS ETC), TEXT-SAFETY REPORT</description>
+			<author>GENERAL ELECTRIC CO.</author>
+			<pubDate>2024-08-02 10:29:00</pubDate>
+		</item>
+		<item>
+			<title>Rev 9 to General Procedure 19.1, "Work Plans & Procedures." W/148 drawings encl.Aperture cards available in PDR.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20127C397</link>
+			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
+			<author>BECHTEL GROUP, INC.</author>
+			<pubDate>2024-08-02 10:28:00</pubDate>
+		</item>
 		<item>
 			<title>UMTRA-DOE/AL-350206.0000, "Final Long-Term Surveillance & Maint Plan for Green River,UT Disposal Site." W/one oversize encl.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20115B626</link>
@@ -199,27 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
 			<author>AFFILIATION NOT ASSIGNED</author>
 			<pubDate>2024-08-01 19:32:00</pubDate>
-		</item>
-		<item>
-			<title>Application for license,authorizing all radioisotopes between atomic numbers 3 & 83 inclusive.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20094A631</link>
-			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>WEST VIRGINIA UNIV., MORGANTOWN, WV</author>
-			<pubDate>2024-08-01 19:20:00</pubDate>
-		</item>
-		<item>
-			<title>Ack receipt of 700416 ltr advising AEC that UNC monitored 40 employees during CY69.Annual exposure repts for two individuals whose annual exposure exceeded limits in CY69 should be submitted.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20091S440</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>US ATOMIC ENERGY COMMISSION (AEC)</author>
-			<pubDate>2024-08-01 18:31:00</pubDate>
-		</item>
-		<item>
-			<title>Rev B to Test Procedure TP-IN-108, "Insulation Resistance- Electrical Penetrations."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20091R993</link>
-			<description>TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
-			<author>D.G. O'BRIEN, INC.</author>
-			<pubDate>2024-08-01 18:24:00</pubDate>
 		</item>
 	</channel>
 </rss>
