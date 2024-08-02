@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 01 Aug 2024 23:16:17 GMT</pubDate>
-		<lastBuildDate>Thu, 01 Aug 2024 23:16:17 GMT</lastBuildDate>
+		<pubDate>Fri, 02 Aug 2024 14:16:46 GMT</pubDate>
+		<lastBuildDate>Fri, 02 Aug 2024 14:16:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"Draft Final Task Order 1,Phase Remedial Investigation For Base Closure," Technical plans.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20099G492</link>
+			<description>DKT 30 MTL BYPRODUCT, GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
+			<author>ROY F. WESTON, INC.</author>
+			<pubDate>2024-08-01 21:18:00</pubDate>
+		</item>
 		<item>
 			<title>Vol 4, "Preliminary Safety Info Document for Std MHTGR."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20080Q950</link>
@@ -24,13 +31,6 @@
 			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
 			<author>NRC OFFICE OF THE EXECUTIVE DIRECTOR FOR OPERATIONS (EDO)</author>
 			<pubDate>2024-08-01 14:34:00</pubDate>
-		</item>
-		<item>
-			<title>Safety Evaluation for the Kairos Power LLC Construction Permit Application for the Hermes 2 Non-power Test Reactor Facility</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24200A115</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-07-19 10:39:00</pubDate>
 		</item>
 	</channel>
 </rss>

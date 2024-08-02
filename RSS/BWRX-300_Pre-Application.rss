@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 01 Aug 2024 23:15:59 GMT</pubDate>
-		<lastBuildDate>Thu, 01 Aug 2024 23:15:59 GMT</lastBuildDate>
+		<pubDate>Fri, 02 Aug 2024 14:16:16 GMT</pubDate>
+		<lastBuildDate>Fri, 02 Aug 2024 14:16:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,34 +17,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-08-01 08:20:00</pubDate>
-		</item>
-		<item>
-			<title>Audit Plan for the Regulatory Audit of the GE Hitachi Topical Report NEDC-33934P/NEDO-33934, Revision 1, BWRX-300 Safety Strategy (Docket No. 99900003)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24144A192</link>
-			<description>Audit Plan, Topical Report</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-07-19 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>NRC 897 - REV 1 Withholding Determination</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24193A085</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-07-19 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Determination GEH SS TR Rev1 Acknowledgment Letter Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24193A084</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-07-19 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>Memo - Audit Plan for the Regulatory Audit of the GE Hitachi Topical Report NEDC-33934P NEDO-33934, Revision 1, BWRX-300 Safety Strategy (Docket No. 99900003)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24144A193</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-07-19 08:34:00</pubDate>
 		</item>
 	</channel>
 </rss>
