@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 02 Aug 2024 23:14:45 GMT</pubDate>
-		<lastBuildDate>Fri, 02 Aug 2024 23:14:45 GMT</lastBuildDate>
+		<pubDate>Mon, 05 Aug 2024 14:15:59 GMT</pubDate>
+		<lastBuildDate>Mon, 05 Aug 2024 14:15:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SECY-24-0062: Enclosure 2 - Engagements with Transportable Micro-Reactor Vendors on Transport Package Approval</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23320A125</link>
+			<description>Commission SECY Paper</description>
+			<author>NRC/NMSS/DFM/STLB</author>
+			<pubDate>2024-08-05 08:31:00</pubDate>
+		</item>
 		<item>
 			<title>Vols 1 & 2 to "American Nuclear Corp Site Final Reclamation Plan for Tailings Pond 2."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20107B817</link>
@@ -80,20 +87,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NRC/NRR, NRC/RES</author>
 			<pubDate>2024-07-23 09:42:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of X-energy, LLC, XENITHTM Topical Report on Analytical Methods</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24194A130</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2024-07-22 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>X-energy, LLC, Affidavit Supporting Request for Withholding from Public Disclosure (10 CFR 2.390)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24194A131</link>
-			<description>Legal-Affidavit</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2024-07-22 08:33:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,39 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 02 Aug 2024 23:14:21 GMT</pubDate>
-		<lastBuildDate>Fri, 02 Aug 2024 23:14:21 GMT</lastBuildDate>
+		<pubDate>Mon, 05 Aug 2024 14:15:43 GMT</pubDate>
+		<lastBuildDate>Mon, 05 Aug 2024 14:15:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Transmittal of the "eVinci Microreactor Westinghouse TRISO Fuel Design Methodology Topical Report NRC Pre-submittal Meeting" Presentation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24194A026</link>
-			<description>Letter</description>
-			<author>Westinghouse Electric Co, Westinghouse Electric Co, LLC</author>
-			<pubDate>2024-07-22 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>WAAP-13009, Revision 0, "eVinci Microreactor Westinghouse TRISO Fuel Design Methodology Topical Report NRC Pre-submittal Meeting"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24194A027</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Westinghouse Electric Co, Westinghouse Electric Co, LLC</author>
-			<pubDate>2024-07-22 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>eVinci Nuc Design Method 898-form.pdf</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24194A024</link>
-			<description>Administrative Form, NRC</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-07-22 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>PDC Acceptability Review Email Transmitting 898 Form</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24194A023</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-07-22 08:33:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

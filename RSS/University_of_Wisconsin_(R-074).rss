@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 02 Aug 2024 23:14:27 GMT</pubDate>
-		<lastBuildDate>Fri, 02 Aug 2024 23:14:27 GMT</lastBuildDate>
+		<pubDate>Mon, 05 Aug 2024 14:15:49 GMT</pubDate>
+		<lastBuildDate>Mon, 05 Aug 2024 14:15:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Forwards documents re regulatory history of proposed rule 10CFR50 concerning limiting use of highly enriched U in domestic research & test reactors.List of documents encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20155J105</link>
+			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC OFFICE OF NUCLEAR REGULATORY RESEARCH (RES)</author>
+			<pubDate>2024-08-03 10:47:00</pubDate>
+		</item>
+	</channel>
 </rss>
