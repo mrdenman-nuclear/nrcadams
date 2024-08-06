@@ -5,32 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 05 Aug 2024 23:16:53 GMT</pubDate>
-		<lastBuildDate>Mon, 05 Aug 2024 23:16:53 GMT</lastBuildDate>
+		<pubDate>Tue, 06 Aug 2024 14:15:50 GMT</pubDate>
+		<lastBuildDate>Tue, 06 Aug 2024 14:15:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Minutes of the 716th Meeting of the Advisory Committee on Reactor Safeguards, June 5-6, 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24212A070</link>
+			<description>Meeting Minutes, Memoranda</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2024-08-06 08:38:00</pubDate>
+		</item>
 		<item>
 			<title>June 13, 2024, Summary Of The Nuclear Regulatory Commission Workshop On Vendor Oversight</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24192A253</link>
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DRO/IQVB</author>
 			<pubDate>2024-07-31 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>Master Slide - Advanced Reactor Stakeholder Public Meeting - 2024-07-24.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24205A022</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR, NRC/RES</author>
-			<pubDate>2024-07-23 09:42:00</pubDate>
-		</item>
-		<item>
-			<title>2-Guidelines For the Seismic Isolation of Advanced Reactors Rev. 7 - 07-22-24.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24205A024</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Southern Co</author>
-			<pubDate>2024-07-23 09:42:00</pubDate>
 		</item>
 	</channel>
 </rss>

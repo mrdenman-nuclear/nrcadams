@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 05 Aug 2024 23:16:53 GMT</pubDate>
-		<lastBuildDate>Mon, 05 Aug 2024 23:16:53 GMT</lastBuildDate>
+		<pubDate>Tue, 06 Aug 2024 14:15:50 GMT</pubDate>
+		<lastBuildDate>Tue, 06 Aug 2024 14:15:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>May 20, 2024 Summary of the Electric Power Research Power Institute Plan for an Industry-Wide Approach to Performance Monitoring Pre-Submittal Public Meeting</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24165A115</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DORL/LLPB</author>
+			<pubDate>2024-08-06 08:38:00</pubDate>
+		</item>
 		<item>
 			<title>Requests approval of Diamond Alkali Co PPR-I,Policies, Procedures & Regulations Manual (7000865).</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20115A712</link>
@@ -38,13 +45,6 @@
 			<description>Topical Report</description>
 			<author>Ultra Safe Nuclear Corporation</author>
 			<pubDate>2024-07-30 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>2-Guidelines For the Seismic Isolation of Advanced Reactors Rev. 7 - 07-22-24.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24205A024</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Southern Co</author>
-			<pubDate>2024-07-23 09:42:00</pubDate>
 		</item>
 	</channel>
 </rss>

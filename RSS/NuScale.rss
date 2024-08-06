@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 05 Aug 2024 23:16:53 GMT</pubDate>
-		<lastBuildDate>Mon, 05 Aug 2024 23:16:53 GMT</lastBuildDate>
+		<pubDate>Tue, 06 Aug 2024 14:15:50 GMT</pubDate>
+		<lastBuildDate>Tue, 06 Aug 2024 14:15:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 3 - 5-1-24 Public Meeting Summary - SMR Holtec Risk Significance - Tech Staff</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24176A109</link>
+			<description>Meeting Summary</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-08-06 08:37:00</pubDate>
+		</item>
 		<item>
 			<title>Comment (57) of Bob and Pam Zimmermann on Notice of Intent to Conduct Scoping Process and Prepare an Environmental Assessment Holtec Decommissioning International, LLC and Holtec Palisades, LLC; Palisades Nuclear Plant, Unit 1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24211A150</link>
@@ -45,13 +52,6 @@
 			<description>Meeting Agenda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-07-29 15:42:00</pubDate>
-		</item>
-		<item>
-			<title>LTR-24-0148 Carrie Fosaaen, Vice President, Regulatory Affairs, Nuscale Power, LLC, Letter re: Request for NRC Actions to Promptly Enable Construction of ASME Code Items without an Owner</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24177A233</link>
-			<description>E-Mail, Letter</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-07-23 15:22:00</pubDate>
 		</item>
 	</channel>
 </rss>
