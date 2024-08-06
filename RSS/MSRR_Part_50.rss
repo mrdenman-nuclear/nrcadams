@@ -5,11 +5,39 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Aug 2024 19:13:10 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Aug 2024 19:13:10 GMT</lastBuildDate>
+		<pubDate>Tue, 06 Aug 2024 20:13:40 GMT</pubDate>
+		<lastBuildDate>Tue, 06 Aug 2024 20:13:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Submittal of Abilene Christian University Construction Permit Application Preliminary Safety Analysis Report Revision 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24213A286</link>
+			<description>Letter, Preliminary Safety Analysis Report (PSAR)</description>
+			<author>NEXT Laboratory,  Abilene Christian Univ</author>
+			<pubDate>2024-08-06 15:39:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2, MSSR Codes and Service Conditions Redacted</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24219A259</link>
+			<description>Preliminary Safety Analysis Report (PSAR)</description>
+			<author>NEXT Laboratory,  Abilene Christian Univ</author>
+			<pubDate>2024-08-06 15:39:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1, Abilene Christian University Construction Permit Application Preliminary Safety Analysis Report Revision 2, July 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24219A261</link>
+			<description>Preliminary Safety Analysis Report (PSAR)</description>
+			<author>NEXT Laboratory,  Abilene Christian Univ</author>
+			<pubDate>2024-08-06 15:39:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 3, Safety Related Valve Requirements Redacted</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24219A262</link>
+			<description>Preliminary Safety Analysis Report (PSAR)</description>
+			<author>NEXT Laboratory,  Abilene Christian Univ</author>
+			<pubDate>2024-08-06 15:39:00</pubDate>
+		</item>
+	</channel>
 </rss>
