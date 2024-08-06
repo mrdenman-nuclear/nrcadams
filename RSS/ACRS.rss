@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Aug 2024 18:20:40 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Aug 2024 18:20:40 GMT</lastBuildDate>
+		<pubDate>Tue, 06 Aug 2024 19:13:19 GMT</pubDate>
+		<lastBuildDate>Tue, 06 Aug 2024 19:13:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Agenda - XEnergy Principal Design Criteria Topical Report - SC - August 21, 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24219A228</link>
+			<description>Meeting Agenda</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2024-08-06 14:44:00</pubDate>
+		</item>
 		<item>
 			<title>Minutes of the 716th Meeting of the Advisory Committee on Reactor Safeguards, June 5-6, 2024</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24212A070</link>
@@ -213,13 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-07-30 17:06:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of ACRS 75th meeting on 660714-16 re review of CP application.Safety issues can be resolved prior to OL issuance.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML093631102</link>
-			<description>CORRESPONDENCE-LETTERS, INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-07-30 17:05:00</pubDate>
 		</item>
 	</channel>
 </rss>
