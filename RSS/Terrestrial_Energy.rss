@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 07 Aug 2024 19:15:21 GMT</pubDate>
-		<lastBuildDate>Wed, 07 Aug 2024 19:15:21 GMT</lastBuildDate>
+		<pubDate>Wed, 07 Aug 2024 20:17:22 GMT</pubDate>
+		<lastBuildDate>Wed, 07 Aug 2024 20:17:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Braidwood Station, Units 1 and 2  - Environmental Assessment and Finding of no Significant Impact Related to a Requested Increase in Ultimate Heat Sink Temperature (EPID L-2024-LLA-0075) - Transmittal Letter</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24172A125</link>
+			<description>Environmental Assessment, Federal Register Notice, Letter</description>
+			<author>NRC/NRR/DORL/LPLIII</author>
+			<pubDate>2024-08-07 15:37:00</pubDate>
+		</item>
+		<item>
+			<title>Dresden Nuclear Power Station Unit 2 & 3 Scoping Power Point Presentation</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24172A109</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NMSS/DREFS/EPMB1, NRC/NRR/DNRL/NLRP</author>
+			<pubDate>2024-08-07 15:37:00</pubDate>
+		</item>
 		<item>
 			<title>Braidwood Station, Units 1 and 2  - Environmental Assessment and Finding of no Significant Impact Related to a Requested Increase in Ultimate Heat Sink Temperature (EPID L-2024-LLA-0075)- FRN</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24172A126</link>
@@ -206,20 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE</description>
 			<author>CONOCO, INC. (CONTINENTAL OIL CO.)</author>
 			<pubDate>2024-08-03 10:49:00</pubDate>
-		</item>
-		<item>
-			<title>NRR Ofc Ltr 29 re identification numbers for review questions.New identification numbers should be used for all new applications & applications in early stage of review. List of new numbering sequence encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20154C566</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
-			<pubDate>2024-08-03 10:06:00</pubDate>
-		</item>
-		<item>
-			<title>Rev 1 to NRR Ofc Ltr 29 re updated identification numbers for review questions.Revised Part A of encl reflects recent changes to author organization.Parts B,C & D of encl remain unchanged.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20154C571</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR REACTOR REGULATION (NRR)</author>
-			<pubDate>2024-08-03 10:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
