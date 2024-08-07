@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Aug 2024 23:15:27 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Aug 2024 23:15:27 GMT</lastBuildDate>
+		<pubDate>Wed, 07 Aug 2024 14:15:15 GMT</pubDate>
+		<lastBuildDate>Wed, 07 Aug 2024 14:15:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Palo Verde Nuclear Generating Station - Integrated Inspection Report 05000528/2024002 and 05000529/2024002 and 05000530/2024002</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24206A051</link>
+			<description>Inspection Report, Letter</description>
+			<author>NRC/RGN-IV/DORS/PBD</author>
+			<pubDate>2024-08-07 08:36:00</pubDate>
+		</item>
 		<item>
 			<title>Non-proprietary Rev 0,Suppls 1(NP)(A) & 2(NP)(A) to EMF-85-74(NP), "RODEX2A (BWR) Fuel Rod Thermal-Mechanical Evaluation Model."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20248M079</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20213E940</link>
 			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, DKT 30 MTL BYPRODUCT, TEXT-PROCUREMENT & CONTRACTS</description>
 			<author>OAK RIDGE ASSOCIATED UNIVERSITIES</author>
-			<pubDate>2024-08-03 15:57:00</pubDate>
-		</item>
-		<item>
-			<title>Discusses IE insp of License 29-13848-01 on 840724.No noncompliance noted.Major areas inspected:confirmatory survey for contamination of matls released for unrestricted use.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20213E959</link>
-			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, OUTGOING CORRESPONDENCE</description>
-			<author>NRC OFFICE OF INSPECTION and ENFORCEMENT (IE REGION I)</author>
 			<pubDate>2024-08-03 15:57:00</pubDate>
 		</item>
 	</channel>

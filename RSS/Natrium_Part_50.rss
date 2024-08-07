@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Aug 2024 23:15:12 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Aug 2024 23:15:12 GMT</lastBuildDate>
+		<pubDate>Wed, 07 Aug 2024 14:14:59 GMT</pubDate>
+		<lastBuildDate>Wed, 07 Aug 2024 14:14:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TerraPower Public Scoping Meeting Transcript July 16, 2024.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24212A204</link>
+			<description>Transcript</description>
+			<author>NRC/NMSS/DREFS/EPMB3</author>
+			<pubDate>2024-08-07 08:36:00</pubDate>
+		</item>
 		<item>
 			<title>2024/07/22 - Comment (1) E-mail regarding TerraPower CP EIS Scoping</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24206A249</link>
@@ -171,13 +178,6 @@
 			<description>General FR Notice Comment Letter</description>
 			<author>- No Known Affiliation</author>
 			<pubDate>2024-07-26 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Public - Terrapower, LLC - Audit Plan For Topical Report TP-LIC-RPT-0008, "Partial Flow Blockage Methodology," Revision 1 (EPID L-2024-TOP-0010)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24197A184</link>
-			<description>Audit Plan</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-07-24 08:50:00</pubDate>
 		</item>
 	</channel>
 </rss>
