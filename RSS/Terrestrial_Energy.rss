@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 08 Aug 2024 19:14:50 GMT</pubDate>
-		<lastBuildDate>Thu, 08 Aug 2024 19:14:50 GMT</lastBuildDate>
+		<pubDate>Thu, 08 Aug 2024 20:17:24 GMT</pubDate>
+		<lastBuildDate>Thu, 08 Aug 2024 20:17:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Comanche Peak, Unit 1, Current Facility Operating License NPF-87, Tech Specs, Revised 08/08/2024.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053180521</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-08-08 16:05:00</pubDate>
+		</item>
 		<item>
 			<title>Watts Bar, Unit 2, Current Facility Operating License NPF-96, Tech Specs, Revised 08/08/2024.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML15301A140</link>
@@ -213,13 +220,6 @@
 			<description>DKT 30 MTL BYPRODUCT, NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS, TEXT-SAFETY REPORT</description>
 			<author>RADIOLOGICAL ASSESSMENTS CORP.</author>
 			<pubDate>2024-08-03 13:35:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards supplementary info on site emergency plan,in response to 740403 ltr.Info amends FSAR as defined in License DPR-7.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198L656</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, UTILITY TO NRC</description>
-			<author>PACIFIC GAS and ELECTRIC CO.</author>
-			<pubDate>2024-08-03 12:22:00</pubDate>
 		</item>
 	</channel>
 </rss>
