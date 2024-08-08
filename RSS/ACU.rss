@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 07 Aug 2024 23:15:55 GMT</pubDate>
-		<lastBuildDate>Wed, 07 Aug 2024 23:15:55 GMT</lastBuildDate>
+		<pubDate>Thu, 08 Aug 2024 14:15:31 GMT</pubDate>
+		<lastBuildDate>Thu, 08 Aug 2024 14:15:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Comanche Peak Nuclear Power Plant (CPNPP), Fire Protection Report, Revision 34 - Redacted</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24212A249</link>
+			<description>Fire Protection Plan, Updated Final Safety Analysis Report (UFSAR)</description>
+			<author>NRC/NRR/DORL/LPLIV</author>
+			<pubDate>2024-08-08 08:30:00</pubDate>
+		</item>
 		<item>
 			<title>Palo Verde Nuclear Generating Station - Integrated Inspection Report 05000528/2024002 and 05000529/2024002 and 05000530/2024002</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24206A051</link>
@@ -213,13 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, UTILITY TO NRC</description>
 			<author>PACIFIC GAS and ELECTRIC CO.</author>
 			<pubDate>2024-08-03 16:12:00</pubDate>
-		</item>
-		<item>
-			<title>"Radiological Measurements at Intl Nutronics,Inc,Dover,NJ," final rept.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20213E940</link>
-			<description>CONTRACTED REPORT - RTA,QUICK LOOK,ETC. (PERIODIC, DKT 30 MTL BYPRODUCT, TEXT-PROCUREMENT & CONTRACTS</description>
-			<author>OAK RIDGE ASSOCIATED UNIVERSITIES</author>
-			<pubDate>2024-08-03 15:57:00</pubDate>
 		</item>
 	</channel>
 </rss>
