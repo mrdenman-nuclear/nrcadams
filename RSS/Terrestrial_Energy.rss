@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 08 Aug 2024 16:18:04 GMT</pubDate>
-		<lastBuildDate>Thu, 08 Aug 2024 16:18:04 GMT</lastBuildDate>
+		<pubDate>Thu, 08 Aug 2024 17:15:52 GMT</pubDate>
+		<lastBuildDate>Thu, 08 Aug 2024 17:15:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Watts Bar, Unit 2, Current Facility Operating License NPF-96, Tech Specs, Revised 08/08/2024.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML15301A140</link>
+			<description>Environmental Protection Plan, Letter, License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR/DORL</author>
+			<pubDate>2024-08-08 13:02:00</pubDate>
+		</item>
+		<item>
+			<title>Watts Bar, Unit 1, Current Facility Operating License NPF-90, Tech Specs, Revised 08/08/2024.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052930169</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-08-08 12:59:00</pubDate>
+		</item>
 		<item>
 			<title>Donald C. Cook, Unit 1, Current Facility Operating License No. DPR-58, Tech Specs, Revised 08/08/2024.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053050305</link>
@@ -206,20 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, UTILITY TO NRC</description>
 			<author>PACIFIC GAS and ELECTRIC CO.</author>
 			<pubDate>2024-08-03 12:22:00</pubDate>
-		</item>
-		<item>
-			<title>"Humboldt Bay Environ Radiation Survey (ARMS II)."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198J399</link>
-			<description>NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>EGandG IDAHO, INC.</author>
-			<pubDate>2024-08-03 12:11:00</pubDate>
-		</item>
-		<item>
-			<title>"Humboldt Bay Environ Radiation Survey,Oct-Nov 1967."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20198J417</link>
-			<description>ENVIRONMENTAL MONITORING REPORTS(&RADIOLOGICAL)-PERIODIC, TEXT-ENVIRONMENTAL REPORTS</description>
-			<author>EGandG IDAHO, INC.</author>
-			<pubDate>2024-08-03 12:11:00</pubDate>
 		</item>
 	</channel>
 </rss>
