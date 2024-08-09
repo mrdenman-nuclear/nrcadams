@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 08 Aug 2024 23:15:52 GMT</pubDate>
-		<lastBuildDate>Thu, 08 Aug 2024 23:15:52 GMT</lastBuildDate>
+		<pubDate>Fri, 09 Aug 2024 15:19:06 GMT</pubDate>
+		<lastBuildDate>Fri, 09 Aug 2024 15:19:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Clinton Power Station, Unit 1 - License Renewal Regulatory Audit regarding the Environmental Review of the License Renewal Application (EPID Number: L-2024-LNE-0000) (Docket Number: 50-461)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24212A221</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DREFS/EPMB1</author>
+			<pubDate>2024-08-09 08:32:00</pubDate>
+		</item>
 		<item>
 			<title>Comanche Peak, Unit 1, Current Facility Operating License NPF-87, Tech Specs, Revised 08/08/2024.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053180521</link>
@@ -213,13 +220,6 @@
 			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, DKT 30 MTL BYPRODUCT, TEXT-LICENSE APPLICATIONS & PERMITS</description>
 			<author>RTI, INC. (FORMERLY RADIATION TECHNOLOGY, INC.)</author>
 			<pubDate>2024-08-03 13:36:00</pubDate>
-		</item>
-		<item>
-			<title>"Pathway Analysis Approach for Determining Acceptable Levels of Contamination From Co-60 in Soil at Intl Nutronics Irradiation Facility."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203P194</link>
-			<description>DKT 30 MTL BYPRODUCT, NON-RECURRING TECHNICAL REPORT (ENVIRONMENTAL), TEXT-ENVIRONMENTAL REPORTS, TEXT-SAFETY REPORT</description>
-			<author>RADIOLOGICAL ASSESSMENTS CORP.</author>
-			<pubDate>2024-08-03 13:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
