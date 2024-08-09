@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 09 Aug 2024 20:18:09 GMT</pubDate>
-		<lastBuildDate>Fri, 09 Aug 2024 20:18:09 GMT</lastBuildDate>
+		<pubDate>Fri, 09 Aug 2024 22:37:18 GMT</pubDate>
+		<lastBuildDate>Fri, 09 Aug 2024 22:37:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 20, Oyster Creek 100 Year Land Use Outlook - Categorization and Justification, GHD, February 9, 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24214A072</link>
+			<description>Report, Technical</description>
+			<author>Holtec Decommissioning International, LLC</author>
+			<pubDate>2024-08-09 16:56:00</pubDate>
+		</item>
+		<item>
+			<title>Oyster Creek Station, License Amendment Request to Revise Renewed Facility Operating License to Add License Condition 2.C.(18) to Include License Termination Plan Requirements</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24214A037</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50, Report, Technical</description>
+			<author>Holtec Decommissioning International, LLC</author>
+			<pubDate>2024-08-09 16:55:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 3: Oyster Creek Station, Historical Site Assessment (HSA) Revision 2, November 2021</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24214A039</link>
+			<description>Report, Technical</description>
+			<author>Comprehensive Decommissioning International, Holtec Decommissioning International, LLC, SNC-Lavalin Nuclear, Inc</author>
+			<pubDate>2024-08-09 16:55:00</pubDate>
+		</item>
 		<item>
 			<title>Clinton Power Station, Unit 1 - License Renewal Regulatory Audit regarding the Environmental Review of the License Renewal Application (EPID Number: L-2024-LNE-0000) (Docket Number: 50-461)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24212A221</link>
@@ -199,27 +220,6 @@
 			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, INCOMING CORRESPONDENCE</description>
 			<author>NEW JERSEY, STATE OF</author>
 			<pubDate>2024-08-03 14:42:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards regulatory history package (AB70-2) re final rule 10CFR72, "Licensing Requirements for Independent Storage of Spent Nuclear Fuel & High Level Radwaste."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20205Q090</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC OFFICE OF NUCLEAR REGULATORY RESEARCH (RES)</author>
-			<pubDate>2024-08-03 14:17:00</pubDate>
-		</item>
-		<item>
-			<title>Outlines vendor program to address cause of incidents involving 3M Model 902,902F,906 & 908 static eliminators.Two internal task groups formed to study components in static eliminators & mfg process used to fabricate eliminators.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20205N583</link>
-			<description>CORRESPONDENCE-LETTERS, INCOMING CORRESPONDENCE, VENDOR/MANUFACTURER TO NRC</description>
-			<author>MINNESOTA MINING and MANUFACTURING CO. (3M CO.)</author>
-			<pubDate>2024-08-03 14:15:00</pubDate>
-		</item>
-		<item>
-			<title>Application for license,authorizing use of Co-60 sealed source in industrial cell irradiator & pool irradiator. Description of facility to be constructed,monitoring procedures & resumes encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20203P674</link>
-			<description>APPLICATION, MATL/BYPRODUCT LICENSE, AMENDS & RENEWAL, DKT 30 MTL BYPRODUCT, TEXT-LICENSE APPLICATIONS & PERMITS</description>
-			<author>RTI, INC. (FORMERLY RADIATION TECHNOLOGY, INC.)</author>
-			<pubDate>2024-08-03 13:36:00</pubDate>
 		</item>
 	</channel>
 </rss>
