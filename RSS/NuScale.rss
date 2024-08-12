@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 09 Aug 2024 22:37:18 GMT</pubDate>
-		<lastBuildDate>Fri, 09 Aug 2024 22:37:18 GMT</lastBuildDate>
+		<pubDate>Mon, 12 Aug 2024 14:18:57 GMT</pubDate>
+		<lastBuildDate>Mon, 12 Aug 2024 14:18:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2024/07/12 - Comment (160) E-mail regarding Palisades Restart Scoping</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A398</link>
+			<description>General FR Notice Comment Letter</description>
+			<author>Public Commenter</author>
+			<pubDate>2024-08-12 08:34:00</pubDate>
+		</item>
 		<item>
 			<title>June 6, 2024 EPRI Alternate Licensing Strategy Information Meeting (EPID L-2024-NTM-0004) - Meeting Summary</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24192A238</link>
@@ -80,13 +87,6 @@
 			<description>NUREG</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2024-08-01 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - Staff Evaluation of NuScale Standard Design Approval Application; Chapters 7, 9, 12, and 18 - SC - August 22, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24211A166</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-07-29 15:42:00</pubDate>
 		</item>
 	</channel>
 </rss>
