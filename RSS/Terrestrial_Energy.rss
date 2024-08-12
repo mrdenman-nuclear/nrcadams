@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 12 Aug 2024 14:18:57 GMT</pubDate>
-		<lastBuildDate>Mon, 12 Aug 2024 14:18:57 GMT</lastBuildDate>
+		<pubDate>Mon, 12 Aug 2024 15:17:10 GMT</pubDate>
+		<lastBuildDate>Mon, 12 Aug 2024 15:17:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Vallecitos Nuclear Center - Update to License Termination Plan for Vallecitos Boiling Water Reactor - Environmental Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24220A200</link>
+			<description>Environmental Report, Letter</description>
+			<author>NorthStar Vallecitos, LLC</author>
+			<pubDate>2024-08-12 10:40:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 20, Oyster Creek 100 Year Land Use Outlook - Categorization and Justification, GHD, February 9, 2024</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24214A072</link>
@@ -213,13 +220,6 @@
 			<description>DKT 30 MTL BYPRODUCT, TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
 			<author>NAVY, DEPT. OF, NAVAL RESEARCH LABORATORY</author>
 			<pubDate>2024-08-03 15:02:00</pubDate>
-		</item>
-		<item>
-			<title>Responds to questions & comments in NRC 860325 ltr re info concerning training of JT Boyle & D Muscalo.Cesium density probe can be connected to source while source holder still within shield after controlled work area established.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20206U220</link>
-			<description>CORRESPONDENCE-LETTERS, DKT 30 MTL BYPRODUCT, INCOMING CORRESPONDENCE</description>
-			<author>NEW JERSEY, STATE OF</author>
-			<pubDate>2024-08-03 14:42:00</pubDate>
 		</item>
 	</channel>
 </rss>
