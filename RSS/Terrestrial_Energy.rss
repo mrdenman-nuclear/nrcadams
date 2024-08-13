@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 12 Aug 2024 23:15:55 GMT</pubDate>
-		<lastBuildDate>Mon, 12 Aug 2024 23:15:55 GMT</lastBuildDate>
+		<pubDate>Tue, 13 Aug 2024 14:16:09 GMT</pubDate>
+		<lastBuildDate>Tue, 13 Aug 2024 14:16:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Virgil C. Summer Nuclear Station, Unit 1 - Environmental Review Response to NRC Requests for Additional Information and Response to NRC Requests for Confirmation of Information Set 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24218A300</link>
+			<description>Letter, Response to Request for Additional Information (RAI)</description>
+			<author>Dominion Energy South Carolina, Inc</author>
+			<pubDate>2024-08-13 08:38:00</pubDate>
+		</item>
 		<item>
 			<title>Vallecitos Nuclear Center - Update to License Termination Plan for Vallecitos Boiling Water Reactor - Environmental Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24220A200</link>
@@ -213,13 +220,6 @@
 			<description>GENERAL EXTERNAL TECHNICAL REPORTS, TEXT-SAFETY REPORT</description>
 			<author>CONSUMERS ENERGY CO. (FORMERLY CONSUMERS POWER CO.),</author>
 			<pubDate>2024-08-03 15:33:00</pubDate>
-		</item>
-		<item>
-			<title>"Radiation Protection Manual."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20207U090</link>
-			<description>DKT 30 MTL BYPRODUCT, TECHNICAL SPECIFICATIONS & TEST REPORTS, TEST/INSPECTION/OPERATING PROCEDURES</description>
-			<author>NAVY, DEPT. OF, NAVAL RESEARCH LABORATORY</author>
-			<pubDate>2024-08-03 15:02:00</pubDate>
 		</item>
 	</channel>
 </rss>

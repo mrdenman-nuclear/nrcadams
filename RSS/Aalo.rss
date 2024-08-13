@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 12 Aug 2024 23:15:55 GMT</pubDate>
-		<lastBuildDate>Mon, 12 Aug 2024 23:15:55 GMT</lastBuildDate>
+		<pubDate>Tue, 13 Aug 2024 14:16:09 GMT</pubDate>
+		<lastBuildDate>Tue, 13 Aug 2024 14:16:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>CONFERENCE & WORKSHOP PAPERS/PROCEEDINGS/ABSTRACTS, TEXT-SAFETY REPORT</description>
 			<author>AMERICAN NUCLEAR SOCIETY</author>
 			<pubDate>2024-07-31 15:55:00</pubDate>
-		</item>
-		<item>
-			<title>Prairie Island, Units 1 and 2 - Updated Safety Analysis Report (USAR), Revision 38, Section 6, Engineered Safety Features</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24128A106</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Northern States Power Company, Minnesota, Xcel Energy</author>
-			<pubDate>2024-07-30 09:21:00</pubDate>
 		</item>
 	</channel>
 </rss>

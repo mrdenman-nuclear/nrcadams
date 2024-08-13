@@ -5,32 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 12 Aug 2024 23:15:42 GMT</pubDate>
-		<lastBuildDate>Mon, 12 Aug 2024 23:15:42 GMT</lastBuildDate>
+		<pubDate>Tue, 13 Aug 2024 14:15:39 GMT</pubDate>
+		<lastBuildDate>Tue, 13 Aug 2024 14:15:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Terrestrial Energy USA Principal Design Criteria for IMSR Structures, Systems and Components Topical Report Revision C</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24204A093</link>
-			<description>Letter</description>
-			<author>Terrestrial Energy USA, Inc</author>
-			<pubDate>2024-07-30 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Principal Design Criteria for IMSR Structures, Systems, and Components Topical Report - Rev C (Non-Proprietary)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24204A096</link>
-			<description>Topical Report</description>
-			<author>Terrestrial Energy USA, Inc</author>
-			<pubDate>2024-07-30 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 4: Affidavit Supporting Request for Withholding from Public Disclosure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24204A097</link>
-			<description>Legal-Affidavit</description>
-			<author>Terrestrial Energy USA, Inc</author>
-			<pubDate>2024-07-30 08:35:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

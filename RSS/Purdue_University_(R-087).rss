@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 12 Aug 2024 23:15:49 GMT</pubDate>
-		<lastBuildDate>Mon, 12 Aug 2024 23:15:49 GMT</lastBuildDate>
+		<pubDate>Tue, 13 Aug 2024 14:15:45 GMT</pubDate>
+		<lastBuildDate>Tue, 13 Aug 2024 14:15:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
 			<author>NRC OFFICE OF ADMINISTRATION (ADM)</author>
 			<pubDate>2024-08-03 03:25:00</pubDate>
-		</item>
-		<item>
-			<title>Suppl 1 to Info Notice 95-004, "Excessive Cooldown & Depressurization of RCS Following Loss of Offsite Power."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML082401268</link>
-			<description>GENERIC LETTERS & IE LETTERS TO MULTIPLE PLANTS., NRC INFORMATION NOTICE, TEXT-INSPECTION & AUDIT & I&E CIRCULARS</description>
-			<author>NRC/RGN-I</author>
-			<pubDate>2024-07-30 13:10:00</pubDate>
 		</item>
 	</channel>
 </rss>

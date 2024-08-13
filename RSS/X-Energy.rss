@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 12 Aug 2024 23:15:55 GMT</pubDate>
-		<lastBuildDate>Mon, 12 Aug 2024 23:15:55 GMT</lastBuildDate>
+		<pubDate>Tue, 13 Aug 2024 14:16:09 GMT</pubDate>
+		<lastBuildDate>Tue, 13 Aug 2024 14:16:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -94,13 +94,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DRO/IQVB</author>
 			<pubDate>2024-07-31 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>Kerr-McGee Corp., 1996 Annual Report.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML092680276</link>
-			<description>Annual Report</description>
-			<author>Kerr-McGee Chemical, LLC</author>
-			<pubDate>2024-07-30 14:50:00</pubDate>
 		</item>
 	</channel>
 </rss>

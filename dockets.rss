@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 12 Aug 2024 23:15:35 GMT</pubDate>
-		<lastBuildDate>Mon, 12 Aug 2024 23:15:35 GMT</lastBuildDate>
+		<pubDate>Tue, 13 Aug 2024 14:15:33 GMT</pubDate>
+		<lastBuildDate>Tue, 13 Aug 2024 14:15:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SMR Holtec Risk Significance Methodology Topical Report - Audit Plan</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24211A226</link>
+			<description>Audit Plan, Memoranda</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-08-13 08:39:00</pubDate>
+		</item>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for Oklo Inc. Licensing Project Plan (Fuel Recycling): 2Q2024 Update</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A334</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-08-13 08:39:00</pubDate>
+		</item>
 		<item>
 			<title>Affidavit for 8-9-24 Email from A. Brenner to M. Sayoc re: SMR (Holtec) responses to NRC Staff Feedback on 8/13 Cyber Security Public Meeting Materials (Project 99902049)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24222A552</link>
@@ -206,20 +220,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
 			<pubDate>2024-08-07 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - 06/05/2024 Meeting Attendees of Public Meeting with SMR, LLC (A Holtec International Company) to discuss I&C, HFE, and Electrical Design (Project No. 99902049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24180A174</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-08-07 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Abilene Christian University Construction Permit Application Preliminary Safety Analysis Report Revision 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24213A286</link>
-			<description>Letter, Preliminary Safety Analysis Report (PSAR)</description>
-			<author>NEXT Laboratory,  Abilene Christian Univ</author>
-			<pubDate>2024-08-06 15:39:00</pubDate>
 		</item>
 	</channel>
 </rss>
