@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 13 Aug 2024 23:14:40 GMT</pubDate>
-		<lastBuildDate>Tue, 13 Aug 2024 23:14:40 GMT</lastBuildDate>
+		<pubDate>Wed, 14 Aug 2024 14:16:39 GMT</pubDate>
+		<lastBuildDate>Wed, 14 Aug 2024 14:16:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
 			<author>NRC OFFICE OF NUCLEAR REGULATORY RESEARCH (RES)</author>
 			<pubDate>2024-08-01 19:56:00</pubDate>
-		</item>
-		<item>
-			<title>Speech entitled "Probabilistic Analysis of ATWS," presented in New Orleans,LA.Viewgraphs encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML19352A566</link>
-			<description>CONFERENCE & WORKSHOP PAPERS/PROCEEDINGS/ABSTRACTS, TEXT-SAFETY REPORT</description>
-			<author>AMERICAN NUCLEAR SOCIETY</author>
-			<pubDate>2024-07-31 15:55:00</pubDate>
 		</item>
 	</channel>
 </rss>

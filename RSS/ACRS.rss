@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 13 Aug 2024 23:14:25 GMT</pubDate>
-		<lastBuildDate>Tue, 13 Aug 2024 23:14:25 GMT</lastBuildDate>
+		<pubDate>Wed, 14 Aug 2024 14:16:32 GMT</pubDate>
+		<lastBuildDate>Wed, 14 Aug 2024 14:16:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,27 +59,6 @@
 			<description>Meeting Agenda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-08-01 09:35:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - 718th ACRS Full Committee Meeting - September 4-6, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24205A164</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-07-31 16:54:00</pubDate>
-		</item>
-		<item>
-			<title>Informs that effective 980202,W Long assigned a Project Manager for plant.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML111880819</link>
-			<description>CORRESPONDENCE-LETTERS, OUTGOING CORRESPONDENCE</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-07-31 04:43:00</pubDate>
-		</item>
-		<item>
-			<title>Comments on ACRS Subcommittee on Class 9 Accidents 840723 meeting.MARCH 2.0 program utilized outside range of applicability.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML100541486</link>
-			<description>CORRESPONDENCE-LETTERS, NRC TO EDUCATIONAL INSTITUTION, OUTGOING CORRESPONDENCE</description>
-			<author>NRC/ACRS, Univ of Wisconsin - Madison</author>
-			<pubDate>2024-07-31 00:39:00</pubDate>
 		</item>
 	</channel>
 </rss>
