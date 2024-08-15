@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 15 Aug 2024 15:15:41 GMT</pubDate>
-		<lastBuildDate>Thu, 15 Aug 2024 15:15:41 GMT</lastBuildDate>
+		<pubDate>Thu, 15 Aug 2024 16:18:14 GMT</pubDate>
+		<lastBuildDate>Thu, 15 Aug 2024 16:18:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Draft Safety Evaluation for the Topical Report on the Quality Assurance Program for Holtec International's SMR Design and Construction (EPID No. L-2023-TOP-0049)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24163A012</link>
+			<description>Safety Evaluation</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-08-15 11:54:00</pubDate>
+		</item>
+		<item>
+			<title>E-mail Transmittal: Draft Safety Evaluation for the Topical Report on the Quality Assurance Program for Holtec International's SMR Design and Construction (EPID No. L-2023-TOP-0049)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24163A011</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-08-15 11:53:00</pubDate>
+		</item>
 		<item>
 			<title>08/29/2024 Meeting with X-energy pertaining to Project Long Mott</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24228A078</link>
@@ -206,20 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-08-08 10:06:00</pubDate>
-		</item>
-		<item>
-			<title>Memo - Summary of Meeting on May 24, 2024, with TRISO-X LLC, to Align on the Supplemental Responses to the Integrated Safety Analysis Requests For Additional Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24178A402</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2024-08-08 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - Participant List for the May 24, 2024 Meeting Regarding the TRISO-X, LLC Supplements for the Integrated Safety Analysis Summary Requests for Additional Information for the License Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24178A404</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2024-08-08 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
