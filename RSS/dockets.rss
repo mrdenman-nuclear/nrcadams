@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 15 Aug 2024 17:14:13 GMT</pubDate>
-		<lastBuildDate>Thu, 15 Aug 2024 17:14:13 GMT</lastBuildDate>
+		<pubDate>Thu, 15 Aug 2024 18:21:32 GMT</pubDate>
+		<lastBuildDate>Thu, 15 Aug 2024 18:21:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>08/27/2024 Virtual Meeting Between the U.S. Nuclear Regulatory Commission and TRISO-X, LLC to discuss the Structural Request for Additional Information-2-2, "(Building) Risk Category" supplement.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24228A204</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2024-08-15 13:57:00</pubDate>
+		</item>
 		<item>
 			<title>Draft Safety Evaluation for the Topical Report on the Quality Assurance Program for Holtec International's SMR Design and Construction (EPID No. L-2023-TOP-0049)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24163A012</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-08-08 10:30:00</pubDate>
-		</item>
-		<item>
-			<title>08/30/2024 Meeting with Kairos Power on the Applicability of 10 CFR Part 21 and 10 CFR 50.55(e) Basic Component Definition to the Hermes Non-Power Test Reactors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24221A034</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-08-08 10:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
