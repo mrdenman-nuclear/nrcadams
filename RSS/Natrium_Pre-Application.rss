@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 16 Aug 2024 23:15:28 GMT</pubDate>
-		<lastBuildDate>Fri, 16 Aug 2024 23:15:28 GMT</lastBuildDate>
+		<pubDate>Mon, 19 Aug 2024 14:17:51 GMT</pubDate>
+		<lastBuildDate>Mon, 19 Aug 2024 14:17:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>Safety Evaluation</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2024-08-12 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal of TerraPower, LLC, "Radiological Release Consequences Methodology Topical Report," NAT-9391 Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24208A181</link>
-			<description>Legal-Affidavit, Letter, Report, Technical</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2024-08-05 08:30:00</pubDate>
 		</item>
 	</channel>
 </rss>

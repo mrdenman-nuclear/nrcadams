@@ -5,25 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 16 Aug 2024 23:15:28 GMT</pubDate>
-		<lastBuildDate>Fri, 16 Aug 2024 23:15:28 GMT</lastBuildDate>
+		<pubDate>Mon, 19 Aug 2024 14:17:51 GMT</pubDate>
+		<lastBuildDate>Mon, 19 Aug 2024 14:17:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Letter - Final Safety Evaluation of GEH Topical Report NEDO-33926/NEDC-33926P, Rev. 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24220A016</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-08-19 09:39:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1 - Final Safety Evaluation of GEH Topical Report NEDO-33926/NEDC-33926P, Revision 2 (Public)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24220A017</link>
+			<description>Safety Evaluation</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-08-19 09:39:00</pubDate>
+		</item>
 		<item>
 			<title>Request for Withholding Determination for GEH ACRS Subcommittee Presentation Slides of the BWRX-300 Steel-Plate Composite Containment Vessel and Reactor Building Structural Design Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24218A001</link>
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-08-14 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>6/12/2024 GEH BWRX-300 Limitations and Conditions Clarification Public Meeting Summary for LTR NEDO-33926</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24214A156</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-08-05 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

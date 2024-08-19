@@ -5,25 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 16 Aug 2024 23:15:28 GMT</pubDate>
-		<lastBuildDate>Fri, 16 Aug 2024 23:15:28 GMT</lastBuildDate>
+		<pubDate>Mon, 19 Aug 2024 14:17:51 GMT</pubDate>
+		<lastBuildDate>Mon, 19 Aug 2024 14:17:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC, Submittal of "NuScale Comprehensive Vibration Assessment Program Measurement and Inspection Plan Technical Report," TR-121354, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24222A528</link>
+			<description>Legal-Affidavit, Letter, Report, Technical</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-08-19 08:47:00</pubDate>
+		</item>
 		<item>
 			<title>ACRS Memo for Transmittal of NuScale Power, LLC, Safety Evaluation for Standard Design Approval Application Safety Analysis Report Chapters 7, 9, 12, and 18</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24220A132</link>
 			<description>Memoranda</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2024-08-16 09:05:00</pubDate>
-		</item>
-		<item>
-			<title>Updated Audit Plan for the Staff Review of the NuScale Power, LLC Standard Design Approval Application - NuScale US460 Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24211A089</link>
-			<description>Audit Plan, Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2024-08-05 08:30:00</pubDate>
 		</item>
 	</channel>
 </rss>
