@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 19 Aug 2024 23:16:20 GMT</pubDate>
-		<lastBuildDate>Mon, 19 Aug 2024 23:16:20 GMT</lastBuildDate>
+		<pubDate>Tue, 20 Aug 2024 14:16:29 GMT</pubDate>
+		<lastBuildDate>Tue, 20 Aug 2024 14:16:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,34 +17,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-08-08 10:30:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Abilene Christian University Construction Permit Application Preliminary Safety Analysis Report Revision 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24213A286</link>
-			<description>Letter, Preliminary Safety Analysis Report (PSAR)</description>
-			<author>NEXT Laboratory,  Abilene Christian Univ</author>
-			<pubDate>2024-08-06 15:39:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2, MSSR Codes and Service Conditions Redacted</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24219A259</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>NEXT Laboratory,  Abilene Christian Univ</author>
-			<pubDate>2024-08-06 15:39:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1, Abilene Christian University Construction Permit Application Preliminary Safety Analysis Report Revision 2, July 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24219A261</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>NEXT Laboratory,  Abilene Christian Univ</author>
-			<pubDate>2024-08-06 15:39:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3, Safety Related Valve Requirements Redacted</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24219A262</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>NEXT Laboratory,  Abilene Christian Univ</author>
-			<pubDate>2024-08-06 15:39:00</pubDate>
 		</item>
 	</channel>
 </rss>
