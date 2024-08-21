@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 20 Aug 2024 23:17:14 GMT</pubDate>
-		<lastBuildDate>Tue, 20 Aug 2024 23:17:14 GMT</lastBuildDate>
+		<pubDate>Wed, 21 Aug 2024 14:17:16 GMT</pubDate>
+		<lastBuildDate>Wed, 21 Aug 2024 14:17:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -108,27 +108,6 @@
 			<description>Letter, Technical Paper</description>
 			<author>Nuclear Energy Institute (NEI)</author>
 			<pubDate>2024-08-08 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>STC-24-039 Issuance of the Final Rule of the Revised Generic Environmental Impact Statement for License Renewal of Nuclear Plants (NUREG 1437, Revision 2)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24197A029</link>
-			<description>Federal Register Notice, Letter, Rulemaking- Final Rule</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-08-07 16:18:00</pubDate>
-		</item>
-		<item>
-			<title>Braidwood Station, Units 1 and 2  - Environmental Assessment and Finding of no Significant Impact Related to a Requested Increase in Ultimate Heat Sink Temperature (EPID L-2024-LLA-0075) - Transmittal Letter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24172A125</link>
-			<description>Environmental Assessment, Federal Register Notice, Letter</description>
-			<author>NRC/NRR/DORL/LPLIII</author>
-			<pubDate>2024-08-07 15:37:00</pubDate>
-		</item>
-		<item>
-			<title>Braidwood Station, Units 1 and 2  - Environmental Assessment and Finding of no Significant Impact Related to a Requested Increase in Ultimate Heat Sink Temperature (EPID L-2024-LLA-0075)- FRN</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24172A126</link>
-			<description>Environmental Assessment, Federal Register Notice, Finding of No Significant Impact</description>
-			<author>NRC/NRR/DORL/LPLIII</author>
-			<pubDate>2024-08-07 14:34:00</pubDate>
 		</item>
 	</channel>
 </rss>

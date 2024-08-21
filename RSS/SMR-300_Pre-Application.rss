@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 20 Aug 2024 23:17:09 GMT</pubDate>
-		<lastBuildDate>Tue, 20 Aug 2024 23:17:09 GMT</lastBuildDate>
+		<pubDate>Wed, 21 Aug 2024 14:17:11 GMT</pubDate>
+		<lastBuildDate>Wed, 21 Aug 2024 14:17:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,27 +59,6 @@
 			<description>E-Mail, Response to Request for Additional Information (RAI)</description>
 			<author>Holtec International</author>
 			<pubDate>2024-08-12 11:42:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3 - 06/05/2024 Summary of Public Meeting with SMR, LLC (A Holtec International Company) to discuss I&C, HFE, and Electrical Design (Project No. 99902049).</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24180A175</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-08-07 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>06/05/2024 Summary of Public Meeting with SMR, LLC, (A Holtec International Company) to Discuss SMR-300 Instrumentation And Control, Electrical Design And Human Factors Engineering</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24180A172</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-08-07 08:36:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - 06/05/2024 Meeting Attendees of Public Meeting with SMR, LLC (A Holtec International Company) to discuss I&C, HFE, and Electrical Design (Project No. 99902049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24180A174</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-08-07 08:36:00</pubDate>
 		</item>
 	</channel>
 </rss>

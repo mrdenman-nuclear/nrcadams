@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 20 Aug 2024 23:17:10 GMT</pubDate>
-		<lastBuildDate>Tue, 20 Aug 2024 23:17:10 GMT</lastBuildDate>
+		<pubDate>Wed, 21 Aug 2024 14:17:11 GMT</pubDate>
+		<lastBuildDate>Wed, 21 Aug 2024 14:17:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>AFRRI Letter to Mr. Wilson NRC FEB 2021</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24219A110</link>
-			<description>Letter</description>
-			<author>Uniformed Services Univ. of the Health Sciences</author>
-			<pubDate>2024-08-07 15:37:00</pubDate>
-		</item>
-		<item>
-			<title>Armed Forces Radiobiology Research Institute, Email regarding Confirmatory Order Condition (EA-20-056)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML21034A574</link>
-			<description>E-Mail</description>
-			<author>Uniformed Services Univ. of the Health Sciences</author>
-			<pubDate>2024-08-07 15:37:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
