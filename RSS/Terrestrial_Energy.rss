@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 21 Aug 2024 23:15:58 GMT</pubDate>
-		<lastBuildDate>Wed, 21 Aug 2024 23:15:58 GMT</lastBuildDate>
+		<pubDate>Thu, 22 Aug 2024 14:16:21 GMT</pubDate>
+		<lastBuildDate>Thu, 22 Aug 2024 14:16:21 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,41 +73,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS/DREFS/EPMB1</author>
 			<pubDate>2024-08-09 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>Comanche Peak, Unit 1, Current Facility Operating License NPF-87, Tech Specs, Revised 08/08/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053180521</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-08-08 16:05:00</pubDate>
-		</item>
-		<item>
-			<title>Watts Bar, Unit 2, Current Facility Operating License NPF-96, Tech Specs, Revised 08/08/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML15301A140</link>
-			<description>Environmental Protection Plan, Letter, License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR/DORL</author>
-			<pubDate>2024-08-08 13:02:00</pubDate>
-		</item>
-		<item>
-			<title>Watts Bar, Unit 1, Current Facility Operating License NPF-90, Tech Specs, Revised 08/08/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052930169</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-08-08 12:59:00</pubDate>
-		</item>
-		<item>
-			<title>Donald C. Cook, Unit 1, Current Facility Operating License No. DPR-58, Tech Specs, Revised 08/08/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053050305</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-08-08 09:37:00</pubDate>
-		</item>
-		<item>
-			<title>NEI Proposal Paper "Regulations of Rapid High-Volume Deployable Reactors in Remote Applications (RHDRA) and Other Advanced Reactors"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24213A337</link>
-			<description>Letter, Technical Paper</description>
-			<author>Nuclear Energy Institute (NEI)</author>
-			<pubDate>2024-08-08 08:30:00</pubDate>
 		</item>
 	</channel>
 </rss>
