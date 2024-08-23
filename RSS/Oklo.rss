@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 22 Aug 2024 23:16:02 GMT</pubDate>
-		<lastBuildDate>Thu, 22 Aug 2024 23:16:02 GMT</lastBuildDate>
+		<pubDate>Fri, 23 Aug 2024 14:16:52 GMT</pubDate>
+		<lastBuildDate>Fri, 23 Aug 2024 14:16:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Meeting Transcript, Slides and Viewgraphs</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-08-13 14:36:00</pubDate>
-		</item>
-		<item>
-			<title>June 6, 2024 EPRI Alternate Licensing Strategy Information Meeting (EPID L-2024-NTM-0004) - Meeting Summary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24192A238</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DORL/LLPB</author>
-			<pubDate>2024-08-09 16:56:00</pubDate>
 		</item>
 	</channel>
 </rss>

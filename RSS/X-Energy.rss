@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 22 Aug 2024 23:16:02 GMT</pubDate>
-		<lastBuildDate>Thu, 22 Aug 2024 23:16:02 GMT</lastBuildDate>
+		<pubDate>Fri, 23 Aug 2024 14:16:52 GMT</pubDate>
+		<lastBuildDate>Fri, 23 Aug 2024 14:16:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,27 +38,6 @@
 			<description>ACRS Summary Report, Meeting Summary</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-08-13 10:38:00</pubDate>
-		</item>
-		<item>
-			<title>SECY-24-0066: Weekly Information Report Week Ending August 2, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24221A108</link>
-			<description>Commission SECY Paper</description>
-			<author>NRC/EDO/AO</author>
-			<pubDate>2024-08-09 11:39:00</pubDate>
-		</item>
-		<item>
-			<title>NEI 7-30-24 Trial Use RG 1.247 Path Forward Final</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24218A183</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Nuclear Energy Institute (NEI)</author>
-			<pubDate>2024-08-09 08:32:00</pubDate>
-		</item>
-		<item>
-			<title>718th Full Committee Meeting of the Advisory Committee on Reactor Safeguards, September 4-6, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24212A028</link>
-			<description>Federal Register Notice, Meeting Notice</description>
-			<author>NRC/ACRS, NRC/SECY</author>
-			<pubDate>2024-08-09 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
