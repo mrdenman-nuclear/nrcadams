@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 23 Aug 2024 23:15:28 GMT</pubDate>
-		<lastBuildDate>Fri, 23 Aug 2024 23:15:28 GMT</lastBuildDate>
+		<pubDate>Mon, 26 Aug 2024 14:17:09 GMT</pubDate>
+		<lastBuildDate>Mon, 26 Aug 2024 14:17:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Letter, Response to Request for Additional Information (RAI)</description>
 			<author>Dominion Energy South Carolina, Inc</author>
 			<pubDate>2024-08-13 08:38:00</pubDate>
-		</item>
-		<item>
-			<title>Vallecitos Nuclear Center - Update to License Termination Plan for Vallecitos Boiling Water Reactor - Environmental Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24220A200</link>
-			<description>Environmental Report, Letter</description>
-			<author>NorthStar Vallecitos, LLC</author>
-			<pubDate>2024-08-12 10:40:00</pubDate>
 		</item>
 	</channel>
 </rss>

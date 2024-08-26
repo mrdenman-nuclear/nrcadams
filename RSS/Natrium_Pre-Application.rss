@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 23 Aug 2024 23:15:22 GMT</pubDate>
-		<lastBuildDate>Fri, 23 Aug 2024 23:15:22 GMT</lastBuildDate>
+		<pubDate>Mon, 26 Aug 2024 14:17:02 GMT</pubDate>
+		<lastBuildDate>Mon, 26 Aug 2024 14:17:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>E-Mail</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2024-08-16 09:04:00</pubDate>
-		</item>
-		<item>
-			<title>Letter - TerraPower, LLC - Final Safety Evaluation Of Topical Report NATD-LIC-RPRT-0002, "Principal Design Criteria For The Natrium Advanced Reactor," Revision 1 (EPID L-2021-TOP-0020)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24197A232</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-08-12 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - TerraPower, LLC - Final Safety Evaluation Of Topical Report NATD-LIC-RPRT-0002, "Principal Design Criteria For The Natrium Advanced Reactor," Revision 1 (EPID L-2021-TOP-0020)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24197A231</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-08-12 08:34:00</pubDate>
 		</item>
 	</channel>
 </rss>

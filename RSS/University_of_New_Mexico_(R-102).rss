@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 23 Aug 2024 23:15:23 GMT</pubDate>
-		<lastBuildDate>Fri, 23 Aug 2024 23:15:23 GMT</lastBuildDate>
+		<pubDate>Mon, 26 Aug 2024 14:17:04 GMT</pubDate>
+		<lastBuildDate>Mon, 26 Aug 2024 14:17:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>University of New Mexico, Notice of Level 1 Change in Management Update at UNM's AGN-201M</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24229A175</link>
+			<description>Memoranda</description>
+			<author>Univ of New Mexico, Nuclear Engineering Department</author>
+			<pubDate>2024-08-26 08:28:00</pubDate>
+		</item>
+	</channel>
 </rss>

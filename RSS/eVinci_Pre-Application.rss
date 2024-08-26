@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 23 Aug 2024 23:15:22 GMT</pubDate>
-		<lastBuildDate>Fri, 23 Aug 2024 23:15:22 GMT</lastBuildDate>
+		<pubDate>Mon, 26 Aug 2024 14:17:02 GMT</pubDate>
+		<lastBuildDate>Mon, 26 Aug 2024 14:17:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -22,6 +22,13 @@
 			<title>Enclosure 1: Affidavit AW-24-055</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24227B038</link>
 			<description>Legal-Affidavit</description>
+			<author>Westinghouse Electric Co, LLC</author>
+			<pubDate>2024-08-22 09:31:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: WAAP-13023, Revision 0, "eVinci Microreactor - Principal Design Criteria Topical Report ACRS Subcommittee Meeting - Open Session"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24227B039</link>
+			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Westinghouse Electric Co, LLC</author>
 			<pubDate>2024-08-22 09:31:00</pubDate>
 		</item>

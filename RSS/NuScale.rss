@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 23 Aug 2024 23:15:28 GMT</pubDate>
-		<lastBuildDate>Fri, 23 Aug 2024 23:15:28 GMT</lastBuildDate>
+		<pubDate>Mon, 26 Aug 2024 14:17:09 GMT</pubDate>
+		<lastBuildDate>Mon, 26 Aug 2024 14:17:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,20 +59,6 @@
 			<description>Audit Plan, Memoranda</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-08-13 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>PRM-50-120 6-Month Status Update (August 2024) - Alternative Method for Calculating Embrittlement for Steel Reactor Vessels</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24225A073</link>
-			<description>E-Mail</description>
-			<author>NRC/NMSS/DREFS/RRPB</author>
-			<pubDate>2024-08-12 10:40:00</pubDate>
-		</item>
-		<item>
-			<title>2024/07/12 - Comment (160) E-mail regarding Palisades Restart Scoping</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A398</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>Public Commenter</author>
-			<pubDate>2024-08-12 08:34:00</pubDate>
 		</item>
 	</channel>
 </rss>

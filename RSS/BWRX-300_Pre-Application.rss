@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 23 Aug 2024 23:15:22 GMT</pubDate>
-		<lastBuildDate>Fri, 23 Aug 2024 23:15:22 GMT</lastBuildDate>
+		<pubDate>Mon, 26 Aug 2024 14:17:02 GMT</pubDate>
+		<lastBuildDate>Mon, 26 Aug 2024 14:17:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -15,6 +15,13 @@
 			<title>NRC 897 - Topical Report Withholding Determination</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24227A557</link>
 			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-08-22 09:31:00</pubDate>
+		</item>
+		<item>
+			<title>Email: Topical Report Withholding Determination Transmittal</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24227A558</link>
+			<description>E-Mail</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-08-22 09:31:00</pubDate>
 		</item>

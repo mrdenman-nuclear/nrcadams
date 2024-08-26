@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 23 Aug 2024 23:15:28 GMT</pubDate>
-		<lastBuildDate>Fri, 23 Aug 2024 23:15:28 GMT</lastBuildDate>
+		<pubDate>Mon, 26 Aug 2024 14:17:09 GMT</pubDate>
+		<lastBuildDate>Mon, 26 Aug 2024 14:17:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>ACRS Summary Report, Meeting Summary</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-08-13 10:38:00</pubDate>
-		</item>
-		<item>
-			<title>STC-24-045-Proposed Rule - Notice of Request for Comment - Alternative Physical Security Requirements for Advanced Rulemaking</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22045A054</link>
-			<description>All Agreement States Letter, Rulemaking- Proposed Rule</description>
-			<author>NRC/NMSS/DREFS</author>
-			<pubDate>2024-08-12 09:45:00</pubDate>
 		</item>
 	</channel>
 </rss>
