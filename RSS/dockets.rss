@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 26 Aug 2024 23:15:50 GMT</pubDate>
-		<lastBuildDate>Mon, 26 Aug 2024 23:15:50 GMT</lastBuildDate>
+		<pubDate>Tue, 27 Aug 2024 14:15:46 GMT</pubDate>
+		<lastBuildDate>Tue, 27 Aug 2024 14:15:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2024/08/13 - Comment (958) E-mail regarding TerraPower CP EIS Scoping</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24226A015</link>
+			<description>General FR Notice Comment Letter</description>
+			<author>Public Commenter</author>
+			<pubDate>2024-08-23 08:40:00</pubDate>
+		</item>
+		<item>
+			<title>TerraPower Section 106 Initiation - Wyoming SHPO Response</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24235A171</link>
+			<description>E-Mail</description>
+			<author>State of WY, State Historic Preservation Office</author>
+			<pubDate>2024-08-22 12:43:00</pubDate>
+		</item>
 		<item>
 			<title>NRC 897 - Topical Report Withholding Determination</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24227A557</link>
@@ -206,20 +220,6 @@
 			<description>General FR Notice Comment Letter</description>
 			<author>Uranium Watch</author>
 			<pubDate>2024-08-20 09:27:00</pubDate>
-		</item>
-		<item>
-			<title>2024/08/08 - Comment (922) E-mail regarding TerraPower CP EIS Scoping</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24223A110</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>Public Commenter</author>
-			<pubDate>2024-08-20 09:26:00</pubDate>
-		</item>
-		<item>
-			<title>2024/08/08 - Comment (923) E-mail regarding TerraPower CP EIS Scoping</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24223A111</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>Public Commenter</author>
-			<pubDate>2024-08-20 09:26:00</pubDate>
 		</item>
 	</channel>
 </rss>

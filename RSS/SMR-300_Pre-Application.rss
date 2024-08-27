@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 26 Aug 2024 23:15:50 GMT</pubDate>
-		<lastBuildDate>Mon, 26 Aug 2024 23:15:50 GMT</lastBuildDate>
+		<pubDate>Tue, 27 Aug 2024 14:15:46 GMT</pubDate>
+		<lastBuildDate>Tue, 27 Aug 2024 14:15:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,13 +52,6 @@
 			<description>Legal-Affidavit</description>
 			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2024-08-15 08:42:00</pubDate>
-		</item>
-		<item>
-			<title>SMR Holtec Risk Significance Methodology Topical Report - Audit Plan</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24211A226</link>
-			<description>Audit Plan, Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-08-13 08:39:00</pubDate>
 		</item>
 	</channel>
 </rss>

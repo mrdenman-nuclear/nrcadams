@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 26 Aug 2024 23:15:55 GMT</pubDate>
-		<lastBuildDate>Mon, 26 Aug 2024 23:15:55 GMT</lastBuildDate>
+		<pubDate>Tue, 27 Aug 2024 14:15:52 GMT</pubDate>
+		<lastBuildDate>Tue, 27 Aug 2024 14:15:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NRC/NMSS/DREFS/EPMB1, NRC/NRR/DNRL/NLRP</author>
 			<pubDate>2024-08-20 07:03:00</pubDate>
-		</item>
-		<item>
-			<title>Summary Report - 717th Meeting of the Advisory Committee on Reactor Safeguards, July 10-12, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24214A322</link>
-			<description>ACRS Summary Report, Meeting Summary</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-08-13 10:38:00</pubDate>
-		</item>
-		<item>
-			<title>Virgil C. Summer Nuclear Station, Unit 1 - Environmental Review Response to NRC Requests for Additional Information and Response to NRC Requests for Confirmation of Information Set 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24218A300</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>Dominion Energy South Carolina, Inc</author>
-			<pubDate>2024-08-13 08:38:00</pubDate>
 		</item>
 	</channel>
 </rss>
