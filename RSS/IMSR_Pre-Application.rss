@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 27 Aug 2024 23:16:09 GMT</pubDate>
-		<lastBuildDate>Tue, 27 Aug 2024 23:16:09 GMT</lastBuildDate>
+		<pubDate>Wed, 28 Aug 2024 14:16:05 GMT</pubDate>
+		<lastBuildDate>Wed, 28 Aug 2024 14:16:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>E-Mail, Schedule and Calendars</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-08-16 09:06:00</pubDate>
-		</item>
-		<item>
-			<title>08/28/2024 Notice of Closed Meeting with Terrestrial Energy USA, Inc. (Terrestrial)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24227A984</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-08-14 16:36:00</pubDate>
 		</item>
 	</channel>
 </rss>
