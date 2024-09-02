@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 30 Aug 2024 23:18:06 GMT</pubDate>
-		<lastBuildDate>Fri, 30 Aug 2024 23:18:06 GMT</lastBuildDate>
+		<pubDate>Mon, 02 Sep 2024 18:22:34 GMT</pubDate>
+		<lastBuildDate>Mon, 02 Sep 2024 18:22:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>08/22/2024 Call between the NRC and TRISO-X staff to have a discussion regarding the NRC requests for additional information (RAIs) related to the chemical safety review of the TRISO-X License Application.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24232A194</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-08-19 15:02:00</pubDate>
-		</item>
-		<item>
-			<title>09/09/2024 Call between the NRC and TRISO-X staff to have a discussion regarding the NRC requests for additional information (RAIs) related to the hydrology review of the TRISO-X License Application.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24232A188</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-08-19 14:53:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

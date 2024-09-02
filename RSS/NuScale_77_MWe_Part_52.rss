@@ -5,53 +5,46 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 30 Aug 2024 23:18:06 GMT</pubDate>
-		<lastBuildDate>Fri, 30 Aug 2024 23:18:06 GMT</lastBuildDate>
+		<pubDate>Mon, 02 Sep 2024 18:22:34 GMT</pubDate>
+		<lastBuildDate>Mon, 02 Sep 2024 18:22:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC, Submittal of Presentation Material Entitled "ACRS Subcommittee Meeting (Closed Session) High Impact Technical Issues Discussion," PM-172561, Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24233A239</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-08-28 08:33:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC Submittal of Presentation Material Entitled "ACRS  Subcommittee Meeting (Open Session) US460 Standard Design Approval Application Chapters 7, 9, 12, and 18," PM-172558, Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24232A228</link>
+			<description>Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-08-27 08:35:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC Submittal of Presentation Material Entitled "ACRS Subcommittee Meeting (Open Session), August 22, 2024, High Impact Technical Issues Discussion," PM-173236, Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24232A244</link>
+			<description>Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-08-27 08:35:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC, Submittal of NuScale Technical Report, "NuScale US460 Statistical Subchannel Critical Heat Flux Analysis Probabilistic Uncertainties," TR-169856, Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24213A316</link>
+			<description>Legal-Affidavit, Letter, Report, Technical</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-08-26 10:40:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC, Response to NRC Request for Additional Information No. 25 (RAI-10190-R1) on the NuScale Standard Design Approval Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24226A402</link>
 			<description>Letter, Response to Request for Additional Information (RAI)</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2024-08-21 08:59:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA FSER - Chapter 7 - Instrumentation and Controls</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24080A188</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2024-08-19 14:40:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA Chapter 9, Auxiliary Systems, SE with no Open Items</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24158A069</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2024-08-19 14:40:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA Chapter 12 Radiation Protection SE with no Open Items</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24082A082</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2024-08-19 14:40:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA Chapter 18, Human Factors Engineering, SE with no Open Items</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24019A002</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2024-08-19 14:40:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of "NuScale Comprehensive Vibration Assessment Program Measurement and Inspection Plan Technical Report," TR-121354, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24222A528</link>
-			<description>Legal-Affidavit, Letter, Report, Technical</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-08-19 08:47:00</pubDate>
 		</item>
 	</channel>
 </rss>

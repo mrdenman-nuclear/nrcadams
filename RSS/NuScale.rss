@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 30 Aug 2024 23:18:11 GMT</pubDate>
-		<lastBuildDate>Fri, 30 Aug 2024 23:18:11 GMT</lastBuildDate>
+		<pubDate>Mon, 02 Sep 2024 18:22:41 GMT</pubDate>
+		<lastBuildDate>Mon, 02 Sep 2024 18:22:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-08-20 14:40:00</pubDate>
-		</item>
-		<item>
-			<title>ACRS NuScale SDAA FSAR Chapters 7, 9, 12, 18 Subcommittee Meeting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24229A157</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2024-08-19 08:47:00</pubDate>
 		</item>
 	</channel>
 </rss>

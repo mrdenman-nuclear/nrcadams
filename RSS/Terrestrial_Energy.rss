@@ -5,24 +5,24 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 30 Aug 2024 23:18:11 GMT</pubDate>
-		<lastBuildDate>Fri, 30 Aug 2024 23:18:11 GMT</lastBuildDate>
+		<pubDate>Mon, 02 Sep 2024 18:22:41 GMT</pubDate>
+		<lastBuildDate>Mon, 02 Sep 2024 18:22:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>NUREG-1437, Supplement 61, DFC, "Generic Environment Impact Statement for License Renewal of Nuclear Plants Supplement 61 Regarding License Renewal of Perry Nuclear Power Plant"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24241A256</link>
-			<description>NUREG, Draft</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-08-30 13:05:00</pubDate>
-		</item>
-		<item>
 			<title>Response to Request for Additional Information for the TMI-2 Post-Shutdown Decommissioning Activities Report, Rev. 6</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24240A222</link>
 			<description>Letter, Response to Request for Additional Information (RAI)</description>
 			<author>TMI-2 Solutions, LLC</author>
+			<pubDate>2024-08-30 13:05:00</pubDate>
+		</item>
+		<item>
+			<title>NUREG-1437, Supplement 61, DFC, "Generic Environment Impact Statement for License Renewal of Nuclear Plants Supplement 61 Regarding License Renewal of Perry Nuclear Power Plant"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24241A256</link>
+			<description>NUREG, Draft</description>
+			<author>NRC/NMSS</author>
 			<pubDate>2024-08-30 13:05:00</pubDate>
 		</item>
 		<item>
