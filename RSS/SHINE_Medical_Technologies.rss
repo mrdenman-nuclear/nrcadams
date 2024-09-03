@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 03 Sep 2024 15:17:09 GMT</pubDate>
-		<lastBuildDate>Tue, 03 Sep 2024 15:17:09 GMT</lastBuildDate>
+		<pubDate>Tue, 03 Sep 2024 16:20:32 GMT</pubDate>
+		<lastBuildDate>Tue, 03 Sep 2024 16:20:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Letter from Commonwealth Fusion Systems to J. Lubinski - Preliminary Rulemaking Process for a Regulatory Framework for Fusion Systems Docket No. NRC-2023-0071, dated May 21, 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24157A322</link>
+			<description>Graphics incl Charts and Tables, Letter, NUREG</description>
+			<author>Commonwealth Fusion Systems, LLC</author>
+			<pubDate>2024-09-03 11:54:00</pubDate>
+		</item>
+	</channel>
 </rss>
