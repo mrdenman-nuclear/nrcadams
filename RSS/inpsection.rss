@@ -5,18 +5,88 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 19 Aug 2024 23:16:25 GMT</pubDate>
-		<lastBuildDate>Mon, 19 Aug 2024 23:16:25 GMT</lastBuildDate>
+		<pubDate>Thu, 05 Sep 2024 14:15:54 GMT</pubDate>
+		<lastBuildDate>Thu, 05 Sep 2024 14:15:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>OpESS 2023-02 Probabilistic Risk Assessment Configuration Control</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23255A006</link>
+			<title>IMC 0609 Appendix F, Attachment 4, Guidance for Determining Fire Ignition Frequency</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24145A031</link>
 			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IOEB</author>
-			<pubDate>2024-08-13 06:57:00</pubDate>
+			<author>NRC/NRR/DRA/APOB</author>
+			<pubDate>2024-09-05 09:08:00</pubDate>
+		</item>
+		<item>
+			<title>IMC 0609 Appendix F, Attachment 5, Characterizing Fire Ignition Sources</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24145A032</link>
+			<description>Inspection Manual</description>
+			<author>NRC/NRR/DRA/APOB</author>
+			<pubDate>2024-09-05 09:08:00</pubDate>
+		</item>
+		<item>
+			<title>IMC 0609 Appendix F, Attachment 6, Guidance for Identification of Targets and Their Ignition and Damage Criteria</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24145A033</link>
+			<description>Inspection Manual</description>
+			<author>NRC/NRR/DRA/APOB</author>
+			<pubDate>2024-09-05 09:08:00</pubDate>
+		</item>
+		<item>
+			<title>IMC 0609 Appendix F, Attachment 7, Guidance for Fire Non-Suppression Probability Analysis</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24150A357</link>
+			<description>Inspection Manual</description>
+			<author>NRC/NRR/DRA/APOB</author>
+			<pubDate>2024-09-05 09:08:00</pubDate>
+		</item>
+		<item>
+			<title>IMC 0609 Appendix F, Attachment 8, Tables and Plots Supporting the Phase 2 Risk Quantification</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24150A358</link>
+			<description>Inspection Manual</description>
+			<author>NRC/NRR/DRA/APOB</author>
+			<pubDate>2024-09-05 09:08:00</pubDate>
+		</item>
+		<item>
+			<title>Table of Contents for Inspection Manual Change Notice 24-024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24247A305</link>
+			<description>Inspection Manual</description>
+			<author>NRC/NRR/DRO/IRIB</author>
+			<pubDate>2024-09-05 09:08:00</pubDate>
+		</item>
+		<item>
+			<title>IMC 0609 Appendix F, Attachment 1, Fire Protection Significance Determination Process Worksheets</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24145A028</link>
+			<description>Inspection Manual</description>
+			<author>NRC/NRR/DRA/APOB</author>
+			<pubDate>2024-09-05 09:08:00</pubDate>
+		</item>
+		<item>
+			<title>IMC 0308 Attachment 3 Appendix F, Technical Basis Fire Protection Significance Determination Process (Supplemental Guidance for Implementing IMC 0609 Appendix F) At Power Operations</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24150A361</link>
+			<description>Inspection Manual</description>
+			<author>NRC/NRR/DRA/APOB</author>
+			<pubDate>2024-09-05 09:07:00</pubDate>
+		</item>
+		<item>
+			<title>IMC 0609 Appendix F, Fire Protection Significance Determination Process</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24150A359</link>
+			<description>Inspection Manual</description>
+			<author>NRC/NRR/DRA/APOB</author>
+			<pubDate>2024-09-05 09:07:00</pubDate>
+		</item>
+		<item>
+			<title>IMC 0609 Appendix F, Attachment 2, Degradation Rating Guidance</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24145A029</link>
+			<description>Inspection Manual</description>
+			<author>NRC/NRR/DRA/APOB</author>
+			<pubDate>2024-09-05 09:07:00</pubDate>
+		</item>
+		<item>
+			<title>IMC 0609 Appendix F, Attachment 3, Guidance for Identifying Credible Fire Scenarios</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24145A030</link>
+			<description>Inspection Manual</description>
+			<author>NRC/NRR/DRA/APOB</author>
+			<pubDate>2024-09-05 09:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
