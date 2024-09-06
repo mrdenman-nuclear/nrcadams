@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 05 Sep 2024 23:16:00 GMT</pubDate>
-		<lastBuildDate>Thu, 05 Sep 2024 23:16:00 GMT</lastBuildDate>
+		<pubDate>Fri, 06 Sep 2024 14:16:41 GMT</pubDate>
+		<lastBuildDate>Fri, 06 Sep 2024 14:16:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Examination Result Letter No. 50-223 OL-24-01, University of Massachusetts - Lowell</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24052A346</link>
+			<description>License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2024-09-06 08:55:00</pubDate>
+		</item>
+		<item>
+			<title>Examination Report Letter No. 50-223/OL-24-01, University of Massachusetts - Lowell</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24052A345</link>
+			<description>License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2024-09-06 08:55:00</pubDate>
+		</item>
+	</channel>
 </rss>
