@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 06 Sep 2024 23:16:51 GMT</pubDate>
-		<lastBuildDate>Fri, 06 Sep 2024 23:16:51 GMT</lastBuildDate>
+		<pubDate>Mon, 09 Sep 2024 14:24:08 GMT</pubDate>
+		<lastBuildDate>Mon, 09 Sep 2024 14:24:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2024-09-04 09:20:00</pubDate>
-		</item>
-		<item>
-			<title>Audit Plan Hermes Geologic Mapping Permit Condition.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24222A393</link>
-			<description>Audit Plan</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-08-26 08:28:00</pubDate>
 		</item>
 	</channel>
 </rss>
