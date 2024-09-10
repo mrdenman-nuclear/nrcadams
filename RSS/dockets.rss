@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 09 Sep 2024 23:16:25 GMT</pubDate>
-		<lastBuildDate>Mon, 09 Sep 2024 23:16:25 GMT</lastBuildDate>
+		<pubDate>Tue, 10 Sep 2024 14:16:11 GMT</pubDate>
+		<lastBuildDate>Tue, 10 Sep 2024 14:16:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC, Submittal of "NuScale Power Module Short-Term Transient Analysis," TR-121517, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24243A009</link>
+			<description>Legal-Affidavit, Letter, Report, Technical</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-09-10 09:09:00</pubDate>
+		</item>
 		<item>
 			<title>SECY-24-0075: Staff's Statement in Support of the Uncontested Hearing for Issuance of Construction Permits for the Kairos Hermes 2 Test Reactor Facility</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24152A258</link>
@@ -213,13 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-09-03 09:34:00</pubDate>
-		</item>
-		<item>
-			<title>2024/08/22 - Comment (1153) E-mail regarding TerraPower CP EIS Scoping</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24235A204</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>Public Commenter</author>
-			<pubDate>2024-09-03 09:33:00</pubDate>
 		</item>
 	</channel>
 </rss>

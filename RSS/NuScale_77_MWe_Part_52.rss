@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 09 Sep 2024 23:16:25 GMT</pubDate>
-		<lastBuildDate>Mon, 09 Sep 2024 23:16:25 GMT</lastBuildDate>
+		<pubDate>Tue, 10 Sep 2024 14:16:11 GMT</pubDate>
+		<lastBuildDate>Tue, 10 Sep 2024 14:16:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC, Submittal of "NuScale Power Module Short-Term Transient Analysis," TR-121517, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24243A009</link>
+			<description>Legal-Affidavit, Letter, Report, Technical</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-09-10 09:09:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC Submittal of the NRC’s Request for Docketing of Resolved Audit Response</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24242A213</link>
@@ -38,20 +45,6 @@
 			<description>Legal-Affidavit, Letter</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2024-08-28 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Submittal of Presentation Material Entitled "ACRS  Subcommittee Meeting (Open Session) US460 Standard Design Approval Application Chapters 7, 9, 12, and 18," PM-172558, Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24232A228</link>
-			<description>Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-08-27 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Submittal of Presentation Material Entitled "ACRS Subcommittee Meeting (Open Session), August 22, 2024, High Impact Technical Issues Discussion," PM-173236, Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24232A244</link>
-			<description>Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-08-27 08:35:00</pubDate>
 		</item>
 	</channel>
 </rss>

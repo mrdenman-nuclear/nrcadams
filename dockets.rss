@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 09 Sep 2024 23:16:22 GMT</pubDate>
-		<lastBuildDate>Mon, 09 Sep 2024 23:16:22 GMT</lastBuildDate>
+		<pubDate>Tue, 10 Sep 2024 14:16:09 GMT</pubDate>
+		<lastBuildDate>Tue, 10 Sep 2024 14:16:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC, Submittal of "NuScale Power Module Short-Term Transient Analysis," TR-121517, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24243A009</link>
+			<description>Legal-Affidavit, Letter, Report, Technical</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-09-10 09:09:00</pubDate>
+		</item>
 		<item>
 			<title>SECY-24-0075: Staff's Statement in Support of the Uncontested Hearing for Issuance of Construction Permits for the Kairos Hermes 2 Test Reactor Facility</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24152A258</link>
@@ -192,34 +199,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2024-09-04 09:19:00</pubDate>
-		</item>
-		<item>
-			<title>09/19/2024 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding the I/SET Scaling for the SMR-300 design.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24247A065</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-09-03 09:48:00</pubDate>
-		</item>
-		<item>
-			<title>Final Safety Evaluation for the Topical Report on the Quality Assurance Program for Holtec International's Small Modular Reactor (SMR) Design and Construction</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24228A061</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-09-03 09:35:00</pubDate>
-		</item>
-		<item>
-			<title>Letter Response to GE-Hitachi Request to Withdraw Licensing Topical Report NEDC33926P - NEDO33926, Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24240A013</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-09-03 09:34:00</pubDate>
-		</item>
-		<item>
-			<title>2024/08/22 - Comment (1153) E-mail regarding TerraPower CP EIS Scoping</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24235A204</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>Public Commenter</author>
-			<pubDate>2024-09-03 09:33:00</pubDate>
 		</item>
 	</channel>
 </rss>
