@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 10 Sep 2024 15:16:32 GMT</pubDate>
-		<lastBuildDate>Tue, 10 Sep 2024 15:16:32 GMT</lastBuildDate>
+		<pubDate>Tue, 10 Sep 2024 16:18:13 GMT</pubDate>
+		<lastBuildDate>Tue, 10 Sep 2024 16:18:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -16,7 +16,14 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24205A164</link>
 			<description>Meeting Agenda</description>
 			<author>NRC/ACRS</author>
-			<pubDate>2024-09-04 16:38:00</pubDate>
+			<pubDate>2024-09-10 11:49:00</pubDate>
+		</item>
+		<item>
+			<title>Agenda - TerraPower Natrium Plume Exposure Meeting - SC - September 19, 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24254A250</link>
+			<description>Meeting Agenda</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2024-09-10 11:48:00</pubDate>
 		</item>
 		<item>
 			<title>Transcript of the Advisory Committee on Reactor Safeguards e-Vinci Subcommittee Meeting, August 21, 2024, Pages 1-103 (Open)</title>
