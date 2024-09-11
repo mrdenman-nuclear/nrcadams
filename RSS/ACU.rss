@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 10 Sep 2024 23:14:40 GMT</pubDate>
-		<lastBuildDate>Tue, 10 Sep 2024 23:14:40 GMT</lastBuildDate>
+		<pubDate>Wed, 11 Sep 2024 14:15:35 GMT</pubDate>
+		<lastBuildDate>Wed, 11 Sep 2024 14:15:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Report, Technical</description>
 			<author>NRC/RES/DE</author>
 			<pubDate>2024-09-05 09:07:00</pubDate>
-		</item>
-		<item>
-			<title>Palo Verde Nuclear Generating Station, Units 1, 2, and 3 - Issuance of Amendment Nos. 224, 224, and 224 Regarding Revision to Technical Specifications 3.5.1, 3.5.2 and 3.6.5(EPID L-2023-LLA-0098)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24208A061</link>
-			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation</description>
-			<author>NRC/NRR/DORL/LPLIV</author>
-			<pubDate>2024-08-28 08:33:00</pubDate>
 		</item>
 	</channel>
 </rss>

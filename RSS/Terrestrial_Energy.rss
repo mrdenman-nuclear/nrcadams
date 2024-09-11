@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 10 Sep 2024 23:14:40 GMT</pubDate>
-		<lastBuildDate>Tue, 10 Sep 2024 23:14:40 GMT</lastBuildDate>
+		<pubDate>Wed, 11 Sep 2024 14:15:35 GMT</pubDate>
+		<lastBuildDate>Wed, 11 Sep 2024 14:15:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Vogtle, Unit 1, Current Facility Operating License NPF-68, Tech Specs, Revised 09/11/2024.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052840233</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-09-11 08:40:00</pubDate>
+		</item>
 		<item>
 			<title>Shearon Harris, Unit 1, Current Facility Operating License NPF-63, Tech Specs, Revised 09/10/2024.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052860283</link>
@@ -31,13 +38,6 @@
 			<description>Environmental Impact Statement, NUREG, Draft</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2024-09-10 09:11:00</pubDate>
-		</item>
-		<item>
-			<title>Vogtle, Unit 1, Current Facility Operating License NPF-68, Tech Specs, Revised 09/10/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052840233</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-09-10 06:44:00</pubDate>
 		</item>
 		<item>
 			<title>Louisiana Energy Services, LLC, dba URENCO USA - Environmental Information</title>
@@ -143,41 +143,6 @@
 			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-08-29 08:49:00</pubDate>
-		</item>
-		<item>
-			<title>North Anna Power Station, Units 1 and 2 - Record of Decision</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A265</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DNRL/NLRP</author>
-			<pubDate>2024-08-28 14:59:00</pubDate>
-		</item>
-		<item>
-			<title>Waterford, Unit 3, Current Facility Operating License NPF-38, Tech Specs, Revised 08/28/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053130318</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-08-28 13:51:00</pubDate>
-		</item>
-		<item>
-			<title>Crystal River LTP Environmental Assessment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24081A068</link>
-			<description>Environmental Assessment</description>
-			<author>NRC/NMSS/DREFS/ERMB</author>
-			<pubDate>2024-08-28 10:30:00</pubDate>
-		</item>
-		<item>
-			<title>Memorandum and Order (Dismissing Proposed New and Amended Contentions and Terminating Proceeding) (LBP-24-08)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24240A218</link>
-			<description>Legal-Order</description>
-			<author>NRC/ASLBP</author>
-			<pubDate>2024-08-28 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>River Bend, Unit 1, Current Facility Operating License NPF-47, Tech Specs, Revised 08/28/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053110037</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-08-28 07:38:00</pubDate>
 		</item>
 	</channel>
 </rss>
