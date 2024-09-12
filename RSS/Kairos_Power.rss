@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 11 Sep 2024 23:15:37 GMT</pubDate>
-		<lastBuildDate>Wed, 11 Sep 2024 23:15:37 GMT</lastBuildDate>
+		<pubDate>Thu, 12 Sep 2024 14:17:07 GMT</pubDate>
+		<lastBuildDate>Thu, 12 Sep 2024 14:17:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,13 +59,6 @@
 			<description>Commission Staff Requirements Memo (SRM)</description>
 			<author>NRC/SECY</author>
 			<pubDate>2024-09-04 14:57:00</pubDate>
-		</item>
-		<item>
-			<title>BDH LIP Aug 29 2024 (002) - final</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24241A234</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-08-29 13:09:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 11 Sep 2024 23:15:33 GMT</pubDate>
-		<lastBuildDate>Wed, 11 Sep 2024 23:15:33 GMT</lastBuildDate>
+		<pubDate>Thu, 12 Sep 2024 14:17:02 GMT</pubDate>
+		<lastBuildDate>Thu, 12 Sep 2024 14:17:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Draft Hermes 2 Unit 1 Construction Permit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24233A071</link>
+			<description>Report, Miscellaneous</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-09-12 08:58:00</pubDate>
+		</item>
+		<item>
+			<title>Draft Hermes 2 Unit 2 Construction Permit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24233A072</link>
+			<description>Report, Miscellaneous</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-09-12 08:58:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC, Submittal of Approved Version of Licensing Topical Report, "Quality Assurance Program for Holtec International’s Small Modular Reactor Design and Construction"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24248A162</link>
+			<description>Letter, Quality Assurance Program</description>
+			<author>SMR, LLC</author>
+			<pubDate>2024-09-12 08:57:00</pubDate>
+		</item>
 		<item>
 			<title>10/17/2024 Closed Pre-application Meeting with Westinghouse on AP300 White Paper "Safety Analysis Codes & Methods"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24255A855</link>
@@ -198,27 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24246A014</link>
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-09-04 09:20:00</pubDate>
-		</item>
-		<item>
-			<title>2024/08/28 NRR E-mail Capture - Regarding DG-5071 "Target Set Identification and Development for Nuclear Power Reactors" access</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24246A014</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-09-04 09:20:00</pubDate>
-		</item>
-		<item>
-			<title>Letter to Kairos, Inc., Exemption and Final EA</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24158A232</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-09-04 09:20:00</pubDate>
-		</item>
-		<item>
-			<title>Letter to Kairos, Inc., Exemption and Final EA</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24158A232</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2024-09-04 09:20:00</pubDate>
 		</item>
 	</channel>

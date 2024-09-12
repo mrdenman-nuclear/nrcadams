@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 11 Sep 2024 23:15:30 GMT</pubDate>
-		<lastBuildDate>Wed, 11 Sep 2024 23:15:30 GMT</lastBuildDate>
+		<pubDate>Thu, 12 Sep 2024 14:16:59 GMT</pubDate>
+		<lastBuildDate>Thu, 12 Sep 2024 14:16:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Draft Hermes 2 Unit 1 Construction Permit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24233A071</link>
+			<description>Report, Miscellaneous</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-09-12 08:58:00</pubDate>
+		</item>
+		<item>
+			<title>Draft Hermes 2 Unit 2 Construction Permit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24233A072</link>
+			<description>Report, Miscellaneous</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-09-12 08:58:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC, Submittal of Approved Version of Licensing Topical Report, "Quality Assurance Program for Holtec International’s Small Modular Reactor Design and Construction"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24248A162</link>
+			<description>Letter, Quality Assurance Program</description>
+			<author>SMR, LLC</author>
+			<pubDate>2024-09-12 08:57:00</pubDate>
+		</item>
 		<item>
 			<title>10/17/2024 Closed Pre-application Meeting with Westinghouse on AP300 White Paper "Safety Analysis Codes & Methods"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24255A855</link>
@@ -143,13 +164,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-09-06 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>Request For Withholding Proprietary Information From Public Disclosure For Westinghouse Electric Company, LLC’s., Letter Titled "Submittal Of Westinghouse Comments On The Draft Safety Evaluation For Topical Reports: "Advanced Logic System® V2 Platform"..</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24178A045</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-09-05 09:06:00</pubDate>
 		</item>
 	</channel>
 </rss>

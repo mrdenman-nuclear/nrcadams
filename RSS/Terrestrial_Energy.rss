@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 11 Sep 2024 23:15:37 GMT</pubDate>
-		<lastBuildDate>Wed, 11 Sep 2024 23:15:37 GMT</lastBuildDate>
+		<pubDate>Thu, 12 Sep 2024 14:17:07 GMT</pubDate>
+		<lastBuildDate>Thu, 12 Sep 2024 14:17:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Draft Hermes 2 Unit 1 Construction Permit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24233A071</link>
+			<description>Report, Miscellaneous</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-09-12 08:58:00</pubDate>
+		</item>
+		<item>
+			<title>Draft Hermes 2 Unit 2 Construction Permit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24233A072</link>
+			<description>Report, Miscellaneous</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-09-12 08:58:00</pubDate>
+		</item>
+		<item>
+			<title>DG-4032 (RG 4.2 Rev 4) Redline Strikeout to Support Proposed Rule</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24176A229</link>
+			<description>Regulatory Analysis, Regulatory Guide, Draft</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2024-09-12 08:57:00</pubDate>
+		</item>
 		<item>
 			<title>Energy and System Design Mitigation Alternatives White Paper</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML21225A754</link>
@@ -129,27 +150,6 @@
 			<description>Environmental Assessment</description>
 			<author>NRC/NMSS/DREFS/ETRB1</author>
 			<pubDate>2024-08-30 09:20:00</pubDate>
-		</item>
-		<item>
-			<title>BDH LIP Aug 29 2024 (002) - final</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24241A234</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-08-29 13:09:00</pubDate>
-		</item>
-		<item>
-			<title>Comanche Peak, Unit 1, Current Facility Operating License NPF-87, Tech Specs, Revised 08/29/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053180521</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-08-29 10:46:00</pubDate>
-		</item>
-		<item>
-			<title>Seabrook, Unit 1, Current Facility Operating License NPF-86, Tech Specs, Revised 08/29/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053130320</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-08-29 08:49:00</pubDate>
 		</item>
 	</channel>
 </rss>
