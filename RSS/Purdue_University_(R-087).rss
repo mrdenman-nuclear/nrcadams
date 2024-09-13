@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 12 Sep 2024 23:16:56 GMT</pubDate>
-		<lastBuildDate>Thu, 12 Sep 2024 23:16:56 GMT</lastBuildDate>
+		<pubDate>Fri, 13 Sep 2024 14:16:02 GMT</pubDate>
+		<lastBuildDate>Fri, 13 Sep 2024 14:16:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Purdue University - U.S. Nuclear Regulatory Commission Security Inspection Report 05000182/2024410</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24241A025</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2024-09-13 09:36:00</pubDate>
+		</item>
+	</channel>
 </rss>

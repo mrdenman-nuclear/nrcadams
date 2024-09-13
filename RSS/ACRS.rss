@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 12 Sep 2024 23:16:56 GMT</pubDate>
-		<lastBuildDate>Thu, 12 Sep 2024 23:16:56 GMT</lastBuildDate>
+		<pubDate>Fri, 13 Sep 2024 14:16:03 GMT</pubDate>
+		<lastBuildDate>Fri, 13 Sep 2024 14:16:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,13 +59,6 @@
 			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-09-03 10:40:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of the Advisory Committee on Reactor Safeguards TerraPower Natrium Reactor Design-Center Subcommittee Meeting, July 09, 2024, Pages 1-114 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24242A288</link>
-			<description>Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-08-30 09:20:00</pubDate>
 		</item>
 	</channel>
 </rss>
