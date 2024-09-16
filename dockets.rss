@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 16 Sep 2024 18:19:51 GMT</pubDate>
-		<lastBuildDate>Mon, 16 Sep 2024 18:19:51 GMT</lastBuildDate>
+		<pubDate>Mon, 16 Sep 2024 19:13:37 GMT</pubDate>
+		<lastBuildDate>Mon, 16 Sep 2024 19:13:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>09/27/2024 Meeting with Abilene Christian University (ACU) to Discuss the NRCs Feedback on ACU's Material Control & Accounting White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24260A241</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-09-16 14:59:00</pubDate>
+		</item>
+		<item>
+			<title>Abilene Christian University, Safety Evaluation for Issuance of Construction Permit for the Molten Salt Research Reactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24243A042</link>
+			<description>Safety Evaluation</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-09-16 14:58:00</pubDate>
+		</item>
 		<item>
 			<title>TRISO-X, LLC, Supplemental Information for Management Measures and Quality Assurance RAI Responses</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24249A317</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24206A074</link>
 			<description>- No Document Type Applies</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2024-09-11 08:51:00</pubDate>
-		</item>
-		<item>
-			<title>Project Long Mott Draft PSAR Readiness Assessment Plan - August 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24250A186</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-09-11 08:51:00</pubDate>
-		</item>
-		<item>
-			<title>Project Long Mott Draft PSAR Readiness Assessment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24250A185</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR</author>
 			<pubDate>2024-09-11 08:51:00</pubDate>
 		</item>
 	</channel>
