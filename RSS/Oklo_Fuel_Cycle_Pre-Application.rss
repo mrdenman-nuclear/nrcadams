@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 17 Sep 2024 23:18:04 GMT</pubDate>
-		<lastBuildDate>Tue, 17 Sep 2024 23:18:04 GMT</lastBuildDate>
+		<pubDate>Wed, 18 Sep 2024 14:17:31 GMT</pubDate>
+		<lastBuildDate>Wed, 18 Sep 2024 14:17:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Oklo Inc., "Licensing Approach for the Oklo Fuel Recycling Facility" White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24254A332</link>
+			<description>Letter</description>
+			<author>Oklo Inc</author>
+			<pubDate>2024-09-18 09:13:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: Affidavit regarding request for withholding for "Licensing Approach for the Oklo Fuel Recycling Facility" White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24254A334</link>
+			<description>Legal-Affidavit</description>
+			<author>Oklo Inc</author>
+			<pubDate>2024-09-18 09:13:00</pubDate>
+		</item>
+	</channel>
 </rss>

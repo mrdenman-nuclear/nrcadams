@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 17 Sep 2024 23:18:11 GMT</pubDate>
-		<lastBuildDate>Tue, 17 Sep 2024 23:18:11 GMT</lastBuildDate>
+		<pubDate>Wed, 18 Sep 2024 14:17:37 GMT</pubDate>
+		<lastBuildDate>Wed, 18 Sep 2024 14:17:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2024/06/27 Palisades Restart LA Docs - Draft letter in support of Draft RAIs and Draft Environmental Regulatory Audit Plan</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24248A056</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2024-09-18 09:12:00</pubDate>
+		</item>
 		<item>
 			<title>South Texas Project, Units 1 and 2, Updated Final Safety Analysis Report, Revision 22, Chapter 11, Radioactive  Waste Management</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24130A066</link>
@@ -192,13 +199,6 @@
 			<description>Report, Technical</description>
 			<author>NRC/RES/DE</author>
 			<pubDate>2024-09-05 09:07:00</pubDate>
-		</item>
-		<item>
-			<title>Joseph M. Farley, Unit 2, Current Facility Operating License NPF-8, Revised 09/04/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052780039</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-09-04 11:45:00</pubDate>
 		</item>
 	</channel>
 </rss>

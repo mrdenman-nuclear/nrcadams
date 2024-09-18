@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 17 Sep 2024 23:18:04 GMT</pubDate>
-		<lastBuildDate>Tue, 17 Sep 2024 23:18:04 GMT</lastBuildDate>
+		<pubDate>Wed, 18 Sep 2024 14:17:31 GMT</pubDate>
+		<lastBuildDate>Wed, 18 Sep 2024 14:17:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,27 +31,6 @@
 			<description>Commission SECY Paper</description>
 			<author>NRC/EDO</author>
 			<pubDate>2024-09-09 16:11:00</pubDate>
-		</item>
-		<item>
-			<title>Draft FRN Exemption FONSI and EA for Hermes 2 CP</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24158A234</link>
-			<description>Environmental Assessment, Federal Register Notice</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-09-04 09:21:00</pubDate>
-		</item>
-		<item>
-			<title>2024/08/28 NRR E-mail Capture - Regarding DG-5071 "Target Set Identification and Development for Nuclear Power Reactors" access</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24246A014</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-09-04 09:20:00</pubDate>
-		</item>
-		<item>
-			<title>Letter to Kairos, Inc., Exemption and Final EA</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24158A232</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-09-04 09:20:00</pubDate>
 		</item>
 	</channel>
 </rss>
