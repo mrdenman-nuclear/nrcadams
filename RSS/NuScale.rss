@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 18 Sep 2024 23:16:07 GMT</pubDate>
-		<lastBuildDate>Wed, 18 Sep 2024 23:16:07 GMT</lastBuildDate>
+		<pubDate>Thu, 19 Sep 2024 14:16:58 GMT</pubDate>
+		<lastBuildDate>Thu, 19 Sep 2024 14:16:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Research Information Letter 2024-10, "Regulatory Significance of Halden HTO Project Research Activities for 2021-2023"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24240A067</link>
+			<description>Research Information Letter (RIL)</description>
+			<author>NRC/NRR/DRO, NRC/RES/DRA/HFRB</author>
+			<pubDate>2024-09-19 09:11:00</pubDate>
+		</item>
+		<item>
+			<title>09-11-24 Enclosure - NRC's Organizational Management Associated with Advanced Reactor Licensing for First-of-A-Kind Nuclear Reactors Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24130A167</link>
+			<description>Report, Administrative</description>
+			<author>NRC/Chairman</author>
+			<pubDate>2024-09-19 09:09:00</pubDate>
+		</item>
 		<item>
 			<title>CNRA WGSUP Regulatory Update Mar 2024</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24261B897</link>
@@ -199,13 +213,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2024-09-09 11:55:00</pubDate>
-		</item>
-		<item>
-			<title>September 2024 NUPIC Meeting NRC Update Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24249A120</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DRO/IQVB</author>
-			<pubDate>2024-09-05 11:41:00</pubDate>
 		</item>
 	</channel>
 </rss>
