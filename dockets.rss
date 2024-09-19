@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 19 Sep 2024 17:14:48 GMT</pubDate>
-		<lastBuildDate>Thu, 19 Sep 2024 17:14:48 GMT</lastBuildDate>
+		<pubDate>Thu, 19 Sep 2024 18:19:46 GMT</pubDate>
+		<lastBuildDate>Thu, 19 Sep 2024 18:19:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Notice of Significant Licensing Action - Abilene Christian University (ACU) Construction Permit Issuance</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24229A195</link>
+			<description>- No Document Type Applies</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-09-19 14:16:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC Response to NRC Request for Additional Information No. 250 (eRAI No. 9191) on the NuScale Design Certification Application.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML17341B188</link>
+			<description>Letter, Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-09-19 14:16:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC Response to NRC Request for Additional Information No. 188 (eRAI No. 9022) on the NuScale Design Certification Application.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML17291A613</link>
+			<description>Letter, Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-09-19 14:16:00</pubDate>
+		</item>
 		<item>
 			<title>Cover Letter - Modeling and Simulation Activities Related to Source Term for IMSR Design Basis Accidents White Paper</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24226A383</link>
@@ -199,27 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2024-09-16 15:15:00</pubDate>
-		</item>
-		<item>
-			<title>09/27/2024 Meeting with Abilene Christian University (ACU) to Discuss the NRCs Feedback on ACU's Material Control & Accounting White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24260A241</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-09-16 14:59:00</pubDate>
-		</item>
-		<item>
-			<title>TRISO-X, LLC, Supplemental Information for Management Measures and Quality Assurance RAI Responses</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24249A317</link>
-			<description>Letter</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2024-09-16 08:51:00</pubDate>
-		</item>
-		<item>
-			<title>eVinci TRISO Fuel Qualification Methodology TR Acceptance Review form 898</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24256A099</link>
-			<description>Acceptance Review Letter, Topical Report</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-09-16 08:50:00</pubDate>
 		</item>
 	</channel>
 </rss>
