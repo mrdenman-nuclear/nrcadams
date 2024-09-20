@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 20 Sep 2024 19:13:43 GMT</pubDate>
-		<lastBuildDate>Fri, 20 Sep 2024 19:13:43 GMT</lastBuildDate>
+		<pubDate>Fri, 20 Sep 2024 21:15:06 GMT</pubDate>
+		<lastBuildDate>Fri, 20 Sep 2024 21:15:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Browns Ferry Full  Audit Plan</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24239A333</link>
+			<description>Audit Plan, Letter</description>
+			<author>NRC/NMSS/DREFS/EPMB1</author>
+			<pubDate>2024-09-20 16:21:00</pubDate>
+		</item>
 		<item>
 			<title>Palisades Environmental Request for Additional Information</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24263A171</link>
@@ -213,13 +220,6 @@
 			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-09-09 13:09:00</pubDate>
-		</item>
-		<item>
-			<title>Staff Presentation Slides IAEA Consultancy Meeting NRC Pre-application engagement, Sept 10, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24249A133</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-09-09 11:55:00</pubDate>
 		</item>
 	</channel>
 </rss>
