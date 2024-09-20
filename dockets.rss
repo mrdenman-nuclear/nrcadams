@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 19 Sep 2024 23:16:29 GMT</pubDate>
-		<lastBuildDate>Thu, 19 Sep 2024 23:16:29 GMT</lastBuildDate>
+		<pubDate>Fri, 20 Sep 2024 14:16:37 GMT</pubDate>
+		<lastBuildDate>Fri, 20 Sep 2024 14:16:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC, Submittal of Oath or Affirmation</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24256A145</link>
+			<description>Letter</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-09-20 08:59:00</pubDate>
+		</item>
 		<item>
 			<title>Notice of Significant Licensing Action - Abilene Christian University (ACU) Construction Permit Issuance</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24229A195</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-09-16 15:30:00</pubDate>
-		</item>
-		<item>
-			<title>Abilene Christian University, Transmittal Letter for Issuance of Construction Permit for the Molten Salt Research Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24243A041</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-09-16 15:15:00</pubDate>
 		</item>
 	</channel>
 </rss>

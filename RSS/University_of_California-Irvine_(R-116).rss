@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 19 Sep 2024 23:16:32 GMT</pubDate>
-		<lastBuildDate>Thu, 19 Sep 2024 23:16:32 GMT</lastBuildDate>
+		<pubDate>Fri, 20 Sep 2024 14:16:41 GMT</pubDate>
+		<lastBuildDate>Fri, 20 Sep 2024 14:16:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Annual Operating Report</description>
 			<author>Univ of California - Irvine</author>
 			<pubDate>2024-09-10 09:10:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Report Letter No. 50-326/OL-24-02, University of California-Irvine</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24113A005</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2024-09-06 08:55:00</pubDate>
 		</item>
 	</channel>
 </rss>
