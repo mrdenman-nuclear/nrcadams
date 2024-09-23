@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 20 Sep 2024 23:15:56 GMT</pubDate>
-		<lastBuildDate>Fri, 20 Sep 2024 23:15:56 GMT</lastBuildDate>
+		<pubDate>Mon, 23 Sep 2024 13:40:41 GMT</pubDate>
+		<lastBuildDate>Mon, 23 Sep 2024 13:40:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2024/09/10 - Comment (1158) E-mail regarding TerraPower CP EIS Scoping</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24255A767</link>
+			<description>General FR Notice Comment Letter</description>
+			<author>Public Commenter</author>
+			<pubDate>2024-09-23 09:25:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC, Submittal of Oath or Affirmation</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24256A145</link>
@@ -199,27 +206,6 @@
 			<description>Safety Evaluation</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-09-17 07:05:00</pubDate>
-		</item>
-		<item>
-			<title>10/01/2024 Preapplication Meeting with SMR, LLC (A Holtec International Company) regarding the Control Rod Drive System Testing for the SMR-300 design.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24260A262</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-09-16 16:04:00</pubDate>
-		</item>
-		<item>
-			<title>Abilene Christian University, Construction Permit for the Molten Salt Research Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24243A040</link>
-			<description>License-Construction Permit (CP)(New/Extension/Amendment) DKT 50</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-09-16 15:52:00</pubDate>
-		</item>
-		<item>
-			<title>09/17/2024 Meeting with NuScale Power, LLC on NuScale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24260A253</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-09-16 15:30:00</pubDate>
 		</item>
 	</channel>
 </rss>

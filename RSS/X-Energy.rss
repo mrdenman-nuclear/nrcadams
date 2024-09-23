@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 20 Sep 2024 23:16:03 GMT</pubDate>
-		<lastBuildDate>Fri, 20 Sep 2024 23:16:03 GMT</lastBuildDate>
+		<pubDate>Mon, 23 Sep 2024 13:40:52 GMT</pubDate>
+		<lastBuildDate>Mon, 23 Sep 2024 13:40:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,13 +73,6 @@
 			<description>Meeting Agenda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-09-10 11:49:00</pubDate>
-		</item>
-		<item>
-			<title>Staff Presentation Slides IAEA Consultancy Meeting NRC Pre-application engagement, Sept 10, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24249A133</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-09-09 11:55:00</pubDate>
 		</item>
 	</channel>
 </rss>

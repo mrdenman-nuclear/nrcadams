@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 20 Sep 2024 23:15:59 GMT</pubDate>
-		<lastBuildDate>Fri, 20 Sep 2024 23:15:59 GMT</lastBuildDate>
+		<pubDate>Mon, 23 Sep 2024 13:40:45 GMT</pubDate>
+		<lastBuildDate>Mon, 23 Sep 2024 13:40:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>North Carolina State University - U.S. Nuclear Regulatory Commission Safety Inspection Report No. 05000297/2024202 And Notice Of Violation</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24254A306</link>
+			<description>Inspection Report, Letter, Notice of Violation</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2024-09-23 09:25:00</pubDate>
+		</item>
+	</channel>
 </rss>

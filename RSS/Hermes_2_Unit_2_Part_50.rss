@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 20 Sep 2024 23:15:59 GMT</pubDate>
-		<lastBuildDate>Fri, 20 Sep 2024 23:15:59 GMT</lastBuildDate>
+		<pubDate>Mon, 23 Sep 2024 13:40:44 GMT</pubDate>
+		<lastBuildDate>Mon, 23 Sep 2024 13:40:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Report, Miscellaneous</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2024-09-12 08:58:00</pubDate>
-		</item>
-		<item>
-			<title>SECY-24-0075: Staff's Statement in Support of the Uncontested Hearing for Issuance of Construction Permits for the Kairos Hermes 2 Test Reactor Facility</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24152A258</link>
-			<description>Commission SECY Paper</description>
-			<author>NRC/EDO</author>
-			<pubDate>2024-09-09 16:11:00</pubDate>
 		</item>
 	</channel>
 </rss>
