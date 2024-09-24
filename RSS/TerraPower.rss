@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 23 Sep 2024 23:15:17 GMT</pubDate>
-		<lastBuildDate>Mon, 23 Sep 2024 23:15:17 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Sep 2024 14:15:19 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Sep 2024 14:15:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Session 2- Standards Development Organizations Activities</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24267A244</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>American Nuclear Society (ANS), NRC/RES/DE/RGDB</author>
+			<pubDate>2024-09-24 09:19:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure - Status Report on the Licensing Activities and Regulatory Duties of the U.S. Nuclear Regulatory Commission for the Reporting Period of April 1, 2024, through June 30, 2024</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A382</link>
@@ -52,20 +59,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS/DREFS/ETRB1</author>
 			<pubDate>2024-09-12 08:57:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - TerraPower Natrium Plume Exposure Meeting - SC - September 19, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24254A250</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-09-10 11:48:00</pubDate>
-		</item>
-		<item>
-			<title>2024/08/27 NRR E-mail Capture - [External_Sender]  RE: Proposed Revised Schedule TerraPower TR "[DBA] Methodology for In-Vessel without Radiological Release” (L-2023-TOP-0050)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24240A159</link>
-			<description>E-Mail</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2024-09-10 09:09:00</pubDate>
 		</item>
 	</channel>
 </rss>

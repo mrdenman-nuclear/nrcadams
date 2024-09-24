@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 23 Sep 2024 23:15:12 GMT</pubDate>
-		<lastBuildDate>Mon, 23 Sep 2024 23:15:12 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Sep 2024 14:15:13 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Sep 2024 14:15:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-09-16 15:30:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of "NuScale Power Module Short-Term Transient Analysis," TR-121517, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24243A009</link>
-			<description>Legal-Affidavit, Letter, Report, Technical</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-09-10 09:09:00</pubDate>
 		</item>
 	</channel>
 </rss>

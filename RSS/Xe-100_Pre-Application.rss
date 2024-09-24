@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 23 Sep 2024 23:15:12 GMT</pubDate>
-		<lastBuildDate>Mon, 23 Sep 2024 23:15:12 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Sep 2024 14:15:12 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Sep 2024 14:15:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-09-11 08:49:00</pubDate>
-		</item>
-		<item>
-			<title>Email_Proprietary Check - Draft Safety Evaluation for X-Energy's Atmospheric Dispersion and Dose Calculation Methodology Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24254A281</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-09-10 15:12:00</pubDate>
 		</item>
 	</channel>
 </rss>

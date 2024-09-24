@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 23 Sep 2024 23:15:13 GMT</pubDate>
-		<lastBuildDate>Mon, 23 Sep 2024 23:15:13 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Sep 2024 14:15:14 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Sep 2024 14:15:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,20 +66,6 @@
 			<description>Meeting Minutes, Memoranda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-09-11 12:03:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - 718th ACRS Full Committee Meeting - September 4-6, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24205A164</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-09-10 11:49:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - TerraPower Natrium Plume Exposure Meeting - SC - September 19, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24254A250</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-09-10 11:48:00</pubDate>
 		</item>
 	</channel>
 </rss>
