@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 25 Sep 2024 18:23:28 GMT</pubDate>
-		<lastBuildDate>Wed, 25 Sep 2024 18:23:28 GMT</lastBuildDate>
+		<pubDate>Wed, 25 Sep 2024 19:17:21 GMT</pubDate>
+		<lastBuildDate>Wed, 25 Sep 2024 19:17:21 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Order (Transmitting Hearing Questions)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24269A212</link>
+			<description>Legal-Order</description>
+			<author>NRC/SECY</author>
+			<pubDate>2024-09-25 15:16:00</pubDate>
+		</item>
+		<item>
+			<title>Order (Transmitting Hearing Questions)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24269A212</link>
+			<description>Legal-Order</description>
+			<author>NRC/SECY</author>
+			<pubDate>2024-09-25 15:16:00</pubDate>
+		</item>
 		<item>
 			<title>AP300 White Paper No.12 Codes and Standards Presentation Proprietary Review Letter.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24268A182</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24255A874</link>
 			<description>Letter</description>
 			<author>SMR, LLC</author>
-			<pubDate>2024-09-19 09:09:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Affadavit Pursuant to 10 CFR 2.390 to Withhold Information from Public Disclosure (NP)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24255A877</link>
-			<description>Legal-Affidavit</description>
-			<author>SMR, LLC</author>
-			<pubDate>2024-09-19 09:09:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: SMR, LLC Public Meeting Presentation Materials for September 23, 2024 (NP)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24255A875</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2024-09-19 09:09:00</pubDate>
 		</item>
 	</channel>
