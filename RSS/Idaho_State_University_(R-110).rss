@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 24 Sep 2024 23:15:42 GMT</pubDate>
-		<lastBuildDate>Tue, 24 Sep 2024 23:15:42 GMT</lastBuildDate>
+		<pubDate>Wed, 25 Sep 2024 15:18:15 GMT</pubDate>
+		<lastBuildDate>Wed, 25 Sep 2024 15:18:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Inspection Report, Letter</description>
 			<author>NRC/NRR/DANU/UNPO</author>
 			<pubDate>2024-09-19 09:11:00</pubDate>
-		</item>
-		<item>
-			<title>Idaho State Univ., Pocatello - Submittal of "Safeguards Information" Physical Security Plan and Emergency Plan</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24242A227</link>
-			<description>Letter</description>
-			<author>Idaho State Univ, Pocatello</author>
-			<pubDate>2024-09-11 15:43:00</pubDate>
 		</item>
 	</channel>
 </rss>

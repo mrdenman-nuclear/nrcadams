@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 24 Sep 2024 23:15:46 GMT</pubDate>
-		<lastBuildDate>Tue, 24 Sep 2024 23:15:46 GMT</lastBuildDate>
+		<pubDate>Wed, 25 Sep 2024 15:18:20 GMT</pubDate>
+		<lastBuildDate>Wed, 25 Sep 2024 15:18:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TLR-RES/DE/REB-2024-15 Storage and Transportation of Molten Salt Reactor Wastes Identification of Technical Info Needs and Safety Implications</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24256A003</link>
+			<description>Report, Technical</description>
+			<author>NRC/RES/DE</author>
+			<pubDate>2024-09-25 09:09:00</pubDate>
+		</item>
 		<item>
 			<title>Browns Ferry Full  Audit Plan</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24239A333</link>
@@ -150,20 +157,6 @@
 			<description>Regulatory Analysis, Regulatory Guide, Draft</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2024-09-12 08:57:00</pubDate>
-		</item>
-		<item>
-			<title>Energy and System Design Mitigation Alternatives White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML21225A754</link>
-			<description>Report, Technical, Technical Paper</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-09-11 15:43:00</pubDate>
-		</item>
-		<item>
-			<title>Vogtle, Unit 1, Current Facility Operating License NPF-68, Tech Specs, Revised 09/11/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052840233</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-09-11 08:40:00</pubDate>
 		</item>
 	</channel>
 </rss>

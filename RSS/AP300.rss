@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 24 Sep 2024 23:15:42 GMT</pubDate>
-		<lastBuildDate>Tue, 24 Sep 2024 23:15:42 GMT</lastBuildDate>
+		<pubDate>Wed, 25 Sep 2024 15:18:14 GMT</pubDate>
+		<lastBuildDate>Wed, 25 Sep 2024 15:18:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -16,7 +16,7 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24268A182</link>
 			<description>Letter, Proprietary Information Review</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-09-24 12:49:00</pubDate>
+			<pubDate>2024-09-25 11:14:00</pubDate>
 		</item>
 		<item>
 			<title>Letter with NRC Feedback Regarding Westinghouse AP300 SMR Safety Classification and Seismic Categorization Approach White Paper</title>
@@ -24,27 +24,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-09-19 09:10:00</pubDate>
-		</item>
-		<item>
-			<title>10/17/2024 Closed Pre-application Meeting with Westinghouse on AP300 White Paper "Safety Analysis Codes & Methods"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24255A855</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-09-11 14:59:00</pubDate>
-		</item>
-		<item>
-			<title>10/08/2024 Pre-application Westinghouse AP300 White Paper "EPZ Definition</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24255A851</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-09-11 14:51:00</pubDate>
-		</item>
-		<item>
-			<title>10/17/2024 Pre-application Meeting with Westinghouse on AP300 White Paper "Safety Analysis Codes & Methods"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24255A847</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-09-11 14:50:00</pubDate>
 		</item>
 	</channel>
 </rss>
