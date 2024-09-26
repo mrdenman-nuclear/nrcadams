@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 25 Sep 2024 23:16:46 GMT</pubDate>
-		<lastBuildDate>Wed, 25 Sep 2024 23:16:46 GMT</lastBuildDate>
+		<pubDate>Thu, 26 Sep 2024 14:17:55 GMT</pubDate>
+		<lastBuildDate>Thu, 26 Sep 2024 14:17:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>ACRS Memo ASER NuScale MBDBE Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24262A081</link>
+			<description>Memoranda</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2024-09-26 09:33:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 2 - 8-14-24 Public Meeting Attendees for the RAAM Public Meeting.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24241A149</link>
@@ -150,13 +157,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NRC/NRR/DEX/EICB</author>
 			<pubDate>2024-09-13 09:36:00</pubDate>
-		</item>
-		<item>
-			<title>Nuscale Drop-In with OGC September 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24256A117</link>
-			<description>Meeting Notice, Meeting Summary</description>
-			<author>NRC/OGC</author>
-			<pubDate>2024-09-12 12:57:00</pubDate>
 		</item>
 	</channel>
 </rss>

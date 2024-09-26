@@ -5,25 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 25 Sep 2024 23:16:46 GMT</pubDate>
-		<lastBuildDate>Wed, 25 Sep 2024 23:16:46 GMT</lastBuildDate>
+		<pubDate>Thu, 26 Sep 2024 14:17:55 GMT</pubDate>
+		<lastBuildDate>Thu, 26 Sep 2024 14:17:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2023-2024 Annual Report for the University of Wisconsin Nuclear Reactor Laboratory</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24262A221</link>
+			<description>Annual Operating Report, Letter</description>
+			<author>Univ of Wisconsin</author>
+			<pubDate>2024-09-26 09:31:00</pubDate>
+		</item>
 		<item>
 			<title>Annual Performance Plan and Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24204A030</link>
 			<description>Annual Operating Report</description>
 			<author>NRC/OGC</author>
 			<pubDate>2024-09-17 10:33:00</pubDate>
-		</item>
-		<item>
-			<title>09-09-2024 Wisconsin IMPEP Questionnaire</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24255A863</link>
-			<description>Integrated Material Performance Evaluation Program (IMPEP)-Agreement States</description>
-			<author>State of WI, Dept of Health Services</author>
-			<pubDate>2024-09-12 10:52:00</pubDate>
 		</item>
 	</channel>
 </rss>
