@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 26 Sep 2024 23:17:03 GMT</pubDate>
-		<lastBuildDate>Thu, 26 Sep 2024 23:17:03 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Sep 2024 14:16:55 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Sep 2024 14:16:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Research Information Letter (RIL) 2024-12, Part II on 2023 NRC AMT Workshop</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24254A268</link>
+			<description>Meeting Briefing Package/Handouts, Research Information Letter (RIL), Slides and Viewgraphs</description>
+			<author>NRC/RES/DE</author>
+			<pubDate>2024-09-27 08:52:00</pubDate>
+		</item>
 		<item>
 			<title>Supplement to License Amendment Request to Adopt Common Emergency Plan with Site-Specific Annexes</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24260A246</link>
@@ -136,27 +143,6 @@
 			<description>Meeting Transcript</description>
 			<author>NRC/NMSS/DREFS/EPMB1</author>
 			<pubDate>2024-09-16 08:48:00</pubDate>
-		</item>
-		<item>
-			<title>Donald C. Cook, Unit 2, Current Facility Operating License No. DPR-74, Tech Specs, Revised 09/13/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053050307</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-09-13 12:12:00</pubDate>
-		</item>
-		<item>
-			<title>Donald C. Cook, Unit 1, Current Facility Operating License No. DPR-58, Tech Specs, Revised 09/13/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053050305</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-09-13 12:09:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Slides DIC - 2024 NEI NEA - September 12 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24256A201</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DEX/EICB</author>
-			<pubDate>2024-09-13 09:36:00</pubDate>
 		</item>
 	</channel>
 </rss>

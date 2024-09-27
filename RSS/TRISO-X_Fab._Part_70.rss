@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 26 Sep 2024 23:16:58 GMT</pubDate>
-		<lastBuildDate>Thu, 26 Sep 2024 23:16:58 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Sep 2024 14:16:49 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Sep 2024 14:16:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Response to Request for Additional Information (RAI)</description>
 			<author>Triso-X, LLC</author>
 			<pubDate>2024-09-16 08:48:00</pubDate>
-		</item>
-		<item>
-			<title>Memo - Summary of Meeting on July 17, 2024, with TRISO-X to Align on the Supplemental Responses to the Management Measures and Quality Assurance Requests for Additional Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24228A128</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2024-09-13 09:36:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - Participant List for Summary of Meeting Held July 17, 2024, with TRISO-X, LLC, to Align on the Supplement Responses to Management Measures and Quality Assurance Requests for Additional Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24228A126</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2024-09-13 09:36:00</pubDate>
 		</item>
 	</channel>
 </rss>

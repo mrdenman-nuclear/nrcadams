@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 26 Sep 2024 23:16:59 GMT</pubDate>
-		<lastBuildDate>Thu, 26 Sep 2024 23:16:59 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Sep 2024 14:16:51 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Sep 2024 14:16:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,13 +52,6 @@
 			<description>Memoranda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-09-16 08:51:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - Thermal-Hydraulic Accident Selection in Support of Emergency Planning and Siting Analyses - SC - October 1, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24257A128</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-09-13 15:20:00</pubDate>
 		</item>
 	</channel>
 </rss>
