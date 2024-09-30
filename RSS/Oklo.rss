@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 27 Sep 2024 23:17:00 GMT</pubDate>
-		<lastBuildDate>Fri, 27 Sep 2024 23:17:00 GMT</lastBuildDate>
+		<pubDate>Mon, 30 Sep 2024 14:17:20 GMT</pubDate>
+		<lastBuildDate>Mon, 30 Sep 2024 14:17:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Meeting Briefing Package/Handouts, Research Information Letter (RIL), Slides and Viewgraphs</description>
 			<author>NRC/RES/DE</author>
 			<pubDate>2024-09-27 08:52:00</pubDate>
-		</item>
-		<item>
-			<title>Backgrounder:  New Nuclear Plant Designs</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML040220421</link>
-			<description>FACT Sheet</description>
-			<author>NRC/OPA</author>
-			<pubDate>2024-09-16 14:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
