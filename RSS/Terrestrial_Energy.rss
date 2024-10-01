@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 30 Sep 2024 23:16:55 GMT</pubDate>
-		<lastBuildDate>Mon, 30 Sep 2024 23:16:55 GMT</lastBuildDate>
+		<pubDate>Tue, 01 Oct 2024 14:16:46 GMT</pubDate>
+		<lastBuildDate>Tue, 01 Oct 2024 14:16:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TLR-RES/DE/REB-2024-17, Assessment of Technical Information Needs and Considerations for Front-End Activities for Molten Salt Fuel Types</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24267A025</link>
+			<description>Report, Technical</description>
+			<author>NRC/RES/DE, Pacific Northwest National Lab</author>
+			<pubDate>2024-10-01 08:25:00</pubDate>
+		</item>
 		<item>
 			<title>Comment (008) from Martin J. O'Neill on behalf of the Nuclear Energy Institute on PR-51 - Categorical Exclusions From Environmental Review</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24264A112</link>
@@ -122,20 +129,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2024-09-18 09:12:00</pubDate>
-		</item>
-		<item>
-			<title>South Texas Project, Units 1 and 2, Updated Final Safety Analysis Report, Revision 22, Chapter 11, Radioactive  Waste Management</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24130A066</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>South Texas Project Nuclear Operating Co</author>
-			<pubDate>2024-09-17 16:32:00</pubDate>
-		</item>
-		<item>
-			<title>Record of Decision - Docket Nos. 50-250 and 50-521 Subsequent License Date Restoration for Turkey Point Nuclear Generating, Units 3 and 4</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24158A370</link>
-			<description>Report, Miscellaneous</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2024-09-17 10:33:00</pubDate>
 		</item>
 	</channel>
 </rss>

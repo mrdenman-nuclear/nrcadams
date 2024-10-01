@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 30 Sep 2024 23:16:55 GMT</pubDate>
-		<lastBuildDate>Mon, 30 Sep 2024 23:16:55 GMT</lastBuildDate>
+		<pubDate>Tue, 01 Oct 2024 14:16:46 GMT</pubDate>
+		<lastBuildDate>Tue, 01 Oct 2024 14:16:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,13 +66,6 @@
 			<description>Congressional Correspondence, Status Report</description>
 			<author>NRC/Chairman</author>
 			<pubDate>2024-09-20 08:58:00</pubDate>
-		</item>
-		<item>
-			<title>September 2024 NUPIC Meeting NRC Update Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24261B894</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DRO/IQVB</author>
-			<pubDate>2024-09-17 16:32:00</pubDate>
 		</item>
 	</channel>
 </rss>

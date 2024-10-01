@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 30 Sep 2024 23:16:47 GMT</pubDate>
-		<lastBuildDate>Mon, 30 Sep 2024 23:16:47 GMT</lastBuildDate>
+		<pubDate>Tue, 01 Oct 2024 14:16:38 GMT</pubDate>
+		<lastBuildDate>Tue, 01 Oct 2024 14:16:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>eVinci ALS v2 Methodology FINAL Safety Evaluation Cover Letter</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24236A077</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-10-01 08:26:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1-(REDACTED) ALS v2 Methodology TR FINAL SE</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24236A142</link>
+			<description>Safety Evaluation</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-10-01 08:26:00</pubDate>
+		</item>
+		<item>
+			<title>2024/09/24 Oklo SNF Reprocessing Docs - Request for Withholding Determination Information from Public Disclosure for the Licensing Approach White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24268A215</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2024-10-01 08:25:00</pubDate>
+		</item>
 		<item>
 			<title>NRC Form 897 - Topical Report Withholding Determination - TerraPower, LLC, NAT-9393, "Stability Methodology Topical Report," Revision 0</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24235A508</link>
@@ -199,27 +220,6 @@
 			<description>Legal-Affidavit</description>
 			<author>SMR, LLC</author>
 			<pubDate>2024-09-25 09:09:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: SMR, LLC Open Meeting Presentation Materials for October 1, 2024 (NP)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24261C019</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2024-09-25 09:09:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Determination Oklo Licensing Approach White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24261B956</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-09-25 09:09:00</pubDate>
-		</item>
-		<item>
-			<title>09/27/2024 Meeting with Abilene Christian University (ACU) to Discuss the NRCs Feedback on ACU's Material Control & Accounting White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24268A106</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-09-24 09:54:00</pubDate>
 		</item>
 	</channel>
 </rss>
