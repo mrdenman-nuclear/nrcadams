@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 01 Oct 2024 23:16:08 GMT</pubDate>
-		<lastBuildDate>Tue, 01 Oct 2024 23:16:08 GMT</lastBuildDate>
+		<pubDate>Wed, 02 Oct 2024 14:16:28 GMT</pubDate>
+		<lastBuildDate>Wed, 02 Oct 2024 14:16:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -122,20 +122,6 @@
 			<description>Updated Final Safety Analysis Report (UFSAR)</description>
 			<author>South Texas Project Nuclear Operating Co</author>
 			<pubDate>2024-09-19 12:39:00</pubDate>
-		</item>
-		<item>
-			<title>Wolf Creek, Unit 1, Current Facility Operating License NPF-42, Technical Specifications, Revised 09/18/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052720315</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-09-18 14:35:00</pubDate>
-		</item>
-		<item>
-			<title>2024/06/27 Palisades Restart LA Docs - Draft letter in support of Draft RAIs and Draft Environmental Regulatory Audit Plan</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24248A056</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2024-09-18 09:12:00</pubDate>
 		</item>
 	</channel>
 </rss>

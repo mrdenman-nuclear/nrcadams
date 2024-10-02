@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 01 Oct 2024 23:16:03 GMT</pubDate>
-		<lastBuildDate>Tue, 01 Oct 2024 23:16:03 GMT</lastBuildDate>
+		<pubDate>Wed, 02 Oct 2024 14:16:24 GMT</pubDate>
+		<lastBuildDate>Wed, 02 Oct 2024 14:16:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>Federal Register Notice</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-09-26 09:31:00</pubDate>
-		</item>
-		<item>
-			<title>Master Slide Deck - Advanced Reactor Stakeholder Meeting - 2024-09-18.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24261B974</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR, NRC/ACRS</author>
-			<pubDate>2024-09-18 12:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
