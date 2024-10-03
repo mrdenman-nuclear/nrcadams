@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 02 Oct 2024 23:17:37 GMT</pubDate>
-		<lastBuildDate>Wed, 02 Oct 2024 23:17:37 GMT</lastBuildDate>
+		<pubDate>Thu, 03 Oct 2024 14:17:18 GMT</pubDate>
+		<lastBuildDate>Thu, 03 Oct 2024 14:17:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -136,13 +136,6 @@
 			<description>Congressional Correspondence, Status Report</description>
 			<author>NRC/Chairman</author>
 			<pubDate>2024-09-20 08:58:00</pubDate>
-		</item>
-		<item>
-			<title>South Texas Project, Units and 2 - Updated Safety Analysis Report, Revision 22, Response to NRC Questions</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24130A076</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>South Texas Project Nuclear Operating Co</author>
-			<pubDate>2024-09-19 12:39:00</pubDate>
 		</item>
 	</channel>
 </rss>
