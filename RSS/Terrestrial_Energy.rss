@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 03 Oct 2024 23:16:11 GMT</pubDate>
-		<lastBuildDate>Thu, 03 Oct 2024 23:16:11 GMT</lastBuildDate>
+		<pubDate>Fri, 04 Oct 2024 20:17:04 GMT</pubDate>
+		<lastBuildDate>Fri, 04 Oct 2024 20:17:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>License Amendment Request - Historic and Cultural Resources Review Vallecitos Boiling Water Reactor and General Electric Test Reactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24270A224</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>NorthStar Vallecitos, LLC</author>
+			<pubDate>2024-10-04 08:55:00</pubDate>
+		</item>
+		<item>
+			<title>Environmental Scoping Summary Report for Diablo Canyon License Renewal</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24240A023</link>
+			<description>Environmental Report</description>
+			<author>NRC/NMSS/DREFS/EPMB1</author>
+			<pubDate>2024-10-04 08:53:00</pubDate>
+		</item>
 		<item>
 			<title>California Department of Health response to request for review of the GEH Vallecitos VBWR LTP draft environmental assessment</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24260A220</link>
@@ -101,41 +115,6 @@
 			<description>Report, Technical</description>
 			<author>NRC/RES/DE</author>
 			<pubDate>2024-09-25 09:09:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry Full  Audit Plan</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24239A333</link>
-			<description>Audit Plan, Letter</description>
-			<author>NRC/NMSS/DREFS/EPMB1</author>
-			<pubDate>2024-09-20 16:21:00</pubDate>
-		</item>
-		<item>
-			<title>Palisades Environmental Request for Additional Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24263A171</link>
-			<description>Letter, Request for Additional Information (RAI)</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2024-09-20 11:35:00</pubDate>
-		</item>
-		<item>
-			<title>Preliminary Data Needs and Agenda to Support the Supplemental Environmental Audit for Point Beach, Units 1 and 2 - File Copy</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24256A140</link>
-			<description>E-Mail</description>
-			<author>NRC/NMSS/DREFS/EPMB1</author>
-			<pubDate>2024-09-20 08:59:00</pubDate>
-		</item>
-		<item>
-			<title>Diablo Canyon Units 1 and 2, Diablo Canyon Power Plant License Renewal - Historic and Cultural Resources Reference Documents (Redacted)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24256A194</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>Pacific Gas and Electric Co</author>
-			<pubDate>2024-09-20 08:59:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - Status Report on the Licensing Activities and Regulatory Duties of the U.S. Nuclear Regulatory Commission for the Reporting Period of April 1, 2024, through June 30, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A382</link>
-			<description>Congressional Correspondence, Status Report</description>
-			<author>NRC/Chairman</author>
-			<pubDate>2024-09-20 08:58:00</pubDate>
 		</item>
 	</channel>
 </rss>
