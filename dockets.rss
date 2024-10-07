@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 07 Oct 2024 15:17:36 GMT</pubDate>
-		<lastBuildDate>Mon, 07 Oct 2024 15:17:36 GMT</lastBuildDate>
+		<pubDate>Mon, 07 Oct 2024 16:19:59 GMT</pubDate>
+		<lastBuildDate>Mon, 07 Oct 2024 16:19:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>August 20, 2024 Summary Of Public Meeting ACU Molten Salt Research Reactor Material Control & Accounting White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24267A253</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-10-07 12:02:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC Submittal of Presentation Material Entitled "ACRS Subcommittee Meeting )Open Session) Mitigation of Beyond Design Basis Events Topical Report," PM-174186, Revision 0</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24271A181</link>
@@ -213,13 +220,6 @@
 			<description>Press Release</description>
 			<author>NRC/OPA</author>
 			<pubDate>2024-10-02 16:24:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Submittal of Supplemental Information in Support of NRC Review of "NuScale US460 Fuel Storage Rack Design Topical Report," TR-145417, Revision 0, NRC Audit Item A-FSR.LTR-15</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24268A189</link>
-			<description>Letter</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-10-02 09:09:00</pubDate>
 		</item>
 	</channel>
 </rss>
