@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 07 Oct 2024 23:15:34 GMT</pubDate>
-		<lastBuildDate>Mon, 07 Oct 2024 23:15:34 GMT</lastBuildDate>
+		<pubDate>Tue, 08 Oct 2024 14:18:06 GMT</pubDate>
+		<lastBuildDate>Tue, 08 Oct 2024 14:18:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Abilene Christian University, FRN for Issuance of Construction Permit for the Molten Salt Research Reactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24243A043</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2024-10-08 09:10:00</pubDate>
+		</item>
 		<item>
 			<title>August 20, 2024 Summary Of Public Meeting ACU Molten Salt Research Reactor Material Control & Accounting White Paper</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24267A253</link>
@@ -31,13 +38,6 @@
 			<description>Press Release</description>
 			<author>NRC/OPA</author>
 			<pubDate>2024-10-02 16:24:00</pubDate>
-		</item>
-		<item>
-			<title>09/27/2024 Meeting with Abilene Christian University (ACU) to Discuss the NRCs Feedback on ACU's Material Control & Accounting White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24268A106</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-09-24 09:54:00</pubDate>
 		</item>
 	</channel>
 </rss>
