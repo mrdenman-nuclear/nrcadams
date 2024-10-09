@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 08 Oct 2024 23:17:26 GMT</pubDate>
-		<lastBuildDate>Tue, 08 Oct 2024 23:17:26 GMT</lastBuildDate>
+		<pubDate>Wed, 09 Oct 2024 14:16:33 GMT</pubDate>
+		<lastBuildDate>Wed, 09 Oct 2024 14:16:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-09-26 16:55:00</pubDate>
-		</item>
-		<item>
-			<title>Modification No. 008 to Task Order No. 31310020F0109 Under Contract No. 31310020D0010</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24264A070</link>
-			<description>ACQ-Contract Task Order Modification</description>
-			<author>NRC/ADM/AMD</author>
-			<pubDate>2024-09-25 09:10:00</pubDate>
 		</item>
 	</channel>
 </rss>

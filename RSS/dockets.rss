@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 08 Oct 2024 23:17:22 GMT</pubDate>
-		<lastBuildDate>Tue, 08 Oct 2024 23:17:22 GMT</lastBuildDate>
+		<pubDate>Wed, 09 Oct 2024 14:16:29 GMT</pubDate>
+		<lastBuildDate>Wed, 09 Oct 2024 14:16:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>10/31/2024 Pre-application Meeting with Westinghouse on AP300 SMR White Paper "Probabilistic Risk Assessment (PRA)"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24283A049</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-10-09 09:37:00</pubDate>
+		</item>
+		<item>
+			<title>10/31/2024 Pre-application PROPRIETARY Meeting with Westinghouse on AP300 SMR White Paper "Probabilistic Risk Assessment (PRA)"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24283A050</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-10-09 09:36:00</pubDate>
+		</item>
 		<item>
 			<title>Abilene Christian University, FRN for Issuance of Construction Permit for the Molten Salt Research Reactor</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24243A043</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24270A019</link>
 			<description>Audit Plan</description>
 			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-10-04 08:53:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of SMR, LLC, Regulatory Engagement Plan, HI-2240423 Revision 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24270A176</link>
-			<description>Letter</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2024-10-04 08:53:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Regulatory Engagement Plan, HI-2240423 Revision 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24270A177</link>
-			<description>Report, Technical</description>
-			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2024-10-04 08:53:00</pubDate>
 		</item>
 	</channel>
