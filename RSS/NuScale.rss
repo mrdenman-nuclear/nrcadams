@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 09 Oct 2024 23:18:15 GMT</pubDate>
-		<lastBuildDate>Wed, 09 Oct 2024 23:18:15 GMT</lastBuildDate>
+		<pubDate>Thu, 10 Oct 2024 14:16:52 GMT</pubDate>
+		<lastBuildDate>Thu, 10 Oct 2024 14:16:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,13 +66,6 @@
 			<description>Meeting Briefing Package/Handouts, Research Information Letter (RIL), Slides and Viewgraphs</description>
 			<author>NRC/RES/DE</author>
 			<pubDate>2024-09-27 08:52:00</pubDate>
-		</item>
-		<item>
-			<title>ACRS Memo ASER NuScale MBDBE Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24262A081</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2024-09-26 09:33:00</pubDate>
 		</item>
 	</channel>
 </rss>
