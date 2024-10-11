@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 11 Oct 2024 16:20:28 GMT</pubDate>
-		<lastBuildDate>Fri, 11 Oct 2024 16:20:28 GMT</lastBuildDate>
+		<pubDate>Fri, 11 Oct 2024 17:15:14 GMT</pubDate>
+		<lastBuildDate>Fri, 11 Oct 2024 17:15:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>SECY-24-0084: Weekly Information Report Week Ending October 4, 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24284A270</link>
+			<description>Commission SECY Paper, Weekly Information Report</description>
+			<author>NRC/EDO/AO</author>
+			<pubDate>2024-10-11 12:35:00</pubDate>
+		</item>
+	</channel>
 </rss>
