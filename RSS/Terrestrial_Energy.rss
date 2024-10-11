@@ -5,15 +5,15 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 10 Oct 2024 23:17:10 GMT</pubDate>
-		<lastBuildDate>Thu, 10 Oct 2024 23:17:10 GMT</lastBuildDate>
+		<pubDate>Fri, 11 Oct 2024 14:17:06 GMT</pubDate>
+		<lastBuildDate>Fri, 11 Oct 2024 14:17:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>NRC-002D - Kairos Power, LLC, Construction Permit Application - Environmental Report, Rev. 0 (July 14, 2023)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24284A175</link>
+			<title>NRC-003B - Kairos Power LLC, Hermes 2 Test Reactor Facility, Unit 2, Draft Construction Permit, (September 6, 2024)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24284A189</link>
 			<description>Legal-Pre-Filed Exhibits</description>
 			<author>NRC/OGC</author>
 			<pubDate>2024-10-10 16:18:00</pubDate>
@@ -26,8 +26,8 @@
 			<pubDate>2024-10-10 16:18:00</pubDate>
 		</item>
 		<item>
-			<title>NRC-003B - Kairos Power LLC, Hermes 2 Test Reactor Facility, Unit 1, Draft Construction Permit, (September 6, 2024)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24284A189</link>
+			<title>NRC-002D - Kairos Power LLC, Construction Permit Application - Environmental Report, Rev. 0 (July 14, 2023)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24284A175</link>
 			<description>Legal-Pre-Filed Exhibits</description>
 			<author>NRC/OGC</author>
 			<pubDate>2024-10-10 16:18:00</pubDate>
@@ -40,7 +40,7 @@
 			<pubDate>2024-10-10 12:40:00</pubDate>
 		</item>
 		<item>
-			<title>NRC-005 - Environmental assessment and finding of no significant impact</title>
+			<title>NRC-005 - Environmental Assessment and Finding of No Significant Impact for the Construction Permits and Environmental Review Exemptions for the Kairos Hermes 2 Test Reactors, Final Report (August 2024)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24284A191</link>
 			<description>Legal-Pre-Filed Exhibits</description>
 			<author>NRC/OGC</author>
@@ -164,20 +164,6 @@
 			<description>Rulemaking-Comment</description>
 			<author>Nuclear Energy Institute (NEI)</author>
 			<pubDate>2024-09-30 09:12:00</pubDate>
-		</item>
-		<item>
-			<title>(Redacted) NUREG-1437 DFC, "Site-Specific Environmental Impact Statement for License Renewal of Nuclear Plants, Supplement 2, Second Renewal, Regarding Subsequent License Renewal for Oconee Nuclear Station Units 1, 2, and 3"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24033A298</link>
-			<description>NUREG</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-09-27 15:22:00</pubDate>
-		</item>
-		<item>
-			<title>Research Information Letter (RIL) 2024-12, Part II on 2023 NRC AMT Workshop</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24254A268</link>
-			<description>Meeting Briefing Package/Handouts, Research Information Letter (RIL), Slides and Viewgraphs</description>
-			<author>NRC/RES/DE</author>
-			<pubDate>2024-09-27 08:52:00</pubDate>
 		</item>
 	</channel>
 </rss>

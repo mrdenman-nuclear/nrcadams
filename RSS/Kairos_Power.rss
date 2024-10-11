@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 10 Oct 2024 23:17:10 GMT</pubDate>
-		<lastBuildDate>Thu, 10 Oct 2024 23:17:10 GMT</lastBuildDate>
+		<pubDate>Fri, 11 Oct 2024 14:17:06 GMT</pubDate>
+		<lastBuildDate>Fri, 11 Oct 2024 14:17:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,27 +52,6 @@
 			<description>Report, Technical</description>
 			<author>NRC/RES/DE, Pacific Northwest National Lab</author>
 			<pubDate>2024-10-01 08:25:00</pubDate>
-		</item>
-		<item>
-			<title>Research Information Letter (RIL) 2024-12, Part I on 2023 NRC AMT Workshop</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24254A269</link>
-			<description>Research Information Letter (RIL)</description>
-			<author>NRC/RES/DE</author>
-			<pubDate>2024-09-27 08:52:00</pubDate>
-		</item>
-		<item>
-			<title>Response To Safety Evaluation Of The Kairos Non-Power Reactor Hermes 2 Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24207A083</link>
-			<description>Letter</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-09-27 08:52:00</pubDate>
-		</item>
-		<item>
-			<title>Research Information Letter (RIL) 2024-12, Part II on 2023 NRC AMT Workshop</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24254A268</link>
-			<description>Meeting Briefing Package/Handouts, Research Information Letter (RIL), Slides and Viewgraphs</description>
-			<author>NRC/RES/DE</author>
-			<pubDate>2024-09-27 08:52:00</pubDate>
 		</item>
 	</channel>
 </rss>
