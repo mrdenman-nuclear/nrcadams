@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 14 Oct 2024 23:15:34 GMT</pubDate>
-		<lastBuildDate>Mon, 14 Oct 2024 23:15:34 GMT</lastBuildDate>
+		<pubDate>Tue, 15 Oct 2024 14:17:44 GMT</pubDate>
+		<lastBuildDate>Tue, 15 Oct 2024 14:17:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-10-04 08:54:00</pubDate>
-		</item>
-		<item>
-			<title>2024/09/24 Oklo SNF Reprocessing Docs - Request for Withholding Determination Information from Public Disclosure for the Licensing Approach White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24268A215</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2024-10-01 08:25:00</pubDate>
 		</item>
 	</channel>
 </rss>

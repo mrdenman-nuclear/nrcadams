@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 14 Oct 2024 23:15:39 GMT</pubDate>
-		<lastBuildDate>Mon, 14 Oct 2024 23:15:39 GMT</lastBuildDate>
+		<pubDate>Tue, 15 Oct 2024 14:17:49 GMT</pubDate>
+		<lastBuildDate>Tue, 15 Oct 2024 14:17:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TerraPower Natrium Reactor Project, Cultural Resources Testing Plan And Research Design For Site 48ln740 Road Investigation</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24281A046</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DREFS/ETRB1</author>
+			<pubDate>2024-10-15 09:27:00</pubDate>
+		</item>
 		<item>
 			<title>October 24-26, 2023, Summary Of the NRC Workshop On Advanced Manufacturing Technologies For Nuclear Applications</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23341A120</link>
@@ -31,13 +38,6 @@
 			<description>Meeting Agenda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-10-08 14:40:00</pubDate>
-		</item>
-		<item>
-			<title>TLR-RES/DE/REB-2024-17, Assessment of Technical Information Needs and Considerations for Front-End Activities for Molten Salt Fuel Types</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24267A025</link>
-			<description>Report, Technical</description>
-			<author>NRC/RES/DE, Pacific Northwest National Lab</author>
-			<pubDate>2024-10-01 08:25:00</pubDate>
 		</item>
 	</channel>
 </rss>
