@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 15 Oct 2024 23:17:19 GMT</pubDate>
-		<lastBuildDate>Tue, 15 Oct 2024 23:17:19 GMT</lastBuildDate>
+		<pubDate>Wed, 16 Oct 2024 14:16:44 GMT</pubDate>
+		<lastBuildDate>Wed, 16 Oct 2024 14:16:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Report, Technical</description>
 			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2024-10-04 08:53:00</pubDate>
-		</item>
-		<item>
-			<title>Response Letter Request for Withholding Info 2.390 SMR LLC Holtec -  August 13, 2024 - Cyber Security.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24261C035</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-10-02 09:09:00</pubDate>
 		</item>
 	</channel>
 </rss>

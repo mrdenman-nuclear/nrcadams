@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 15 Oct 2024 23:17:24 GMT</pubDate>
-		<lastBuildDate>Tue, 15 Oct 2024 23:17:24 GMT</lastBuildDate>
+		<pubDate>Wed, 16 Oct 2024 14:16:51 GMT</pubDate>
+		<lastBuildDate>Wed, 16 Oct 2024 14:16:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>(Redacted) Meeting Transcript for February 27, 2024 - Oconee Nuclear Station, Units 1, 2, and 3, February 2024 Subsequent License Renewal Public Draft Environmental Impact</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24071A168</link>
+			<description>Meeting Transcript</description>
+			<author>NRC/NMSS/DREFS/ELRB</author>
+			<pubDate>2024-10-16 06:42:00</pubDate>
+		</item>
 		<item>
 			<title>Dresden Nuclear Power Station, Units 2 And 3 - Notice Of Intent To Prepare An Environmental Impact Statement And Conduct Scoping Process (EPID L-2024-Sle-0002) (Docket Numbers: 50-237, And 50-249)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24157A079</link>
@@ -150,27 +157,6 @@
 			<description>Environmental Report</description>
 			<author>NRC/NMSS/DREFS/EPMB1</author>
 			<pubDate>2024-10-04 08:53:00</pubDate>
-		</item>
-		<item>
-			<title>California Department of Health response to request for review of the GEH Vallecitos VBWR LTP draft environmental assessment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24260A220</link>
-			<description>Letter</description>
-			<author>State of CA, Dept of Public Health</author>
-			<pubDate>2024-10-02 14:51:00</pubDate>
-		</item>
-		<item>
-			<title>Crow Butte Resources, Inc., Application for 2024 License Renewal, Chapter 1 Through Section 2.6</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24268A167</link>
-			<description>License-Application for (Amend/Renewal/New) for DKT 30, 40, 70</description>
-			<author>Crow Butte Resources, Inc</author>
-			<pubDate>2024-10-02 11:56:00</pubDate>
-		</item>
-		<item>
-			<title>Crow Butte Resources, Inc., Application for 2024 License Renewal, Section 2.7 Through Chapter 10</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24268A169</link>
-			<description>License-Application for (Amend/Renewal/New) for DKT 30, 40, 70</description>
-			<author>Crow Butte Resources, Inc</author>
-			<pubDate>2024-10-02 11:56:00</pubDate>
 		</item>
 	</channel>
 </rss>

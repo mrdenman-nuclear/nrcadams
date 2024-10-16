@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 15 Oct 2024 23:17:19 GMT</pubDate>
-		<lastBuildDate>Tue, 15 Oct 2024 23:17:19 GMT</lastBuildDate>
+		<pubDate>Wed, 16 Oct 2024 14:16:44 GMT</pubDate>
+		<lastBuildDate>Wed, 16 Oct 2024 14:16:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2024-10-04 08:54:00</pubDate>
-		</item>
-		<item>
-			<title>Response to NRC Feedback on Terrestrial Energy USA White Paper "Modeling and Simulation Activities Related to Source Term for IMSR Design Basis Accidents"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24268A207</link>
-			<description>Letter</description>
-			<author>Terrestrial Energy USA, Inc</author>
-			<pubDate>2024-10-02 09:09:00</pubDate>
 		</item>
 	</channel>
 </rss>
