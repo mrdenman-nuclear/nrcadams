@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 16 Oct 2024 23:16:19 GMT</pubDate>
-		<lastBuildDate>Wed, 16 Oct 2024 23:16:19 GMT</lastBuildDate>
+		<pubDate>Thu, 17 Oct 2024 14:16:42 GMT</pubDate>
+		<lastBuildDate>Thu, 17 Oct 2024 14:16:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>Letter</description>
 			<author>General Electric Co</author>
 			<pubDate>2024-10-04 10:03:00</pubDate>
-		</item>
-		<item>
-			<title>Cancellation Notice of GE PCG Funds for Decommissioning - 01142019</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML19014A158</link>
-			<description>E-Mail</description>
-			<author>Global Nuclear Fuel - Americas, LLC</author>
-			<pubDate>2024-10-03 12:38:00</pubDate>
-		</item>
-		<item>
-			<title>GE NRC Parent Company Guarantee 5-1-17</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML17135A000</link>
-			<description>Financial Assurance Document, Letter</description>
-			<author>General Electric Co</author>
-			<pubDate>2024-10-03 10:00:00</pubDate>
 		</item>
 	</channel>
 </rss>

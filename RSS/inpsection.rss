@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 16 Oct 2024 23:16:25 GMT</pubDate>
-		<lastBuildDate>Wed, 16 Oct 2024 23:16:25 GMT</lastBuildDate>
+		<pubDate>Thu, 17 Oct 2024 14:16:47 GMT</pubDate>
+		<lastBuildDate>Thu, 17 Oct 2024 14:16:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,20 +17,6 @@
 			<description>Inspection Manual</description>
 			<author>NRC/NRR/DRO/IRIB</author>
 			<pubDate>2024-10-16 15:41:00</pubDate>
-		</item>
-		<item>
-			<title>TI 2515-194 Revision 3, Inspection of the Licensees' Implementation of Industry Initiative Associated with the Open Phase Condition Design Vulnerabilities in Electric Power Systems (NRC Bulletin 2012 01)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24208A179</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DEX/EEEB</author>
-			<pubDate>2024-10-10 13:30:00</pubDate>
-		</item>
-		<item>
-			<title>Table of Contents for Inspection Manual Change Notice 24-027</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24284A239</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRIB</author>
-			<pubDate>2024-10-10 13:30:00</pubDate>
 		</item>
 	</channel>
 </rss>
