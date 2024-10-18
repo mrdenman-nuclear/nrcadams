@@ -5,25 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 17 Oct 2024 23:16:43 GMT</pubDate>
-		<lastBuildDate>Thu, 17 Oct 2024 23:16:43 GMT</lastBuildDate>
+		<pubDate>Fri, 18 Oct 2024 14:16:24 GMT</pubDate>
+		<lastBuildDate>Fri, 18 Oct 2024 14:16:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure - TEUSA Audit Report for PDC Topical Report RevB v6.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24233A242</link>
+			<description>Topical Report</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-10-18 09:01:00</pubDate>
+		</item>
+		<item>
+			<title>TEUSA PDC TR Audit Report Transmittal Letter v4</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24233A243</link>
+			<description>Topical Report</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-10-18 09:01:00</pubDate>
+		</item>
 		<item>
 			<title>Meeting Summary Closed-Terrestrial USA Inc-Principal Design Criteria for IMSR Structures, Systems, and Components Topical Report Rev C Review Discussion</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24275A183</link>
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2024-10-17 09:11:00</pubDate>
-		</item>
-		<item>
-			<title>Request For Withholding Proprietary Information From Public Disclosure For Terrestrial Energy USA, Inc's., Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24226B359</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-10-04 08:54:00</pubDate>
 		</item>
 	</channel>
 </rss>

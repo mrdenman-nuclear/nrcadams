@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 17 Oct 2024 23:16:43 GMT</pubDate>
-		<lastBuildDate>Thu, 17 Oct 2024 23:16:43 GMT</lastBuildDate>
+		<pubDate>Fri, 18 Oct 2024 14:16:24 GMT</pubDate>
+		<lastBuildDate>Fri, 18 Oct 2024 14:16:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Graphics incl Charts and Tables, Meeting Briefing Package/Handouts</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2024-10-16 15:35:00</pubDate>
-		</item>
-		<item>
-			<title>X-energy LIC-116 Readiness Assessment Scope Update</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24277A144</link>
-			<description>E-Mail, Graphics incl Charts and Tables</description>
-			<author>X-Energy</author>
-			<pubDate>2024-10-04 08:55:00</pubDate>
 		</item>
 	</channel>
 </rss>

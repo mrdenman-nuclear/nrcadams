@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 17 Oct 2024 23:16:40 GMT</pubDate>
-		<lastBuildDate>Thu, 17 Oct 2024 23:16:40 GMT</lastBuildDate>
+		<pubDate>Fri, 18 Oct 2024 14:16:21 GMT</pubDate>
+		<lastBuildDate>Fri, 18 Oct 2024 14:16:21 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>ENC1 Redacted eVinci Final SE PDC TR</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24283A137</link>
+			<description>Safety Evaluation</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-10-18 09:01:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure - TEUSA Audit Report for PDC Topical Report RevB v6.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24233A242</link>
+			<description>Topical Report</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-10-18 09:01:00</pubDate>
+		</item>
+		<item>
+			<title>TEUSA PDC TR Audit Report Transmittal Letter v4</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24233A243</link>
+			<description>Topical Report</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-10-18 09:01:00</pubDate>
+		</item>
+		<item>
+			<title>2024/10/04 NuScale NPM-20 - NuScale SDAA Section 4.3 - Request for Additional Information No. 30 (RAI-10269-R1)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24278A018</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2024-10-18 09:00:00</pubDate>
+		</item>
 		<item>
 			<title>Response To Request for Withholding Proprietary Information from Public Disclosure - to Support the Westinghouse-NRC Pre-Submittal Meeting on the Westinghouse AP300 SMR Emergency Planning Zone Definition White Paper</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24281A123</link>
@@ -108,48 +136,6 @@
 			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2024-10-15 09:26:00</pubDate>
-		</item>
-		<item>
-			<title>Notices of Appearance of Ryan K. Lighty and Alex S. Polonsky on Behalf of Kairos Power LLC</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24284A324</link>
-			<description>Legal-Correspondence/Miscellaneous</description>
-			<author>Kairos Power, LLC, Morgan, Lewis and Bockius, LLP</author>
-			<pubDate>2024-10-11 08:50:00</pubDate>
-		</item>
-		<item>
-			<title>Notices of Appearance of Ryan K. Lighty and Alex S. Polonsky on Behalf of Kairos Power LLC</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24284A324</link>
-			<description>Legal-Correspondence/Miscellaneous</description>
-			<author>Kairos Power, LLC, Morgan, Lewis and Bockius, LLP</author>
-			<pubDate>2024-10-11 08:50:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC Responses to Commission Hearing Questions</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24284A326</link>
-			<description>Legal-Correspondence/Miscellaneous</description>
-			<author>Kairos Power, LLC, Morgan, Lewis and Bockius, LLP</author>
-			<pubDate>2024-10-11 08:50:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC Responses to Commission Hearing Questions</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24284A326</link>
-			<description>Legal-Correspondence/Miscellaneous</description>
-			<author>Kairos Power, LLC, Morgan, Lewis and Bockius, LLP</author>
-			<pubDate>2024-10-11 08:50:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal Letter of NRC Feedback on MC&A White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24282A732</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-10-11 08:50:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - NRC Staff Feedback on ACU MC&A White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24282A733</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-10-11 08:50:00</pubDate>
 		</item>
 	</channel>
 </rss>
