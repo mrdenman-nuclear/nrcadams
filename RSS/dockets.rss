@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 21 Oct 2024 23:15:39 GMT</pubDate>
-		<lastBuildDate>Mon, 21 Oct 2024 23:15:39 GMT</lastBuildDate>
+		<pubDate>Tue, 22 Oct 2024 14:16:50 GMT</pubDate>
+		<lastBuildDate>Tue, 22 Oct 2024 14:16:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Cover Letter TerraPower Final SE Fuel and Control Assembly Qualification</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24220A155</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-10-22 07:56:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1 TerraPower Final SE Fuel and Control Assembly Qualification redacted</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24220A154</link>
+			<description>Final Safety Evaluation Report (FSER)</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-10-22 07:56:00</pubDate>
+		</item>
 		<item>
 			<title>10/30/2024 Meeting with Oklo to discuss the information required in a combined license application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24292A168</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24284A170</link>
 			<description>Legal-Pre-Filed Exhibits</description>
 			<author>NRC/OGC</author>
-			<pubDate>2024-10-10 16:18:00</pubDate>
-		</item>
-		<item>
-			<title>NRC-002K KP Construction Permit App.-Cover Letter and Affidavit, Submittal of the Hermes 2 Prelim. Safety Analysis Report for the KP Fluoride Salt-Cooled, High temp. Non-Powered Reactor, Rev. 1, and the Postulated Event Analysis Methodology Tech. Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24284A170</link>
-			<description>Legal-Pre-Filed Exhibits</description>
-			<author>NRC/OGC</author>
-			<pubDate>2024-10-10 16:18:00</pubDate>
-		</item>
-		<item>
-			<title>NRC-002B - Kairos Power LLC, Construction Permit Application - General Information (July 14, 2023)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24284A171</link>
-			<description>Legal-Pre-Filed Exhibits</description>
-			<author>Kairos Power, LLC, NRC/OGC</author>
 			<pubDate>2024-10-10 16:18:00</pubDate>
 		</item>
 	</channel>
