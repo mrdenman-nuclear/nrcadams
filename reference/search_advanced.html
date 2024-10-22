@@ -48,7 +48,8 @@
     <div class="sourceCode"><pre class="sourceCode r"><code><span><span class="fu">search_advanced</span><span class="op">(</span></span>
 <span>  search_field <span class="op">=</span> <span class="st">"properties_search_all:!(!(AuthorAffiliation,starts,NRC/ACRS,''),"</span>,</span>
 <span>  results_tag <span class="op">=</span> <span class="st">"ACRS"</span>,</span>
-<span>  days_back <span class="op">=</span> <span class="fl">7</span></span>
+<span>  days_back <span class="op">=</span> <span class="fl">7</span>,</span>
+<span>  content_search <span class="op">=</span> <span class="cn">FALSE</span></span>
 <span><span class="op">)</span></span></code></pre></div>
     </div>
 
@@ -70,6 +71,10 @@
 
 <dt id="arg-days-back">days_back<a class="anchor" aria-label="anchor" href="#arg-days-back"></a></dt>
 <dd><p>dbl: Length of time the search extends in days since the document was published on ADAMS? Default is all time (i.e, NA). Cannot be used with start_date or end_date.</p></dd>
+
+
+<dt id="arg-content-search">content_search<a class="anchor" aria-label="anchor" href="#arg-content-search"></a></dt>
+<dd><p>lgl: Is this a content search or a tag search</p></dd>
 
 </dl></div>
     <div class="section level2">
