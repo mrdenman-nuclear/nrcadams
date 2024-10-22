@@ -225,11 +225,19 @@ MACCS <- nrcadams::search_advanced(
     days_back = 7,
     content_search = TRUE
 )
+ATD <- nrcadams::search_advanced(
+    search_field = "single_content_search:'%22SIERRA+ATD%22'",
+    results_tag = "ATD",
+    days_back = 7,
+    content_search = TRUE
+)
+
 Codes <- MELCOR |>
   dplyr::bind_rows(ARCON) |>
   dplyr::bind_rows(RADTRAD) |>
   dplyr::bind_rows(NRCDose3) |>
-  dplyr::bind_rows(MACCS)
+  dplyr::bind_rows(MACCS) |>
+  dplyr::bind_rows(ATD) 
 
 
 if (length(Codes) != 0) {
