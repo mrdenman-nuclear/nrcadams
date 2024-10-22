@@ -10,7 +10,8 @@
 search_advanced(
   search_field = "properties_search_all:!(!(AuthorAffiliation,starts,NRC/ACRS,''),",
   results_tag = "ACRS",
-  days_back = 7
+  days_back = 7,
+  content_search = FALSE
 )
 }
 \arguments{
@@ -19,6 +20,8 @@ search_advanced(
 \item{results_tag}{chr: string with the results tag}
 
 \item{days_back}{dbl: Length of time the search extends in days since the document was published on ADAMS? Default is all time (i.e, NA). Cannot be used with start_date or end_date.}
+
+\item{content_search}{lgl: Is this a content search or a tag search}
 }
 \value{
 tibble of search results
