@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 22 Oct 2024 23:17:07 GMT</pubDate>
-		<lastBuildDate>Tue, 22 Oct 2024 23:17:07 GMT</lastBuildDate>
+		<pubDate>Wed, 23 Oct 2024 14:16:18 GMT</pubDate>
+		<lastBuildDate>Wed, 23 Oct 2024 14:16:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Response to Request for Withholding Proprietary Information from Public Disclosure - Westinghouse AP300 SMR Safety Analysis Codes & Methods White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24289A069</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-10-23 08:46:00</pubDate>
+		</item>
 		<item>
 			<title>Response To Request for Withholding Proprietary Information from Public Disclosure - to Support the Westinghouse-NRC Pre-Submittal Meeting on the Westinghouse AP300 SMR Emergency Planning Zone Definition White Paper</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24281A123</link>
@@ -24,20 +31,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Westinghouse Electric Co, LLC</author>
 			<pubDate>2024-10-15 09:28:00</pubDate>
-		</item>
-		<item>
-			<title>10/31/2024 Pre-application Meeting with Westinghouse on AP300 SMR White Paper "Probabilistic Risk Assessment (PRA)"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24283A049</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-10-09 09:37:00</pubDate>
-		</item>
-		<item>
-			<title>10/31/2024 Pre-application PROPRIETARY Meeting with Westinghouse on AP300 SMR White Paper "Probabilistic Risk Assessment (PRA)"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24283A050</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-10-09 09:36:00</pubDate>
 		</item>
 	</channel>
 </rss>
