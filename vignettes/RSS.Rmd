@@ -256,7 +256,7 @@ Inspections <- nrcadams::search_advanced(
     days_back = 7
 )
 
-if (length(inpsection) != 0) {
+if (length(Inspections) != 0) {
   Inspections |>
     nrcadams::write_rss(
       file = here::here("docs", "RSS", paste0(
