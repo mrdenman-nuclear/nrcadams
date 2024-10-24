@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 23 Oct 2024 23:15:53 GMT</pubDate>
-		<lastBuildDate>Wed, 23 Oct 2024 23:15:53 GMT</lastBuildDate>
+		<pubDate>Thu, 24 Oct 2024 14:16:33 GMT</pubDate>
+		<lastBuildDate>Thu, 24 Oct 2024 14:16:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -94,27 +94,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2024-10-18 09:00:00</pubDate>
-		</item>
-		<item>
-			<title>Response To Request for Withholding Proprietary Information from Public Disclosure - to Support the Westinghouse-NRC Pre-Submittal Meeting on the Westinghouse AP300 SMR Emergency Planning Zone Definition White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24281A123</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-10-17 09:12:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Approved TerraPower, LLC, Topical Report: Principal Design Criteria for the Natrium Advanced Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24283A066</link>
-			<description>Letter, Topical Report</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2024-10-17 09:11:00</pubDate>
-		</item>
-		<item>
-			<title>Meeting Summary Closed-Terrestrial USA Inc-Principal Design Criteria for IMSR Structures, Systems, and Components Topical Report Rev C Review Discussion</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24275A183</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-10-17 09:11:00</pubDate>
 		</item>
 	</channel>
 </rss>
