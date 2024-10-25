@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 24 Oct 2024 23:17:15 GMT</pubDate>
-		<lastBuildDate>Thu, 24 Oct 2024 23:17:15 GMT</lastBuildDate>
+		<pubDate>Fri, 25 Oct 2024 14:17:52 GMT</pubDate>
+		<lastBuildDate>Fri, 25 Oct 2024 14:17:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Notices of Appearance of Ryan K. Lighty and Alex S. Polonsky on Behalf of Kairos Power LLC</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24284A324</link>
-			<description>Legal-Correspondence/Miscellaneous</description>
-			<author>Kairos Power, LLC, Morgan, Lewis and Bockius, LLP</author>
-			<pubDate>2024-10-11 08:50:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC Responses to Commission Hearing Questions</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24284A326</link>
-			<description>Legal-Correspondence/Miscellaneous</description>
-			<author>Kairos Power, LLC, Morgan, Lewis and Bockius, LLP</author>
-			<pubDate>2024-10-11 08:50:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

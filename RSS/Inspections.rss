@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 24 Oct 2024 23:17:26 GMT</pubDate>
-		<lastBuildDate>Thu, 24 Oct 2024 23:17:26 GMT</lastBuildDate>
+		<pubDate>Fri, 25 Oct 2024 14:18:10 GMT</pubDate>
+		<lastBuildDate>Fri, 25 Oct 2024 14:18:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>Inspection Manual</description>
 			<author>NRC/NRR/DRO/IRIB</author>
 			<pubDate>2024-10-23 11:22:00</pubDate>
-		</item>
-		<item>
-			<title>IMC 0615 Non-Power Production and Utilization Facility Inspection Reports</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24101A105</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2024-10-18 09:02:00</pubDate>
-		</item>
-		<item>
-			<title>Table of Contents for Inspection Manual Change Notice 24-029</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24291A189</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRIB</author>
-			<pubDate>2024-10-18 09:02:00</pubDate>
 		</item>
 	</channel>
 </rss>

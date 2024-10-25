@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 24 Oct 2024 23:17:17 GMT</pubDate>
-		<lastBuildDate>Thu, 24 Oct 2024 23:17:17 GMT</lastBuildDate>
+		<pubDate>Fri, 25 Oct 2024 14:17:55 GMT</pubDate>
+		<lastBuildDate>Fri, 25 Oct 2024 14:17:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,13 +73,6 @@
 			<description>ACRS Summary Report, Letter</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-10-15 10:54:00</pubDate>
-		</item>
-		<item>
-			<title>Email Response: LTR-24-0212 David Lochbaum Letter - Public Access to Advisory Committee on Reactor Safeguards Materials - SEABROOK ASR</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24285A168</link>
-			<description>E-Mail</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-10-11 13:55:00</pubDate>
 		</item>
 	</channel>
 </rss>
