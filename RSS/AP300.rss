@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 28 Oct 2024 23:15:57 GMT</pubDate>
-		<lastBuildDate>Mon, 28 Oct 2024 23:15:57 GMT</lastBuildDate>
+		<pubDate>Tue, 29 Oct 2024 14:17:04 GMT</pubDate>
+		<lastBuildDate>Tue, 29 Oct 2024 14:17:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Westinghouse, Transmittal of Presentation Slides to Support the Westinghouse-NRC Pre-Submittal Meeting on the Westinghouse AP300 SMR Safety Analysis Codes and Methodology White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24284A287</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>Westinghouse Electric Co, LLC</author>
+			<pubDate>2024-10-29 09:14:00</pubDate>
+		</item>
 		<item>
 			<title>09/20/2024 Summary of Pre-Application Meeting With Westinghouse Electric Company on AP300 Small Modular Reactor Codes and Standards White Paper</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24283A003</link>
@@ -31,13 +38,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-10-17 09:12:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse, Transmittal of Presentation Slides to Support the Westinghouse-NRC Pre-Submittal Meeting on the Westinghouse AP300 SMR Safety Analysis Codes and Methodology White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24284A289</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2024-10-15 09:28:00</pubDate>
 		</item>
 	</channel>
 </rss>
