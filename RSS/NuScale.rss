@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 29 Oct 2024 23:16:54 GMT</pubDate>
-		<lastBuildDate>Tue, 29 Oct 2024 23:16:54 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Oct 2024 14:18:33 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Oct 2024 14:18:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,13 +73,6 @@
 			<description>Meeting Minutes, Memoranda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-10-17 14:14:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - Staff Evaluation of NuScale Standard Design Approval Safety Analysis Report Chapters , 3, 8, and 14 - SC - November 5, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24289A179</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-10-16 13:12:00</pubDate>
 		</item>
 	</channel>
 </rss>

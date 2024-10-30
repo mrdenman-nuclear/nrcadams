@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 29 Oct 2024 23:16:31 GMT</pubDate>
-		<lastBuildDate>Tue, 29 Oct 2024 23:16:31 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Oct 2024 14:18:08 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Oct 2024 14:18:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>NuScale Power, LLC Submittal of "NuScale Comprehensive Vibration Assessment Program Analysis Technical Report," TR-121353, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24296A470</link>
+			<description>Legal-Affidavit, Letter, Report, Technical</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-10-30 09:16:00</pubDate>
+		</item>
+	</channel>
 </rss>

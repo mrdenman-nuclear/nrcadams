@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 29 Oct 2024 23:16:54 GMT</pubDate>
-		<lastBuildDate>Tue, 29 Oct 2024 23:16:54 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Oct 2024 14:18:33 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Oct 2024 14:18:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,13 +59,6 @@
 			<description>Federal Register Notice</description>
 			<author>NRC/ACRS, NRC/SECY</author>
 			<pubDate>2024-10-17 09:11:00</pubDate>
-		</item>
-		<item>
-			<title>Batch 2 USO Environmental Information Needs</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24289A121</link>
-			<description>Graphics incl Charts and Tables</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2024-10-16 11:48:00</pubDate>
 		</item>
 	</channel>
 </rss>

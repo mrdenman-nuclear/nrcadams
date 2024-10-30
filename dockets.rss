@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 29 Oct 2024 23:16:21 GMT</pubDate>
-		<lastBuildDate>Tue, 29 Oct 2024 23:16:21 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Oct 2024 14:17:56 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Oct 2024 14:17:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Withholding Proprietary Information from Public Disclosure  OKLO Presentation Material for January 17 2024 Meeting</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24282B031</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-10-30 09:17:00</pubDate>
+		</item>
+		<item>
+			<title>2024/10/16 NuScale NPM-20 - Nonproprietary - NuScale SDAA Section 6.2 - Request for Additional Information No. 039 (RAI-10359-R1)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24290A192</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2024-10-30 09:16:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC Submittal of "NuScale Comprehensive Vibration Assessment Program Analysis Technical Report," TR-121353, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24296A470</link>
+			<description>Legal-Affidavit, Letter, Report, Technical</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-10-30 09:16:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 3: Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23048A019</link>
+			<description>Legal-Affidavit</description>
+			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
+			<pubDate>2024-10-30 09:15:00</pubDate>
+		</item>
 		<item>
 			<title>July 23 2024 Summary of Partially Closed Meeting with X Energy PLM Geotechnical and Groundwater Approach.docx</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24302A214</link>
@@ -185,41 +213,6 @@
 			<description>Safety Evaluation Report</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-10-25 07:24:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: NEDO-33912-A, Revision 2, "Licensing Topical Report - BWRX-300 Reactivity Control"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23048A018</link>
-			<description>Topical Report</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-10-23 15:17:00</pubDate>
-		</item>
-		<item>
-			<title>GE-Hitachi Nuclear Energy Americas, LLC, Revised Approved Version of NEDC-33912P-A, Revision 1 BWRX-300 Reactivity Control Licensing Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23048A016</link>
-			<description>Letter</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-10-23 15:17:00</pubDate>
-		</item>
-		<item>
-			<title>Verification Letter to SMR, LLC, Holtec, NRC Approval of the SMR Holtec Quality Assurance Program Topical Report -A Version</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24281A085</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-10-23 08:46:00</pubDate>
-		</item>
-		<item>
-			<title>eVinci Principal Design Criteria Topical Report Final Safety Evaluation Cover Letter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24283A136</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-10-23 08:46:00</pubDate>
-		</item>
-		<item>
-			<title>Response to Request for Withholding Proprietary Information from Public Disclosure - Westinghouse AP300 SMR Safety Analysis Codes & Methods White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24289A069</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-10-23 08:46:00</pubDate>
 		</item>
 	</channel>
 </rss>

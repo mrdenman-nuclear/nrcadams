@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 29 Oct 2024 23:16:54 GMT</pubDate>
-		<lastBuildDate>Tue, 29 Oct 2024 23:16:54 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Oct 2024 14:18:33 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Oct 2024 14:18:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,13 +73,6 @@
 			<description>Federal Register Notice</description>
 			<author>NRC/SECY</author>
 			<pubDate>2024-10-18 09:37:00</pubDate>
-		</item>
-		<item>
-			<title>(Redacted) Meeting Transcript for February 27, 2024 - Oconee Nuclear Station, Units 1, 2, and 3, February 2024 Subsequent License Renewal Public Draft Environmental Impact</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24071A168</link>
-			<description>Meeting Transcript</description>
-			<author>NRC/NMSS/DREFS/ELRB</author>
-			<pubDate>2024-10-16 06:42:00</pubDate>
 		</item>
 	</channel>
 </rss>

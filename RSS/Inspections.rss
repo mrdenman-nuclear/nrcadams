@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 29 Oct 2024 23:17:13 GMT</pubDate>
-		<lastBuildDate>Tue, 29 Oct 2024 23:17:13 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Oct 2024 14:18:42 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Oct 2024 14:18:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,27 +59,6 @@
 			<description>Inspection Manual</description>
 			<author>NRC/NRR/DRO/IRIB</author>
 			<pubDate>2024-10-25 12:21:00</pubDate>
-		</item>
-		<item>
-			<title>IMC 0308 Attachment 3, Appendix M, Technical Basis for the Significance Determination Process (SDP) using Qualitative Criteria</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24214A205</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRA/APOB</author>
-			<pubDate>2024-10-23 11:22:00</pubDate>
-		</item>
-		<item>
-			<title>IMC 0609 Appendix M, Significance Determination Process Using Qualitative Criteria</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24192A216</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRA/APOB</author>
-			<pubDate>2024-10-23 11:22:00</pubDate>
-		</item>
-		<item>
-			<title>Table of Contents for Inspection Manual Change Notice 24-030</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24296B233</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRIB</author>
-			<pubDate>2024-10-23 11:22:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 29 Oct 2024 23:16:54 GMT</pubDate>
-		<lastBuildDate>Tue, 29 Oct 2024 23:16:54 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Oct 2024 14:18:33 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Oct 2024 14:18:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>Letter, Topical Report</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2024-10-17 09:11:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of Meeting On Advance Act Congressional Report on Environmental Reviews Of Nuclear Reactor Applications,  09-25-24, Pages 1-109</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24277A149</link>
-			<description>Meeting Transcript</description>
-			<author>NRC/NMSS/DREFS/EPMB1</author>
-			<pubDate>2024-10-16 13:10:00</pubDate>
 		</item>
 	</channel>
 </rss>
