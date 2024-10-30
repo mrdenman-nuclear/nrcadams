@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 30 Oct 2024 20:19:21 GMT</pubDate>
-		<lastBuildDate>Wed, 30 Oct 2024 20:19:21 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Oct 2024 21:16:35 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Oct 2024 21:16:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>GE-Hitachi Nuclear Energy Americas, LLC, Request for Legal Interpretation to Support BWRX-300 Safety Strategy LTR Review</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24254A448</link>
+			<description>Letter</description>
+			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
+			<pubDate>2024-10-30 16:33:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: Request for Legal Interpretation - Non-Proprietary Information</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24254A450</link>
+			<description>Legal-Correspondence</description>
+			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
+			<pubDate>2024-10-30 16:32:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 3: Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24254A451</link>
+			<description>Legal-Affidavit</description>
+			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
+			<pubDate>2024-10-30 16:32:00</pubDate>
+		</item>
 		<item>
 			<title>Withholding Proprietary Information from Public Disclosure  OKLO Presentation Material for January 17 2024 Meeting</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24282B031</link>
@@ -199,27 +220,6 @@
 			<description>Topical Report</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2024-10-25 07:24:00</pubDate>
-		</item>
-		<item>
-			<title>EMAIL: Completed NRC Form 896 for -A topical report verification of TerraPower, LLC "Principal Design Criteria for the Natrium Advanced Reactor," Revision 1 (EPID L-2021-TOP-0020)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24283A194</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-10-25 07:24:00</pubDate>
-		</item>
-		<item>
-			<title>Terrapower, LLC – Draft Safety Evaluation Of Natrium Topical Report Nat-3056, Plume Exposure Pathway Emergency Planning Zone Sizing Methodology, Revision 1 (EPID L-2023-TOP-0024/CAC 000431)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24242A101</link>
-			<description>Safety Evaluation Report</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-10-25 07:24:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: NEDO-33912-A, Revision 2, "Licensing Topical Report - BWRX-300 Reactivity Control"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23048A018</link>
-			<description>Topical Report</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-10-23 15:17:00</pubDate>
 		</item>
 	</channel>
 </rss>
