@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 31 Oct 2024 16:20:59 GMT</pubDate>
-		<lastBuildDate>Thu, 31 Oct 2024 16:20:59 GMT</lastBuildDate>
+		<pubDate>Thu, 31 Oct 2024 17:17:05 GMT</pubDate>
+		<lastBuildDate>Thu, 31 Oct 2024 17:17:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>DOE OCED KU1 Preconstruction Initiation Response</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24275A072</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DREFS/ETRB1</author>
+			<pubDate>2024-10-31 12:49:00</pubDate>
+		</item>
 		<item>
 			<title>11/18/2024 Pre-application meeting with GE-Hitachi Nuclear Energy Americas, LLC (GEH) on BWRX-300 GEH DPSC Structural Design (NEDC-33926P) License Topical Report (LTR) Emergent Revision Path Forward Public Meeting</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24305A032</link>
@@ -211,13 +218,6 @@
 			<title>Oklo, Inc., Affidavit</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24292A215</link>
 			<description>Legal-Affidavit</description>
-			<author>Oklo Inc</author>
-			<pubDate>2024-10-28 09:06:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo, Inc., Fleet model for licensed operators</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24292A214</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Oklo Inc</author>
 			<pubDate>2024-10-28 09:06:00</pubDate>
 		</item>
