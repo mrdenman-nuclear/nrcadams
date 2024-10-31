@@ -5,12 +5,47 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 30 Oct 2024 23:17:18 GMT</pubDate>
-		<lastBuildDate>Wed, 30 Oct 2024 23:17:18 GMT</lastBuildDate>
+		<pubDate>Thu, 31 Oct 2024 14:17:35 GMT</pubDate>
+		<lastBuildDate>Thu, 31 Oct 2024 14:17:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Audit Status - The Staff Review of the NuScale Power, LLC Standard Design Approval (SDA) Application - NuScale US460</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24269A008</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2024-10-31 09:43:00</pubDate>
+		</item>
+		<item>
+			<title>2024/10/17 NuScale NPM-20 - Nonproprietary - NuScale SDAA Sections 15.0 and 15.1 - Request for Additional Information No. 037 (RAI-10357-R1)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24291A085</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2024-10-31 09:41:00</pubDate>
+		</item>
+		<item>
+			<title>Presubmittal Readiness Assessment Report Of The X Energy, LLC., Xe-100 Graphite Structural Analysis And Qualification Methodologies Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24271A043</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-10-31 09:41:00</pubDate>
+		</item>
+		<item>
+			<title>ENCLOSURE - Readiness Assessment Observations X-energy Xe-100 Graphite Structural Analysis and Qualification Methodologies Draft Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24271A045</link>
+			<description>Topical Report</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-10-31 09:41:00</pubDate>
+		</item>
+		<item>
+			<title>11/21/2024 Pre-application meeting with GE-Hitachi Nuclear Energy Americas, LLC (GEH) on BWRX-300 Source Term Determination Methodology for Establishment of Emergency Planning Zone (NEDC-33913P)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24304A931</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-10-31 05:33:00</pubDate>
+		</item>
 		<item>
 			<title>GE-Hitachi Nuclear Energy Americas, LLC, Request for Legal Interpretation to Support BWRX-300 Safety Strategy LTR Review</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24254A448</link>
@@ -185,41 +220,6 @@
 			<description>E-Mail, Note to File incl Telcon Record, Verbal Comm</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
 			<pubDate>2024-10-28 09:06:00</pubDate>
-		</item>
-		<item>
-			<title>10/31/2024 Virtual Meeting Between the U.S. Nuclear Regulatory Commission and TRISO-X, LLC to discuss the Chemical Safety Requests for Additional Information.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24299A246</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-10-25 15:03:00</pubDate>
-		</item>
-		<item>
-			<title>Project Long Mott PSAR Readiness Assessment LIC-116 Scope Updates</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24298A222</link>
-			<description>E-Mail</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2024-10-25 09:04:00</pubDate>
-		</item>
-		<item>
-			<title>2024/10/18 Kairos Power Pre-App Doc - Audit Questions Related to Kairos Core Design and Analysis Methodology Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24292A169</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2024-10-25 07:26:00</pubDate>
-		</item>
-		<item>
-			<title>09/20/2024 Summary of Pre-Application Meeting With Westinghouse Electric Company on AP300 Small Modular Reactor Codes and Standards White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24283A003</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-10-25 07:25:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Form 896: -A Verification of TerraPower, LLC Principal Design Criteria for the Natrium Advanced Reactor, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24283A195</link>
-			<description>Topical Report</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-10-25 07:24:00</pubDate>
 		</item>
 	</channel>
 </rss>
