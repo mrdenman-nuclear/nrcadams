@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 01 Nov 2024 15:18:18 GMT</pubDate>
-		<lastBuildDate>Fri, 01 Nov 2024 15:18:18 GMT</lastBuildDate>
+		<pubDate>Fri, 01 Nov 2024 16:20:22 GMT</pubDate>
+		<lastBuildDate>Fri, 01 Nov 2024 16:20:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>11/12/2024 Meeting with X-energy pertaining to the Xe-100 design</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24306A094</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-11-01 11:21:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale SDAA Chapter 3 SE (Except Sections 3.7, 3.8, 3.9-2)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24289A089</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24284A287</link>
 			<description>Legal-Affidavit, Letter</description>
 			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2024-10-29 09:14:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal of TerraPower, LLC Topical Report, "Design Basis Accident Methodology for In-Vessel Events without Radiological Release," NAT-9390, Revision 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24295A202</link>
-			<description>Letter</description>
-			<author>TerraPower, LLC</author>
 			<pubDate>2024-10-29 09:14:00</pubDate>
 		</item>
 	</channel>
