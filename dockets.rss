@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 31 Oct 2024 23:18:19 GMT</pubDate>
-		<lastBuildDate>Thu, 31 Oct 2024 23:18:19 GMT</lastBuildDate>
+		<pubDate>Fri, 01 Nov 2024 14:16:39 GMT</pubDate>
+		<lastBuildDate>Fri, 01 Nov 2024 14:16:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale SDAA Chapter 3 SE (Except Sections 3.7, 3.8, 3.9-2)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24289A089</link>
+			<description>Safety Evaluation</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2024-11-01 09:28:00</pubDate>
+		</item>
+		<item>
+			<title>Xe-100 Licensing Topical Report: Plume Exposure Pathway Emergency Planning Zone Sizing Methodology</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24303A262</link>
+			<description>Slides and Viewgraphs</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2024-11-01 09:27:00</pubDate>
+		</item>
+		<item>
+			<title>U.S. Nuclear Regulatory Commission - Final Safety Evaluation regarding the X-Energy XE-100 Principal Design Criteria Topical Report Revision 3 (EPID L-2022-TOP-0010)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24284A012</link>
+			<description>Letter, Safety Evaluation</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-11-01 09:26:00</pubDate>
+		</item>
+		<item>
+			<title>Response Letter Request for Withholding Info 2.390 SMR LLC Holtec - August 10, 2024 - Nuclear Codes V&V</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24281A014</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-11-01 09:26:00</pubDate>
+		</item>
 		<item>
 			<title>11/12/2024 Pre-application meeting with Oklo to discuss various aspects of their advanced reactor design</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24305A253</link>
@@ -192,34 +220,6 @@
 			<description>Letter</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2024-10-29 09:14:00</pubDate>
-		</item>
-		<item>
-			<title>11/06/2024 Meeting with Oklo on its approach to compliance with 10 CFR 52.79(a)(1)(vi)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24302A112</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-10-28 13:35:00</pubDate>
-		</item>
-		<item>
-			<title>11/05/2024 Virtual Meeting Between the U.S. Nuclear Regulatory Commission and TRISO-X, LLC to discuss follow-up RAIs for License Application Chapters 1 & 2.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24302A145</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-10-28 11:03:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Submittal of Holtec PSA Risk Significance Determination Methodology Licensing Topical Report, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24292A046</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
-			<pubDate>2024-10-28 09:06:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, HI-2230875, Rev. 1, PSA Risk Significance Determination Methodology Licensing Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24292A047</link>
-			<description>Topical Report</description>
-			<author>SMR, LLC</author>
-			<pubDate>2024-10-28 09:06:00</pubDate>
 		</item>
 	</channel>
 </rss>

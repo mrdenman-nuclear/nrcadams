@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 31 Oct 2024 23:19:35 GMT</pubDate>
-		<lastBuildDate>Thu, 31 Oct 2024 23:19:35 GMT</lastBuildDate>
+		<pubDate>Fri, 01 Nov 2024 14:17:51 GMT</pubDate>
+		<lastBuildDate>Fri, 01 Nov 2024 14:17:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,48 +24,6 @@
 			<description>Inspection Manual</description>
 			<author>NRC/NRR/DRO/IRIB</author>
 			<pubDate>2024-10-29 14:29:00</pubDate>
-		</item>
-		<item>
-			<title>IMC 0308 Attachment 3 Appendix K, Technical Basis for Maintenance Risk Assessment and Risk Management Significance Determination Process</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23335A013</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRA/APOB</author>
-			<pubDate>2024-10-25 12:21:00</pubDate>
-		</item>
-		<item>
-			<title>IMC 0609 Appendix K, Maintenance Risk Assessment and Risk Management Significance Determination Process</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23335A018</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRA/APOB</author>
-			<pubDate>2024-10-25 12:21:00</pubDate>
-		</item>
-		<item>
-			<title>IMC 0609 Attachment 4, Initial Characterization of Findings</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24155A201</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRAB</author>
-			<pubDate>2024-10-25 12:21:00</pubDate>
-		</item>
-		<item>
-			<title>Table of Contents for Inspection Manual Change Notice 24-031</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24297A645</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRIB</author>
-			<pubDate>2024-10-25 12:21:00</pubDate>
-		</item>
-		<item>
-			<title>IMC 0305 Operating Reactor Assessment Program</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24157A234</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRAB</author>
-			<pubDate>2024-10-25 12:21:00</pubDate>
-		</item>
-		<item>
-			<title>Table of Contents for Inspection Manual Change Notice 24-032</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24298A237</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRIB</author>
-			<pubDate>2024-10-25 12:21:00</pubDate>
 		</item>
 	</channel>
 </rss>
