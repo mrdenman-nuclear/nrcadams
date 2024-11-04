@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 01 Nov 2024 23:17:11 GMT</pubDate>
-		<lastBuildDate>Fri, 01 Nov 2024 23:17:11 GMT</lastBuildDate>
+		<pubDate>Mon, 04 Nov 2024 14:18:16 GMT</pubDate>
+		<lastBuildDate>Mon, 04 Nov 2024 14:18:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,13 +66,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Oklo Inc</author>
 			<pubDate>2024-10-28 09:06:00</pubDate>
-		</item>
-		<item>
-			<title>10/30/2024 Meeting with Oklo to discuss the information required in a combined license application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24292A168</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-10-20 09:37:00</pubDate>
 		</item>
 	</channel>
 </rss>
