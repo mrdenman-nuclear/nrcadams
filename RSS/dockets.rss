@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 04 Nov 2024 14:18:16 GMT</pubDate>
-		<lastBuildDate>Mon, 04 Nov 2024 14:18:16 GMT</lastBuildDate>
+		<pubDate>Mon, 04 Nov 2024 15:19:09 GMT</pubDate>
+		<lastBuildDate>Mon, 04 Nov 2024 15:19:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale SDAA FSER - Chapter 8 - Electric Power</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24221A015</link>
+			<description>Final Safety Evaluation Report (FSER)</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2024-11-04 10:02:00</pubDate>
+		</item>
 		<item>
 			<title>ACRS Memo ASER NuScale FSER Chapters 3, 8, 14</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24299A225</link>
@@ -213,13 +220,6 @@
 			<description>Letter, Proprietary Information Review</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2024-10-30 09:17:00</pubDate>
-		</item>
-		<item>
-			<title>2024/10/16 NuScale NPM-20 - Nonproprietary - NuScale SDAA Section 6.2 - Request for Additional Information No. 039 (RAI-10359-R1)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24290A192</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2024-10-30 09:16:00</pubDate>
 		</item>
 	</channel>
 </rss>
