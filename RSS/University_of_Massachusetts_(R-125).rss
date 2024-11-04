@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 04 Nov 2024 20:17:52 GMT</pubDate>
-		<lastBuildDate>Mon, 04 Nov 2024 20:17:52 GMT</lastBuildDate>
+		<pubDate>Mon, 04 Nov 2024 21:16:54 GMT</pubDate>
+		<lastBuildDate>Mon, 04 Nov 2024 21:16:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>University of Massachusetts Lowell– U.S. Nuclear Regulatory Commission Safety Inspection Report 05000223/2024201</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24269A100</link>
+			<description>Inspection Report, Letter</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2024-11-04 15:37:00</pubDate>
+		</item>
+	</channel>
 </rss>
