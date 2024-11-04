@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 04 Nov 2024 16:20:35 GMT</pubDate>
-		<lastBuildDate>Mon, 04 Nov 2024 16:20:35 GMT</lastBuildDate>
+		<pubDate>Mon, 04 Nov 2024 17:16:03 GMT</pubDate>
+		<lastBuildDate>Mon, 04 Nov 2024 17:16:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>11/18/2024 Virtual Meeting Between the U.S. Nuclear Regulatory Commission and TRISO-X, LLC to discuss follow-up RAIs for License Application Chapter 2.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24309A096</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2024-11-04 11:44:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale SDAA FSER - Chapter 8 - Electric Power</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24221A015</link>
@@ -213,13 +220,6 @@
 			<description>Legal-Affidavit</description>
 			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
 			<pubDate>2024-10-30 16:32:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Proprietary Information from Public Disclosure  OKLO Presentation Material for January 17 2024 Meeting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24282B031</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-10-30 09:17:00</pubDate>
 		</item>
 	</channel>
 </rss>
