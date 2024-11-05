@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 05 Nov 2024 19:14:32 GMT</pubDate>
-		<lastBuildDate>Tue, 05 Nov 2024 19:14:32 GMT</lastBuildDate>
+		<pubDate>Tue, 05 Nov 2024 20:18:07 GMT</pubDate>
+		<lastBuildDate>Tue, 05 Nov 2024 20:18:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Nuclear Energy eXperimental Testing Lab. (NEXT) - Abilene Christian University - Molten Salt Research Reactor Regulatory Engagement Plan, Revision 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24305A288</link>
+			<description>Letter, Operating Plan</description>
+			<author>Abilene Christian University (ACU), Nuclear Energy eXperimental Testing Lab</author>
+			<pubDate>2024-11-05 14:32:00</pubDate>
+		</item>
+	</channel>
 </rss>

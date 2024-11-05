@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 05 Nov 2024 19:14:19 GMT</pubDate>
-		<lastBuildDate>Tue, 05 Nov 2024 19:14:19 GMT</lastBuildDate>
+		<pubDate>Tue, 05 Nov 2024 20:17:54 GMT</pubDate>
+		<lastBuildDate>Tue, 05 Nov 2024 20:17:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Meeting Slides (Applicant) - TerraPower Natrium November 7, 2024 Plume Exposure Applicant Presentation - FC - November 6-8, 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24310A105</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2024-11-05 14:33:00</pubDate>
+		</item>
+		<item>
+			<title>Meeting Slides (Staff) - TerraPower EPZ Sizing Methodology TR Staff Presentation - FC - November 6-8, 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24310A163</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NRR/DANU, NRC/NSIR/DPR</author>
+			<pubDate>2024-11-05 14:33:00</pubDate>
+		</item>
+		<item>
+			<title>Nuclear Energy eXperimental Testing Lab. (NEXT) - Abilene Christian University - Molten Salt Research Reactor Regulatory Engagement Plan, Revision 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24305A288</link>
+			<description>Letter, Operating Plan</description>
+			<author>Abilene Christian University (ACU), Nuclear Energy eXperimental Testing Lab</author>
+			<pubDate>2024-11-05 14:32:00</pubDate>
+		</item>
 		<item>
 			<title>11/15/2024 Virtual Meeting Between the U.S. Nuclear Regulatory Commission and TRISO-X, LLC to discuss follow-up RAIs for License Application Chapter 2.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24310A093</link>
@@ -199,27 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-10-31 10:31:00</pubDate>
-		</item>
-		<item>
-			<title>Audit Status - The Staff Review of the NuScale Power, LLC Standard Design Approval (SDA) Application - NuScale US460</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24269A008</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2024-10-31 09:43:00</pubDate>
-		</item>
-		<item>
-			<title>2024/10/17 NuScale NPM-20 - Nonproprietary - NuScale SDAA Sections 15.0 and 15.1 - Request for Additional Information No. 037 (RAI-10357-R1)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24291A085</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2024-10-31 09:41:00</pubDate>
-		</item>
-		<item>
-			<title>Presubmittal Readiness Assessment Report Of The X Energy, LLC., Xe-100 Graphite Structural Analysis And Qualification Methodologies Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24271A043</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-10-31 09:41:00</pubDate>
 		</item>
 	</channel>
 </rss>
