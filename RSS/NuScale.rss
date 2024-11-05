@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 04 Nov 2024 23:19:05 GMT</pubDate>
-		<lastBuildDate>Mon, 04 Nov 2024 23:19:05 GMT</lastBuildDate>
+		<pubDate>Tue, 05 Nov 2024 14:18:29 GMT</pubDate>
+		<lastBuildDate>Tue, 05 Nov 2024 14:18:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Good Energy Collective Comments on Section 506 of the Advance Act</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24295A088</link>
+			<description>Letter</description>
+			<author>Good Energy Collective </author>
+			<pubDate>2024-11-05 08:01:00</pubDate>
+		</item>
 		<item>
 			<title>Response to Ms. Carrie Fosaaen, Request for the NRC Action to Promptly Enable Construction of ASME Code Items without an Owner</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24204A242</link>
@@ -136,13 +143,6 @@
 			<description>Topical Report</description>
 			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
 			<pubDate>2024-10-23 15:17:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of the Advisory Committee on Reactor Safeguards TerraPower Natrium Design-Center - Plume Exposure Subcommittee Meeting, September 19, 2024, Pages 1-154 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24296A058</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-10-22 15:18:00</pubDate>
 		</item>
 	</channel>
 </rss>

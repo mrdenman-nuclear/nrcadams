@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 04 Nov 2024 23:18:05 GMT</pubDate>
-		<lastBuildDate>Mon, 04 Nov 2024 23:18:05 GMT</lastBuildDate>
+		<pubDate>Tue, 05 Nov 2024 14:17:22 GMT</pubDate>
+		<lastBuildDate>Tue, 05 Nov 2024 14:17:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -87,20 +87,6 @@
 			<description>Meeting Agenda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-10-23 15:17:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of the Advisory Committee on Reactor Safeguards: Fuels, Materials, & Structure - PWROG-18068-NP Subcommittee Meeting, September 20, 2024, Pages 1-155 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24296A051</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-10-22 15:18:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of the Advisory Committee on Reactor Safeguards TerraPower Natrium Design-Center - Plume Exposure Subcommittee Meeting, September 19, 2024, Pages 1-154 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24296A058</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-10-22 15:18:00</pubDate>
 		</item>
 	</channel>
 </rss>
