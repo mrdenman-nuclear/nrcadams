@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 06 Nov 2024 23:16:46 GMT</pubDate>
-		<lastBuildDate>Wed, 06 Nov 2024 23:16:46 GMT</lastBuildDate>
+		<pubDate>Thu, 07 Nov 2024 14:19:28 GMT</pubDate>
+		<lastBuildDate>Thu, 07 Nov 2024 14:19:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,34 +52,6 @@
 			<description>Rulemaking-Comment</description>
 			<author>Nuclear Energy Institute (NEI)</author>
 			<pubDate>2024-11-01 09:26:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal of TerraPower Plume Exposure Pathway Emergency Planning Zone Methodology Topical Report, NAT 3056 Revision 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24304B034</link>
-			<description>Letter, Topical Report</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2024-10-31 15:31:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal of TerraPower Plume Exposure Pathway Emergency Planning Zone Methodology Topical Report, NAT 3056 Revision 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24304B034</link>
-			<description>Letter, Topical Report</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2024-10-31 15:31:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 Clinton Audit Summary RCI and RAIs</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24283A166</link>
-			<description>Audit Report, Request for Additional Information (RAI)</description>
-			<author>NRC/NMSS/DREFS/EPMB1</author>
-			<pubDate>2024-10-31 09:42:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 Clinton Audit Summary RCI and RAIs</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24283A166</link>
-			<description>Audit Report, Request for Additional Information (RAI)</description>
-			<author>NRC/NMSS/DREFS/EPMB1</author>
-			<pubDate>2024-10-31 09:42:00</pubDate>
 		</item>
 	</channel>
 </rss>
