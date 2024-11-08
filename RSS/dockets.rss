@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 08 Nov 2024 19:13:46 GMT</pubDate>
-		<lastBuildDate>Fri, 08 Nov 2024 19:13:46 GMT</lastBuildDate>
+		<pubDate>Fri, 08 Nov 2024 20:18:37 GMT</pubDate>
+		<lastBuildDate>Fri, 08 Nov 2024 20:18:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>09/26/2024 Summary Of Partially Closed Meeting With Oklo To Discuss Concept Of Operations For Oklo's Advanced Reactor Design (EPID L-2022-LRM-0042</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24285A223</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-11-08 14:38:00</pubDate>
+		</item>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for GE Hitachi</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24298A019</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-11-08 14:37:00</pubDate>
+		</item>
 		<item>
 			<title>Transmittal of TerraPower, LLC, Topical Report, "Instrumentation and Control Architecture and Design Basis Topical Report," Revision 2</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24305A009</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24299A224</link>
 			<description>E-Mail</description>
 			<author>X-Energy</author>
-			<pubDate>2024-11-04 08:44:00</pubDate>
-		</item>
-		<item>
-			<title>9/19/24 Summary of Public Meeting with SMR, LLC (Holtec) to Discuss I SET Scaling for the SMR-300 Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24281A003</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-11-04 08:44:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Determination Letter for 9-17-24 Request from A. Brenner, SMR, LLC - A Holtec International Company Project 99902049</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24295A029</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-11-04 08:44:00</pubDate>
 		</item>
 	</channel>
