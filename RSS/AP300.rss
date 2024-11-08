@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 07 Nov 2024 23:16:45 GMT</pubDate>
-		<lastBuildDate>Thu, 07 Nov 2024 23:16:45 GMT</lastBuildDate>
+		<pubDate>Fri, 08 Nov 2024 14:17:10 GMT</pubDate>
+		<lastBuildDate>Fri, 08 Nov 2024 14:17:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Legal-Affidavit, Letter</description>
 			<author>Westinghouse Electric Co, LLC</author>
 			<pubDate>2024-10-29 09:14:00</pubDate>
-		</item>
-		<item>
-			<title>09/20/2024 Summary of Pre-Application Meeting With Westinghouse Electric Company on AP300 Small Modular Reactor Codes and Standards White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24283A003</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-10-25 07:25:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 07 Nov 2024 23:19:01 GMT</pubDate>
-		<lastBuildDate>Thu, 07 Nov 2024 23:19:01 GMT</lastBuildDate>
+		<pubDate>Fri, 08 Nov 2024 14:17:33 GMT</pubDate>
+		<lastBuildDate>Fri, 08 Nov 2024 14:17:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Edwin I. Hatch, Unit 1, Current Facility Operating License DPR-57, Tech Specs, Revised 11/08/2024.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052930172</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-11-08 07:27:00</pubDate>
+		</item>
 		<item>
 			<title>Final Environmental Assessment for the Clinch River Nuclear Site Exemption Request</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24312A321</link>
@@ -122,20 +129,6 @@
 			<description>Legal-Pleading</description>
 			<author>Law Office of Richard Webster, Miami Waterkeeper, Stetson University, College of Law</author>
 			<pubDate>2024-10-29 09:18:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-1437 DFC, Supplement 62, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants, Supplement 62, Regarding License Renewal of Diablo Canyon Nuclear Power Plant, Units 1 and 2"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24299A167</link>
-			<description>NUREG</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-10-25 15:08:00</pubDate>
-		</item>
-		<item>
-			<title>Oregon State University TRIGA Reactor (OSTR), Submittal of Annual Report for the period July 1, 2023 through June 30, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24291A260</link>
-			<description>Annual Operating Report, Letter</description>
-			<author>Oregon State Univ, TRIGA Reactor</author>
-			<pubDate>2024-10-25 07:24:00</pubDate>
 		</item>
 	</channel>
 </rss>
