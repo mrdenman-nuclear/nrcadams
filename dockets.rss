@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 08 Nov 2024 23:16:47 GMT</pubDate>
-		<lastBuildDate>Fri, 08 Nov 2024 23:16:47 GMT</lastBuildDate>
+		<pubDate>Mon, 11 Nov 2024 14:17:38 GMT</pubDate>
+		<lastBuildDate>Mon, 11 Nov 2024 14:17:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -185,41 +185,6 @@
 			<description>Topical Report</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2024-11-05 08:00:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Transmittal of Public Session Presentation Slides to Support the Westinghouse-NRC Pre-Submittal Meeting on the Westinghouse AP300 SMR Probabilistic Risk Assessment White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24302A205</link>
-			<description>Slides and Viewgraphs</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2024-11-04 15:37:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA FSER - Chapter 8 - Electric Power</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24221A015</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2024-11-04 10:02:00</pubDate>
-		</item>
-		<item>
-			<title>08/01/2024 Summary Of Closed Meeting With X-Energy And Dow Chemical to Discuss Reactor Cavity Cooling System (RCCS) Design Criteria For Project Long MOTT</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24306A177</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-11-04 08:46:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - 9/19/24 Meeting Attendees of the Public Meeting with SMR, LLC (Holtec) to Discuss I SET Scaling for the SMR-300 Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24281A005</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-11-04 08:45:00</pubDate>
-		</item>
-		<item>
-			<title>LIC-116 Scope Update - Section 7.3.1.1.1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24299A224</link>
-			<description>E-Mail</description>
-			<author>X-Energy</author>
-			<pubDate>2024-11-04 08:44:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 08 Nov 2024 23:17:11 GMT</pubDate>
-		<lastBuildDate>Fri, 08 Nov 2024 23:17:11 GMT</lastBuildDate>
+		<pubDate>Mon, 11 Nov 2024 14:17:49 GMT</pubDate>
+		<lastBuildDate>Mon, 11 Nov 2024 14:17:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -94,34 +94,6 @@
 			<description>Meeting Transcript</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-10-29 11:53:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of Significant Changes to NuScale Standard Design Approval Application for Chapters 3, 8, and 14 - November 5, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24302A030</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-10-28 09:08:00</pubDate>
-		</item>
-		<item>
-			<title>Documentation Of Receipt of Applicable Official NRC Notices to the Advisory Committee On Reactor Safeguards For October 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24289A162</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-10-28 09:06:00</pubDate>
-		</item>
-		<item>
-			<title>Draft Safety Evaluation For Topical Report PWROG 18068 NP, Revision 1, Use Of Direct Fracture Toughness For Evaluation Of Reactor Pressure Vessel Integrity</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24282A953</link>
-			<description>Committee Letter Report</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-10-28 09:06:00</pubDate>
-		</item>
-		<item>
-			<title>719th ACRS Full Committee Regulatory Guides October 2 and October 3, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24289A158</link>
-			<description>Memoranda, Regulatory Guide</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-10-28 09:06:00</pubDate>
 		</item>
 	</channel>
 </rss>

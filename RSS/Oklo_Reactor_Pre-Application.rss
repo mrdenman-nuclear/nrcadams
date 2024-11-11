@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 08 Nov 2024 23:16:58 GMT</pubDate>
-		<lastBuildDate>Fri, 08 Nov 2024 23:16:58 GMT</lastBuildDate>
+		<pubDate>Mon, 11 Nov 2024 14:17:44 GMT</pubDate>
+		<lastBuildDate>Mon, 11 Nov 2024 14:17:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,34 +45,6 @@
 			<description>Proprietary Information Review</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2024-10-29 09:18:00</pubDate>
-		</item>
-		<item>
-			<title>11/06/2024 Meeting with Oklo on its approach to compliance with 10 CFR 52.79(a)(1)(vi)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24302A112</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-10-28 13:35:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo, Inc., Transmittal of Proprietary Slides for the September 26, 2024, Meeting Regarding Fleet Model for Licensed Operators for Oklo’s Aurora Powerhouse</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24292A212</link>
-			<description>Letter</description>
-			<author>Oklo Inc</author>
-			<pubDate>2024-10-28 09:06:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo, Inc., Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24292A215</link>
-			<description>Legal-Affidavit</description>
-			<author>Oklo Inc</author>
-			<pubDate>2024-10-28 09:06:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo, Inc., Fleet model for licensed operators</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24292A214</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Oklo Inc</author>
-			<pubDate>2024-10-28 09:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
