@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 11 Nov 2024 23:15:52 GMT</pubDate>
-		<lastBuildDate>Mon, 11 Nov 2024 23:15:52 GMT</lastBuildDate>
+		<pubDate>Tue, 12 Nov 2024 14:16:54 GMT</pubDate>
+		<lastBuildDate>Tue, 12 Nov 2024 14:16:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>Letter, Proprietary Information Review</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2024-10-30 09:17:00</pubDate>
-		</item>
-		<item>
-			<title>07/25/2024 Summary Of Partially Closed Public Meeting To Discuss Site Investigations For The Oklo Advanced Reactor Design (EPID L-2022-LRM-0048)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24276A055</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-10-29 11:08:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Proprietary Information from Public Disclosure OKLO Presentation Material for June 12 2024 Meeting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24236A511</link>
-			<description>Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-10-29 09:18:00</pubDate>
 		</item>
 	</channel>
 </rss>

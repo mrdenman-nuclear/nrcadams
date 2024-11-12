@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 11 Nov 2024 23:16:02 GMT</pubDate>
-		<lastBuildDate>Mon, 11 Nov 2024 23:16:02 GMT</lastBuildDate>
+		<pubDate>Tue, 12 Nov 2024 14:17:02 GMT</pubDate>
+		<lastBuildDate>Tue, 12 Nov 2024 14:17:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,20 +45,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NRC/NRR/DANU/UARP</author>
 			<pubDate>2024-10-30 14:36:00</pubDate>
-		</item>
-		<item>
-			<title>Draft White Paper on Nth-of-a-Kind Micro-Reactor Licensing and Deployment Considerations - Enclosure 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24302A292</link>
-			<description>Technical Paper</description>
-			<author>NRC/NMSS/DREFS/EPMB3, NRC/NMSS/DREFS/ETRB1, NRC/NMSS/DREFS/ETRB2, NRC/NRR/DANU/UARP</author>
-			<pubDate>2024-10-29 14:29:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of the Advisory Committee on Reactor Safeguards Regulatory Policies and Practices - NOAK Subcommittee Meeting, October 17, 2024, Pages 1-156 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24303A213</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-10-29 14:29:00</pubDate>
 		</item>
 	</channel>
 </rss>

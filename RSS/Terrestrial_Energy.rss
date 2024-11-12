@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 11 Nov 2024 23:16:02 GMT</pubDate>
-		<lastBuildDate>Mon, 11 Nov 2024 23:16:02 GMT</lastBuildDate>
+		<pubDate>Tue, 12 Nov 2024 14:17:02 GMT</pubDate>
+		<lastBuildDate>Tue, 12 Nov 2024 14:17:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -115,20 +115,6 @@
 			<description>Environmental Impact Statement, NUREG</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-10-30 09:15:00</pubDate>
-		</item>
-		<item>
-			<title>Diablo Canyon, Unit 1, Current Facility Operating License DPR-80, Tech Specs, Revised 10/29/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053140349</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-10-29 14:16:00</pubDate>
-		</item>
-		<item>
-			<title>Miami Waterkeepers' Reply In Support Of Petition For Review Of LBP-24-08</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24302A321</link>
-			<description>Legal-Pleading</description>
-			<author>Law Office of Richard Webster, Miami Waterkeeper, Stetson University, College of Law</author>
-			<pubDate>2024-10-29 09:18:00</pubDate>
 		</item>
 	</channel>
 </rss>
