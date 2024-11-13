@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 12 Nov 2024 23:16:16 GMT</pubDate>
-		<lastBuildDate>Tue, 12 Nov 2024 23:16:16 GMT</lastBuildDate>
+		<pubDate>Wed, 13 Nov 2024 14:16:59 GMT</pubDate>
+		<lastBuildDate>Wed, 13 Nov 2024 14:16:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,13 +66,6 @@
 			<description>Memoranda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-11-01 10:45:00</pubDate>
-		</item>
-		<item>
-			<title>Final Nov 6 2024 ACRS Licensing and Deployment Considerations for NOAK Microreactors.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24304A950</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-10-30 16:33:00</pubDate>
 		</item>
 	</channel>
 </rss>

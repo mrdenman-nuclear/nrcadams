@@ -5,12 +5,47 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 12 Nov 2024 23:16:13 GMT</pubDate>
-		<lastBuildDate>Tue, 12 Nov 2024 23:16:13 GMT</lastBuildDate>
+		<pubDate>Wed, 13 Nov 2024 14:16:57 GMT</pubDate>
+		<lastBuildDate>Wed, 13 Nov 2024 14:16:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2024/11/06 TerraPower CP Env Docs - SUBJECT TERRAPOWER, LLC, REQUEST FOR SUPPLEMENTAL INFORMATION FOR KEMMERER UNIT 1 ENVIRONMENTAL REPORT BATCH #1, BATCH #2 AND BATCH #3 INFORMATION NEEDS AND REQUESTS FOR ADDITIONAL INFORMATION (RAI)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24311A168</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2024-11-13 08:18:00</pubDate>
+		</item>
+		<item>
+			<title>2024/10/30 NuScale NPM-20 - Nonproprietary - NuScale LOCA TR-0516-49422-P, Rev 3 - Request for Additional Information No. 031 (RAI-10296-R1)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24304B075</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2024-11-13 08:17:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24309A141</link>
+			<description>Legal-Affidavit</description>
+			<author>Terrestrial Energy USA, Inc</author>
+			<pubDate>2024-11-13 08:17:00</pubDate>
+		</item>
+		<item>
+			<title>Terrestrial Energy USA Document #241104: TEUSA Regulatory Engagement Plan, Version 8</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24309A142</link>
+			<description>Letter</description>
+			<author>Terrestrial Energy USA</author>
+			<pubDate>2024-11-13 08:17:00</pubDate>
+		</item>
+		<item>
+			<title>Response Letter Request for Withholding Info 2.390 SMR LLC Holtec - September 11, 2024 - SMR 300 Structural Modularity</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24297A333</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-11-13 08:17:00</pubDate>
+		</item>
 		<item>
 			<title>X-Energy, LLC (X-energy), Submittal of Xe-100 Licensing Topical Report Graphite Core Assembly Material Qualification and Design Methodologies</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24306A126</link>
@@ -185,41 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2024-11-05 11:00:00</pubDate>
-		</item>
-		<item>
-			<title>ACRS Memo ASER NuScale FSER Chapters 3, 8, 14</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24299A225</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2024-11-05 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Letter Titled, Planned SMR-300 LWA Exemption Requests and LWA Application Contents (Project No. 99902049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24262A119</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-11-05 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy, LLC (X-energy) Submittal of "Xe-100 Licensing Topical Report Atmospheric Dispersion and Dose Consequences, Revision 2" Accepted Version</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24302A300</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2024-11-05 08:00:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Affidavit Supporting Request for Withholding from Public Disclosure (10 CFR 2.390)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24302A301</link>
-			<description>Legal-Affidavit</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2024-11-05 08:00:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: "Xe-100 Licensing Topical Report Atmospheric Dispersion and Dose Calculation Methodology, Revision 2" Non-Proprietary (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24302A302</link>
-			<description>Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2024-11-05 08:00:00</pubDate>
 		</item>
 	</channel>
 </rss>

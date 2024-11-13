@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 12 Nov 2024 23:16:37 GMT</pubDate>
-		<lastBuildDate>Tue, 12 Nov 2024 23:16:37 GMT</lastBuildDate>
+		<pubDate>Wed, 13 Nov 2024 14:17:10 GMT</pubDate>
+		<lastBuildDate>Wed, 13 Nov 2024 14:17:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -108,27 +108,6 @@
 			<description>General FR Notice Comment Letter</description>
 			<author>Public Commenter</author>
 			<pubDate>2024-10-31 09:41:00</pubDate>
-		</item>
-		<item>
-			<title>STC-24-062 Issuance of Proposed Rule and Notice of Availability of the Draft Generic Environmental Impact Statement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24297A191</link>
-			<description>Letter, Rulemaking- Proposed Rule</description>
-			<author>NRC/NMSS/DMSST</author>
-			<pubDate>2024-10-30 09:18:00</pubDate>
-		</item>
-		<item>
-			<title>STC-24-058 Issuance of Proposed Rule and Notice of Availability of the Draft Generic Environmental Impact Statement for Advanced Nuclear Reactors (NUREG 2249)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML21274A151</link>
-			<description>All Agreement States Letter, Federal Register Notice</description>
-			<author>NRC/NMSS/DMSST/MSLB</author>
-			<pubDate>2024-10-30 09:17:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-75/091, "Final Environmental Statement by the USNRC Commission, Office of the Nuclear Regulatory Regulation."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20217L163</link>
-			<description>Environmental Impact Statement, NUREG</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-10-30 09:15:00</pubDate>
 		</item>
 	</channel>
 </rss>
