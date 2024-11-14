@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 13 Nov 2024 23:17:10 GMT</pubDate>
-		<lastBuildDate>Wed, 13 Nov 2024 23:17:10 GMT</lastBuildDate>
+		<pubDate>Thu, 14 Nov 2024 14:17:07 GMT</pubDate>
+		<lastBuildDate>Thu, 14 Nov 2024 14:17:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -16,7 +16,7 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24313A016</link>
 			<description>Commission Meeting Slides</description>
 			<author>NRC/OCM</author>
-			<pubDate>2024-11-13 15:15:00</pubDate>
+			<pubDate>2024-11-14 09:14:00</pubDate>
 		</item>
 		<item>
 			<title>Input For ACRS Review Of NuScale Us460 Reactor Standard Design Approval Application - Draft Safety Evaluation For Chapter 7, "Instrumentation And Control Systems"</title>
@@ -94,41 +94,6 @@
 			<description>Rulemaking-Comment</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2024-11-01 09:26:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA FSER Chapter 14 - ITAAC</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24254A463</link>
-			<description>Safety Evaluation Report</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-10-31 15:31:00</pubDate>
-		</item>
-		<item>
-			<title>ACRS NuScale SDAA FSAR Chapters 3, 8, 14 Subcommittee Meeting - Final</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24305A216</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2024-10-31 15:31:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal of TerraPower Plume Exposure Pathway Emergency Planning Zone Methodology Topical Report, NAT 3056 Revision 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24304B034</link>
-			<description>Letter, Topical Report</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2024-10-31 15:31:00</pubDate>
-		</item>
-		<item>
-			<title>Draft Interim Staff Guidance DRO-ISG-2023-03, "Development of Scalable Human Factors Engineering Review Plans"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22266A072</link>
-			<description>Rulemaking- Proposed Rule</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-10-31 09:45:00</pubDate>
-		</item>
-		<item>
-			<title>Draft Interim Staff Guidance DRO-ISG-2023-02, "ISG Augmenting NUREG-1791, 'Guidance for Assessing Exemption Requests from the Nuclear Power Plant Licensed Operator Staffing Requirements Specified in 10 CFR 50.54(m),' for Licensing Plants under Part 53"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22266A068</link>
-			<description>Policy and Program Guidance, Rulemaking- Proposed Rule</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-10-31 09:45:00</pubDate>
 		</item>
 	</channel>
 </rss>

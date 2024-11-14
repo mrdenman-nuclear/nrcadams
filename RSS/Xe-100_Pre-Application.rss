@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 13 Nov 2024 23:17:03 GMT</pubDate>
-		<lastBuildDate>Wed, 13 Nov 2024 23:17:03 GMT</lastBuildDate>
+		<pubDate>Thu, 14 Nov 2024 14:17:03 GMT</pubDate>
+		<lastBuildDate>Thu, 14 Nov 2024 14:17:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,20 +73,6 @@
 			<description>Letter, Safety Evaluation</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2024-11-01 09:26:00</pubDate>
-		</item>
-		<item>
-			<title>Presubmittal Readiness Assessment Report Of The X Energy, LLC., Xe-100 Graphite Structural Analysis And Qualification Methodologies Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24271A043</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-10-31 09:41:00</pubDate>
-		</item>
-		<item>
-			<title>ENCLOSURE - Readiness Assessment Observations X-energy Xe-100 Graphite Structural Analysis and Qualification Methodologies Draft Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24271A045</link>
-			<description>Topical Report</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-10-31 09:41:00</pubDate>
 		</item>
 	</channel>
 </rss>

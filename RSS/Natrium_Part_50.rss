@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 13 Nov 2024 23:17:03 GMT</pubDate>
-		<lastBuildDate>Wed, 13 Nov 2024 23:17:03 GMT</lastBuildDate>
+		<pubDate>Thu, 14 Nov 2024 14:17:03 GMT</pubDate>
+		<lastBuildDate>Thu, 14 Nov 2024 14:17:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NRC/NRR/DANU, NRC/NSIR/DPR</author>
 			<pubDate>2024-11-05 14:33:00</pubDate>
-		</item>
-		<item>
-			<title>DOE OCED KU1 Preconstruction Initiation Response</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24275A072</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/ETRB1</author>
-			<pubDate>2024-10-31 12:49:00</pubDate>
 		</item>
 	</channel>
 </rss>
