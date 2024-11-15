@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 14 Nov 2024 23:17:25 GMT</pubDate>
-		<lastBuildDate>Thu, 14 Nov 2024 23:17:25 GMT</lastBuildDate>
+		<pubDate>Fri, 15 Nov 2024 14:18:15 GMT</pubDate>
+		<lastBuildDate>Fri, 15 Nov 2024 14:18:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC Audit of Subsurface Investigation Activities at the Palisades Energy Center Project Site</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24317A118</link>
+			<description>Audit Report, Letter</description>
+			<author>NRC/RGN-II/DORS</author>
+			<pubDate>2024-11-15 08:17:00</pubDate>
+		</item>
 		<item>
 			<title>Response Letter Request for Withholding Info 2.390 SMR LLC Holtec - September 11, 2024 - SMR 300 Structural Modularity</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24297A333</link>
@@ -59,13 +66,6 @@
 			<description>Meeting Agenda</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-11-04 08:44:00</pubDate>
-		</item>
-		<item>
-			<title>Response Letter Request for Withholding Info 2.390 SMR LLC Holtec - August 10, 2024 - Nuclear Codes V&V</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24281A014</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-11-01 09:26:00</pubDate>
 		</item>
 	</channel>
 </rss>

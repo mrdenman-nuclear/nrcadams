@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 14 Nov 2024 23:17:23 GMT</pubDate>
-		<lastBuildDate>Thu, 14 Nov 2024 23:17:23 GMT</lastBuildDate>
+		<pubDate>Fri, 15 Nov 2024 14:18:12 GMT</pubDate>
+		<lastBuildDate>Fri, 15 Nov 2024 14:18:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>10/08/2024 Summary of Preapplication Meeting with Westinghouse Electric Company on AP300 SMR Emergency Planning Zone Definition, Memo + Enclosure 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24298A157</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-11-15 08:17:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Audit of Subsurface Investigation Activities at the Palisades Energy Center Project Site</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24317A118</link>
+			<description>Audit Report, Letter</description>
+			<author>NRC/RGN-II/DORS</author>
+			<pubDate>2024-11-15 08:17:00</pubDate>
+		</item>
+		<item>
+			<title>09/27/2028 Summary of Pre-submittal Observation Meeting on Kairos Topical Report, "Operator Training and Testing Program for the Kairos Power Fluoride Salt-Cooled High-Temperature Test Reactors,” and Proposed Exemption</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24282A673</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-11-15 08:16:00</pubDate>
+		</item>
 		<item>
 			<title>NRCs 2nd Acknowledgement Letter NuScale SDAA QAP implementation inspection NOV</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24312A388</link>
@@ -115,27 +136,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2024-11-12 08:09:00</pubDate>
-		</item>
-		<item>
-			<title>09/26/2024 Summary Of Partially Closed Meeting With Oklo To Discuss Concept Of Operations For Oklo's Advanced Reactor Design (EPID L-2022-LRM-0042</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24285A223</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-11-08 14:38:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Information from Public Disclosure for GE Hitachi</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24298A019</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-11-08 14:37:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal of TerraPower, LLC, Topical Report, "Instrumentation and Control Architecture and Design Basis Topical Report," Revision 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24305A009</link>
-			<description>Legal-Affidavit, Letter, Topical Report</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2024-11-08 08:11:00</pubDate>
 		</item>
 	</channel>
 </rss>
