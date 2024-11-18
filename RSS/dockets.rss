@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 15 Nov 2024 22:17:02 GMT</pubDate>
-		<lastBuildDate>Fri, 15 Nov 2024 22:17:02 GMT</lastBuildDate>
+		<pubDate>Mon, 18 Nov 2024 14:17:19 GMT</pubDate>
+		<lastBuildDate>Mon, 18 Nov 2024 14:17:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC, Submittal of "Pipe Rupture Hazards Analysis," TR-121507, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24312A401</link>
+			<description>Legal-Affidavit, Letter, Report, Technical</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-11-18 08:20:00</pubDate>
+		</item>
 		<item>
 			<title>10/08/2024 Summary of Preapplication Meeting with Westinghouse Electric Company on AP300 SMR Emergency Planning Zone Definition, Memo + Enclosure 1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24298A157</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-11-06 08:19:00</pubDate>
-		</item>
-		<item>
-			<title>AP300 White Paper No.9 PRA Presentation Proprietary Review Letter.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24303A406</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-11-06 07:55:00</pubDate>
 		</item>
 	</channel>
 </rss>

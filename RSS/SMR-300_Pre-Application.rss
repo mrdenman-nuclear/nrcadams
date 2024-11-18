@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 15 Nov 2024 22:17:02 GMT</pubDate>
-		<lastBuildDate>Fri, 15 Nov 2024 22:17:02 GMT</lastBuildDate>
+		<pubDate>Mon, 18 Nov 2024 14:17:19 GMT</pubDate>
+		<lastBuildDate>Mon, 18 Nov 2024 14:17:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,41 +31,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-11-05 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - 9/19/24 Meeting Attendees of the Public Meeting with SMR, LLC (Holtec) to Discuss I SET Scaling for the SMR-300 Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24281A005</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-11-04 08:45:00</pubDate>
-		</item>
-		<item>
-			<title>9/19/24 Summary of Public Meeting with SMR, LLC (Holtec) to Discuss I SET Scaling for the SMR-300 Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24281A003</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-11-04 08:44:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Determination Letter for 9-17-24 Request from A. Brenner, SMR, LLC - A Holtec International Company Project 99902049</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24295A029</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-11-04 08:44:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Determination Letter for 9-5-24 Request from A. Brenner, SMR, LLC - A Holtec International Company Project 99902049</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24295A007</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-11-04 08:44:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - 9/19/24 Meeting Agenda of the Public Meeting with SMR, LLC (Holtec) to Discuss I SET Scaling for the SMR-300 Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24281A004</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-11-04 08:44:00</pubDate>
 		</item>
 	</channel>
 </rss>

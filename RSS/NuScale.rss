@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 15 Nov 2024 22:17:08 GMT</pubDate>
-		<lastBuildDate>Fri, 15 Nov 2024 22:17:08 GMT</lastBuildDate>
+		<pubDate>Mon, 18 Nov 2024 14:17:22 GMT</pubDate>
+		<lastBuildDate>Mon, 18 Nov 2024 14:17:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -87,34 +87,6 @@
 			<description>Letter</description>
 			<author>Good Energy Collective </author>
 			<pubDate>2024-11-05 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>Response to Ms. Carrie Fosaaen, Request for the NRC Action to Promptly Enable Construction of ASME Code Items without an Owner</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24204A242</link>
-			<description>Letter, Report, Miscellaneous</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-11-04 08:46:00</pubDate>
-		</item>
-		<item>
-			<title>PSAM17 UNIST panel session presentation on advanced reactor PSA needs</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24304A825</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Ulsan National Institute of Science and Technology (UNIST)</author>
-			<pubDate>2024-11-04 08:45:00</pubDate>
-		</item>
-		<item>
-			<title>PSAM17 Summary of panel session on advanced reactor PSA needs</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24304A829</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Summary</description>
-			<author>NRC/RES/DRA</author>
-			<pubDate>2024-11-04 08:45:00</pubDate>
-		</item>
-		<item>
-			<title>NEI Input on Improvements to Licensing and Oversight Programs</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24302A311</link>
-			<description>Letter, Report, Technical</description>
-			<author>Nuclear Energy Institute (NEI)</author>
-			<pubDate>2024-11-04 08:45:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 15 Nov 2024 22:17:02 GMT</pubDate>
-		<lastBuildDate>Fri, 15 Nov 2024 22:17:02 GMT</lastBuildDate>
+		<pubDate>Mon, 18 Nov 2024 14:17:19 GMT</pubDate>
+		<lastBuildDate>Mon, 18 Nov 2024 14:17:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-11-06 07:55:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Transmittal of Public Session Presentation Slides to Support the Westinghouse-NRC Pre-Submittal Meeting on the Westinghouse AP300 SMR Probabilistic Risk Assessment White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24302A205</link>
-			<description>Slides and Viewgraphs</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2024-11-04 15:37:00</pubDate>
 		</item>
 	</channel>
 </rss>
