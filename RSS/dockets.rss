@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 18 Nov 2024 21:15:57 GMT</pubDate>
-		<lastBuildDate>Mon, 18 Nov 2024 21:15:57 GMT</lastBuildDate>
+		<pubDate>Mon, 18 Nov 2024 22:17:25 GMT</pubDate>
+		<lastBuildDate>Mon, 18 Nov 2024 22:17:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>08/22/2024 Summary of Closed Meeting with X Energy, LLC, To Discuss Civil Structure Design Criteria To Project Long Mott</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24323A149</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-11-18 16:25:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC, Submittal of "Pipe Rupture Hazards Analysis," TR-121507, Revision 1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24312A401</link>
@@ -213,13 +220,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-11-06 15:50:00</pubDate>
-		</item>
-		<item>
-			<title>11/25/2024 Pre-submittal meeting with Kairos Power on the Hermes Test Reactor and the Kairos Power Fluoride Salt-Cooled High Temperature Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24309A196</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-11-06 08:19:00</pubDate>
 		</item>
 	</channel>
 </rss>
