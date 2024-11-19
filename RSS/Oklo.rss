@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 19 Nov 2024 18:22:24 GMT</pubDate>
-		<lastBuildDate>Tue, 19 Nov 2024 18:22:24 GMT</lastBuildDate>
+		<pubDate>Tue, 19 Nov 2024 19:14:25 GMT</pubDate>
+		<lastBuildDate>Tue, 19 Nov 2024 19:14:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>PROBLEM-MISSING /RA/     04/19/2022 Summary of Public Meeting on Staff's Consideration of Options for a Potential Rulemaking on Security for Special Nuclear Material</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22147A034</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NSIR/DPCP</author>
+			<pubDate>2024-11-19 13:33:00</pubDate>
+		</item>
+	</channel>
 </rss>
