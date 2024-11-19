@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 18 Nov 2024 23:17:20 GMT</pubDate>
-		<lastBuildDate>Mon, 18 Nov 2024 23:17:20 GMT</lastBuildDate>
+		<pubDate>Tue, 19 Nov 2024 14:18:08 GMT</pubDate>
+		<lastBuildDate>Tue, 19 Nov 2024 14:18:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC Response to NRC Request for Additional Information No. 14 (RAI-10131 R1) on the NuScale Standard Design Approval Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24313A052</link>
+			<description>Letter, Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-11-19 08:12:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC - Response to NRC Request for Additional Information No. 015 (RAI-10133 R1) on the NuScale Standard Design Approval Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24313A066</link>
+			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-11-19 08:12:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC - Response to NRC Request for Additional Information No. 020 (RAI-10150 R1) on the NuScale Standard Design Approval Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24313A121</link>
+			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-11-19 08:12:00</pubDate>
+		</item>
+		<item>
+			<title>Audit Plan for the Staff Review of the NuScale Power, LLC Standard Design Approval Application - NuScale US460 Design - Related to Changes Made to the Application and Requests for Additional Information</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24311A005</link>
+			<description>Audit Plan, Memoranda</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2024-11-19 07:11:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC, Submittal of "Pipe Rupture Hazards Analysis," TR-121507, Revision 1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24312A401</link>
@@ -24,13 +52,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DRO/IQVB</author>
 			<pubDate>2024-11-14 13:32:00</pubDate>
-		</item>
-		<item>
-			<title>Audit Plan for the Staff Review of the NuScale Power, LLC Standard Design Approval Application - NuScale US460 Design - Related to Changes Made to the Application and Requests for Additional Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24311A005</link>
-			<description>Audit Plan, Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2024-11-14 08:00:00</pubDate>
 		</item>
 		<item>
 			<title>NuScale Power, LLC, Reply to a Notice of Violation, EA-24-057</title>
@@ -52,13 +73,6 @@
 			<description>Legal-Affidavit, Letter, Report, Technical</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2024-11-06 07:54:00</pubDate>
-		</item>
-		<item>
-			<title>ACRS Memo ASER NuScale FSER Chapters 3, 8, 14</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24299A225</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2024-11-05 08:30:00</pubDate>
 		</item>
 	</channel>
 </rss>

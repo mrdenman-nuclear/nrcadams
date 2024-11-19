@@ -5,32 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 18 Nov 2024 23:17:21 GMT</pubDate>
-		<lastBuildDate>Mon, 18 Nov 2024 23:17:21 GMT</lastBuildDate>
+		<pubDate>Tue, 19 Nov 2024 14:18:08 GMT</pubDate>
+		<lastBuildDate>Tue, 19 Nov 2024 14:18:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Tricon Technical Product Guide.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24306A076</link>
-			<description>Meeting Briefing Package/Handouts, Report, Technical, Slides and Viewgraphs</description>
-			<author>Penn State College of Engineering, Pennsylvania State Univ</author>
-			<pubDate>2024-11-05 09:38:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Pre-Submittal 2_Tong.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24306A074</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Penn State College of Engineering, Pennsylvania State Univ</author>
-			<pubDate>2024-11-05 09:38:00</pubDate>
-		</item>
-		<item>
-			<title>NRC_Presubmittal_1_Geuther.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24306A075</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Penn State College of Engineering, Pennsylvania State Univ</author>
-			<pubDate>2024-11-05 09:38:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
