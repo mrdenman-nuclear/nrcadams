@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 19 Nov 2024 23:17:46 GMT</pubDate>
-		<lastBuildDate>Tue, 19 Nov 2024 23:17:46 GMT</lastBuildDate>
+		<pubDate>Wed, 20 Nov 2024 14:17:48 GMT</pubDate>
+		<lastBuildDate>Wed, 20 Nov 2024 14:17:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -108,13 +108,6 @@
 			<description>Report, Technical</description>
 			<author>State of NM</author>
 			<pubDate>2024-11-07 11:46:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Approved TerraPower, LLC, Topical Report, "An Analysis of Potential Volcanic Hazards at the Proposed Natrium Site near Kemmerer, Wyoming"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24303A409</link>
-			<description>Letter, Topical Report</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2024-11-06 07:54:00</pubDate>
 		</item>
 	</channel>
 </rss>

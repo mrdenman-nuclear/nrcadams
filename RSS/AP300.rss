@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 19 Nov 2024 23:17:41 GMT</pubDate>
-		<lastBuildDate>Tue, 19 Nov 2024 23:17:41 GMT</lastBuildDate>
+		<pubDate>Wed, 20 Nov 2024 14:17:44 GMT</pubDate>
+		<lastBuildDate>Wed, 20 Nov 2024 14:17:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-11-15 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>AP300 White Paper No.9 PRA Presentation Proprietary Review Letter.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24303A406</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-11-06 07:55:00</pubDate>
 		</item>
 	</channel>
 </rss>
