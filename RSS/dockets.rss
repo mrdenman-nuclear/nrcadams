@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 20 Nov 2024 20:19:17 GMT</pubDate>
-		<lastBuildDate>Wed, 20 Nov 2024 20:19:17 GMT</lastBuildDate>
+		<pubDate>Wed, 20 Nov 2024 21:16:31 GMT</pubDate>
+		<lastBuildDate>Wed, 20 Nov 2024 21:16:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>12/03/2024 Material Categorization and Physical Protection Approach for Oklo Fuel Recycling Facility</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24325A516</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-11-20 15:31:00</pubDate>
+		</item>
 		<item>
 			<title>Commission Memorandum and Order (CLI-24-03)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24325A378</link>
@@ -210,13 +217,6 @@
 		<item>
 			<title>NuScale Power, LLC, Response to SDAA Audit Question Number A-3.11-5</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A076</link>
-			<description>Audit Report, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-11-19 13:30:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Response to SDAA Audit Question Number A-3.11-6</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A078</link>
 			<description>Audit Report, Response to Request for Additional Information (RAI)</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2024-11-19 13:30:00</pubDate>
