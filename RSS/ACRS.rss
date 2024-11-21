@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 20 Nov 2024 23:17:16 GMT</pubDate>
-		<lastBuildDate>Wed, 20 Nov 2024 23:17:16 GMT</lastBuildDate>
+		<pubDate>Thu, 21 Nov 2024 14:17:49 GMT</pubDate>
+		<lastBuildDate>Thu, 21 Nov 2024 14:17:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,34 +52,6 @@
 			<description>Meeting Briefing Package/Handouts, Meeting Transcript</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-11-14 08:12:00</pubDate>
-		</item>
-		<item>
-			<title>Input For ACRS Review Of NuScale Us460 Reactor Standard Design Approval Application - Draft Safety Evaluation For Chapter 7, "Instrumentation And Control Systems"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24291A115</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-11-07 16:13:00</pubDate>
-		</item>
-		<item>
-			<title>Input For ACRS Review Of The NuScale Standard Design Approval Application - Safety Evaluation Report For Chapter 9, "Auxiliary Systems"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24291A117</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-11-07 16:13:00</pubDate>
-		</item>
-		<item>
-			<title>Input For ACRC Review Of The NuScale Standard Design Approval Application - Safety Evaluation Report For Chapter 18, "Human Factors Engineering"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24291A124</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-11-07 16:13:00</pubDate>
-		</item>
-		<item>
-			<title>Input For ACRS Review Of The NuScale Standard Design Approval Application - Safety Evaluation Report For Chapter 12, "Protection"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24291A120</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-11-07 16:13:00</pubDate>
 		</item>
 	</channel>
 </rss>
