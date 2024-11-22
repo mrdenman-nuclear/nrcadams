@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 21 Nov 2024 23:17:41 GMT</pubDate>
-		<lastBuildDate>Thu, 21 Nov 2024 23:17:41 GMT</lastBuildDate>
+		<pubDate>Fri, 22 Nov 2024 14:18:18 GMT</pubDate>
+		<lastBuildDate>Fri, 22 Nov 2024 14:18:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Reed College, Examination Results Letter No. 50-288/Ol-25-01,</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24255A085</link>
+			<description>Letter, License-Operator Examination Report (Non-Power Reactors Only), License-Operator, Other HQ and Regional Correspondence, License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2024-11-22 08:18:00</pubDate>
+		</item>
+		<item>
+			<title>Reed College, Examination Report Letter No 05000288/2025001</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24255A084</link>
+			<description>Letter, License-Operator Examination Report (Non-Power Reactors Only), License-Operator, Other HQ and Regional Correspondence, License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2024-11-22 08:18:00</pubDate>
+		</item>
+	</channel>
 </rss>
