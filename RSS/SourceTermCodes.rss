@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 22 Nov 2024 23:19:42 GMT</pubDate>
-		<lastBuildDate>Fri, 22 Nov 2024 23:19:42 GMT</lastBuildDate>
+		<pubDate>Mon, 25 Nov 2024 16:24:50 GMT</pubDate>
+		<lastBuildDate>Mon, 25 Nov 2024 16:24:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,48 +52,6 @@
 			<description>Federal Register Notice, Meeting Briefing Package/Handouts</description>
 			<author>NRC/NMSS, NRC/SECY</author>
 			<pubDate>2024-11-20 16:28:00</pubDate>
-		</item>
-		<item>
-			<title>Slides - EPRI RG 1.183 MAAP Supporting Analysis - SC - November 19, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24323A162</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Electric Power Research Institute (EPRI)</author>
-			<pubDate>2024-11-18 16:25:00</pubDate>
-		</item>
-		<item>
-			<title>Slides - HBU Fuel Accident Source Terms Summary - SAND2023-13685PE- SC - November 19, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24323A163</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Sandia National Labs (SNL)</author>
-			<pubDate>2024-11-18 16:25:00</pubDate>
-		</item>
-		<item>
-			<title>Slides - Recent Accident Source Terms - SC - November 19, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24323A165</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Sandia National Labs (SNL)</author>
-			<pubDate>2024-11-18 16:25:00</pubDate>
-		</item>
-		<item>
-			<title>RES Slides - High Burnup Fuel Source Term Accident Analysis Boiling-Water Reactor Follow-On Calculations Source Term Briefing - SC - November 19, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24323A173</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/RES</author>
-			<pubDate>2024-11-18 16:25:00</pubDate>
-		</item>
-		<item>
-			<title>Slides - HBU Fuel Accident Source Terms Summary - SAND2023-13685PE- SC - November 19, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24323A163</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Sandia National Labs (SNL)</author>
-			<pubDate>2024-11-18 16:25:00</pubDate>
-		</item>
-		<item>
-			<title>RES Slides - High Burnup Fuel Source Term Accident Analysis Boiling-Water Reactor Follow-On Calculations Source Term Briefing - SC - November 19, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24323A173</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/RES</author>
-			<pubDate>2024-11-18 16:25:00</pubDate>
 		</item>
 	</channel>
 </rss>
