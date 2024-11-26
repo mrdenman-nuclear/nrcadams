@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 25 Nov 2024 23:18:06 GMT</pubDate>
-		<lastBuildDate>Mon, 25 Nov 2024 23:18:06 GMT</lastBuildDate>
+		<pubDate>Tue, 26 Nov 2024 14:19:37 GMT</pubDate>
+		<lastBuildDate>Tue, 26 Nov 2024 14:19:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>The Curators of The University Of Missouri – U.S. Nuclear Regulatory Commission Safety Inspection Report 05000186/2024202</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24274A072</link>
-			<description>Inspection Report, Letter</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2024-11-12 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>The Curators Of The University Of Missouri - U.S. Nuclear Regulatory Commission Security Inspection Report No. 05000186/2024410 (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24276A036</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2024-11-12 08:10:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
