@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 26 Nov 2024 23:17:36 GMT</pubDate>
-		<lastBuildDate>Tue, 26 Nov 2024 23:17:36 GMT</lastBuildDate>
+		<pubDate>Wed, 27 Nov 2024 14:18:45 GMT</pubDate>
+		<lastBuildDate>Wed, 27 Nov 2024 14:18:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>12/03/2024 Material Categorization and Physical Protection Approach for Oklo Fuel Recycling Facility</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24332A023</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-11-27 08:33:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 2: Affidavit</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24320A140</link>
@@ -24,13 +31,6 @@
 			<description>Letter</description>
 			<author>Oklo Inc</author>
 			<pubDate>2024-11-25 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>12/03/2024 Material Categorization and Physical Protection Approach for Oklo Fuel Recycling Facility</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24325A516</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-11-20 15:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

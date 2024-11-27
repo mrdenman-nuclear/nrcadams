@@ -5,12 +5,61 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 26 Nov 2024 23:17:36 GMT</pubDate>
-		<lastBuildDate>Tue, 26 Nov 2024 23:17:36 GMT</lastBuildDate>
+		<pubDate>Wed, 27 Nov 2024 14:18:45 GMT</pubDate>
+		<lastBuildDate>Wed, 27 Nov 2024 14:18:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>12/03/2024 Material Categorization and Physical Protection Approach for Oklo Fuel Recycling Facility</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24332A023</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-11-27 08:33:00</pubDate>
+		</item>
+		<item>
+			<title>US SFR Owner, LLC – Kemmerer Power Station Unit 1 Construction Permit Application Revised Resource Estimate (EPIDS: L-2024-CPS-0000 AND L-2024-LNE-0002)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24304A977</link>
+			<description>Letter</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-11-27 08:32:00</pubDate>
+		</item>
+		<item>
+			<title>Request For Withholding Proprietary Information For TEUSA Regulatory Engagement Plan Version 8 Submitted On November 4 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24323A071</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2024-11-27 07:54:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Form 897: Request for Withholding Proprietary Information from Public Disclosure - TerraPower, LLC Topical Report, NAT-9392, "Radiological Source Term Methodology Report," Revision 0 (EPID: L-2023-TOP-0046)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24267A254</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-11-27 07:53:00</pubDate>
+		</item>
+		<item>
+			<title>Email: Request for Withholding Proprietary Information from Public Disclosure - TerraPower, LLC Topical Report-9392, "Radiological Source Term Methodology Report," Revision 0 (EPID: L-2023-TOP-0046)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24267A247</link>
+			<description>E-Mail, Proprietary Information Review</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-11-27 07:53:00</pubDate>
+		</item>
+		<item>
+			<title>Request For Withholding Proprietary Information From Public Disclosure – TerraPower, LLC Responses To U.S. Nuclear Regulatory Commission Audit Questions On Kemmerer Power Station Unit 1 Preliminary Safety Analysis Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24270A210</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-11-27 07:53:00</pubDate>
+		</item>
+		<item>
+			<title>Kairos Power LLC, Presentation Materials for Kairos Power Meeting on Limitations and Conditions for Metallic Material Qualification Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24324A374</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2024-11-27 07:53:00</pubDate>
+		</item>
 		<item>
 			<title>Triso-X, LLC, Supplemental Information for Structural RAI Responses</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24306A153</link>
@@ -168,55 +217,6 @@
 		<item>
 			<title>NuScale Power, LLC, Response to SDAA Audit Question Number A-5.3.2.3-1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A109</link>
-			<description>Audit Report, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-11-21 15:46:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Response to SDAA Audit Question Number A-5.3.2.4-1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A110</link>
-			<description>Audit Report, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-11-21 15:46:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Response to SDAA Audit Question Number A-5.2.5-2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A105</link>
-			<description>Audit Report, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-11-21 15:46:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Response to SDAA Audit Question Number A-5.4-1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A112</link>
-			<description>Audit Report, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-11-21 15:46:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Response to SDAA Audit Question Number A-5.4-3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A114</link>
-			<description>Audit Report, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-11-21 15:46:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Response to SDAA Audit Question Number A-5.4-6</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A115</link>
-			<description>Audit Report, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-11-21 15:46:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Response to SDAA Audit Question Number A-5.4-8</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A116</link>
-			<description>Audit Report, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-11-21 15:46:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Response to SDAA Audit Question Number A-5.4.1-1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A117</link>
 			<description>Audit Report, Response to Request for Additional Information (RAI)</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2024-11-21 15:46:00</pubDate>

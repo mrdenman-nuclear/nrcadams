@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 26 Nov 2024 23:17:40 GMT</pubDate>
-		<lastBuildDate>Tue, 26 Nov 2024 23:17:40 GMT</lastBuildDate>
+		<pubDate>Wed, 27 Nov 2024 14:18:50 GMT</pubDate>
+		<lastBuildDate>Wed, 27 Nov 2024 14:18:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,13 +52,6 @@
 			<description>Slides and Viewgraphs</description>
 			<author>NRC/RES/DSA/AAB</author>
 			<pubDate>2024-11-14 13:32:00</pubDate>
-		</item>
-		<item>
-			<title>Orano Enrichment USA, LLC, IKE Enrichment Facility Pre-application meeting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24313A222</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Orano Enrichment USA, LLC</author>
-			<pubDate>2024-11-13 16:05:00</pubDate>
 		</item>
 	</channel>
 </rss>
