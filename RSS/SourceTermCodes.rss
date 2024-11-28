@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 27 Nov 2024 23:17:17 GMT</pubDate>
-		<lastBuildDate>Wed, 27 Nov 2024 23:17:17 GMT</lastBuildDate>
+		<pubDate>Thu, 28 Nov 2024 14:20:06 GMT</pubDate>
+		<lastBuildDate>Thu, 28 Nov 2024 14:20:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,34 +73,6 @@
 			<description>Updated Final Safety Analysis Report (UFSAR)</description>
 			<author>Pacific Gas and Electric Co</author>
 			<pubDate>2024-11-25 16:29:00</pubDate>
-		</item>
-		<item>
-			<title>Summary Report for the 719th Meeting of the Advisory Committee on Reactor Safeguards October 2 through 3, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24309A242</link>
-			<description>ACRS Summary Report, Meeting Summary</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-11-21 15:47:00</pubDate>
-		</item>
-		<item>
-			<title>Revised Draft SE Natrium EPZ TR</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24325A377</link>
-			<description>Safety Evaluation Report, Draft</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-11-21 15:46:00</pubDate>
-		</item>
-		<item>
-			<title>Revised Draft SE Natrium EPZ TR</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24325A377</link>
-			<description>Safety Evaluation Report, Draft</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-11-21 15:46:00</pubDate>
-		</item>
-		<item>
-			<title>Certified Index of the Record</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24326A110</link>
-			<description>Legal-Report</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-11-21 15:46:00</pubDate>
 		</item>
 	</channel>
 </rss>

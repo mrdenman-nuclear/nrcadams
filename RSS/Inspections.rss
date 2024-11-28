@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 27 Nov 2024 23:17:17 GMT</pubDate>
-		<lastBuildDate>Wed, 27 Nov 2024 23:17:17 GMT</lastBuildDate>
+		<pubDate>Thu, 28 Nov 2024 14:20:06 GMT</pubDate>
+		<lastBuildDate>Thu, 28 Nov 2024 14:20:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,27 +31,6 @@
 			<description>Inspection Manual</description>
 			<author>NRC/NRR/DRO/IRAB</author>
 			<pubDate>2024-11-25 16:30:00</pubDate>
-		</item>
-		<item>
-			<title>IP 93002 Managing Fatigue</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24296A468</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IQVB</author>
-			<pubDate>2024-11-21 16:24:00</pubDate>
-		</item>
-		<item>
-			<title>Table of Contents for Inspection Manual Change Notice 24-036</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24326A064</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRIB</author>
-			<pubDate>2024-11-21 16:24:00</pubDate>
-		</item>
-		<item>
-			<title>IP 71111.18, Plant Modifications</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24267A282</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRIB</author>
-			<pubDate>2024-11-21 16:24:00</pubDate>
 		</item>
 	</channel>
 </rss>

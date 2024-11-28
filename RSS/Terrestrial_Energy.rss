@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 27 Nov 2024 23:17:16 GMT</pubDate>
-		<lastBuildDate>Wed, 27 Nov 2024 23:17:16 GMT</lastBuildDate>
+		<pubDate>Thu, 28 Nov 2024 14:20:05 GMT</pubDate>
+		<lastBuildDate>Thu, 28 Nov 2024 14:20:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -101,34 +101,6 @@
 			<description>NUREG</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2024-11-15 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>SECY-24-0094: Weekly Information Report Week Ending November 8, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24317A279</link>
-			<description>Commission SECY Paper</description>
-			<author>NRC/EDO/AO</author>
-			<pubDate>2024-11-14 16:24:00</pubDate>
-		</item>
-		<item>
-			<title>Diablo Canyon License Renewal - Draft Supplemental Environmental Impact Statement Public Meeting Slides - November 14, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24319A009</link>
-			<description>Slides and Viewgraphs</description>
-			<author>NRC/NMSS/DREFS/EPMB1</author>
-			<pubDate>2024-11-14 08:56:00</pubDate>
-		</item>
-		<item>
-			<title>Columbia Generating Station - Environmental Assessment and Finding of No Significant Impact Related to License Amendment Request to Revise Emergency Plan (EPID L-2024-LLA-0011) - Letter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24234A029</link>
-			<description>Environmental Assessment, Letter</description>
-			<author>NRC/NRR/DORL/LPLIV</author>
-			<pubDate>2024-11-14 08:00:00</pubDate>
-		</item>
-		<item>
-			<title>11/7/2024; 11/13/2024; 11/14/2024 - NRC Presentation for Generic Environmental Impact Statement for Licensing of New Nuclear Reactors Proposed Rule</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24284A346</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NMSS/DREFS/RRPB</author>
-			<pubDate>2024-11-14 07:18:00</pubDate>
 		</item>
 	</channel>
 </rss>
