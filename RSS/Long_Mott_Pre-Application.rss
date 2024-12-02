@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 29 Nov 2024 23:19:36 GMT</pubDate>
-		<lastBuildDate>Fri, 29 Nov 2024 23:19:36 GMT</lastBuildDate>
+		<pubDate>Mon, 02 Dec 2024 14:19:47 GMT</pubDate>
+		<lastBuildDate>Mon, 02 Dec 2024 14:19:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2024-11-27 16:07:00</pubDate>
-		</item>
-		<item>
-			<title>08/22/2024 Summary of Closed Meeting with X Energy, LLC, To Discuss Civil Structure Design Criteria To Project Long Mott</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24323A149</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-11-18 16:25:00</pubDate>
 		</item>
 	</channel>
 </rss>
