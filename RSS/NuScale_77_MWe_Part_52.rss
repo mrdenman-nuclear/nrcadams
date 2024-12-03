@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 02 Dec 2024 23:19:49 GMT</pubDate>
-		<lastBuildDate>Mon, 02 Dec 2024 23:19:49 GMT</lastBuildDate>
+		<pubDate>Tue, 03 Dec 2024 14:17:37 GMT</pubDate>
+		<lastBuildDate>Tue, 03 Dec 2024 14:17:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC Submittal of "US460 NuScale Power Module Seismic Analysis," TR-121515, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24327A036</link>
+			<description>Legal-Affidavit, Letter, Report, Technical</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-12-03 08:14:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC Submittal of the NRC's Request for Docketing of Resolved Audit Responses</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24326A093</link>
@@ -213,13 +220,6 @@
 			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2024-11-29 08:59:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Responses to NRC Request for Additional Information No. 024 (RAI-10185 R1) on the NuScale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24327A149</link>
-			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-11-25 16:30:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 02 Dec 2024 23:19:55 GMT</pubDate>
-		<lastBuildDate>Mon, 02 Dec 2024 23:19:55 GMT</lastBuildDate>
+		<pubDate>Tue, 03 Dec 2024 14:17:41 GMT</pubDate>
+		<lastBuildDate>Tue, 03 Dec 2024 14:17:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>11/7/2024 - Public Meeting Transcript for Generic Environmental Impact Statement for Licensing of New Nuclear Reactors Proposed Rule</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24284A344</link>
+			<description>Meeting Transcript</description>
+			<author>NRC/NMSS/DREFS/RRPB</author>
+			<pubDate>2024-12-03 08:15:00</pubDate>
+		</item>
 		<item>
 			<title>Clinton, Unit 1, Response to NRC Request for Additional Information, dated October 23, 2024, regarding the License Renewal Application, Environmental Requests for Additional Information – Environmental Review</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24326A275</link>
@@ -94,13 +101,6 @@
 			<description>Letter</description>
 			<author>Duke Energy, Duke Energy Carolinas, LLC</author>
 			<pubDate>2024-11-21 08:16:00</pubDate>
-		</item>
-		<item>
-			<title>2024/11/07 Palisades Restart LA Docs - Palisades Scoping Posters</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24312A242</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2024-11-19 08:12:00</pubDate>
 		</item>
 	</channel>
 </rss>

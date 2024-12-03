@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 02 Dec 2024 23:19:55 GMT</pubDate>
-		<lastBuildDate>Mon, 02 Dec 2024 23:19:55 GMT</lastBuildDate>
+		<pubDate>Tue, 03 Dec 2024 14:17:41 GMT</pubDate>
+		<lastBuildDate>Tue, 03 Dec 2024 14:17:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Commission Meeting Transcript</description>
 			<author>NRC/OCM</author>
 			<pubDate>2024-11-20 16:28:00</pubDate>
-		</item>
-		<item>
-			<title>Correction to St. Lucie L-2024-132, 2024 Population Update Analysis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24296B197</link>
-			<description>Evacuation Time Estimate/Report (ETE), Letter</description>
-			<author>Florida Power and Light Co</author>
-			<pubDate>2024-11-19 16:09:00</pubDate>
 		</item>
 	</channel>
 </rss>
