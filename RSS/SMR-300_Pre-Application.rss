@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 03 Dec 2024 23:18:29 GMT</pubDate>
-		<lastBuildDate>Tue, 03 Dec 2024 23:18:29 GMT</lastBuildDate>
+		<pubDate>Wed, 04 Dec 2024 14:19:56 GMT</pubDate>
+		<lastBuildDate>Wed, 04 Dec 2024 14:19:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,34 +38,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-11-22 08:18:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3 - 10/01/2024 Meeting Summary of the Public Meeting with SMR, LLC (Holtec) to Discuss CRDS Testing for the SMR-300 Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24303A356</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-11-20 07:52:00</pubDate>
-		</item>
-		<item>
-			<title>10/01/2024 Summary of Public Meeting with SMR, LLC (Holtec) to Discuss CRDS Testing for the SMR-300 Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24303A353</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-11-20 07:51:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - 10/01/2024 Meeting Agenda of the Public Meeting with SMR, LLC (Holtec) to Discuss CRDS Testing for the SMR-300 Design/01/2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24303A354</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-11-20 07:51:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - 10/01/2024 Meeting Attendees of the Public Meeting with SMR, LLC (Holtec) to Discuss CRDS Testing for the SMR-300 Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24303A355</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-11-20 07:51:00</pubDate>
 		</item>
 	</channel>
 </rss>

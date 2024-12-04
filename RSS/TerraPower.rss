@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 03 Dec 2024 23:18:36 GMT</pubDate>
-		<lastBuildDate>Tue, 03 Dec 2024 23:18:36 GMT</lastBuildDate>
+		<pubDate>Wed, 04 Dec 2024 14:20:01 GMT</pubDate>
+		<lastBuildDate>Wed, 04 Dec 2024 14:20:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,13 +73,6 @@
 			<description>ACRS Summary Report, Meeting Summary</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-11-21 15:47:00</pubDate>
-		</item>
-		<item>
-			<title>M241114: Transcript - Briefing on Strategic Programmatic Overview of the Operating Reactors and New Reactors Business Lines</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24325A523</link>
-			<description>Commission Meeting Transcript</description>
-			<author>NRC/OCM</author>
-			<pubDate>2024-11-20 16:28:00</pubDate>
 		</item>
 	</channel>
 </rss>
