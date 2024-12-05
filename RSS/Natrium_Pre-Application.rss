@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 04 Dec 2024 23:20:18 GMT</pubDate>
-		<lastBuildDate>Wed, 04 Dec 2024 23:20:18 GMT</lastBuildDate>
+		<pubDate>Thu, 05 Dec 2024 14:19:08 GMT</pubDate>
+		<lastBuildDate>Thu, 05 Dec 2024 14:19:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>E-Mail, Proprietary Information Review</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-11-27 07:53:00</pubDate>
-		</item>
-		<item>
-			<title>Revised Draft SE Natrium EPZ TR</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24325A377</link>
-			<description>Safety Evaluation Report, Draft</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-11-21 15:46:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 04 Dec 2024 23:20:25 GMT</pubDate>
-		<lastBuildDate>Wed, 04 Dec 2024 23:20:25 GMT</lastBuildDate>
+		<pubDate>Thu, 05 Dec 2024 14:19:13 GMT</pubDate>
+		<lastBuildDate>Thu, 05 Dec 2024 14:19:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NUREG-0750, Vol. 99, "Nuclear Regulatory Commission Issuances: Opinions and Decisions of the Nuclear Regulatory Commission with Selected Orders (January 1, 2024 - June 30, 2024)"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24338A185</link>
+			<description>NUREG</description>
+			<author>NRC/ADM</author>
+			<pubDate>2024-12-05 07:53:00</pubDate>
+		</item>
 		<item>
 			<title>11/7/2024 - Public Meeting Transcript for Generic Environmental Impact Statement for Licensing of New Nuclear Reactors Proposed Rule</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24284A344</link>
@@ -73,34 +80,6 @@
 			<description>Report, Technical</description>
 			<author>Constellation Energy Generation, LLC</author>
 			<pubDate>2024-11-22 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC - Construction Permit for Hermes 2 Test Reactor Unit 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24324A021</link>
-			<description>Environmental Protection Plan, License-Construction Permit (CP)(New/Extension/Amendment) DKT 50</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-11-21 15:46:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC - Construction Permit for Hermes 2 Test Reactor Unit 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24324A022</link>
-			<description>Environmental Protection Plan, License-Construction Permit (CP)(New/Extension/Amendment) DKT 50</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-11-21 15:46:00</pubDate>
-		</item>
-		<item>
-			<title>Certified Index of the Record</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24326A110</link>
-			<description>Legal-Report</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-11-21 15:46:00</pubDate>
-		</item>
-		<item>
-			<title>William States Lee III Nuclear Station, Units 1 and 2 - Notification of U.S. Army Corps of Engineers Permit Change</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24318C475</link>
-			<description>Letter</description>
-			<author>Duke Energy, Duke Energy Carolinas, LLC</author>
-			<pubDate>2024-11-21 08:16:00</pubDate>
 		</item>
 	</channel>
 </rss>

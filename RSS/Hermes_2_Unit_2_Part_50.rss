@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 04 Dec 2024 23:20:19 GMT</pubDate>
-		<lastBuildDate>Wed, 04 Dec 2024 23:20:19 GMT</lastBuildDate>
+		<pubDate>Thu, 05 Dec 2024 14:19:08 GMT</pubDate>
+		<lastBuildDate>Thu, 05 Dec 2024 14:19:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,20 +17,6 @@
 			<description>Press Release</description>
 			<author>NRC/OPA</author>
 			<pubDate>2024-12-02 16:04:00</pubDate>
-		</item>
-		<item>
-			<title>Letter - Kairos Power LLC - Issuance of Construction Permits for the Hermes 2 Test Reactor Facility</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24324A020</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-11-21 15:46:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC - Construction Permit for Hermes 2 Test Reactor Unit 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24324A022</link>
-			<description>Environmental Protection Plan, License-Construction Permit (CP)(New/Extension/Amendment) DKT 50</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-11-21 15:46:00</pubDate>
 		</item>
 	</channel>
 </rss>
