@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 06 Dec 2024 19:16:49 GMT</pubDate>
-		<lastBuildDate>Fri, 06 Dec 2024 19:16:49 GMT</lastBuildDate>
+		<pubDate>Fri, 06 Dec 2024 20:20:41 GMT</pubDate>
+		<lastBuildDate>Fri, 06 Dec 2024 20:20:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale SDAA AIA Inspection Announcement Letter</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24327A183</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DRO/IQVB</author>
+			<pubDate>2024-12-06 14:21:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC Submittal of "US460 NuScale Power Module Seismic Analysis," TR-121515, Revision 1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24327A036</link>
@@ -213,13 +220,6 @@
 			<description>Letter, Quality Assurance Program</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2024-12-02 08:15:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Response to NRC Request for Additional Information No. 036 (RAI-10350 R1) on the NuScale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24325A593</link>
-			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-11-29 08:59:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 06 Dec 2024 19:16:49 GMT</pubDate>
-		<lastBuildDate>Fri, 06 Dec 2024 19:16:49 GMT</lastBuildDate>
+		<pubDate>Fri, 06 Dec 2024 20:20:41 GMT</pubDate>
+		<lastBuildDate>Fri, 06 Dec 2024 20:20:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale SDAA AIA Inspection Announcement Letter</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24327A183</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DRO/IQVB</author>
+			<pubDate>2024-12-06 14:21:00</pubDate>
+		</item>
+		<item>
+			<title>NRC 897 Withholding Determination Form for the GE-Hitachi Nuclear Energy Americas and Global Nuclear Fuel Americas 2024 Presentations ACRS Tech Update Meeting</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24325A558</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DORL/LLPB</author>
+			<pubDate>2024-12-06 14:21:00</pubDate>
+		</item>
+		<item>
+			<title>NRC 897 Withholding Determination Form for the GE-Hitachi Nuclear Energy Americas and Global Nuclear Fuel Americas 2024 Presentations Tech Update Meeting Enclosure 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24325A562</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DORL/LLPB</author>
+			<pubDate>2024-12-06 14:21:00</pubDate>
+		</item>
+		<item>
+			<title>NRC 897 Withholding Determination Form for the GE-Hitachi Nuclear Energy Americas and Global Nuclear Fuel Americas 2024 Presentations Tech Update Meeting Enclosure 5</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24325A564</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DORL/LLPB</author>
+			<pubDate>2024-12-06 14:21:00</pubDate>
+		</item>
 		<item>
 			<title>2024/11/29 Oklo SNF Reprocessing Docs - Request for Withholding Information from Public Disclosure for Oklo Inc. Presentation Materials for the December 3, 2024 Meeting</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24334A036</link>
@@ -192,34 +220,6 @@
 			<description>Press Release</description>
 			<author>NRC/OPA</author>
 			<pubDate>2024-12-02 16:04:00</pubDate>
-		</item>
-		<item>
-			<title>News Release-24-081:  NRC To Issue Construction Permits for Kairos Hermes 2 Test Facility in Tennessee</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24337A139</link>
-			<description>Press Release</description>
-			<author>NRC/OPA</author>
-			<pubDate>2024-12-02 16:04:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Submittal of the NRC's Request for Docketing of Resolved Audit Responses</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24326A093</link>
-			<description>Letter</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-12-02 08:15:00</pubDate>
-		</item>
-		<item>
-			<title>Response to NuScale Technical Report Audit Question Number: A-16-9</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24326A094</link>
-			<description>Response to Request for Additional Information (RAI), Audit Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-12-02 08:15:00</pubDate>
-		</item>
-		<item>
-			<title>Response to NuScale Technical Report Audit Question Number: A-16-13</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24326A095</link>
-			<description>Response to Request for Additional Information (RAI), Audit Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-12-02 08:15:00</pubDate>
 		</item>
 	</channel>
 </rss>
