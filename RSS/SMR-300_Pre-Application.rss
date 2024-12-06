@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 05 Dec 2024 23:18:52 GMT</pubDate>
-		<lastBuildDate>Thu, 05 Dec 2024 23:18:52 GMT</lastBuildDate>
+		<pubDate>Fri, 06 Dec 2024 14:19:00 GMT</pubDate>
+		<lastBuildDate>Fri, 06 Dec 2024 14:19:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,27 +24,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NMSS/DREFS/EPMB3</author>
 			<pubDate>2024-12-02 16:31:00</pubDate>
-		</item>
-		<item>
-			<title>Memo-9-10-24 Public Meeting Summary SMR Holtec Nuclear Codes V&V</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24297A285</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-11-22 08:18:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: 9-10-24 Agenda - SMR Holtec Nuclear Codes V&V</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24297A287</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-11-22 08:18:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: 9-10-24 Attendees - MR Holtec Nuclear Codes V&V</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24297A289</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-11-22 08:18:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 05 Dec 2024 23:18:52 GMT</pubDate>
-		<lastBuildDate>Thu, 05 Dec 2024 23:18:52 GMT</lastBuildDate>
+		<pubDate>Fri, 06 Dec 2024 14:19:00 GMT</pubDate>
+		<lastBuildDate>Fri, 06 Dec 2024 14:19:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Letter, Proprietary Information Review</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2024-11-27 07:53:00</pubDate>
-		</item>
-		<item>
-			<title>Issuance of Environmental Scoping Summary Report Associated With the U.S. Nuclear Regulatory Commission Staffs Review of the Us SFR Owner, LLC Construction Permit For Kemmerer Unit 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24271A031</link>
-			<description>Memoranda</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2024-11-22 16:07:00</pubDate>
-		</item>
-		<item>
-			<title>Scoping Summary Report, Kemmerer Power Station Unit 1 Construction Permit, Kemmerer, Wyoming</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24274A253</link>
-			<description>Environmental Impact Statement</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2024-11-22 16:07:00</pubDate>
 		</item>
 	</channel>
 </rss>

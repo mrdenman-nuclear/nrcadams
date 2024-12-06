@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 05 Dec 2024 23:18:55 GMT</pubDate>
-		<lastBuildDate>Thu, 05 Dec 2024 23:18:55 GMT</lastBuildDate>
+		<pubDate>Fri, 06 Dec 2024 14:19:05 GMT</pubDate>
+		<lastBuildDate>Fri, 06 Dec 2024 14:19:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,27 +73,6 @@
 			<description>Environmental Assessment, Report, Technical</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2024-11-25 12:53:00</pubDate>
-		</item>
-		<item>
-			<title>Scoping Summary Report, Kemmerer Power Station Unit 1 Construction Permit, Kemmerer, Wyoming</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24274A253</link>
-			<description>Environmental Impact Statement</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2024-11-22 16:07:00</pubDate>
-		</item>
-		<item>
-			<title>Millstone, Unit 3, Current Facility Operating License NPF-49, Tech Specs, Revised 11/22/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052720310</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-11-22 15:18:00</pubDate>
-		</item>
-		<item>
-			<title>Attachment: Peach Bottom Atomic Power Station Units 2 and 3 Subsequent License Renewal Environmental Report Additional Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24319A076</link>
-			<description>Report, Technical</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2024-11-22 08:17:00</pubDate>
 		</item>
 	</channel>
 </rss>
