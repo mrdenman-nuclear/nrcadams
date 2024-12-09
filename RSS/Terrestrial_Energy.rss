@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 06 Dec 2024 23:18:54 GMT</pubDate>
-		<lastBuildDate>Fri, 06 Dec 2024 23:18:54 GMT</lastBuildDate>
+		<pubDate>Mon, 09 Dec 2024 14:20:15 GMT</pubDate>
+		<lastBuildDate>Mon, 09 Dec 2024 14:20:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,13 +66,6 @@
 			<description>NUREG, Draft</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2024-11-26 13:49:00</pubDate>
-		</item>
-		<item>
-			<title>GEH Vallecitos Boiling Water Reactor License Termination Plan Environmental Assessment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24274A192</link>
-			<description>Environmental Assessment, Report, Technical</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-11-25 12:53:00</pubDate>
 		</item>
 	</channel>
 </rss>

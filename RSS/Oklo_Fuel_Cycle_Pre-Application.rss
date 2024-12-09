@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 06 Dec 2024 23:18:49 GMT</pubDate>
-		<lastBuildDate>Fri, 06 Dec 2024 23:18:49 GMT</lastBuildDate>
+		<pubDate>Mon, 09 Dec 2024 14:20:09 GMT</pubDate>
+		<lastBuildDate>Mon, 09 Dec 2024 14:20:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>ML24332A015 - Withholding Determination Oklo Safety Analysis White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24332A015</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-12-09 07:52:00</pubDate>
+		</item>
 		<item>
 			<title>2024/11/29 Oklo SNF Reprocessing Docs - Request for Withholding Information from Public Disclosure for Oklo Inc. Presentation Materials for the December 3, 2024 Meeting</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24334A036</link>
@@ -45,20 +52,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-11-27 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24320A140</link>
-			<description>Legal-Affidavit</description>
-			<author>Oklo Inc</author>
-			<pubDate>2024-11-25 08:12:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal of Slides for the December 3, 2024 Meeting on Oklo's Regulatory Approach for Material Categorization and Physical Protection for the Oklo Fuel Recycling Facility</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24320A139</link>
-			<description>Letter</description>
-			<author>Oklo Inc</author>
-			<pubDate>2024-11-25 08:11:00</pubDate>
 		</item>
 	</channel>
 </rss>
