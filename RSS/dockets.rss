@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 10 Dec 2024 14:20:20 GMT</pubDate>
-		<lastBuildDate>Tue, 10 Dec 2024 14:20:20 GMT</lastBuildDate>
+		<pubDate>Tue, 10 Dec 2024 15:21:02 GMT</pubDate>
+		<lastBuildDate>Tue, 10 Dec 2024 15:21:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>12/16/2024 Alignment on ISA Update from TRISO-X Audit Meeting Discussions</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24345A035</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2024-12-10 09:29:00</pubDate>
+		</item>
 		<item>
 			<title>Response to Request for Withholding Proprietary Information from Public Disclosure, “Transmittal of Westinghouse AP300 SMR Emergency Planning Zone Definition White Paper for Pre-Application Engagement”</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24333A010</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24327A036</link>
 			<description>Legal-Affidavit, Letter, Report, Technical</description>
 			<author>NuScale Power, LLC</author>
-			<pubDate>2024-12-03 08:14:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Affidavit regarding request for withholding for "Safety Basis Development Approach for the Oklo Fuel Recycling Facility" White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24327A265</link>
-			<description>Legal-Affidavit</description>
-			<author>Oklo Inc</author>
 			<pubDate>2024-12-03 08:14:00</pubDate>
 		</item>
 	</channel>
