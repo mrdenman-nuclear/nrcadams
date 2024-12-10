@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 09 Dec 2024 23:19:59 GMT</pubDate>
-		<lastBuildDate>Mon, 09 Dec 2024 23:19:59 GMT</lastBuildDate>
+		<pubDate>Tue, 10 Dec 2024 14:20:22 GMT</pubDate>
+		<lastBuildDate>Tue, 10 Dec 2024 14:20:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,27 +73,6 @@
 			<description>Committee Letter Report, Letter</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-11-27 11:54:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of the Advisory Committee on Reactor Safeguards 720th Full Committee Meeting, November 6, 2024, Pages 1-115 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24331A143</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-11-26 16:25:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of the Advisory Committee on Reactor Safeguards 720th Full Committee Meeting, November 7, 2024, Pages 1-114 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24331A156</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-11-26 16:25:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of the Advisory Committee on Reactor Safeguards - NuScale Design-Centered Review Subcommittee Meeting, November 5, 2024, Pages 1-241 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24331A098</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-11-26 13:50:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 09 Dec 2024 23:20:02 GMT</pubDate>
-		<lastBuildDate>Mon, 09 Dec 2024 23:20:02 GMT</lastBuildDate>
+		<pubDate>Tue, 10 Dec 2024 14:20:28 GMT</pubDate>
+		<lastBuildDate>Tue, 10 Dec 2024 14:20:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Transcript of Virtual Public Meeting ADVANCE Act Section 206</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24340A261</link>
+			<description>Meeting Transcript</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2024-12-10 07:48:00</pubDate>
+		</item>
 		<item>
 			<title>11-13-24 Public Meeting Summary RE: Generic Environmental Impact Statement for Licensing of New Nuclear Reactors</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24284A348</link>
@@ -45,27 +52,6 @@
 			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-12-02 16:04:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of the Advisory Committee on Reactor Safeguards 720th Full Committee Meeting, November 7, 2024, Pages 1-114 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24331A156</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-11-26 16:25:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of the Advisory Committee on Reactor Safeguards - NuScale Design-Centered Review Subcommittee Meeting, November 5, 2024, Pages 1-241 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24331A098</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-11-26 13:50:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-1437 DFC, Supplement 15, Second Renewal, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants: Regarding Subsequent License Renewal for Virgil C. Summer Nuclear Station, Unit 1"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24330A271</link>
-			<description>NUREG, Draft</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-11-26 13:49:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 09 Dec 2024 23:19:58 GMT</pubDate>
-		<lastBuildDate>Mon, 09 Dec 2024 23:19:58 GMT</lastBuildDate>
+		<pubDate>Tue, 10 Dec 2024 14:20:20 GMT</pubDate>
+		<lastBuildDate>Tue, 10 Dec 2024 14:20:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Response to Request for Withholding Proprietary Information from Public Disclosure, “Transmittal of Westinghouse AP300 SMR Emergency Planning Zone Definition White Paper for Pre-Application Engagement”</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24333A010</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-12-10 07:48:00</pubDate>
+		</item>
+		<item>
+			<title>2024/12/03 Oklo SNF Reprocessing Docs - Request for Withholding Information from Public Disclosure for Oklo Safety Analysis White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24338A211</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2024-12-10 07:48:00</pubDate>
+		</item>
+		<item>
+			<title>2024/11/26 NRR E-mail Capture - [External_Sender] RE: Revised Schedule for TerraPower Topical Report Instrumentation and Control Architecture and Design Basis Topical Report,  Rev. 2 (L-2024-TOP-0006)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24331A207</link>
+			<description>E-Mail</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2024-12-10 07:47:00</pubDate>
+		</item>
 		<item>
 			<title>2024/11/25 NuScale NPM-20 - FW LTR Status</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24330A023</link>
@@ -199,27 +220,6 @@
 			<description>Legal-Affidavit</description>
 			<author>Oklo Inc</author>
 			<pubDate>2024-12-03 08:14:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo, Inc., "Safety Basis Development Approach for the Oklo Fuel Recycling Facility" White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24327A266</link>
-			<description>Letter</description>
-			<author>Oklo Inc</author>
-			<pubDate>2024-12-03 08:14:00</pubDate>
-		</item>
-		<item>
-			<title>SMR Holtec Public Meeting Summary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24312A207</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2024-12-02 16:31:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal of Presentation Slides to Support the Westinghouse-NRC Pre-Submittal Meeting on the Westinghouse AP300 SMR Emergency Planning Zone Definition White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24276A226</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2024-12-02 16:04:00</pubDate>
 		</item>
 	</channel>
 </rss>

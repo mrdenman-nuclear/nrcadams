@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 09 Dec 2024 23:20:02 GMT</pubDate>
-		<lastBuildDate>Mon, 09 Dec 2024 23:20:02 GMT</lastBuildDate>
+		<pubDate>Tue, 10 Dec 2024 14:20:28 GMT</pubDate>
+		<lastBuildDate>Tue, 10 Dec 2024 14:20:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC Presentation - Section 206 of the ADVANCE Act - Evaluation of Potential Regulatory Issues at Brownfield Sites</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24340A140</link>
+			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2024-12-10 07:48:00</pubDate>
+		</item>
+		<item>
+			<title>Transcript of Virtual Public Meeting ADVANCE Act Section 206</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24340A261</link>
+			<description>Meeting Transcript</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2024-12-10 07:48:00</pubDate>
+		</item>
 		<item>
 			<title>11-13-24 Public Meeting Summary RE: Generic Environmental Impact Statement for Licensing of New Nuclear Reactors</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24284A348</link>
@@ -38,27 +52,6 @@
 			<description>Report, Technical</description>
 			<author>Argonne National Lab (ANL)</author>
 			<pubDate>2024-12-02 08:15:00</pubDate>
-		</item>
-		<item>
-			<title>SECY-24-0098: Weekly Information Report Week Ending November 22, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24330A251</link>
-			<description>Commission SECY Paper</description>
-			<author>NRC/EDO/AO</author>
-			<pubDate>2024-11-26 13:51:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Staff Paper "Regulatory Oversight of Research Reactors: U.S. Nuclear Regulatory Commission Staff Perspectives and Updates," for 2024 IAEA International Conference on Research Reactors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24330A230</link>
-			<description>Conference/Symposium/Workshop Paper, Technical Paper</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-11-26 13:49:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Staff Presentation "Regulatory Oversight of Research Reactors: U.S. NRC Staff Perspectives and Updates," for 2024 IAEA International Conference on Research Reactors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24330A231</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-11-26 13:49:00</pubDate>
 		</item>
 	</channel>
 </rss>
