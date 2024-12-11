@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 10 Dec 2024 23:18:23 GMT</pubDate>
-		<lastBuildDate>Tue, 10 Dec 2024 23:18:23 GMT</lastBuildDate>
+		<pubDate>Wed, 11 Dec 2024 14:19:36 GMT</pubDate>
+		<lastBuildDate>Wed, 11 Dec 2024 14:19:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Fiscal Year 2024 Q4 Report Licensing Activities and Regulatory Duties of the NRC</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24282A934</link>
+			<description>Regulatory Guide, Status Report</description>
+			<author>NRC/Chairman</author>
+			<pubDate>2024-12-11 07:57:00</pubDate>
+		</item>
 		<item>
 			<title>Closed Meeting Announcement</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24341A209</link>
@@ -31,27 +38,6 @@
 			<description>Slides and Viewgraphs</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2024-12-03 14:40:00</pubDate>
-		</item>
-		<item>
-			<title>Draft Safety Evaluation Of The TerraPower Topical Report, "Plume Exposure Pathway Emergency Planning Zone Methodology," Revision 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24324A305</link>
-			<description>Committee Letter Report, Letter</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-11-27 11:54:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (12) of Capitol Weekly on Pacific Gas and Electric Company; Diablo Canyon Nuclear Power Plant, Units 1 and 2; Draft Supplemental Environmental Impact Statement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24326A033</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2024-11-27 07:54:00</pubDate>
-		</item>
-		<item>
-			<title>Email: Request For Withholding Proprietary Information From Public Disclosure - TerraPower, LLC, Topical Reports, NAT-9392, Rev. 0 And NAT-2965, Rev. 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24267A261</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-11-27 07:53:00</pubDate>
 		</item>
 	</channel>
 </rss>

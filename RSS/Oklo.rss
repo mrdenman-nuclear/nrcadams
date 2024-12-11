@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 10 Dec 2024 23:18:23 GMT</pubDate>
-		<lastBuildDate>Tue, 10 Dec 2024 23:18:23 GMT</lastBuildDate>
+		<pubDate>Wed, 11 Dec 2024 14:19:36 GMT</pubDate>
+		<lastBuildDate>Wed, 11 Dec 2024 14:19:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -26,13 +26,6 @@
 			<pubDate>2024-12-10 07:48:00</pubDate>
 		</item>
 		<item>
-			<title>Transcript of Virtual Public Meeting ADVANCE Act Section 206</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24340A261</link>
-			<description>Meeting Transcript</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-12-10 07:48:00</pubDate>
-		</item>
-		<item>
 			<title>SECY-24-0100: Weekly Information Report Week Ending November 29, 2024</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24340A273</link>
 			<description>Commission SECY Paper</description>
@@ -45,13 +38,6 @@
 			<description>NUREG</description>
 			<author>NRC/ADM</author>
 			<pubDate>2024-12-05 07:53:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo Presentation "Material Categorization and Physical Protection Approach" for Public Meeting on December 3, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24331A245</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Oklo Inc</author>
-			<pubDate>2024-11-27 07:54:00</pubDate>
 		</item>
 	</channel>
 </rss>

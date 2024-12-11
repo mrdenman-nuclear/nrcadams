@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 10 Dec 2024 23:18:20 GMT</pubDate>
-		<lastBuildDate>Tue, 10 Dec 2024 23:18:20 GMT</lastBuildDate>
+		<pubDate>Wed, 11 Dec 2024 14:19:31 GMT</pubDate>
+		<lastBuildDate>Wed, 11 Dec 2024 14:19:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>June 27, 2024 Summary of Public Meeting with X Energy pertaining to Project Long Mott Site Layout and Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24332A122</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-11-27 16:07:00</pubDate>
-		</item>
-		<item>
-			<title>May 10, 2024 Summary of Public Meeting with X Energy regarding Xe-100 PLM Meteorological Data</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24332A125</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2024-11-27 16:07:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

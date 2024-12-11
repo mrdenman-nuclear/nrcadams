@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 10 Dec 2024 23:18:20 GMT</pubDate>
-		<lastBuildDate>Tue, 10 Dec 2024 23:18:20 GMT</lastBuildDate>
+		<pubDate>Wed, 11 Dec 2024 14:19:31 GMT</pubDate>
+		<lastBuildDate>Wed, 11 Dec 2024 14:19:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-12-06 09:44:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Form 897: Request for Withholding Proprietary Information from Public Disclosure - TerraPower, LLC Topical Report, NAT-9392, "Radiological Source Term Methodology Report," Revision 0 (EPID: L-2023-TOP-0046)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24267A254</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-11-27 07:53:00</pubDate>
-		</item>
-		<item>
-			<title>Email: Request for Withholding Proprietary Information from Public Disclosure - TerraPower, LLC Topical Report-9392, "Radiological Source Term Methodology Report," Revision 0 (EPID: L-2023-TOP-0046)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24267A247</link>
-			<description>E-Mail, Proprietary Information Review</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-11-27 07:53:00</pubDate>
 		</item>
 	</channel>
 </rss>

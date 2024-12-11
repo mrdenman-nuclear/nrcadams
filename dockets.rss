@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 10 Dec 2024 23:18:16 GMT</pubDate>
-		<lastBuildDate>Tue, 10 Dec 2024 23:18:16 GMT</lastBuildDate>
+		<pubDate>Wed, 11 Dec 2024 14:19:27 GMT</pubDate>
+		<lastBuildDate>Wed, 11 Dec 2024 14:19:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submittal of X Energy, LLC (X-energy) Xe-100 Licensing Topical Report Plume Exposure Pathway Emergency Planning Zone Sizing Methodology</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24331A306</link>
+			<description>Letter</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2024-12-11 07:57:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1: Affidavit Supporting Request for Withholding from Public Disclosure (10 CFR 2.390)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24331A307</link>
+			<description>Legal-Affidavit</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2024-12-11 07:57:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: "Xe-100 Licensing Topical Report Plume Exposure Pathway Emergency Planning Zone Sizing Methodology," Revision 1 (Public)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24331A308</link>
+			<description>Topical Report</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2024-12-11 07:57:00</pubDate>
+		</item>
 		<item>
 			<title>12/16/2024 Alignment on ISA Update from TRISO-X Audit Meeting Discussions</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24345A035</link>
@@ -157,41 +178,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-12-05 07:53:00</pubDate>
-		</item>
-		<item>
-			<title>Response to Request for Withholding Proprietary Information “Westinghouse AP300 SMR Pre-Application Regulatory Engagement Plan" Periodic Update</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24333A009</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-12-04 16:02:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Information from Public Disclosure for Oklo Inc. Presentation Materials for the December 3, 2024, Meeting Regarding Material Categorization and Physical Protection Approach</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24331A254</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-12-04 08:09:00</pubDate>
-		</item>
-		<item>
-			<title>Presentation Slides for Updates Included in NEDC-33926P, Revision 3, and NEDO-33926, Revision 3, BWRX-300 Steel-Plate Composite Containment Vessel (SCCV) and Reactor Building (RB) Structural Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24325A501</link>
-			<description>Letter</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-12-04 08:09:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Presentation Slides for Updates Included in NEDC-33926P, Revision 3, and NEDO-33926, Revision 3, BWRX-300 Steel-Plate Composite Containment Vessel (SCCV) and Reactor Building (RB) Structural Design - Non-Proprietary Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24325A503</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-12-04 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Affidavit - Non-Proprietary Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24325A504</link>
-			<description>Legal-Affidavit</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-12-04 08:08:00</pubDate>
 		</item>
 	</channel>
 </rss>
