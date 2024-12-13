@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 12 Dec 2024 23:20:45 GMT</pubDate>
-		<lastBuildDate>Thu, 12 Dec 2024 23:20:45 GMT</lastBuildDate>
+		<pubDate>Fri, 13 Dec 2024 14:19:31 GMT</pubDate>
+		<lastBuildDate>Fri, 13 Dec 2024 14:19:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>2024/12/06 Kairos Power Pre-App Doc - Audit Questions Related to Kairos Core Design and Analysis Methodology Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24341A201</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2024-12-13 08:22:00</pubDate>
+		</item>
+		<item>
+			<title>Withholding Letter - Kairos Presentation 11-25-24 Meeting.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24326A161</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2024-12-13 08:22:00</pubDate>
+		</item>
+	</channel>
 </rss>

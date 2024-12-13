@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 12 Dec 2024 23:20:52 GMT</pubDate>
-		<lastBuildDate>Thu, 12 Dec 2024 23:20:52 GMT</lastBuildDate>
+		<pubDate>Fri, 13 Dec 2024 14:19:38 GMT</pubDate>
+		<lastBuildDate>Fri, 13 Dec 2024 14:19:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Seabrook, Unit 1, Current Facility Operating License NPF-86, Tech Specs, Revised 12/13/2024.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053130320</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2024-12-13 07:25:00</pubDate>
+		</item>
 		<item>
 			<title>Transcript of Nov 14, 2024 Public Meeting on the Draft Supplemental Environmental Impact Statement for License Renewal of Diablo Canyon Units 1 and 2</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24346A024</link>
@@ -122,13 +129,6 @@
 			<description>Environmental Assessment, Letter</description>
 			<author>Environmental Properties Management, LLC</author>
 			<pubDate>2024-12-02 08:14:00</pubDate>
-		</item>
-		<item>
-			<title>Environmental Assessment for Revised Decommissioning Plan Proposal to Remediate Groundwater at the Cimarron Site in Logan County, Oklahoma</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24334A062</link>
-			<description>Environmental Assessment</description>
-			<author>NRC/NMSS/DREFS/EPMB2</author>
-			<pubDate>2024-11-29 16:28:00</pubDate>
 		</item>
 	</channel>
 </rss>
