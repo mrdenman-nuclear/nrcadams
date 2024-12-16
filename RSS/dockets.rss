@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 13 Dec 2024 23:17:56 GMT</pubDate>
-		<lastBuildDate>Fri, 13 Dec 2024 23:17:56 GMT</lastBuildDate>
+		<pubDate>Mon, 16 Dec 2024 14:20:12 GMT</pubDate>
+		<lastBuildDate>Mon, 16 Dec 2024 14:20:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>1851-0001-RPT-002, Revision 0, "Degradation Management Program for the Abilene Christian University Molten Salt Reactor" (Public)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24341A135</link>
+			<description>Report, Technical</description>
+			<author>Abilene Christian University, Nuclear Energy eXperimental Testing Lab</author>
+			<pubDate>2024-12-16 08:02:00</pubDate>
+		</item>
+		<item>
+			<title>Abilene Christian University, Nuclear Energy eXperimental Testing Lab., MSRR Degradation Management Program</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24341A133</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>Abilene Christian University, Nuclear Energy eXperimental Testing Lab</author>
+			<pubDate>2024-12-16 08:02:00</pubDate>
+		</item>
+		<item>
+			<title>Transmittal E-mail of NRC 897 Withholding Determination Forms for the GE-Hitachi Nuclear Energy Americas and Global Nuclear Fuel Americas August 2024 Tech Update and September 2024 ACRS Technology Update Meetings Slides</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24325A545</link>
+			<description>E-Mail, Topical Report</description>
+			<author>NRC/NRR/DORL/LLPB</author>
+			<pubDate>2024-12-16 08:02:00</pubDate>
+		</item>
 		<item>
 			<title>Submittal of Approved TerraPower, LLC, Topical Report, "An Analysis of Potential Volcanic Hazards at the Proposed Natrium Site near Kemmerer, Wyoming"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24303A409</link>
@@ -199,27 +220,6 @@
 			<description>Federal Register Notice</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2024-12-06 09:45:00</pubDate>
-		</item>
-		<item>
-			<title>Federal Register Notice: General Notice. Kairos Power, LLC, Hermes 2 Test Reactor Facility Construction Permits</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24324A023</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-12-06 09:45:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Form 897: Request for Withholding from Public Disclosure - TerraPower, LLC Topical Report, NAT-9390, "Design Basis Accident Methodology for In-Vessel Events without Radiological Release," Rev. 2 (EPID: L-2023-TOP-0050)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24326A370</link>
-			<description>Administrative Form, NRC</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-12-06 09:44:00</pubDate>
-		</item>
-		<item>
-			<title>Email: Request for Withholding from Public Disclosure - TerraPower, LLC Topical Report, NAT-9390, "Design Basis Accident Methodology for In-Vessel Events without Radiological Release," Rev. 2, (EPID: L-2023-TOP-0050)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24326A371</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-12-06 09:44:00</pubDate>
 		</item>
 	</channel>
 </rss>

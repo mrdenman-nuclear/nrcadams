@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 13 Dec 2024 23:18:02 GMT</pubDate>
-		<lastBuildDate>Fri, 13 Dec 2024 23:18:02 GMT</lastBuildDate>
+		<pubDate>Mon, 16 Dec 2024 14:20:20 GMT</pubDate>
+		<lastBuildDate>Mon, 16 Dec 2024 14:20:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Table of Contents for Inspection Manual Change Notice 24-043</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24348A212</link>
+			<description>Inspection Manual</description>
+			<author>NRC/NRR/DRO/IRIB</author>
+			<pubDate>2024-12-16 08:04:00</pubDate>
+		</item>
 		<item>
 			<title>IMC 0608 Performance Indicator Program</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24240A098</link>
@@ -80,27 +87,6 @@
 			<description>Inspection Manual</description>
 			<author>NRC/NRR/DRO/IRIB</author>
 			<pubDate>2024-12-10 11:30:00</pubDate>
-		</item>
-		<item>
-			<title>IMC 0611 App D Guidance for Problem Identification and Resolution Inspection Reports</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24269A085</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRIB</author>
-			<pubDate>2024-12-09 16:30:00</pubDate>
-		</item>
-		<item>
-			<title>IP 71111.11, Licensed Operator Requalification Program and Licensed Operator Performance</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24157A347</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IOLB</author>
-			<pubDate>2024-12-09 16:30:00</pubDate>
-		</item>
-		<item>
-			<title>Table of Contents for Inspection Manual Change Notice 24-039</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24341A108</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRIB</author>
-			<pubDate>2024-12-09 16:30:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 13 Dec 2024 23:17:56 GMT</pubDate>
-		<lastBuildDate>Fri, 13 Dec 2024 23:17:56 GMT</lastBuildDate>
+		<pubDate>Mon, 16 Dec 2024 14:20:12 GMT</pubDate>
+		<lastBuildDate>Mon, 16 Dec 2024 14:20:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,27 +45,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-12-04 16:02:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal of Presentation Slides to Support the Westinghouse-NRC Pre-Submittal Meeting on the Westinghouse AP300 SMR Emergency Planning Zone Definition White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24276A226</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2024-12-02 16:04:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal of Presentation Slides to Support the Westinghouse-NRC Pre-Submittal Meeting on the Westinghouse AP300 SMR Probabilistic Risk Assessment White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24302A204</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2024-12-02 16:04:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of the Westinghouse AP300 SMR Emergency Planning Zone Definition White Paper for Pre-Application Engagement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24331A186</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2024-12-02 16:04:00</pubDate>
 		</item>
 	</channel>
 </rss>

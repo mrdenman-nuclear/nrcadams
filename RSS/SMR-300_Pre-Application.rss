@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 13 Dec 2024 23:17:56 GMT</pubDate>
-		<lastBuildDate>Fri, 13 Dec 2024 23:17:56 GMT</lastBuildDate>
+		<pubDate>Mon, 16 Dec 2024 14:20:12 GMT</pubDate>
+		<lastBuildDate>Mon, 16 Dec 2024 14:20:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-12-05 07:53:00</pubDate>
-		</item>
-		<item>
-			<title>SMR Holtec Public Meeting Summary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24312A207</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2024-12-02 16:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
