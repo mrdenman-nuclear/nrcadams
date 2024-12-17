@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 16 Dec 2024 23:19:13 GMT</pubDate>
-		<lastBuildDate>Mon, 16 Dec 2024 23:19:13 GMT</lastBuildDate>
+		<pubDate>Tue, 17 Dec 2024 14:20:29 GMT</pubDate>
+		<lastBuildDate>Tue, 17 Dec 2024 14:20:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Meeting Summary</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2024-12-09 13:14:00</pubDate>
-		</item>
-		<item>
-			<title>Presentation: Overview of NRC Licensing for U.S. Navy</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24338A167</link>
-			<description>Slides and Viewgraphs</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-12-03 14:40:00</pubDate>
 		</item>
 	</channel>
 </rss>

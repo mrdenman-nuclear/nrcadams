@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 16 Dec 2024 23:19:13 GMT</pubDate>
-		<lastBuildDate>Mon, 16 Dec 2024 23:19:13 GMT</lastBuildDate>
+		<pubDate>Tue, 17 Dec 2024 14:20:29 GMT</pubDate>
+		<lastBuildDate>Tue, 17 Dec 2024 14:20:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -143,13 +143,6 @@
 			<description>NUREG</description>
 			<author>NRC/ADM</author>
 			<pubDate>2024-12-05 07:53:00</pubDate>
-		</item>
-		<item>
-			<title>11/7/2024 - Public Meeting Transcript for Generic Environmental Impact Statement for Licensing of New Nuclear Reactors Proposed Rule</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24284A344</link>
-			<description>Meeting Transcript</description>
-			<author>NRC/NMSS/DREFS/RRPB</author>
-			<pubDate>2024-12-03 08:15:00</pubDate>
 		</item>
 	</channel>
 </rss>

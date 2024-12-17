@@ -5,25 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 16 Dec 2024 23:19:08 GMT</pubDate>
-		<lastBuildDate>Mon, 16 Dec 2024 23:19:08 GMT</lastBuildDate>
+		<pubDate>Tue, 17 Dec 2024 14:20:24 GMT</pubDate>
+		<lastBuildDate>Tue, 17 Dec 2024 14:20:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Nuscale Power, LLC - Submittal of Supplemental Information in Support of NRC Review of Nuscale Topical Reports Associated with the Standard Design Approval Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24344A089</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-12-17 08:07:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale SDAA AIA Inspection Announcement Letter</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24327A183</link>
 			<description>Letter</description>
 			<author>NRC/NRR/DRO/IQVB</author>
 			<pubDate>2024-12-06 14:21:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Submittal of "US460 NuScale Power Module Seismic Analysis," TR-121515, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24327A036</link>
-			<description>Legal-Affidavit, Letter, Report, Technical</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-12-03 08:14:00</pubDate>
 		</item>
 	</channel>
 </rss>
