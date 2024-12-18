@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 17 Dec 2024 23:19:13 GMT</pubDate>
-		<lastBuildDate>Tue, 17 Dec 2024 23:19:13 GMT</lastBuildDate>
+		<pubDate>Wed, 18 Dec 2024 14:19:27 GMT</pubDate>
+		<lastBuildDate>Wed, 18 Dec 2024 14:19:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Dow Chemical Co., Submittal of Long Mott Energy, LLC Quality Assurance Program Description (QAPD)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24345A044</link>
+			<description>Letter</description>
+			<author>Dow Chemical Co, Long Mott Energy, LLC</author>
+			<pubDate>2024-12-18 07:05:00</pubDate>
+		</item>
+		<item>
+			<title>Dow Chemical Co., Long Mott Energy, LLC Quality Assurance Program Description (QAPD), Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24345A045</link>
+			<description>Quality Assurance Program</description>
+			<author>Dow Chemical Co, Long Mott Energy, LLC</author>
+			<pubDate>2024-12-18 07:05:00</pubDate>
+		</item>
+		<item>
+			<title>Transmittal of Responses to NRC CD-ROM with GIS Shape Files in Responses TECO-3, TECO-4, and RAI-2 (SUNSI)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24345A217</link>
+			<description>Letter</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2024-12-18 07:05:00</pubDate>
+		</item>
 		<item>
 			<title>CPAF50-00612 - Kairos Power Hermes 2 Test Reactor Unit 2 Construction Permit CPTR-8</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24352A106</link>
@@ -199,27 +220,6 @@
 			<description>Legal-Affidavit</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2024-12-11 07:57:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: "Xe-100 Licensing Topical Report Plume Exposure Pathway Emergency Planning Zone Sizing Methodology," Revision 1 (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24331A308</link>
-			<description>Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2024-12-11 07:57:00</pubDate>
-		</item>
-		<item>
-			<title>12/16/2024 Alignment on ISA Update from TRISO-X Audit Meeting Discussions</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24345A035</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-12-10 09:29:00</pubDate>
-		</item>
-		<item>
-			<title>Response to Request for Withholding Proprietary Information from Public Disclosure, “Transmittal of Westinghouse AP300 SMR Emergency Planning Zone Definition White Paper for Pre-Application Engagement”</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24333A010</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-12-10 07:48:00</pubDate>
 		</item>
 	</channel>
 </rss>

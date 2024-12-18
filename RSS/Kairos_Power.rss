@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 17 Dec 2024 23:19:18 GMT</pubDate>
-		<lastBuildDate>Tue, 17 Dec 2024 23:19:18 GMT</lastBuildDate>
+		<pubDate>Wed, 18 Dec 2024 14:19:31 GMT</pubDate>
+		<lastBuildDate>Wed, 18 Dec 2024 14:19:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,13 +66,6 @@
 			<description>Meeting Summary</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2024-12-09 13:14:00</pubDate>
-		</item>
-		<item>
-			<title>Licensing Applications Received in 2024 Year to Date</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24339B235</link>
-			<description>Graphics incl Charts and Tables, Spreadsheet File</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2024-12-04 16:02:00</pubDate>
 		</item>
 	</channel>
 </rss>
