@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 18 Dec 2024 23:21:16 GMT</pubDate>
-		<lastBuildDate>Wed, 18 Dec 2024 23:21:16 GMT</lastBuildDate>
+		<pubDate>Thu, 19 Dec 2024 14:20:35 GMT</pubDate>
+		<lastBuildDate>Thu, 19 Dec 2024 14:20:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Braidwood Station, Units 1 and 2, 10 CFR 50.59 Changes, tests, and experiments Summary Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24348A093</link>
+			<description>Test/Inspection/Operating Procedure</description>
+			<author>Constellation Energy Generation, LLC</author>
+			<pubDate>2024-12-19 07:51:00</pubDate>
+		</item>
 		<item>
 			<title>Byron Station, Unit 1 and 2, 10 CFR 50.59 Summary Report, "Changes, Tests and Experiments"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24344A112</link>
@@ -24,13 +31,6 @@
 			<description>Slides and Viewgraphs</description>
 			<author>NRC/NRR/DRA</author>
 			<pubDate>2024-12-16 09:41:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of Virtual Public Meeting ADVANCE Act Section 206</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24340A261</link>
-			<description>Meeting Transcript</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-12-12 09:30:00</pubDate>
 		</item>
 	</channel>
 </rss>
