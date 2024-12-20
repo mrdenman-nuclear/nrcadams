@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 19 Dec 2024 23:20:15 GMT</pubDate>
-		<lastBuildDate>Thu, 19 Dec 2024 23:20:15 GMT</lastBuildDate>
+		<pubDate>Fri, 20 Dec 2024 14:18:25 GMT</pubDate>
+		<lastBuildDate>Fri, 20 Dec 2024 14:18:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,20 +17,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2024-12-10 09:29:00</pubDate>
-		</item>
-		<item>
-			<title>Memo - Summary of Meeting on September 9, 2024, with TRISO-X, LLC, to Discuss Responses to the Hydrology Requests for Additional Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24289A149</link>
-			<description>Memoranda</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2024-12-06 09:45:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - Summary of September 9, 2024 with TRISO-X, LLC Participant List</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24289A150</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2024-12-06 09:45:00</pubDate>
 		</item>
 	</channel>
 </rss>

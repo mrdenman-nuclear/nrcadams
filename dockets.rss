@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 19 Dec 2024 23:20:11 GMT</pubDate>
-		<lastBuildDate>Thu, 19 Dec 2024 23:20:11 GMT</lastBuildDate>
+		<pubDate>Fri, 20 Dec 2024 14:18:21 GMT</pubDate>
+		<lastBuildDate>Fri, 20 Dec 2024 14:18:21 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2024/12/06 GEH BWRX-300 SMR - RE December 11, 2024 GEH BWRX-300 Pre-application meeting NRC staff preliminary feedback</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24341A047</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2024-12-20 07:54:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC, Submittal of Supplemental Information in Support of Review of TR-131981-P, "Methodology for the Determination of the Onset of Density Wave Oscillations (DWO)," Revision 1, Audit Question A-DWO.LTR-127</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24228A242</link>
@@ -185,34 +192,6 @@
 			<description>E-Mail, Topical Report</description>
 			<author>NRC/NRR/DORL/LLPB</author>
 			<pubDate>2024-12-16 08:02:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Approved TerraPower, LLC, Topical Report, "An Analysis of Potential Volcanic Hazards at the Proposed Natrium Site near Kemmerer, Wyoming"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24303A409</link>
-			<description>Letter, Topical Report</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2024-12-13 10:46:00</pubDate>
-		</item>
-		<item>
-			<title>08/20-21/2024 Summary of Closed Technology Update Meeting between U.S. Nuclear Regulatory Commission and GE Hitachi Nuclear Energy Americas, Global Nuclear Fuel Americas (EPID L-2024-NTM-0002)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24325A497</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DORL/LLPB</author>
-			<pubDate>2024-12-13 08:22:00</pubDate>
-		</item>
-		<item>
-			<title>2024/12/06 Kairos Power Pre-App Doc - Audit Questions Related to Kairos Core Design and Analysis Methodology Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24341A201</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2024-12-13 08:22:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Letter - Kairos Presentation 11-25-24 Meeting.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24326A161</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2024-12-13 08:22:00</pubDate>
 		</item>
 	</channel>
 </rss>

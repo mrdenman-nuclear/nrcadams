@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 19 Dec 2024 23:20:19 GMT</pubDate>
-		<lastBuildDate>Thu, 19 Dec 2024 23:20:19 GMT</lastBuildDate>
+		<pubDate>Fri, 20 Dec 2024 14:18:29 GMT</pubDate>
+		<lastBuildDate>Fri, 20 Dec 2024 14:18:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -108,13 +108,6 @@
 			<description>Meeting Summary</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2024-12-09 13:14:00</pubDate>
-		</item>
-		<item>
-			<title>Meeting Summary of the September 3, 2024 Higher Burnup Workshop V</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24277A154</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DORL/LLPB</author>
-			<pubDate>2024-12-06 09:45:00</pubDate>
 		</item>
 	</channel>
 </rss>

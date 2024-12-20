@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 19 Dec 2024 23:20:15 GMT</pubDate>
-		<lastBuildDate>Thu, 19 Dec 2024 23:20:15 GMT</lastBuildDate>
+		<pubDate>Fri, 20 Dec 2024 14:18:25 GMT</pubDate>
+		<lastBuildDate>Fri, 20 Dec 2024 14:18:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Legal-Affidavit, Letter</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2024-12-17 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA AIA Inspection Announcement Letter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24327A183</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DRO/IQVB</author>
-			<pubDate>2024-12-06 14:21:00</pubDate>
 		</item>
 	</channel>
 </rss>
