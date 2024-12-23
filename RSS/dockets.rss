@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 23 Dec 2024 21:17:09 GMT</pubDate>
-		<lastBuildDate>Mon, 23 Dec 2024 21:17:09 GMT</lastBuildDate>
+		<pubDate>Mon, 23 Dec 2024 22:18:52 GMT</pubDate>
+		<lastBuildDate>Mon, 23 Dec 2024 22:18:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>AP300 White Paper No.9 PRA Preapplication Meeting Summary Letter and Enclosure 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24324A078</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2024-12-23 16:30:00</pubDate>
+		</item>
 		<item>
 			<title>Letter - U.S. NRC Feedback Regarding Westinghouse AP300 Emergency Planning Zone Definition White Paper</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24352A363</link>
@@ -210,13 +217,6 @@
 		<item>
 			<title>Response to NuScale Topical Report Audit Question Number A-NonLOCA.LTR-62</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24348A085</link>
-			<description>Audit Report, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-12-23 08:24:00</pubDate>
-		</item>
-		<item>
-			<title>Response to NuScale Topical Report Audit Question Number A-NonLOCA.LTR-68</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24348A087</link>
 			<description>Audit Report, Response to Request for Additional Information (RAI)</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2024-12-23 08:24:00</pubDate>
