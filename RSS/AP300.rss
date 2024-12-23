@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 20 Dec 2024 23:17:46 GMT</pubDate>
-		<lastBuildDate>Fri, 20 Dec 2024 23:17:46 GMT</lastBuildDate>
+		<pubDate>Mon, 23 Dec 2024 14:19:58 GMT</pubDate>
+		<lastBuildDate>Mon, 23 Dec 2024 14:19:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2024-12-10 07:48:00</pubDate>
-		</item>
-		<item>
-			<title>Response to Request for Withholding Proprietary Information from Public Disclosure, "Transmittal of Westinghouse AP300 SMR Governing Design Codes and Standards White Paper for Pre-Application Engagement"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24325A173</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-12-09 07:52:00</pubDate>
 		</item>
 	</channel>
 </rss>

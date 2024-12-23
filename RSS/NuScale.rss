@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 20 Dec 2024 23:17:51 GMT</pubDate>
-		<lastBuildDate>Fri, 20 Dec 2024 23:17:51 GMT</lastBuildDate>
+		<pubDate>Mon, 23 Dec 2024 14:20:04 GMT</pubDate>
+		<lastBuildDate>Mon, 23 Dec 2024 14:20:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -115,13 +115,6 @@
 			<description>Letter</description>
 			<author>NRC/OCFO</author>
 			<pubDate>2024-12-10 16:23:00</pubDate>
-		</item>
-		<item>
-			<title>11-13-24 Public Meeting Summary RE: Generic Environmental Impact Statement for Licensing of New Nuclear Reactors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24284A348</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-12-09 13:14:00</pubDate>
 		</item>
 	</channel>
 </rss>
