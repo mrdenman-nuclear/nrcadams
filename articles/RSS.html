@@ -74,8 +74,16 @@
 <p>This page is updated Monday through Friday, hourly between 9AM ET and
 5 PM ET. It presents RSS files for the various dockets tracked by the
 <code>nrcadams</code> package. The last update was at 2024-12-24
-12:15:30.450627 ET.</p>
-<p><code>These RSS files are still under testing and development. Use at your own risk.</code></p>
+12:28:18.466889 ET.</p>
+<div class="section level2">
+<h2 id="using-the-rss-feeds">Using the RSS Feeds<a class="anchor" aria-label="anchor" href="#using-the-rss-feeds"></a>
+</h2>
+<p>If you are unfamiliar with RSS readers, they are magical. Here is an
+article that can point you to some of the best. I generally just use the
+slack feed reader which is cool because it can enable easy conversations
+within our team about key documents.</p>
+<p><a href="https://www.theverge.com/24036427/rss-feed-reader-best" class="external-link uri">https://www.theverge.com/24036427/rss-feed-reader-best</a></p>
+</div>
 <div class="section level2">
 <h2 id="making-rss-files">Making RSS files<a class="anchor" aria-label="anchor" href="#making-rss-files"></a>
 </h2>
@@ -97,7 +105,7 @@ located at the URLs shown in the table below.</p>
 <span><span class="co">#&gt;   object 'type_sum.accel' not found</span></span>
 <span><span class="co">#&gt; Searching with the following URL:</span></span>
 <span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_any:!(!(DocketNumber,eq,'99902088',''),!(DocketNumber,eq,'05000610',''),!(DocketNumber,eq,'05000608',''),!(DocketNumber,eq,'99902115',''),!(DocketNumber,eq,'99902071',''),!(DocketNumber,eq,'07007027',''),!(DocketNumber,eq,'99902117',''),!(DocketNumber,eq,'99902111',''),!(DocketNumber,eq,'99902100',''),!(DocketNumber,eq,'05000613',''),!(DocketNumber,eq,'99902094',''),!(DocketNumber,eq,'99902079',''),!(DocketNumber,eq,'99902076',''),!(DocketNumber,eq,'99900003',''),!(DocketNumber,eq,'99902049',''),!(DocketNumber,eq,'05200048',''),!(DocketNumber,eq,'99902078',''),!(DocketNumber,eq,'05200050',''),!(DocketNumber,eq,'99902052',''),!(DocketNumber,eq,'99902069',''),!(DocketNumber,eq,'05007513',''),!(DocketNumber,eq,'05000611',''),!(DocketNumber,eq,'05000612',''),!(DocketNumber,eq,'99902095',''),!(DocketNumber,eq,'99902101',''),!(DocketNumber,eq,'05200049',''),!(DocketNumber,eq,'99902128','')),properties_search_all:!(!(PublishDatePARS,gt,'12/10/2024',''))))&amp;qn=New&amp;tab=advanced-search-pars&amp;z=0 </span></span>
-<span><span class="co">#&gt; : 0.923 sec elapsed</span></span>
+<span><span class="co">#&gt; : 0.823 sec elapsed</span></span>
 <span><span class="co">#&gt; </span></span>
 <span><span class="co">#&gt;  This search returned: 88 files.</span></span>
 <span><span class="co">#&gt; Joining with `by = join_by(DocketNumber)`</span></span>
@@ -189,7 +197,7 @@ particular), these RSS files might help.</p>
 <span>  <span class="fu">nrcadams</span><span class="fu">::</span><span class="fu"><a href="../reference/search_docket.html">search_docket</a></span><span class="op">(</span>days_back <span class="op">=</span> <span class="fl">14</span><span class="op">)</span></span>
 <span><span class="co">#&gt; Searching with the following URL:</span></span>
 <span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_any:!(!(DocketNumber,eq,'05000228',''),!(DocketNumber,eq,'05000170',''),!(DocketNumber,eq,'05000264',''),!(DocketNumber,eq,'05000073',''),!(DocketNumber,eq,'05000284',''),!(DocketNumber,eq,'05000188',''),!(DocketNumber,eq,'05000020',''),!(DocketNumber,eq,'05000184',''),!(DocketNumber,eq,'05000297',''),!(DocketNumber,eq,'05000243',''),!(DocketNumber,eq,'05000005',''),!(DocketNumber,eq,'05000182',''),!(DocketNumber,eq,'05000288',''),!(DocketNumber,eq,'05000225',''),!(DocketNumber,eq,'05000193',''),!(DocketNumber,eq,'05000059',''),!(DocketNumber,eq,'05000128',''),!(DocketNumber,eq,'05000150',''),!(DocketNumber,eq,'05000274',''),!(DocketNumber,eq,'05000607',''),!(DocketNumber,eq,'05000326',''),!(DocketNumber,eq,'05000083',''),!(DocketNumber,eq,'05000166',''),!(DocketNumber,eq,'05000223',''),!(DocketNumber,eq,'05000186',''),!(DocketNumber,eq,'05000123',''),!(DocketNumber,eq,'05000252',''),!(DocketNumber,eq,'05000602',''),!(DocketNumber,eq,'05000407',''),!(DocketNumber,eq,'05000156',''),!(DocketNumber,eq,'05000027','')),properties_search_all:!(!(PublishDatePARS,gt,'12/10/2024',''))))&amp;qn=New&amp;tab=advanced-search-pars&amp;z=0 </span></span>
-<span><span class="co">#&gt; : 0.589 sec elapsed</span></span>
+<span><span class="co">#&gt; : 0.44 sec elapsed</span></span>
 <span><span class="co">#&gt; </span></span>
 <span><span class="co">#&gt;  This search returned: 17 files.</span></span>
 <span></span>
@@ -278,7 +286,7 @@ particular), these RSS files might help.</p>
 <code class="sourceCode R"><span><span class="va">ACRS</span> <span class="op">&lt;-</span> <span class="fu">nrcadams</span><span class="fu">::</span><span class="fu"><a href="../reference/search_ACRS.html">search_ACRS</a></span><span class="op">(</span>days_back <span class="op">=</span> <span class="fl">14</span><span class="op">)</span></span>
 <span><span class="co">#&gt; Searching with the following URL:</span></span>
 <span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_all:!(!(AuthorAffiliation,starts,NRC/ACRS,''),!(PublishDatePARS,gt,'12/10/2024',''))))&amp;qn=New&amp;tab=advanced-search-pars&amp;z=0 </span></span>
-<span><span class="co">#&gt; : 0.366 sec elapsed</span></span>
+<span><span class="co">#&gt; : 0.252 sec elapsed</span></span>
 <span><span class="co">#&gt; </span></span>
 <span><span class="co">#&gt;  This search returned: 7 files.</span></span>
 <span></span>
@@ -325,54 +333,54 @@ also tagged with a docket number associated with that company.</p>
 <span>  <span class="op">)</span></span>
 <span><span class="co">#&gt; Searching with the following URL:</span></span>
 <span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902088',''),!(DocketNumber,not,'05000610',''),!(PublishDatePARS,gt,'12/10/2024','')),single_content_search:'ACU'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
-<span><span class="co">#&gt; : 0.405 sec elapsed</span></span>
+<span><span class="co">#&gt; : 0.271 sec elapsed</span></span>
 <span><span class="co">#&gt; </span></span>
 <span><span class="co">#&gt;  This search returned: 1 files.</span></span>
 <span><span class="co">#&gt; Searching with the following URL:</span></span>
 <span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'05000608',''),!(DocketNumber,not,'99902115',''),!(PublishDatePARS,gt,'12/10/2024','')),single_content_search:'SHINE+Medical+Technologies'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
-<span><span class="co">#&gt; : 0.445 sec elapsed</span></span>
+<span><span class="co">#&gt; : 0.281 sec elapsed</span></span>
 <span><span class="co">#&gt; </span></span>
 <span><span class="co">#&gt;  This search returned: 3 files.</span></span>
 <span><span class="co">#&gt; Searching with the following URL:</span></span>
 <span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902071',''),!(DocketNumber,not,'07007027',''),!(DocketNumber,not,'99902117',''),!(PublishDatePARS,gt,'12/10/2024','')),single_content_search:'X-Energy'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
-<span><span class="co">#&gt; : 0.42 sec elapsed</span></span>
+<span><span class="co">#&gt; : 0.281 sec elapsed</span></span>
 <span><span class="co">#&gt; </span></span>
 <span><span class="co">#&gt;  This search returned: 4 files.</span></span>
 <span><span class="co">#&gt; Searching with the following URL:</span></span>
 <span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902100',''),!(DocketNumber,not,'05000613',''),!(PublishDatePARS,gt,'12/10/2024','')),single_content_search:'TerraPower'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
-<span><span class="co">#&gt; : 0.581 sec elapsed</span></span>
+<span><span class="co">#&gt; : 0.268 sec elapsed</span></span>
 <span><span class="co">#&gt; </span></span>
 <span><span class="co">#&gt;  This search returned: 5 files.</span></span>
 <span><span class="co">#&gt; Searching with the following URL:</span></span>
 <span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902094',''),!(PublishDatePARS,gt,'12/10/2024','')),single_content_search:'UCUI'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
-<span><span class="co">#&gt; : 0.398 sec elapsed</span></span>
+<span><span class="co">#&gt; : 0.24 sec elapsed</span></span>
 <span><span class="co">#&gt; </span></span>
 <span><span class="co">#&gt;  This search returned: 0 files.</span></span>
 <span><span class="co">#&gt; Warning in nrcadams::search_undocketed(.x, days_back = 14): </span></span>
 <span><span class="co">#&gt; The search return no results.</span></span>
 <span><span class="co">#&gt; Searching with the following URL:</span></span>
 <span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902076',''),!(PublishDatePARS,gt,'12/10/2024','')),single_content_search:'Terrestrial+Energy'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
-<span><span class="co">#&gt; : 0.461 sec elapsed</span></span>
+<span><span class="co">#&gt; : 0.301 sec elapsed</span></span>
 <span><span class="co">#&gt; </span></span>
 <span><span class="co">#&gt;  This search returned: 20 files.</span></span>
 <span><span class="co">#&gt; Searching with the following URL:</span></span>
 <span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'05200048',''),!(DocketNumber,not,'99902078',''),!(DocketNumber,not,'05200050',''),!(DocketNumber,not,'99902052',''),!(PublishDatePARS,gt,'12/10/2024','')),single_content_search:'NuScale'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
-<span><span class="co">#&gt; : 0.467 sec elapsed</span></span>
+<span><span class="co">#&gt; : 0.325 sec elapsed</span></span>
 <span><span class="co">#&gt; </span></span>
 <span><span class="co">#&gt;  This search returned: 15 files.</span></span>
 <span><span class="co">#&gt; Searching with the following URL:</span></span>
 <span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902069',''),!(DocketNumber,not,'05007513',''),!(DocketNumber,not,'05000611',''),!(DocketNumber,not,'05000612',''),!(PublishDatePARS,gt,'12/10/2024','')),single_content_search:'Kairos+Power'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
-<span><span class="co">#&gt; : 0.446 sec elapsed</span></span>
+<span><span class="co">#&gt; : 0.326 sec elapsed</span></span>
 <span><span class="co">#&gt; </span></span>
 <span><span class="co">#&gt;  This search returned: 6 files.</span></span>
 <span><span class="co">#&gt; Searching with the following URL:</span></span>
 <span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902095',''),!(DocketNumber,not,'99902101',''),!(DocketNumber,not,'05200049',''),!(PublishDatePARS,gt,'12/10/2024','')),single_content_search:'Oklo'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
-<span><span class="co">#&gt; : 0.403 sec elapsed</span></span>
+<span><span class="co">#&gt; : 0.3 sec elapsed</span></span>
 <span><span class="co">#&gt; </span></span>
 <span><span class="co">#&gt;  This search returned: 3 files.</span></span>
 <span><span class="co">#&gt; Searching with the following URL:</span></span>
 <span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902128',''),!(PublishDatePARS,gt,'12/10/2024','')),single_content_search:'Aalo'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
-<span><span class="co">#&gt; : 0.395 sec elapsed</span></span>
+<span><span class="co">#&gt; : 0.245 sec elapsed</span></span>
 <span><span class="co">#&gt; </span></span>
 <span><span class="co">#&gt;  This search returned: 0 files.</span></span>
 <span><span class="co">#&gt; Warning in nrcadams::search_undocketed(.x, days_back = 14): </span></span>
@@ -484,10 +492,15 @@ also tagged with a docket number associated with that company.</p>
 <span>      <span class="st">".rss"</span></span>
 <span>    <span class="op">)</span></span>
 <span>  <span class="op">)</span> <span class="op">|&gt;</span></span>
+<span>  <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://tibble.tidyverse.org/reference/add_row.html" class="external-link">add_row</a></span><span class="op">(</span></span>
+<span>    tag <span class="op">=</span> <span class="st">"All Codes"</span>,</span>
+<span>    search <span class="op">=</span> <span class="st">"Or Gate"</span>, </span>
+<span>    `RSS File` <span class="op">=</span> <span class="st">"https://mrdenman-nuclear.github.io/nrcadams/RSS/dockets-RTR.rss"</span></span>
+<span>    <span class="op">)</span> <span class="op">|&gt;</span></span>
 <span>  <span class="fu">nrcadams</span><span class="fu">::</span><span class="fu"><a href="../reference/hyperlink_file_to_name.html">hyperlink_file_to_name</a></span><span class="op">(</span>name_vct <span class="op">=</span> <span class="va">`RSS File`</span>, url_vct <span class="op">=</span> <span class="va">`RSS File`</span><span class="op">)</span> <span class="op">|&gt;</span></span>
 <span>  <span class="fu">DT</span><span class="fu">::</span><span class="fu"><a href="https://rdrr.io/pkg/DT/man/datatable.html" class="external-link">datatable</a></span><span class="op">(</span>escape <span class="op">=</span> <span class="cn">FALSE</span><span class="op">)</span></span></code></pre></div>
 <div class="datatables html-widget html-fill-item" id="htmlwidget-1fb4450895fe099f74a1" style="width:100%;height:auto;"></div>
-<script type="application/json" data-for="htmlwidget-1fb4450895fe099f74a1">{"x":{"filter":"none","vertical":false,"data":[["1","2","3","4","5","6"],["MELCOR","ARCON","RADTRAD","NRCDose3","MACCS","Sierra ATD"],["MELCOR","ARCON","RADTRAD","NRCDose3","MACCS","'%22SIERRA+ATD%22'"],["<a href='https://mrdenman-nuclear.github.io/nrcadams/RSS/MELCOR.rss'>https://mrdenman-nuclear.github.io/nrcadams/RSS/MELCOR.rss<\/a>","<a href='https://mrdenman-nuclear.github.io/nrcadams/RSS/ARCON.rss'>https://mrdenman-nuclear.github.io/nrcadams/RSS/ARCON.rss<\/a>","<a href='https://mrdenman-nuclear.github.io/nrcadams/RSS/RADTRAD.rss'>https://mrdenman-nuclear.github.io/nrcadams/RSS/RADTRAD.rss<\/a>","<a href='https://mrdenman-nuclear.github.io/nrcadams/RSS/NRCDose3.rss'>https://mrdenman-nuclear.github.io/nrcadams/RSS/NRCDose3.rss<\/a>","<a href='https://mrdenman-nuclear.github.io/nrcadams/RSS/MACCS.rss'>https://mrdenman-nuclear.github.io/nrcadams/RSS/MACCS.rss<\/a>","<a href='https://mrdenman-nuclear.github.io/nrcadams/RSS/Sierra ATD.rss'>https://mrdenman-nuclear.github.io/nrcadams/RSS/Sierra ATD.rss<\/a>"]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>tag<\/th>\n      <th>search<\/th>\n      <th>Title<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"columnDefs":[{"orderable":false,"targets":0},{"name":" ","targets":0},{"name":"tag","targets":1},{"name":"search","targets":2},{"name":"Title","targets":3}],"order":[],"autoWidth":false,"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1fb4450895fe099f74a1">{"x":{"filter":"none","vertical":false,"data":[["1","2","3","4","5","6","7"],["MELCOR","ARCON","RADTRAD","NRCDose3","MACCS","Sierra ATD","All Codes"],["MELCOR","ARCON","RADTRAD","NRCDose3","MACCS","'%22SIERRA+ATD%22'","Or Gate"],["<a href='https://mrdenman-nuclear.github.io/nrcadams/RSS/MELCOR.rss'>https://mrdenman-nuclear.github.io/nrcadams/RSS/MELCOR.rss<\/a>","<a href='https://mrdenman-nuclear.github.io/nrcadams/RSS/ARCON.rss'>https://mrdenman-nuclear.github.io/nrcadams/RSS/ARCON.rss<\/a>","<a href='https://mrdenman-nuclear.github.io/nrcadams/RSS/RADTRAD.rss'>https://mrdenman-nuclear.github.io/nrcadams/RSS/RADTRAD.rss<\/a>","<a href='https://mrdenman-nuclear.github.io/nrcadams/RSS/NRCDose3.rss'>https://mrdenman-nuclear.github.io/nrcadams/RSS/NRCDose3.rss<\/a>","<a href='https://mrdenman-nuclear.github.io/nrcadams/RSS/MACCS.rss'>https://mrdenman-nuclear.github.io/nrcadams/RSS/MACCS.rss<\/a>","<a href='https://mrdenman-nuclear.github.io/nrcadams/RSS/Sierra ATD.rss'>https://mrdenman-nuclear.github.io/nrcadams/RSS/Sierra ATD.rss<\/a>","<a href='https://mrdenman-nuclear.github.io/nrcadams/RSS/dockets-RTR.rss'>https://mrdenman-nuclear.github.io/nrcadams/RSS/dockets-RTR.rss<\/a>"]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>tag<\/th>\n      <th>search<\/th>\n      <th>Title<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"columnDefs":[{"orderable":false,"targets":0},{"name":" ","targets":0},{"name":"tag","targets":1},{"name":"search","targets":2},{"name":"Title","targets":3}],"order":[],"autoWidth":false,"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
 </div>
   </main><aside class="col-md-3"><nav id="toc" aria-label="Table of contents"><h2>On this page</h2>
     </nav></aside>
