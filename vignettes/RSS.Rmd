@@ -195,42 +195,62 @@ nrcadams::docket_codex |>
 # NRC Source Term Codes
 
 ```{r extra-searches, echo = FALSE, results=FALSE}
+code_search <- tibble::tibble(
+  tag = c("MELCOR", "ARCON", "RADTRAD", "NRCDose3", "MACCS", "Sierra ATD")
+) |>
+  dplyr::mutate(
+    search = dplyr::case_when(
+      tag == "Sierra ATD" ~ "'%22SIERRA+ATD%22'",
+      .default = tag
+    ) 
+  )
+
+code_results <- code_search |>
+  purrr::pmap(\(tag = tag, search = search) {
+    nrcadams::search_advanced(
+        search_field = paste0("single_content_search:", search),
+        results_tag = tag,
+        days_back = 7,
+        content_search = TRUE
+    )
+  })
+
 MELCOR <- nrcadams::search_advanced(
     search_field = "single_content_search:MELCOR",
     results_tag = "MELCOR",
     days_back = 7,
     content_search = TRUE
-)
+) 
 ARCON <- nrcadams::search_advanced(
     search_field = "single_content_search:ARCON",
     results_tag = "ARCON",
     days_back = 7,
     content_search = TRUE
-)
+) 
 RADTRAD <- nrcadams::search_advanced(
     search_field = "single_content_search:RADTRAD",
     results_tag = "RADTRAD",
     days_back = 7,
     content_search = TRUE
-)
+) |> dplyr::mutate(tag = "RADTRAD")
 NRCDose3 <- nrcadams::search_advanced(
     search_field = "single_content_search:NRCDose3",
     results_tag = "NRCDose3",
     days_back = 7,
     content_search = TRUE
-)
+) 
 MACCS <- nrcadams::search_advanced(
     search_field = "single_content_search:MACCS",
     results_tag = "MACCS",
     days_back = 7,
     content_search = TRUE
-)
+) |> dplyr::mutate(tag = "MACCS")
 ATD <- nrcadams::search_advanced(
     search_field = "single_content_search:'%22SIERRA+ATD%22'",
     results_tag = "ATD",
     days_back = 7,
     content_search = TRUE
-)
+) 
 
 Codes <- MELCOR |>
   dplyr::bind_rows(ARCON) |>
@@ -241,14 +261,41 @@ Codes <- MELCOR |>
 
 
 if (length(Codes) != 0) {
-  Codes |>
-    nrcadams::write_rss(
-      file = here::here("docs", "RSS", paste0(
-        "SourceTermCodes", ".rss")
-        ),
-      title = "Source Term Code Reports"
-      )  
+  Codes|>
+    dplyr::pull(Tag) |>
+    purrr::walk(\(.x) {
+      Codes |>
+        dplyr::filter(Tag == .x) |>
+        nrcadams::write_rss(
+          file = here::here("docs", "RSS", paste0(
+            .x |> stringr::str_replace_all(" ", "_"), ".rss")
+            ),
+          title = .x 
+          )
+    })
 }
+
+code_search |>
+  dplyr::mutate(
+    `RSS File` = paste0(
+      "https://mrdenman-nuclear.github.io/nrcadams/RSS/",
+      tag,
+      ".rss"
+    )
+  ) |>
+  nrcadams::hyperlink_file_to_name(name_vct = `RSS File`, url_vct = `RSS File`) |>
+  DT::datatable(escape = FALSE)
+
+
+
+Codes |>
+  nrcadams::write_rss(
+    file = here::here("docs", "RSS", paste0(
+      "SourceTermCodes", ".rss")
+      ),
+    title = "Source Term Code Reports"
+    )  
+
 
 Inspections <- nrcadams::search_advanced(
     search_field = "properties_search_all:!(!(DocumentType,eq,%27Inspection+Manual%27,%27%27),!(AuthorAffiliation,starts,NRC/NRR,%27%27),",
