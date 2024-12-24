@@ -21,11 +21,19 @@ This page is updated Monday through Friday, hourly between 9AM ET and 5 PM ET.
 It presents RSS files for the various dockets tracked by the `nrcadams` package. 
 The last update was at `r Sys.time() |> lubridate::ymd_hms() |> lubridate::with_tz("America/New_York")` ET.
 
-`These RSS files are still under testing and development. Use at your own risk.`
+# Using the RSS Feeds
+
+If you are unfamiliar with RSS readers, they are magical. 
+Here is an article that can point you to some of the best. 
+I generally just use the slack feed reader which is cool 
+because it can enable easy conversations within our team about key documents.
+
+https://www.theverge.com/24036427/rss-feed-reader-best
 
 # Making RSS files
 
-The following code shows the user how they can generate RSS files to help keep updated with their favorite ADAMS search results.
+The following code shows the user how they can generate RSS files to help keep updated 
+with their favorite ADAMS search results.
 
 
 # Advanced Reactor Dockets
@@ -261,8 +269,8 @@ Codes <- MELCOR |>
 
 
 if (length(Codes) != 0) {
-  Codes|>
-    dplyr::pull(Tag) |>
+  code_search|>
+    dplyr::pull(tag) |>
     purrr::walk(\(.x) {
       Codes |>
         dplyr::filter(Tag == .x) |>
@@ -331,11 +339,11 @@ code_search |>
       ".rss"
     )
   ) |>
+  dplyr::add_row(
+    tag = "All Codes",
+    search = "Or Gate", 
+    `RSS File` = "https://mrdenman-nuclear.github.io/nrcadams/RSS/dockets-RTR.rss"
+    ) |>
   nrcadams::hyperlink_file_to_name(name_vct = `RSS File`, url_vct = `RSS File`) |>
   DT::datatable(escape = FALSE)
-
-
-
-
-
 ```
