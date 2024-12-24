@@ -67,9 +67,10 @@ last_week_in_dockets |> nrcadams::write_rss(file = here::here("docs", "RSS", "do
 
 nrcadams::docket_codex |>
   dplyr::select(Project) |>
-  dplyr::mutate(`RSS File` = paste0(
-    "https://mrdenman-nuclear.github.io/nrcadams/RSS/",
-    Project |> stringr::str_replace_all(" ", "_"),
+  dplyr::mutate(
+    `RSS File` = paste0(
+      "https://mrdenman-nuclear.github.io/nrcadams/RSS/",
+      Project |> stringr::str_replace_all(" ", "_"),
     ".rss"
   )) |>
   dplyr::add_row(
@@ -193,7 +194,7 @@ nrcadams::docket_codex |>
   dplyr::distinct(Company) |>
   dplyr::mutate(`RSS File` = paste0(
     "https://mrdenman-nuclear.github.io/nrcadams/RSS/",
-    Company,
+    Company |> stringr::str_replace_all(" ", "_"),
     ".rss"
   )) |>
   nrcadams::hyperlink_file_to_name(name_vct = `RSS File`, url_vct = `RSS File`)|>
@@ -335,7 +336,7 @@ code_search |>
   dplyr::mutate(
     `RSS File` = paste0(
       "https://mrdenman-nuclear.github.io/nrcadams/RSS/",
-      tag,
+      tag |> stringr::str_replace_all(" ", "_"),
       ".rss"
     )
   ) |>
