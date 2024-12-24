@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 23 Dec 2024 23:18:17 GMT</pubDate>
-		<lastBuildDate>Mon, 23 Dec 2024 23:18:17 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Dec 2024 14:17:15 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Dec 2024 14:17:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Regulatory Guide, Status Report</description>
 			<author>NRC/Chairman</author>
 			<pubDate>2024-12-11 07:57:00</pubDate>
-		</item>
-		<item>
-			<title>Closed Meeting Announcement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24341A209</link>
-			<description>Meeting Agenda, Meeting Notice</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-12-10 11:30:00</pubDate>
 		</item>
 	</channel>
 </rss>

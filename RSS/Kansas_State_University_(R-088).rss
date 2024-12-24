@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 23 Dec 2024 23:18:13 GMT</pubDate>
-		<lastBuildDate>Mon, 23 Dec 2024 23:18:13 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Dec 2024 14:17:13 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Dec 2024 14:17:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Exemption from NRC Requirements</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2024-12-13 08:21:00</pubDate>
-		</item>
-		<item>
-			<title>2024/11/26 NRR E-mail Capture - FYI Update to Level of Effort for the Kansas State University (KSU) Exemption</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24331A115</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2024-12-10 07:47:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 23 Dec 2024 23:18:17 GMT</pubDate>
-		<lastBuildDate>Mon, 23 Dec 2024 23:18:17 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Dec 2024 14:17:16 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Dec 2024 14:17:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>Meeting Transcript</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2024-12-12 09:30:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Presentation - Section 206 of the ADVANCE Act - Evaluation of Potential Regulatory Issues at Brownfield Sites</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24340A140</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-12-10 07:48:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo and Southern Ohio Diversification Initiative - Section 206 ADVANCE Act Brownfields Public Information Exchange</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24340A141</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Oklo Inc</author>
-			<pubDate>2024-12-10 07:48:00</pubDate>
 		</item>
 	</channel>
 </rss>

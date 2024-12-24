@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 23 Dec 2024 23:18:18 GMT</pubDate>
-		<lastBuildDate>Mon, 23 Dec 2024 23:18:18 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Dec 2024 14:17:16 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Dec 2024 14:17:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Test/Inspection/Operating Procedure</description>
 			<author>Constellation Energy Generation, LLC</author>
 			<pubDate>2024-12-19 07:51:00</pubDate>
-		</item>
-		<item>
-			<title>Byron Station, Unit 1 and 2, 10 CFR 50.59 Summary Report, "Changes, Tests and Experiments"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24344A112</link>
-			<description>Inservice/Preservice Inspection and Test Report, Letter</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2024-12-17 08:07:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 23 Dec 2024 23:18:17 GMT</pubDate>
-		<lastBuildDate>Mon, 23 Dec 2024 23:18:17 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Dec 2024 14:17:16 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Dec 2024 14:17:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -150,13 +150,6 @@
 			<description>Updated Final Safety Analysis Report (UFSAR)</description>
 			<author>Entergy Operations, Inc</author>
 			<pubDate>2024-12-11 07:58:00</pubDate>
-		</item>
-		<item>
-			<title>Point Beach, Units 1 and 2, Subsequent License Renewal Application Environmental Review Supplemental Environmental Audit December 2, 2024 L-2024-182 10 CFR 54 Response to Requests for Confirmation of Information and Requests for Additional Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24337A109</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>NextEra Energy Point Beach, LLC</author>
-			<pubDate>2024-12-10 07:47:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 23 Dec 2024 23:18:17 GMT</pubDate>
-		<lastBuildDate>Mon, 23 Dec 2024 23:18:17 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Dec 2024 14:17:16 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Dec 2024 14:17:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,27 +52,6 @@
 			<description>Regulatory Guide, Status Report</description>
 			<author>NRC/Chairman</author>
 			<pubDate>2024-12-11 07:57:00</pubDate>
-		</item>
-		<item>
-			<title>VS-COMSECY-24-0013: Renewal of Advisory Committee on Reactor Safeguards Charter (Wright)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24311A050</link>
-			<description>Commission Voting Record (CVR)</description>
-			<author>NRC/OCM</author>
-			<pubDate>2024-12-10 16:24:00</pubDate>
-		</item>
-		<item>
-			<title>U.S. NRC Response to NEI Proposal Paper “Regulations Of Rapid High-Volume Deployable Reactors in Remote Applications (RHDRA) and Other Advanced Reactors”</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24317A174</link>
-			<description>Letter</description>
-			<author>NRC/EDO</author>
-			<pubDate>2024-12-10 11:30:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Presentation - Section 206 of the ADVANCE Act - Evaluation of Potential Regulatory Issues at Brownfield Sites</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24340A140</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-12-10 07:48:00</pubDate>
 		</item>
 	</channel>
 </rss>
