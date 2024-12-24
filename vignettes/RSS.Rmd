@@ -343,7 +343,7 @@ code_search |>
   dplyr::add_row(
     tag = "All Codes",
     search = "Or Gate", 
-    `RSS File` = "https://mrdenman-nuclear.github.io/nrcadams/RSS/dockets-RTR.rss"
+    `RSS File` = "https://mrdenman-nuclear.github.io/nrcadams/RSS/SourceTermCodes.rss"
     ) |>
   nrcadams::hyperlink_file_to_name(name_vct = `RSS File`, url_vct = `RSS File`) |>
   DT::datatable(escape = FALSE)
