@@ -275,17 +275,6 @@ if (length(Codes) != 0) {
     })
 }
 
-code_search |>
-  dplyr::mutate(
-    `RSS File` = paste0(
-      "https://mrdenman-nuclear.github.io/nrcadams/RSS/",
-      tag,
-      ".rss"
-    )
-  ) |>
-  nrcadams::hyperlink_file_to_name(name_vct = `RSS File`, url_vct = `RSS File`) |>
-  DT::datatable(escape = FALSE)
-
 
 
 Codes |>
@@ -295,7 +284,6 @@ Codes |>
       ),
     title = "Source Term Code Reports"
     )  
-
 
 Inspections <- nrcadams::search_advanced(
     search_field = "properties_search_all:!(!(DocumentType,eq,%27Inspection+Manual%27,%27%27),!(AuthorAffiliation,starts,NRC/NRR,%27%27),",
@@ -330,5 +318,24 @@ if (length(KP_meetings) != 0) {
       title = "Kairos Power Meetings"
       )  
 }
+
+```
+
+
+```{r}
+code_search |>
+  dplyr::mutate(
+    `RSS File` = paste0(
+      "https://mrdenman-nuclear.github.io/nrcadams/RSS/",
+      tag,
+      ".rss"
+    )
+  ) |>
+  nrcadams::hyperlink_file_to_name(name_vct = `RSS File`, url_vct = `RSS File`) |>
+  DT::datatable(escape = FALSE)
+
+
+
+
 
 ```
