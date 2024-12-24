@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <rss version="2.0">
 	<channel>
-		<title>Source Term Code Reports</title>
+		<title>MELCOR</title>
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
@@ -17,13 +17,6 @@
 			<description>ACRS Summary Report</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-12-20 16:34:00</pubDate>
-		</item>
-		<item>
-			<title>Braidwood Station, Units 1 and 2, 10 CFR 50.59 Changes, tests, and experiments Summary Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24348A093</link>
-			<description>Test/Inspection/Operating Procedure</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2024-12-19 07:51:00</pubDate>
 		</item>
 	</channel>
 </rss>
