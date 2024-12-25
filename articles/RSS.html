@@ -73,8 +73,8 @@
     
 <p>This page is updated Monday through Friday, hourly between 9AM ET and
 5 PM ET. It presents RSS files for the various dockets tracked by the
-<code>nrcadams</code> package. The last update was at 2024-12-24
-18:16:28.933972 ET.</p>
+<code>nrcadams</code> package. The last update was at 2024-12-25
+09:17:22.934948 ET.</p>
 <div class="section level2">
 <h2 id="using-the-rss-feeds">Using the RSS Feeds<a class="anchor" aria-label="anchor" href="#using-the-rss-feeds"></a>
 </h2>
@@ -104,10 +104,10 @@ located at the URLs shown in the table below.</p>
 <span><span class="co">#&gt; Error in get(paste0(generic, ".", class), envir = get_method_env()) : </span></span>
 <span><span class="co">#&gt;   object 'type_sum.accel' not found</span></span>
 <span><span class="co">#&gt; Searching with the following URL:</span></span>
-<span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_any:!(!(DocketNumber,eq,'99902088',''),!(DocketNumber,eq,'05000610',''),!(DocketNumber,eq,'05000608',''),!(DocketNumber,eq,'99902115',''),!(DocketNumber,eq,'99902071',''),!(DocketNumber,eq,'07007027',''),!(DocketNumber,eq,'99902117',''),!(DocketNumber,eq,'99902111',''),!(DocketNumber,eq,'99902100',''),!(DocketNumber,eq,'05000613',''),!(DocketNumber,eq,'99902094',''),!(DocketNumber,eq,'99902079',''),!(DocketNumber,eq,'99902076',''),!(DocketNumber,eq,'99900003',''),!(DocketNumber,eq,'99902049',''),!(DocketNumber,eq,'05200048',''),!(DocketNumber,eq,'99902078',''),!(DocketNumber,eq,'05200050',''),!(DocketNumber,eq,'99902052',''),!(DocketNumber,eq,'99902069',''),!(DocketNumber,eq,'05007513',''),!(DocketNumber,eq,'05000611',''),!(DocketNumber,eq,'05000612',''),!(DocketNumber,eq,'99902095',''),!(DocketNumber,eq,'99902101',''),!(DocketNumber,eq,'05200049',''),!(DocketNumber,eq,'99902128','')),properties_search_all:!(!(PublishDatePARS,gt,'12/10/2024',''))))&amp;qn=New&amp;tab=advanced-search-pars&amp;z=0 </span></span>
-<span><span class="co">#&gt; : 0.65 sec elapsed</span></span>
+<span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_any:!(!(DocketNumber,eq,'99902088',''),!(DocketNumber,eq,'05000610',''),!(DocketNumber,eq,'05000608',''),!(DocketNumber,eq,'99902115',''),!(DocketNumber,eq,'99902071',''),!(DocketNumber,eq,'07007027',''),!(DocketNumber,eq,'99902117',''),!(DocketNumber,eq,'99902111',''),!(DocketNumber,eq,'99902100',''),!(DocketNumber,eq,'05000613',''),!(DocketNumber,eq,'99902094',''),!(DocketNumber,eq,'99902079',''),!(DocketNumber,eq,'99902076',''),!(DocketNumber,eq,'99900003',''),!(DocketNumber,eq,'99902049',''),!(DocketNumber,eq,'05200048',''),!(DocketNumber,eq,'99902078',''),!(DocketNumber,eq,'05200050',''),!(DocketNumber,eq,'99902052',''),!(DocketNumber,eq,'99902069',''),!(DocketNumber,eq,'05007513',''),!(DocketNumber,eq,'05000611',''),!(DocketNumber,eq,'05000612',''),!(DocketNumber,eq,'99902095',''),!(DocketNumber,eq,'99902101',''),!(DocketNumber,eq,'05200049',''),!(DocketNumber,eq,'99902128','')),properties_search_all:!(!(PublishDatePARS,gt,'12/11/2024',''))))&amp;qn=New&amp;tab=advanced-search-pars&amp;z=0 </span></span>
+<span><span class="co">#&gt; : 0.988 sec elapsed</span></span>
 <span><span class="co">#&gt; </span></span>
-<span><span class="co">#&gt;  This search returned: 88 files.</span></span>
+<span><span class="co">#&gt;  This search returned: 85 files.</span></span>
 <span><span class="co">#&gt; Joining with `by = join_by(DocketNumber)`</span></span>
 <span></span>
 <span></span>
@@ -197,10 +197,10 @@ particular), these RSS files might help.</p>
 <span>  <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/pull.html" class="external-link">pull</a></span><span class="op">(</span><span class="va">DocketNumber</span><span class="op">)</span> <span class="op">|&gt;</span></span>
 <span>  <span class="fu">nrcadams</span><span class="fu">::</span><span class="fu"><a href="../reference/search_docket.html">search_docket</a></span><span class="op">(</span>days_back <span class="op">=</span> <span class="fl">14</span><span class="op">)</span></span>
 <span><span class="co">#&gt; Searching with the following URL:</span></span>
-<span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_any:!(!(DocketNumber,eq,'05000228',''),!(DocketNumber,eq,'05000170',''),!(DocketNumber,eq,'05000264',''),!(DocketNumber,eq,'05000073',''),!(DocketNumber,eq,'05000284',''),!(DocketNumber,eq,'05000188',''),!(DocketNumber,eq,'05000020',''),!(DocketNumber,eq,'05000184',''),!(DocketNumber,eq,'05000297',''),!(DocketNumber,eq,'05000243',''),!(DocketNumber,eq,'05000005',''),!(DocketNumber,eq,'05000182',''),!(DocketNumber,eq,'05000288',''),!(DocketNumber,eq,'05000225',''),!(DocketNumber,eq,'05000193',''),!(DocketNumber,eq,'05000059',''),!(DocketNumber,eq,'05000128',''),!(DocketNumber,eq,'05000150',''),!(DocketNumber,eq,'05000274',''),!(DocketNumber,eq,'05000607',''),!(DocketNumber,eq,'05000326',''),!(DocketNumber,eq,'05000083',''),!(DocketNumber,eq,'05000166',''),!(DocketNumber,eq,'05000223',''),!(DocketNumber,eq,'05000186',''),!(DocketNumber,eq,'05000123',''),!(DocketNumber,eq,'05000252',''),!(DocketNumber,eq,'05000602',''),!(DocketNumber,eq,'05000407',''),!(DocketNumber,eq,'05000156',''),!(DocketNumber,eq,'05000027','')),properties_search_all:!(!(PublishDatePARS,gt,'12/10/2024',''))))&amp;qn=New&amp;tab=advanced-search-pars&amp;z=0 </span></span>
-<span><span class="co">#&gt; : 0.281 sec elapsed</span></span>
+<span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_any:!(!(DocketNumber,eq,'05000228',''),!(DocketNumber,eq,'05000170',''),!(DocketNumber,eq,'05000264',''),!(DocketNumber,eq,'05000073',''),!(DocketNumber,eq,'05000284',''),!(DocketNumber,eq,'05000188',''),!(DocketNumber,eq,'05000020',''),!(DocketNumber,eq,'05000184',''),!(DocketNumber,eq,'05000297',''),!(DocketNumber,eq,'05000243',''),!(DocketNumber,eq,'05000005',''),!(DocketNumber,eq,'05000182',''),!(DocketNumber,eq,'05000288',''),!(DocketNumber,eq,'05000225',''),!(DocketNumber,eq,'05000193',''),!(DocketNumber,eq,'05000059',''),!(DocketNumber,eq,'05000128',''),!(DocketNumber,eq,'05000150',''),!(DocketNumber,eq,'05000274',''),!(DocketNumber,eq,'05000607',''),!(DocketNumber,eq,'05000326',''),!(DocketNumber,eq,'05000083',''),!(DocketNumber,eq,'05000166',''),!(DocketNumber,eq,'05000223',''),!(DocketNumber,eq,'05000186',''),!(DocketNumber,eq,'05000123',''),!(DocketNumber,eq,'05000252',''),!(DocketNumber,eq,'05000602',''),!(DocketNumber,eq,'05000407',''),!(DocketNumber,eq,'05000156',''),!(DocketNumber,eq,'05000027','')),properties_search_all:!(!(PublishDatePARS,gt,'12/11/2024',''))))&amp;qn=New&amp;tab=advanced-search-pars&amp;z=0 </span></span>
+<span><span class="co">#&gt; : 0.692 sec elapsed</span></span>
 <span><span class="co">#&gt; </span></span>
-<span><span class="co">#&gt;  This search returned: 17 files.</span></span>
+<span><span class="co">#&gt;  This search returned: 14 files.</span></span>
 <span></span>
 <span><span class="kw">if</span> <span class="op">(</span><span class="fu"><a href="https://rdrr.io/r/base/length.html" class="external-link">length</a></span><span class="op">(</span><span class="va">last_week_in_RTRs</span><span class="op">)</span> <span class="op">!=</span> <span class="fl">0</span><span class="op">)</span> <span class="op">{</span></span>
 <span>  <span class="va">last_week_in_RTRs</span> <span class="op">&lt;-</span> <span class="va">last_week_in_RTRs</span> <span class="op">|&gt;</span></span>
@@ -229,19 +229,16 @@ particular), these RSS files might help.</p>
 <span><span class="co">#&gt; Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'</span></span>
 <span><span class="co">#&gt; RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Kansas_State_University_(R-088).rss</span></span>
 <span><span class="co">#&gt; Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'</span></span>
-<span><span class="co">#&gt; RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Massachusetts_Institute_of_Technology_(R-037).rss</span></span>
-<span><span class="co">#&gt; Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'</span></span>
+<span><span class="co">#&gt; RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Massachusetts_Institute_of_Technology_(R-037).rss </span></span>
 <span><span class="co">#&gt; RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/National_Institute_of_Standards_and_Technology_(TR-005).rss</span></span>
 <span><span class="co">#&gt; Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'</span></span>
 <span><span class="co">#&gt; RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/North_Carolina_State_University_(R-120).rss </span></span>
 <span><span class="co">#&gt; RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Oregon_State_University_(R-106).rss</span></span>
 <span><span class="co">#&gt; Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'</span></span>
 <span><span class="co">#&gt; RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Penn_State_University_(R-002).rss </span></span>
-<span><span class="co">#&gt; RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Purdue_University_(R-087).rss</span></span>
-<span><span class="co">#&gt; Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'</span></span>
+<span><span class="co">#&gt; RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Purdue_University_(R-087).rss </span></span>
 <span><span class="co">#&gt; RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Reed_College_(R-112).rss </span></span>
-<span><span class="co">#&gt; RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Rensselaer_Polytechnic_Institute_(CX-022).rss</span></span>
-<span><span class="co">#&gt; Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'</span></span>
+<span><span class="co">#&gt; RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Rensselaer_Polytechnic_Institute_(CX-022).rss </span></span>
 <span><span class="co">#&gt; RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Rhode_Island_Atomic_Energy_Commission_(R-095).rss </span></span>
 <span><span class="co">#&gt; RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Texas_A&amp;M_University_AGN-201_(R-023).rss</span></span>
 <span><span class="co">#&gt; Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'</span></span>
@@ -286,8 +283,8 @@ particular), these RSS files might help.</p>
 <div class="sourceCode" id="cb3"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="va">ACRS</span> <span class="op">&lt;-</span> <span class="fu">nrcadams</span><span class="fu">::</span><span class="fu"><a href="../reference/search_ACRS.html">search_ACRS</a></span><span class="op">(</span>days_back <span class="op">=</span> <span class="fl">14</span><span class="op">)</span></span>
 <span><span class="co">#&gt; Searching with the following URL:</span></span>
-<span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_all:!(!(AuthorAffiliation,starts,NRC/ACRS,''),!(PublishDatePARS,gt,'12/10/2024',''))))&amp;qn=New&amp;tab=advanced-search-pars&amp;z=0 </span></span>
-<span><span class="co">#&gt; : 0.118 sec elapsed</span></span>
+<span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_all:!(!(AuthorAffiliation,starts,NRC/ACRS,''),!(PublishDatePARS,gt,'12/11/2024',''))))&amp;qn=New&amp;tab=advanced-search-pars&amp;z=0 </span></span>
+<span><span class="co">#&gt; : 0.403 sec elapsed</span></span>
 <span><span class="co">#&gt; </span></span>
 <span><span class="co">#&gt;  This search returned: 7 files.</span></span>
 <span></span>
@@ -333,55 +330,57 @@ also tagged with a docket number associated with that company.</p>
 <span>    <span class="op">}</span></span>
 <span>  <span class="op">)</span></span>
 <span><span class="co">#&gt; Searching with the following URL:</span></span>
-<span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902088',''),!(DocketNumber,not,'05000610',''),!(PublishDatePARS,gt,'12/10/2024','')),single_content_search:'ACU'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
-<span><span class="co">#&gt; : 0.149 sec elapsed</span></span>
-<span><span class="co">#&gt; </span></span>
-<span><span class="co">#&gt;  This search returned: 1 files.</span></span>
-<span><span class="co">#&gt; Searching with the following URL:</span></span>
-<span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'05000608',''),!(DocketNumber,not,'99902115',''),!(PublishDatePARS,gt,'12/10/2024','')),single_content_search:'SHINE+Medical+Technologies'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
-<span><span class="co">#&gt; : 0.186 sec elapsed</span></span>
-<span><span class="co">#&gt; </span></span>
-<span><span class="co">#&gt;  This search returned: 3 files.</span></span>
-<span><span class="co">#&gt; Searching with the following URL:</span></span>
-<span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902071',''),!(DocketNumber,not,'07007027',''),!(DocketNumber,not,'99902117',''),!(PublishDatePARS,gt,'12/10/2024','')),single_content_search:'X-Energy'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
-<span><span class="co">#&gt; : 0.151 sec elapsed</span></span>
-<span><span class="co">#&gt; </span></span>
-<span><span class="co">#&gt;  This search returned: 4 files.</span></span>
-<span><span class="co">#&gt; Searching with the following URL:</span></span>
-<span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902100',''),!(DocketNumber,not,'05000613',''),!(PublishDatePARS,gt,'12/10/2024','')),single_content_search:'TerraPower'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
-<span><span class="co">#&gt; : 0.151 sec elapsed</span></span>
-<span><span class="co">#&gt; </span></span>
-<span><span class="co">#&gt;  This search returned: 5 files.</span></span>
-<span><span class="co">#&gt; Searching with the following URL:</span></span>
-<span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902094',''),!(PublishDatePARS,gt,'12/10/2024','')),single_content_search:'UCUI'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
-<span><span class="co">#&gt; : 0.118 sec elapsed</span></span>
+<span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902088',''),!(DocketNumber,not,'05000610',''),!(PublishDatePARS,gt,'12/11/2024','')),single_content_search:'ACU'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
+<span><span class="co">#&gt; : 0.422 sec elapsed</span></span>
 <span><span class="co">#&gt; </span></span>
 <span><span class="co">#&gt;  This search returned: 0 files.</span></span>
 <span><span class="co">#&gt; Warning in nrcadams::search_undocketed(.x, days_back = 14): </span></span>
 <span><span class="co">#&gt; The search return no results.</span></span>
 <span><span class="co">#&gt; Searching with the following URL:</span></span>
-<span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902076',''),!(PublishDatePARS,gt,'12/10/2024','')),single_content_search:'Terrestrial+Energy'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
-<span><span class="co">#&gt; : 0.161 sec elapsed</span></span>
-<span><span class="co">#&gt; </span></span>
-<span><span class="co">#&gt;  This search returned: 20 files.</span></span>
-<span><span class="co">#&gt; Searching with the following URL:</span></span>
-<span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'05200048',''),!(DocketNumber,not,'99902078',''),!(DocketNumber,not,'05200050',''),!(DocketNumber,not,'99902052',''),!(PublishDatePARS,gt,'12/10/2024','')),single_content_search:'NuScale'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
-<span><span class="co">#&gt; : 0.208 sec elapsed</span></span>
-<span><span class="co">#&gt; </span></span>
-<span><span class="co">#&gt;  This search returned: 15 files.</span></span>
-<span><span class="co">#&gt; Searching with the following URL:</span></span>
-<span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902069',''),!(DocketNumber,not,'05007513',''),!(DocketNumber,not,'05000611',''),!(DocketNumber,not,'05000612',''),!(PublishDatePARS,gt,'12/10/2024','')),single_content_search:'Kairos+Power'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
-<span><span class="co">#&gt; : 0.2 sec elapsed</span></span>
-<span><span class="co">#&gt; </span></span>
-<span><span class="co">#&gt;  This search returned: 6 files.</span></span>
-<span><span class="co">#&gt; Searching with the following URL:</span></span>
-<span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902095',''),!(DocketNumber,not,'99902101',''),!(DocketNumber,not,'05200049',''),!(PublishDatePARS,gt,'12/10/2024','')),single_content_search:'Oklo'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
-<span><span class="co">#&gt; : 0.187 sec elapsed</span></span>
+<span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'05000608',''),!(DocketNumber,not,'99902115',''),!(PublishDatePARS,gt,'12/11/2024','')),single_content_search:'SHINE+Medical+Technologies'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
+<span><span class="co">#&gt; : 0.421 sec elapsed</span></span>
 <span><span class="co">#&gt; </span></span>
 <span><span class="co">#&gt;  This search returned: 3 files.</span></span>
 <span><span class="co">#&gt; Searching with the following URL:</span></span>
-<span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902128',''),!(PublishDatePARS,gt,'12/10/2024','')),single_content_search:'Aalo'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
-<span><span class="co">#&gt; : 0.12 sec elapsed</span></span>
+<span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902071',''),!(DocketNumber,not,'07007027',''),!(DocketNumber,not,'99902117',''),!(PublishDatePARS,gt,'12/11/2024','')),single_content_search:'X-Energy'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
+<span><span class="co">#&gt; : 0.409 sec elapsed</span></span>
+<span><span class="co">#&gt; </span></span>
+<span><span class="co">#&gt;  This search returned: 3 files.</span></span>
+<span><span class="co">#&gt; Searching with the following URL:</span></span>
+<span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902100',''),!(DocketNumber,not,'05000613',''),!(PublishDatePARS,gt,'12/11/2024','')),single_content_search:'TerraPower'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
+<span><span class="co">#&gt; : 0.392 sec elapsed</span></span>
+<span><span class="co">#&gt; </span></span>
+<span><span class="co">#&gt;  This search returned: 4 files.</span></span>
+<span><span class="co">#&gt; Searching with the following URL:</span></span>
+<span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902094',''),!(PublishDatePARS,gt,'12/11/2024','')),single_content_search:'UCUI'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
+<span><span class="co">#&gt; : 0.362 sec elapsed</span></span>
+<span><span class="co">#&gt; </span></span>
+<span><span class="co">#&gt;  This search returned: 0 files.</span></span>
+<span><span class="co">#&gt; Warning in nrcadams::search_undocketed(.x, days_back = 14): </span></span>
+<span><span class="co">#&gt; The search return no results.</span></span>
+<span><span class="co">#&gt; Searching with the following URL:</span></span>
+<span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902076',''),!(PublishDatePARS,gt,'12/11/2024','')),single_content_search:'Terrestrial+Energy'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
+<span><span class="co">#&gt; : 0.464 sec elapsed</span></span>
+<span><span class="co">#&gt; </span></span>
+<span><span class="co">#&gt;  This search returned: 17 files.</span></span>
+<span><span class="co">#&gt; Searching with the following URL:</span></span>
+<span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'05200048',''),!(DocketNumber,not,'99902078',''),!(DocketNumber,not,'05200050',''),!(DocketNumber,not,'99902052',''),!(PublishDatePARS,gt,'12/11/2024','')),single_content_search:'NuScale'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
+<span><span class="co">#&gt; : 0.425 sec elapsed</span></span>
+<span><span class="co">#&gt; </span></span>
+<span><span class="co">#&gt;  This search returned: 11 files.</span></span>
+<span><span class="co">#&gt; Searching with the following URL:</span></span>
+<span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902069',''),!(DocketNumber,not,'05007513',''),!(DocketNumber,not,'05000611',''),!(DocketNumber,not,'05000612',''),!(PublishDatePARS,gt,'12/11/2024','')),single_content_search:'Kairos+Power'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
+<span><span class="co">#&gt; : 0.462 sec elapsed</span></span>
+<span><span class="co">#&gt; </span></span>
+<span><span class="co">#&gt;  This search returned: 5 files.</span></span>
+<span><span class="co">#&gt; Searching with the following URL:</span></span>
+<span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902095',''),!(DocketNumber,not,'99902101',''),!(DocketNumber,not,'05200049',''),!(PublishDatePARS,gt,'12/11/2024','')),single_content_search:'Oklo'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
+<span><span class="co">#&gt; : 0.397 sec elapsed</span></span>
+<span><span class="co">#&gt; </span></span>
+<span><span class="co">#&gt;  This search returned: 3 files.</span></span>
+<span><span class="co">#&gt; Searching with the following URL:</span></span>
+<span><span class="co">#&gt;  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902128',''),!(PublishDatePARS,gt,'12/11/2024','')),single_content_search:'Aalo'))&amp;qn=New&amp;tab=content-search-pars&amp;z=0 </span></span>
+<span><span class="co">#&gt; : 0.376 sec elapsed</span></span>
 <span><span class="co">#&gt; </span></span>
 <span><span class="co">#&gt;  This search returned: 0 files.</span></span>
 <span><span class="co">#&gt; Warning in nrcadams::search_undocketed(.x, days_back = 14): </span></span>
@@ -401,7 +400,6 @@ also tagged with a docket number associated with that company.</p>
 <span>        title <span class="op">=</span> <span class="va">.x</span> </span>
 <span>        <span class="op">)</span></span>
 <span>  <span class="op">}</span><span class="op">)</span></span>
-<span><span class="co">#&gt; Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'</span></span>
 <span><span class="co">#&gt; RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/ACU.rss</span></span>
 <span><span class="co">#&gt; Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'</span></span>
 <span><span class="co">#&gt; RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/SHINE_Medical_Technologies.rss</span></span>

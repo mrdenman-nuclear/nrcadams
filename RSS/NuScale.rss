@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 24 Dec 2024 23:16:33 GMT</pubDate>
-		<lastBuildDate>Tue, 24 Dec 2024 23:16:33 GMT</lastBuildDate>
+		<pubDate>Wed, 25 Dec 2024 14:17:30 GMT</pubDate>
+		<lastBuildDate>Wed, 25 Dec 2024 14:17:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -87,34 +87,6 @@
 			<description>Graphics incl Charts and Tables, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NRC/NRR/DANU/UARP</author>
 			<pubDate>2024-12-12 07:44:00</pubDate>
-		</item>
-		<item>
-			<title>SECY-24-0102: Weekly Information Report Week Ending December 6, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24345A143</link>
-			<description>Commission SECY Paper, Weekly Information Report</description>
-			<author>NRC/EDO/AO</author>
-			<pubDate>2024-12-11 14:42:00</pubDate>
-		</item>
-		<item>
-			<title>American Electric Power, NRC Pre-Submittal Meeting Appalachian Power SMR QAPD</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24341A214</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>American Electric Power</author>
-			<pubDate>2024-12-11 14:38:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: "Xe-100 Licensing Topical Report Plume Exposure Pathway Emergency Planning Zone Sizing Methodology," Revision 1 (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24331A308</link>
-			<description>Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2024-12-11 07:57:00</pubDate>
-		</item>
-		<item>
-			<title>Fiscal Year 2024 Q4 Report Licensing Activities and Regulatory Duties of the NRC</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24282A934</link>
-			<description>Regulatory Guide, Status Report</description>
-			<author>NRC/Chairman</author>
-			<pubDate>2024-12-11 07:57:00</pubDate>
 		</item>
 	</channel>
 </rss>
