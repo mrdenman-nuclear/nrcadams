@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 25 Dec 2024 23:17:32 GMT</pubDate>
-		<lastBuildDate>Wed, 25 Dec 2024 23:17:32 GMT</lastBuildDate>
+		<pubDate>Thu, 26 Dec 2024 14:17:33 GMT</pubDate>
+		<lastBuildDate>Thu, 26 Dec 2024 14:17:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Biosphere Dose Model BDOSE Version 3.0 User's Guide</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24326A301</link>
+			<description>Guidance Document, Manual, Operating Procedures</description>
+			<author>Center for Nuclear Waste Regulatory Analyses (CNWRA), NRC/NMSS</author>
+			<pubDate>2024-12-26 07:55:00</pubDate>
+		</item>
+		<item>
+			<title>Semiannual Status Report on the Licensing Activities and Regulatory Duties (April - September 2024) Enclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24302A119</link>
+			<description>Status Report</description>
+			<author>NRC/Chairman</author>
+			<pubDate>2024-12-26 07:55:00</pubDate>
+		</item>
+		<item>
+			<title>Comment (013) from Sofia Tasoluk on PR-51 - Generic Environmental Impact Statement for Licensing of New Nuclear Reactors</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24351A212</link>
+			<description>Rulemaking-Comment</description>
+			<author>Univ of Miami</author>
+			<pubDate>2024-12-26 07:54:00</pubDate>
+		</item>
+		<item>
+			<title>Comment (015) from Kathya Aguilar on PR-51 - Generic Environmental Impact Statement for Licensing of New Nuclear Reactors</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24351A224</link>
+			<description>Rulemaking-Comment</description>
+			<author>- No Known Affiliation</author>
+			<pubDate>2024-12-26 07:54:00</pubDate>
+		</item>
 		<item>
 			<title>Environmental Assessment for the License Termination Plan for the Nuclear Ship Savannah in Baltimore, Maryland</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24351A024</link>
@@ -115,20 +143,6 @@
 			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-12-13 07:25:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of Nov 14, 2024 Public Meeting on the Draft Supplemental Environmental Impact Statement for License Renewal of Diablo Canyon Units 1 and 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24346A024</link>
-			<description>Meeting Transcript</description>
-			<author>NRC/NMSS/DREFS/EPMB1</author>
-			<pubDate>2024-12-12 11:17:00</pubDate>
-		</item>
-		<item>
-			<title>Millstone, Unit 3, Current Facility Operating License NPF-49, Tech Specs, Revised 11/22/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052720310</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-12-12 09:46:00</pubDate>
 		</item>
 	</channel>
 </rss>

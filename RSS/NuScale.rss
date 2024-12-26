@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 25 Dec 2024 23:17:32 GMT</pubDate>
-		<lastBuildDate>Wed, 25 Dec 2024 23:17:32 GMT</lastBuildDate>
+		<pubDate>Thu, 26 Dec 2024 14:17:33 GMT</pubDate>
+		<lastBuildDate>Thu, 26 Dec 2024 14:17:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Semiannual Status Report on the Licensing Activities and Regulatory Duties (April - September 2024) Enclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24302A119</link>
+			<description>Status Report</description>
+			<author>NRC/Chairman</author>
+			<pubDate>2024-12-26 07:55:00</pubDate>
+		</item>
 		<item>
 			<title>Transcript of the Advisory Committee on Reactor Safeguards: Increased Enrichment of Conventional and Accident Tolerant Fuel Designs for Light-Water Reactors - SC - December 17-18, 2024 Pages 1-742 (Open)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24358A095</link>
@@ -59,34 +66,6 @@
 			<description>Meeting Briefing Package/Handouts</description>
 			<author>NRC/NRR/DANU/UARP</author>
 			<pubDate>2024-12-13 09:16:00</pubDate>
-		</item>
-		<item>
-			<title>Preliminary Observations Comments Questions on NEI EPZ White Paper 14 Nov 2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24347A143</link>
-			<description>Technical Paper</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-12-12 15:35:00</pubDate>
-		</item>
-		<item>
-			<title>Preliminary Observations Comments Questions on NEI EPZ White Paper 14 Nov 2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24347A149</link>
-			<description>Technical Paper</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-12-12 15:35:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of Virtual Public Meeting ADVANCE Act Section 206</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24340A261</link>
-			<description>Meeting Transcript</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-12-12 09:30:00</pubDate>
-		</item>
-		<item>
-			<title>Advanced Reactor Stakeholder Meeting December 12, 2024 Master Deck Slides.Final.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24344A289</link>
-			<description>Graphics incl Charts and Tables, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DANU/UARP</author>
-			<pubDate>2024-12-12 07:44:00</pubDate>
 		</item>
 	</channel>
 </rss>
