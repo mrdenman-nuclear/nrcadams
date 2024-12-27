@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 26 Dec 2024 23:16:43 GMT</pubDate>
-		<lastBuildDate>Thu, 26 Dec 2024 23:16:43 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Dec 2024 14:18:28 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Dec 2024 14:18:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>E-Mail, Topical Report</description>
 			<author>NRC/NRR/DORL/LLPB</author>
 			<pubDate>2024-12-16 08:02:00</pubDate>
-		</item>
-		<item>
-			<title>08/20-21/2024 Summary of Closed Technology Update Meeting between U.S. Nuclear Regulatory Commission and GE Hitachi Nuclear Energy Americas, Global Nuclear Fuel Americas (EPID L-2024-NTM-0002)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24325A497</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DORL/LLPB</author>
-			<pubDate>2024-12-13 08:22:00</pubDate>
 		</item>
 	</channel>
 </rss>

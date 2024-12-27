@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 26 Dec 2024 23:16:46 GMT</pubDate>
-		<lastBuildDate>Thu, 26 Dec 2024 23:16:46 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Dec 2024 14:18:32 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Dec 2024 14:18:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Dresden Audit Summary - RCI and RAI Enclosure v2 track changes 12.10.24.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24354A003</link>
+			<description>License-Application for (Amend/Renewal/New) for DKT 30, 40, 70, Request for Additional Information (RAI)</description>
+			<author>NRC/NMSS/DREFS/EPMB1</author>
+			<pubDate>2024-12-27 07:58:00</pubDate>
+		</item>
 		<item>
 			<title>Biosphere Dose Model BDOSE Version 3.0 User's Guide</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24326A301</link>
@@ -108,41 +115,6 @@
 			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-12-16 07:01:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Approved TerraPower, LLC, Topical Report, "An Analysis of Potential Volcanic Hazards at the Proposed Natrium Site near Kemmerer, Wyoming"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24303A409</link>
-			<description>Letter, Topical Report</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2024-12-13 10:46:00</pubDate>
-		</item>
-		<item>
-			<title>11/20/2024 - Public Meeting Transcript RE:  Part 53 Proposed Rule "Risk-Informed, Technology-Inclusive Regulatory Framework for Advanced Reactors," Pages 1-208</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24348A100</link>
-			<description>Meeting Transcript</description>
-			<author>NRC/OCM</author>
-			<pubDate>2024-12-13 10:41:00</pubDate>
-		</item>
-		<item>
-			<title>V.C. Summer Subsequent License Renewal DSEIS Public Meeting Slides December 17, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24348A110</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NMSS/DREFS/EPMB1</author>
-			<pubDate>2024-12-13 10:41:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of Nov 20, 2024 Public Meeting on the Draft Supplemental Environmental Impact Statement for License Renewal of Diablo Canyon Units 1 and 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24346A026</link>
-			<description>Meeting Transcript</description>
-			<author>NRC/NMSS/DREFS/EPMB1</author>
-			<pubDate>2024-12-13 10:23:00</pubDate>
-		</item>
-		<item>
-			<title>Seabrook, Unit 1, Current Facility Operating License NPF-86, Tech Specs, Revised 12/13/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053130320</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-12-13 07:25:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 26 Dec 2024 23:16:43 GMT</pubDate>
-		<lastBuildDate>Thu, 26 Dec 2024 23:16:43 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Dec 2024 14:18:29 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Dec 2024 14:18:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Texas A&M University, Annual Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24353A348</link>
+			<description>Annual Operating Report</description>
+			<author>Texas AandM Univ</author>
+			<pubDate>2024-12-27 07:58:00</pubDate>
+		</item>
 		<item>
 			<title>Texas Engineering Experiment Station/Texas A&M University System - Change of Facility Project Manager</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24352A242</link>
@@ -45,13 +52,6 @@
 			<description>Letter</description>
 			<author>Texas AandM Univ</author>
 			<pubDate>2024-12-23 08:24:00</pubDate>
-		</item>
-		<item>
-			<title>Texas A&M University - License Amendment for Facility Operating License R-83: "Revision of the License Conditions for transfer of Byproduct Material Used in Association with Facility Operation Back to the R-83 License"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24340A112</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>Texas AandM Univ</author>
-			<pubDate>2024-12-13 08:21:00</pubDate>
 		</item>
 	</channel>
 </rss>

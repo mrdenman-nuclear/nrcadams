@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 26 Dec 2024 23:16:43 GMT</pubDate>
-		<lastBuildDate>Thu, 26 Dec 2024 23:16:43 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Dec 2024 14:18:29 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Dec 2024 14:18:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Armed Forces Radiobiology Research Institute Change Of Facility Backup Project Manager</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24347A224</link>
+			<description>Memoranda</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2024-12-27 07:58:00</pubDate>
+		</item>
+	</channel>
 </rss>

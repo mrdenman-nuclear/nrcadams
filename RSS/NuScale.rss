@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 26 Dec 2024 23:16:46 GMT</pubDate>
-		<lastBuildDate>Thu, 26 Dec 2024 23:16:46 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Dec 2024 14:18:32 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Dec 2024 14:18:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -80,20 +80,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2024-12-17 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>11/20/2024 - Public Meeting Transcript RE:  Part 53 Proposed Rule "Risk-Informed, Technology-Inclusive Regulatory Framework for Advanced Reactors," Pages 1-208</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24348A100</link>
-			<description>Meeting Transcript</description>
-			<author>NRC/OCM</author>
-			<pubDate>2024-12-13 10:41:00</pubDate>
-		</item>
-		<item>
-			<title>Advanced Reactor Stakeholder Meeting - December 12, 2024 Updated Slides2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24347A247</link>
-			<description>Meeting Briefing Package/Handouts</description>
-			<author>NRC/NRR/DANU/UARP</author>
-			<pubDate>2024-12-13 09:16:00</pubDate>
 		</item>
 	</channel>
 </rss>
