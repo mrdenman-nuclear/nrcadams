@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 30 Dec 2024 21:17:33 GMT</pubDate>
-		<lastBuildDate>Mon, 30 Dec 2024 21:17:33 GMT</lastBuildDate>
+		<pubDate>Mon, 30 Dec 2024 22:17:18 GMT</pubDate>
+		<lastBuildDate>Mon, 30 Dec 2024 22:17:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>GE-Hitachi Nuclear Energy - NEDC-33926P/NEDO-33926, Revision 3, BWRX-300 Steel-Plate Composite Containment Vessel (SCCV) and Reactor Building (RB) Structural Design</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24338A174</link>
+			<description>Letter</description>
+			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
+			<pubDate>2024-12-30 16:27:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: NEDO-33926, Revision 3, BWRX-300 Steel-plate Composite Containment Vessel (SCCV) and Reactor Building (RB) Structural Design</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24338A176</link>
+			<description>Topical Report</description>
+			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
+			<pubDate>2024-12-30 16:27:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 3: GE-Hitachi Nuclear Energy Americans, LLC - Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24338A177</link>
+			<description>Legal-Affidavit</description>
+			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
+			<pubDate>2024-12-30 16:27:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 2 - Example SER for Electrical and Digital Instrumentation and Control for Normal and Emergency Power Supply at a New Fuel Cycle Facility</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23346A050</link>
@@ -199,27 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-12-26 07:55:00</pubDate>
-		</item>
-		<item>
-			<title>Revised form 898 Fuel Storage Rack TR</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24351A122</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2024-12-26 07:54:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Regulatory Engagement Plan, HI-2240423 Revision 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24351A042</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
-			<pubDate>2024-12-26 07:53:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, SMR-300 Regulatory Engagement Plan, HI-2440423, Revision 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24351A043</link>
-			<description>Report, Technical</description>
-			<author>SMR, LLC</author>
-			<pubDate>2024-12-26 07:53:00</pubDate>
 		</item>
 	</channel>
 </rss>
