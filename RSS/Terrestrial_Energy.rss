@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 27 Dec 2024 23:17:19 GMT</pubDate>
-		<lastBuildDate>Fri, 27 Dec 2024 23:17:19 GMT</lastBuildDate>
+		<pubDate>Mon, 30 Dec 2024 14:19:42 GMT</pubDate>
+		<lastBuildDate>Mon, 30 Dec 2024 14:19:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Federal Register Notice for the Environmental Assessment and Finding of No Significant Impact for the License Termination Plan for the Nuclear Ship Savannah</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24353A328</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/NMSS/DREFS</author>
+			<pubDate>2024-12-30 09:11:00</pubDate>
+		</item>
 		<item>
 			<title>Dresden Audit Summary - RCI and RAI Enclosure v2 track changes 12.10.24.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24354A003</link>
@@ -101,20 +108,6 @@
 			<description>License-Construction Permit (CP)(New/Extension/Amendment) DKT 50</description>
 			<author>NRC/NRR</author>
 			<pubDate>2024-12-17 12:48:00</pubDate>
-		</item>
-		<item>
-			<title>SRMC-CWDA-2024-00035, Proposal to Cease Waste Removal Activities in Tank 10 and Enter Sampling and Analysis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24346A076</link>
-			<description>Report, Technical, Slides and Viewgraphs</description>
-			<author>BWX Technologies, Inc, FLUOR Corp, Savannah River Mission Completion LLC </author>
-			<pubDate>2024-12-16 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>Diablo Canyon, Unit 1, Current Facility Operating License DPR-80, Tech Specs, Revised 12/16/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053140349</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-12-16 07:01:00</pubDate>
 		</item>
 	</channel>
 </rss>

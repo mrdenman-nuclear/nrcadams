@@ -5,12 +5,89 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 27 Dec 2024 23:17:10 GMT</pubDate>
-		<lastBuildDate>Fri, 27 Dec 2024 23:17:10 GMT</lastBuildDate>
+		<pubDate>Mon, 30 Dec 2024 14:19:33 GMT</pubDate>
+		<lastBuildDate>Mon, 30 Dec 2024 14:19:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 2 - Example SER for Electrical and Digital Instrumentation and Control for Normal and Emergency Power Supply at a New Fuel Cycle Facility</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23346A050</link>
+			<description>Safety Evaluation Report, Draft</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2024-12-30 08:05:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1 - Example SER for Electrical and Digital Instrumentation and Control Normal Power Supply at a New Fuel Cycle Facility</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23346A049</link>
+			<description>Safety Evaluation Report, Draft</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2024-12-30 08:05:00</pubDate>
+		</item>
+		<item>
+			<title>Memorandum - Example SER for Electrical and Digital I&C for Fuel Cycle Facilities</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23346A048</link>
+			<description>Memoranda</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2024-12-30 08:05:00</pubDate>
+		</item>
+		<item>
+			<title>Nuscale Power, LLC - Response to Request for Additional Information No. 032 (RAI-10297 RI) on the Nuscale Standard Design Approval Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24354A252</link>
+			<description>Letter, Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-12-30 08:04:00</pubDate>
+		</item>
+		<item>
+			<title>Memo to TRISO-X, LLC Summary of Meeting Structural Meeting on October 17, 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24337A106</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2024-12-30 08:04:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure - Participant List for a Structural Meeting with TRISO-X on October 17, 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24337A107</link>
+			<description>- No Document Type Applies</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2024-12-30 08:04:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC, Response to NRC Request for Additional Information No. 032 (RAI-10297 R1) on the NuScale Standard Design Approval Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24354A131</link>
+			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-12-30 08:03:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC, Response to NRC Request for Additional Information No. 027 (RAI-10189 R1) on the NuScale Standard Design Approval Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24354A160</link>
+			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2024-12-30 08:03:00</pubDate>
+		</item>
+		<item>
+			<title>Westinghouse, Submittal of eVinci Microreactor 2024 Pre-Application Regulatory Engagement Plan</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24354A172</link>
+			<description>Letter</description>
+			<author>Westinghouse Electric Co, LLC</author>
+			<pubDate>2024-12-30 08:03:00</pubDate>
+		</item>
+		<item>
+			<title>Westinghouse, Affidavit AW-24-080</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24354A173</link>
+			<description>Legal-Affidavit</description>
+			<author>Westinghouse Electric Co, LLC</author>
+			<pubDate>2024-12-30 08:03:00</pubDate>
+		</item>
+		<item>
+			<title>TerraPower, LLC, Submittal of Approved Fuel and Control Assembly Qualification Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24354A192</link>
+			<description>Legal-Affidavit, Letter, Topical Report</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2024-12-30 08:03:00</pubDate>
+		</item>
 		<item>
 			<title>Westinghouse, Submittal of Principal Design Criteria Topical Report (EVR-LIC-RL-001-P-A/NP-A)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24353A098</link>
@@ -143,83 +220,6 @@
 			<description>Report, Technical</description>
 			<author>SMR, LLC</author>
 			<pubDate>2024-12-26 07:53:00</pubDate>
-		</item>
-		<item>
-			<title>AP300 White Paper No.9 PRA Preapplication Meeting Summary Letter and Enclosure 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24324A078</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-12-23 16:30:00</pubDate>
-		</item>
-		<item>
-			<title>Letter - U.S. NRC Feedback Regarding Westinghouse AP300 Emergency Planning Zone Definition White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24352A363</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2024-12-23 14:40:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse Electric Company, Affidavit AW-24-082</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24353A326</link>
-			<description>Legal-Affidavit</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-12-23 14:39:00</pubDate>
-		</item>
-		<item>
-			<title>01/16/2025 Meeting to discuss NRC's draft electrical/digital I&C RAIs with TRISO-X</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24358A028</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2024-12-23 08:38:00</pubDate>
-		</item>
-		<item>
-			<title>Response to NuScale Topical Report Audit Question Number A-NonLOCA.LTR-28</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24348A038</link>
-			<description>Audit Report, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-12-23 08:24:00</pubDate>
-		</item>
-		<item>
-			<title>Response to NuScale Topical Report Audit Question Number A-NonLOCA.LTR-28S</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24348A040</link>
-			<description>Audit Report, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-12-23 08:24:00</pubDate>
-		</item>
-		<item>
-			<title>Response to NuScale Topical Report Audit Question Number A-NonLOCA.LTR-29</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24348A042</link>
-			<description>Audit Report, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-12-23 08:24:00</pubDate>
-		</item>
-		<item>
-			<title>Response to NuScale Topical Report Audit Question Number A-NonLOCA.LTR-30</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24348A043</link>
-			<description>Audit Report, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-12-23 08:24:00</pubDate>
-		</item>
-		<item>
-			<title>Response to NuScale Topical Report Audit Question Number A-NonLOCA.LTR-33</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24348A045</link>
-			<description>Audit Report, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-12-23 08:24:00</pubDate>
-		</item>
-		<item>
-			<title>Response to NuScale Topical Report Audit Question Number A-NonLOCA.LTR-34</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24348A048</link>
-			<description>Audit Report, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-12-23 08:24:00</pubDate>
-		</item>
-		<item>
-			<title>Response to NuScale Topical Report Audit Question Number A-NonLOCA.LTR-35</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24348A050</link>
-			<description>Audit Report, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2024-12-23 08:24:00</pubDate>
 		</item>
 	</channel>
 </rss>

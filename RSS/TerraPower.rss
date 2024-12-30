@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 27 Dec 2024 23:17:19 GMT</pubDate>
-		<lastBuildDate>Fri, 27 Dec 2024 23:17:19 GMT</lastBuildDate>
+		<pubDate>Mon, 30 Dec 2024 14:19:42 GMT</pubDate>
+		<lastBuildDate>Mon, 30 Dec 2024 14:19:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Comment (031) from M. O'Neill on behalf of NEI on PR-51 -Generic Environmental Impact Statement for Licensing of New Nuclear Reactors</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24354A067</link>
+			<description>Rulemaking-Comment</description>
+			<author>Nuclear Energy Institute (NEI)</author>
+			<pubDate>2024-12-30 08:03:00</pubDate>
+		</item>
 		<item>
 			<title>Comment (020) from Mark McManus on behalf of United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry (UA) on PR-51 - Generic Environmental Impact Statement for Licensing of New Nuclear Reactors</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24353A022</link>
@@ -45,13 +52,6 @@
 			<description>Meeting Summary</description>
 			<author>NRC/NMSS/DREFS/ETRB1</author>
 			<pubDate>2024-12-19 15:24:00</pubDate>
-		</item>
-		<item>
-			<title>2024/11/26 NRR E-mail Capture - [External_Sender] RE: Revised Schedules for TerraPower Topical Reports Partial Flow and DBA with Release (L-2024-TOP-0010 and L-2024-TOP-0009)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24337A039</link>
-			<description>E-Mail</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2024-12-16 08:02:00</pubDate>
 		</item>
 	</channel>
 </rss>

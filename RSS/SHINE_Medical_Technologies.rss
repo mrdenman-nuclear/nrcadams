@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 27 Dec 2024 23:17:19 GMT</pubDate>
-		<lastBuildDate>Fri, 27 Dec 2024 23:17:19 GMT</lastBuildDate>
+		<pubDate>Mon, 30 Dec 2024 14:19:42 GMT</pubDate>
+		<lastBuildDate>Mon, 30 Dec 2024 14:19:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Legal-Pleading</description>
 			<author>NRC/OGC</author>
 			<pubDate>2024-12-18 09:33:00</pubDate>
-		</item>
-		<item>
-			<title>National Report for the Eighth Review Meeting of the Joint Convention on the Safety of Spent Fuel  Management and on the Safety of Radioactive Waste Management</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24347A174</link>
-			<description>Report, Technical</description>
-			<author>US Dept of Energy, Office of Environmental Management</author>
-			<pubDate>2024-12-16 08:03:00</pubDate>
 		</item>
 	</channel>
 </rss>
