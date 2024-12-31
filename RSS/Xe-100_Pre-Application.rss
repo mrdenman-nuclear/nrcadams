@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 30 Dec 2024 23:16:51 GMT</pubDate>
-		<lastBuildDate>Mon, 30 Dec 2024 23:16:51 GMT</lastBuildDate>
+		<pubDate>Tue, 31 Dec 2024 14:16:57 GMT</pubDate>
+		<lastBuildDate>Tue, 31 Dec 2024 14:16:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Letter</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2024-12-19 07:49:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of X Energy, LLC (X-Energy) Xe-100 Licensing Topical Report: Xe-100 Training Programs Methodology, Revision 4</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24344A157</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2024-12-17 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>Xe-100 Licensing Topical Report Xe-100 Training Programs Methodology</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24344A158</link>
-			<description>Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2024-12-17 08:07:00</pubDate>
 		</item>
 	</channel>
 </rss>

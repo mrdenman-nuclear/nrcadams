@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 30 Dec 2024 23:16:57 GMT</pubDate>
-		<lastBuildDate>Mon, 30 Dec 2024 23:16:57 GMT</lastBuildDate>
+		<pubDate>Tue, 31 Dec 2024 14:17:02 GMT</pubDate>
+		<lastBuildDate>Tue, 31 Dec 2024 14:17:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -122,20 +122,6 @@
 			<description>Report, Technical</description>
 			<author>US Dept of Energy, Office of Legacy Management</author>
 			<pubDate>2024-12-18 07:06:00</pubDate>
-		</item>
-		<item>
-			<title>CPAF50-00612 - Kairos Power Hermes 2 Test Reactor Unit 2 Construction Permit CPTR-8</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24352A106</link>
-			<description>License-Construction Permit (CP)(New/Extension/Amendment) DKT 50</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-12-17 12:48:00</pubDate>
-		</item>
-		<item>
-			<title>CPAF50-00611 - Kairos Power Hermes 2 Test Reactor Unit 1 Construction Permit CPTR-7</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24352A112</link>
-			<description>License-Construction Permit (CP)(New/Extension/Amendment) DKT 50</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-12-17 12:48:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 30 Dec 2024 23:16:57 GMT</pubDate>
-		<lastBuildDate>Mon, 30 Dec 2024 23:16:57 GMT</lastBuildDate>
+		<pubDate>Tue, 31 Dec 2024 14:17:02 GMT</pubDate>
+		<lastBuildDate>Tue, 31 Dec 2024 14:17:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>12/13/2024 Summary of Pre-Submittal Meeting of Appalachian Power Co., Quality Assurance Program Description to Discuss Plan and Schedule to Submit QAPD Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24353A262</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2024-12-31 08:09:00</pubDate>
+		</item>
 		<item>
 			<title>Transcript - Advisory Committee on Reactor Safeguards - Proposed DG-1425 -Draft RG 1.183 - SC - December 19, 2024 - Pages 1-206 (Open)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24361A155</link>
@@ -80,13 +87,6 @@
 			<description>Meeting Agenda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-12-18 14:46:00</pubDate>
-		</item>
-		<item>
-			<title>Revised Completeness Determination email for NuScale Topical Report TR-145417, NuScale US460 Fuel Storage</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24351A123</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2024-12-17 08:08:00</pubDate>
 		</item>
 	</channel>
 </rss>
