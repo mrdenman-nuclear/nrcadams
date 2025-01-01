@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 31 Dec 2024 23:16:39 GMT</pubDate>
-		<lastBuildDate>Tue, 31 Dec 2024 23:16:39 GMT</lastBuildDate>
+		<pubDate>Wed, 01 Jan 2025 14:17:41 GMT</pubDate>
+		<lastBuildDate>Wed, 01 Jan 2025 14:17:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Federal Register Notice, Rulemaking- Final Rule</description>
 			<author>NRC/SECY</author>
 			<pubDate>2024-12-30 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Staff Response to Board Request for Additional Briefing</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24352A480</link>
-			<description>Legal-Pleading</description>
-			<author>NRC/OGC</author>
-			<pubDate>2024-12-18 09:33:00</pubDate>
 		</item>
 	</channel>
 </rss>

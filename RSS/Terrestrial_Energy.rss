@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 31 Dec 2024 23:16:39 GMT</pubDate>
-		<lastBuildDate>Tue, 31 Dec 2024 23:16:39 GMT</lastBuildDate>
+		<pubDate>Wed, 01 Jan 2025 14:17:42 GMT</pubDate>
+		<lastBuildDate>Wed, 01 Jan 2025 14:17:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -94,41 +94,6 @@
 			<description>Environmental Assessment</description>
 			<author>NRC/NMSS/DREFS</author>
 			<pubDate>2024-12-20 07:55:00</pubDate>
-		</item>
-		<item>
-			<title>Waterford, Unit 3, Current Facility Operating License NPF-38, Tech Specs, Revised 12/18/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053130318</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-12-18 15:14:00</pubDate>
-		</item>
-		<item>
-			<title>River Bend, Unit 1, Current Facility Operating License NPF-47, Tech Specs, Revised 12/18/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053110037</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-12-18 15:07:00</pubDate>
-		</item>
-		<item>
-			<title>Memo 9 19 2024 from DRobertson, EPA to RCrossland, EPA, Regarding Request for Continued Response Action Approval and Funding for a Removal Action at the Fansteel Metals/FMRI Superfund Site in Muskogee, Muskogee County, Oklahoma</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24275A066</link>
-			<description>Memoranda</description>
-			<author>US Environmental Protection Agency, Region 6</author>
-			<pubDate>2024-12-18 07:33:00</pubDate>
-		</item>
-		<item>
-			<title>2024/12/16 - Comment (44) E-mail regarding Diablo Canyon LR Draft EIS</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24351A190</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>Public Commenter</author>
-			<pubDate>2024-12-18 07:33:00</pubDate>
-		</item>
-		<item>
-			<title>U.S. Department of Energy, Office of Legacy Management - Uranium Mill Tailings Radiation Control Act Title II Disposal Sites, Annual Site Inspection and Monitoring Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24351A132</link>
-			<description>Report, Technical</description>
-			<author>US Dept of Energy, Office of Legacy Management</author>
-			<pubDate>2024-12-18 07:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
