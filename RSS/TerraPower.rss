@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 01 Jan 2025 23:16:49 GMT</pubDate>
-		<lastBuildDate>Wed, 01 Jan 2025 23:16:49 GMT</lastBuildDate>
+		<pubDate>Thu, 02 Jan 2025 14:18:43 GMT</pubDate>
+		<lastBuildDate>Thu, 02 Jan 2025 14:18:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,13 +59,6 @@
 			<description>ACRS Summary Report</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-12-20 16:34:00</pubDate>
-		</item>
-		<item>
-			<title>11/21/2024 Meeting Summary - ADVANCE Act Section 206 Brownfields Public Information Exchange</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24345A049</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NMSS/DREFS/ETRB1</author>
-			<pubDate>2024-12-19 15:24:00</pubDate>
 		</item>
 	</channel>
 </rss>

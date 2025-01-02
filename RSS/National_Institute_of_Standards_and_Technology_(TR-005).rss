@@ -5,11 +5,39 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 01 Jan 2025 23:16:45 GMT</pubDate>
-		<lastBuildDate>Wed, 01 Jan 2025 23:16:45 GMT</lastBuildDate>
+		<pubDate>Thu, 02 Jan 2025 14:18:37 GMT</pubDate>
+		<lastBuildDate>Thu, 02 Jan 2025 14:18:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Reactor Plenum Flow Meters License Amendment</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24355A140</link>
+			<description>License-Application for Facility Operating License (Amend/Renewal) DKT 50, Technical Specifications</description>
+			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
+			<pubDate>2025-01-02 07:49:00</pubDate>
+		</item>
+		<item>
+			<title>Reactor Plenum Flow Meters License Amendment</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24355A141</link>
+			<description>License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
+			<pubDate>2025-01-02 07:49:00</pubDate>
+		</item>
+		<item>
+			<title>NIST Center for Neutron Research (NCNR) Submittal of Request for Exigent License Amendment Under 10CFR50.91(a)(6) to Make Specified Changes to NBSR Safety Analysis Report.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24355A142</link>
+			<description>Letter</description>
+			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
+			<pubDate>2025-01-02 07:49:00</pubDate>
+		</item>
+		<item>
+			<title>Statement of no Significant Hazards Resulting from License Amendment Request</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24355A143</link>
+			<description>Report, Miscellaneous</description>
+			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
+			<pubDate>2025-01-02 07:49:00</pubDate>
+		</item>
+	</channel>
 </rss>
