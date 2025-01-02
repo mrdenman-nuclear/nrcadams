@@ -205,7 +205,7 @@ nrcadams::docket_codex |>
 
 ```{r extra-searches, echo = FALSE, results=FALSE}
 code_search <- tibble::tibble(
-  tag = c("MELCOR", "ARCON", "RADTRAD", "NRCDose3", "MACCS", "Sierra ATD")
+  tag = c("MELCOR", "ARCON", "RADTRAD", "NRCDose3", "MACCS", "Sierra ATD", "GOTHIC")
 ) |>
   dplyr::mutate(
     search = dplyr::case_when(
@@ -222,58 +222,18 @@ code_results <- code_search |>
         days_back = 7,
         content_search = TRUE
     )
-  })
-
-MELCOR <- nrcadams::search_advanced(
-    search_field = "single_content_search:MELCOR",
-    results_tag = "MELCOR",
-    days_back = 7,
-    content_search = TRUE
-) 
-ARCON <- nrcadams::search_advanced(
-    search_field = "single_content_search:ARCON",
-    results_tag = "ARCON",
-    days_back = 7,
-    content_search = TRUE
-) 
-RADTRAD <- nrcadams::search_advanced(
-    search_field = "single_content_search:RADTRAD",
-    results_tag = "RADTRAD",
-    days_back = 7,
-    content_search = TRUE
-) |> dplyr::mutate(tag = "RADTRAD")
-NRCDose3 <- nrcadams::search_advanced(
-    search_field = "single_content_search:NRCDose3",
-    results_tag = "NRCDose3",
-    days_back = 7,
-    content_search = TRUE
-) 
-MACCS <- nrcadams::search_advanced(
-    search_field = "single_content_search:MACCS",
-    results_tag = "MACCS",
-    days_back = 7,
-    content_search = TRUE
-) |> dplyr::mutate(tag = "MACCS")
-ATD <- nrcadams::search_advanced(
-    search_field = "single_content_search:'%22SIERRA+ATD%22'",
-    results_tag = "ATD",
-    days_back = 7,
-    content_search = TRUE
-) 
-
-Codes <- MELCOR |>
-  dplyr::bind_rows(ARCON) |>
-  dplyr::bind_rows(RADTRAD) |>
-  dplyr::bind_rows(NRCDose3) |>
-  dplyr::bind_rows(MACCS) |>
-  dplyr::bind_rows(ATD) 
+  }) |>
+  # Need to remove empty search results
+  purrr::discard(\(z) nrow(z) == 0) |>
+  purrr::reduce(dplyr::full_join) 
 
 
-if (length(Codes) != 0) {
+
+if (length(code_results) != 0) {
   code_search|>
     dplyr::pull(tag) |>
     purrr::walk(\(.x) {
-      Codes |>
+      code_results |>
         dplyr::filter(Tag == .x) |>
         nrcadams::write_rss(
           file = here::here("docs", "RSS", paste0(
@@ -286,7 +246,7 @@ if (length(Codes) != 0) {
 
 
 
-Codes |>
+code_results |>
   nrcadams::write_rss(
     file = here::here("docs", "RSS", paste0(
       "SourceTermCodes", ".rss")
