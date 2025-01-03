@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 Jan 2025 23:17:40 GMT</pubDate>
-		<lastBuildDate>Thu, 02 Jan 2025 23:17:40 GMT</lastBuildDate>
+		<pubDate>Fri, 03 Jan 2025 14:17:39 GMT</pubDate>
+		<lastBuildDate>Fri, 03 Jan 2025 14:17:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 1: Environmental Report for the Paducah Laser Enrichment Facility (Chapters 1 through 11)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24365A111</link>
+			<description>Environmental Monitoring Report</description>
+			<author>Global Laser Enrichment, LLC</author>
+			<pubDate>2025-01-03 07:59:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2c: Environmental Report for the Paducah Laser Enrichment Facility (Appendices L through P)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24365A270</link>
+			<description>Environmental Monitoring Report</description>
+			<author>Global Laser Enrichment, LLC</author>
+			<pubDate>2025-01-03 07:59:00</pubDate>
+		</item>
 		<item>
 			<title>Subcommittee Structure and Listing-Description for the Advisory Committee on Reactor Safeguards - January 2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24199A157</link>
@@ -87,13 +101,6 @@
 			<description>Rulemaking-Comment</description>
 			<author>- No Known Affiliation</author>
 			<pubDate>2024-12-26 07:54:00</pubDate>
-		</item>
-		<item>
-			<title>Environmental Assessment for the License Termination Plan for the Nuclear Ship Savannah in Baltimore, Maryland</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24351A024</link>
-			<description>Environmental Assessment</description>
-			<author>NRC/NMSS/DREFS</author>
-			<pubDate>2024-12-20 07:55:00</pubDate>
 		</item>
 	</channel>
 </rss>
