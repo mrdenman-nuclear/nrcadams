@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 06 Jan 2025 19:15:45 GMT</pubDate>
-		<lastBuildDate>Mon, 06 Jan 2025 19:15:45 GMT</lastBuildDate>
+		<pubDate>Mon, 06 Jan 2025 20:17:03 GMT</pubDate>
+		<lastBuildDate>Mon, 06 Jan 2025 20:17:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>UUTR Change of Facility Organization Level 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25003A198</link>
+			<description>Letter</description>
+			<author>Univ of Utah</author>
+			<pubDate>2025-01-06 14:23:00</pubDate>
+		</item>
+	</channel>
 </rss>
