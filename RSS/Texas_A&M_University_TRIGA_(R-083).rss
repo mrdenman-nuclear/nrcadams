@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 03 Jan 2025 23:19:21 GMT</pubDate>
-		<lastBuildDate>Fri, 03 Jan 2025 23:19:21 GMT</lastBuildDate>
+		<pubDate>Mon, 06 Jan 2025 14:18:45 GMT</pubDate>
+		<lastBuildDate>Mon, 06 Jan 2025 14:18:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,34 +24,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DANU/UNPL</author>
 			<pubDate>2024-12-26 07:55:00</pubDate>
-		</item>
-		<item>
-			<title>Texas A&M Univ., Submittal of Technical Specification required Report for Event Notification 56595, Identification of Degraded Fuel Element during 2023 Maintenance Outage</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24350A003</link>
-			<description>Letter, Written Event Report (30 or 60 day)</description>
-			<author>Texas AandM Univ</author>
-			<pubDate>2024-12-23 08:24:00</pubDate>
-		</item>
-		<item>
-			<title>Texas A&M Univ., Submission of Technical Specification Required Report for Event Notification 57174, Identification of Degraded Fuel Elements During 2024 Maintenance Outage</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24350A004</link>
-			<description>Letter, Written Event Report (30 or 60 day)</description>
-			<author>Texas AandM Univ</author>
-			<pubDate>2024-12-23 08:24:00</pubDate>
-		</item>
-		<item>
-			<title>Texas A&M Univ., Reply to Notice of Violation Dated 22 April 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24350A005</link>
-			<description>Letter, Licensee Response to Notice of Violation</description>
-			<author>Texas AandM Univ</author>
-			<pubDate>2024-12-23 08:24:00</pubDate>
-		</item>
-		<item>
-			<title>Submission of Technical Specification Required Report for Event Notification 56489, Operation in Violation of a Technical Specification; License No. R-83, Docket No: 50-128</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24350A006</link>
-			<description>Letter</description>
-			<author>Texas AandM Univ</author>
-			<pubDate>2024-12-23 08:24:00</pubDate>
 		</item>
 	</channel>
 </rss>
