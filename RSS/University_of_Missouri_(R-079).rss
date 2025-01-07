@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 06 Jan 2025 23:18:25 GMT</pubDate>
-		<lastBuildDate>Mon, 06 Jan 2025 23:18:25 GMT</lastBuildDate>
+		<pubDate>Tue, 07 Jan 2025 15:27:11 GMT</pubDate>
+		<lastBuildDate>Tue, 07 Jan 2025 15:27:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Examination Result Letter No. 50-123/OL-25-01, Missouri University of Science and Technology</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24302A248</link>
+			<description>License-Operator, Other HQ and Regional Correspondence, License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2025-01-07 08:16:00</pubDate>
+		</item>
+		<item>
+			<title>Examination Report Letter No. 50-123/OL-25-01, Missouri University of Science and Technology</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24302A247</link>
+			<description>License-Operator Examination Report (Non-Power Reactors Only), License-Operator, Other HQ and Regional Correspondence, License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2025-01-07 08:16:00</pubDate>
+		</item>
+	</channel>
 </rss>
