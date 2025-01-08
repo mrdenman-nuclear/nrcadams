@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 08 Jan 2025 16:21:50 GMT</pubDate>
-		<lastBuildDate>Wed, 08 Jan 2025 16:21:50 GMT</lastBuildDate>
+		<pubDate>Wed, 08 Jan 2025 17:17:19 GMT</pubDate>
+		<lastBuildDate>Wed, 08 Jan 2025 17:17:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>ACRS Memo ASER NuScale FSAR Chapter 16 and LOCA TR</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24337A018</link>
+			<description>Memoranda</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2025-01-08 11:42:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC, Response to SDAA Audit Question Number A-16.3.1.9-1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A206</link>
@@ -210,13 +217,6 @@
 		<item>
 			<title>NuScale Power, LLC, Response to SDAA Audit Question Number A-16.5.6.4-1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A202</link>
-			<description>Audit Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-01-08 08:02:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Response to SDAA Audit Question Number A-16.5.6.4-2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A203</link>
 			<description>Audit Report</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-01-08 08:02:00</pubDate>
