@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 07 Jan 2025 23:16:42 GMT</pubDate>
-		<lastBuildDate>Tue, 07 Jan 2025 23:16:42 GMT</lastBuildDate>
+		<pubDate>Wed, 08 Jan 2025 14:19:11 GMT</pubDate>
+		<lastBuildDate>Wed, 08 Jan 2025 14:19:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Research Information Letter 2024-17, "Integrated Human Event Analysis System For Event And Condition Assessment (IDHEAS-ECA) Evaluations Of Standardized Plant Analysis Risk (SPAR) Model Human Failure Events"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24352A019</link>
+			<description>Research Information Letter (RIL)</description>
+			<author>NRC/RES/DRA</author>
+			<pubDate>2025-01-08 08:04:00</pubDate>
+		</item>
+	</channel>
 </rss>
