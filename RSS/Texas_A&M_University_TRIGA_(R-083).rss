@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 08 Jan 2025 23:41:46 GMT</pubDate>
-		<lastBuildDate>Wed, 08 Jan 2025 23:41:46 GMT</lastBuildDate>
+		<pubDate>Thu, 09 Jan 2025 14:17:13 GMT</pubDate>
+		<lastBuildDate>Thu, 09 Jan 2025 14:17:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Annual Operating Report</description>
 			<author>Texas AandM Univ</author>
 			<pubDate>2024-12-27 07:58:00</pubDate>
-		</item>
-		<item>
-			<title>Texas Engineering Experiment Station/Texas A&M University System - Change of Facility Project Manager</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24352A242</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2024-12-26 07:55:00</pubDate>
 		</item>
 	</channel>
 </rss>
