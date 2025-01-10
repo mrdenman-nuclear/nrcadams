@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 Jan 2025 23:16:57 GMT</pubDate>
-		<lastBuildDate>Thu, 09 Jan 2025 23:16:57 GMT</lastBuildDate>
+		<pubDate>Fri, 10 Jan 2025 14:17:04 GMT</pubDate>
+		<lastBuildDate>Fri, 10 Jan 2025 14:17:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>ML24263A235 Limerick Generating Station, Units 1 and 2 - Submittal of Updated Final Safety Analysis Report (UFSAR), Revision 22 and UFSAR Reference Drawings - Redacted</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24353A302</link>
+			<description>Letter, Updated Final Safety Analysis Report (UFSAR)</description>
+			<author>Constellation Energy Generation, LLC</author>
+			<pubDate>2025-01-10 08:17:00</pubDate>
+		</item>
 		<item>
 			<title>Dresden Audit Summary - RCI and RAI Enclosure v2.23clean</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24366A028</link>
@@ -150,13 +157,6 @@
 			<description>Federal Register Notice</description>
 			<author>NRC/NMSS/DREFS</author>
 			<pubDate>2024-12-30 09:11:00</pubDate>
-		</item>
-		<item>
-			<title>Dresden Audit Summary - RCI and RAI Enclosure v2 track changes 12.10.24.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24354A003</link>
-			<description>License-Application for (Amend/Renewal/New) for DKT 30, 40, 70, Request for Additional Information (RAI)</description>
-			<author>NRC/NMSS/DREFS/EPMB1</author>
-			<pubDate>2024-12-27 07:58:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 Jan 2025 23:16:57 GMT</pubDate>
-		<lastBuildDate>Thu, 09 Jan 2025 23:16:57 GMT</lastBuildDate>
+		<pubDate>Fri, 10 Jan 2025 14:17:04 GMT</pubDate>
+		<lastBuildDate>Fri, 10 Jan 2025 14:17:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>December 12, 2024 Summary of Meeting - Adv Rx Stakeholder, Ver1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24365A121</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UARP</author>
+			<pubDate>2025-01-10 07:21:00</pubDate>
+		</item>
 		<item>
 			<title>Mir - A pathway for achieving a performance target in a base-isolated nuclear power plant</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25002A243</link>
@@ -24,13 +31,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-01-07 12:29:00</pubDate>
-		</item>
-		<item>
-			<title>December 12, 2024 Summary of Meeting - Adv Rx Stakeholder, Ver1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24365A121</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UARP</author>
-			<pubDate>2025-01-07 09:36:00</pubDate>
 		</item>
 		<item>
 			<title>Mir - A pathway for achieving a performance target in a base isolated nuclear power plant</title>
@@ -59,13 +59,6 @@
 			<description>Rulemaking-Comment</description>
 			<author>Nuclear Energy Institute (NEI)</author>
 			<pubDate>2024-12-30 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (020) from Mark McManus on behalf of United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry (UA) on PR-51 - Generic Environmental Impact Statement for Licensing of New Nuclear Reactors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24353A022</link>
-			<description>Rulemaking-Comment</description>
-			<author>United Association of Journeymen and Apprentices of the Plumbing & Pipe Fitting Industry</author>
-			<pubDate>2024-12-27 07:57:00</pubDate>
 		</item>
 	</channel>
 </rss>
