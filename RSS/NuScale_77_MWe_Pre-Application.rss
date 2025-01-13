@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 Jan 2025 18:23:26 GMT</pubDate>
-		<lastBuildDate>Mon, 13 Jan 2025 18:23:26 GMT</lastBuildDate>
+		<pubDate>Mon, 13 Jan 2025 19:14:50 GMT</pubDate>
+		<lastBuildDate>Mon, 13 Jan 2025 19:14:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>NuScale Power, LLC, Submittal of Presentation Material Entitled "ACRS Subcommittee Meeting (Closed Session) Loss-of-Coolant Accident Topical Report and High Impact Technical Issue Status" PM-177841, Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25009A019</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-01-13 13:54:00</pubDate>
+		</item>
+	</channel>
 </rss>
