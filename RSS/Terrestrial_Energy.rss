@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 10 Jan 2025 23:16:24 GMT</pubDate>
-		<lastBuildDate>Fri, 10 Jan 2025 23:16:24 GMT</lastBuildDate>
+		<pubDate>Mon, 13 Jan 2025 14:18:32 GMT</pubDate>
+		<lastBuildDate>Mon, 13 Jan 2025 14:18:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -122,41 +122,6 @@
 			<description>Graphics incl Charts and Tables, Schedule and Calendars</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-12-31 13:29:00</pubDate>
-		</item>
-		<item>
-			<title>Vogtle, Unit 1, Current Facility Operating License NPF-68, Tech Specs, Revised 12/30/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052840233</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-12-30 14:04:00</pubDate>
-		</item>
-		<item>
-			<title>Joseph M. Farley, Unit 1, Current Facility Operating License NPF-2, Tech Specs, Revised 12/30/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052780033</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-12-30 14:00:00</pubDate>
-		</item>
-		<item>
-			<title>Joseph M. Farley, Unit 2, Current Facility Operating License NPF-8, Revised 12/30/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052780039</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50</description>
-			<author>NRC/NRR</author>
-			<pubDate>2024-12-30 13:57:00</pubDate>
-		</item>
-		<item>
-			<title>Monticello Nuclear Generating Plant, Unit 1 - RECORD OF DECISION</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24324A212</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DNRL/NLRP</author>
-			<pubDate>2024-12-30 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>Federal Register Notice for the Environmental Assessment and Finding of No Significant Impact for the License Termination Plan for the Nuclear Ship Savannah</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24353A328</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NMSS/DREFS</author>
-			<pubDate>2024-12-30 09:11:00</pubDate>
 		</item>
 	</channel>
 </rss>

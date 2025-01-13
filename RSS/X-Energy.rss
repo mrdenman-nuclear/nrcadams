@@ -5,18 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 10 Jan 2025 23:16:24 GMT</pubDate>
-		<lastBuildDate>Fri, 10 Jan 2025 23:16:24 GMT</lastBuildDate>
+		<pubDate>Mon, 13 Jan 2025 14:18:32 GMT</pubDate>
+		<lastBuildDate>Mon, 13 Jan 2025 14:18:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>12/12/2024 Summary of Meeting, Periodic Advanced Reactor Stakeholder</title>
+			<title>Prohibited Securities List (2025 Update)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24358A240</link>
+			<description>- No Document Type Applies</description>
+			<author>NRC/OGC</author>
+			<pubDate>2025-01-13 08:11:00</pubDate>
+		</item>
+		<item>
+			<title>Summary - October 25, 2023 Meeting - Adv Rx Stakeholder_Final.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25006A204</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-01-13 07:24:00</pubDate>
+		</item>
+		<item>
+			<title>12/07/2023 Summary of Meeting, Periodic Advanced Reactor Stakeholder</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25008A195</link>
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR</author>
-			<pubDate>2025-01-10 16:30:00</pubDate>
+			<pubDate>2025-01-13 07:19:00</pubDate>
 		</item>
 		<item>
 			<title>December 12, 2024 Summary of Meeting - Adv Rx Stakeholder, Ver1</title>
@@ -24,13 +38,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DANU/UARP</author>
 			<pubDate>2025-01-10 07:21:00</pubDate>
-		</item>
-		<item>
-			<title>Summary - October 25, 2023 Meeting - Adv Rx Stakeholder_Final.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25006A204</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-01-07 12:29:00</pubDate>
 		</item>
 		<item>
 			<title>Lal - Base isolated reactor buildings: Is soil-structure interaction analysis needed?</title>
@@ -52,13 +59,6 @@
 			<description>Graphics incl Charts and Tables, Schedule and Calendars</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2024-12-31 13:29:00</pubDate>
-		</item>
-		<item>
-			<title>LIC-111, Revision 2 "Regulatory Audits"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24309A281</link>
-			<description>Guidance Document</description>
-			<author>NRC/NRR/DORL</author>
-			<pubDate>2024-12-30 08:05:00</pubDate>
 		</item>
 	</channel>
 </rss>

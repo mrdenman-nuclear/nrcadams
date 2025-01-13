@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 10 Jan 2025 23:16:19 GMT</pubDate>
-		<lastBuildDate>Fri, 10 Jan 2025 23:16:19 GMT</lastBuildDate>
+		<pubDate>Mon, 13 Jan 2025 14:18:27 GMT</pubDate>
+		<lastBuildDate>Mon, 13 Jan 2025 14:18:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>01/16/2025 Meeting to discuss NRC's draft electrical/digital I&C RAIs with TRISO-X</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25013A006</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2025-01-13 07:12:00</pubDate>
+		</item>
 		<item>
 			<title>Memo - Summary of Meeting Held on November 7, 2024 with TRISO-X Chemical Safety Request for Additional Information</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24332A112</link>
@@ -66,41 +73,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
 			<pubDate>2025-01-03 07:58:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - Example SER for Electrical and Digital Instrumentation and Control for Normal and Emergency Power Supply at a New Fuel Cycle Facility</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23346A050</link>
-			<description>Safety Evaluation Report, Draft</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2024-12-30 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - Example SER for Electrical and Digital Instrumentation and Control Normal Power Supply at a New Fuel Cycle Facility</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23346A049</link>
-			<description>Safety Evaluation Report, Draft</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2024-12-30 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>Memorandum - Example SER for Electrical and Digital I&C for Fuel Cycle Facilities</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23346A048</link>
-			<description>Memoranda</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2024-12-30 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>Memo to TRISO-X, LLC Summary of Meeting Structural Meeting on October 17, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24337A106</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2024-12-30 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - Participant List for a Structural Meeting with TRISO-X on October 17, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24337A107</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2024-12-30 08:04:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 10 Jan 2025 23:16:19 GMT</pubDate>
-		<lastBuildDate>Fri, 10 Jan 2025 23:16:19 GMT</lastBuildDate>
+		<pubDate>Mon, 13 Jan 2025 14:18:27 GMT</pubDate>
+		<lastBuildDate>Mon, 13 Jan 2025 14:18:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,27 +24,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-01-03 07:58:00</pubDate>
-		</item>
-		<item>
-			<title>GE-Hitachi Nuclear Energy - NEDC-33926P/NEDO-33926, Revision 3, BWRX-300 Steel-Plate Composite Containment Vessel (SCCV) and Reactor Building (RB) Structural Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24338A174</link>
-			<description>Letter</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-12-30 16:27:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: NEDO-33926, Revision 3, BWRX-300 Steel-plate Composite Containment Vessel (SCCV) and Reactor Building (RB) Structural Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24338A176</link>
-			<description>Topical Report</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-12-30 16:27:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: GE-Hitachi Nuclear Energy Americans, LLC - Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24338A177</link>
-			<description>Legal-Affidavit</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2024-12-30 16:27:00</pubDate>
 		</item>
 	</channel>
 </rss>
