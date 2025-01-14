@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 Jan 2025 23:16:09 GMT</pubDate>
-		<lastBuildDate>Mon, 13 Jan 2025 23:16:09 GMT</lastBuildDate>
+		<pubDate>Tue, 14 Jan 2025 14:17:13 GMT</pubDate>
+		<lastBuildDate>Tue, 14 Jan 2025 14:17:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Rulemaking-Comment</description>
 			<author>Micro Utilities</author>
 			<pubDate>2025-01-10 08:18:00</pubDate>
-		</item>
-		<item>
-			<title>Rulemaking - Final Rule: Regulatory Analysis: Non-Power Production or Utilization Facility License Renewal (RIN3150-Al96)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24241A114</link>
-			<description>Regulatory Analysis, Rulemaking- Final Rule</description>
-			<author>NRC/SECY</author>
-			<pubDate>2024-12-31 08:10:00</pubDate>
 		</item>
 	</channel>
 </rss>

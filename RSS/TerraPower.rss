@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 Jan 2025 23:16:09 GMT</pubDate>
-		<lastBuildDate>Mon, 13 Jan 2025 23:16:09 GMT</lastBuildDate>
+		<pubDate>Tue, 14 Jan 2025 14:17:13 GMT</pubDate>
+		<lastBuildDate>Tue, 14 Jan 2025 14:17:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Modernization of Nuclear Reactor Environmental Reviews Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24290A159</link>
+			<description>Report, Miscellaneous</description>
+			<author>NRC/Chairman</author>
+			<pubDate>2025-01-14 07:49:00</pubDate>
+		</item>
 		<item>
 			<title>Prohibited Securities List (2025 Update)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24358A240</link>
@@ -52,20 +59,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Idaho National Lab, Simpson Gumpertz and Heger, Southern Co, TerraPower, LLC</author>
 			<pubDate>2025-01-06 16:33:00</pubDate>
-		</item>
-		<item>
-			<title>11/06-08/2024 Minutes of the 720th Meeting of the Advisory Committee on Reactor Safeguards</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24365A088</link>
-			<description>Meeting Minutes, Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-12-31 14:45:00</pubDate>
-		</item>
-		<item>
-			<title>Subcommittee Structure and Listing-Description for the Advisory Committee on Reactor Safeguards - January 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24199A157</link>
-			<description>Graphics incl Charts and Tables, Schedule and Calendars</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2024-12-31 13:29:00</pubDate>
 		</item>
 	</channel>
 </rss>
