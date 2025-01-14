@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 14 Jan 2025 21:15:36 GMT</pubDate>
-		<lastBuildDate>Tue, 14 Jan 2025 21:15:36 GMT</lastBuildDate>
+		<pubDate>Tue, 14 Jan 2025 22:16:03 GMT</pubDate>
+		<lastBuildDate>Tue, 14 Jan 2025 22:16:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Applications and Amendments to Facility Operating Licenses and Combined Licenses Involving Proposed No Significant Hazards Considerations and Containing Sensitive Unclassified Non-Safeguards Information and Order Imposing Procedures: January 14, 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24352A425</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/SECY</author>
+			<pubDate>2025-01-14 16:40:00</pubDate>
+		</item>
+	</channel>
 </rss>
