@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 14 Jan 2025 15:16:58 GMT</pubDate>
-		<lastBuildDate>Tue, 14 Jan 2025 15:16:58 GMT</lastBuildDate>
+		<pubDate>Tue, 14 Jan 2025 16:19:53 GMT</pubDate>
+		<lastBuildDate>Tue, 14 Jan 2025 16:19:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>LaSalle, Unit 1, Current Facility Operating License NPF-11, Technical Specifications, Revised 01/07/2025.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052990324</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-01-14 11:11:00</pubDate>
+		</item>
 		<item>
 			<title>Watts Bar, Unit 2, Current Facility Operating License NPF-96, Tech Specs, Revised 01/13/2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML15301A140</link>
@@ -59,13 +66,6 @@
 			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-01-07 14:43:00</pubDate>
-		</item>
-		<item>
-			<title>LaSalle, Unit 1, Current Facility Operating License NPF-11, Technical Specifications, Revised 01/07/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052990324</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-01-07 09:25:00</pubDate>
 		</item>
 		<item>
 			<title>Clinton, Unit 1, Current Facility Operating License NPF-62, Tech Specs, Revised 01/07/2025.</title>
