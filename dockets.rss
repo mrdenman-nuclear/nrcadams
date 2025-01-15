@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 14 Jan 2025 23:16:04 GMT</pubDate>
-		<lastBuildDate>Tue, 14 Jan 2025 23:16:04 GMT</lastBuildDate>
+		<pubDate>Wed, 15 Jan 2025 14:16:38 GMT</pubDate>
+		<lastBuildDate>Wed, 15 Jan 2025 14:16:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2025/01/08 Kairos Power Pre-App Doc - Audit Questions Related to Kairos Core Design and Analysis Methodology Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25008A259</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-01-15 08:10:00</pubDate>
+		</item>
 		<item>
 			<title>01/29/2025 Pre-Application Meeting with X-energy Related to the Development of the Environmental Report for the Project Long Mott Site</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25014A409</link>
@@ -150,76 +157,6 @@
 			<description>Report, Technical</description>
 			<author>Triso-X, LLC</author>
 			<pubDate>2025-01-10 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>ACRS Memo ASER NuScale FSAR Chapter 16 and LOCA TR</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24337A018</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-01-08 11:42:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Response to SDAA Audit Question Number A-16.3.1.9-1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A206</link>
-			<description>Audit Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-01-08 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Response to SDAA Audit Question Number A-16.3.1.9-2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A207</link>
-			<description>Audit Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-01-08 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Response to SDAA Audit Question Number A-16.3.1.9-3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A208</link>
-			<description>Audit Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-01-08 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Response to SDAA Audit Question Number A-16.3.0-1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A185</link>
-			<description>Audit Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-01-08 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>Response to NuScale Technical Report Audit Question Number A-16-9</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A180</link>
-			<description>Audit Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-01-08 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>Memo - Re: TRISO-X for the Summary of Meeting on October 31, 2024, with TRISO-X, LLC, to Discuss the TRISO-X Response to the Chemical Safety Requests for Additional Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24362A120</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2025-01-08 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - Participant List for a Meeting with TRISO-X on October 31, 2024 to Discuss Chemical Requests for Additional Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24362A121</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2025-01-08 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of the NRC's Request for Docketing of Resolved Audit Responses</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A001</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-01-08 08:02:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Response to SDAA Audit Question Number A-16.4.3.1-1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A170</link>
-			<description>Audit Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-01-08 08:02:00</pubDate>
 		</item>
 	</channel>
 </rss>
