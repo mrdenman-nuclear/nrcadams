@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 15 Jan 2025 23:16:47 GMT</pubDate>
-		<lastBuildDate>Wed, 15 Jan 2025 23:16:47 GMT</lastBuildDate>
+		<pubDate>Thu, 16 Jan 2025 14:16:45 GMT</pubDate>
+		<lastBuildDate>Thu, 16 Jan 2025 14:16:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -122,34 +122,6 @@
 			<description>Environmental Monitoring Report</description>
 			<author>Global Laser Enrichment, LLC</author>
 			<pubDate>2025-01-03 07:59:00</pubDate>
-		</item>
-		<item>
-			<title>03/27/2025 Meeting with NuScale Power, LLC on NuScale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25002A019</link>
-			<description>Meeting Agenda, Meeting Notice</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-01-02 09:09:00</pubDate>
-		</item>
-		<item>
-			<title>03/20/2025 Meeting with NuScale Power, LLC on NuScale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25002A018</link>
-			<description>Meeting Agenda, Meeting Notice</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-01-02 09:06:00</pubDate>
-		</item>
-		<item>
-			<title>03/13/2025 Meeting with NuScale Power, LLC on NuScale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25002A017</link>
-			<description>Meeting Agenda, Meeting Notice</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-01-02 09:05:00</pubDate>
-		</item>
-		<item>
-			<title>03/06/2025 Meeting with NuScale Power, LLC on NuScale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25002A015</link>
-			<description>Meeting Agenda, Meeting Notice</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-01-02 09:04:00</pubDate>
 		</item>
 	</channel>
 </rss>
