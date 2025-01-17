@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 16 Jan 2025 23:17:37 GMT</pubDate>
-		<lastBuildDate>Thu, 16 Jan 2025 23:17:37 GMT</lastBuildDate>
+		<pubDate>Fri, 17 Jan 2025 14:16:30 GMT</pubDate>
+		<lastBuildDate>Fri, 17 Jan 2025 14:16:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2025/01/03 GEH BWRX-300 SMR - FW Update on GE Vernova Hitachi BWRX-300 Safety Strategy - Draft Request for Additional Information regarding Postulated Loss-of-Coolant Accidents for the BWRX-300 Design (EPID L-2022-TOP-0023)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25003A042</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-01-17 08:39:00</pubDate>
+		</item>
 		<item>
 			<title>GEH BWRX-300 Updates to LTR Revision 2 Public Meeting Summary for LTR NEDO-33926</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25004A002</link>
@@ -24,13 +31,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2025-01-10 08:18:00</pubDate>
-		</item>
-		<item>
-			<title>2024/12/20 GEH BWRX-300 SMR - FW RE GE Vernova Hitachi BWRX-300 Safety Strategy - Draft Request for Additional Information regarding Postulated Loss-of-Coolant Accidents for the BWRX-300 Design (EPID L-2022-TOP-0023)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24355A181</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-01-03 07:58:00</pubDate>
 		</item>
 	</channel>
 </rss>

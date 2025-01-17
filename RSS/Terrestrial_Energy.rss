@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 16 Jan 2025 23:17:41 GMT</pubDate>
-		<lastBuildDate>Thu, 16 Jan 2025 23:17:41 GMT</lastBuildDate>
+		<pubDate>Fri, 17 Jan 2025 14:16:36 GMT</pubDate>
+		<lastBuildDate>Fri, 17 Jan 2025 14:16:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -164,34 +164,6 @@
 			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-01-06 09:34:00</pubDate>
-		</item>
-		<item>
-			<title>VC Summer DSEIS Meeting-December 17 Transcript</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25003A085</link>
-			<description>Meeting Transcript</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-01-03 15:35:00</pubDate>
-		</item>
-		<item>
-			<title>Surry Power Station, Units 1 and 2, Updated Final Safety Analysis Report - Revision 56</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24269A218</link>
-			<description>Letter, Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Virginia Electric and Power Co (VEPCO)</author>
-			<pubDate>2025-01-03 15:34:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Environmental Report for the Paducah Laser Enrichment Facility (Chapters 1 through 11)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24365A111</link>
-			<description>Environmental Monitoring Report</description>
-			<author>Global Laser Enrichment, LLC</author>
-			<pubDate>2025-01-03 07:59:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2c: Environmental Report for the Paducah Laser Enrichment Facility (Appendices L through P)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24365A270</link>
-			<description>Environmental Monitoring Report</description>
-			<author>Global Laser Enrichment, LLC</author>
-			<pubDate>2025-01-03 07:59:00</pubDate>
 		</item>
 	</channel>
 </rss>

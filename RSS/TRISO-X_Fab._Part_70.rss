@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 16 Jan 2025 23:17:37 GMT</pubDate>
-		<lastBuildDate>Thu, 16 Jan 2025 23:17:37 GMT</lastBuildDate>
+		<pubDate>Fri, 17 Jan 2025 14:16:30 GMT</pubDate>
+		<lastBuildDate>Fri, 17 Jan 2025 14:16:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TRISO X U.S. NRC Inspection Report 707027/2024006</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25014A016</link>
+			<description>Letter</description>
+			<author>NRC/RGN-II/DFRSS/FOB2</author>
+			<pubDate>2025-01-17 08:40:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure - Additional Information for the Responses to Hydrology RAI-3 and RAI-4</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24263A113</link>
@@ -73,20 +80,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
 			<pubDate>2025-01-08 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>Memo - Summary of November 15, 2024, Meeting with TRISO-X, LLC for Supplemental Information for RAIs Regarding Chapter Two of the License Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24352A092</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2025-01-03 07:59:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - NRC Slides to Support the November 15, 2024 Meeting to Discuss Supplemental Information for LA Chapter 2 RAIs</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24352A093</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2025-01-03 07:58:00</pubDate>
 		</item>
 	</channel>
 </rss>

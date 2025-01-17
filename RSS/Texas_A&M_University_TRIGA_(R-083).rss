@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 16 Jan 2025 23:17:37 GMT</pubDate>
-		<lastBuildDate>Thu, 16 Jan 2025 23:17:37 GMT</lastBuildDate>
+		<pubDate>Fri, 17 Jan 2025 14:16:32 GMT</pubDate>
+		<lastBuildDate>Fri, 17 Jan 2025 14:16:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>2025/01/10 NRR E-mail Capture - NON-ACCEPTANCE WITH CHANCE TO SUPPLEMENT - LICENSE AMENDMENT REQUEST TO THE R-83 LICENSE REGARDING TRANSFER OF BYPRODUCT MATERIAL FROM STATE LICENSE</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25013A119</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2025-01-17 08:40:00</pubDate>
+		</item>
+		<item>
+			<title>TEES - Revised License Amendment Request for Facility Operating License R-83: "Revision of the License Conditions for Transfer of Byproduct Material Used in Association with Facility Operation Back to the R-83 License"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25008A256</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>Texas AandM Univ</author>
+			<pubDate>2025-01-17 08:39:00</pubDate>
+		</item>
+	</channel>
 </rss>

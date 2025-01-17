@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 16 Jan 2025 23:17:37 GMT</pubDate>
-		<lastBuildDate>Thu, 16 Jan 2025 23:17:37 GMT</lastBuildDate>
+		<pubDate>Fri, 17 Jan 2025 14:16:30 GMT</pubDate>
+		<lastBuildDate>Fri, 17 Jan 2025 14:16:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Summary of the December 12, 2024, Public Meeting with SMR (Holtec) to Discuss the Draft Safety Evaluation Conditions and Limitations for the Risk Significance Licensing Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25007A012</link>
+			<description>Memoranda</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2025-01-17 08:40:00</pubDate>
+		</item>
 		<item>
 			<title>Memo-9-23-24 Public Meeting Summary SMR 300 Structural Modularity</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24337A202</link>
@@ -31,13 +38,6 @@
 			<description>Meeting Agenda</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2025-01-14 07:50:00</pubDate>
-		</item>
-		<item>
-			<title>Response Letter Request for Withholding Info 2.390 SMR LLC Holtec Preapplication Meeting Materials for July 19, 2024 Limited Work Authorization</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24204A187</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-01-03 07:59:00</pubDate>
 		</item>
 	</channel>
 </rss>
