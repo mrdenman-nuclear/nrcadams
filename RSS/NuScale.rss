@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 17 Jan 2025 23:16:02 GMT</pubDate>
-		<lastBuildDate>Fri, 17 Jan 2025 23:16:02 GMT</lastBuildDate>
+		<pubDate>Mon, 20 Jan 2025 14:16:55 GMT</pubDate>
+		<lastBuildDate>Mon, 20 Jan 2025 14:16:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -108,13 +108,6 @@
 			<description>Safety Evaluation Report</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2025-01-07 15:35:00</pubDate>
-		</item>
-		<item>
-			<title>722nd ACRS Full Committee Meeting Agenda for February 5 through 7, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24347A140</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-01-06 13:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
