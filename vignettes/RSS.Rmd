@@ -224,10 +224,12 @@ code_results <- code_search |>
     )
   }) |>
   # Need to remove empty search results
-  purrr::discard(\(z) nrow(z) == 0) |>
-  purrr::reduce(dplyr::full_join) 
+  purrr::discard(\(z) nrow(z) == 0) 
 
-if(exists("code_results")) {
+if(!length(code_results) == 0) {
+  code_results <- code_results |>
+    purrr::reduce(dplyr::full_join) 
+
     code_search|>
       dplyr::pull(tag) |>
       purrr::walk(\(.x) {
