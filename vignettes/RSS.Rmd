@@ -227,6 +227,9 @@ code_results <- code_search |>
   purrr::discard(\(z) nrow(z) == 0) |>
   purrr::reduce(dplyr::full_join) 
 
+if(!exists("code_results")) {
+  code_results <- tibble::tibble()
+}
 
 
 if (length(code_results) != 0) {
@@ -242,17 +245,20 @@ if (length(code_results) != 0) {
           title = .x 
           )
     })
+
+  code_results |>
+    nrcadams::write_rss(
+      file = here::here("docs", "RSS", paste0(
+        "SourceTermCodes", ".rss")
+        ),
+      title = "Source Term Code Reports"
+      )  
 }
 
 
 
-code_results |>
-  nrcadams::write_rss(
-    file = here::here("docs", "RSS", paste0(
-      "SourceTermCodes", ".rss")
-      ),
-    title = "Source Term Code Reports"
-    )  
+
+
 
 Inspections <- nrcadams::search_advanced(
     search_field = "properties_search_all:!(!(DocumentType,eq,%27Inspection+Manual%27,%27%27),!(AuthorAffiliation,starts,NRC/NRR,%27%27),",
