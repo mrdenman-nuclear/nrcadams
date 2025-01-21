@@ -227,36 +227,26 @@ code_results <- code_search |>
   purrr::discard(\(z) nrow(z) == 0) |>
   purrr::reduce(dplyr::full_join) 
 
-if(!exists("code_results")) {
-  code_results <- tibble::tibble()
+if(exists("code_results")) {
+    code_search|>
+      dplyr::pull(tag) |>
+      purrr::walk(\(.x) {
+        code_results |>
+          dplyr::filter(Tag == .x) |>
+          nrcadams::write_rss(
+            file = here::here("docs", "RSS", paste0(
+              .x |> stringr::str_replace_all(" ", "_"), ".rss")
+              ),
+            title = .x 
+            )
+      })
+
+    code_results |>
+      nrcadams::write_rss(
+        file = here::here("docs", "RSS", "SourceTermCodes.rss"),
+        title = "Source Term Code Reports"
+        )  
 }
-
-
-if (length(code_results) != 0) {
-  code_search|>
-    dplyr::pull(tag) |>
-    purrr::walk(\(.x) {
-      code_results |>
-        dplyr::filter(Tag == .x) |>
-        nrcadams::write_rss(
-          file = here::here("docs", "RSS", paste0(
-            .x |> stringr::str_replace_all(" ", "_"), ".rss")
-            ),
-          title = .x 
-          )
-    })
-
-  code_results |>
-    nrcadams::write_rss(
-      file = here::here("docs", "RSS", paste0(
-        "SourceTermCodes", ".rss")
-        ),
-      title = "Source Term Code Reports"
-      )  
-}
-
-
-
 
 
 
