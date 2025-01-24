@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 23 Jan 2025 23:17:11 GMT</pubDate>
-		<lastBuildDate>Thu, 23 Jan 2025 23:17:11 GMT</lastBuildDate>
+		<pubDate>Fri, 24 Jan 2025 14:16:23 GMT</pubDate>
+		<lastBuildDate>Fri, 24 Jan 2025 14:16:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>X-Energy, LLC - Submittal of Project Long Mott Presentation Materials - Project Long Mott Environmental Report Update</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25015A227</link>
+			<description>Letter</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2025-01-24 08:06:00</pubDate>
+		</item>
 		<item>
 			<title>eVinci PDC TR - A verification Form 896, Principal Design Criterial Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25017A239</link>
@@ -213,13 +220,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-01-15 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>01/23/2025 Closed Meeting on Safety Basis Development Approach for the Oklo Fuel Recycling Facility White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25014A017</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-01-14 09:16:00</pubDate>
 		</item>
 	</channel>
 </rss>

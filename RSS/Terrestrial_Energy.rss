@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 23 Jan 2025 23:17:17 GMT</pubDate>
-		<lastBuildDate>Thu, 23 Jan 2025 23:17:17 GMT</lastBuildDate>
+		<pubDate>Fri, 24 Jan 2025 14:16:29 GMT</pubDate>
+		<lastBuildDate>Fri, 24 Jan 2025 14:16:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -122,13 +122,6 @@
 			<description>Environmental Protection Plan, Letter, License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
 			<author>NRC/NRR/DORL</author>
 			<pubDate>2025-01-13 15:06:00</pubDate>
-		</item>
-		<item>
-			<title>ML24263A235 Limerick Generating Station, Units 1 and 2 - Submittal of Updated Final Safety Analysis Report (UFSAR), Revision 22 and UFSAR Reference Drawings - Redacted</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24353A302</link>
-			<description>Letter, Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2025-01-10 08:17:00</pubDate>
 		</item>
 	</channel>
 </rss>

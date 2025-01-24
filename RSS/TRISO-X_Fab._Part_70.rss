@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 23 Jan 2025 23:17:11 GMT</pubDate>
-		<lastBuildDate>Thu, 23 Jan 2025 23:17:11 GMT</lastBuildDate>
+		<pubDate>Fri, 24 Jan 2025 14:16:23 GMT</pubDate>
+		<lastBuildDate>Fri, 24 Jan 2025 14:16:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,34 +38,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2025-01-14 08:33:00</pubDate>
-		</item>
-		<item>
-			<title>Memo - Summary of Meeting Held on November 7, 2024 with TRISO-X Chemical Safety Request for Additional Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24332A112</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2025-01-10 08:18:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - Participant List for November 7, 2024 Meeting with TRISO-X</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24332A113</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2025-01-10 08:18:00</pubDate>
-		</item>
-		<item>
-			<title>TRISO-X, LLC – Cover Letter and Enclosure 1 Regarding Supplemental Information for the Triso-X Fuel Fabrication Facility License Application Review (Part 1)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24365A255</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2025-01-10 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: License Application Chapters 1-13</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24365A256</link>
-			<description>Report, Technical</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2025-01-10 08:17:00</pubDate>
 		</item>
 	</channel>
 </rss>
