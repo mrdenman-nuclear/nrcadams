@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 Jan 2025 23:16:27 GMT</pubDate>
-		<lastBuildDate>Fri, 24 Jan 2025 23:16:27 GMT</lastBuildDate>
+		<pubDate>Mon, 27 Jan 2025 14:19:52 GMT</pubDate>
+		<lastBuildDate>Mon, 27 Jan 2025 14:19:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -94,41 +94,6 @@
 			<description>Guidance Document</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2025-01-14 07:51:00</pubDate>
-		</item>
-		<item>
-			<title>1-16-17-2025 - PREDECISIONAL Information to Support - ACRS Public Meeting - Draft Federal Register Notice to Support Increased Enrichment of Conventional and Accident Tolerant Fuel Designs for Light-Water Reactors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25013A080</link>
-			<description>Federal Register Notice, Rulemaking- Proposed Rule</description>
-			<author>NRC/SECY</author>
-			<pubDate>2025-01-13 16:29:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA Chapter 16 Technical Specifications SE with no Open Items</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24305A241</link>
-			<description>Final Safety Analysis Report (FSAR), Technical Specifications</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-01-13 08:12:00</pubDate>
-		</item>
-		<item>
-			<title>722nd Full Committee Meeting of the Advisory Committee on Reactor Safeguards February 5-7, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24365A122</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/SECY</author>
-			<pubDate>2025-01-13 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Prohibited Securities List (2025 Update)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24358A240</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/OGC</author>
-			<pubDate>2025-01-13 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>12/07/2023 Summary of Meeting, Periodic Advanced Reactor Stakeholder</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25008A195</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-01-13 07:19:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 Jan 2025 23:16:22 GMT</pubDate>
-		<lastBuildDate>Fri, 24 Jan 2025 23:16:22 GMT</lastBuildDate>
+		<pubDate>Mon, 27 Jan 2025 14:19:46 GMT</pubDate>
+		<lastBuildDate>Mon, 27 Jan 2025 14:19:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC,  Response to NRC Request for Additional Information No. 018 (RAI-10142 R1) on the NuScale Standard Design Approval Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25016A152</link>
+			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-01-27 08:43:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC, Response to NRC Request for Additional Information No. 008 (RAI-10081 R1) on the NuScale Standard Design Approval Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25016A300</link>
+			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-01-27 08:43:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC, Response to NRC Request for Additional Information No. 032 (RAI-10297 R1) on the NuScale Standard Design Approval Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25014A156</link>
@@ -38,20 +52,6 @@
 			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-01-17 08:39:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of Presentation Material Entitled "ACRS Subcommittee Meeting (Open Session) Chapter 16, Part 4, LOCA LTR, and HITI Status," PM-177830, Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25009A012</link>
-			<description>Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-01-13 15:34:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of Presentation Material Entitled "ACRS Subcommittee Meeting (Closed Session) Loss-of-Coolant Accident Topical Report and High Impact Technical Issue Status" PM-177841, Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25009A019</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-01-13 13:54:00</pubDate>
 		</item>
 	</channel>
 </rss>

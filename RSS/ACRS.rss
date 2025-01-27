@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 Jan 2025 23:16:23 GMT</pubDate>
-		<lastBuildDate>Fri, 24 Jan 2025 23:16:23 GMT</lastBuildDate>
+		<pubDate>Mon, 27 Jan 2025 14:19:48 GMT</pubDate>
+		<lastBuildDate>Mon, 27 Jan 2025 14:19:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>ACRS Summary Report, Letter, Meeting Summary</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-01-14 11:27:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - Rule-Making Increased Enrichment of Conventional and Accident Tolerant Fuel Designs for Light-Water Reactors - SC - January 16-17, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25003A166</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-01-13 07:08:00</pubDate>
 		</item>
 	</channel>
 </rss>
