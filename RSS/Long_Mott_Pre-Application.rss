@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 27 Jan 2025 19:15:38 GMT</pubDate>
-		<lastBuildDate>Mon, 27 Jan 2025 19:15:38 GMT</lastBuildDate>
+		<pubDate>Mon, 27 Jan 2025 20:19:57 GMT</pubDate>
+		<lastBuildDate>Mon, 27 Jan 2025 20:19:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>02/12/2025 Meeting with X-energy pertaining to Project Long Mott preliminary safety analysis report (PSAR) Chapter 2, "Site Characteristics"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25027A360</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-01-27 14:17:00</pubDate>
+		</item>
 		<item>
 			<title>X-Energy, LLC - Submittal of Project Long Mott Presentation Materials - Project Long Mott Environmental Report Update</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25015A227</link>
@@ -24,13 +31,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2025-01-16 16:30:00</pubDate>
-		</item>
-		<item>
-			<title>01/29/2025 Meeting with X-energy pertaining to Project Long Mott preliminary safety analysis report (PSAR) Chapter 2, "Site Characteristics"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25015A209</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-01-15 16:29:00</pubDate>
 		</item>
 	</channel>
 </rss>
