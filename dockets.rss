@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 28 Jan 2025 20:18:51 GMT</pubDate>
-		<lastBuildDate>Tue, 28 Jan 2025 20:18:51 GMT</lastBuildDate>
+		<pubDate>Tue, 28 Jan 2025 21:16:59 GMT</pubDate>
+		<lastBuildDate>Tue, 28 Jan 2025 21:16:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>X-Energy, LLC - NRC Audit Plan for XE-100 Graphite Core Assembly Material Qualification and Design Methodologies Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25028A267</link>
+			<description>Audit Plan</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2025-01-28 15:28:00</pubDate>
+		</item>
 		<item>
 			<title>X-Energy, LLC - Project Long Mott Environmental Report Update, January 29, 2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25015A228</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-01-27 14:17:00</pubDate>
-		</item>
-		<item>
-			<title>01/29/2025 Pre-Application Meeting with X-energy Related to the Development of the Environmental Report for the Project Long Mott Site</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25027A316</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-01-27 12:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
