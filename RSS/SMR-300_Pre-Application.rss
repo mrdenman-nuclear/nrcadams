@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 27 Jan 2025 23:16:46 GMT</pubDate>
-		<lastBuildDate>Mon, 27 Jan 2025 23:16:46 GMT</lastBuildDate>
+		<pubDate>Tue, 28 Jan 2025 14:19:50 GMT</pubDate>
+		<lastBuildDate>Tue, 28 Jan 2025 14:19:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,27 +17,6 @@
 			<description>Memoranda</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2025-01-17 08:40:00</pubDate>
-		</item>
-		<item>
-			<title>Memo-9-23-24 Public Meeting Summary SMR 300 Structural Modularity</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24337A202</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-01-14 07:50:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: 9-23-24 Attendees - SMR 300 Structural Modularity;</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24337A200</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-01-14 07:50:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: 9-23-24 Agenda - SMR 300 Structural Modularity.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24337A201</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-01-14 07:50:00</pubDate>
 		</item>
 	</channel>
 </rss>

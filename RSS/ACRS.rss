@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 27 Jan 2025 23:16:47 GMT</pubDate>
-		<lastBuildDate>Mon, 27 Jan 2025 23:16:47 GMT</lastBuildDate>
+		<pubDate>Tue, 28 Jan 2025 14:19:52 GMT</pubDate>
+		<lastBuildDate>Tue, 28 Jan 2025 14:19:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-01-16 13:31:00</pubDate>
-		</item>
-		<item>
-			<title>Summary Report of the 721st Meeting of the Advisory Committee on Reactor Safeguards for December 4, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24353A243</link>
-			<description>ACRS Summary Report, Letter, Meeting Summary</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-01-14 11:27:00</pubDate>
 		</item>
 	</channel>
 </rss>

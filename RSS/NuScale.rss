@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 27 Jan 2025 23:16:50 GMT</pubDate>
-		<lastBuildDate>Mon, 27 Jan 2025 23:16:50 GMT</lastBuildDate>
+		<pubDate>Tue, 28 Jan 2025 14:19:56 GMT</pubDate>
+		<lastBuildDate>Tue, 28 Jan 2025 14:19:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2025-DF-LIC-001, Regulatory Engagement Plan, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25017A406</link>
+			<description>Operating Plan, Regulatory Guide</description>
+			<author>Deep Fission, Inc</author>
+			<pubDate>2025-01-28 08:01:00</pubDate>
+		</item>
+		<item>
+			<title>Reactor Accident Analysis Modernization Working Group Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24263A041</link>
+			<description>Report, Technical</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2025-01-28 08:01:00</pubDate>
+		</item>
+		<item>
+			<title>FY 2024 Annual Performance Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25022A307</link>
+			<description>Annual Operating Report</description>
+			<author>NRC/EDO</author>
+			<pubDate>2025-01-28 08:01:00</pubDate>
+		</item>
 		<item>
 			<title>NRC Licensing Overview for Minnesota Energy Transition Advisory Committee Emerging Task Force</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25016A149</link>
@@ -59,41 +80,6 @@
 			<description>Report, Miscellaneous</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2025-01-21 09:33:00</pubDate>
-		</item>
-		<item>
-			<title>11-19-24 - 11-21-2024 Part 53 Proposed Rule Public Meeting Summary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25014A024</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Summary</description>
-			<author>NRC/NMSS/DREFS/RRPB</author>
-			<pubDate>2025-01-14 11:27:00</pubDate>
-		</item>
-		<item>
-			<title>Summary Report of the 721st Meeting of the Advisory Committee on Reactor Safeguards for December 4, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24353A243</link>
-			<description>ACRS Summary Report, Letter, Meeting Summary</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-01-14 11:27:00</pubDate>
-		</item>
-		<item>
-			<title>01/22/2025 Meeting with NuScale Power, LLC on NuScale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25014A054</link>
-			<description>Meeting Agenda, Meeting Notice</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-01-14 09:35:00</pubDate>
-		</item>
-		<item>
-			<title>Final Request for Additional Information - EPRI Report 3002025288, "Enhanced Risk-Informed Categorization Methodology for Pressure Boundary Components" (EPID No. L-2023-NTR-0008)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24352A481</link>
-			<description>Request for Additional Information (RAI)</description>
-			<author>NRC/NRR/DORL/LLPB</author>
-			<pubDate>2025-01-14 07:51:00</pubDate>
-		</item>
-		<item>
-			<title>Content of Risk Assessment and Severe Accident Information in Light-Water Power Reactor Construction Permit Applications</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24192A277</link>
-			<description>Guidance Document</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-01-14 07:51:00</pubDate>
 		</item>
 	</channel>
 </rss>
