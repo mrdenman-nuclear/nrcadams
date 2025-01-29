@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 28 Jan 2025 23:17:55 GMT</pubDate>
-		<lastBuildDate>Tue, 28 Jan 2025 23:17:55 GMT</lastBuildDate>
+		<pubDate>Wed, 29 Jan 2025 14:17:39 GMT</pubDate>
+		<lastBuildDate>Wed, 29 Jan 2025 14:17:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Planned BWRX-300 Topical Report Submittals for Calendar Year 2025 and Anticipated Regulatory Engagements</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25027A294</link>
+			<description>Letter</description>
+			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
+			<pubDate>2025-01-29 08:08:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC, Response to NRC Request for Additional Information No. 031 (RAI-10296 R1) on the NuScale Standard Design Approval Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25021A153</link>
+			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-01-29 08:07:00</pubDate>
+		</item>
+		<item>
+			<title>Nuscale Power, LLC - Response to NRC Response to Request for Additional Information No. 037 (RAI-10357-R1) on the Nuscale Standard Design Approval Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25021A217</link>
+			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-01-29 08:07:00</pubDate>
+		</item>
 		<item>
 			<title>X-Energy, LLC - NRC Audit Plan for XE-100 Graphite Core Assembly Material Qualification and Design Methodologies Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25028A267</link>
@@ -199,27 +220,6 @@
 			<description>Response to Request for Additional Information (RAI), Audit Report</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-01-27 16:35:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC - Response to SDAA Audit Question Number A-19.2-33</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24346A336</link>
-			<description>Response to Request for Additional Information (RAI), Audit Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-01-27 16:35:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC - Response to SDAA Audit Question Number A-19.2-34</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24346A339</link>
-			<description>Response to Request for Additional Information (RAI), Audit Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-01-27 16:35:00</pubDate>
-		</item>
-		<item>
-			<title>02/12/2025 Meeting with X-energy pertaining to Project Long Mott preliminary safety analysis report (PSAR) Chapter 2, "Site Characteristics"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25027A360</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-01-27 14:17:00</pubDate>
 		</item>
 	</channel>
 </rss>

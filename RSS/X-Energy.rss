@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 28 Jan 2025 23:17:58 GMT</pubDate>
-		<lastBuildDate>Tue, 28 Jan 2025 23:17:58 GMT</lastBuildDate>
+		<pubDate>Wed, 29 Jan 2025 14:17:45 GMT</pubDate>
+		<lastBuildDate>Wed, 29 Jan 2025 14:17:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Legal-Affidavit</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2025-01-21 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>December 16, 2024 Summary of Public Meeting to Discuss Revision of Regulatory Guide 1.200 and Updates to Technical Guidance Related to Risk Informed Activities</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25008A189</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/RES/DRA/PRB</author>
-			<pubDate>2025-01-15 08:10:00</pubDate>
 		</item>
 	</channel>
 </rss>
