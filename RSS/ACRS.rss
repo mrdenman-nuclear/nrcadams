@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 29 Jan 2025 23:17:56 GMT</pubDate>
-		<lastBuildDate>Wed, 29 Jan 2025 23:17:56 GMT</lastBuildDate>
+		<pubDate>Thu, 30 Jan 2025 14:18:24 GMT</pubDate>
+		<lastBuildDate>Thu, 30 Jan 2025 14:18:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Meeting Minutes, Memoranda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-01-21 11:34:00</pubDate>
-		</item>
-		<item>
-			<title>IE Comments Binned - ACRS Members</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25016A175</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-01-16 13:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
