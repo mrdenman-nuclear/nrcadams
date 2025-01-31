@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 30 Jan 2025 23:32:28 GMT</pubDate>
-		<lastBuildDate>Thu, 30 Jan 2025 23:32:28 GMT</lastBuildDate>
+		<pubDate>Fri, 31 Jan 2025 14:17:04 GMT</pubDate>
+		<lastBuildDate>Fri, 31 Jan 2025 14:17:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC, Submittal of "NuScale Comprehensive Vibration Assessment Program Analysis Technical Report," TR-121353, Revision 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25023A214</link>
+			<description>Legal-Affidavit, Letter, Report, Technical</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-01-31 08:10:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale SDAA Chapter 3 SE with no Open Items (Sections 3.7, 3.8, 3.9.2)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24329A003</link>
@@ -213,13 +220,6 @@
 			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-01-27 08:43:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Response to NRC Request for Additional Information No. 032 (RAI-10297 R1) on the NuScale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25014A156</link>
-			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-01-23 08:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
