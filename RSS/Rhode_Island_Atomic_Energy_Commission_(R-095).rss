@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Feb 2025 21:16:20 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Feb 2025 21:16:20 GMT</lastBuildDate>
+		<pubDate>Mon, 03 Feb 2025 22:16:13 GMT</pubDate>
+		<lastBuildDate>Mon, 03 Feb 2025 22:16:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>State of Rhode Island Atomic Energy Commission - Part 71 Quality Assurance Program Biennial Change Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25034A113</link>
+			<description>Letter</description>
+			<author>Rhode Island Nuclear Science Center, State of RI, Atomic Energy Comm, Nuclear Science Ctr, State of RI, Rhode Island Nuclear Science Center</author>
+			<pubDate>2025-02-03 16:33:00</pubDate>
+		</item>
+	</channel>
 </rss>
