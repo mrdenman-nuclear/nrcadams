@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 31 Jan 2025 23:16:53 GMT</pubDate>
-		<lastBuildDate>Fri, 31 Jan 2025 23:16:53 GMT</lastBuildDate>
+		<pubDate>Mon, 03 Feb 2025 14:18:29 GMT</pubDate>
+		<lastBuildDate>Mon, 03 Feb 2025 14:18:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -213,13 +213,6 @@
 			<description>Topical Report</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2025-01-28 07:48:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Response to SDAA Audit Question Number A-19.1-23</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A212</link>
-			<description>Audit Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-01-27 16:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
