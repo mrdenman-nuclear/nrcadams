@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Feb 2025 19:14:58 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Feb 2025 19:14:58 GMT</lastBuildDate>
+		<pubDate>Tue, 04 Feb 2025 20:46:18 GMT</pubDate>
+		<lastBuildDate>Tue, 04 Feb 2025 20:46:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 1 - Direct APE for Kemmerer Power Station Unit 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25028A321</link>
+			<description>Drawing</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2025-02-04 15:29:00</pubDate>
+		</item>
+		<item>
+			<title>SHPO Notification of Adverse Effect for TerraPower Kemmerer Power Station Unit 1 Construction Permit Review in Lincoln Co, WY</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25034A123</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DREFS</author>
+			<pubDate>2025-02-04 15:29:00</pubDate>
+		</item>
+		<item>
+			<title>ACHP Notification of Adverse Effect for TerraPower Kemmerer Power Sta Unit 1 Construction Permit Review in Lincoln Co, WY</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25034A121</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DREFS</author>
+			<pubDate>2025-02-04 15:29:00</pubDate>
+		</item>
 		<item>
 			<title>Memorandum - Summary Of Regulatory Audit For TRISO-X Integrated Safety Analysis Definitions of Unlikely and Highly Unlikely</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25008A249</link>
@@ -199,27 +220,6 @@
 			<description>Topical Report Evaluation</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-01-29 15:33:00</pubDate>
-		</item>
-		<item>
-			<title>Topical Report Withholding Determination Transmittal for NEDC-33926P Revision 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25022A028</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-01-29 15:33:00</pubDate>
-		</item>
-		<item>
-			<title>Planned BWRX-300 Topical Report Submittals for Calendar Year 2025 and Anticipated Regulatory Engagements</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25027A294</link>
-			<description>Letter</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2025-01-29 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Response to NRC Request for Additional Information No. 031 (RAI-10296 R1) on the NuScale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25021A153</link>
-			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-01-29 08:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
