@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Feb 2025 23:17:02 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Feb 2025 23:17:02 GMT</lastBuildDate>
+		<pubDate>Tue, 04 Feb 2025 14:17:45 GMT</pubDate>
+		<lastBuildDate>Tue, 04 Feb 2025 14:17:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Meeting Summary of the December 2, 2024, U.S. Nuclear Regulatory Commission's Public Meeting with the Nuclear Energy Institute Regulatory Issues Task Force (EPID L-2024-NTM-0000)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25007A238</link>
+			<description>Meeting Summary</description>
+			<author>NRC/NRR/DORL/LLPB</author>
+			<pubDate>2025-02-04 07:58:00</pubDate>
+		</item>
+		<item>
+			<title>Comment (3) of J. Maddocks on Draft Regulatory Guide: Acceptability of ASME Code, Section III, Division 5, "High Temperature Reactors"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25028A205</link>
+			<description>General FR Notice Comment Letter</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2025-02-04 07:58:00</pubDate>
+		</item>
 		<item>
 			<title>08 - Transportable Microreactor Presentation at ATF and Non-LWR Seminar for NMSS</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24260A107</link>
@@ -52,20 +66,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DANU/UARP</author>
 			<pubDate>2025-01-24 12:42:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy, LLC, Submittal of XENITHTM Microreactor Pre-Application Regulatory Engagement Plan (REP), Revision 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25010A374</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-01-21 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy, LLC, Affidavit Supporting Request for Withholding from Public Disclosure (10 CFR 2.390)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25010A375</link>
-			<description>Legal-Affidavit</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-01-21 08:10:00</pubDate>
 		</item>
 	</channel>
 </rss>

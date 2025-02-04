@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Feb 2025 23:16:58 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Feb 2025 23:16:58 GMT</lastBuildDate>
+		<pubDate>Tue, 04 Feb 2025 14:17:40 GMT</pubDate>
+		<lastBuildDate>Tue, 04 Feb 2025 14:17:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,20 +17,6 @@
 			<description>Meeting Agenda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-01-29 14:35:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - NuScale Standard Design Approval Application Sections 3.7, 3.8, and 3.9.2 and Chapter 5 - SC - February 4, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25021A214</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-01-21 15:36:00</pubDate>
-		</item>
-		<item>
-			<title>Minutes of the 721st Meeting of the Advisory Committee on Reactor Safeguards (ACRS), December 4, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25016A232</link>
-			<description>Meeting Minutes, Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-01-21 11:34:00</pubDate>
 		</item>
 	</channel>
 </rss>

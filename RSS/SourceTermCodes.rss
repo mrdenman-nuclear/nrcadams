@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Feb 2025 23:17:04 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Feb 2025 23:17:04 GMT</lastBuildDate>
+		<pubDate>Tue, 04 Feb 2025 14:17:47 GMT</pubDate>
+		<lastBuildDate>Tue, 04 Feb 2025 14:17:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Quad Cities Nuclear Power Station, Units 1 and 2, Additional Information Regarding License Amendment Request for One-Time Extension of Standby Gas Treatment System Technical Specifications Completion Time</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25027A413</link>
+			<description>Letter, Response to Request for Additional Information (RAI)</description>
+			<author>Constellation Energy Generation, LLC</author>
+			<pubDate>2025-02-04 07:58:00</pubDate>
+		</item>
 		<item>
 			<title>NUREG-1437, Supplement 2, Second Renewal, "Site-Specific Environmental Impact Statement for License Renewal of Nuclear Plants Supplement 2, Second Renewal Regarding Subsequent License Renewal for Oconee Nuclear Station Units 1, 2, and 3" Final Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25031A307</link>
@@ -59,20 +66,6 @@
 			<description>License-Operator, Part 55 Examination Related Material</description>
 			<author>NRC/RGN-I/DORS/OB</author>
 			<pubDate>2025-01-30 07:59:00</pubDate>
-		</item>
-		<item>
-			<title>FY 2024 Annual Performance Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25022A307</link>
-			<description>Annual Operating Report</description>
-			<author>NRC/EDO</author>
-			<pubDate>2025-01-28 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>FY 2024 Annual Performance Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25022A307</link>
-			<description>Annual Operating Report</description>
-			<author>NRC/EDO</author>
-			<pubDate>2025-01-28 08:01:00</pubDate>
 		</item>
 	</channel>
 </rss>

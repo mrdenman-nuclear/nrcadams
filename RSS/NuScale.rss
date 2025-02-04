@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Feb 2025 23:17:02 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Feb 2025 23:17:02 GMT</lastBuildDate>
+		<pubDate>Tue, 04 Feb 2025 14:17:45 GMT</pubDate>
+		<lastBuildDate>Tue, 04 Feb 2025 14:17:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Meeting Summary of the December 2, 2024, U.S. Nuclear Regulatory Commission's Public Meeting with the Nuclear Energy Institute Regulatory Issues Task Force (EPID L-2024-NTM-0000)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25007A238</link>
+			<description>Meeting Summary</description>
+			<author>NRC/NRR/DORL/LLPB</author>
+			<pubDate>2025-02-04 07:58:00</pubDate>
+		</item>
 		<item>
 			<title>NUREG-1437, Supplement 2, Second Renewal, "Site-Specific Environmental Impact Statement for License Renewal of Nuclear Plants Supplement 2, Second Renewal Regarding Subsequent License Renewal for Oconee Nuclear Station Units 1, 2, and 3" Final Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25031A307</link>
@@ -101,34 +108,6 @@
 			<description>Rulemaking-Comment</description>
 			<author>Hybrid Power Technologies LLC </author>
 			<pubDate>2025-01-22 08:14:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - NuScale Standard Design Approval Application Sections 3.7, 3.8, and 3.9.2 and Chapter 5 - SC - February 4, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25021A214</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-01-21 15:36:00</pubDate>
-		</item>
-		<item>
-			<title>Minutes of the 721st Meeting of the Advisory Committee on Reactor Safeguards (ACRS), December 4, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25016A232</link>
-			<description>Meeting Minutes, Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-01-21 11:34:00</pubDate>
-		</item>
-		<item>
-			<title>TLR-RES/DE/REB-2024-18, Assessment Condition Monitoring Methods and Technologies for Inservice Inspection and Testing of Nuclear Power Plant Components</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24305A162</link>
-			<description>Report, Technical</description>
-			<author>Idaho National Lab, NRC/RES/DE</author>
-			<pubDate>2025-01-21 09:33:00</pubDate>
-		</item>
-		<item>
-			<title>Non-proprietary - Supplement - ACRS - LOCA EM Topical Report Review Presentation - Closed Session</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25017A201</link>
-			<description>Report, Miscellaneous</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-01-21 09:33:00</pubDate>
 		</item>
 	</channel>
 </rss>
