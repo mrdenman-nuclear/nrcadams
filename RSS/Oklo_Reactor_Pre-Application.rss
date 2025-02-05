@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Feb 2025 23:16:06 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Feb 2025 23:16:06 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Feb 2025 14:17:42 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Feb 2025 14:17:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>10/30/2024 Summary Of Meeting With Oklo, Inc., To Discuss Plan for Readiness Assessment for Future License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24355A135</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-02-05 07:51:00</pubDate>
+		</item>
+	</channel>
 </rss>

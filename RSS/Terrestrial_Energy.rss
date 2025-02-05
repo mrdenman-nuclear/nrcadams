@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Feb 2025 23:16:08 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Feb 2025 23:16:08 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Feb 2025 14:17:45 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Feb 2025 14:17:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2025/01/22 Palisades Restart LA Docs - PNNL Climate Change Spreadsheet for Palisades</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25022A314</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-02-05 07:48:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure - DRAFT Federal Register Notice Maine Yankee Atomic Power Company Request for Exemption for Certain Requirements of Title 10 of the Code of Federal Regulations Sections 72.212 and 72.214 for the Independent Spent Fuel Storage Installation</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25029A115</link>
@@ -206,13 +213,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NRC/NMSS/DREFS/EPMB1</author>
 			<pubDate>2025-01-24 15:40:00</pubDate>
-		</item>
-		<item>
-			<title>Nine Mile Point, Unit 2, Current Facility Operating License NPF-69, Tech Specs, Revised 01/22/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052720302</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-01-22 13:20:00</pubDate>
 		</item>
 	</channel>
 </rss>

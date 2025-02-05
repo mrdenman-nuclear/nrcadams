@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Feb 2025 23:16:08 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Feb 2025 23:16:08 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Feb 2025 14:17:45 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Feb 2025 14:17:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SSP-14-P01/028-TR-S1, Revision 0, Supplement 1, "Generic Application of the Studsvik Scandpower Core Management System to Pressurized Water Reactors: Supplement for Extended Enrichment, Burnup, and SMRs"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25028A256</link>
+			<description>Topical Report</description>
+			<author>Studsvik Scandpower, Inc</author>
+			<pubDate>2025-02-05 07:51:00</pubDate>
+		</item>
 		<item>
 			<title>Meeting Summary of the December 2, 2024, U.S. Nuclear Regulatory Commission's Public Meeting with the Nuclear Energy Institute Regulatory Issues Task Force (EPID L-2024-NTM-0000)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25007A238</link>
@@ -94,20 +101,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2025-01-24 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (044) from Michael F. Keller on behalf of Hybrid Power Technologies, LLC on Part 53 Rulemaking - Risk-Informed Technology-Inclusive Regulatory Framework for Advanced Reactors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25013A175</link>
-			<description>Rulemaking-Comment</description>
-			<author>Hybrid Power Technologies LLC </author>
-			<pubDate>2025-01-22 08:14:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (047) from Michael F. Keller on behalf of Hybrid Power Technologies, LLC on Part 53 Rulemaking - Risk-Informed Technology-Inclusive Regulatory Framework for Advanced Reactors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25013A178</link>
-			<description>Rulemaking-Comment</description>
-			<author>Hybrid Power Technologies LLC </author>
-			<pubDate>2025-01-22 08:14:00</pubDate>
 		</item>
 	</channel>
 </rss>
