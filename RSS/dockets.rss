@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 05 Feb 2025 16:20:14 GMT</pubDate>
-		<lastBuildDate>Wed, 05 Feb 2025 16:20:14 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Feb 2025 17:15:32 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Feb 2025 17:15:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TerraPower Adverse Effects Letter Tribes D. Cooper, Apache Tribe of Oklahoma</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24358A181</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DREFS/ETRB2</author>
+			<pubDate>2025-02-05 11:40:00</pubDate>
+		</item>
+		<item>
+			<title>TerraPower Adverse Effects Letter Tribes R. Wassana, Cheyenne and Arapaho Tribes</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25029A026</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DREFS</author>
+			<pubDate>2025-02-05 11:40:00</pubDate>
+		</item>
+		<item>
+			<title>TerraPower Adverse Effects Letter  Justin Gray Hawk, Sr - Chairman</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25034A169</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DREFS</author>
+			<pubDate>2025-02-05 11:40:00</pubDate>
+		</item>
 		<item>
 			<title>10/30/2024 Summary Of Meeting With Oklo, Inc., To Discuss Plan for Readiness Assessment for Future License Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24355A135</link>
@@ -198,27 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25013A263</link>
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-01-31 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>2025/01/24 TerraPower CP Env Docs - Redevelopment Of The Wyoming Stream Integrity Index (WSII) For Assessing The Biological Condition Of Wadeable Streams In Wyoming, Hargett & ZumBerge, Wyoming DEQ</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25024A128</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-01-31 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>2025/01/24 TerraPower CP Env Docs - Avian Pre-Construction Nest Clearance Survey and Monitoring Plan, Test and Fill Facility, Tetra Tech, May 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25024A130</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-01-31 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>2025/01/24 TerraPower CP Env Docs - NPDES Permit Application Requirements, 40 CFR 122.21(r)(2) – (8), Naughton Power Plant, Wyoming, Prepared for, PacifiCorp, Inc., Jan 2018, CH2MHill</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25024A131</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
 			<pubDate>2025-01-31 08:10:00</pubDate>
 		</item>
 	</channel>

@@ -5,18 +5,39 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Jan 2025 23:16:27 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Jan 2025 23:16:27 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Feb 2025 17:15:39 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Feb 2025 17:15:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>Manual Chapter 0612, Power Reactor Inspection Reports</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML060730157</link>
+			<title>Table of Contents for Inspection Manual Change Notice 25-001</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25031A326</link>
 			<description>Inspection Manual</description>
-			<author>NRC/NRR/DIPM/IIPB</author>
-			<pubDate>2025-01-15 10:15:00</pubDate>
+			<author>NRC/NRR/DRO/IRIB</author>
+			<pubDate>2025-02-05 11:40:00</pubDate>
+		</item>
+		<item>
+			<title>IP 50001 Steam Generator Replacement Inspection</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22201A513</link>
+			<description>Inspection Manual</description>
+			<author>NRC/NRR/DRO/IRIB</author>
+			<pubDate>2025-02-05 11:40:00</pubDate>
+		</item>
+		<item>
+			<title>IP 71007 Reactor Vessel Head Replacement Inspection</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22201A503</link>
+			<description>Inspection Manual</description>
+			<author>NRC/NRR/DRO/IRIB</author>
+			<pubDate>2025-02-05 11:40:00</pubDate>
+		</item>
+		<item>
+			<title>IP 50003 Pressurizer Replacement Inspection</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22201A504</link>
+			<description>Inspection Manual</description>
+			<author>NRC/NRR/DRO/IRIB</author>
+			<pubDate>2025-02-05 11:40:00</pubDate>
 		</item>
 	</channel>
 </rss>
