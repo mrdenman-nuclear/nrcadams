@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 05 Feb 2025 23:16:06 GMT</pubDate>
-		<lastBuildDate>Wed, 05 Feb 2025 23:16:06 GMT</lastBuildDate>
+		<pubDate>Thu, 06 Feb 2025 14:17:37 GMT</pubDate>
+		<lastBuildDate>Thu, 06 Feb 2025 14:17:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,27 +17,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2025-02-05 07:49:00</pubDate>
-		</item>
-		<item>
-			<title>eVinci PDC TR - A verification Form 896, Principal Design Criterial Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25017A239</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-01-23 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>eVinci PDC TR -A withholding determination</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25017A241</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-01-23 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>E-mail transmitting WEC eVinci PDC TR -A Verification</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25017A240</link>
-			<description>E-Mail, Proprietary Information Review, Topical Report Evaluation</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-01-23 08:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
