@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 07 Feb 2025 17:16:28 GMT</pubDate>
-		<lastBuildDate>Fri, 07 Feb 2025 17:16:28 GMT</lastBuildDate>
+		<pubDate>Fri, 07 Feb 2025 18:21:51 GMT</pubDate>
+		<lastBuildDate>Fri, 07 Feb 2025 18:21:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Enclosure 2: "Xe-100 Licensing Topical Report Plume Exposure Pathway Emergency Planning Zone Sizing Methodology," Revision 1 (Public)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24331A308</link>
+			<description>Topical Report</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2025-02-07 13:14:00</pubDate>
+		</item>
+	</channel>
 </rss>
