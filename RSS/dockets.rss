@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 06 Feb 2025 23:20:06 GMT</pubDate>
-		<lastBuildDate>Thu, 06 Feb 2025 23:20:06 GMT</lastBuildDate>
+		<pubDate>Fri, 07 Feb 2025 14:17:51 GMT</pubDate>
+		<lastBuildDate>Fri, 07 Feb 2025 14:17:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC, Responses to NRC Request for Additional Information No. 033 (RAI-10298 R1) on the NuScale Standard Design Approval Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25030A348</link>
+			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-02-07 08:18:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC, Submittal of the NRC’s Request for Docketing of a Resolved Audit Response</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25030A365</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-02-07 08:18:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC, Response to NuScale Topical Report Audit Question Number: A-XPC.LTR-2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25030A366</link>
+			<description>Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-02-07 08:18:00</pubDate>
+		</item>
 		<item>
 			<title>NRC 898 - Completeness Determination for X Energy Plume Exposure Pathway EPZ Sizing Methodology Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25024A206</link>
@@ -199,27 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS/DREFS</author>
 			<pubDate>2025-02-05 12:58:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower Adverse Effects Letter - Victoria Kitcheyan, Winnebago Tribe of Nebraska</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25035A215</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS</author>
-			<pubDate>2025-02-05 12:58:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower Adverse Effects Letter - Mark Fox, Chairman</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25035A213</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS</author>
-			<pubDate>2025-02-05 12:58:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower Adverse Effects Letter Tribes F. Tahdooahnippah Comanche Nation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25029A042</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS</author>
-			<pubDate>2025-02-05 12:57:00</pubDate>
 		</item>
 	</channel>
 </rss>

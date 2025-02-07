@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 06 Feb 2025 23:20:11 GMT</pubDate>
-		<lastBuildDate>Thu, 06 Feb 2025 23:20:11 GMT</lastBuildDate>
+		<pubDate>Fri, 07 Feb 2025 14:17:56 GMT</pubDate>
+		<lastBuildDate>Fri, 07 Feb 2025 14:17:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure - Request For Supplemental Information for CBR License Renewal Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25030A280</link>
+			<description>Request for Additional Information (RAI)</description>
+			<author>NRC/NMSS/DDUWP/URMDB</author>
+			<pubDate>2025-02-07 08:19:00</pubDate>
+		</item>
+		<item>
+			<title>NS Savannah Safety Evaluation Report for Approval of License Termination Plan</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24334A031</link>
+			<description>Safety Evaluation</description>
+			<author>NRC/NMSS/DDUWP</author>
+			<pubDate>2025-02-07 08:18:00</pubDate>
+		</item>
 		<item>
 			<title>Federal Register Notice - Maine Yankee Atomic Power Company Request for Exemption for Certain Requirements of Title 10 of the Code of Federal Regulations Sections 72.212 and 72.214 for the Independent Spent Fuel Storage Installation</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24296A078</link>
@@ -206,20 +220,6 @@
 			<description>License-Operating (New/Renewal/Amendments) DKT 50</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-01-28 07:20:00</pubDate>
-		</item>
-		<item>
-			<title>Joseph M. Farley, Unit 1, Current Facility Operating License NPF-2, Tech Specs, Revised 01/28/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052780033</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-01-28 06:59:00</pubDate>
-		</item>
-		<item>
-			<title>V.C. Summer Subsequent License Renewal Draft Supplemental Environmental Impact Statement Public Meeting Slides January 28, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25024A053</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NMSS/DREFS/EPMB1</author>
-			<pubDate>2025-01-24 15:40:00</pubDate>
 		</item>
 	</channel>
 </rss>
