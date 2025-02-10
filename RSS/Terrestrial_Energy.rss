@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 07 Feb 2025 23:15:50 GMT</pubDate>
-		<lastBuildDate>Fri, 07 Feb 2025 23:15:50 GMT</lastBuildDate>
+		<pubDate>Mon, 10 Feb 2025 14:17:44 GMT</pubDate>
+		<lastBuildDate>Mon, 10 Feb 2025 14:17:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Triso-X, LLC - Enclosure 3: Environmental Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25031A457</link>
+			<description>Environmental Report</description>
+			<author>Triso-X, LLC</author>
+			<pubDate>2025-02-10 07:55:00</pubDate>
+		</item>
+		<item>
+			<title>Triso-X, LLC - Environmental Report: Chapter 3 - Description of the Affected Environment</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25031A458</link>
+			<description>Environmental Report</description>
+			<author>Triso-X, LLC</author>
+			<pubDate>2025-02-10 07:54:00</pubDate>
+		</item>
+		<item>
+			<title>Triso-X, LLC - Environmental Impacts: Chapters 4 through 10</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25031A461</link>
+			<description>Environmental Impact Appraisal</description>
+			<author>Triso-X, LLC</author>
+			<pubDate>2025-02-10 07:54:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure - Request For Supplemental Information for CBR License Renewal Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25030A280</link>
@@ -199,27 +220,6 @@
 			<description>Audit Report, Letter, Map</description>
 			<author>NRC/NMSS/DREFS/EPMB3</author>
 			<pubDate>2025-01-28 09:42:00</pubDate>
-		</item>
-		<item>
-			<title>X-Energy, LLC - Project Long Mott Environmental Report Update, January 29, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25015A228</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-01-28 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>2025-DF-LIC-001, Regulatory Engagement Plan, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25017A406</link>
-			<description>Operating Plan, Regulatory Guide</description>
-			<author>Deep Fission, Inc</author>
-			<pubDate>2025-01-28 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>Joseph M. Farley, Unit 2, Current Facility Operating License NPF-8, Revised 01/28/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052780039</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-01-28 07:20:00</pubDate>
 		</item>
 	</channel>
 </rss>

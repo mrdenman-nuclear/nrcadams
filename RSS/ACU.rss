@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 07 Feb 2025 23:15:50 GMT</pubDate>
-		<lastBuildDate>Fri, 07 Feb 2025 23:15:50 GMT</lastBuildDate>
+		<pubDate>Mon, 10 Feb 2025 14:17:44 GMT</pubDate>
+		<lastBuildDate>Mon, 10 Feb 2025 14:17:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NRC/NRR/DANU/UNPL</author>
 			<pubDate>2025-01-30 08:48:00</pubDate>
-		</item>
-		<item>
-			<title>May 29, 1986 Federal Register Notice, Reassertion of  Certain Regulatory Authority in the State of New Mexico</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25022A122</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-01-27 08:43:00</pubDate>
 		</item>
 	</channel>
 </rss>
