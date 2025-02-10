@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 10 Feb 2025 18:22:29 GMT</pubDate>
-		<lastBuildDate>Mon, 10 Feb 2025 18:22:29 GMT</lastBuildDate>
+		<pubDate>Mon, 10 Feb 2025 19:14:44 GMT</pubDate>
+		<lastBuildDate>Mon, 10 Feb 2025 19:14:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>FOIA-2025-000416 - Released Set.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25041A099</link>
+			<description>- No Document Type Applies</description>
+			<author>NRC/OCIO</author>
+			<pubDate>2025-02-10 13:42:00</pubDate>
+		</item>
 		<item>
 			<title>Triso-X, LLC - Enclosure 3: Environmental Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25031A457</link>
@@ -213,13 +220,6 @@
 			<description>Report, Technical</description>
 			<author>SEARCH Technical Services</author>
 			<pubDate>2025-01-30 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>Palisades Reauthorization of Power Operations Regulatory Environmental Audit Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24353A174</link>
-			<description>Audit Report, Letter, Map</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2025-01-28 09:42:00</pubDate>
 		</item>
 	</channel>
 </rss>
