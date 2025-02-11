@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Feb 2025 19:12:16 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Feb 2025 19:12:16 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Feb 2025 20:17:57 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Feb 2025 20:17:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure: Presentation Materials - Long Mott Generating Station (LMGS) Preliminary Safety Analysis Report Chapter 2 - Site Characteristics</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25035A274</link>
+			<description>Report, Technical, Slides and Viewgraphs</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2025-02-11 15:09:00</pubDate>
+		</item>
+		<item>
+			<title>TRISO-X, LLC – Cover Letter and Enclosure 1 Regarding Supplemental Information for the Triso-X Fuel Fabrication Facility License Application Review (Part 1)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24365A255</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>Triso-X, LLC</author>
+			<pubDate>2025-02-11 14:54:00</pubDate>
+		</item>
 		<item>
 			<title>Public - TERRAPOWER, LLC - Draft Safety Evaluation For Natrium Topical Report NAT-9390, "Design Basis Accident Methodology for In-Vessel Events Without Radiological Release," Revision 2 (EPID L-2023-TOP-0050)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24358A247</link>
@@ -206,20 +220,6 @@
 			<description>Legal-Affidavit, Letter</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-02-07 08:18:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Response to NuScale Topical Report Audit Question Number: A-XPC.LTR-2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25030A366</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-02-07 08:18:00</pubDate>
-		</item>
-		<item>
-			<title>NRC 898 - Completeness Determination for X Energy Plume Exposure Pathway EPZ Sizing Methodology Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25024A206</link>
-			<description>Proprietary Information Review, Topical Report</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-02-06 08:05:00</pubDate>
 		</item>
 	</channel>
 </rss>
