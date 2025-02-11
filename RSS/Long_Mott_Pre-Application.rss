@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 10 Feb 2025 23:17:48 GMT</pubDate>
-		<lastBuildDate>Mon, 10 Feb 2025 23:17:48 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Feb 2025 14:18:24 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Feb 2025 14:18:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,27 +38,6 @@
 			<description>Report, Technical, Slides and Viewgraphs</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2025-02-06 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>X-Energy, LLC - Project Long Mott Environmental Report Update, January 29, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25015A228</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-01-28 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>Form 898 Dow Chemical Project Long Mott Energy Quality Assurance Program Description (QAPD)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25013A264</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DANU/UAL2, NRC/NRR/DRO/IQVB</author>
-			<pubDate>2025-01-28 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>Acceptance Email Dow Chemical Project Long Mott Energy Quality Assurance Program Description (QAPD)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25013A282</link>
-			<description>Acceptance Review Letter, E-Mail</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-01-28 08:01:00</pubDate>
 		</item>
 	</channel>
 </rss>

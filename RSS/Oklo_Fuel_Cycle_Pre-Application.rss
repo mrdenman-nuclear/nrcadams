@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 10 Feb 2025 23:17:48 GMT</pubDate>
-		<lastBuildDate>Mon, 10 Feb 2025 23:17:48 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Feb 2025 14:18:24 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Feb 2025 14:18:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>02/20/2025 Public Meeting to Discuss the NRC Requirements and Process for Facility and Personnel Clearance</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25041A333</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-02-10 21:56:00</pubDate>
+		</item>
+	</channel>
 </rss>

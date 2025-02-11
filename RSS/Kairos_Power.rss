@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 10 Feb 2025 23:17:55 GMT</pubDate>
-		<lastBuildDate>Mon, 10 Feb 2025 23:17:55 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Feb 2025 14:18:30 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Feb 2025 14:18:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>1-08-2025 Appendix A - List of Public Meeting Participants</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25042A011</link>
+			<description>Meeting Summary</description>
+			<author>NRC/NMSS/DREFS/RRPB</author>
+			<pubDate>2025-02-11 08:13:00</pubDate>
+		</item>
 		<item>
 			<title>01162025 US NRC Public Meeting Transcript:  ADVANCE Act Section 206, Pages 1-156</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25032A021</link>
@@ -94,27 +101,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Oak Ridge National Lab (ORNL)</author>
 			<pubDate>2025-01-30 07:59:00</pubDate>
-		</item>
-		<item>
-			<title>X-Energy, LLC - Project Long Mott Environmental Report Update, January 29, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25015A228</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-01-28 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>Reactor Accident Analysis Modernization Working Group Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24263A041</link>
-			<description>Report, Technical</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-01-28 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>FY 2024 Annual Performance Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25022A307</link>
-			<description>Annual Operating Report</description>
-			<author>NRC/EDO</author>
-			<pubDate>2025-01-28 08:01:00</pubDate>
 		</item>
 	</channel>
 </rss>

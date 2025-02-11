@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 10 Feb 2025 23:17:55 GMT</pubDate>
-		<lastBuildDate>Mon, 10 Feb 2025 23:17:55 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Feb 2025 14:18:30 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Feb 2025 14:18:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -157,27 +157,6 @@
 			<description>Safety Evaluation</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2025-01-30 15:29:00</pubDate>
-		</item>
-		<item>
-			<title>2025-DF-LIC-001, Regulatory Engagement Plan, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25017A406</link>
-			<description>Operating Plan, Regulatory Guide</description>
-			<author>Deep Fission, Inc</author>
-			<pubDate>2025-01-28 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>Reactor Accident Analysis Modernization Working Group Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24263A041</link>
-			<description>Report, Technical</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-01-28 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>FY 2024 Annual Performance Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25022A307</link>
-			<description>Annual Operating Report</description>
-			<author>NRC/EDO</author>
-			<pubDate>2025-01-28 08:01:00</pubDate>
 		</item>
 	</channel>
 </rss>

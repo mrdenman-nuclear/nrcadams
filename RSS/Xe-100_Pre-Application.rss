@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 10 Feb 2025 23:17:48 GMT</pubDate>
-		<lastBuildDate>Mon, 10 Feb 2025 23:17:48 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Feb 2025 14:18:24 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Feb 2025 14:18:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,20 +45,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2025-01-31 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>X-Energy, LLC - NRC Audit Plan for XE-100 Graphite Core Assembly Material Qualification and Design Methodologies Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25028A267</link>
-			<description>Audit Plan</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-01-28 15:28:00</pubDate>
-		</item>
-		<item>
-			<title>X-Energy, LLC, Xe-100 Licensing Topical Report Graphite Core Assembly Material Qualification and Design Methodologies</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24309A123</link>
-			<description>Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-01-28 07:48:00</pubDate>
 		</item>
 	</channel>
 </rss>

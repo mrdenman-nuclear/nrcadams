@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 10 Feb 2025 23:17:49 GMT</pubDate>
-		<lastBuildDate>Mon, 10 Feb 2025 23:17:49 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Feb 2025 14:18:26 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Feb 2025 14:18:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Request for Additional Information (RAI)</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-02-03 10:03:00</pubDate>
-		</item>
-		<item>
-			<title>2025/01/17 NRR E-mail Capture - Update to University of Utah Exemption Request Review Schedule</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25017A196</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-01-28 08:01:00</pubDate>
 		</item>
 	</channel>
 </rss>
