@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Feb 2025 23:18:42 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Feb 2025 23:18:42 GMT</lastBuildDate>
+		<pubDate>Wed, 12 Feb 2025 14:17:12 GMT</pubDate>
+		<lastBuildDate>Wed, 12 Feb 2025 14:17:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Nuscale Power, LLC - Submittal of the NRC's Request for Docketing of Audit Response</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25035A246</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-02-12 08:08:00</pubDate>
+		</item>
+		<item>
+			<title>Response to Nuscale Topical Report Audit Question A-NonLOCA.LTR-20 (Non-Proprietary)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25035A247</link>
+			<description>Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-02-12 08:08:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale SDAA Chapter 17, Section 17.4, SE with no Open Items</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24326A066</link>
@@ -192,20 +206,6 @@
 			<description>Safety Evaluation Report</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-01-30 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Response to NRC Request for Additional Information No. 031 (RAI-10296 R1) on the NuScale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25021A153</link>
-			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-01-29 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>Nuscale Power, LLC - Response to NRC Response to Request for Additional Information No. 037 (RAI-10357-R1) on the Nuscale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25021A217</link>
-			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-01-29 08:07:00</pubDate>
 		</item>
 	</channel>
 </rss>

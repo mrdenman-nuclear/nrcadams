@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Feb 2025 23:18:44 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Feb 2025 23:18:44 GMT</lastBuildDate>
+		<pubDate>Wed, 12 Feb 2025 14:17:14 GMT</pubDate>
+		<lastBuildDate>Wed, 12 Feb 2025 14:17:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,13 +52,6 @@
 			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-02-06 11:30:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - DI&C Meeting on Incorporation by Reference of IEEE 603-2018 Rulemaking - SC - February 19, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25029A135</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-01-29 14:35:00</pubDate>
 		</item>
 	</channel>
 </rss>

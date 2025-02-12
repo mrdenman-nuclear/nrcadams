@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Feb 2025 23:18:42 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Feb 2025 23:18:42 GMT</lastBuildDate>
+		<pubDate>Wed, 12 Feb 2025 14:17:12 GMT</pubDate>
+		<lastBuildDate>Wed, 12 Feb 2025 14:17:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,27 +24,6 @@
 			<description>Topical Report Evaluation</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2025-02-05 07:48:00</pubDate>
-		</item>
-		<item>
-			<title>NRC 897 - Withholding Determination for Rev. 3, GEH BWRX-300 Steel-Plate Composite Containment Vessel and Reactor Building Structural Design LTR.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25022A029</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-01-29 15:33:00</pubDate>
-		</item>
-		<item>
-			<title>Topical Report Withholding Determination Transmittal for NEDC-33926P Revision 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25022A028</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-01-29 15:33:00</pubDate>
-		</item>
-		<item>
-			<title>Planned BWRX-300 Topical Report Submittals for Calendar Year 2025 and Anticipated Regulatory Engagements</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25027A294</link>
-			<description>Letter</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2025-01-29 08:08:00</pubDate>
 		</item>
 	</channel>
 </rss>
