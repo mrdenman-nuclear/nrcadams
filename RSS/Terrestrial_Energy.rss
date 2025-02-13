@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Feb 2025 17:14:24 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Feb 2025 17:14:24 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Feb 2025 18:22:46 GMT</pubDate>
+		<lastBuildDate>Thu, 13 Feb 2025 18:22:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Pacific Northwest National Lab., Recommendations for VSP Enhancements for Continuously Collected Survey Data Fulfillment of Task 1a of 31310021F0022 and Task 2 of 31310023F0040</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25023A180</link>
+			<description>Report, Technical</description>
+			<author>Pacific Northwest National Lab</author>
+			<pubDate>2025-02-13 12:32:00</pubDate>
+		</item>
 		<item>
 			<title>(Redacted) Oconee Nuclear Station, Units 1, 2, and 3 - Final Safety Analysis Report, Amendment 7, Vol. 1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25043A039</link>
@@ -213,13 +220,6 @@
 			<description>Environmental Report</description>
 			<author>NuFuels, Inc</author>
 			<pubDate>2025-02-03 07:57:00</pubDate>
-		</item>
-		<item>
-			<title>Palisades FRN Release Draft Environmental Assessment and Draft FONSI</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25021A134</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NMSS/DREFS</author>
-			<pubDate>2025-01-31 10:01:00</pubDate>
 		</item>
 	</channel>
 </rss>
