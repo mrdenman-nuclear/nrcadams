@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 12 Feb 2025 23:15:55 GMT</pubDate>
-		<lastBuildDate>Wed, 12 Feb 2025 23:15:55 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Feb 2025 14:17:54 GMT</pubDate>
+		<lastBuildDate>Thu, 13 Feb 2025 14:17:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -108,20 +108,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/RES/PMDA</author>
 			<pubDate>2025-02-07 08:19:00</pubDate>
-		</item>
-		<item>
-			<title>Attachment: SMR-300 Accident Radiological Consequences Methodology</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25035A286</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2025-02-06 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>Attachment: SMR-300 Accident Radiological Consequences Methodology</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25035A286</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2025-02-06 08:05:00</pubDate>
 		</item>
 	</channel>
 </rss>
