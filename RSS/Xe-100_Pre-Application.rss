@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Feb 2025 23:16:55 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Feb 2025 23:16:55 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Feb 2025 14:17:05 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Feb 2025 14:17:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,20 +45,6 @@
 			<description>Topical Report</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2025-02-07 13:14:00</pubDate>
-		</item>
-		<item>
-			<title>NRC 898 - Graphite Core Assembly Material Qualification and Design Methodologies</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25013A233</link>
-			<description>Topical Report</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-01-31 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>Email to X-energy Transmitting Completeness Determination - Graphite Core Assembly Material Qualification and Design Methodologies Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25013A263</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-01-31 08:10:00</pubDate>
 		</item>
 	</channel>
 </rss>

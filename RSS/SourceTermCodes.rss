@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Feb 2025 23:17:04 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Feb 2025 23:17:04 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Feb 2025 14:17:17 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Feb 2025 14:17:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Transmittal of Responses to NRC's Request for Supplemtal Information for Kemmerer Unit 1 Environmental Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25037A006</link>
+			<description>Letter, Response to Request for Additional Information (RAI)</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2025-02-14 08:15:00</pubDate>
+		</item>
 		<item>
 			<title>Turkey Point, Units 3 & 4 - Issuance of Amendment Nos. 301 and 294 Regarding Incorporation of Advanced Fuel Products and Extension of Surveillance Intervals to Facilitate Transition to a 24-Month Fuel Cycle (EPID L-2023-LLA-0161) - Non-Proprietary</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25043A428</link>
@@ -80,41 +87,6 @@
 			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-02-11 13:58:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: "Xe-100 Licensing Topical Report Plume Exposure Pathway Emergency Planning Zone Sizing Methodology," Revision 1 (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24331A308</link>
-			<description>Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-02-07 13:14:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: "Xe-100 Licensing Topical Report Plume Exposure Pathway Emergency Planning Zone Sizing Methodology," Revision 1 (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24331A308</link>
-			<description>Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-02-07 13:14:00</pubDate>
-		</item>
-		<item>
-			<title>03/26/2025 Workshop: SCALE/MELCOR Non-Light Water Reactor (non-LWR) Source Term & Fuel Cycle Demonstration Project for a Microreactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25038A073</link>
-			<description>Meeting Agenda, Meeting Notice</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-02-07 12:06:00</pubDate>
-		</item>
-		<item>
-			<title>UNLP: FY2024 Research and Development Grant Executive Summaries</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25035A051</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/RES/PMDA</author>
-			<pubDate>2025-02-07 08:19:00</pubDate>
-		</item>
-		<item>
-			<title>UNLP: FY2024 Research and Development Grant Executive Summaries</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25035A051</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/RES/PMDA</author>
-			<pubDate>2025-02-07 08:19:00</pubDate>
 		</item>
 	</channel>
 </rss>

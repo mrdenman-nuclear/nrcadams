@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Feb 2025 23:17:02 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Feb 2025 23:17:02 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Feb 2025 14:17:14 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Feb 2025 14:17:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Safety Evaluation for SMR, LLC Licensing Topical Report HI-2230875, Revision 1, Holtec PSA Risk Significance Determination Methodology Licensing Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24345A006</link>
+			<description>Safety Evaluation</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2025-02-14 08:16:00</pubDate>
+		</item>
+		<item>
+			<title>12/19/2024 Summary of Public Meeting with Representatives of Industry to Discuss NRC Staff Feedback on NEI's Proposed Approach to Operator Cold License Training for Advanced Reactors.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25036A371</link>
+			<description>Meeting Summary</description>
+			<author>NRC/NRR/DANU/UARP</author>
+			<pubDate>2025-02-14 08:16:00</pubDate>
+		</item>
 		<item>
 			<title>FOIA-2025-000153 August 2019</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25043A025</link>
@@ -206,20 +220,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/RES/PMDA</author>
 			<pubDate>2025-02-07 08:19:00</pubDate>
-		</item>
-		<item>
-			<title>ARC-100 - Alternate Shutdown System - Why it is Not Needed White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25029A244</link>
-			<description>Report, Technical</description>
-			<author>ARC Clean Technology</author>
-			<pubDate>2025-02-06 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>2-5-2025 PRM-50-120 6-Month Status Update - Alternative Method for Calculating Embrittlement for Steel Reactor Vessels</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25036A206</link>
-			<description>2.802 Process - Petition for Rulemaking (PRM), E-Mail, Status Report</description>
-			<author>NRC/NMSS/DREFS/RRPB</author>
-			<pubDate>2025-02-05 16:33:00</pubDate>
 		</item>
 	</channel>
 </rss>

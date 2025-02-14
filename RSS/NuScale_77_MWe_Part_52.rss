@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Feb 2025 23:16:55 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Feb 2025 23:16:55 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Feb 2025 14:17:05 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Feb 2025 14:17:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -206,13 +206,6 @@
 			<description>Response to Request for Additional Information (RAI), Audit Report</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-02-03 16:33:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of "NuScale Comprehensive Vibration Assessment Program Analysis Technical Report," TR-121353, Revision 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25023A214</link>
-			<description>Legal-Affidavit, Letter, Report, Technical</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-01-31 08:10:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Feb 2025 23:16:55 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Feb 2025 23:16:55 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Feb 2025 14:17:05 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Feb 2025 14:17:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Transmittal of Responses to NRC's Request for Supplemtal Information for Kemmerer Unit 1 Environmental Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25037A006</link>
+			<description>Letter, Response to Request for Additional Information (RAI)</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2025-02-14 08:15:00</pubDate>
+		</item>
 		<item>
 			<title>Letter form RCurrit, WY SHPO, to CRegan, Response to Adverse Effects Letter to TerraPower Natrium Demonstration Project DBI_WY_2022_280</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25044A095</link>
@@ -213,13 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS/DREFS</author>
 			<pubDate>2025-02-05 12:57:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower Adverse Effects Letter Tribes D. Cooper, Apache Tribe of Oklahoma</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24358A181</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/ETRB2</author>
-			<pubDate>2025-02-05 11:40:00</pubDate>
 		</item>
 	</channel>
 </rss>
