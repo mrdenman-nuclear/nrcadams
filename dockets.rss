@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 14 Feb 2025 19:14:53 GMT</pubDate>
-		<lastBuildDate>Fri, 14 Feb 2025 19:14:53 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Feb 2025 20:18:18 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Feb 2025 20:18:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>November 18, 2024 Summary of Partially Closed Meeting With X Energy on Evaluation Methodologies Topical Reports</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24334A037</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2025-02-14 14:37:00</pubDate>
+		</item>
 		<item>
 			<title>Safety Evaluation for NuScale SDAA QAPD LTR MN-122626, Revision 2</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25031A372</link>
@@ -210,13 +217,6 @@
 		<item>
 			<title>Response to NuScale Topical Report Audit Question Number A-NonLOCA.LTR-14</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A243</link>
-			<description>Audit Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-02-10 15:28:00</pubDate>
-		</item>
-		<item>
-			<title>Response to NuScale Topical Report Audit Question Number A-NonLOCA.LTR-15</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A250</link>
 			<description>Audit Report</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-02-10 15:28:00</pubDate>
