@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 14 Feb 2025 23:17:31 GMT</pubDate>
-		<lastBuildDate>Fri, 14 Feb 2025 23:17:31 GMT</lastBuildDate>
+		<pubDate>Mon, 17 Feb 2025 14:18:34 GMT</pubDate>
+		<lastBuildDate>Mon, 17 Feb 2025 14:18:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -192,34 +192,6 @@
 			<description>Federal Register Notice</description>
 			<author>NRC/NMSS/DFM/STLB</author>
 			<pubDate>2025-02-04 09:37:00</pubDate>
-		</item>
-		<item>
-			<title>Palisades Draft EA R. Knoche Letter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25007A103</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2025-02-03 10:03:00</pubDate>
-		</item>
-		<item>
-			<title>Palisades Draft EA R. Claramunt Letter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25007A102</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2025-02-03 10:03:00</pubDate>
-		</item>
-		<item>
-			<title>Palisades Draft EA S.Thompson Letter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25007A106</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2025-02-03 10:03:00</pubDate>
-		</item>
-		<item>
-			<title>Palisades Draft EA S.Hicks Letter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25007A105</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2025-02-03 10:03:00</pubDate>
 		</item>
 	</channel>
 </rss>
