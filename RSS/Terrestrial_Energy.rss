@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 17 Feb 2025 23:16:51 GMT</pubDate>
-		<lastBuildDate>Mon, 17 Feb 2025 23:16:51 GMT</lastBuildDate>
+		<pubDate>Tue, 18 Feb 2025 14:18:45 GMT</pubDate>
+		<lastBuildDate>Tue, 18 Feb 2025 14:18:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Callaway, Unit 1, Current Facility Operating License NPF-30, Tech Specs, Revised 02/18/2025.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053110040</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-02-18 07:25:00</pubDate>
+		</item>
 		<item>
 			<title>NUREG/BR-0533, "Atomic Fission: The Breakup of the Atomic Energy Commission and the Energy Reorganization Act of 1974"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25044A364</link>
@@ -185,13 +192,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-02-05 07:48:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - DRAFT Federal Register Notice Maine Yankee Atomic Power Company Request for Exemption for Certain Requirements of Title 10 of the Code of Federal Regulations Sections 72.212 and 72.214 for the Independent Spent Fuel Storage Installation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25029A115</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NMSS/DFM/STLB</author>
-			<pubDate>2025-02-04 09:37:00</pubDate>
 		</item>
 	</channel>
 </rss>

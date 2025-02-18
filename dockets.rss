@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 17 Feb 2025 23:16:42 GMT</pubDate>
-		<lastBuildDate>Mon, 17 Feb 2025 23:16:42 GMT</lastBuildDate>
+		<pubDate>Tue, 18 Feb 2025 14:18:31 GMT</pubDate>
+		<lastBuildDate>Tue, 18 Feb 2025 14:18:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Memo - Summary of Meeting with TRISO-X LLC, on ISA Likelihood Definitions</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25021A202</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2025-02-18 08:06:00</pubDate>
+		</item>
+		<item>
+			<title>December 19, 2024, Public Meeting on Westinghouse AP300 White Paper No. 7 Licensing Application Approach Summary</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25029A004</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2025-02-18 08:06:00</pubDate>
+		</item>
 		<item>
 			<title>1-29-2025 Pub Mtng-NRC and X-energy-Dow, Discuss Topics Assoc with Pre-App on Matters Rel to the Devel of a Constr Permit App for Proj Long Mott Site Docket No 99902117</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25045A172</link>
@@ -157,41 +171,6 @@
 			<description>Response to Request for Additional Information (RAI)</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-02-12 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA Chapter 17, Section 17.4, SE with no Open Items</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24326A066</link>
-			<description>Safety Evaluation Report</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-02-11 16:33:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure: Presentation Materials - Long Mott Generating Station (LMGS) Preliminary Safety Analysis Report Chapter 2 - Site Characteristics</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25035A274</link>
-			<description>Report, Technical, Slides and Viewgraphs</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-02-11 15:09:00</pubDate>
-		</item>
-		<item>
-			<title>TRISO-X, LLC – Cover Letter and Enclosure 1 Regarding Supplemental Information for the Triso-X Fuel Fabrication Facility License Application Review (Part 1)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24365A255</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2025-02-11 14:54:00</pubDate>
-		</item>
-		<item>
-			<title>Public - TERRAPOWER, LLC - Draft Safety Evaluation For Natrium Topical Report NAT-9390, "Design Basis Accident Methodology for In-Vessel Events Without Radiological Release," Revision 2 (EPID L-2023-TOP-0050)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24358A247</link>
-			<description>Safety Evaluation</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-02-11 08:12:00</pubDate>
-		</item>
-		<item>
-			<title>Email - TerraPower, LLC - Draft Safety Evaluation (Public) of Topical Report, "Design Basis Accident Methodology for In-Vessel Events without Radiological Release," Revision 2 (EPID L-2023-TOP-0050)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24274A350</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-02-11 08:12:00</pubDate>
 		</item>
 	</channel>
 </rss>

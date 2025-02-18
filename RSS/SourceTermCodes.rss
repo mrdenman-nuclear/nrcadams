@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 17 Feb 2025 23:16:54 GMT</pubDate>
-		<lastBuildDate>Mon, 17 Feb 2025 23:16:54 GMT</lastBuildDate>
+		<pubDate>Tue, 18 Feb 2025 14:18:48 GMT</pubDate>
+		<lastBuildDate>Tue, 18 Feb 2025 14:18:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Quad Cities Nuclear Power Station, Units 1 and 2 - Regulatory Audit in Support of License Amendment Request Related to Standby Gas Treatment System (EPID L-2024-LLA-0149)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25035A060</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DORL/LPL3</author>
+			<pubDate>2025-02-18 08:05:00</pubDate>
+		</item>
 		<item>
 			<title>Transmittal of Responses to NRC's Request for Supplemtal Information for Kemmerer Unit 1 Environmental Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25037A006</link>
@@ -80,13 +87,6 @@
 			<description>Audit Report, Topical Report</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2025-02-12 08:09:00</pubDate>
-		</item>
-		<item>
-			<title>Transcripts of the Advisory Committee on Reactor Safeguards Regulatory Policies and Practices Subcommittee Meetings, January 16-17, 2025, Pages 1-510 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25038A139</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-02-11 13:58:00</pubDate>
 		</item>
 	</channel>
 </rss>
