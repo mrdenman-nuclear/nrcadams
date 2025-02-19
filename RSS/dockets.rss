@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 18 Feb 2025 23:16:17 GMT</pubDate>
-		<lastBuildDate>Tue, 18 Feb 2025 23:16:17 GMT</lastBuildDate>
+		<pubDate>Wed, 19 Feb 2025 14:17:51 GMT</pubDate>
+		<lastBuildDate>Wed, 19 Feb 2025 14:17:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Email to X-energy Transmitting Withholding Determination - Graphite Core Assembly Material Qualification and Design Methodologies Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25024A110</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-02-19 08:08:00</pubDate>
+		</item>
+		<item>
+			<title>U.S. NRC Final Safety Evaluation For X-Energy’s Quality Assurance Program Description Topical Report, Revision 6</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24218A128</link>
+			<description>Letter, Safety Evaluation</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2025-02-19 08:07:00</pubDate>
+		</item>
+		<item>
+			<title>2025/02/05 GEH BWRX-300 SMR - NEDC-33912P-A, REVISION 2, “BWRX-300 REACTIVITY CONTROL” Verification Letter</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25036A117</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-02-19 08:06:00</pubDate>
+		</item>
 		<item>
 			<title>Letter dated 02/18/2025 from L. Brooks ACHP to C. Regan NRC Regarding Section 106 Review of Kemmerer Unit 1 Site</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25049A244</link>
@@ -199,27 +220,6 @@
 			<description>Legal-Affidavit, Letter</description>
 			<author>Triso-X, LLC</author>
 			<pubDate>2025-02-11 14:54:00</pubDate>
-		</item>
-		<item>
-			<title>Public - TERRAPOWER, LLC - Draft Safety Evaluation For Natrium Topical Report NAT-9390, "Design Basis Accident Methodology for In-Vessel Events Without Radiological Release," Revision 2 (EPID L-2023-TOP-0050)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24358A247</link>
-			<description>Safety Evaluation</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-02-11 08:12:00</pubDate>
-		</item>
-		<item>
-			<title>Email - TerraPower, LLC - Draft Safety Evaluation (Public) of Topical Report, "Design Basis Accident Methodology for In-Vessel Events without Radiological Release," Revision 2 (EPID L-2023-TOP-0050)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24274A350</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-02-11 08:12:00</pubDate>
-		</item>
-		<item>
-			<title>Response to NuScale Topical Report Audit Question Number A-NonLOCA.LTR-7</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24215A235</link>
-			<description>Audit Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-02-10 15:28:00</pubDate>
 		</item>
 	</channel>
 </rss>

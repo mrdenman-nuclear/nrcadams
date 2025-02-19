@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 18 Feb 2025 23:16:17 GMT</pubDate>
-		<lastBuildDate>Tue, 18 Feb 2025 23:16:17 GMT</lastBuildDate>
+		<pubDate>Wed, 19 Feb 2025 14:17:51 GMT</pubDate>
+		<lastBuildDate>Wed, 19 Feb 2025 14:17:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -150,13 +150,6 @@
 			<description>Legal-Affidavit, Letter</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-02-06 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of Supplemental Information in Support of NRC Review of NuScale Topical Report TR-124587-P, "Extended Passive Cooling and Reactivity Control Methodology," Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25028A158</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-02-05 07:49:00</pubDate>
 		</item>
 	</channel>
 </rss>
