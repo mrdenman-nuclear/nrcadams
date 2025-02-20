@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 19 Feb 2025 23:17:04 GMT</pubDate>
-		<lastBuildDate>Wed, 19 Feb 2025 23:17:04 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Feb 2025 14:18:24 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Feb 2025 14:18:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Examination Confirmation Letter No. 50-128/OL-25-02, Texas A&M University</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25029A116</link>
+			<description>Letter, License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2025-02-20 08:12:00</pubDate>
+		</item>
 		<item>
 			<title>TSAF50-00128 - Texas A&M University System TRIGA-Type Nuclear Research Reactor, Current Facility Operating License R-83, Tech Specs, Revised 02/13/2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML14136A085</link>
@@ -31,20 +38,6 @@
 			<description>Letter, Order Modifying License</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2025-02-07 13:39:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal Letter and Order - NPUF Rule Order</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24354A206</link>
-			<description>Letter, Order Modifying License</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-02-06 12:30:00</pubDate>
-		</item>
-		<item>
-			<title>Texas Engineering Experiment Station/Texas A&M University System - U.S. Nuclear Regulatory Commission Safety Inspection Report No. 05000128/2024201 And Notice Of Violation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25014A182</link>
-			<description>Inspection Report, Letter, Notice of Violation</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2025-02-06 08:03:00</pubDate>
 		</item>
 	</channel>
 </rss>

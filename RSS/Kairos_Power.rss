@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 19 Feb 2025 23:17:09 GMT</pubDate>
-		<lastBuildDate>Wed, 19 Feb 2025 23:17:09 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Feb 2025 14:18:29 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Feb 2025 14:18:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>VR-SECY-24-0008: Micro-Reactor Licensing and Deployment Considerations: Fuel Loading and Operational Testing at a Factory (Caputo)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25049A188</link>
+			<description>Commission Voting Record (CVR)</description>
+			<author>NRC/OCM</author>
+			<pubDate>2025-02-20 07:57:00</pubDate>
+		</item>
 		<item>
 			<title>Fee Schedules Fee Recovery for Fiscal Year 2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24341A006</link>
@@ -24,13 +31,6 @@
 			<description>Letter, Safety Evaluation</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2025-02-19 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>VR-SECY-24-0008: Micro-Reactor Licensing and Deployment Considerations: Fuel Loading and Operational Testing at a Factory (Caputo)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25049A188</link>
-			<description>Commission Voting Record (CVR)</description>
-			<author>NRC/OCM</author>
-			<pubDate>2025-02-18 12:30:00</pubDate>
 		</item>
 		<item>
 			<title>PM Presentations Application of Commercial Codes and Standards by Advanced Reactor Vendor and Applicants.</title>
@@ -101,20 +101,6 @@
 			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-02-07 16:29:00</pubDate>
-		</item>
-		<item>
-			<title>WANDA 2025 - Nuclear Data in the Regulatory Framework - USNRC</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25037A052</link>
-			<description>Slides and Viewgraphs</description>
-			<author>NRC/RES/DSA/FSCB</author>
-			<pubDate>2025-02-06 11:30:00</pubDate>
-		</item>
-		<item>
-			<title>ARC-100 - Alternate Shutdown System - Why it is Not Needed White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25029A244</link>
-			<description>Report, Technical</description>
-			<author>ARC Clean Technology</author>
-			<pubDate>2025-02-06 08:04:00</pubDate>
 		</item>
 	</channel>
 </rss>

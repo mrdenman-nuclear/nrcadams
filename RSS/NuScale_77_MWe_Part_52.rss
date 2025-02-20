@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 19 Feb 2025 23:17:02 GMT</pubDate>
-		<lastBuildDate>Wed, 19 Feb 2025 23:17:02 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Feb 2025 14:18:22 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Feb 2025 14:18:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC, Response to NRC Request for Additional Information No. 032 (RAI-10297 R1) on the NuScale Standard Design Approval Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25042A063</link>
+			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-02-20 08:11:00</pubDate>
+		</item>
 		<item>
 			<title>Non-Prop - Meeting Summary - January 22 2025 - Quarterly NRC-NuScale SDAA Status Public Meeting</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25028A176</link>
@@ -143,20 +150,6 @@
 			<description>Response to Request for Additional Information (RAI)</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-02-07 08:18:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC - Submittal of Presentation Material Entitled "ACRS Subcommittee Meeting (Open Session) Sections 3.7, 3.8, 3.9.2 and Chapter 5 (Including the Pressure and Temperature Limits Methodology Technical Report ad the Density Wave.....</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25029A202</link>
-			<description>Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-02-06 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of Presentation Material Entitled "ACRS Subcommittee Meeting (Closed Session) Density Wave Oscillation Safety Case" PM-178793, Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25029A207</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-02-06 08:04:00</pubDate>
 		</item>
 	</channel>
 </rss>
