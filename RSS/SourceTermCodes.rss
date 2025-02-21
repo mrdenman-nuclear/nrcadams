@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 20 Feb 2025 23:18:11 GMT</pubDate>
-		<lastBuildDate>Thu, 20 Feb 2025 23:18:11 GMT</lastBuildDate>
+		<pubDate>Fri, 21 Feb 2025 14:16:50 GMT</pubDate>
+		<lastBuildDate>Fri, 21 Feb 2025 14:16:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DORL/LPL3</author>
 			<pubDate>2025-02-18 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal of Responses to NRC's Request for Supplemtal Information for Kemmerer Unit 1 Environmental Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25037A006</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-02-14 08:15:00</pubDate>
 		</item>
 	</channel>
 </rss>
