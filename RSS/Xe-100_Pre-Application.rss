@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 21 Feb 2025 23:18:27 GMT</pubDate>
-		<lastBuildDate>Fri, 21 Feb 2025 23:18:27 GMT</lastBuildDate>
+		<pubDate>Mon, 24 Feb 2025 14:18:57 GMT</pubDate>
+		<lastBuildDate>Mon, 24 Feb 2025 14:18:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,20 +52,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2025-02-13 08:22:00</pubDate>
-		</item>
-		<item>
-			<title>11/12/24 Summary Of Public Meeting With X-Energy, LLC., To Discuss XE-100 Plume Exposure Pathway Emergency Planning Zone (EPZ) Sizing Methodology</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25037A062</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-02-10 11:38:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 (Public) - November 12, 2024 Notes - Meeting with X-energy Xe-100 PEP EPZ Sizing Methodology</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25037A063</link>
-			<description>Graphics incl Charts and Tables</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-02-10 11:38:00</pubDate>
 		</item>
 	</channel>
 </rss>

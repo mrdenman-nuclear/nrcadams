@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 21 Feb 2025 23:18:28 GMT</pubDate>
-		<lastBuildDate>Fri, 21 Feb 2025 23:18:28 GMT</lastBuildDate>
+		<pubDate>Mon, 24 Feb 2025 14:18:59 GMT</pubDate>
+		<lastBuildDate>Mon, 24 Feb 2025 14:18:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -80,13 +80,6 @@
 			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-02-11 13:58:00</pubDate>
-		</item>
-		<item>
-			<title>Advisory Committee on Reactor Safeguards Bylaws</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML21217A060</link>
-			<description>Report, Administrative</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-02-10 14:53:00</pubDate>
 		</item>
 	</channel>
 </rss>

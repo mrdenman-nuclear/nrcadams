@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 21 Feb 2025 23:18:27 GMT</pubDate>
-		<lastBuildDate>Fri, 21 Feb 2025 23:18:27 GMT</lastBuildDate>
+		<pubDate>Mon, 24 Feb 2025 14:18:57 GMT</pubDate>
+		<lastBuildDate>Mon, 24 Feb 2025 14:18:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>University of Illinois at Urbana-Champaign, NRC Form 897 for Withholding Determination for Release 2 of the Fuel Qualification Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25031A239</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-02-10 07:54:00</pubDate>
-		</item>
-		<item>
-			<title>University of Illinois at Urbana-Champaign, Email Transmitting NRC Form 897 for Withholding Determination for Release 2 of the Fuel Qualification Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25031A240</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-02-10 07:54:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
