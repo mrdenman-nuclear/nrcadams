@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 25 Feb 2025 14:18:04 GMT</pubDate>
-		<lastBuildDate>Tue, 25 Feb 2025 14:18:04 GMT</lastBuildDate>
+		<pubDate>Tue, 25 Feb 2025 15:18:42 GMT</pubDate>
+		<lastBuildDate>Tue, 25 Feb 2025 15:18:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Non-Proprietary - Terrestrial PDC Topical Report Draft Safety Evaluation</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24339A121</link>
+			<description>Safety Evaluation Report, Draft</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2025-02-25 09:31:00</pubDate>
+		</item>
+	</channel>
 </rss>
