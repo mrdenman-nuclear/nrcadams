@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 25 Feb 2025 15:18:49 GMT</pubDate>
-		<lastBuildDate>Tue, 25 Feb 2025 15:18:49 GMT</lastBuildDate>
+		<pubDate>Tue, 25 Feb 2025 16:22:14 GMT</pubDate>
+		<lastBuildDate>Tue, 25 Feb 2025 16:22:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Comment (100) from Michael F. Keller on behalf of Hybrid Power Technologies, LLC, on Part 53 Rulemaking - Risk-Informed Technology-Inclusive Regulatory Framework for Advanced Reactors</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25056A009</link>
+			<description>Rulemaking-Comment</description>
+			<author>Hybrid Power Technologies LLC </author>
+			<pubDate>2025-02-25 10:36:00</pubDate>
+		</item>
 		<item>
 			<title>Non-Proprietary - Terrestrial PDC Topical Report Draft Safety Evaluation</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24339A121</link>
@@ -213,13 +220,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/OCIO</author>
 			<pubDate>2025-02-12 16:35:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA Chapter 6 Engineered Safety Features SE with no Open Items non-prorietary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25041A202</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-02-12 13:51:00</pubDate>
 		</item>
 	</channel>
 </rss>
