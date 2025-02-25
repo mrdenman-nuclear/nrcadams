@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 24 Feb 2025 23:17:17 GMT</pubDate>
-		<lastBuildDate>Mon, 24 Feb 2025 23:17:17 GMT</lastBuildDate>
+		<pubDate>Tue, 25 Feb 2025 14:18:04 GMT</pubDate>
+		<lastBuildDate>Tue, 25 Feb 2025 14:18:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>SHINE Technologies, LLC, Periodic Report Required by the License Conditions in Section 3.D.(1) of CPMIF-001</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25045A060</link>
+			<description>Letter, Periodic Monitoring Report (Radiological/Environmental)</description>
+			<author>SHINE Technologies, LLC</author>
+			<pubDate>2025-02-25 08:06:00</pubDate>
+		</item>
+	</channel>
 </rss>

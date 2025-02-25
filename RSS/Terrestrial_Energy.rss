@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 24 Feb 2025 23:17:23 GMT</pubDate>
-		<lastBuildDate>Mon, 24 Feb 2025 23:17:23 GMT</lastBuildDate>
+		<pubDate>Tue, 25 Feb 2025 14:18:10 GMT</pubDate>
+		<lastBuildDate>Tue, 25 Feb 2025 14:18:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -150,27 +150,6 @@
 			<description>Safety Evaluation</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2025-02-12 10:02:00</pubDate>
-		</item>
-		<item>
-			<title>St. Lucie, Units 1 and 2 - Supplement to Subsequent License Renewal Application Environmental Repot</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25034A029</link>
-			<description>Environmental Report, Letter</description>
-			<author>Florida Power and Light Co</author>
-			<pubDate>2025-02-11 09:31:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Response to NRC RAI/RCI Environmental Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25034A109</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2025-02-11 09:31:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Response to NRC RAI/RCI Environmental Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25034A160</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2025-02-11 09:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

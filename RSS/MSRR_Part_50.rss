@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 24 Feb 2025 23:17:17 GMT</pubDate>
-		<lastBuildDate>Mon, 24 Feb 2025 23:17:17 GMT</lastBuildDate>
+		<pubDate>Tue, 25 Feb 2025 14:18:04 GMT</pubDate>
+		<lastBuildDate>Tue, 25 Feb 2025 14:18:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Abilene Christian University Molten Salt Research Reactor Request for Documents Related to Non-Power Security</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25043A236</link>
+			<description>Letter</description>
+			<author>Abilene Christian University (ACU)</author>
+			<pubDate>2025-02-25 08:08:00</pubDate>
+		</item>
+	</channel>
 </rss>

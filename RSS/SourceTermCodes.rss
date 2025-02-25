@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 24 Feb 2025 23:17:25 GMT</pubDate>
-		<lastBuildDate>Mon, 24 Feb 2025 23:17:25 GMT</lastBuildDate>
+		<pubDate>Tue, 25 Feb 2025 14:18:12 GMT</pubDate>
+		<lastBuildDate>Tue, 25 Feb 2025 14:18:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,20 +66,6 @@
 			<description>Meeting Summary</description>
 			<author>NRC/NRR/DORL/LPLII-1</author>
 			<pubDate>2025-02-20 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>February 2025 Advisory Committee on Reactor Safeguards Full Committee Meeting Topical Reports</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25043A112</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-02-18 09:23:00</pubDate>
-		</item>
-		<item>
-			<title>Quad Cities Nuclear Power Station, Units 1 and 2 - Regulatory Audit in Support of License Amendment Request Related to Standby Gas Treatment System (EPID L-2024-LLA-0149)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25035A060</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DORL/LPL3</author>
-			<pubDate>2025-02-18 08:05:00</pubDate>
 		</item>
 	</channel>
 </rss>
