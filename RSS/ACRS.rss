@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 25 Feb 2025 23:16:24 GMT</pubDate>
-		<lastBuildDate>Tue, 25 Feb 2025 23:16:24 GMT</lastBuildDate>
+		<pubDate>Wed, 26 Feb 2025 14:18:43 GMT</pubDate>
+		<lastBuildDate>Wed, 26 Feb 2025 14:18:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,13 +66,6 @@
 			<description>Meeting Agenda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-02-13 14:23:00</pubDate>
-		</item>
-		<item>
-			<title>ACRS Chair Expectations for Meeting Behavior July 2024 Final</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25043A365</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-02-12 16:36:00</pubDate>
 		</item>
 	</channel>
 </rss>

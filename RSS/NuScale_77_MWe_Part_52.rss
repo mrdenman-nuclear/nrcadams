@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 25 Feb 2025 23:16:22 GMT</pubDate>
-		<lastBuildDate>Tue, 25 Feb 2025 23:16:22 GMT</lastBuildDate>
+		<pubDate>Wed, 26 Feb 2025 14:18:41 GMT</pubDate>
+		<lastBuildDate>Wed, 26 Feb 2025 14:18:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,27 +66,6 @@
 			<description>Letter</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-02-13 08:21:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Safety Evaluation For Standard Design Approval Application Safety Analysis Report Chapter 6, Chapter 19, And Chapter 17, Section 17.4</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25013A279</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2025-02-12 15:40:00</pubDate>
-		</item>
-		<item>
-			<title>Nuscale Power, LLC - Submittal of the NRC's Request for Docketing of Audit Response</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25035A246</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-02-12 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>Response to Nuscale Topical Report Audit Question A-NonLOCA.LTR-20 (Non-Proprietary)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25035A247</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-02-12 08:08:00</pubDate>
 		</item>
 	</channel>
 </rss>

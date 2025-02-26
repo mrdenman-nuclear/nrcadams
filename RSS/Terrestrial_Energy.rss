@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 25 Feb 2025 23:16:28 GMT</pubDate>
-		<lastBuildDate>Tue, 25 Feb 2025 23:16:28 GMT</lastBuildDate>
+		<pubDate>Wed, 26 Feb 2025 14:18:46 GMT</pubDate>
+		<lastBuildDate>Wed, 26 Feb 2025 14:18:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Cover letter, Enclosure 1: RCI Responses, Enclosure 2: RAI responses</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25049A231</link>
+			<description>Environmental Report, Letter, Response to Request for Additional Information (RAI)</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-02-26 08:01:00</pubDate>
+		</item>
 		<item>
 			<title>Petitioners Statutory Addendum</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25055A084</link>
@@ -87,69 +94,6 @@
 			<description>Final Safety Analysis Report (FSAR)</description>
 			<author>Duke Power Co</author>
 			<pubDate>2025-02-13 08:23:00</pubDate>
-		</item>
-		<item>
-			<title>FOIA-2025-000153 January 2019</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25043A015</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/OCIO</author>
-			<pubDate>2025-02-12 16:35:00</pubDate>
-		</item>
-		<item>
-			<title>FOIA-2025-000153 June 2019</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25043A019</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/OCIO</author>
-			<pubDate>2025-02-12 16:35:00</pubDate>
-		</item>
-		<item>
-			<title>FOIA-2025-000153 October 2018</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25043A021</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/OCIO</author>
-			<pubDate>2025-02-12 16:35:00</pubDate>
-		</item>
-		<item>
-			<title>FOIA-2025-000153 October 2019</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25043A022</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/OCIO</author>
-			<pubDate>2025-02-12 16:35:00</pubDate>
-		</item>
-		<item>
-			<title>PM Presentations Application of Commercial Codes and Standards by Advanced Reactor Vendor and Applicants.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25042A089</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/RES</author>
-			<pubDate>2025-02-12 14:09:00</pubDate>
-		</item>
-		<item>
-			<title>Vogtle Electric Generating Plant, Unit 3 Current Facility Combined License NPF-91, Revised 07/18/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML14100A106</link>
-			<description>License-Combined License (COL) (New/Renewal/Amendments) DKT 52</description>
-			<author>NRC/NRO/DNRL/LB4</author>
-			<pubDate>2025-02-12 11:27:00</pubDate>
-		</item>
-		<item>
-			<title>Vogtle Electric Generating Plant, Unit 4, Current Facility Combined License NPF-92, Revised 03/12/2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML14100A135</link>
-			<description>License-Combined License (COL) (New/Renewal/Amendments) DKT 52, Technical Specifications, Test/Inspection/Operating Procedure</description>
-			<author>NRC/NRO/DNRL/LB4</author>
-			<pubDate>2025-02-12 11:19:00</pubDate>
-		</item>
-		<item>
-			<title>SECY-25-0012: Weekly Information Report Week Ending February 7, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25042A591</link>
-			<description>Commission SECY Paper</description>
-			<author>NRC/EDO/AO</author>
-			<pubDate>2025-02-12 10:37:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA Chapter 19  "Probabilistic Risk Assessment and Severe Accident Evaluation" SE with No Open Items</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25037A169</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-02-12 10:02:00</pubDate>
 		</item>
 	</channel>
 </rss>

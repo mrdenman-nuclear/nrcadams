@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 25 Feb 2025 23:16:20 GMT</pubDate>
-		<lastBuildDate>Tue, 25 Feb 2025 23:16:20 GMT</lastBuildDate>
+		<pubDate>Wed, 26 Feb 2025 14:18:37 GMT</pubDate>
+		<lastBuildDate>Wed, 26 Feb 2025 14:18:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Transmittal of Kemmerer Unit 1 Class III Cultural Resource Inventory Report (Public)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25049A292</link>
+			<description>Letter, Report, Technical</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2025-02-26 08:00:00</pubDate>
+		</item>
 		<item>
 			<title>Non-Proprietary - Terrestrial PDC Topical Report Draft Safety Evaluation</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24339A121</link>
@@ -136,41 +143,6 @@
 			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-02-20 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Non-Prop - Meeting Summary - January 22 2025 - Quarterly NRC-NuScale SDAA Status Public Meeting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25028A176</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-02-19 12:44:00</pubDate>
-		</item>
-		<item>
-			<title>Non-Prop - Meeting Summary - January 22 2025 - Quarterly NRC-NuScale SDAA Status Public Meeting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25028A176</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-02-19 12:44:00</pubDate>
-		</item>
-		<item>
-			<title>Email to X-energy Transmitting Withholding Determination - Graphite Core Assembly Material Qualification and Design Methodologies Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25024A110</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-02-19 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>U.S. NRC Final Safety Evaluation For X-Energy’s Quality Assurance Program Description Topical Report, Revision 6</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24218A128</link>
-			<description>Letter, Safety Evaluation</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-02-19 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>2025/02/05 GEH BWRX-300 SMR - NEDC-33912P-A, REVISION 2, “BWRX-300 REACTIVITY CONTROL” Verification Letter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25036A117</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-02-19 08:06:00</pubDate>
 		</item>
 	</channel>
 </rss>

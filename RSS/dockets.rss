@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 25 Feb 2025 23:16:22 GMT</pubDate>
-		<lastBuildDate>Tue, 25 Feb 2025 23:16:22 GMT</lastBuildDate>
+		<pubDate>Wed, 26 Feb 2025 14:18:41 GMT</pubDate>
+		<lastBuildDate>Wed, 26 Feb 2025 14:18:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Transmittal of Kemmerer Unit 1 Class III Cultural Resource Inventory Report (Public)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25049A292</link>
+			<description>Letter, Report, Technical</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2025-02-26 08:00:00</pubDate>
+		</item>
 		<item>
 			<title>Non-Proprietary - Terrestrial PDC Topical Report Draft Safety Evaluation</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24339A121</link>
@@ -213,13 +220,6 @@
 			<description>Safety Evaluation</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2025-02-14 11:32:00</pubDate>
-		</item>
-		<item>
-			<title>Safety Evaluation for SMR, LLC Licensing Topical Report HI-2230875, Revision 1, Holtec PSA Risk Significance Determination Methodology Licensing Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24345A006</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-02-14 08:16:00</pubDate>
 		</item>
 	</channel>
 </rss>
