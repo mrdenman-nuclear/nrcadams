@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 26 Feb 2025 23:17:22 GMT</pubDate>
-		<lastBuildDate>Wed, 26 Feb 2025 23:17:22 GMT</lastBuildDate>
+		<pubDate>Thu, 27 Feb 2025 14:17:43 GMT</pubDate>
+		<lastBuildDate>Thu, 27 Feb 2025 14:17:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for Oklo Inc. Presentation Materials for the January 23, 2025, Meeting Regarding Safety Analysis for Fuel Recycling</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25050A001</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2025-02-27 08:14:00</pubDate>
+		</item>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for Oklo Inc. Questions for the February 20, 2025, Fuel Recycling Facility Clearances Meeting</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25050A002</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2025-02-27 08:14:00</pubDate>
+		</item>
+		<item>
+			<title>2025/02/13 NuScale NPM-20 - Nonproprietary - NuScale FSR TR-145417, “NuScale US460 Fuel Storage Rack Design Topical Report,” Revision 0 - Request for Additional Information No. 001 (RAI-10502-R1)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25044A058</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-02-27 08:13:00</pubDate>
+		</item>
 		<item>
 			<title>TerraPower, LLC, Kemmerer Power Station, Unit 1, Construction Permit Application Review Status (EPIDS: L-2024-CPS-0000 and L-2024-LNE-0002)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25055A019</link>
@@ -199,27 +220,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
 			<pubDate>2025-02-18 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>December 19, 2024, Public Meeting on Westinghouse AP300 White Paper No. 7 Licensing Application Approach Summary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25029A004</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-02-18 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>1-29-2025 Pub Mtng-NRC and X-energy-Dow, Discuss Topics Assoc with Pre-App on Matters Rel to the Devel of a Constr Permit App for Proj Long Mott Site Docket No 99902117</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25045A172</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2025-02-14 16:32:00</pubDate>
-		</item>
-		<item>
-			<title>November 18, 2024 Summary of Partially Closed Meeting With X Energy on Evaluation Methodologies Topical Reports</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24334A037</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-02-14 14:37:00</pubDate>
 		</item>
 	</channel>
 </rss>

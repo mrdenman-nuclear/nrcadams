@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 26 Feb 2025 23:17:23 GMT</pubDate>
-		<lastBuildDate>Wed, 26 Feb 2025 23:17:23 GMT</lastBuildDate>
+		<pubDate>Thu, 27 Feb 2025 14:17:44 GMT</pubDate>
+		<lastBuildDate>Thu, 27 Feb 2025 14:17:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>723rd ACRS Full Committee Meeting Agenda for March 5 through 7, 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25035A113</link>
+			<description>Meeting Agenda, Meeting Briefing Package/Handouts</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2025-02-27 08:34:00</pubDate>
+		</item>
 		<item>
 			<title>Agenda - DIC Update Briefing on Staff's Electrical Power Issues including DG-1427 (RG 1.257 Rev. 0) - SC - March 20, 2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25057A065</link>
@@ -66,13 +73,6 @@
 			<description>Memoranda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-02-18 09:23:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - DI&C Meeting on Incorporation by Reference of IEEE 603-2018 Rulemaking - SC - February 19, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25029A135</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-02-13 14:23:00</pubDate>
 		</item>
 	</channel>
 </rss>

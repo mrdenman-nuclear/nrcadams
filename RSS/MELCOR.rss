@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 26 Feb 2025 23:17:29 GMT</pubDate>
-		<lastBuildDate>Wed, 26 Feb 2025 23:17:29 GMT</lastBuildDate>
+		<pubDate>Thu, 27 Feb 2025 14:17:47 GMT</pubDate>
+		<lastBuildDate>Thu, 27 Feb 2025 14:17:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC Simulation Capabilities Supporting Fuel & Cladding Performance Modeling for Metallic Fueled Non-LWRs</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25044A015</link>
+			<description>Slides and Viewgraphs</description>
+			<author>NRC/RES/DSA/FSCB</author>
+			<pubDate>2025-02-27 08:13:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Simulation Capabilities supporting Criticality, Reactor Physics, Decay Heat, and Shielding for Metallic Fueled Non-LWRs</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25044A021</link>
+			<description>Slides and Viewgraphs</description>
+			<author>NRC/RES/DSA/FSCB</author>
+			<pubDate>2025-02-27 08:13:00</pubDate>
+		</item>
 		<item>
 			<title>2025 RIV TOP Conference KI Policy Implementation</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25057A400</link>
@@ -31,13 +45,6 @@
 			<description>Committee Letter Report</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-02-24 09:29:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Browns Ferry, Units 1, 2, and 3, Environmental Report Supplement, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25050A509</link>
-			<description>Environmental Monitoring Report, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-02-20 10:32:00</pubDate>
 		</item>
 	</channel>
 </rss>

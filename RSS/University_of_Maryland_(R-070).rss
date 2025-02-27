@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 26 Feb 2025 23:17:23 GMT</pubDate>
-		<lastBuildDate>Wed, 26 Feb 2025 23:17:23 GMT</lastBuildDate>
+		<pubDate>Thu, 27 Feb 2025 14:17:44 GMT</pubDate>
+		<lastBuildDate>Thu, 27 Feb 2025 14:17:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50</description>
 			<author>NRC/NRR/DANU/UNPL</author>
 			<pubDate>2025-02-19 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>TSAF50-00166 - University of Maryland Training and Research Reactor, Current Facility Operating License R-70, Tech Specs, Revised 02/13/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML14136A067</link>
-			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-02-13 14:14:00</pubDate>
 		</item>
 	</channel>
 </rss>

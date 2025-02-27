@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 26 Feb 2025 23:17:27 GMT</pubDate>
-		<lastBuildDate>Wed, 26 Feb 2025 23:17:27 GMT</lastBuildDate>
+		<pubDate>Thu, 27 Feb 2025 14:17:46 GMT</pubDate>
+		<lastBuildDate>Thu, 27 Feb 2025 14:17:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Wolf Creek, Unit 1, Current Facility Operating License NPF-42, Technical Specifications, Revised 02/27/2025.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052720315</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-02-27 07:24:00</pubDate>
+		</item>
 		<item>
 			<title>Cover letter, Enclosure 1: RCI Responses, Enclosure 2: RAI responses</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25049A231</link>
@@ -80,20 +87,6 @@
 			<description>Report, Miscellaneous</description>
 			<author>Entergy Operations, Inc, State of LA, Emergency and Radiological Services Div, State of LA, Office of Homeland Security & Emergency Preparedness, Town of St. Francisville, LA, US Dept of Homeland Security, Federal Emergency Management Agency, West Feliciana Parrish, LA</author>
 			<pubDate>2025-02-14 11:31:00</pubDate>
-		</item>
-		<item>
-			<title>Pacific Northwest National Lab., Recommendations for VSP Enhancements for Continuously Collected Survey Data Fulfillment of Task 1a of 31310021F0022 and Task 2 of 31310023F0040</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25023A180</link>
-			<description>Report, Technical</description>
-			<author>Pacific Northwest National Lab</author>
-			<pubDate>2025-02-13 12:32:00</pubDate>
-		</item>
-		<item>
-			<title>(Redacted) Oconee Nuclear Station, Units 1, 2, and 3 - Final Safety Analysis Report, Amendment 7, Vol. 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25043A039</link>
-			<description>Final Safety Analysis Report (FSAR)</description>
-			<author>Duke Power Co</author>
-			<pubDate>2025-02-13 08:23:00</pubDate>
 		</item>
 	</channel>
 </rss>

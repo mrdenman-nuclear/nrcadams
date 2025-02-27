@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 26 Feb 2025 23:17:23 GMT</pubDate>
-		<lastBuildDate>Wed, 26 Feb 2025 23:17:23 GMT</lastBuildDate>
+		<pubDate>Thu, 27 Feb 2025 14:17:44 GMT</pubDate>
+		<lastBuildDate>Thu, 27 Feb 2025 14:17:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>Inspection Report, Letter</description>
 			<author>NRC/NRR/DANU/UNPO</author>
 			<pubDate>2025-02-14 08:16:00</pubDate>
-		</item>
-		<item>
-			<title>03/06/2025 Pre-application Meeting with the NCNR for a License Amendment to Convert the NBSR from a Test Reactor to a Research Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25044A125</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-02-13 11:22:00</pubDate>
 		</item>
 	</channel>
 </rss>
