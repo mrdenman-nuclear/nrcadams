@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 27 Feb 2025 20:18:45 GMT</pubDate>
-		<lastBuildDate>Thu, 27 Feb 2025 20:18:45 GMT</lastBuildDate>
+		<pubDate>Thu, 27 Feb 2025 21:16:54 GMT</pubDate>
+		<lastBuildDate>Thu, 27 Feb 2025 21:16:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Nuscale Power, LLC - Submittal of Presentation Material Entitled, "ACRS Subcommittee Meeting (Open Session) Non-Less-of-Coolant Accident Topical Report and Extended Passive Cooling and Reactivity Control Methodology Topical Report," PM-179845, Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25057A410</link>
+			<description>Letter, Slides and Viewgraphs, Topical Report</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-02-27 15:35:00</pubDate>
+		</item>
 		<item>
 			<title>Meeting Summary October 2, 2024, Quarterly NRC NuScale SDAA Status Public Meeting</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24337A189</link>
@@ -213,13 +220,6 @@
 			<description>Letter, Safety Evaluation</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2025-02-19 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>2025/02/05 GEH BWRX-300 SMR - NEDC-33912P-A, REVISION 2, “BWRX-300 REACTIVITY CONTROL” Verification Letter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25036A117</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-02-19 08:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
