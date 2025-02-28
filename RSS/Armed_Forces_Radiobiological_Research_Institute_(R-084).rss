@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 27 Feb 2025 23:18:08 GMT</pubDate>
-		<lastBuildDate>Thu, 27 Feb 2025 23:18:08 GMT</lastBuildDate>
+		<pubDate>Fri, 28 Feb 2025 14:17:43 GMT</pubDate>
+		<lastBuildDate>Fri, 28 Feb 2025 14:17:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,27 +17,6 @@
 			<description>Letter</description>
 			<author>US Dept of Defense, Uniformed Services Univ of the Health Sciences</author>
 			<pubDate>2025-02-20 13:33:00</pubDate>
-		</item>
-		<item>
-			<title>AFRRI, 50-170, R-84, Conforming Amendment No. 27 to Renewed Facility Operating License No. R-84</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25030A322</link>
-			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2025-02-14 08:16:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Result Letter No. 50-170/OL-25-01, Armed Forces Radiobiology Research Institute</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24169A117</link>
-			<description>License-Operator, Other HQ and Regional Correspondence, License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2025-02-14 08:15:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Report Letter No. 50-170/OL-25-01, Armed Forces Radiobiology Research Institute</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24169A116</link>
-			<description>License-Operator Examination Report (Non-Power Reactors Only), License-Operator, Other HQ and Regional Correspondence, License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2025-02-14 08:15:00</pubDate>
 		</item>
 	</channel>
 </rss>

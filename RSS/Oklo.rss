@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 27 Feb 2025 23:18:12 GMT</pubDate>
-		<lastBuildDate>Thu, 27 Feb 2025 23:18:12 GMT</lastBuildDate>
+		<pubDate>Fri, 28 Feb 2025 14:17:48 GMT</pubDate>
+		<lastBuildDate>Fri, 28 Feb 2025 14:17:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>NUREG</description>
 			<author>NRC/ADM</author>
 			<pubDate>2025-02-24 09:29:00</pubDate>
-		</item>
-		<item>
-			<title>12/19/2024 Summary of Public Meeting with Representatives of Industry to Discuss NRC Staff Feedback on NEI's Proposed Approach to Operator Cold License Training for Advanced Reactors.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25036A371</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DANU/UARP</author>
-			<pubDate>2025-02-14 08:16:00</pubDate>
 		</item>
 	</channel>
 </rss>

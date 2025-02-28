@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 27 Feb 2025 23:18:08 GMT</pubDate>
-		<lastBuildDate>Thu, 27 Feb 2025 23:18:08 GMT</lastBuildDate>
+		<pubDate>Fri, 28 Feb 2025 14:17:43 GMT</pubDate>
+		<lastBuildDate>Fri, 28 Feb 2025 14:17:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>National Institute Of Standards And Technology - U.S. Nuclear Regulatory Commission Security Inspection Report No. 050001842024203 (Public)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25049A175</link>
+			<description>Inspection Report, Letter</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2025-02-28 08:16:00</pubDate>
+		</item>
 		<item>
 			<title>2025/02/18 NRR E-mail Capture - ACCEPTANCE NOTIFICATION License Amendment Request Regarding Flow Scram Bypass</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25049A240</link>
@@ -31,13 +38,6 @@
 			<description>Letter</description>
 			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
 			<pubDate>2025-02-25 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>National Institute of Standards and Technology - U.S. Nuclear Supplemental Inspection Reports</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25014A433</link>
-			<description>Inspection Report, Letter</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2025-02-14 08:16:00</pubDate>
 		</item>
 	</channel>
 </rss>

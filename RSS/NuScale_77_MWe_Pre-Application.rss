@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 27 Feb 2025 23:18:07 GMT</pubDate>
-		<lastBuildDate>Thu, 27 Feb 2025 23:18:07 GMT</lastBuildDate>
+		<pubDate>Fri, 28 Feb 2025 14:17:42 GMT</pubDate>
+		<lastBuildDate>Fri, 28 Feb 2025 14:17:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>Memoranda</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2025-02-19 12:44:00</pubDate>
-		</item>
-		<item>
-			<title>Safety Evaluation for NuScale SDAA QAPD LTR MN-122626, Revision 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25031A372</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-02-14 11:32:00</pubDate>
 		</item>
 	</channel>
 </rss>

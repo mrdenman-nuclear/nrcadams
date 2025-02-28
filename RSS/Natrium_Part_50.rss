@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 27 Feb 2025 23:18:07 GMT</pubDate>
-		<lastBuildDate>Thu, 27 Feb 2025 23:18:07 GMT</lastBuildDate>
+		<pubDate>Fri, 28 Feb 2025 14:17:42 GMT</pubDate>
+		<lastBuildDate>Fri, 28 Feb 2025 14:17:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Withholding Proprietary Information from Public Disclosure - TerraPower - Responses to NRC Audit Questions on Kemmerer PSAR</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25049A238</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-02-28 08:16:00</pubDate>
+		</item>
 		<item>
 			<title>TerraPower, LLC, Kemmerer Power Station, Unit 1, Construction Permit Application Review Status (EPIDS: L-2024-CPS-0000 and L-2024-LNE-0002)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25055A019</link>
@@ -38,13 +45,6 @@
 			<description>Letter</description>
 			<author>US Advisory Council on Historic Preservation, Office of Federal Agency Programs</author>
 			<pubDate>2025-02-18 14:35:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal of Responses to NRC's Request for Supplemtal Information for Kemmerer Unit 1 Environmental Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25037A006</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-02-14 08:15:00</pubDate>
 		</item>
 	</channel>
 </rss>
