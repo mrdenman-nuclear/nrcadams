@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Mar 2025 19:14:23 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Mar 2025 19:14:23 GMT</lastBuildDate>
+		<pubDate>Mon, 03 Mar 2025 20:18:59 GMT</pubDate>
+		<lastBuildDate>Mon, 03 Mar 2025 20:18:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Oklo, Inc. - Voluntary Response to NRC Regulatory Issue Summary 2020-02, "Process for Scheduling and Allocating Resources for Fiscal Years 2023 Through 2025 for the Review of New Licensing Applications for Light-Water Reactors and Non-Light Water Reactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25052A168</link>
+			<description>Letter</description>
+			<author>Oklo Inc</author>
+			<pubDate>2025-03-03 14:29:00</pubDate>
+		</item>
+		<item>
+			<title>Oklo, Inc. - Voluntary Response to NRC Regulatory Issue Summary 2020-02, "Process for Scheduling and Allocating Resources for Fiscal Years 2023 Through 2025 for the Review of New Licensing Applications for Light-Water Reactors and Non-Light Water Reactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25052A168</link>
+			<description>Letter</description>
+			<author>Oklo Inc</author>
+			<pubDate>2025-03-03 14:29:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC Submittal of Supplement to Chapter 15 US460 SDA Revision 1 to Revision 2 Snapshot</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25058A253</link>
+			<description>Final Safety Analysis Report (FSAR), Letter</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-03-03 14:29:00</pubDate>
+		</item>
 		<item>
 			<title>Westinghouse, Submittal of AP300 SMR Probabilistic Risk Assessment White Paper for Pre-Application Engagement (Proprietary)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25056A322</link>
@@ -199,27 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2025-02-27 08:14:00</pubDate>
-		</item>
-		<item>
-			<title>2025/02/13 NuScale NPM-20 - Nonproprietary - NuScale FSR TR-145417, “NuScale US460 Fuel Storage Rack Design Topical Report,” Revision 0 - Request for Additional Information No. 001 (RAI-10502-R1)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25044A058</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-02-27 08:13:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC, Kemmerer Power Station, Unit 1, Construction Permit Application Review Status (EPIDS: L-2024-CPS-0000 and L-2024-LNE-0002)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25055A019</link>
-			<description>Letter</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-02-26 11:23:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal of Kemmerer Unit 1 Class III Cultural Resource Inventory Report (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25049A292</link>
-			<description>Letter, Report, Technical</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-02-26 08:00:00</pubDate>
 		</item>
 	</channel>
 </rss>
