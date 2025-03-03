@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 28 Feb 2025 23:16:30 GMT</pubDate>
-		<lastBuildDate>Fri, 28 Feb 2025 23:16:30 GMT</lastBuildDate>
+		<pubDate>Mon, 03 Mar 2025 14:19:53 GMT</pubDate>
+		<lastBuildDate>Mon, 03 Mar 2025 14:19:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Westinghouse, Submittal of AP300 SMR Probabilistic Risk Assessment White Paper for Pre-Application Engagement (Proprietary)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25056A322</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>Westinghouse Electric Co</author>
+			<pubDate>2025-03-03 08:03:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1: Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25052A170</link>
+			<description>Legal-Affidavit</description>
+			<author>Oklo Inc</author>
+			<pubDate>2025-03-03 08:02:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1: Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25052A170</link>
+			<description>Legal-Affidavit</description>
+			<author>Oklo Inc</author>
+			<pubDate>2025-03-03 08:02:00</pubDate>
+		</item>
 		<item>
 			<title>04/22/2025 Pre-submittal Meeting on the Kairos Power LLC Operator Training and Testing Program Topical Report and Proposed Exemption</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25059A252</link>
@@ -199,27 +220,6 @@
 			<description>Letter, Report, Technical</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2025-02-26 08:00:00</pubDate>
-		</item>
-		<item>
-			<title>Non-Proprietary - Terrestrial PDC Topical Report Draft Safety Evaluation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24339A121</link>
-			<description>Safety Evaluation Report, Draft</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-02-25 09:31:00</pubDate>
-		</item>
-		<item>
-			<title>Abilene Christian University Molten Salt Research Reactor Request for Documents Related to Non-Power Security</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25043A236</link>
-			<description>Letter</description>
-			<author>Abilene Christian University (ACU)</author>
-			<pubDate>2025-02-25 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo, Inc., Transmittal of Questions for the February 20, 2025, Fuel Recycling Facility Clearances Meeting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25045A193</link>
-			<description>Letter</description>
-			<author>Oklo Inc</author>
-			<pubDate>2025-02-25 08:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
