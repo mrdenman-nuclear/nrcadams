@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Mar 2025 18:23:40 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Mar 2025 18:23:40 GMT</lastBuildDate>
+		<pubDate>Tue, 04 Mar 2025 19:15:11 GMT</pubDate>
+		<lastBuildDate>Tue, 04 Mar 2025 19:15:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Transcript of the Advisory Committee on Reactor Safeguards 722nd Full Committee Meeting, February 06, 2025, Pages 1-14 (Open)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25063A196</link>
+			<description>Meeting Transcript</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2025-03-04 13:40:00</pubDate>
+		</item>
 		<item>
 			<title>Summary of 2024 Workshop on HF Considerations for Remote Operation of Nuclear (RIL 2024-06)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25050A376</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Agenda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-02-21 11:26:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (084) from Douglas E. True on behalf of the Nuclear Energy Institute on Part 53 Rulemaking - Risk-Informed Technology-Inclusive Regulatory Framework for Advanced Reactors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25051A092</link>
-			<description>Rulemaking-Comment</description>
-			<author>Nuclear Energy Institute (NEI)</author>
-			<pubDate>2025-02-20 10:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
