@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Mar 2025 23:17:37 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Mar 2025 23:17:37 GMT</lastBuildDate>
+		<pubDate>Tue, 04 Mar 2025 15:10:24 GMT</pubDate>
+		<lastBuildDate>Tue, 04 Mar 2025 15:10:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Homestake Mining Co. of California - 2nd Half 2024 Semi-Annual Environmental Monitoring Report for Period July - December 2024, In Accordance with NRC Docket No. 40-8903, License, SUA 1471, and New Mexico Environmental Department DP-200 Ground Water....</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25059A405</link>
+			<description>Environmental Monitoring Report, Letter</description>
+			<author>Homestake Mining Co of California</author>
+			<pubDate>2025-03-04 08:10:00</pubDate>
+		</item>
 		<item>
 			<title>Vogtle Electric Generating Plant, Unit 4, Current Facility Combined License NPF-92, Revised 03/03/2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML14100A135</link>
@@ -80,20 +87,6 @@
 			<description>Letter, Safety Evaluation</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2025-02-19 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>V.C. Summer DSEIS Meeting Transcript  January 28</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25049A141</link>
-			<description>Meeting Transcript</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-02-18 11:38:00</pubDate>
-		</item>
-		<item>
-			<title>Callaway, Unit 1, Current Facility Operating License NPF-30, Tech Specs, Revised 02/18/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053110040</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-02-18 07:25:00</pubDate>
 		</item>
 	</channel>
 </rss>

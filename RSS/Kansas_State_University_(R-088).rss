@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Mar 2025 23:17:31 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Mar 2025 23:17:31 GMT</lastBuildDate>
+		<pubDate>Tue, 04 Mar 2025 15:10:19 GMT</pubDate>
+		<lastBuildDate>Tue, 04 Mar 2025 15:10:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Letter</description>
 			<author>Kansas State Univ</author>
 			<pubDate>2025-02-21 12:33:00</pubDate>
-		</item>
-		<item>
-			<title>TSAF50-00188 - Kansas State Univ, Current Facility Operating License R-088, Tech Specs, Revised 02/18/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML14204A626</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specification, Amendment</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-02-18 14:47:00</pubDate>
 		</item>
 	</channel>
 </rss>

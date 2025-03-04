@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Mar 2025 23:17:31 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Mar 2025 23:17:31 GMT</lastBuildDate>
+		<pubDate>Tue, 04 Mar 2025 15:10:19 GMT</pubDate>
+		<lastBuildDate>Tue, 04 Mar 2025 15:10:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Letter</description>
 			<author>State of RI and Providence Plantations, Atomic Energy Commission</author>
 			<pubDate>2025-02-19 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>TSAF50-00193 - Rhode Island and Providence Plantations Atomic Energy Commission Rhode Island Nuclear Science Center Reactor, Current Facility Operating License R-95, Tech Specs, Revised 02/18/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML14136A068</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>US Atomic Energy Commission (AEC)</author>
-			<pubDate>2025-02-18 14:55:00</pubDate>
 		</item>
 	</channel>
 </rss>

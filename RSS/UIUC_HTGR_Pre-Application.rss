@@ -5,11 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Mar 2025 23:17:30 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Mar 2025 23:17:30 GMT</lastBuildDate>
+		<pubDate>Tue, 04 Mar 2025 15:10:15 GMT</pubDate>
+		<lastBuildDate>Tue, 04 Mar 2025 15:10:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>University of Illinois at Urbana-Champaign, Emails Regarding PROP Review of DRAFT Fuel Qualification Methodology Topical Report Audit Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25056A114</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2025-03-04 08:09:00</pubDate>
+		</item>
+		<item>
+			<title>University of Illinois at Urbana-Champaign, Final Audit Report for UIUC Fuel Qualification Methodology Topical Report (Redacted)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25056A215</link>
+			<description>Report, Technical</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-03-04 08:09:00</pubDate>
+		</item>
+		<item>
+			<title>University of Illinois at Urbana-Champaign, Email Transmitting Final Audit Report for UIUC Fuel Qualification Methodology Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25056A214</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-03-04 08:09:00</pubDate>
+		</item>
+	</channel>
 </rss>

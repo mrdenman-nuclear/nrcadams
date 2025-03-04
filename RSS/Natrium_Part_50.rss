@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Mar 2025 23:17:30 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Mar 2025 23:17:30 GMT</lastBuildDate>
+		<pubDate>Tue, 04 Mar 2025 15:10:15 GMT</pubDate>
+		<lastBuildDate>Tue, 04 Mar 2025 15:10:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>Letter, Report, Technical</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2025-02-21 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>Letter dated 02/18/2025 from L. Brooks ACHP to C. Regan NRC Regarding Section 106 Review of Kemmerer Unit 1 Site</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25049A244</link>
-			<description>Letter</description>
-			<author>US Advisory Council on Historic Preservation, Office of Federal Agency Programs</author>
-			<pubDate>2025-02-18 14:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
