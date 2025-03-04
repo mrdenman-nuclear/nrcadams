@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Mar 2025 20:18:43 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Mar 2025 20:18:43 GMT</lastBuildDate>
+		<pubDate>Tue, 04 Mar 2025 21:16:51 GMT</pubDate>
+		<lastBuildDate>Tue, 04 Mar 2025 21:16:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Non Proprietary - EPRI 3002025288, Enhanced Risk-Informed Categorization Methodology for Pressure Boundary Components, RAI Responses - Draft for Public Meeting Only</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25063A249</link>
+			<description>Meeting Briefing Package/Handouts</description>
+			<author>Electric Power Research Institute (EPRI)</author>
+			<pubDate>2025-03-04 15:33:00</pubDate>
+		</item>
 		<item>
 			<title>Transcript of the Advisory Committee on Reactor Safeguards 722nd Full Committee Meeting, February 06, 2025, Pages 1-14 (Open)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25063A196</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NRC/NRR/DORL/LLPB</author>
 			<pubDate>2025-02-24 11:09:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - NuScale Non- LOCA and Passive Cooling TRs SER - SC - March 4, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25052A061</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-02-21 11:26:00</pubDate>
 		</item>
 	</channel>
 </rss>
