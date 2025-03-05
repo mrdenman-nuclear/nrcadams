@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 05 Mar 2025 18:24:53 GMT</pubDate>
-		<lastBuildDate>Wed, 05 Mar 2025 18:24:53 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Mar 2025 19:15:08 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Mar 2025 19:15:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>1851-0001-RPT-002, Revision 0, "Degradation Management Program for the Abilene Christian University Molten Salt Reactor" (Public)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24341A135</link>
+			<description>Report, Technical</description>
+			<author>Abilene Christian University, Nuclear Energy eXperimental Testing Lab</author>
+			<pubDate>2025-03-05 13:54:00</pubDate>
+		</item>
+		<item>
+			<title>03/14/2025 Meeting to discuss NRC's draft human factor RAIs with TRISO-X</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25064A475</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2025-03-05 13:36:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC, Response to NRC Request for Additional Information No. 033 (RAI-10298 R1) on the NuScale Standard Design Approval Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25056A127</link>
@@ -206,20 +220,6 @@
 			<description>Letter, Proprietary Information Review</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2025-02-28 08:16:00</pubDate>
-		</item>
-		<item>
-			<title>Public - TerraPower, LLC. Draft Safety Evaluation Of NAT 9392, "Radiological Source Term Methodology Report," Revision 0 (EPID No. L-2023-TOP-0046)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25024A141</link>
-			<description>Safety Evaluation Report, Draft</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-02-28 08:16:00</pubDate>
-		</item>
-		<item>
-			<title>Memo - SMR Holtec Risk Significance Methodology Topical Report - Audit Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25021A015</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-02-28 08:15:00</pubDate>
 		</item>
 	</channel>
 </rss>
