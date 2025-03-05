@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Mar 2025 23:17:12 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Mar 2025 23:17:12 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Mar 2025 14:19:58 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Mar 2025 14:19:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC, Response to NRC Request for Additional Information No. 033 (RAI-10298 R1) on the NuScale Standard Design Approval Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25056A127</link>
+			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-03-05 08:02:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC, Response to NRC Request for Additional Information No. 018 (RAI-10142 R1) on the NuScale Standard Design Approval Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25056A423</link>
+			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-03-05 08:02:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC, Safety Evaluations for Non-Loss of Coolant Accident Analysis Methodology and Extended Passive Cooling and Reactivity Control Methodology Topical Reports</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25051A189</link>
+			<description>Memoranda</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2025-03-05 08:02:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC Submittal of Supplement to Chapter 15 US460 SDA Revision 1 to Revision 2 Snapshot</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25058A253</link>
@@ -94,13 +115,6 @@
 			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-02-20 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Non-Prop - Meeting Summary - January 22 2025 - Quarterly NRC-NuScale SDAA Status Public Meeting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25028A176</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-02-19 12:44:00</pubDate>
 		</item>
 	</channel>
 </rss>

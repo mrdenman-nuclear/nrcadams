@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Mar 2025 23:17:13 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Mar 2025 23:17:13 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Mar 2025 14:20:00 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Mar 2025 14:20:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Letter</description>
 			<author>US Dept of Interior, Geological Survey (USGS)</author>
 			<pubDate>2025-02-20 13:33:00</pubDate>
-		</item>
-		<item>
-			<title>TSAF50-00274 - U.S Geological Survey TRIGA Mark I Nuclear Research Reactor, Current Facility Operating License R-113, Tech Specs, Revised 02/19/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML14136A082</link>
-			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>US Atomic Energy Commission (AEC)</author>
-			<pubDate>2025-02-19 08:12:00</pubDate>
 		</item>
 	</channel>
 </rss>

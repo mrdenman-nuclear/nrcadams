@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Mar 2025 23:17:13 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Mar 2025 23:17:13 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Mar 2025 14:20:00 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Mar 2025 14:20:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Univ. of Wisconsin - Madison - EA-NRR-2025-0013 Order Modifying Licenses and Establishing Initial Final Safety Analysis Report Update Due Dates Consistent with the Non-Power Production or Utilization Facility License Renewal Rule</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25056A054</link>
+			<description>Letter</description>
+			<author>Univ of Wisconsin - Madison</author>
+			<pubDate>2025-03-05 08:02:00</pubDate>
+		</item>
+	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Mar 2025 23:17:19 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Mar 2025 23:17:19 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Mar 2025 14:20:06 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Mar 2025 14:20:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC, Submittal of Topical Report Supplement Entitled "Supplement 1 to TR-1015-18653-P-A, "Design of the Highly Integrated Protection System Platform,"" TR-147121, Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25056A297</link>
+			<description>Legal-Affidavit, Letter, Topical Report</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-03-05 08:02:00</pubDate>
+		</item>
 		<item>
 			<title>Fansteel Metals Inc., License SMB-0911, Formerly Known as FMRI, Inc., Licensing and Inspection Correspondence, File B, Feb. 18, 1976 - Dec. 23, 1998</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23328A157</link>
@@ -66,13 +73,6 @@
 			<description>NUREG</description>
 			<author>NRC/ADM</author>
 			<pubDate>2025-02-24 09:29:00</pubDate>
-		</item>
-		<item>
-			<title>Export License Application from SHINE Technologies LLC XB1370</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25050A110</link>
-			<description>License-Application for Export License</description>
-			<author>SHINE Technologies, LLC</author>
-			<pubDate>2025-02-19 12:45:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Mar 2025 23:17:19 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Mar 2025 23:17:19 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Mar 2025 14:20:06 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Mar 2025 14:20:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Summary of November 20, 2024, Public Meeting with the Japan Atomic Energy Agency on the Quality Assurance Program Description and the Floating Seismic Isolation System Technology for Small Modular Reactors</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25056A116</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2025-03-05 08:03:00</pubDate>
+		</item>
 		<item>
 			<title>Petitioning Organizations' Amended And New Contentions Based On Draft Environmental Assessment/Finding Of No Significant Impact For Palisades Nuclear Power Plant</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25062A309</link>
@@ -87,13 +94,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NMSS/DDUWP/URMDB</author>
 			<pubDate>2025-02-20 08:13:00</pubDate>
-		</item>
-		<item>
-			<title>U.S. NRC Final Safety Evaluation For X-Energy’s Quality Assurance Program Description Topical Report, Revision 6</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24218A128</link>
-			<description>Letter, Safety Evaluation</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-02-19 08:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
