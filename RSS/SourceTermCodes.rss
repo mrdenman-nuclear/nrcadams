@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 05 Mar 2025 23:17:25 GMT</pubDate>
-		<lastBuildDate>Wed, 05 Mar 2025 23:17:25 GMT</lastBuildDate>
+		<pubDate>Thu, 06 Mar 2025 14:17:31 GMT</pubDate>
+		<lastBuildDate>Thu, 06 Mar 2025 14:17:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -80,34 +80,6 @@
 			<description>Safety Evaluation Report, Draft</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2025-02-28 08:16:00</pubDate>
-		</item>
-		<item>
-			<title>Nuscale Power, LLC - Submittal of Chapter 15 US460 SDA Revision 1 to Revision 2 Snapshot</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25057A294</link>
-			<description>Acceptance Review Letter, Letter, Report, Technical</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-02-27 16:19:00</pubDate>
-		</item>
-		<item>
-			<title>Nuscale Power, LLC - Submittal of Chapter 15 US460 SDA Revision 1 to Revision 2 Snapshot</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25057A294</link>
-			<description>Acceptance Review Letter, Letter, Report, Technical</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-02-27 16:19:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Simulation Capabilities Supporting Fuel & Cladding Performance Modeling for Metallic Fueled Non-LWRs</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25044A015</link>
-			<description>Slides and Viewgraphs</description>
-			<author>NRC/RES/DSA/FSCB</author>
-			<pubDate>2025-02-27 08:13:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Simulation Capabilities supporting Criticality, Reactor Physics, Decay Heat, and Shielding for Metallic Fueled Non-LWRs</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25044A021</link>
-			<description>Slides and Viewgraphs</description>
-			<author>NRC/RES/DSA/FSCB</author>
-			<pubDate>2025-02-27 08:13:00</pubDate>
 		</item>
 	</channel>
 </rss>

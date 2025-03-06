@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 05 Mar 2025 23:17:23 GMT</pubDate>
-		<lastBuildDate>Wed, 05 Mar 2025 23:17:23 GMT</lastBuildDate>
+		<pubDate>Thu, 06 Mar 2025 14:17:29 GMT</pubDate>
+		<lastBuildDate>Thu, 06 Mar 2025 14:17:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NEI DEPLOY Conference - Advanced Reactor Licensing Road to Deployment NRC Slides</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25057A289</link>
+			<description>Slides and Viewgraphs</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2025-03-06 08:09:00</pubDate>
+		</item>
 		<item>
 			<title>Non Proprietary - EPRI 3002025288, Enhanced Risk-Informed Categorization Methodology for Pressure Boundary Components, RAI Responses - Draft for Public Meeting Only</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25063A249</link>
@@ -213,13 +220,6 @@
 			<description>NUREG</description>
 			<author>NRC/OPA</author>
 			<pubDate>2025-02-25 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>March 6, 2025, Public Meeting on Between NRC and EPRI on EPRI TR 3002025288, Enhanced Risk-Informed Categorization Methodology for Pressure Boundary Components, Requests for Additional Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25054A001</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DORL/LLPB</author>
-			<pubDate>2025-02-24 11:09:00</pubDate>
 		</item>
 	</channel>
 </rss>
