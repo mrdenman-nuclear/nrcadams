@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 07 Mar 2025 23:14:48 GMT</pubDate>
-		<lastBuildDate>Fri, 07 Mar 2025 23:14:48 GMT</lastBuildDate>
+		<pubDate>Mon, 10 Mar 2025 14:19:11 GMT</pubDate>
+		<lastBuildDate>Mon, 10 Mar 2025 14:19:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC Submittal of "US460 Standard Design Approval Technical Specifications Development," TR-101310, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25059A411</link>
+			<description>Letter, Technical Specifications</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-03-10 08:07:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC Response to NRC Request for Additional Information No. 033 (RAI-10298 R1) on the NuScale Standard Design Approval Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25058A231</link>
@@ -129,13 +136,6 @@
 			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-02-25 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Submittal of FSAR Changes Supporting Aircraft Impact Assessment Updates</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25051A313</link>
-			<description>Letter</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-02-24 11:09:00</pubDate>
 		</item>
 	</channel>
 </rss>

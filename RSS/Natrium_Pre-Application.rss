@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 07 Mar 2025 23:14:48 GMT</pubDate>
-		<lastBuildDate>Fri, 07 Mar 2025 23:14:48 GMT</lastBuildDate>
+		<pubDate>Mon, 10 Mar 2025 14:19:11 GMT</pubDate>
+		<lastBuildDate>Mon, 10 Mar 2025 14:19:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Safety Evaluation Report, Draft</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2025-02-28 08:16:00</pubDate>
-		</item>
-		<item>
-			<title>Response to Draft Safety Evaluation of the TerraPower Topical Report “Plume Exposure Pathway Emergency Planning Zone Methodology,” Revision 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25037A123</link>
-			<description>Letter</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-02-24 09:29:00</pubDate>
 		</item>
 	</channel>
 </rss>

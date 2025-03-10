@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 07 Mar 2025 23:14:48 GMT</pubDate>
-		<lastBuildDate>Fri, 07 Mar 2025 23:14:48 GMT</lastBuildDate>
+		<pubDate>Mon, 10 Mar 2025 14:19:11 GMT</pubDate>
+		<lastBuildDate>Mon, 10 Mar 2025 14:19:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>X Energy, LLC (X-energy) Xe-100 Licensing Topical Report Principal Design Criteria, Revision 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24319A155</link>
-			<description>Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-02-24 14:36:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: "Xe-100 Licensing Topical Report Atmospheric Dispersion and Dose Calculation Methodology, Revision 2" Non-Proprietary (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24302A302</link>
-			<description>Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-02-24 13:11:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

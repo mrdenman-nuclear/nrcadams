@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 07 Mar 2025 23:14:55 GMT</pubDate>
-		<lastBuildDate>Fri, 07 Mar 2025 23:14:55 GMT</lastBuildDate>
+		<pubDate>Mon, 10 Mar 2025 14:19:15 GMT</pubDate>
+		<lastBuildDate>Mon, 10 Mar 2025 14:19:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,13 +52,6 @@
 			<description>NUREG</description>
 			<author>NRC/OPA</author>
 			<pubDate>2025-02-25 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-0750 Index 9, "Indexes to Nuclear Regulatory Commission Issuances Vols. 83 - 92 (January 1, 2016 - December 31, 2020)"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25052A232</link>
-			<description>NUREG</description>
-			<author>NRC/ADM</author>
-			<pubDate>2025-02-24 09:29:00</pubDate>
 		</item>
 	</channel>
 </rss>
