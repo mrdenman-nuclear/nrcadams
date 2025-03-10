@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 10 Mar 2025 20:19:20 GMT</pubDate>
-		<lastBuildDate>Mon, 10 Mar 2025 20:19:20 GMT</lastBuildDate>
+		<pubDate>Mon, 10 Mar 2025 21:17:33 GMT</pubDate>
+		<lastBuildDate>Mon, 10 Mar 2025 21:17:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>03/19/2025 SMR-300 (Holtec) Exemption Request to Utilize 10 CFR 50.160 Emergency Preparedness Rule for Small Modular Reactors</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25069A704</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-03-10 16:20:00</pubDate>
+		</item>
 		<item>
 			<title>Westinghouse eVinci 897 ALS v2 -A TR withholding determination</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25065A077</link>
@@ -213,13 +220,6 @@
 			<description>Memoranda</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2025-03-05 08:02:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Preapplication Meeting Materials for March 19, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25059A170</link>
-			<description>Letter</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2025-03-04 08:10:00</pubDate>
 		</item>
 	</channel>
 </rss>
