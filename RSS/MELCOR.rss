@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 10 Mar 2025 23:16:51 GMT</pubDate>
-		<lastBuildDate>Mon, 10 Mar 2025 23:16:51 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Mar 2025 14:19:47 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Mar 2025 14:19:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Report, Technical</description>
 			<author>NRC/NMSS, NRC/RES/DRA/PRAB</author>
 			<pubDate>2025-03-05 09:33:00</pubDate>
-		</item>
-		<item>
-			<title>Use of National Centers for Environmental Prediction (NCEP) Data to Support Severe Accident Consequence Analysis at Locations Without Onsite Meteorological Data</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25049A013</link>
-			<description>Environmental Report</description>
-			<author>Sandia National Labs (SNL)</author>
-			<pubDate>2025-03-04 08:08:00</pubDate>
 		</item>
 	</channel>
 </rss>
