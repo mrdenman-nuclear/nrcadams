@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Mar 2025 23:19:37 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Mar 2025 23:19:37 GMT</lastBuildDate>
+		<pubDate>Wed, 12 Mar 2025 14:18:41 GMT</pubDate>
+		<lastBuildDate>Wed, 12 Mar 2025 14:18:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/RES/PMDA</author>
 			<pubDate>2025-03-07 10:51:00</pubDate>
-		</item>
-		<item>
-			<title>NRC-RES Sitewide, All Hazards Level 3 PRA Project: Integrated Site Risk for Two-Unit Site</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25063A273</link>
-			<description>Report, Technical</description>
-			<author>NRC/NMSS, NRC/RES/DRA/PRAB</author>
-			<pubDate>2025-03-05 09:33:00</pubDate>
-		</item>
-		<item>
-			<title>NRC-RES Sitewide, All Hazards Level 3 PRA Project: Integrated Site Risk for Two-Unit Site</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25063A273</link>
-			<description>Report, Technical</description>
-			<author>NRC/NMSS, NRC/RES/DRA/PRAB</author>
-			<pubDate>2025-03-05 09:33:00</pubDate>
 		</item>
 	</channel>
 </rss>

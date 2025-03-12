@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Mar 2025 23:19:35 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Mar 2025 23:19:35 GMT</lastBuildDate>
+		<pubDate>Wed, 12 Mar 2025 14:18:39 GMT</pubDate>
+		<lastBuildDate>Wed, 12 Mar 2025 14:18:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -164,27 +164,6 @@
 			<description>Rulemaking-Comment</description>
 			<author>Hybrid Power Technologies LLC </author>
 			<pubDate>2025-02-27 08:14:00</pubDate>
-		</item>
-		<item>
-			<title>ACRS SC 030425 - Open Session slide deck - NuScale LTRs - NonLOCA, XPC</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25055A081</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-02-26 13:34:00</pubDate>
-		</item>
-		<item>
-			<title>Safety Evaluation for NuScale XPC TR (Public Version)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25051A242</link>
-			<description>Safety Evaluation Report, Draft</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-02-26 12:25:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale TR-0516-49416, Non-Loss-of-Coolant Accident Analysis Methodology, SE with no Open Items - Non-proprietary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25051A200</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-02-26 12:25:00</pubDate>
 		</item>
 	</channel>
 </rss>

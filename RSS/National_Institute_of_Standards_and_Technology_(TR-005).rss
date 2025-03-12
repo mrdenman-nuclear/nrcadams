@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Mar 2025 23:19:31 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Mar 2025 23:19:31 GMT</lastBuildDate>
+		<pubDate>Wed, 12 Mar 2025 14:18:35 GMT</pubDate>
+		<lastBuildDate>Wed, 12 Mar 2025 14:18:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Inspection Report, Letter</description>
 			<author>NRC/NRR/DANU/UNPO</author>
 			<pubDate>2025-02-28 08:16:00</pubDate>
-		</item>
-		<item>
-			<title>2025/02/18 NRR E-mail Capture - ACCEPTANCE NOTIFICATION License Amendment Request Regarding Flow Scram Bypass</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25049A240</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-02-26 08:00:00</pubDate>
 		</item>
 	</channel>
 </rss>

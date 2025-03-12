@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Mar 2025 23:19:35 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Mar 2025 23:19:35 GMT</lastBuildDate>
+		<pubDate>Wed, 12 Mar 2025 14:18:39 GMT</pubDate>
+		<lastBuildDate>Wed, 12 Mar 2025 14:18:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -108,13 +108,6 @@
 			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-02-27 07:24:00</pubDate>
-		</item>
-		<item>
-			<title>Cover letter, Enclosure 1: RCI Responses, Enclosure 2: RAI responses</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25049A231</link>
-			<description>Environmental Report, Letter, Response to Request for Additional Information (RAI)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-02-26 08:01:00</pubDate>
 		</item>
 	</channel>
 </rss>
