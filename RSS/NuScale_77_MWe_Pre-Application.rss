@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 12 Mar 2025 23:18:26 GMT</pubDate>
-		<lastBuildDate>Wed, 12 Mar 2025 23:18:26 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Mar 2025 14:19:09 GMT</pubDate>
+		<lastBuildDate>Thu, 13 Mar 2025 14:19:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Legal-Affidavit, Letter, Topical Report</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-03-05 08:02:00</pubDate>
-		</item>
-		<item>
-			<title>Meeting Summary October 2, 2024, Quarterly NRC NuScale SDAA Status Public Meeting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24337A189</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-02-27 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>2025/02/13 NuScale NPM-20 - Nonproprietary - NuScale FSR TR-145417, “NuScale US460 Fuel Storage Rack Design Topical Report,” Revision 0 - Request for Additional Information No. 001 (RAI-10502-R1)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25044A058</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-02-27 08:13:00</pubDate>
 		</item>
 	</channel>
 </rss>

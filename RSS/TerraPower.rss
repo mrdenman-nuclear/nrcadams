@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 12 Mar 2025 23:18:31 GMT</pubDate>
-		<lastBuildDate>Wed, 12 Mar 2025 23:18:31 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Mar 2025 14:19:15 GMT</pubDate>
+		<lastBuildDate>Thu, 13 Mar 2025 14:19:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Report, Technical</description>
 			<author>Oak Ridge National Lab (ORNL)</author>
 			<pubDate>2025-03-04 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>Public Meeting: Application of Commercial Codes and Standards by Advanced Reactor Vendors and Applicants Transcript, February 11, 2025, Pages 1-150</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25058A125</link>
-			<description>Meeting Transcript</description>
-			<author>NRC/OCM</author>
-			<pubDate>2025-02-27 11:52:00</pubDate>
 		</item>
 	</channel>
 </rss>
