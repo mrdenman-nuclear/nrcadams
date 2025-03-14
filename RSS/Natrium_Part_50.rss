@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Mar 2025 23:19:14 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Mar 2025 23:19:14 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Mar 2025 14:18:53 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Mar 2025 14:18:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,13 +66,6 @@
 			<description>Conference/Symposium/Workshop Paper, Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2025-03-07 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Proprietary Information from Public Disclosure - TerraPower - Responses to NRC Audit Questions on Kemmerer PSAR</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25049A238</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-02-28 08:16:00</pubDate>
 		</item>
 	</channel>
 </rss>

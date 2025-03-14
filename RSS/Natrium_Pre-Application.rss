@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Mar 2025 23:19:14 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Mar 2025 23:19:14 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Mar 2025 14:18:53 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Mar 2025 14:18:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,20 +52,6 @@
 			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-03-13 08:12:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC - Draft Safety Evaluation Of Nat-9391,"Radiological Release Consequences Methodology Topical Report," Revision 0  (EPID No. L-2023-TOP-0055)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25057A290</link>
-			<description>Safety Evaluation Report, Draft</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-02-28 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>Public - TerraPower, LLC. Draft Safety Evaluation Of NAT 9392, "Radiological Source Term Methodology Report," Revision 0 (EPID No. L-2023-TOP-0046)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25024A141</link>
-			<description>Safety Evaluation Report, Draft</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-02-28 08:16:00</pubDate>
 		</item>
 	</channel>
 </rss>

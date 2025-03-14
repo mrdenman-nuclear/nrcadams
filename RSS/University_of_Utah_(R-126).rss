@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Mar 2025 23:19:15 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Mar 2025 23:19:15 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Mar 2025 14:18:55 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Mar 2025 14:18:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>2025/03/07 NRR E-mail Capture - University of Utah Part 55 Operators' Licensing Exemption Schedule Update</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25066A232</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-03-14 08:13:00</pubDate>
+		</item>
+	</channel>
 </rss>

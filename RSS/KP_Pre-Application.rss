@@ -5,32 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Mar 2025 23:19:14 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Mar 2025 23:19:14 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Mar 2025 14:18:53 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Mar 2025 14:18:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Final Meeting Summary Kairos Basic Component White Paper 8/30/2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24250A120</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-02-28 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal Letter to Kairos Basic Component White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24250A129</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-02-28 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>Final Feedback on Kairos Basic Component White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24250A128</link>
-			<description>Report, Technical</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-02-28 08:17:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

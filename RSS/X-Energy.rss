@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Mar 2025 23:19:19 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Mar 2025 23:19:19 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Mar 2025 14:18:58 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Mar 2025 14:18:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>ONR CNSC NRC Human Factors Approaches</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25069A653</link>
+			<description>Meeting Summary</description>
+			<author>NRC/NRR/DRO</author>
+			<pubDate>2025-03-14 08:13:00</pubDate>
+		</item>
 		<item>
 			<title>Summary of January 23, 2025, Information Public Meeting about NRC'S Implementation of Section 505 of the Advance Act of 2024 (EPID G-2024-AGN-0033)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25043A103</link>
@@ -66,13 +73,6 @@
 			<description>Legal-Affidavit</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2025-03-03 08:02:00</pubDate>
-		</item>
-		<item>
-			<title>February 13 Meeting Summary of Adv Rx Stakeholder Final</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25051A187</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UARP</author>
-			<pubDate>2025-02-28 08:17:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Mar 2025 23:19:14 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Mar 2025 23:19:14 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Mar 2025 14:18:53 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Mar 2025 14:18:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,34 +31,6 @@
 			<description>Letter</description>
 			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2025-03-04 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>Memo - SMR Holtec Risk Significance Methodology Topical Report - Audit Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25021A015</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-02-28 08:15:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - Holtec Risk Significance Topical Report Audit Report Summary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25021A016</link>
-			<description>Audit Report</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-02-28 08:15:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - Holtec Risk Significance Topical Report Audit Report - List of Information Needs-Observations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25021A017</link>
-			<description>Graphics incl Charts and Tables</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-02-28 08:15:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC - Submittal of Approved Version of Licensing Topical Report, "Holtec PSA Risk Significance Determination Methodology Lisensing Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25051A209</link>
-			<description>Letter, Topical Report</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2025-02-28 08:15:00</pubDate>
 		</item>
 	</channel>
 </rss>

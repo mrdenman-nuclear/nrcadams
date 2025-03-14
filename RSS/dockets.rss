@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Mar 2025 23:19:14 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Mar 2025 23:19:14 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Mar 2025 14:18:54 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Mar 2025 14:18:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC, Submittal of the NRC’s Request for Docketing of Resolved Audit Response</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25065A160</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-03-14 08:12:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC, Question Number: A-15.9-1 Response to SDAA Audit Question</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25065A161</link>
+			<description>Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-03-14 08:12:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Form 896 X-Energy's Xe-100 Principal Design Criteria - A Topical Report Verification</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25059A112</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-03-14 08:12:00</pubDate>
+		</item>
+		<item>
+			<title>Email Transmitting NRC Form 896 - X-energy's Xe-100 Principal Design Criteria Approved Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25059A114</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-03-14 08:12:00</pubDate>
+		</item>
 		<item>
 			<title>TerraPower, LLC - Submittal of Presentation Materials for March 2025 Natrium Design Advisory Committee on Reactor Safeguards Subcommittee Meeting</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25066A144</link>
@@ -192,34 +220,6 @@
 			<description>Response to Request for Additional Information (RAI), Audit Report</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-03-11 15:30:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC - Response to SDAA Audit Question Number A-15.4.3-3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24346A284</link>
-			<description>Response to Request for Additional Information (RAI), Audit Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-03-11 14:07:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC - Response to SDAA Audit Question Number A-15.4.3-5</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24346A286</link>
-			<description>Response to Request for Additional Information (RAI), Audit Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-03-11 14:07:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC - Response to SDAA Audit Question Number A-15.4.7-1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24346A287</link>
-			<description>Response to Request for Additional Information (RAI), Audit Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-03-11 14:07:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC - Response to SDAA Audit Question Number A-15.1.2-3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24346A272</link>
-			<description>Response to Request for Additional Information (RAI), Audit Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-03-11 14:06:00</pubDate>
 		</item>
 	</channel>
 </rss>

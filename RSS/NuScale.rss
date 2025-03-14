@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Mar 2025 23:19:19 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Mar 2025 23:19:19 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Mar 2025 14:18:58 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Mar 2025 14:18:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -101,41 +101,6 @@
 			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-03-03 10:31:00</pubDate>
-		</item>
-		<item>
-			<title>Nuclear Energy Institute (NEI) Input on Recent Executive Orders</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25058A144</link>
-			<description>Letter</description>
-			<author>Nuclear Energy Institute (NEI)</author>
-			<pubDate>2025-02-28 13:25:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-1482 DFC, Revision 4, "Guidelines for Inservice Testing at Nuclear Power Plants: Inservice Testing of Pumps and Valves and Inservice Examination and Testing of Dynamic Restraints (Snubbers) at Nuclear Power Plants"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24277A142</link>
-			<description>NUREG, Draft</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-02-28 10:35:00</pubDate>
-		</item>
-		<item>
-			<title>February 13 Meeting Summary of Adv Rx Stakeholder Final</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25051A187</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UARP</author>
-			<pubDate>2025-02-28 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - Holtec Risk Significance Topical Report Audit Report - List of Information Needs-Observations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25021A017</link>
-			<description>Graphics incl Charts and Tables</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-02-28 08:15:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC - Submittal of Approved Version of Licensing Topical Report, "Holtec PSA Risk Significance Determination Methodology Lisensing Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25051A209</link>
-			<description>Letter, Topical Report</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2025-02-28 08:15:00</pubDate>
 		</item>
 	</channel>
 </rss>
