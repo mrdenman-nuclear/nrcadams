@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 17 Mar 2025 23:20:35 GMT</pubDate>
-		<lastBuildDate>Mon, 17 Mar 2025 23:20:35 GMT</lastBuildDate>
+		<pubDate>Tue, 18 Mar 2025 14:19:20 GMT</pubDate>
+		<lastBuildDate>Tue, 18 Mar 2025 14:19:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>US Dept. of Defense - Submittal of 2024 Annual Operating Report for the Armed Forces Radiobiology Research Institute (AFRRI)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25069A423</link>
+			<description>Letter</description>
+			<author>US Dept of Defense, Armed Forces Radiobiology Research Institute (AFRRI), US Dept of Defense, Uniformed Services Univ of the Health Sciences</author>
+			<pubDate>2025-03-18 08:06:00</pubDate>
+		</item>
+		<item>
+			<title>US Dept. of Defense - Annual Operating Report - 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25069A424</link>
+			<description>Annual Operating Report</description>
+			<author>US Dept of Defense, Armed Forces Radiobiology Research Institute (AFRRI)</author>
+			<pubDate>2025-03-18 08:06:00</pubDate>
+		</item>
+	</channel>
 </rss>

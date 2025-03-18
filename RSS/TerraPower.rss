@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 17 Mar 2025 23:20:40 GMT</pubDate>
-		<lastBuildDate>Mon, 17 Mar 2025 23:20:40 GMT</lastBuildDate>
+		<pubDate>Tue, 18 Mar 2025 14:19:24 GMT</pubDate>
+		<lastBuildDate>Tue, 18 Mar 2025 14:19:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC Presentation at the 8th Review Meeting of the IAEA Joint Convention on the Safety of Spent Fuel Management and on the Safety of Radioactive Waste Management</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25070A008</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2025-03-18 08:08:00</pubDate>
+		</item>
+		<item>
+			<title>U.S. Nuclear Regulatory Commission Approach to Modeling And Simulation Of Advanced Non-LWRs</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25063A278</link>
+			<description>Slides and Viewgraphs</description>
+			<author>NRC/RES/DSA</author>
+			<pubDate>2025-03-18 08:06:00</pubDate>
+		</item>
 		<item>
 			<title>Public Meeting Summary: Application of Commercial Codes and Standards by Advanced Reactor Vendors and Applicants</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25063A187</link>
@@ -31,20 +45,6 @@
 			<description>Slides and Viewgraphs</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2025-03-06 08:09:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of 2024 Workshop on HF Considerations for Remote Operation of Nuclear (RIL 2024-06)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25050A376</link>
-			<description>Research Information Letter (RIL)</description>
-			<author>Idaho National Lab, NRC/RES/DRA/HFRB</author>
-			<pubDate>2025-03-04 09:30:00</pubDate>
-		</item>
-		<item>
-			<title>Benchmark Gap Assessment for the Manufacturing of High-Assay Low-Enriched Uranium Fuels</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25062A173</link>
-			<description>Report, Technical</description>
-			<author>Oak Ridge National Lab (ORNL)</author>
-			<pubDate>2025-03-04 08:10:00</pubDate>
 		</item>
 	</channel>
 </rss>
