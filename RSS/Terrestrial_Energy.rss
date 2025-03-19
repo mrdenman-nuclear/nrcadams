@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 18 Mar 2025 23:19:02 GMT</pubDate>
-		<lastBuildDate>Tue, 18 Mar 2025 23:19:02 GMT</lastBuildDate>
+		<pubDate>Wed, 19 Mar 2025 14:20:24 GMT</pubDate>
+		<lastBuildDate>Wed, 19 Mar 2025 14:20:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -150,13 +150,6 @@
 			<description>Environmental Monitoring Report, Letter</description>
 			<author>Florida Power and Light Co</author>
 			<pubDate>2025-03-07 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of November 20, 2024, Public Meeting with the Japan Atomic Energy Agency on the Quality Assurance Program Description and the Floating Seismic Isolation System Technology for Small Modular Reactors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25056A116</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-03-05 08:03:00</pubDate>
 		</item>
 	</channel>
 </rss>

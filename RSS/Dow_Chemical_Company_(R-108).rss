@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 18 Mar 2025 23:18:57 GMT</pubDate>
-		<lastBuildDate>Tue, 18 Mar 2025 23:18:57 GMT</lastBuildDate>
+		<pubDate>Wed, 19 Mar 2025 14:20:20 GMT</pubDate>
+		<lastBuildDate>Wed, 19 Mar 2025 14:20:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Annual Operating Report, Letter</description>
 			<author>Dow Chemical Co</author>
 			<pubDate>2025-03-10 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>Dow Chemical Co., Response to Order EA-NRR-2025-0013</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25056A058</link>
-			<description>Letter</description>
-			<author>Dow Chemical Co</author>
-			<pubDate>2025-03-05 08:02:00</pubDate>
 		</item>
 	</channel>
 </rss>

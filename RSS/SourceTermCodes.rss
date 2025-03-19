@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 18 Mar 2025 23:19:04 GMT</pubDate>
-		<lastBuildDate>Tue, 18 Mar 2025 23:19:04 GMT</lastBuildDate>
+		<pubDate>Wed, 19 Mar 2025 14:20:27 GMT</pubDate>
+		<lastBuildDate>Wed, 19 Mar 2025 14:20:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -80,20 +80,6 @@
 			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-03-13 08:12:00</pubDate>
-		</item>
-		<item>
-			<title>Triennial Review And Evaluation Of The NRC Safety Research Program</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25034A080</link>
-			<description>Committee Letter Report, Letter</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-03-12 10:46:00</pubDate>
-		</item>
-		<item>
-			<title>Triennial Review And Evaluation Of The NRC Safety Research Program</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25034A080</link>
-			<description>Committee Letter Report, Letter</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-03-12 10:46:00</pubDate>
 		</item>
 	</channel>
 </rss>

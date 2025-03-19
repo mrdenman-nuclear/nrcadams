@@ -5,11 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 18 Mar 2025 23:18:57 GMT</pubDate>
-		<lastBuildDate>Tue, 18 Mar 2025 23:18:57 GMT</lastBuildDate>
+		<pubDate>Wed, 19 Mar 2025 14:20:19 GMT</pubDate>
+		<lastBuildDate>Wed, 19 Mar 2025 14:20:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Oklo Inc., Submittal of "Product-Based Operator Licensing Framework" Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25070A326</link>
+			<description>Letter</description>
+			<author>Oklo Inc</author>
+			<pubDate>2025-03-19 07:56:00</pubDate>
+		</item>
+		<item>
+			<title>Oklo Inc., Affidavit Pursuant to 10 CFR 2.390</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25070A327</link>
+			<description>Legal-Affidavit</description>
+			<author>Oklo Inc</author>
+			<pubDate>2025-03-19 07:56:00</pubDate>
+		</item>
+		<item>
+			<title>Oklo, Inc., Product-Based Operator Licensing Framework</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25071A135</link>
+			<description>Topical Report</description>
+			<author>Oklo Inc</author>
+			<pubDate>2025-03-19 07:56:00</pubDate>
+		</item>
+	</channel>
 </rss>

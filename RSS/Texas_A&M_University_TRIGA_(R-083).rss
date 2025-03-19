@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 18 Mar 2025 23:18:57 GMT</pubDate>
-		<lastBuildDate>Tue, 18 Mar 2025 23:18:57 GMT</lastBuildDate>
+		<pubDate>Wed, 19 Mar 2025 14:20:20 GMT</pubDate>
+		<lastBuildDate>Wed, 19 Mar 2025 14:20:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,34 +24,6 @@
 			<description>Letter</description>
 			<author>Texas AandM Univ</author>
 			<pubDate>2025-03-06 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Results Letter No. 50-128/OL-21-01, Texas A&M University</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML21176A113</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2025-03-05 13:29:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Report Letter No. 50-128/OL-21-01, Texas A&M University</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML21176A114</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2025-03-05 12:48:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Report No. 50-128/OL-23-01, Texas A&M University</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22342B273</link>
-			<description>License-Operator Examination Report (Non-Power Reactors Only)</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2025-03-05 12:32:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Report Letter No. 50-128/OL 22-02, Texas A&M University</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22193A199</link>
-			<description>Letter, License-Operator Examination Report (Non-Power Reactors Only)</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2025-03-05 09:33:00</pubDate>
 		</item>
 	</channel>
 </rss>
