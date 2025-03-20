@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 20 Mar 2025 18:25:13 GMT</pubDate>
-		<lastBuildDate>Thu, 20 Mar 2025 18:25:13 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Mar 2025 19:14:39 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Mar 2025 19:14:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Letter to T. H. Newton, NIST Center for Neutron Research, from J. E. Greives, NRC/NRR/DANU, "NRC Office of Investigations Report 1-2024-004 - Release of OI Synopsis."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25079A079</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2025-03-20 14:34:00</pubDate>
+		</item>
+	</channel>
 </rss>
