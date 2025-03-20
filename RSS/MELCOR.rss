@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 19 Mar 2025 23:18:56 GMT</pubDate>
-		<lastBuildDate>Wed, 19 Mar 2025 23:18:56 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Mar 2025 14:18:51 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Mar 2025 14:18:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>Audit Report, Letter, Quality Assurance Program</description>
 			<author>Center for Nuclear Waste Regulatory Analyses (CNWRA)</author>
 			<pubDate>2025-03-14 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC - Submittal of Presentation Materials for March 2025 Natrium Design Advisory Committee on Reactor Safeguards Subcommittee Meeting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25066A144</link>
-			<description>Letter, Slides and Viewgraphs</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-03-13 13:34:00</pubDate>
-		</item>
-		<item>
-			<title>ACRS Presentation for the TerraPower TR on Rad Release Consequences (PUBLIC)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25069A700</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-03-13 11:36:00</pubDate>
 		</item>
 	</channel>
 </rss>

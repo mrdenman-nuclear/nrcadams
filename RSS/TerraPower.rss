@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 19 Mar 2025 23:18:54 GMT</pubDate>
-		<lastBuildDate>Wed, 19 Mar 2025 23:18:54 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Mar 2025 14:18:51 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Mar 2025 14:18:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Summary Report of the 722nd Meeting of the Advisory Committee on Reactor Safeguards for February 5 through 7 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25063A261</link>
+			<description>ACRS Summary Report, Letter</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2025-03-20 09:28:00</pubDate>
+		</item>
+		<item>
+			<title>Declaring a National Energy Emergency Enclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25043A080</link>
+			<description>Report, Technical</description>
+			<author>NRC/Chairman</author>
+			<pubDate>2025-03-20 08:03:00</pubDate>
+		</item>
 		<item>
 			<title>EE ACRS Presentation</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25076A690</link>
@@ -45,13 +59,6 @@
 			<description>Commission SECY Paper, Weekly Information Report</description>
 			<author>NRC/EDO/AO</author>
 			<pubDate>2025-03-07 13:32:00</pubDate>
-		</item>
-		<item>
-			<title>NEI DEPLOY Conference - Advanced Reactor Licensing Road to Deployment NRC Slides</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25057A289</link>
-			<description>Slides and Viewgraphs</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-03-06 08:09:00</pubDate>
 		</item>
 	</channel>
 </rss>
