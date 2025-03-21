@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 20 Mar 2025 23:17:19 GMT</pubDate>
-		<lastBuildDate>Thu, 20 Mar 2025 23:17:19 GMT</lastBuildDate>
+		<pubDate>Fri, 21 Mar 2025 14:18:55 GMT</pubDate>
+		<lastBuildDate>Fri, 21 Mar 2025 14:18:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Letter from G. McCreary, CA DTSC, to J. Lear, Navy, regarding Final Remedial Investigation and Radiological Scoping Survey Report Paint Waste Area Former Mare Island Naval Shipyard Vallejo, California</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25078A190</link>
+			<description>Report, Technical</description>
+			<author>State of CA, Dept of Toxic Substances Control</author>
+			<pubDate>2025-03-21 08:01:00</pubDate>
+		</item>
+		<item>
+			<title>724th Full Committee Meeting of the Advisory Committee on Reactor Safeguards April 2-4, 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25069A542</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/ACRS, NRC/SECY</author>
+			<pubDate>2025-03-21 08:00:00</pubDate>
+		</item>
 		<item>
 			<title>Declaring a National Energy Emergency Enclosure</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25043A080</link>
@@ -150,13 +164,6 @@
 			<description>General FR Notice Comment Letter</description>
 			<author>Public Commenter</author>
 			<pubDate>2025-03-11 08:25:00</pubDate>
-		</item>
-		<item>
-			<title>Turkey Points, Units 3 and 4, Annual Radioactive Effluent Release Report (ARERR) for 2024 and the Offsite Dose Calculation Manual (ODCM) Revision 29</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25058A026</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Florida Power and Light Co</author>
-			<pubDate>2025-03-07 08:28:00</pubDate>
 		</item>
 	</channel>
 </rss>

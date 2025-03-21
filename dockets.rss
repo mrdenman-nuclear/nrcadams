@@ -5,12 +5,54 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 20 Mar 2025 23:17:12 GMT</pubDate>
-		<lastBuildDate>Thu, 20 Mar 2025 23:17:12 GMT</lastBuildDate>
+		<pubDate>Fri, 21 Mar 2025 14:18:43 GMT</pubDate>
+		<lastBuildDate>Fri, 21 Mar 2025 14:18:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC - Response to NRC Request for Additional Information No. 001 (RAI-10502 RI) on the NuAcale Topical Report TR-145417</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25073A241</link>
+			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-03-21 08:01:00</pubDate>
+		</item>
+		<item>
+			<title>Letter to M. Rome from A. Shanahan, TerraPower Natrium Reactor Project - Sodium Test and Fill Facility, Supplemental Review of the Permanent Electrical Distribution Line</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25073A264</link>
+			<description>Letter</description>
+			<author>US Dept of Energy, Office of Clean Energy Demonstrations</author>
+			<pubDate>2025-03-21 08:01:00</pubDate>
+		</item>
+		<item>
+			<title>OKLO Readiness Assessment Plan Phase 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25057A385</link>
+			<description>Audit Plan</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2025-03-21 08:01:00</pubDate>
+		</item>
+		<item>
+			<title>TerraPower - Audit Summary Letter - I&C Architecture and Design Basis</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25015A127</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-03-21 08:00:00</pubDate>
+		</item>
+		<item>
+			<title>Audit Report - TerraPower -NAT-4950 I&C Architecture and Design Basis</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25015A128</link>
+			<description>Audit Report</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-03-21 08:00:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Letter to TRISO-X, LLC Regarding Updated License Application Review Schedule and Estimated Staff Hours</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23305A193</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2025-03-21 07:53:00</pubDate>
+		</item>
 		<item>
 			<title>Cover Letter and Enclosure 1 (Affidavit) - Supplemental Information for TRISO-X Fuel Fabrication Facility License Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25031A450</link>
@@ -175,48 +217,6 @@
 		<item>
 			<title>Response to NuScale Topical Report Audit Question Number: A-FSR.LTR-38</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25069A630</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-03-18 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>Response to NuScale Topical Report Audit Question Number: A-FSR.LTR-39</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25069A632</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-03-18 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>Response to NuScale Topical Report Audit Question Number: A-FSR.LTR-43</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25069A634</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-03-18 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>Response to NuScale Topical Report Audit Question Number: A-FSR.LTR-44</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25069A636</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-03-18 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>Response to NuScale Topical Report Audit Question Number: A-FSR.LTR-46</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25069A641</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-03-18 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>Response to NuScale Topical Report Audit Question Number: A-FSR.LTR-47</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25069A643</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-03-18 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>Response to NuScale Topical Report Audit Question Number: A-FSR.LTR-49</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25069A645</link>
 			<description>Response to Request for Additional Information (RAI)</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-03-18 08:07:00</pubDate>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 20 Mar 2025 23:17:19 GMT</pubDate>
-		<lastBuildDate>Thu, 20 Mar 2025 23:17:19 GMT</lastBuildDate>
+		<pubDate>Fri, 21 Mar 2025 14:18:55 GMT</pubDate>
+		<lastBuildDate>Fri, 21 Mar 2025 14:18:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,20 +73,6 @@
 			<description>Meeting Summary</description>
 			<author>NRC/RES/DE</author>
 			<pubDate>2025-03-11 08:27:00</pubDate>
-		</item>
-		<item>
-			<title>Part 53 Preliminary Proposed Draft Rulemaking for Fitness for Duty and Access Authorization and Programs</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22188A158</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NSIR/DPCP/RSB</author>
-			<pubDate>2025-03-07 13:32:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (119) from Jon Facemire on behalf of Nuclear Energy Institute on Part 53 Rulemaking - Risk-Informed Technology-Inclusive Regulatory Framework for Advanced Reactors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25066A034</link>
-			<description>Rulemaking-Comment</description>
-			<author>Nuclear Energy Institute (NEI)</author>
-			<pubDate>2025-03-07 10:35:00</pubDate>
 		</item>
 	</channel>
 </rss>

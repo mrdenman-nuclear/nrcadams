@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 20 Mar 2025 23:17:19 GMT</pubDate>
-		<lastBuildDate>Thu, 20 Mar 2025 23:17:19 GMT</lastBuildDate>
+		<pubDate>Fri, 21 Mar 2025 14:18:55 GMT</pubDate>
+		<lastBuildDate>Fri, 21 Mar 2025 14:18:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>1/15/2025 Transcript of Public Meeting to Discuss Options for Regulatory Flexibility in 10 CFR Part 52 During Construction and Operational Phases, Pages 1-58</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25078A003</link>
+			<description>Meeting Transcript</description>
+			<author>NRC/OCM</author>
+			<pubDate>2025-03-21 08:01:00</pubDate>
+		</item>
+		<item>
+			<title>724th Full Committee Meeting of the Advisory Committee on Reactor Safeguards April 2-4, 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25069A542</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/ACRS, NRC/SECY</author>
+			<pubDate>2025-03-21 08:00:00</pubDate>
+		</item>
 		<item>
 			<title>Summary Report of the 722nd Meeting of the Advisory Committee on Reactor Safeguards for February 5 through 7 2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25063A261</link>
@@ -108,20 +122,6 @@
 			<description>Rulemaking-Comment</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-03-10 10:36:00</pubDate>
-		</item>
-		<item>
-			<title>UNLP: FY2024 Research and Development Grant Executive Summaries</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25035A051</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/RES/PMDA</author>
-			<pubDate>2025-03-07 10:51:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (124) from Mark Shaver on behalf of NuScale Power, LLC on Part 53 Rulemaking - Risk-Informed Technology-Inclusive Regulatory Framework for Advanced Reactors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25066A039</link>
-			<description>Rulemaking-Comment</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-03-07 10:35:00</pubDate>
 		</item>
 	</channel>
 </rss>

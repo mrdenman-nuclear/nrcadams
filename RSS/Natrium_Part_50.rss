@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 20 Mar 2025 23:17:15 GMT</pubDate>
-		<lastBuildDate>Thu, 20 Mar 2025 23:17:15 GMT</lastBuildDate>
+		<pubDate>Fri, 21 Mar 2025 14:18:47 GMT</pubDate>
+		<lastBuildDate>Fri, 21 Mar 2025 14:18:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Letter to M. Rome from A. Shanahan, TerraPower Natrium Reactor Project - Sodium Test and Fill Facility, Supplemental Review of the Permanent Electrical Distribution Line</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25073A264</link>
+			<description>Letter</description>
+			<author>US Dept of Energy, Office of Clean Energy Demonstrations</author>
+			<pubDate>2025-03-21 08:01:00</pubDate>
+		</item>
 		<item>
 			<title>Letter from Comanche Nation to S. Lopas regarding TerraPower Kemmerer Power Station Adverse Effects Determination</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25072A054</link>
@@ -59,20 +66,6 @@
 			<description>Letter</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2025-03-10 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC, Transmittal of Responses to NRC's Request for Supplemental Information AECO-2 and STO-2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25058A220</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-03-07 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal of TerraPower Tribal Information Workshop Presentation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25058A245</link>
-			<description>Conference/Symposium/Workshop Paper, Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-03-07 08:29:00</pubDate>
 		</item>
 	</channel>
 </rss>

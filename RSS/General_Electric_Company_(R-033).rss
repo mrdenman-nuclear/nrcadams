@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 20 Mar 2025 23:17:15 GMT</pubDate>
-		<lastBuildDate>Thu, 20 Mar 2025 23:17:15 GMT</lastBuildDate>
+		<pubDate>Fri, 21 Mar 2025 14:18:49 GMT</pubDate>
+		<lastBuildDate>Fri, 21 Mar 2025 14:18:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Letter</description>
 			<author>GE-Hitachi Nuclear Energy Americas, LLC, NorthStar Vallecitos, LLC</author>
 			<pubDate>2025-03-13 13:34:00</pubDate>
-		</item>
-		<item>
-			<title>GEH Notification of GE Vernova Company Stock Beneficial Ownership Filing</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25055A162</link>
-			<description>Letter</description>
-			<author>GE Hitachi Nuclear Energy</author>
-			<pubDate>2025-03-07 15:27:00</pubDate>
 		</item>
 	</channel>
 </rss>
