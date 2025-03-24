@@ -5,22 +5,22 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 24 Mar 2025 16:24:31 GMT</pubDate>
-		<lastBuildDate>Mon, 24 Mar 2025 16:24:31 GMT</lastBuildDate>
+		<pubDate>Mon, 24 Mar 2025 17:18:07 GMT</pubDate>
+		<lastBuildDate>Mon, 24 Mar 2025 17:18:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>IMC 1202 Resident Inspector Site Turnover</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24190A050</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRIB</author>
-			<pubDate>2025-03-18 13:51:00</pubDate>
-		</item>
-		<item>
 			<title>IMC 1201 Conduct of Employees</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24190A048</link>
+			<description>Inspection Manual</description>
+			<author>NRC/NRR/DRO/IRIB</author>
+			<pubDate>2025-03-24 13:15:00</pubDate>
+		</item>
+		<item>
+			<title>IMC 1202 Resident Inspector Site Turnover</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24190A050</link>
 			<description>Inspection Manual</description>
 			<author>NRC/NRR/DRO/IRIB</author>
 			<pubDate>2025-03-18 13:51:00</pubDate>
