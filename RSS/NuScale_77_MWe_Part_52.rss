@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 21 Mar 2025 23:16:27 GMT</pubDate>
-		<lastBuildDate>Fri, 21 Mar 2025 23:16:27 GMT</lastBuildDate>
+		<pubDate>Mon, 24 Mar 2025 14:20:17 GMT</pubDate>
+		<lastBuildDate>Mon, 24 Mar 2025 14:20:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Nuscale Power, LLC, Standard Design Approval Application Aircraft Impact Assessment Inspection, Nuclear Regulatory Commission Inspection Report No. 05200050/2025-201</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25059A249</link>
+			<description>Inspection Report, Letter</description>
+			<author>NRC/NRR/DRO/IQVB</author>
+			<pubDate>2025-03-24 08:17:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC, Submittal of "NuFuel-HTP2 Fuel and Control Rod Assembly Designs," TR-117605, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25073A126</link>
+			<description>Letter, Topical Report</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-03-24 08:16:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC - Response to NRC Request for Additional Information No. 001 (RAI-10502 RI) on the NuAcale Topical Report TR-145417</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25073A241</link>
@@ -206,20 +220,6 @@
 			<description>Legal-Affidavit, Letter</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-03-14 08:12:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Question Number: A-15.9-1 Response to SDAA Audit Question</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25065A161</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-03-14 08:12:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC - Response to SDAA Audit Question Number A-1.6-1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24346A132</link>
-			<description>Response to Request for Additional Information (RAI), Audit Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-03-12 09:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

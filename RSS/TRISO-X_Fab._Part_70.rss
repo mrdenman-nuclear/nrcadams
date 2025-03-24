@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 21 Mar 2025 23:16:27 GMT</pubDate>
-		<lastBuildDate>Fri, 21 Mar 2025 23:16:27 GMT</lastBuildDate>
+		<pubDate>Mon, 24 Mar 2025 14:20:17 GMT</pubDate>
+		<lastBuildDate>Mon, 24 Mar 2025 14:20:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
 			<pubDate>2025-03-17 08:21:00</pubDate>
-		</item>
-		<item>
-			<title>03/24/2025 TRISO-X Overview of the Criticality Hazards by Process Area for the Proposed Fuel Fabrication Facility</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25066A070</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-03-10 07:44:00</pubDate>
 		</item>
 	</channel>
 </rss>

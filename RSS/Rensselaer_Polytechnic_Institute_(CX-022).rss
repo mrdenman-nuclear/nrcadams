@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 21 Mar 2025 23:16:28 GMT</pubDate>
-		<lastBuildDate>Fri, 21 Mar 2025 23:16:28 GMT</lastBuildDate>
+		<pubDate>Mon, 24 Mar 2025 14:20:18 GMT</pubDate>
+		<lastBuildDate>Mon, 24 Mar 2025 14:20:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>Inspection Report, Letter</description>
 			<author>NRC/NRR/DANU/UNPO</author>
 			<pubDate>2025-03-14 12:30:00</pubDate>
-		</item>
-		<item>
-			<title>Operations Report for the Rensselaer Polytechnic Institute Reactor Critical Facility, NRC License CX-22, Docket Number 50-225</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25059A224</link>
-			<description>Letter</description>
-			<author>Rensselaer Polytechnic Institute</author>
-			<pubDate>2025-03-10 08:07:00</pubDate>
 		</item>
 	</channel>
 </rss>

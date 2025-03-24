@@ -5,60 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 21 Mar 2025 23:16:27 GMT</pubDate>
-		<lastBuildDate>Fri, 21 Mar 2025 23:16:27 GMT</lastBuildDate>
+		<pubDate>Mon, 24 Mar 2025 14:20:17 GMT</pubDate>
+		<lastBuildDate>Mon, 24 Mar 2025 14:20:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Westinghouse eVinci 897 ALS v2 -A TR withholding determination</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25065A077</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-03-10 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse eVinci 896 ALS v2 TR -A verification</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25065A078</link>
-			<description>Topical Report</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-03-10 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse eVinci ALS v2 TR Verification Transmittal email</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25065A079</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-03-10 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Westinghouse Advanced Logic System (ALS) v2 Topical Reports (WCAP-18762-P-A/NP-A and WCAP-18780-P-A/NP-A)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25059A079</link>
-			<description>Letter</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2025-03-10 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse - Affidavit AW-25-012</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25059A080</link>
-			<description>Legal-Affidavit</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2025-03-10 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse - WCAP-18762-NP-A, Revision 0, "Advanced Logic System v2 Platform Topical Report"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25059A082</link>
-			<description>Topical Report</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2025-03-10 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse - WCAP-18780-NP-A, Revision 0, "Advanced Logic System v2 Development Process Topical Report"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25059A084</link>
-			<description>Topical Report</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2025-03-10 08:07:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
