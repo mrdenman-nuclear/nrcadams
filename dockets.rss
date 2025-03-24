@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 24 Mar 2025 15:20:05 GMT</pubDate>
-		<lastBuildDate>Mon, 24 Mar 2025 15:20:05 GMT</lastBuildDate>
+		<pubDate>Mon, 24 Mar 2025 16:24:19 GMT</pubDate>
+		<lastBuildDate>Mon, 24 Mar 2025 16:24:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Summary - TerraPower Kemmerer Power Station Unit 1 Tribal Information Workshop 02/25/2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25079A324</link>
+			<description>Meeting Summary</description>
+			<author>NRC/NMSS/DREFS/ETRB1</author>
+			<pubDate>2025-03-24 11:34:00</pubDate>
+		</item>
 		<item>
 			<title>Topical Report -A Verification for NuScale Power LLC QAPD MN-122626, Revision 2 (NRC Form 896)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25080A176</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25070A195</link>
 			<description>Letter, Topical Report</description>
 			<author>NuScale Power, LLC</author>
-			<pubDate>2025-03-19 07:56:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo Inc., Submittal of "Product-Based Operator Licensing Framework" Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25070A326</link>
-			<description>Letter</description>
-			<author>Oklo Inc</author>
 			<pubDate>2025-03-19 07:56:00</pubDate>
 		</item>
 	</channel>
