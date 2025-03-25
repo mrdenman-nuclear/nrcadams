@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 24 Mar 2025 23:17:38 GMT</pubDate>
-		<lastBuildDate>Mon, 24 Mar 2025 23:17:38 GMT</lastBuildDate>
+		<pubDate>Tue, 25 Mar 2025 14:19:40 GMT</pubDate>
+		<lastBuildDate>Tue, 25 Mar 2025 14:19:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -94,27 +94,6 @@
 			<description>Meeting Agenda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-03-13 13:12:00</pubDate>
-		</item>
-		<item>
-			<title>724th ACRS Full Committee Meeting Agenda for April 2 through 4, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25065A195</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-03-11 15:31:00</pubDate>
-		</item>
-		<item>
-			<title>Public Meeting Summary: Application of Commercial Codes and Standards by Advanced Reactor Vendors and Applicants</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25063A187</link>
-			<description>Meeting Summary</description>
-			<author>NRC/RES/DE</author>
-			<pubDate>2025-03-11 08:27:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (2) of Mark Shaver on Draft Interim Staff Guidance: Content of Risk Assessment and Severe Accident information in Light Water Power Reactor Construction Permit Applications</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25063A222</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-03-11 08:26:00</pubDate>
 		</item>
 	</channel>
 </rss>

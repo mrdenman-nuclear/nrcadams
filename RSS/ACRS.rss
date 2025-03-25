@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 24 Mar 2025 23:17:34 GMT</pubDate>
-		<lastBuildDate>Mon, 24 Mar 2025 23:17:34 GMT</lastBuildDate>
+		<pubDate>Tue, 25 Mar 2025 14:19:38 GMT</pubDate>
+		<lastBuildDate>Tue, 25 Mar 2025 14:19:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -108,13 +108,6 @@
 			<description>Committee Letter Report, Letter</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-03-12 10:46:00</pubDate>
-		</item>
-		<item>
-			<title>724th ACRS Full Committee Meeting Agenda for April 2 through 4, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25065A195</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-03-11 15:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

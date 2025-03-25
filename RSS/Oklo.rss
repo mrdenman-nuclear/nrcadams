@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 24 Mar 2025 23:17:38 GMT</pubDate>
-		<lastBuildDate>Mon, 24 Mar 2025 23:17:38 GMT</lastBuildDate>
+		<pubDate>Tue, 25 Mar 2025 14:19:40 GMT</pubDate>
+		<lastBuildDate>Tue, 25 Mar 2025 14:19:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Public Meeting Summary to Discuss DG-1436, "Acceptability of ASME Code Section III, Division 5 for High-Temperature Reactors," proposed Revision 3 of Regulatory Guide 1.87</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25083A294</link>
+			<description>Meeting Summary</description>
+			<author>NRC/RES</author>
+			<pubDate>2025-03-25 09:26:00</pubDate>
+		</item>
 		<item>
 			<title>Declaring a National Energy Emergency Enclosure</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25043A080</link>
@@ -38,13 +45,6 @@
 			<description>Meeting Transcript</description>
 			<author>NRC/NMSS/DREFS/RRPB</author>
 			<pubDate>2025-03-14 10:27:00</pubDate>
-		</item>
-		<item>
-			<title>Public Meeting Summary: Application of Commercial Codes and Standards by Advanced Reactor Vendors and Applicants</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25063A187</link>
-			<description>Meeting Summary</description>
-			<author>NRC/RES/DE</author>
-			<pubDate>2025-03-11 08:27:00</pubDate>
 		</item>
 	</channel>
 </rss>

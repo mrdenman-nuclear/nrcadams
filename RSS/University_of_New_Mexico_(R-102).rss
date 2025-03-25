@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 24 Mar 2025 23:17:33 GMT</pubDate>
-		<lastBuildDate>Mon, 24 Mar 2025 23:17:33 GMT</lastBuildDate>
+		<pubDate>Tue, 25 Mar 2025 14:19:38 GMT</pubDate>
+		<lastBuildDate>Tue, 25 Mar 2025 14:19:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>2025/03/17 NRR E-mail Capture - Request for Confirmation of Information Related to Amendment Request for License Condition 2.B.2.a for the University of New Mexico Research Reactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25076A605</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2025-03-25 08:28:00</pubDate>
+		</item>
+	</channel>
 </rss>
