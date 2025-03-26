@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 26 Mar 2025 15:20:14 GMT</pubDate>
-		<lastBuildDate>Wed, 26 Mar 2025 15:20:14 GMT</lastBuildDate>
+		<pubDate>Wed, 26 Mar 2025 16:23:13 GMT</pubDate>
+		<lastBuildDate>Wed, 26 Mar 2025 16:23:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>ACRS Presentation Slides - NuScale SDAA FSAR Chapter 1, Chapter 4 and Chapter 15 Subcommittee Meeting</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25077A004</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2025-03-26 11:28:00</pubDate>
+		</item>
+		<item>
+			<title>ACRS Memo ASER NuScale FSAR Chapters 1, 4 and 15</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25076A063</link>
+			<description>Memoranda</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2025-03-26 11:28:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale US460 SDAA Chapter 4 SER</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24338A158</link>
@@ -206,20 +220,6 @@
 			<description>Response to Request for Additional Information (RAI)</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-03-18 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>Nuscale Power, LLC - Submittal of Supplemental Information for Response to NRC Request for Additional Information No. 032 (RAI-10297-R1) on the Nuscale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25069A742</link>
-			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-03-18 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of "US460 NuScale Power Module Seismic Analysis," TR-121515, Revision 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25066A254</link>
-			<description>Legal-Affidavit, Letter, Report, Technical</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-03-17 08:21:00</pubDate>
 		</item>
 	</channel>
 </rss>
