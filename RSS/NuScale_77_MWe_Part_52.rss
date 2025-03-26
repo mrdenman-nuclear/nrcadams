@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 25 Mar 2025 23:54:33 GMT</pubDate>
-		<lastBuildDate>Tue, 25 Mar 2025 23:54:33 GMT</lastBuildDate>
+		<pubDate>Wed, 26 Mar 2025 14:19:26 GMT</pubDate>
+		<lastBuildDate>Wed, 26 Mar 2025 14:19:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale US460 SDAA Chapter 4 SER</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24338A158</link>
+			<description>Safety Evaluation Report, Draft</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2025-03-26 09:36:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale SDAA Chapter 1 SE with no Open Items - Introduction and General Description of the Plant SE</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24327A130</link>
+			<description>Safety Evaluation Report, Draft</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2025-03-26 09:36:00</pubDate>
+		</item>
 		<item>
 			<title>Nuscale Power, LLC, Standard Design Approval Application Aircraft Impact Assessment Inspection, Nuclear Regulatory Commission Inspection Report No. 05200050/2025-201</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25059A249</link>
@@ -206,20 +220,6 @@
 			<description>Legal-Affidavit, Letter, Report, Technical</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-03-17 08:21:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Response to NRC Request for Additional Information No. 001 (RAI-10502 R1) on the NuScale Standard Design Approval Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25051A299</link>
-			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-03-14 16:19:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of the NRC’s Request for Docketing of Resolved Audit Response</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25065A160</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-03-14 08:12:00</pubDate>
 		</item>
 	</channel>
 </rss>

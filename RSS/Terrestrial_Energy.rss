@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 25 Mar 2025 23:54:37 GMT</pubDate>
-		<lastBuildDate>Tue, 25 Mar 2025 23:54:37 GMT</lastBuildDate>
+		<pubDate>Wed, 26 Mar 2025 14:19:31 GMT</pubDate>
+		<lastBuildDate>Wed, 26 Mar 2025 14:19:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -122,27 +122,6 @@
 			<description>General FR Notice Comment Letter</description>
 			<author>Public Commenter</author>
 			<pubDate>2025-03-13 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>North Anna, Unit 2, Current Facility Operating License NPF-7, Revised 03/12/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052990147</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-03-12 13:21:00</pubDate>
-		</item>
-		<item>
-			<title>North Anna, Unit 1, Current Facility Operating License NPF-4, Tech Specs, Revised 03/12/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052990145</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-03-12 13:20:00</pubDate>
-		</item>
-		<item>
-			<title>Response to Second Request for Additional Information - License Amendment Request to Revise the Palisades Nuclear Plant Site Emergency Plan to Support Resumption of Power Operations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25070A029</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>Holtec Palisades, LLC</author>
-			<pubDate>2025-03-12 10:45:00</pubDate>
 		</item>
 	</channel>
 </rss>
