@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 28 Mar 2025 19:15:03 GMT</pubDate>
-		<lastBuildDate>Fri, 28 Mar 2025 19:15:03 GMT</lastBuildDate>
+		<pubDate>Fri, 28 Mar 2025 20:19:15 GMT</pubDate>
+		<lastBuildDate>Fri, 28 Mar 2025 20:19:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Final SE Natrium EPZ TR</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25065A250</link>
+			<description>Safety Evaluation</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-03-28 15:35:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale US460 SDAA Chapter 15 SER</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25029A125</link>
