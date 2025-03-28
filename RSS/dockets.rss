@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 27 Mar 2025 23:17:41 GMT</pubDate>
-		<lastBuildDate>Thu, 27 Mar 2025 23:17:41 GMT</lastBuildDate>
+		<pubDate>Fri, 28 Mar 2025 14:17:57 GMT</pubDate>
+		<lastBuildDate>Fri, 28 Mar 2025 14:17:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>04/18/2025 Meeting with Kairos Power on the Applicability of 10 CFR Part 21 and 10 CFR 50.55(e) to the Hermes Non-Power Test Reactors</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25087A055</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-03-28 09:06:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC, Submittal of Supplemental Audit Response Regarding Loss-of-Coolant Accident Break Spectrum</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25079A195</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-03-28 08:06:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC - Response to SDAA Audit Question Number: A-15.6.5-2 & A-15.6.5-9</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25079A196</link>
+			<description>Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-03-28 08:06:00</pubDate>
+		</item>
 		<item>
 			<title>University of Illinois at Urbana-Champaign, Response to Request for Proprietary Review of Draft Safety Evaluation for Fuel Qualification Methodology Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25086A191</link>
@@ -199,27 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS/DREFS</author>
 			<pubDate>2025-03-26 10:35:00</pubDate>
-		</item>
-		<item>
-			<title>Ltr to Mark Fox, Chairman Re Consult. on Arch. Testing of Site 48LN740 at Proposed Kemmerer Power Station</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25083A197</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS</author>
-			<pubDate>2025-03-26 10:35:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale US460 SDAA Chapter 4 SER</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24338A158</link>
-			<description>Safety Evaluation Report, Draft</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-03-26 09:36:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA Chapter 1 SE with no Open Items - Introduction and General Description of the Plant SE</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24327A130</link>
-			<description>Safety Evaluation Report, Draft</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-03-26 09:36:00</pubDate>
 		</item>
 	</channel>
 </rss>

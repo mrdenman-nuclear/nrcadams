@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 27 Mar 2025 23:17:47 GMT</pubDate>
-		<lastBuildDate>Thu, 27 Mar 2025 23:17:47 GMT</lastBuildDate>
+		<pubDate>Fri, 28 Mar 2025 14:18:00 GMT</pubDate>
+		<lastBuildDate>Fri, 28 Mar 2025 14:18:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SECY-25-0022: Weekly Information Report Week Ending March 21, 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25086A203</link>
+			<description>Commission SECY Paper</description>
+			<author>NRC/EDO/AO</author>
+			<pubDate>2025-03-28 08:07:00</pubDate>
+		</item>
 		<item>
 			<title>Heat Pipe Microreactor SCALE & MELCOR Source Term & Fuel Cycle Demonstration Project</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25084A173</link>
@@ -38,20 +45,6 @@
 			<description>Slides and Viewgraphs</description>
 			<author>NRC/RES/DSA</author>
 			<pubDate>2025-03-18 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>02-19-2025 Public Meeting Summary on the Law Enforcement Response in Power Reactor Physical Protection Programs Proposed Interpretive Rule</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25070A275</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NMSS/DREFS/RRPB</author>
-			<pubDate>2025-03-14 10:27:00</pubDate>
-		</item>
-		<item>
-			<title>02-19-2025 Public Meeting Transcript on the Law Enforcement Response in Power Reactor Physical Protection Programs Proposed Interpretive Rule, Pages 1-38</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25070A276</link>
-			<description>Meeting Transcript</description>
-			<author>NRC/NMSS/DREFS/RRPB</author>
-			<pubDate>2025-03-14 10:27:00</pubDate>
 		</item>
 	</channel>
 </rss>

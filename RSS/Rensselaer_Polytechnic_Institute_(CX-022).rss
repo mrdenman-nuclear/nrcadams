@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 27 Mar 2025 23:17:42 GMT</pubDate>
-		<lastBuildDate>Thu, 27 Mar 2025 23:17:42 GMT</lastBuildDate>
+		<pubDate>Fri, 28 Mar 2025 14:17:58 GMT</pubDate>
+		<lastBuildDate>Fri, 28 Mar 2025 14:17:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Meeting Briefing Package/Handouts, Technical Specifications</description>
 			<author>Rennselaer Polytechnic Institute</author>
 			<pubDate>2025-03-19 07:56:00</pubDate>
-		</item>
-		<item>
-			<title>Rensselaer Polytechnic Institute - NRC Safety And Security Inspection Report No. 05000225/2024201 (Publicly Available)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25072A075</link>
-			<description>Inspection Report, Letter</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2025-03-14 12:30:00</pubDate>
 		</item>
 	</channel>
 </rss>

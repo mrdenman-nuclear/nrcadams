@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 27 Mar 2025 23:17:47 GMT</pubDate>
-		<lastBuildDate>Thu, 27 Mar 2025 23:17:47 GMT</lastBuildDate>
+		<pubDate>Fri, 28 Mar 2025 14:18:00 GMT</pubDate>
+		<lastBuildDate>Fri, 28 Mar 2025 14:18:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -122,27 +122,6 @@
 			<description>Environmental Assessment, Letter</description>
 			<author>Duke Energy Progress, LLC</author>
 			<pubDate>2025-03-17 08:21:00</pubDate>
-		</item>
-		<item>
-			<title>2025/03/03 - Comment (11) E-mail regarding Palisades Restart Draft EA</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25063A063</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>Public Commenter</author>
-			<pubDate>2025-03-14 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>2025/03/04 - Comment (12) E-mail regarding Palisades Restart Draft EA</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25063A065</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>Public Commenter</author>
-			<pubDate>2025-03-14 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>2025/03/04 - Comment (13) E-mail regarding Palisades Restart Draft EA</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25063A066</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>Public Commenter</author>
-			<pubDate>2025-03-14 08:11:00</pubDate>
 		</item>
 	</channel>
 </rss>
