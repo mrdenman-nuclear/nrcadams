@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 28 Mar 2025 23:16:37 GMT</pubDate>
-		<lastBuildDate>Fri, 28 Mar 2025 23:16:37 GMT</lastBuildDate>
+		<pubDate>Mon, 31 Mar 2025 14:19:24 GMT</pubDate>
+		<lastBuildDate>Mon, 31 Mar 2025 14:19:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Kairos Power, LLC - Hermes and Hermes 2 Quality Assurance Program Description Revision</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25080A303</link>
+			<description>Letter</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2025-03-31 08:59:00</pubDate>
+		</item>
+		<item>
+			<title>Kairos Power, LLC - Quality Assurance Program for the Kairos Power Hermes Reactor Facility, Revision 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25080A304</link>
+			<description>Quality Assurance Program</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2025-03-31 08:59:00</pubDate>
+		</item>
+	</channel>
 </rss>

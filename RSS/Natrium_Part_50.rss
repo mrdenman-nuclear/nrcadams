@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 28 Mar 2025 23:16:37 GMT</pubDate>
-		<lastBuildDate>Fri, 28 Mar 2025 23:16:37 GMT</lastBuildDate>
+		<pubDate>Mon, 31 Mar 2025 14:19:24 GMT</pubDate>
+		<lastBuildDate>Mon, 31 Mar 2025 14:19:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -199,13 +199,6 @@
 			<description>Letter</description>
 			<author>US Dept of Energy, Office of Clean Energy Demonstrations</author>
 			<pubDate>2025-03-21 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>Letter from Comanche Nation to S. Lopas regarding TerraPower Kemmerer Power Station Adverse Effects Determination</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25072A054</link>
-			<description>Letter</description>
-			<author>Comanche Nation</author>
-			<pubDate>2025-03-17 08:22:00</pubDate>
 		</item>
 	</channel>
 </rss>

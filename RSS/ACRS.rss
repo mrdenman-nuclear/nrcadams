@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 28 Mar 2025 23:16:38 GMT</pubDate>
-		<lastBuildDate>Fri, 28 Mar 2025 23:16:38 GMT</lastBuildDate>
+		<pubDate>Mon, 31 Mar 2025 14:19:26 GMT</pubDate>
+		<lastBuildDate>Mon, 31 Mar 2025 14:19:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,13 +73,6 @@
 			<description>Memoranda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-03-18 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - Plant Operations and License Amendments & Renewals - Seabrook Visit - SC - April 17, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25076A068</link>
-			<description>Meeting Agenda, Meeting Notice</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-03-17 10:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
