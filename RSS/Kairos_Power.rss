@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 31 Mar 2025 23:16:47 GMT</pubDate>
-		<lastBuildDate>Mon, 31 Mar 2025 23:16:47 GMT</lastBuildDate>
+		<pubDate>Tue, 01 Apr 2025 14:19:08 GMT</pubDate>
+		<lastBuildDate>Tue, 01 Apr 2025 14:19:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Research Information Letter 2025-04, "Proceedings of the 2024 Workshop on Storage and Transportation of TRISO and Metal Spent Nuclear Fuels"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25083A036</link>
+			<description>Research Information Letter (RIL)</description>
+			<author>NRC/RES/DE, Southwest Research Institute</author>
+			<pubDate>2025-04-01 08:11:00</pubDate>
+		</item>
+		<item>
+			<title>Comment (005) from Peter S. Hastings on behalf of Kairos Power, LLC on PR-170 and 171 - Fee Schedules; Fee Recovery for Fiscal Year 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25083A075</link>
+			<description>Rulemaking-Comment</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2025-04-01 08:10:00</pubDate>
+		</item>
 		<item>
 			<title>VR-SECY-24-0046: Implementation of the Fiscal Responsibility Act of 2023 National Environmental Policy Act Amendments (Crowell)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25090A255</link>
@@ -52,13 +66,6 @@
 			<description>Report, Technical</description>
 			<author>NRC/Chairman</author>
 			<pubDate>2025-03-20 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>U.S. Nuclear Regulatory Commission Approach to Modeling And Simulation Of Advanced Non-LWRs</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25063A278</link>
-			<description>Slides and Viewgraphs</description>
-			<author>NRC/RES/DSA</author>
-			<pubDate>2025-03-18 08:06:00</pubDate>
 		</item>
 	</channel>
 </rss>

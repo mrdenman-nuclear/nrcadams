@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 31 Mar 2025 23:16:47 GMT</pubDate>
-		<lastBuildDate>Mon, 31 Mar 2025 23:16:47 GMT</lastBuildDate>
+		<pubDate>Tue, 01 Apr 2025 14:19:08 GMT</pubDate>
+		<lastBuildDate>Tue, 01 Apr 2025 14:19:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Updated Final Safety Analysis Report (UFSAR)</description>
 			<author>Florida Power and Light Co</author>
 			<pubDate>2025-03-27 15:29:00</pubDate>
-		</item>
-		<item>
-			<title>U.S. Nuclear Regulatory Commission Approach to Modeling And Simulation Of Advanced Non-LWRs</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25063A278</link>
-			<description>Slides and Viewgraphs</description>
-			<author>NRC/RES/DSA</author>
-			<pubDate>2025-03-18 08:06:00</pubDate>
 		</item>
 	</channel>
 </rss>

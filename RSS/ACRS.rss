@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 31 Mar 2025 23:16:46 GMT</pubDate>
-		<lastBuildDate>Mon, 31 Mar 2025 23:16:46 GMT</lastBuildDate>
+		<pubDate>Tue, 01 Apr 2025 14:19:04 GMT</pubDate>
+		<lastBuildDate>Tue, 01 Apr 2025 14:19:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,41 +45,6 @@
 			<description>Federal Register Notice</description>
 			<author>NRC/ACRS, NRC/SECY</author>
 			<pubDate>2025-03-21 08:00:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of the Advisory Committee on Reactor Safeguards Digital I&C Subcommittee Meeting, February 19, 2025, Pages 1-112 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25077A101</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-03-18 13:51:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of the Advisory Committee on Reactor Safeguards: NuScale Design-Centered Subcommittee Meeting, February 18, 2025, Pages 1-283 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25077A110</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-03-18 13:51:00</pubDate>
-		</item>
-		<item>
-			<title>723rd ACRS Full Committee Regulatory Guide March 5 through 6 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25072A241</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-03-18 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>March 2025 Advisory Committee on Reactor Safeguards Full Committee Meeting Topical Reports</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25072A248</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-03-18 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>Documentation of Receipt of Applicable Official NRC Notices to the Advisory Committee on Reactor Safeguards for March 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25072A283</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-03-18 08:08:00</pubDate>
 		</item>
 	</channel>
 </rss>

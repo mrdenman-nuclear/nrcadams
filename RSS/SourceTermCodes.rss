@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 31 Mar 2025 23:16:48 GMT</pubDate>
-		<lastBuildDate>Mon, 31 Mar 2025 23:16:48 GMT</lastBuildDate>
+		<pubDate>Tue, 01 Apr 2025 14:19:10 GMT</pubDate>
+		<lastBuildDate>Tue, 01 Apr 2025 14:19:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Research Information Letter 2025-04, "Proceedings of the 2024 Workshop on Storage and Transportation of TRISO and Metal Spent Nuclear Fuels"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25083A036</link>
+			<description>Research Information Letter (RIL)</description>
+			<author>NRC/RES/DE, Southwest Research Institute</author>
+			<pubDate>2025-04-01 08:11:00</pubDate>
+		</item>
+		<item>
+			<title>Evaluation of MACCS KI Modeling Capability</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25017A059</link>
+			<description>Guidance Document</description>
+			<author>NRC/RES/DSA/AAB</author>
+			<pubDate>2025-04-01 08:10:00</pubDate>
+		</item>
 		<item>
 			<title>Limerick Generating Station, Units 1 and 2 - Issuance of Amendment Nos. 266 and 228 Re: Modification to Technical Specification 3.6.1.2 and Main Stem Isolation Valve Leakage Requirements (EPID L-2024-LLA-0115)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25070A201</link>
@@ -94,48 +108,6 @@
 			<description>Topical Report</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2025-03-26 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>Heat Pipe Microreactor SCALE & MELCOR Source Term & Fuel Cycle Demonstration Project</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25084A173</link>
-			<description>Slides and Viewgraphs</description>
-			<author>NRC/RES/DSA/FSCB</author>
-			<pubDate>2025-03-25 16:11:00</pubDate>
-		</item>
-		<item>
-			<title>August 20, 2024 Summary of Partially Closed Meeting With X Energy on Evaluation Methodologies Topical Reports</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24334A037</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-03-25 08:52:00</pubDate>
-		</item>
-		<item>
-			<title>Quad Cites Nuclear Power Station, Units 1 and 2, Request for Information RE: Standby Gas Treatment System License Amendment Request</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25076A724</link>
-			<description>E-Mail, Request for Additional Information (RAI)</description>
-			<author>NRC/NRR/DORL/LPLIII</author>
-			<pubDate>2025-03-25 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of X Energy, LLC (X-energy) Xe-100 Licensing Topical Report GOTHIC and Flownex Analysis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25076A054</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-03-25 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Affidavit Supporting Request for Withholding from Public Disclosure (10 CFR 2.390)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25076A055</link>
-			<description>Legal-Affidavit</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-03-25 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: 008585, Rev. 3, Xe-100 Licensing Topical Report GOTHIC and Flownex Analysis Codes Qualification</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25076A056</link>
-			<description>Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-03-25 08:28:00</pubDate>
 		</item>
 	</channel>
 </rss>

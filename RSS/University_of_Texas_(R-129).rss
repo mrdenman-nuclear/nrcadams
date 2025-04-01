@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 31 Mar 2025 23:16:45 GMT</pubDate>
-		<lastBuildDate>Mon, 31 Mar 2025 23:16:45 GMT</lastBuildDate>
+		<pubDate>Tue, 01 Apr 2025 14:19:04 GMT</pubDate>
+		<lastBuildDate>Tue, 01 Apr 2025 14:19:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>University Of Texas At Austin – U.S. Nuclear Regulatory Commission Safety Inspection Report 05000602/2025201</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25090A151</link>
+			<description>Letter, Inspection Report</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2025-04-01 10:09:00</pubDate>
+		</item>
+	</channel>
 </rss>

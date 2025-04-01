@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 31 Mar 2025 23:16:45 GMT</pubDate>
-		<lastBuildDate>Mon, 31 Mar 2025 23:16:45 GMT</lastBuildDate>
+		<pubDate>Tue, 01 Apr 2025 14:19:03 GMT</pubDate>
+		<lastBuildDate>Tue, 01 Apr 2025 14:19:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>Indemnity Agreement and Amendments, per 10 CFR 140</description>
 			<author>NRC/NMSS/DREFS/FAB</author>
 			<pubDate>2025-03-21 12:42:00</pubDate>
-		</item>
-		<item>
-			<title>Vallecitos Nuclear Center - Amendment No. 24 to Indemnity Agreement No. B-11</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25076A583</link>
-			<description>Letter</description>
-			<author>NorthStar Vallecitos, LLC</author>
-			<pubDate>2025-03-18 09:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
