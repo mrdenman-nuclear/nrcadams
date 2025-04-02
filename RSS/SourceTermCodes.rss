@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 01 Apr 2025 23:17:16 GMT</pubDate>
-		<lastBuildDate>Tue, 01 Apr 2025 23:17:16 GMT</lastBuildDate>
+		<pubDate>Wed, 02 Apr 2025 14:18:45 GMT</pubDate>
+		<lastBuildDate>Wed, 02 Apr 2025 14:18:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>HI-2240423, Rev. 4, "SMR-300 Regulatory Engagement Plan"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25084A124</link>
+			<description>Report, Technical</description>
+			<author>SMR, LLC</author>
+			<pubDate>2025-04-02 08:05:00</pubDate>
+		</item>
 		<item>
 			<title>Research Information Letter 2025-04, "Proceedings of the 2024 Workshop on Storage and Transportation of TRISO and Metal Spent Nuclear Fuels"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25083A036</link>
@@ -87,27 +94,6 @@
 			<description>Updated Final Safety Analysis Report (UFSAR)</description>
 			<author>Florida Power and Light Co</author>
 			<pubDate>2025-03-27 15:29:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale US460 SDAA Chapter 15 SER</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25029A125</link>
-			<description>Safety Evaluation Report, Draft</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-03-26 16:19:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale US460 SDAA Chapter 15 SER</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25029A125</link>
-			<description>Safety Evaluation Report, Draft</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-03-26 16:19:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: 007834, Rev. 2, Xe-100 Licensing Topical Report Transient and Safety Analysis Methodology</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25077A285</link>
-			<description>Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-03-26 08:06:00</pubDate>
 		</item>
 	</channel>
 </rss>

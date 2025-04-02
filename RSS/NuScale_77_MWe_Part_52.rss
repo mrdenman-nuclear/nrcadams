@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 01 Apr 2025 23:17:09 GMT</pubDate>
-		<lastBuildDate>Tue, 01 Apr 2025 23:17:09 GMT</lastBuildDate>
+		<pubDate>Wed, 02 Apr 2025 14:18:37 GMT</pubDate>
+		<lastBuildDate>Wed, 02 Apr 2025 14:18:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC, Submittal of Presentation Material Entitled "ACRS Subcommittee Meeting (Open Session) Chapters 1, 4, and 15," PM-180495, Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25084A368</link>
+			<description>Letter, Meeting Briefing Package/Handouts</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-04-02 08:06:00</pubDate>
+		</item>
 		<item>
 			<title>Nuscale Power, LLC - Revised Response to NRC Request for Additional Information No. 033 (RAI-10298 R1) on the Nuscale Standard Design Approval Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25083A094</link>
@@ -108,13 +115,6 @@
 			<description>Response to Request for Additional Information (RAI)</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-03-20 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of the Approved Version of NuScale Topical Report, "NuScale Power, LLC Quality Assurance Program Description," MN-122626-A, Revision 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25070A195</link>
-			<description>Letter, Topical Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-03-19 07:56:00</pubDate>
 		</item>
 	</channel>
 </rss>

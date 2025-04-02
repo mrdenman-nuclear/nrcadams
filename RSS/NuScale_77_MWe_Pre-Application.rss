@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 01 Apr 2025 23:17:09 GMT</pubDate>
-		<lastBuildDate>Tue, 01 Apr 2025 23:17:09 GMT</lastBuildDate>
+		<pubDate>Wed, 02 Apr 2025 14:18:37 GMT</pubDate>
+		<lastBuildDate>Wed, 02 Apr 2025 14:18:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -16,7 +16,7 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25080A176</link>
 			<description>Topical Report Evaluation</description>
 			<author>NRC/NRR/DRO/IQVB</author>
-			<pubDate>2025-03-24 09:30:00</pubDate>
+			<pubDate>2025-04-02 09:21:00</pubDate>
 		</item>
 		<item>
 			<title>E-mail to NuScale_NRC Form 896 _-A Version Verification for NuScale Topical Report MN-122626-NP-A, Revision 2</title>
@@ -24,13 +24,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-03-24 09:30:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of the Approved Version of NuScale Topical Report, "NuScale Power, LLC Quality Assurance Program Description," MN-122626-A, Revision 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25070A195</link>
-			<description>Letter, Topical Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-03-19 07:56:00</pubDate>
 		</item>
 	</channel>
 </rss>

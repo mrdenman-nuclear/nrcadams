@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 01 Apr 2025 23:17:10 GMT</pubDate>
-		<lastBuildDate>Tue, 01 Apr 2025 23:17:10 GMT</lastBuildDate>
+		<pubDate>Wed, 02 Apr 2025 14:18:38 GMT</pubDate>
+		<lastBuildDate>Wed, 02 Apr 2025 14:18:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>North Carolina State PULSTAR Reactor Facility 2024 Annual Operating Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25084A330</link>
+			<description>Letter</description>
+			<author>North Carolina State Univ</author>
+			<pubDate>2025-04-02 08:05:00</pubDate>
+		</item>
 		<item>
 			<title>Examination Confirmation Letter No. 50-297/OL-25-02, North Carolina State University</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25050A616</link>
@@ -31,13 +38,6 @@
 			<description>Letter, Response to Request for Additional Information (RAI)</description>
 			<author>North Carolina State Univ</author>
 			<pubDate>2025-03-24 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>Rescinding Notice of Cancellation - North Carolina State University (NF-0190 & NW-0575)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25077A157</link>
-			<description>Legal-Insurance/Indemnity Document, Letter</description>
-			<author>American Nuclear Insurers</author>
-			<pubDate>2025-03-19 12:30:00</pubDate>
 		</item>
 	</channel>
 </rss>

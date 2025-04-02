@@ -5,12 +5,47 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 01 Apr 2025 23:17:07 GMT</pubDate>
-		<lastBuildDate>Tue, 01 Apr 2025 23:17:07 GMT</lastBuildDate>
+		<pubDate>Wed, 02 Apr 2025 14:18:33 GMT</pubDate>
+		<lastBuildDate>Wed, 02 Apr 2025 14:18:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Topical Report -A Verification for NuScale Power LLC QAPD MN-122626, Revision 2 (NRC Form 896)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25080A176</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DRO/IQVB</author>
+			<pubDate>2025-04-02 09:21:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC, Submittal of Presentation Material Entitled "ACRS Subcommittee Meeting (Open Session) Chapters 1, 4, and 15," PM-180495, Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25084A368</link>
+			<description>Letter, Meeting Briefing Package/Handouts</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-04-02 08:06:00</pubDate>
+		</item>
+		<item>
+			<title>AP300 White Paper No.9 Probabilistic Risk Assessment Proprietary Review Letter.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25079A285</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2025-04-02 08:06:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC, Submitting Quarterly Revision to Previously Submitted SMR-300 Regulatory Engagement Plan HI-2240423, Rev. 4</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25084A123</link>
+			<description>Letter, Report, Technical</description>
+			<author>SMR, LLC</author>
+			<pubDate>2025-04-02 08:05:00</pubDate>
+		</item>
+		<item>
+			<title>HI-2240423, Rev. 4, "SMR-300 Regulatory Engagement Plan"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25084A124</link>
+			<description>Report, Technical</description>
+			<author>SMR, LLC</author>
+			<pubDate>2025-04-02 08:05:00</pubDate>
+		</item>
 		<item>
 			<title>Replacement File for Submittal of Approved TerraPower, LLC Fuel and Control Assembly Qualification Topical Report, NAT-2806-A, Revision 0</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25083A296</link>
@@ -185,41 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-03-28 15:35:00</pubDate>
-		</item>
-		<item>
-			<title>Final SE Natrium EPZ TR</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25065A250</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-03-28 15:35:00</pubDate>
-		</item>
-		<item>
-			<title>04/18/2025 Meeting with Kairos Power on the Applicability of 10 CFR Part 21 and 10 CFR 50.55(e) to the Hermes Non-Power Test Reactors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25087A055</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-03-28 09:06:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of Supplemental Audit Response Regarding Loss-of-Coolant Accident Break Spectrum</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25079A195</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-03-28 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC - Response to SDAA Audit Question Number: A-15.6.5-2 & A-15.6.5-9</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25079A196</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-03-28 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>University of Illinois at Urbana-Champaign, Response to Request for Proprietary Review of Draft Safety Evaluation for Fuel Qualification Methodology Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25086A191</link>
-			<description>E-Mail</description>
-			<author>Univ of Illinois - Urbana - Champaign</author>
-			<pubDate>2025-03-27 15:29:00</pubDate>
 		</item>
 	</channel>
 </rss>
