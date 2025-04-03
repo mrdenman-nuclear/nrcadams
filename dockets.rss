@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 02 Apr 2025 23:16:05 GMT</pubDate>
-		<lastBuildDate>Wed, 02 Apr 2025 23:16:05 GMT</lastBuildDate>
+		<pubDate>Thu, 03 Apr 2025 14:17:42 GMT</pubDate>
+		<lastBuildDate>Thu, 03 Apr 2025 14:17:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submittal of X Energy, LLC (X-energy) "X Energy, LLC Topical Report Quality Assurance Program Description" Revision 6, Accepted Version</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A153</link>
+			<description>Letter</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2025-04-03 08:27:00</pubDate>
+		</item>
+		<item>
+			<title>XEQAPD 1.0-A, Revision 6, "X Energy, LLC Topical Report Quality Assurance Program Description"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A154</link>
+			<description>Report, Technical</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2025-04-03 08:27:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC Submittal of Topical Report "Non-Loss-of-Coolant Accident Analysis Methodology," TR-0516-49416, Revision 5</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A357</link>
+			<description>Letter</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-04-03 08:27:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC Submittal of Presentation Material Entitled "ACRS Subcommittee Meeting (Closed Session) Chapter 15," PM-180496, Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A412</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-04-03 08:27:00</pubDate>
+		</item>
 		<item>
 			<title>04/10/2025 Aalo Regulatory Engagement Plan Discussion</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25090A272</link>
@@ -192,34 +220,6 @@
 			<description>Quality Assurance Program</description>
 			<author>Kairos Power, LLC</author>
 			<pubDate>2025-03-31 08:59:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power, LLC - Quality Assurance Program for the Kairos Power Hermes Reactor Facility, Revision 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25080A304</link>
-			<description>Quality Assurance Program</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2025-03-31 08:59:00</pubDate>
-		</item>
-		<item>
-			<title>Cover Letter - Human Factors RAIs Set 9 Regarding the TRISO-X License Application for a New Fuel Fabrication Facility</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25077A107</link>
-			<description>Letter, Request for Additional Information (RAI)</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2025-03-31 08:59:00</pubDate>
-		</item>
-		<item>
-			<title>Cover Letter - Electrical-I&C RAIs Set 10 Regarding the Triso-X License Application for a New Fuel Fabrication Facility</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25073A034</link>
-			<description>Letter, Request for Additional Information (RAI)</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2025-03-31 08:59:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of US460 Standard Design Approval Application Changes to Address Loss of Coolant Accident Break Spectrum</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25057A492</link>
-			<description>Letter, Report, Technical</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-03-31 08:58:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 02 Apr 2025 23:16:11 GMT</pubDate>
-		<lastBuildDate>Wed, 02 Apr 2025 23:16:11 GMT</lastBuildDate>
+		<pubDate>Thu, 03 Apr 2025 14:17:52 GMT</pubDate>
+		<lastBuildDate>Thu, 03 Apr 2025 14:17:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>XEQAPD 1.0-A, Revision 6, "X Energy, LLC Topical Report Quality Assurance Program Description"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A154</link>
+			<description>Report, Technical</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2025-04-03 08:27:00</pubDate>
+		</item>
 		<item>
 			<title>Vogtle Electric Generating Plant, Unit 4, Current Facility Combined License NPF-92, Revised 04/01/2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML14100A135</link>
@@ -122,13 +129,6 @@
 			<description>Federal Register Notice</description>
 			<author>NRC/ACRS, NRC/SECY</author>
 			<pubDate>2025-03-21 08:00:00</pubDate>
-		</item>
-		<item>
-			<title>Declaring a National Energy Emergency Enclosure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25043A080</link>
-			<description>Report, Technical</description>
-			<author>NRC/Chairman</author>
-			<pubDate>2025-03-20 08:03:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 02 Apr 2025 23:16:08 GMT</pubDate>
-		<lastBuildDate>Wed, 02 Apr 2025 23:16:08 GMT</lastBuildDate>
+		<pubDate>Thu, 03 Apr 2025 14:17:45 GMT</pubDate>
+		<lastBuildDate>Thu, 03 Apr 2025 14:17:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
 			<pubDate>2025-03-21 07:53:00</pubDate>
-		</item>
-		<item>
-			<title>Cover Letter and Enclosure 1 (Affidavit) - Supplemental Information for TRISO-X Fuel Fabrication Facility License Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25031A450</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2025-03-20 10:32:00</pubDate>
 		</item>
 	</channel>
 </rss>

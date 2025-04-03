@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 02 Apr 2025 23:16:12 GMT</pubDate>
-		<lastBuildDate>Wed, 02 Apr 2025 23:16:12 GMT</lastBuildDate>
+		<pubDate>Thu, 03 Apr 2025 14:17:52 GMT</pubDate>
+		<lastBuildDate>Thu, 03 Apr 2025 14:17:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,27 +17,6 @@
 			<description>Report, Technical</description>
 			<author>SMR, LLC</author>
 			<pubDate>2025-04-02 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>St. Lucie, Unit 1 - Updated Final Safety Analysis Report, Amendment No. 33 - Chapter 6, Engineered Safety Features</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24291A197</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Florida Power and Light Co</author>
-			<pubDate>2025-03-27 15:29:00</pubDate>
-		</item>
-		<item>
-			<title>St. Lucie, Unit 1 - Updated Final Safety Analysis Report, Amendment No. 33 - Chapter 11, Radioactive Waste Management System</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24291A201</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Florida Power and Light Co</author>
-			<pubDate>2025-03-27 15:29:00</pubDate>
-		</item>
-		<item>
-			<title>St. Lucie, Unit 1 - Updated Final Safety Analysis Report, Amendment No. 33 - Chapter 15.3, Postulated Accidents (Class 2 Accidents)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24291A210</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Florida Power and Light Co</author>
-			<pubDate>2025-03-27 15:29:00</pubDate>
 		</item>
 	</channel>
 </rss>
