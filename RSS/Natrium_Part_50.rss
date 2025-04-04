@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 03 Apr 2025 23:17:53 GMT</pubDate>
-		<lastBuildDate>Thu, 03 Apr 2025 23:17:53 GMT</lastBuildDate>
+		<pubDate>Fri, 04 Apr 2025 14:18:30 GMT</pubDate>
+		<lastBuildDate>Fri, 04 Apr 2025 14:18:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -206,13 +206,6 @@
 			<description>Meeting Summary</description>
 			<author>NRC/NMSS/DREFS/ETRB1</author>
 			<pubDate>2025-03-24 11:34:00</pubDate>
-		</item>
-		<item>
-			<title>Letter to M. Rome from A. Shanahan, TerraPower Natrium Reactor Project - Sodium Test and Fill Facility, Supplemental Review of the Permanent Electrical Distribution Line</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25073A264</link>
-			<description>Letter</description>
-			<author>US Dept of Energy, Office of Clean Energy Demonstrations</author>
-			<pubDate>2025-03-21 08:01:00</pubDate>
 		</item>
 	</channel>
 </rss>

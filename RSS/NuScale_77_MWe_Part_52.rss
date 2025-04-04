@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 03 Apr 2025 23:17:53 GMT</pubDate>
-		<lastBuildDate>Thu, 03 Apr 2025 23:17:53 GMT</lastBuildDate>
+		<pubDate>Fri, 04 Apr 2025 14:18:30 GMT</pubDate>
+		<lastBuildDate>Fri, 04 Apr 2025 14:18:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Nuscale Power, LLC - Submittal of Topical "Loss-of-Coolant Accident Evaluation Model,"TR-0516-49422, Revision 5</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25086A182</link>
+			<description>Legal-Affidavit, Letter, Topical Report</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-04-04 08:03:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC Submittal of Topical Report "Non-Loss-of-Coolant Accident Analysis Methodology," TR-0516-49416, Revision 5</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A357</link>
@@ -108,13 +115,6 @@
 			<description>Letter, Topical Report</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-03-24 08:16:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC - Response to NRC Request for Additional Information No. 001 (RAI-10502 RI) on the NuAcale Topical Report TR-145417</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25073A241</link>
-			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-03-21 08:01:00</pubDate>
 		</item>
 	</channel>
 </rss>

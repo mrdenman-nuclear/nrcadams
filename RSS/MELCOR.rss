@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 03 Apr 2025 23:17:58 GMT</pubDate>
-		<lastBuildDate>Thu, 03 Apr 2025 23:17:58 GMT</lastBuildDate>
+		<pubDate>Fri, 04 Apr 2025 14:18:38 GMT</pubDate>
+		<lastBuildDate>Fri, 04 Apr 2025 14:18:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>March 02, 2023, Summary of Periodic Advanced Reactor Stakeholder Public Meeting</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A085</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-04-04 08:03:00</pubDate>
+		</item>
 		<item>
 			<title>Research Information Letter 2025-04, "Proceedings of the 2024 Workshop on Storage and Transportation of TRISO and Metal Spent Nuclear Fuels"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25083A036</link>
@@ -24,13 +31,6 @@
 			<description>Meeting Agenda</description>
 			<author>NRC/RES</author>
 			<pubDate>2025-03-31 12:05:00</pubDate>
-		</item>
-		<item>
-			<title>Final SE Natrium EPZ TR</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25065A250</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-03-28 15:35:00</pubDate>
 		</item>
 	</channel>
 </rss>

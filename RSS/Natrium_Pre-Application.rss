@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 03 Apr 2025 23:17:53 GMT</pubDate>
-		<lastBuildDate>Thu, 03 Apr 2025 23:17:53 GMT</lastBuildDate>
+		<pubDate>Fri, 04 Apr 2025 14:18:30 GMT</pubDate>
+		<lastBuildDate>Fri, 04 Apr 2025 14:18:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Safety Evaluation</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-03-28 15:35:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower - Audit Summary Letter - I&C Architecture and Design Basis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25015A127</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-03-21 08:00:00</pubDate>
-		</item>
-		<item>
-			<title>Audit Report - TerraPower -NAT-4950 I&C Architecture and Design Basis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25015A128</link>
-			<description>Audit Report</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-03-21 08:00:00</pubDate>
 		</item>
 	</channel>
 </rss>

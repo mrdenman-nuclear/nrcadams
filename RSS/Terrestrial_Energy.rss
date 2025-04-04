@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 03 Apr 2025 23:17:57 GMT</pubDate>
-		<lastBuildDate>Thu, 03 Apr 2025 23:17:57 GMT</lastBuildDate>
+		<pubDate>Fri, 04 Apr 2025 14:18:35 GMT</pubDate>
+		<lastBuildDate>Fri, 04 Apr 2025 14:18:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 3, Attachment 2 - Subsequent License Renewal Application, Appendix E, Environmental Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25091A296</link>
+			<description>License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>Duke Energy Progress, LLC</author>
+			<pubDate>2025-04-04 08:04:00</pubDate>
+		</item>
+		<item>
+			<title>SECY-25-0024: Weekly Information Report Week Ending March 28, 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25091A257</link>
+			<description>Commission SECY Paper</description>
+			<author>NRC/EDO/AO</author>
+			<pubDate>2025-04-04 08:04:00</pubDate>
+		</item>
 		<item>
 			<title>Request for Additional Information, Powertech (USA), Inc., License Renewal Application, Responses</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25090A317</link>
@@ -136,20 +150,6 @@
 			<description>License-Operating (New/Renewal/Amendments) DKT 50</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-03-24 11:27:00</pubDate>
-		</item>
-		<item>
-			<title>Letter from G. McCreary, CA DTSC, to J. Lear, Navy, regarding Final Remedial Investigation and Radiological Scoping Survey Report Paint Waste Area Former Mare Island Naval Shipyard Vallejo, California</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25078A190</link>
-			<description>Report, Technical</description>
-			<author>State of CA, Dept of Toxic Substances Control</author>
-			<pubDate>2025-03-21 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>724th Full Committee Meeting of the Advisory Committee on Reactor Safeguards April 2-4, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25069A542</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/ACRS, NRC/SECY</author>
-			<pubDate>2025-03-21 08:00:00</pubDate>
 		</item>
 	</channel>
 </rss>

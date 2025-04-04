@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 03 Apr 2025 23:17:53 GMT</pubDate>
-		<lastBuildDate>Thu, 03 Apr 2025 23:17:53 GMT</lastBuildDate>
+		<pubDate>Fri, 04 Apr 2025 14:18:31 GMT</pubDate>
+		<lastBuildDate>Fri, 04 Apr 2025 14:18:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,27 +17,6 @@
 			<description>Letter</description>
 			<author>GE Hitachi Nuclear Energy</author>
 			<pubDate>2025-03-24 11:34:00</pubDate>
-		</item>
-		<item>
-			<title>Vallecitos Nuclear Center Conforming License Amendments Transmittal Letter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24053A122</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DDUWP</author>
-			<pubDate>2025-03-21 12:42:00</pubDate>
-		</item>
-		<item>
-			<title>Conforming License Amendment No. 23 to Facility License No. DPR-001</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24053A121</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-03-21 12:42:00</pubDate>
-		</item>
-		<item>
-			<title>Indemnity Agreement No. B-11 Amendment No. 24</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24046A092</link>
-			<description>Indemnity Agreement and Amendments, per 10 CFR 140</description>
-			<author>NRC/NMSS/DREFS/FAB</author>
-			<pubDate>2025-03-21 12:42:00</pubDate>
 		</item>
 	</channel>
 </rss>

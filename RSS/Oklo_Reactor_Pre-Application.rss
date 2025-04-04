@@ -5,18 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 03 Apr 2025 23:17:53 GMT</pubDate>
-		<lastBuildDate>Thu, 03 Apr 2025 23:17:53 GMT</lastBuildDate>
+		<pubDate>Fri, 04 Apr 2025 14:18:30 GMT</pubDate>
+		<lastBuildDate>Fri, 04 Apr 2025 14:18:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>OKLO Readiness Assessment Plan Phase 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25057A385</link>
-			<description>Audit Plan</description>
+			<title>NRC Form 897 Topical Report Withholding Determination (002)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25091A312</link>
+			<description>Topical Report Evaluation</description>
 			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-03-21 08:01:00</pubDate>
+			<pubDate>2025-04-04 08:04:00</pubDate>
+		</item>
+		<item>
+			<title>E-mail, Submitting NRC Form 897, Topical Report Withholding Determination</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25091A311</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2025-04-04 08:04:00</pubDate>
 		</item>
 	</channel>
 </rss>
