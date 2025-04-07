@@ -5,12 +5,47 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 04 Apr 2025 22:17:30 GMT</pubDate>
-		<lastBuildDate>Fri, 04 Apr 2025 22:17:30 GMT</lastBuildDate>
+		<pubDate>Mon, 07 Apr 2025 14:18:30 GMT</pubDate>
+		<lastBuildDate>Mon, 07 Apr 2025 14:18:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Abilene Christian University, MSRR White Paper on Fuel Qualification Methodology</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25087A091</link>
+			<description>Letter</description>
+			<author>Abilene Christian University (ACU), Nuclear Energy eXperimental Testing Lab</author>
+			<pubDate>2025-04-07 08:13:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC, Submittal of Topical Report "Extended Passive Cooling and Reactivity Control Methodology," TR-124587, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25087A228</link>
+			<description>Legal-Affidavit, Letter, Topical Report</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-04-07 08:13:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC Submittal of Presentation Material Entitled "ACRS Subcommittee Meeting (Closed Session) Chapter 15," PM-180496, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25087A235</link>
+			<description>Letter</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-04-07 08:13:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC, Submittal of Audit Response Regarding Containment Response Analysis Updates Results Clarification</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25087A255</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-04-07 08:13:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC, Response to SDAA Audit Question Number: Containment Response Analysis Updated Results Clarification</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25087A256</link>
+			<description>Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-04-07 08:13:00</pubDate>
+		</item>
 		<item>
 			<title>Triso-X, LLC, Supplemental Information for the TRISO-X Fuel Fabrication Facility License Application Review (Part 3)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25087A161</link>
@@ -185,41 +220,6 @@
 			<description>Report, Technical</description>
 			<author>SMR, LLC</author>
 			<pubDate>2025-04-02 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>Replacement File for Submittal of Approved TerraPower, LLC Fuel and Control Assembly Qualification Topical Report, NAT-2806-A, Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25083A296</link>
-			<description>Legal-Affidavit, Letter, Topical Report</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-04-01 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Project Long Mott Regulatory Plan (REP) 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25083A298</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-04-01 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25083A299</link>
-			<description>Legal-Affidavit</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-04-01 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Project Long Mott (PLM) Regulatory Engagements 2025 - Non-Proprietary (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25083A300</link>
-			<description>Report, Technical</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-04-01 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Audit Plan for XE-100 Licensing Topical Report Plume Exposure pathway Emergency Planning Zone Sizing Methodology</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25086A158</link>
-			<description>Audit Plan</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-04-01 08:11:00</pubDate>
 		</item>
 	</channel>
 </rss>

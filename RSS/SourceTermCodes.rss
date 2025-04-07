@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 04 Apr 2025 22:17:34 GMT</pubDate>
-		<lastBuildDate>Fri, 04 Apr 2025 22:17:34 GMT</lastBuildDate>
+		<pubDate>Mon, 07 Apr 2025 14:18:39 GMT</pubDate>
+		<lastBuildDate>Mon, 07 Apr 2025 14:18:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 3: WCAP-18950-NP, Revision 0, "Westinghouse BWR ECCS Evaluation Model: Supplement 6 to Code Description, Qualification and Application to TRITON11 Fuel Design" (Non-Proprietary)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A313</link>
+			<description>Report, Technical</description>
+			<author>Westinghouse Electric Co, LLC</author>
+			<pubDate>2025-04-07 08:23:00</pubDate>
+		</item>
 		<item>
 			<title>ACRS Presentation Slides-NuScale SDAA FSAR Chapter 6, Section 17.4 and Chapter 19 Subcommittee Meeting</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25034A117</link>
@@ -45,20 +52,6 @@
 			<description>Guidance Document</description>
 			<author>NRC/RES/DSA/AAB</author>
 			<pubDate>2025-04-01 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>Limerick Generating Station, Units 1 and 2 - Issuance of Amendment Nos. 266 and 228 Re: Modification to Technical Specification 3.6.1.2 and Main Stem Isolation Valve Leakage Requirements (EPID L-2024-LLA-0115)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25070A201</link>
-			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation</description>
-			<author>NRC/NRR/DORL/LPMB</author>
-			<pubDate>2025-03-31 16:00:00</pubDate>
-		</item>
-		<item>
-			<title>MELCOR Assessment/Analysis for ESBWR Meeting Agenda</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML091900622</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/RES</author>
-			<pubDate>2025-03-31 12:05:00</pubDate>
 		</item>
 	</channel>
 </rss>

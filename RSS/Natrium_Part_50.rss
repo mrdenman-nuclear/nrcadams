@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 04 Apr 2025 22:17:30 GMT</pubDate>
-		<lastBuildDate>Fri, 04 Apr 2025 22:17:30 GMT</lastBuildDate>
+		<pubDate>Mon, 07 Apr 2025 14:18:30 GMT</pubDate>
+		<lastBuildDate>Mon, 07 Apr 2025 14:18:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -199,13 +199,6 @@
 			<description>Letter, Response to Request for Additional Information (RAI)</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2025-03-25 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Summary - TerraPower Kemmerer Power Station Unit 1 Tribal Information Workshop 02/25/2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25079A324</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NMSS/DREFS/ETRB1</author>
-			<pubDate>2025-03-24 11:34:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 04 Apr 2025 22:17:30 GMT</pubDate>
-		<lastBuildDate>Fri, 04 Apr 2025 22:17:30 GMT</lastBuildDate>
+		<pubDate>Mon, 07 Apr 2025 14:18:30 GMT</pubDate>
+		<lastBuildDate>Mon, 07 Apr 2025 14:18:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -108,55 +108,6 @@
 			<description>Topical Report</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2025-03-25 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy, LLC (X-energy) - Topical Report Submittal, Rev. 3-A to X Energy, LLC (X-energy) Quality Assurance Program Description (QAPD)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20343A088</link>
-			<description>Letter, Quality Assurance Program, Response to Request for Additional Information (RAI), Safety Evaluation, Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-03-24 14:42:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of X Energy, LLC (X-energy) Xe-100 Licensing Topical Report GOTHIC and Flownex Analysis Codes Qualification, Revision 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25073A142</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-03-24 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Affidavit Supporting Request for Withholding from Public Disclosure (10 CFR 2.390)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25073A143</link>
-			<description>Legal-Affidavit</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-03-24 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: 008585, Revision 3, "Xe-100 Licensing Topical Report GOTHIC and Flownex Analysis Codes Qualification" (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25073A145</link>
-			<description>Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-03-24 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>X-Energy, LLC (X-energy) Submittal of Xe-100 Licensing Topical Report Mechanistic Source Term Approach, Revision 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25073A094</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-03-24 08:16:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Affidavit Supporting Request for Withholding from Public Disclosure (10 CFR 2.390)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25073A095</link>
-			<description>Legal-Affidavit</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-03-24 08:16:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: 000632, Revision 3, "Xe-100 Licensing Topical Report Mechanistic Source Term Approach"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25073A097</link>
-			<description>Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-03-24 08:16:00</pubDate>
 		</item>
 	</channel>
 </rss>

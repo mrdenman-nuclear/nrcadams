@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 04 Apr 2025 22:17:30 GMT</pubDate>
-		<lastBuildDate>Fri, 04 Apr 2025 22:17:30 GMT</lastBuildDate>
+		<pubDate>Mon, 07 Apr 2025 14:18:30 GMT</pubDate>
+		<lastBuildDate>Mon, 07 Apr 2025 14:18:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Abilene Christian University, MSRR White Paper on Fuel Qualification Methodology</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25087A091</link>
+			<description>Letter</description>
+			<author>Abilene Christian University (ACU), Nuclear Energy eXperimental Testing Lab</author>
+			<pubDate>2025-04-07 08:13:00</pubDate>
+		</item>
+	</channel>
 </rss>

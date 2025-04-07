@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 04 Apr 2025 22:17:33 GMT</pubDate>
-		<lastBuildDate>Fri, 04 Apr 2025 22:17:33 GMT</lastBuildDate>
+		<pubDate>Mon, 07 Apr 2025 14:18:36 GMT</pubDate>
+		<lastBuildDate>Mon, 07 Apr 2025 14:18:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Declaring a National Energy Emergency Monthly Status Update Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25078A177</link>
+			<description>Status Report</description>
+			<author>NRC/Chairman</author>
+			<pubDate>2025-04-07 08:13:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 1 - Environmental Report, Chapters 1 and 2</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25087A164</link>
@@ -129,27 +136,6 @@
 			<description>Meeting Summary</description>
 			<author>NRC/RES</author>
 			<pubDate>2025-03-25 09:26:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Slide Presentation for TerraPower Kemmerer Unit 1 NRC Tribal Information Meeting - Sept 24, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25079A320</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NMSS/DREFS/ETRB1</author>
-			<pubDate>2025-03-24 11:34:00</pubDate>
-		</item>
-		<item>
-			<title>09/24/2024 Summary of Government-to-Government Virtual Tribal Information Meeting for TerraPower Kemmerer Power Station Unit 1 Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25079A321</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NMSS/DREFS/ETRB1</author>
-			<pubDate>2025-03-24 11:34:00</pubDate>
-		</item>
-		<item>
-			<title>04 Michael Castillo NRC AI Symposium 03-13-2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25078A221</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-03-24 10:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
