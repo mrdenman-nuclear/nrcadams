@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 07 Apr 2025 23:17:22 GMT</pubDate>
-		<lastBuildDate>Mon, 07 Apr 2025 23:17:22 GMT</lastBuildDate>
+		<pubDate>Tue, 08 Apr 2025 14:18:20 GMT</pubDate>
+		<lastBuildDate>Tue, 08 Apr 2025 14:18:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Summary Report of the 723rd Meeting of the Advisory Committee on Reactor Safeguards for March 5 through 6 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A309</link>
+			<description>ACRS Summary Report, Letter, Meeting Summary</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2025-04-08 10:13:00</pubDate>
+		</item>
 		<item>
 			<title>ACRS Presentation Slides-NuScale SDAA FSAR Chapter 6, Section 17.4 and Chapter 19 Subcommittee Meeting</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25034A117</link>
@@ -38,13 +45,6 @@
 			<description>Meeting Minutes, Memoranda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-03-31 16:00:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - Staff Evaluation of NuScale SDAA Chapters 1, 4, and 15 - SC - April 1, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25076A168</link>
-			<description>Meeting Agenda, Meeting Notice</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-03-25 17:14:00</pubDate>
 		</item>
 	</channel>
 </rss>

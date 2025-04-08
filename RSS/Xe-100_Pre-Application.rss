@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 07 Apr 2025 23:17:17 GMT</pubDate>
-		<lastBuildDate>Mon, 07 Apr 2025 23:17:17 GMT</lastBuildDate>
+		<pubDate>Tue, 08 Apr 2025 14:18:16 GMT</pubDate>
+		<lastBuildDate>Tue, 08 Apr 2025 14:18:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -80,34 +80,6 @@
 			<description>Letter</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2025-03-26 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>August 20, 2024 Summary of Partially Closed Meeting With X Energy on Evaluation Methodologies Topical Reports</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24334A037</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-03-25 08:52:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of X Energy, LLC (X-energy) Xe-100 Licensing Topical Report GOTHIC and Flownex Analysis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25076A054</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-03-25 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Affidavit Supporting Request for Withholding from Public Disclosure (10 CFR 2.390)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25076A055</link>
-			<description>Legal-Affidavit</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-03-25 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: 008585, Rev. 3, Xe-100 Licensing Topical Report GOTHIC and Flownex Analysis Codes Qualification</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25076A056</link>
-			<description>Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-03-25 08:28:00</pubDate>
 		</item>
 	</channel>
 </rss>

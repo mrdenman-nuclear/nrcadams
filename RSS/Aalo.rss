@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 07 Apr 2025 23:17:22 GMT</pubDate>
-		<lastBuildDate>Mon, 07 Apr 2025 23:17:22 GMT</lastBuildDate>
+		<pubDate>Tue, 08 Apr 2025 14:18:20 GMT</pubDate>
+		<lastBuildDate>Tue, 08 Apr 2025 14:18:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>Research Information Letter (RIL)</description>
 			<author>NRC/RES/DE, Southwest Research Institute</author>
 			<pubDate>2025-04-01 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Heat Pipe Microreactor SCALE & MELCOR Source Term & Fuel Cycle Demonstration Project</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25084A173</link>
-			<description>Slides and Viewgraphs</description>
-			<author>NRC/RES/DSA/FSCB</author>
-			<pubDate>2025-03-25 16:11:00</pubDate>
 		</item>
 	</channel>
 </rss>

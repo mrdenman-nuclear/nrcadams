@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 07 Apr 2025 23:17:22 GMT</pubDate>
-		<lastBuildDate>Mon, 07 Apr 2025 23:17:22 GMT</lastBuildDate>
+		<pubDate>Tue, 08 Apr 2025 14:18:20 GMT</pubDate>
+		<lastBuildDate>Tue, 08 Apr 2025 14:18:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Summary Report of the 723rd Meeting of the Advisory Committee on Reactor Safeguards for March 5 through 6 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A309</link>
+			<description>ACRS Summary Report, Letter, Meeting Summary</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2025-04-08 10:13:00</pubDate>
+		</item>
 		<item>
 			<title>Declaring a National Energy Emergency Monthly Status Update Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25078A177</link>
@@ -52,20 +59,6 @@
 			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>US National Aeronautics and Space Admin (NASA), John H. Glenn Research Ctr at Lewis Field</author>
 			<pubDate>2025-03-27 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>Heat Pipe Microreactor SCALE & MELCOR Source Term & Fuel Cycle Demonstration Project</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25084A173</link>
-			<description>Slides and Viewgraphs</description>
-			<author>NRC/RES/DSA/FSCB</author>
-			<pubDate>2025-03-25 16:11:00</pubDate>
-		</item>
-		<item>
-			<title>Public Meeting Summary to Discuss DG-1436, "Acceptability of ASME Code Section III, Division 5 for High-Temperature Reactors," proposed Revision 3 of Regulatory Guide 1.87</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25083A294</link>
-			<description>Meeting Summary</description>
-			<author>NRC/RES</author>
-			<pubDate>2025-03-25 09:26:00</pubDate>
 		</item>
 	</channel>
 </rss>

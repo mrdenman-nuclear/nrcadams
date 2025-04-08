@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 07 Apr 2025 23:17:24 GMT</pubDate>
-		<lastBuildDate>Mon, 07 Apr 2025 23:17:24 GMT</lastBuildDate>
+		<pubDate>Tue, 08 Apr 2025 14:18:21 GMT</pubDate>
+		<lastBuildDate>Tue, 08 Apr 2025 14:18:21 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Palo Verde Nuclear Generating Station Units 1, 2, and 3, Supplement to License Amendment Request to Revise the Technical Specifications 3.5.1 and 3.5.2 Safety Injection Tank Pressure Bands, and to Use GOTHIC Code</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25090A018</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50, Response to Request for Additional Information (RAI)</description>
+			<author>Arizona Public Service Co</author>
+			<pubDate>2025-04-08 08:02:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 3: WCAP-18950-NP, Revision 0, "Westinghouse BWR ECCS Evaluation Model: Supplement 6 to Code Description, Qualification and Application to TRITON11 Fuel Design" (Non-Proprietary)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A313</link>
@@ -38,20 +45,6 @@
 			<description>Report, Technical</description>
 			<author>SMR, LLC</author>
 			<pubDate>2025-04-02 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>Research Information Letter 2025-04, "Proceedings of the 2024 Workshop on Storage and Transportation of TRISO and Metal Spent Nuclear Fuels"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25083A036</link>
-			<description>Research Information Letter (RIL)</description>
-			<author>NRC/RES/DE, Southwest Research Institute</author>
-			<pubDate>2025-04-01 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Evaluation of MACCS KI Modeling Capability</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25017A059</link>
-			<description>Guidance Document</description>
-			<author>NRC/RES/DSA/AAB</author>
-			<pubDate>2025-04-01 08:10:00</pubDate>
 		</item>
 	</channel>
 </rss>

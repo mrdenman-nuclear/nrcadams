@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 07 Apr 2025 23:17:18 GMT</pubDate>
-		<lastBuildDate>Mon, 07 Apr 2025 23:17:18 GMT</lastBuildDate>
+		<pubDate>Tue, 08 Apr 2025 14:18:17 GMT</pubDate>
+		<lastBuildDate>Tue, 08 Apr 2025 14:18:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>U.S. Geological Survey TRIGA Reactor, Annual Report Submittal in Accordance with Technical Specification 6.7.1 Rev. 00</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25090A304</link>
+			<description>Annual Operating Report, Letter</description>
+			<author>US Dept of Interior, Geological Survey (USGS)</author>
+			<pubDate>2025-04-08 08:02:00</pubDate>
+		</item>
+	</channel>
 </rss>
