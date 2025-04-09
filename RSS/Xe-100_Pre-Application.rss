@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 08 Apr 2025 23:16:06 GMT</pubDate>
-		<lastBuildDate>Tue, 08 Apr 2025 23:16:06 GMT</lastBuildDate>
+		<pubDate>Wed, 09 Apr 2025 14:19:40 GMT</pubDate>
+		<lastBuildDate>Wed, 09 Apr 2025 14:19:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,27 +59,6 @@
 			<description>Operating Plan</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2025-04-01 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Affidavit Supporting Request for Withholding from Public Disclosure (10 CFR 2.390)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25077A283</link>
-			<description>Legal-Affidavit</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-03-26 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: 007834, Rev. 2, Xe-100 Licensing Topical Report Transient and Safety Analysis Methodology</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25077A285</link>
-			<description>Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-03-26 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of X Energy, LLC (X-energy) Xe-100 Licensing Topical Report Transient and Safety Analysis Methodology, Revision 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25077A287</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-03-26 08:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
