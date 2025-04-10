@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 10 Apr 2025 18:22:22 GMT</pubDate>
-		<lastBuildDate>Thu, 10 Apr 2025 18:22:22 GMT</lastBuildDate>
+		<pubDate>Thu, 10 Apr 2025 19:16:09 GMT</pubDate>
+		<lastBuildDate>Thu, 10 Apr 2025 19:16:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>GEH - Licensing Topical Report NEDO-34270, Revision 0, BWRX-300 Stability Analysis</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25090A107</link>
+			<description>Topical Report</description>
+			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
+			<pubDate>2025-04-10 14:37:00</pubDate>
+		</item>
+		<item>
+			<title>GE-Hitachi Nuclear Energy Americas, LLC - NEDC-34270P/NEDO-34270, Revision 0, BWRX-300 Stability Analysis</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25090A104</link>
+			<description>Letter</description>
+			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
+			<pubDate>2025-04-10 14:37:00</pubDate>
+		</item>
+		<item>
+			<title>GE-Hitachi Nuclear Energy Americas, LLC - Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25090A108</link>
+			<description>Legal-Affidavit</description>
+			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
+			<pubDate>2025-04-10 14:37:00</pubDate>
+		</item>
 		<item>
 			<title>NRC 897 Enclosure 3 006889 Revision 2 Xe-100 Licensing Topical Report Reactor Core Design Methods and Analysis (Non-Public).</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A304</link>
@@ -199,27 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-04-03 12:40:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of X Energy, LLC (X-energy) "X Energy, LLC Topical Report Quality Assurance Program Description" Revision 6, Accepted Version</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A153</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-04-03 08:27:00</pubDate>
-		</item>
-		<item>
-			<title>XEQAPD 1.0-A, Revision 6, "X Energy, LLC Topical Report Quality Assurance Program Description"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A154</link>
-			<description>Report, Technical</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-04-03 08:27:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Submittal of Topical Report "Non-Loss-of-Coolant Accident Analysis Methodology," TR-0516-49416, Revision 5</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A357</link>
-			<description>Letter</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-04-03 08:27:00</pubDate>
 		</item>
 	</channel>
 </rss>
