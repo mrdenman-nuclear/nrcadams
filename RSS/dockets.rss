@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 09 Apr 2025 23:16:58 GMT</pubDate>
-		<lastBuildDate>Wed, 09 Apr 2025 23:16:58 GMT</lastBuildDate>
+		<pubDate>Thu, 10 Apr 2025 14:18:46 GMT</pubDate>
+		<lastBuildDate>Thu, 10 Apr 2025 14:18:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC 897 Enclosure 3 006889 Revision 2 Xe-100 Licensing Topical Report Reactor Core Design Methods and Analysis (Non-Public).</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A304</link>
+			<description>- No Document Type Applies</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-04-10 08:10:00</pubDate>
+		</item>
+		<item>
+			<title>NRC 897 Enclosure 3 007834, Rev. 2, Xe-100 Licensing Topical Report Transient and Safety Analysis Methodology (Proprietary Version).</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A334</link>
+			<description>- No Document Type Applies</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-04-10 08:10:00</pubDate>
+		</item>
+		<item>
+			<title>NRC 897 Enclosure 3- 008585, Rev. 3 Xe-100 Licensing Topical Report GOTHIC and Flownex Analysis Codes Qualification (Proprietary Version)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A339</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2025-04-10 08:10:00</pubDate>
+		</item>
 		<item>
 			<title>Vendor Inspection Of Ge Hitachi Nuclear Energy's Quality Assurance Program And Title 10 Of The Code Of Federal Regulations Part 21 Program Implementation</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25094A135</link>
@@ -199,27 +220,6 @@
 			<description>Letter</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-04-03 08:27:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Submittal of Presentation Material Entitled "ACRS Subcommittee Meeting (Closed Session) Chapter 15," PM-180496, Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A412</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-04-03 08:27:00</pubDate>
-		</item>
-		<item>
-			<title>04/10/2025 Aalo Regulatory Engagement Plan Discussion</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25090A272</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-04-02 11:57:00</pubDate>
-		</item>
-		<item>
-			<title>Topical Report -A Verification for NuScale Power LLC QAPD MN-122626, Revision 2 (NRC Form 896)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25080A176</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DRO/IQVB</author>
-			<pubDate>2025-04-02 09:21:00</pubDate>
 		</item>
 	</channel>
 </rss>
