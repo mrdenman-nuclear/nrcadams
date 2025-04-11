@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 11 Apr 2025 20:18:17 GMT</pubDate>
-		<lastBuildDate>Fri, 11 Apr 2025 20:18:17 GMT</lastBuildDate>
+		<pubDate>Fri, 11 Apr 2025 21:16:09 GMT</pubDate>
+		<lastBuildDate>Fri, 11 Apr 2025 21:16:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>04/21/2025 Holtec SMR-300 Site Characterization Update Meeting</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25101A296</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2025-04-11 16:24:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC Response to NRC Request for Additional Information No. 520 (eRAI No. 9642) on the NuScale Design Certification Application.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML19140A270</link>
@@ -211,13 +218,6 @@
 			<title>Enclosure 2 - ER Submittal Section Status</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25087A169</link>
 			<description>Graphics incl Charts and Tables</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2025-04-04 13:34:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - Environmental Report, Chapters 4 Through 10</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25087A168</link>
-			<description>Environmental Monitoring Report</description>
 			<author>Triso-X, LLC</author>
 			<pubDate>2025-04-04 13:34:00</pubDate>
 		</item>
