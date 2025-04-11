@@ -5,25 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 10 Apr 2025 23:17:01 GMT</pubDate>
-		<lastBuildDate>Thu, 10 Apr 2025 23:17:01 GMT</lastBuildDate>
+		<pubDate>Fri, 11 Apr 2025 14:18:41 GMT</pubDate>
+		<lastBuildDate>Fri, 11 Apr 2025 14:18:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>Letter - Final SE EPZ</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25076A657</link>
-			<description>Letter</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-03-28 15:35:00</pubDate>
+			<title>EMAIL - TerraPower Draft SE - Instrumentation and Control Architecture Design Basis Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25036A035</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-04-11 08:06:00</pubDate>
 		</item>
 		<item>
-			<title>Final SE Natrium EPZ TR</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25065A250</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-03-28 15:35:00</pubDate>
+			<title>PUBLIC - TerraPower Draft SE for Topical Report NAT-4950, "Instrumentation and Control Architecture and Design Basis Topical Report," Rev 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25036A030</link>
+			<description>Safety Evaluation Report, Draft</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-04-11 08:06:00</pubDate>
 		</item>
 	</channel>
 </rss>

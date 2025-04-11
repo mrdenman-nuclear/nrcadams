@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 10 Apr 2025 23:17:06 GMT</pubDate>
-		<lastBuildDate>Thu, 10 Apr 2025 23:17:06 GMT</lastBuildDate>
+		<pubDate>Fri, 11 Apr 2025 14:18:48 GMT</pubDate>
+		<lastBuildDate>Fri, 11 Apr 2025 14:18:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>02/20/2025 Summary of Public Meeting to Discuss the NRC Requirements and Process for Facility and Personnel Clearance</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25078A008</link>
+			<description>Memoranda</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2025-04-11 08:07:00</pubDate>
+		</item>
+		<item>
+			<title>Implications of Safety and Operational Features of Small Advanced Reactors for the Evaluation of Important Human Actions</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25090A258</link>
+			<description>Report, Technical</description>
+			<author>Brookhaven National Lab (BNL)</author>
+			<pubDate>2025-04-11 08:06:00</pubDate>
+		</item>
 		<item>
 			<title>Declaring a National Energy Emergency Monthly Status Update Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25078A177</link>
@@ -38,13 +52,6 @@
 			<description>Research Information Letter (RIL)</description>
 			<author>NRC/RES/DE, Southwest Research Institute</author>
 			<pubDate>2025-04-01 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>SECY-25-0022: Weekly Information Report Week Ending March 21, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25086A203</link>
-			<description>Commission SECY Paper</description>
-			<author>NRC/EDO/AO</author>
-			<pubDate>2025-03-28 08:07:00</pubDate>
 		</item>
 	</channel>
 </rss>

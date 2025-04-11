@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 10 Apr 2025 23:17:09 GMT</pubDate>
-		<lastBuildDate>Thu, 10 Apr 2025 23:17:09 GMT</lastBuildDate>
+		<pubDate>Fri, 11 Apr 2025 14:18:51 GMT</pubDate>
+		<lastBuildDate>Fri, 11 Apr 2025 14:18:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-04-03 12:40:00</pubDate>
-		</item>
-		<item>
-			<title>04/18/2025 Meeting with Kairos Power on the Applicability of 10 CFR Part 21 and 10 CFR 50.55(e) to the Hermes Non-Power Test Reactors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25087A055</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-03-28 09:06:00</pubDate>
 		</item>
 	</channel>
 </rss>

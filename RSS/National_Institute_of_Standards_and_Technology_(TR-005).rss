@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 10 Apr 2025 23:17:02 GMT</pubDate>
-		<lastBuildDate>Thu, 10 Apr 2025 23:17:02 GMT</lastBuildDate>
+		<pubDate>Fri, 11 Apr 2025 14:18:42 GMT</pubDate>
+		<lastBuildDate>Fri, 11 Apr 2025 14:18:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Enclosure 2 NCNR Presentation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25078A032</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2025-03-28 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>NIST Center for Neutron Research Public Meeting March 6 2025 Summary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25078A031</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2025-03-28 08:06:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
