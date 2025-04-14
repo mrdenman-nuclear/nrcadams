@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 14 Apr 2025 14:19:20 GMT</pubDate>
-		<lastBuildDate>Mon, 14 Apr 2025 14:19:20 GMT</lastBuildDate>
+		<pubDate>Mon, 14 Apr 2025 15:19:20 GMT</pubDate>
+		<lastBuildDate>Mon, 14 Apr 2025 15:19:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Enclosure 2 (Public) February 12, 2025 Notes for Meeting with X-energy LMGS PSAR Chapter 2 Site Characteristics</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25098A284</link>
+			<description>Graphics incl Charts and Tables, Note</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2025-04-14 10:32:00</pubDate>
+		</item>
+	</channel>
 </rss>
