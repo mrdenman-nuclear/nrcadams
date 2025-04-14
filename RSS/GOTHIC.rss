@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 11 Apr 2025 22:20:45 GMT</pubDate>
-		<lastBuildDate>Fri, 11 Apr 2025 22:20:45 GMT</lastBuildDate>
+		<pubDate>Mon, 14 Apr 2025 14:19:20 GMT</pubDate>
+		<lastBuildDate>Mon, 14 Apr 2025 14:19:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50, Response to Request for Additional Information (RAI)</description>
 			<author>Arizona Public Service Co</author>
 			<pubDate>2025-04-08 08:02:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: WCAP-18950-NP, Revision 0, "Westinghouse BWR ECCS Evaluation Model: Supplement 6 to Code Description, Qualification and Application to TRITON11 Fuel Design" (Non-Proprietary)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A313</link>
-			<description>Report, Technical</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2025-04-07 08:23:00</pubDate>
 		</item>
 	</channel>
 </rss>

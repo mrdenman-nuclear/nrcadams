@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 11 Apr 2025 22:20:38 GMT</pubDate>
-		<lastBuildDate>Fri, 11 Apr 2025 22:20:38 GMT</lastBuildDate>
+		<pubDate>Mon, 14 Apr 2025 14:19:11 GMT</pubDate>
+		<lastBuildDate>Mon, 14 Apr 2025 14:19:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Acceptance Review Letter</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-04-02 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Result Letter No. 50-128/OL-25-02, Texas A&M University</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25036A368</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2025-03-31 10:17:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Report Letter No. 50-128/OL-25-02, Texas A&M University</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25036A367</link>
-			<description>Letter, License-Operator Examination Report (Non-Power Reactors Only), License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2025-03-31 09:00:00</pubDate>
 		</item>
 	</channel>
 </rss>

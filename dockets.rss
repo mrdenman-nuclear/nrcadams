@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 11 Apr 2025 22:20:35 GMT</pubDate>
-		<lastBuildDate>Fri, 11 Apr 2025 22:20:35 GMT</lastBuildDate>
+		<pubDate>Mon, 14 Apr 2025 14:19:07 GMT</pubDate>
+		<lastBuildDate>Mon, 14 Apr 2025 14:19:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -143,48 +143,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DANU/UNPL</author>
 			<pubDate>2025-04-08 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Proprietary Information from Public Disclosure for Westinghouse Electric Company, LLC Evinci Microreactor 2024 Preapplication Regulatory Engagement Plan</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A258</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-04-07 15:28:00</pubDate>
-		</item>
-		<item>
-			<title>Abilene Christian University, MSRR White Paper on Fuel Qualification Methodology</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25087A091</link>
-			<description>Letter</description>
-			<author>Abilene Christian University (ACU), Nuclear Energy eXperimental Testing Lab</author>
-			<pubDate>2025-04-07 08:13:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of Topical Report "Extended Passive Cooling and Reactivity Control Methodology," TR-124587, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25087A228</link>
-			<description>Legal-Affidavit, Letter, Topical Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-04-07 08:13:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Submittal of Presentation Material Entitled "ACRS Subcommittee Meeting (Closed Session) Chapter 15," PM-180496, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25087A235</link>
-			<description>Letter</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-04-07 08:13:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of Audit Response Regarding Containment Response Analysis Updates Results Clarification</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25087A255</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-04-07 08:13:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Response to SDAA Audit Question Number: Containment Response Analysis Updated Results Clarification</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25087A256</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-04-07 08:13:00</pubDate>
 		</item>
 	</channel>
 </rss>
