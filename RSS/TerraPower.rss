@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 14 Apr 2025 23:16:39 GMT</pubDate>
-		<lastBuildDate>Mon, 14 Apr 2025 23:16:39 GMT</lastBuildDate>
+		<pubDate>Tue, 15 Apr 2025 02:35:05 GMT</pubDate>
+		<lastBuildDate>Tue, 15 Apr 2025 02:35:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -87,27 +87,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DANU/UARL</author>
 			<pubDate>2025-04-04 11:35:00</pubDate>
-		</item>
-		<item>
-			<title>Modification No. 006, to Task Order No. 31310024F0016 Under Contract No. 31310023D0005</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25087A259</link>
-			<description>ACQ-Contract Task Order Modification</description>
-			<author>NRC/ADM/AMD</author>
-			<pubDate>2025-04-01 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Research Information Letter 2025-04, "Proceedings of the 2024 Workshop on Storage and Transportation of TRISO and Metal Spent Nuclear Fuels"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25083A036</link>
-			<description>Research Information Letter (RIL)</description>
-			<author>NRC/RES/DE, Southwest Research Institute</author>
-			<pubDate>2025-04-01 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (011) from Ian Gifford on behalf of TerraPower, LLC on PR-170 and 171 - Fee Schedules; Fee Recovery for Fiscal Year 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25083A234</link>
-			<description>Rulemaking-Comment</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-04-01 08:10:00</pubDate>
 		</item>
 	</channel>
 </rss>

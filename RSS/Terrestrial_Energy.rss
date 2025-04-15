@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 14 Apr 2025 23:16:39 GMT</pubDate>
-		<lastBuildDate>Mon, 14 Apr 2025 23:16:39 GMT</lastBuildDate>
+		<pubDate>Tue, 15 Apr 2025 02:35:05 GMT</pubDate>
+		<lastBuildDate>Tue, 15 Apr 2025 02:35:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -164,41 +164,6 @@
 			<description>Report, Technical</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2025-04-03 08:27:00</pubDate>
-		</item>
-		<item>
-			<title>Vogtle Electric Generating Plant, Unit 4, Current Facility Combined License NPF-92, Revised 04/01/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML14100A135</link>
-			<description>License-Combined License (COL) (New/Renewal/Amendments) DKT 52, Technical Specifications, Test/Inspection/Operating Procedure</description>
-			<author>NRC/NRO/DNRL/LB4</author>
-			<pubDate>2025-04-01 15:53:00</pubDate>
-		</item>
-		<item>
-			<title>Vogtle Electric Generating Plant, Unit 3 Current Facility Combined License NPF-91, Revised 04/01/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML14100A106</link>
-			<description>License-Combined License (COL) (New/Renewal/Amendments) DKT 52</description>
-			<author>NRC/NRO/DNRL/LB4</author>
-			<pubDate>2025-04-01 15:51:00</pubDate>
-		</item>
-		<item>
-			<title>Byron, Unit 1, Current Facility Operating License NPF-37, Tech Specs, Revised 04/01/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052910365</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-04-01 15:44:00</pubDate>
-		</item>
-		<item>
-			<title>Braidwood, Unit 1, Current Facility Operating License NPF-72, Tech Specs, Revised 04/01/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053040362</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-04-01 15:38:00</pubDate>
-		</item>
-		<item>
-			<title>Research Information Letter 2025-04, "Proceedings of the 2024 Workshop on Storage and Transportation of TRISO and Metal Spent Nuclear Fuels"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25083A036</link>
-			<description>Research Information Letter (RIL)</description>
-			<author>NRC/RES/DE, Southwest Research Institute</author>
-			<pubDate>2025-04-01 08:11:00</pubDate>
 		</item>
 	</channel>
 </rss>
