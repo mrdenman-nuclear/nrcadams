@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Natura Resources</title>
+		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
+		<description>NRC ADAMS Docket Update</description>
+		<language>en-us</language>
+		<pubDate>Tue, 15 Apr 2025 02:40:19 GMT</pubDate>
+		<lastBuildDate>Tue, 15 Apr 2025 02:40:19 GMT</lastBuildDate>
+		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
+		<generator>Function write_rss() in R package nrcadams</generator>
+		<managingEditor>mrdenman@gmail.com</managingEditor>
+		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Request for Review and Comment on Draft Environmental Assessment Affecting Existing Class I Wells in North Slope Alaska (AOGCC)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25097A256</link>
+			<description>Letter</description>
+			<author>NRC/RGN-IV/DRSS</author>
+			<pubDate>2025-04-14 08:14:00</pubDate>
+		</item>
+		<item>
+			<title>Request For Review And Comment On Draft Environmental Assessment Affecting The U.S. Environmental Protection Agency's Underground Injection Control Program</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25092A253</link>
+			<description>Letter</description>
+			<author>NRC/RGN-IV/ORA</author>
+			<pubDate>2025-04-10 08:11:00</pubDate>
+		</item>
+		<item>
+			<title>9April2025 Public Meeting - NRC Environmental Report Meeting - Last Energy Presentation</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25098A018</link>
+			<description>Environmental Report, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Last Energy</author>
+			<pubDate>2025-04-08 10:13:00</pubDate>
+		</item>
+		<item>
+			<title>Declaring a National Energy Emergency Monthly Status Update Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25078A177</link>
+			<description>Status Report</description>
+			<author>NRC/Chairman</author>
+			<pubDate>2025-04-07 08:13:00</pubDate>
+		</item>
+		<item>
+			<title>Abilene Christian University, MSRR White Paper on Fuel Qualification Methodology</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25087A091</link>
+			<description>Letter</description>
+			<author>Abilene Christian University (ACU), Nuclear Energy eXperimental Testing Lab</author>
+			<pubDate>2025-04-07 08:13:00</pubDate>
+		</item>
+	</channel>
+</rss>
