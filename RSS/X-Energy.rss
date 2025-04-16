@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 15 Apr 2025 23:17:35 GMT</pubDate>
-		<lastBuildDate>Tue, 15 Apr 2025 23:17:35 GMT</lastBuildDate>
+		<pubDate>Wed, 16 Apr 2025 14:20:05 GMT</pubDate>
+		<lastBuildDate>Wed, 16 Apr 2025 14:20:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Annual Report for the MIT Research Reactor for the Period from January 1, 2024, to December 31, 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25098A159</link>
+			<description>Annual Operating Report, Letter</description>
+			<author>MIT Nuclear Reactor Laboratory</author>
+			<pubDate>2025-04-16 08:04:00</pubDate>
+		</item>
 		<item>
 			<title>M250410: Transcript - Micro-reactors: Current Status and Moving Forward</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25104A260</link>
@@ -94,13 +101,6 @@
 			<description>Commission Meeting Slides</description>
 			<author>NRC/OCM</author>
 			<pubDate>2025-04-04 09:32:00</pubDate>
-		</item>
-		<item>
-			<title>Re: Withdrawal of Licensing Topical Report on Parametric Source Term supporting the XENITH Licensing Pathway</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25084A136</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-04-02 08:05:00</pubDate>
 		</item>
 	</channel>
 </rss>
