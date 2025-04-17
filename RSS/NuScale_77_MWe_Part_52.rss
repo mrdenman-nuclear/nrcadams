@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 16 Apr 2025 23:16:25 GMT</pubDate>
-		<lastBuildDate>Wed, 16 Apr 2025 23:16:25 GMT</lastBuildDate>
+		<pubDate>Thu, 17 Apr 2025 14:18:37 GMT</pubDate>
+		<lastBuildDate>Thu, 17 Apr 2025 14:18:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,20 +59,6 @@
 			<description>Legal-Affidavit, Letter, Topical Report</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-04-04 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Submittal of Topical Report "Non-Loss-of-Coolant Accident Analysis Methodology," TR-0516-49416, Revision 5</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A357</link>
-			<description>Letter</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-04-03 08:27:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC Submittal of Presentation Material Entitled "ACRS Subcommittee Meeting (Closed Session) Chapter 15," PM-180496, Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A412</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-04-03 08:27:00</pubDate>
 		</item>
 	</channel>
 </rss>

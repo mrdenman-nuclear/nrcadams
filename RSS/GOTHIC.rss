@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 16 Apr 2025 23:16:31 GMT</pubDate>
-		<lastBuildDate>Wed, 16 Apr 2025 23:16:31 GMT</lastBuildDate>
+		<pubDate>Thu, 17 Apr 2025 14:18:46 GMT</pubDate>
+		<lastBuildDate>Thu, 17 Apr 2025 14:18:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Preliminary Safety Analysis Report (PSAR)</description>
 			<author>Long Mott Energy, LLC</author>
 			<pubDate>2025-04-16 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>Email Form 897 Enclosure 3- 008585, Rev. 3, Xe-100 Licensing Topical Report GOTHIC and Flownex Analysis Codes Qualification (Proprietary Version)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A338</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-04-10 08:10:00</pubDate>
 		</item>
 	</channel>
 </rss>
