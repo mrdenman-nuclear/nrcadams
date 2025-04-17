@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 17 Apr 2025 17:16:43 GMT</pubDate>
-		<lastBuildDate>Thu, 17 Apr 2025 17:16:43 GMT</lastBuildDate>
+		<pubDate>Thu, 17 Apr 2025 18:23:09 GMT</pubDate>
+		<lastBuildDate>Thu, 17 Apr 2025 18:23:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC - Response to SDAA Audit Question Number DWO-SC-35</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25013A239</link>
+			<description>Response to Request for Additional Information (RAI), Audit Report</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-04-17 13:30:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC - Response to SDAA Audit Question Number DWO-SC-37</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25013A241</link>
+			<description>Response to Request for Additional Information (RAI), Audit Report</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-04-17 13:30:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC - Response to SDAA Audit Question Number DWO-SC-34</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25013A237</link>
@@ -206,20 +220,6 @@
 			<description>Preliminary Safety Analysis Report (PSAR)</description>
 			<author>Long Mott Energy, LLC</author>
 			<pubDate>2025-04-16 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Energy, LLC, Construction Permit Application, Part VI Supplemental Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25090A066</link>
-			<description>Report, Technical</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2025-04-16 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Energy, LLC, Construction Permit Application, Part I General and Financial Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25090A059</link>
-			<description>Financial Assurance Document</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2025-04-16 08:04:00</pubDate>
 		</item>
 	</channel>
 </rss>
