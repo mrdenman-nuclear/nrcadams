@@ -5,12 +5,68 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 17 Apr 2025 23:17:19 GMT</pubDate>
-		<lastBuildDate>Thu, 17 Apr 2025 23:17:19 GMT</lastBuildDate>
+		<pubDate>Fri, 18 Apr 2025 14:17:42 GMT</pubDate>
+		<lastBuildDate>Fri, 18 Apr 2025 14:17:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2. 2024 NRC Audit Observation Report of SwRI Audit of CNWRA</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25079A139</link>
+			<description>Audit Report</description>
+			<author>NRC/NMSS/DFM/IOB</author>
+			<pubDate>2025-04-18 08:16:00</pubDate>
+		</item>
+		<item>
+			<title>2. 2024 NRC Audit Observation Report of SwRI Audit of CNWRA</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25079A139</link>
+			<description>Audit Report</description>
+			<author>NRC/NMSS/DFM/IOB</author>
+			<pubDate>2025-04-18 08:16:00</pubDate>
+		</item>
+		<item>
+			<title>MELCOR Accident Progression and Source Term Demonstration Calculations for a High Temperature Gas Reactor (HTGR) Fuel Cycle</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25094A056</link>
+			<description>Calculation, Report, Technical</description>
+			<author>Sandia National Labs (SNL)</author>
+			<pubDate>2025-04-18 08:15:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC - Part 2, Chapter 15, "Transient and Accident Analyses", Revision 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25099A272</link>
+			<description>Final Safety Analysis Report (FSAR)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-04-18 08:15:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC - Part 2, Chapter 19, "Probabilistic Risk Assessment and Severe Accident Evaluation", Revision 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25099A277</link>
+			<description>Final Safety Analysis Report (FSAR)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-04-18 08:15:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC - Part 2, Chapter 11, "Radioactive Waste Management," Revision 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25099A262</link>
+			<description>Final Safety Analysis Report (FSAR)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-04-18 08:15:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC - Part 2, Chapter 15, "Transient and Accident Analyses", Revision 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25099A272</link>
+			<description>Final Safety Analysis Report (FSAR)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-04-18 08:15:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC - Part 2, Chapter 19, "Probabilistic Risk Assessment and Severe Accident Evaluation", Revision 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25099A277</link>
+			<description>Final Safety Analysis Report (FSAR)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-04-18 08:15:00</pubDate>
+		</item>
 		<item>
 			<title>March-6-Met-Meeting-Summary (003).</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25098A041</link>
@@ -108,20 +164,6 @@
 			<description>Report, Technical</description>
 			<author>NRC/OCM/DAW</author>
 			<pubDate>2025-04-14 08:14:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG/CR-7308, "Sensitivity/Uncertainty Methods for Nuclear Criticality Safety Validation"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25099A002</link>
-			<description>NUREG</description>
-			<author>NRC/RES, Oak Ridge National Lab (ORNL)</author>
-			<pubDate>2025-04-11 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-1437, DFC, Supp. 63, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants Supplement 63 Regarding License Renewal for Clinton Power Station, Unit 1"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25072A105</link>
-			<description>NUREG, Draft</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-04-11 08:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
