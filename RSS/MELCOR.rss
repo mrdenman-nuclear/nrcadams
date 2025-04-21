@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 18 Apr 2025 23:17:01 GMT</pubDate>
-		<lastBuildDate>Fri, 18 Apr 2025 23:17:01 GMT</lastBuildDate>
+		<pubDate>Mon, 21 Apr 2025 14:18:28 GMT</pubDate>
+		<lastBuildDate>Mon, 21 Apr 2025 14:18:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,13 +73,6 @@
 			<description>Letter, Topical Report</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2025-04-15 12:18:00</pubDate>
-		</item>
-		<item>
-			<title>Status Report on the Licensing Activities and Regulatory Duties of the U.S. Nuclear Regulatory Commission for the Reporting Period of October 1, 2024, through December 31, 2024 - Enclosure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25076A148</link>
-			<description>Report, Technical</description>
-			<author>NRC/OCM/DAW</author>
-			<pubDate>2025-04-14 08:14:00</pubDate>
 		</item>
 	</channel>
 </rss>

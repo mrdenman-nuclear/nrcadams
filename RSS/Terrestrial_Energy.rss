@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 18 Apr 2025 23:16:58 GMT</pubDate>
-		<lastBuildDate>Fri, 18 Apr 2025 23:16:58 GMT</lastBuildDate>
+		<pubDate>Mon, 21 Apr 2025 14:18:26 GMT</pubDate>
+		<lastBuildDate>Mon, 21 Apr 2025 14:18:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -150,27 +150,6 @@
 			<description>ACRS Summary Report, Letter, Meeting Summary</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-04-08 10:13:00</pubDate>
-		</item>
-		<item>
-			<title>Holtec Decommissioning International's Response to LTP Request for Supplemental Information (RSI) Numbers 10, 11, 12 amd 13</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25086A156</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>Holtec Decommissioning International, LLC</author>
-			<pubDate>2025-04-07 14:48:00</pubDate>
-		</item>
-		<item>
-			<title>Declaring a National Energy Emergency Monthly Status Update Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25078A177</link>
-			<description>Status Report</description>
-			<author>NRC/Chairman</author>
-			<pubDate>2025-04-07 08:13:00</pubDate>
-		</item>
-		<item>
-			<title>Diablo Canyon, Unit 1, Current Facility Operating License DPR-80, Tech Specs, Revised 04/07/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053140349</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-04-07 07:22:00</pubDate>
 		</item>
 	</channel>
 </rss>

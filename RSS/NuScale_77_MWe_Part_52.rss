@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 18 Apr 2025 23:16:50 GMT</pubDate>
-		<lastBuildDate>Fri, 18 Apr 2025 23:16:50 GMT</lastBuildDate>
+		<pubDate>Mon, 21 Apr 2025 14:18:18 GMT</pubDate>
+		<lastBuildDate>Mon, 21 Apr 2025 14:18:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC, Submittal of Approved "-A" Version of Topical Report "Rod Ejection Accident Methodology," TR-0716-50350-A, Revision 3</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25101A005</link>
+			<description>Legal-Affidavit, Letter, Topical Report</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-04-21 09:41:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC - Part 1, "General and Financial Information," Revision 2</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25099A238</link>
@@ -213,13 +220,6 @@
 			<description>Response to Request for Additional Information (RAI), Audit Report</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-04-17 13:30:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC - Response to SDAA Audit Question Number DWO-SC-34</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25013A237</link>
-			<description>Response to Request for Additional Information (RAI), Audit Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-04-17 12:32:00</pubDate>
 		</item>
 	</channel>
 </rss>

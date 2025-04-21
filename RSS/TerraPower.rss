@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 18 Apr 2025 23:16:58 GMT</pubDate>
-		<lastBuildDate>Fri, 18 Apr 2025 23:16:58 GMT</lastBuildDate>
+		<pubDate>Mon, 21 Apr 2025 14:18:26 GMT</pubDate>
+		<lastBuildDate>Mon, 21 Apr 2025 14:18:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -101,13 +101,6 @@
 			<description>ACRS Summary Report, Letter, Meeting Summary</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-04-08 10:13:00</pubDate>
-		</item>
-		<item>
-			<title>Declaring a National Energy Emergency Monthly Status Update Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25078A177</link>
-			<description>Status Report</description>
-			<author>NRC/Chairman</author>
-			<pubDate>2025-04-07 08:13:00</pubDate>
 		</item>
 	</channel>
 </rss>
