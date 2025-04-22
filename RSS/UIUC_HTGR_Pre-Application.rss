@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 21 Apr 2025 23:16:48 GMT</pubDate>
-		<lastBuildDate>Mon, 21 Apr 2025 23:16:48 GMT</lastBuildDate>
+		<pubDate>Tue, 22 Apr 2025 14:18:53 GMT</pubDate>
+		<lastBuildDate>Tue, 22 Apr 2025 14:18:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Letter</description>
 			<author>Univ of Illinois - Urbana - Champaign</author>
 			<pubDate>2025-04-21 09:41:00</pubDate>
-		</item>
-		<item>
-			<title>University of Illinois at Urbana-Champaign, Final Safety Evaluation of Fuel Qualification Methodology Topical Report (Redacted)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25077A168</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2025-04-08 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>University of Illinois at Urbana-Champaign, Transmittal of Final Safety Evaluation of Fuel Qualification Methodology Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25077A166</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2025-04-08 08:03:00</pubDate>
 		</item>
 	</channel>
 </rss>

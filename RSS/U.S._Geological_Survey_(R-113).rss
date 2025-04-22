@@ -5,25 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 21 Apr 2025 23:16:49 GMT</pubDate>
-		<lastBuildDate>Mon, 21 Apr 2025 23:16:49 GMT</lastBuildDate>
+		<pubDate>Tue, 22 Apr 2025 14:18:54 GMT</pubDate>
+		<lastBuildDate>Tue, 22 Apr 2025 14:18:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>U.S. Geological Survey TRIGA Reactor - Reactor Supervisor Change</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25104A230</link>
+			<description>Memoranda</description>
+			<author>US Dept of Interior, Geological Survey (USGS), US Dept of Interior, Rocky Mountain Region, Denver Federal Center</author>
+			<pubDate>2025-04-22 08:01:00</pubDate>
+		</item>
 		<item>
 			<title>U.S. Geological Survey, TRIGA Reactor, NRC Approved Reviewing Official Change Request</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25099A121</link>
 			<description>Letter</description>
 			<author>US Dept of Interior, Geological Survey (USGS)</author>
 			<pubDate>2025-04-17 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>U.S. Geological Survey TRIGA Reactor, Annual Report Submittal in Accordance with Technical Specification 6.7.1 Rev. 00</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25090A304</link>
-			<description>Annual Operating Report, Letter</description>
-			<author>US Dept of Interior, Geological Survey (USGS)</author>
-			<pubDate>2025-04-08 08:02:00</pubDate>
 		</item>
 	</channel>
 </rss>

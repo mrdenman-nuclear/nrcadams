@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 21 Apr 2025 23:16:58 GMT</pubDate>
-		<lastBuildDate>Mon, 21 Apr 2025 23:16:58 GMT</lastBuildDate>
+		<pubDate>Tue, 22 Apr 2025 14:19:00 GMT</pubDate>
+		<lastBuildDate>Tue, 22 Apr 2025 14:19:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -136,20 +136,6 @@
 			<description>Environmental Report</description>
 			<author>Long Mott Energy, LLC</author>
 			<pubDate>2025-04-16 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Approved TerraPower, LLC Topical Report Plume Exposure Pathway Emergency Planning Zone Methodology</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25104A001</link>
-			<description>Letter, Topical Report</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-04-15 12:18:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Approved TerraPower, LLC Topical Report Plume Exposure Pathway Emergency Planning Zone Methodology</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25104A001</link>
-			<description>Letter, Topical Report</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-04-15 12:18:00</pubDate>
 		</item>
 	</channel>
 </rss>
