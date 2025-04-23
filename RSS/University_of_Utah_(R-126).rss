@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 22 Apr 2025 23:29:26 GMT</pubDate>
-		<lastBuildDate>Tue, 22 Apr 2025 23:29:26 GMT</lastBuildDate>
+		<pubDate>Wed, 23 Apr 2025 14:19:40 GMT</pubDate>
+		<lastBuildDate>Wed, 23 Apr 2025 14:19:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>University of Utah TRIGA Reactor - Change to Security Plan under 10 CFR 50.54(p)(2) and Submission of Facility Security Plan Rev. 12 for NRC Approval</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25111A159</link>
+			<description>Letter</description>
+			<author>Univ of Utah</author>
+			<pubDate>2025-04-23 09:41:00</pubDate>
+		</item>
+	</channel>
 </rss>

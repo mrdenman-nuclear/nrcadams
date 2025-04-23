@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 22 Apr 2025 23:29:33 GMT</pubDate>
-		<lastBuildDate>Tue, 22 Apr 2025 23:29:33 GMT</lastBuildDate>
+		<pubDate>Wed, 23 Apr 2025 14:19:49 GMT</pubDate>
+		<lastBuildDate>Wed, 23 Apr 2025 14:19:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Wolf Creek Generating Station - Integrated Inspection Report 05000482/2024003 - Revised</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25101A052</link>
+			<description>Enforcement Action, Inspection Report, Letter</description>
+			<author>NRC/RGN-IV/DORS/PBB</author>
+			<pubDate>2025-04-23 08:02:00</pubDate>
+		</item>
 		<item>
 			<title>2. 2024 NRC Audit Observation Report of SwRI Audit of CNWRA</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25079A139</link>
@@ -87,55 +94,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DEX/EXHB</author>
 			<pubDate>2025-04-17 13:30:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Energy, LLC, Construction Permit Application, Part VI Supplemental Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25090A066</link>
-			<description>Report, Technical</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2025-04-16 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Energy, LLC, Construction Permit Application, Part II Preliminary Safety Analysis Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25090A061</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2025-04-16 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Energy, LLC, Construction Permit Application, Part VI Supplemental Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25090A066</link>
-			<description>Report, Technical</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2025-04-16 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Energy, LLC, Construction Permit Application, Part II Preliminary Safety Analysis Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25090A061</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2025-04-16 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Energy, LLC, Construction Permit Application, Part III Environmental Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25090A063</link>
-			<description>Environmental Report</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2025-04-16 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>SCALE Lattice Physics Code Assessments of Accident-Tolerant Fuels</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25093A056</link>
-			<description>Slides and Viewgraphs</description>
-			<author>Oak Ridge National Lab (ORNL)</author>
-			<pubDate>2025-04-16 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Energy, LLC, Construction Permit Application, Part III Environmental Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25090A063</link>
-			<description>Environmental Report</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2025-04-16 08:04:00</pubDate>
 		</item>
 	</channel>
 </rss>
