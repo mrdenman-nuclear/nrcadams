@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 23 Apr 2025 23:17:34 GMT</pubDate>
-		<lastBuildDate>Wed, 23 Apr 2025 23:17:34 GMT</lastBuildDate>
+		<pubDate>Thu, 24 Apr 2025 14:17:50 GMT</pubDate>
+		<lastBuildDate>Thu, 24 Apr 2025 14:17:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Letter</description>
 			<author>NRC/RGN-IV/DRSS</author>
 			<pubDate>2025-04-14 08:14:00</pubDate>
-		</item>
-		<item>
-			<title>Request For Review And Comment On Draft Environmental Assessment Affecting The U.S. Environmental Protection Agency's Underground Injection Control Program</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25092A253</link>
-			<description>Letter</description>
-			<author>NRC/RGN-IV/ORA</author>
-			<pubDate>2025-04-10 08:11:00</pubDate>
 		</item>
 	</channel>
 </rss>
