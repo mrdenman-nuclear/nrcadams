@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 24 Apr 2025 20:21:11 GMT</pubDate>
-		<lastBuildDate>Thu, 24 Apr 2025 20:21:11 GMT</lastBuildDate>
+		<pubDate>Thu, 24 Apr 2025 21:17:41 GMT</pubDate>
+		<lastBuildDate>Thu, 24 Apr 2025 21:17:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Examination Report Letter No. 50-182/OL-23-01, Purdue University</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22354A008</link>
+			<description>License-Operator Examination Report (Non-Power Reactors Only), License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2025-04-24 16:21:00</pubDate>
+		</item>
+		<item>
+			<title>Examination Results Letter No. 50-182/OL-23-01, Purdue University</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22354A009</link>
+			<description>License-Operator Examination Report (Non-Power Reactors Only), License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2025-04-24 16:21:00</pubDate>
+		</item>
+	</channel>
 </rss>
