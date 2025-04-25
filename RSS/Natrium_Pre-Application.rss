@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 24 Apr 2025 23:17:11 GMT</pubDate>
-		<lastBuildDate>Thu, 24 Apr 2025 23:17:11 GMT</lastBuildDate>
+		<pubDate>Fri, 25 Apr 2025 14:19:07 GMT</pubDate>
+		<lastBuildDate>Fri, 25 Apr 2025 14:19:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>EMAIL - TerraPower Draft SE - Instrumentation and Control Architecture Design Basis Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25036A035</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-04-11 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>PUBLIC - TerraPower Draft SE for Topical Report NAT-4950, "Instrumentation and Control Architecture and Design Basis Topical Report," Rev 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25036A030</link>
-			<description>Safety Evaluation Report, Draft</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-04-11 08:06:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
