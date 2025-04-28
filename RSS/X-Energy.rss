@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 25 Apr 2025 23:18:40 GMT</pubDate>
-		<lastBuildDate>Fri, 25 Apr 2025 23:18:40 GMT</lastBuildDate>
+		<pubDate>Mon, 28 Apr 2025 14:20:32 GMT</pubDate>
+		<lastBuildDate>Mon, 28 Apr 2025 14:20:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,34 +38,6 @@
 			<description>Annual Operating Report, Letter</description>
 			<author>MIT Nuclear Reactor Laboratory</author>
 			<pubDate>2025-04-16 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>M250410: Transcript - Micro-Reactors: Current Status and Moving Forward</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25104A260</link>
-			<description>Commission Meeting Transcript</description>
-			<author>NRC/OCM</author>
-			<pubDate>2025-04-14 16:21:00</pubDate>
-		</item>
-		<item>
-			<title>X-Energy, LLC, Submittal of  Principal Design Criteria Licensing Topical Report, Revision 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25094A193</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-04-14 08:14:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Affidavit Supporting Request for Withholding from Public Disclosure (10 CFR 2.390)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25094A194</link>
-			<description>Legal-Affidavit</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-04-14 08:14:00</pubDate>
-		</item>
-		<item>
-			<title>Status Report on the Licensing Activities and Regulatory Duties of the U.S. Nuclear Regulatory Commission for the Reporting Period of October 1, 2024, through December 31, 2024 - Enclosure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25076A148</link>
-			<description>Report, Technical</description>
-			<author>NRC/OCM/DAW</author>
-			<pubDate>2025-04-14 08:14:00</pubDate>
 		</item>
 	</channel>
 </rss>

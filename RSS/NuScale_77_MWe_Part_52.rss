@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 25 Apr 2025 23:18:34 GMT</pubDate>
-		<lastBuildDate>Fri, 25 Apr 2025 23:18:34 GMT</lastBuildDate>
+		<pubDate>Mon, 28 Apr 2025 14:20:29 GMT</pubDate>
+		<lastBuildDate>Mon, 28 Apr 2025 14:20:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Staff -A Verification Form 896 for NuScale Topical Report TR-0716-50350-P-A, Revision 3 "Rod Ejection Accident Methodology"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25104A065</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2025-04-28 08:22:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC, Submittal of Topical Report "Extended Passive Cooling and Reactivity Control Methodology," TR-124587, Revision 1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25087A228</link>
@@ -213,13 +220,6 @@
 			<description>Final Safety Analysis Report (FSAR)</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-04-18 08:15:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC - Response to SDAA Audit Question Number DWO-SC-35</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25013A239</link>
-			<description>Response to Request for Additional Information (RAI), Audit Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-04-17 13:30:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 25 Apr 2025 23:18:34 GMT</pubDate>
-		<lastBuildDate>Fri, 25 Apr 2025 23:18:34 GMT</lastBuildDate>
+		<pubDate>Mon, 28 Apr 2025 14:20:29 GMT</pubDate>
+		<lastBuildDate>Mon, 28 Apr 2025 14:20:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>TP-LIC-PRSNT-0044 - Natrium Mechanistic Source Term Methodology - ACRS Full Committee Meeting Presentation - May 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25115A232</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2025-04-28 09:32:00</pubDate>
+		</item>
+	</channel>
 </rss>
