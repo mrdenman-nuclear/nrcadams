@@ -1,12 +1,12 @@
 pandoc: 3.1.11
-pkgdown: 2.1.1
+pkgdown: 2.1.2
 pkgdown_sha: ~
 articles:
   Analytics: Analytics.html
   nrcadams: nrcadams.html
   Real_Time: Real_Time.html
   RSS: RSS.html
-last_built: 2025-04-28T16:18Z
+last_built: 2025-04-28T17:14Z
 urls:
   reference: https://mrdenman-nuclear.github.io/nrcadams/reference
   article: https://mrdenman-nuclear.github.io/nrcadams/articles
