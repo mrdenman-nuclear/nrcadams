@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 29 Apr 2025 23:16:58 GMT</pubDate>
-		<lastBuildDate>Tue, 29 Apr 2025 23:16:58 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Apr 2025 14:19:34 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Apr 2025 14:19:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,13 +73,6 @@
 			<description>Report, Technical, Research Information Letter (RIL)</description>
 			<author>Center for Nuclear Waste Regulatory Analyses (CNWRA), NRC/RES/DE/SGSEB, Pacific Northwest National Lab, Southwest Research Institute, Virginia Tech</author>
 			<pubDate>2025-04-17 08:34:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of the Advisory Committee on Reactor Safeguards Digital I&C and Electrical Systems Subcommittee Meeting, March 20, 2025, Pages 1-115 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25106A296</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-04-16 15:34:00</pubDate>
 		</item>
 	</channel>
 </rss>

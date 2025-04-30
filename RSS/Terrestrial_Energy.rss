@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 29 Apr 2025 23:16:58 GMT</pubDate>
-		<lastBuildDate>Tue, 29 Apr 2025 23:16:58 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Apr 2025 14:19:34 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Apr 2025 14:19:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Oyster Creek Nuclear Generating Station, Annual Radiological Environmental Operating Report for 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25112A188</link>
+			<description>Annual Operating Report, Environmental Monitoring Report, Letter</description>
+			<author>Holtec Decommissioning International, LLC</author>
+			<pubDate>2025-04-30 08:06:00</pubDate>
+		</item>
+		<item>
+			<title>Susquehanna Steam Electric Station - Annual Radiological Environmental Operating Report (PLA-8174)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25112A088</link>
+			<description>Environmental Monitoring Report, Letter</description>
+			<author>Susquehanna Nuclear, LLC, Talen Energy</author>
+			<pubDate>2025-04-30 08:05:00</pubDate>
+		</item>
+		<item>
+			<title>Susquehanna Steam Electric Station - Annual Environmental Operating Report (Nonradiological) - PLA-8173</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25112A093</link>
+			<description>Environmental Monitoring Report, Letter</description>
+			<author>Susquehanna Nuclear, LLC, Talen Energy</author>
+			<pubDate>2025-04-30 08:05:00</pubDate>
+		</item>
 		<item>
 			<title>LaSalle County Station, Units 1 and 2 - 2024 Annual Radioactive Effluent Release Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25118A044</link>
@@ -164,34 +185,6 @@
 			<description>Environmental Monitoring Report, Letter</description>
 			<author>Dominion Energy, Dominion Energy Nuclear Connecticut, Inc</author>
 			<pubDate>2025-04-18 08:15:00</pubDate>
-		</item>
-		<item>
-			<title>Watts Bar, Unit 2, Current Facility Operating License NPF-96, Tech Specs, Revised 04/16/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML15301A140</link>
-			<description>Environmental Protection Plan, Letter, License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR/DORL</author>
-			<pubDate>2025-04-16 09:31:00</pubDate>
-		</item>
-		<item>
-			<title>Watts Bar, Unit 1, Current Facility Operating License NPF-90, Tech Specs, Revised 04/16/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052930169</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-04-16 09:17:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Energy, LLC, Construction Permit Application, Part III Environmental Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25090A063</link>
-			<description>Environmental Report</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2025-04-16 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>Columbia, Current Facility Operating License NPF-21, Technical Specifications, Revised 04/16/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053130319</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-04-16 07:19:00</pubDate>
 		</item>
 	</channel>
 </rss>

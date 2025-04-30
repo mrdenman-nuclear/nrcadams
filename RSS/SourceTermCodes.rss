@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 29 Apr 2025 23:17:01 GMT</pubDate>
-		<lastBuildDate>Tue, 29 Apr 2025 23:17:01 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Apr 2025 14:19:37 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Apr 2025 14:19:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Report, Technical</description>
 			<author>Long Mott Energy, LLC</author>
 			<pubDate>2025-04-28 10:00:00</pubDate>
-		</item>
-		<item>
-			<title>Wolf Creek Generating Station - Integrated Inspection Report 05000482/2024003 - Revised</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25101A052</link>
-			<description>Enforcement Action, Inspection Report, Letter</description>
-			<author>NRC/RGN-IV/DORS/PBB</author>
-			<pubDate>2025-04-23 08:02:00</pubDate>
 		</item>
 	</channel>
 </rss>
