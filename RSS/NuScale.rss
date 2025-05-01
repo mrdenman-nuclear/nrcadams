@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 30 Apr 2025 23:18:42 GMT</pubDate>
-		<lastBuildDate>Wed, 30 Apr 2025 23:18:42 GMT</lastBuildDate>
+		<pubDate>Thu, 01 May 2025 14:18:36 GMT</pubDate>
+		<lastBuildDate>Thu, 01 May 2025 14:18:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 3 -2-18-25 - SMR 300 Public Meeting Summary</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25080A030</link>
+			<description>Meeting Summary</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2025-05-01 08:07:00</pubDate>
+		</item>
 		<item>
 			<title>Email of -A Verification Form 896 for TR-0716-50350-P-A, Rev 3</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25104A064</link>
@@ -38,20 +45,6 @@
 			<description>Report, Miscellaneous</description>
 			<author>NRC/RES</author>
 			<pubDate>2025-04-22 10:30:00</pubDate>
-		</item>
-		<item>
-			<title>March-6-Met-Meeting-Summary (003).</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25098A041</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DEX/EXHB</author>
-			<pubDate>2025-04-17 13:30:00</pubDate>
-		</item>
-		<item>
-			<title>Prohibited Security List (April 2025 Update)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25104A273</link>
-			<description>Report, Miscellaneous</description>
-			<author>NRC/OGC</author>
-			<pubDate>2025-04-17 09:32:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,25 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 30 Apr 2025 23:18:45 GMT</pubDate>
-		<lastBuildDate>Wed, 30 Apr 2025 23:18:45 GMT</lastBuildDate>
+		<pubDate>Thu, 01 May 2025 14:18:37 GMT</pubDate>
+		<lastBuildDate>Thu, 01 May 2025 14:18:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>IMC 2562, Light-Water Reactor Inspection Program for Restart of Reactor Facilities following Permanent Cessation of Power Operations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25017A231</link>
+			<title>IP 81608 Reporting of Safeguards Events - Non-Power Reactors</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25114A178</link>
 			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRIB</author>
-			<pubDate>2025-04-24 12:31:00</pubDate>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2025-05-01 08:07:00</pubDate>
 		</item>
 		<item>
-			<title>Table of Contents for Inspection Manual Change Notice 25-009</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25113A143</link>
+			<title>IMC 2501 Inspection Activities Following Acceptance of a Docketed Application for a Permit, License, or NRC Authorization</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25114A243</link>
 			<description>Inspection Manual</description>
+			<author>NRC/NRR/DRO/IQVB</author>
+			<pubDate>2025-05-01 08:07:00</pubDate>
+		</item>
+		<item>
+			<title>Table of Contents for Inspection Manual Change Notice 25-010</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25120A223</link>
+			<description>Graphics incl Charts and Tables, Inspection Manual</description>
 			<author>NRC/NRR/DRO/IRIB</author>
-			<pubDate>2025-04-24 12:31:00</pubDate>
+			<pubDate>2025-05-01 08:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
