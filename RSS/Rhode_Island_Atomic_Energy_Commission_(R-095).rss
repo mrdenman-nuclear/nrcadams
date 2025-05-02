@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 01 May 2025 23:17:44 GMT</pubDate>
-		<lastBuildDate>Thu, 01 May 2025 23:17:44 GMT</lastBuildDate>
+		<pubDate>Fri, 02 May 2025 14:19:29 GMT</pubDate>
+		<lastBuildDate>Fri, 02 May 2025 14:19:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Rhode Island Atomic Energy Commission - US Nuclear Regulatory Commission Safety Inspection Report No 05000193/2025201 Cover letter and Enclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25115A004</link>
+			<description>Inspection Report, Letter</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2025-05-02 08:07:00</pubDate>
+		</item>
+	</channel>
 </rss>

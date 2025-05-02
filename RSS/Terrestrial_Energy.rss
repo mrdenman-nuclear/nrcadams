@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 01 May 2025 23:17:48 GMT</pubDate>
-		<lastBuildDate>Thu, 01 May 2025 23:17:48 GMT</lastBuildDate>
+		<pubDate>Fri, 02 May 2025 14:19:34 GMT</pubDate>
+		<lastBuildDate>Fri, 02 May 2025 14:19:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>FWS to NRC Clinton License Renewal Concurrence Letter</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25121A276</link>
+			<description>Letter</description>
+			<author>US Dept of Interior, Fish and Wildlife Service</author>
+			<pubDate>2025-05-02 08:08:00</pubDate>
+		</item>
+		<item>
+			<title>Salem Generating Station, Units 1 and 2, Hope Creek Generating, Submittal of 2024 Annual Radiological Environmental Operating Report (AREOR)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25114A232</link>
+			<description>Annual Operating Report, Environmental Monitoring Report, Letter</description>
+			<author>PSEG Nuclear, LLC</author>
+			<pubDate>2025-05-02 08:06:00</pubDate>
+		</item>
 		<item>
 			<title>Joseph M. Farley, Unit 1, Current Facility Operating License NPF-2, Tech Specs, Revised 05/01/2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052780033</link>
@@ -164,55 +178,6 @@
 			<description>Committee Letter Report</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-04-21 13:31:00</pubDate>
-		</item>
-		<item>
-			<title>Donald C. Cook, Unit 2, Current Facility Operating License No. DPR-74, Tech Specs, Revised 04/18/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053050307</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-04-18 13:02:00</pubDate>
-		</item>
-		<item>
-			<title>Donald C. Cook, Unit 1, Current Facility Operating License No. DPR-58, Tech Specs, Revised 04/18/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053050305</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-04-18 12:58:00</pubDate>
-		</item>
-		<item>
-			<title>North Anna Power Station, Units 1 and 2, Independent Spent Fuel Storage Installation (ISFSI) - Annual Radiological Environmental Operating Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25107A293</link>
-			<description>Environmental Monitoring Report, Letter, Periodic Monitoring Report (Radiological/Environmental)</description>
-			<author>Virginia Electric and Power Co (VEPCO)</author>
-			<pubDate>2025-04-18 09:36:00</pubDate>
-		</item>
-		<item>
-			<title>Millstone Power Station Units 1, 2, And 3, 2024 Annual Radioactive Effluent Release Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25100A233</link>
-			<description>Environmental Monitoring Report, Letter, Periodic Monitoring Report (Radiological/Environmental)</description>
-			<author>Dominion Energy Nuclear Connecticut, Inc</author>
-			<pubDate>2025-04-18 08:16:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure: Palisades Construction Permit Application: Site Environmental Characterization Update</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25105A120</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2025-04-18 08:16:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC - Part 2, Chapter 1, "Introduction and General Description of the Plant," Revision 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25099A239</link>
-			<description>Final Safety Analysis Report (FSAR)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-04-18 08:15:00</pubDate>
-		</item>
-		<item>
-			<title>Millstone Power Station, Units 1, 2 and 3 - 2024 Annual Radiological Environmental Operating Report (REOR)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25100A181</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Dominion Energy, Dominion Energy Nuclear Connecticut, Inc</author>
-			<pubDate>2025-04-18 08:15:00</pubDate>
 		</item>
 	</channel>
 </rss>
