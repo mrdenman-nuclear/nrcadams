@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 05 May 2025 22:17:28 GMT</pubDate>
-		<lastBuildDate>Mon, 05 May 2025 22:17:28 GMT</lastBuildDate>
+		<pubDate>Mon, 05 May 2025 22:58:33 GMT</pubDate>
+		<lastBuildDate>Mon, 05 May 2025 22:58:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,6 +17,13 @@
 			<description>Report, Technical</description>
 			<author>Abilene Christian University, Nuclear Energy eXperimental Testing Lab</author>
 			<pubDate>2025-05-05 12:55:00</pubDate>
+		</item>
+		<item>
+			<title>Submittal of the Environmental Report in Support of the Clinch River Nuclear Site Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25118A209</link>
+			<description>Environmental Monitoring Report, Letter, License-Construction Permit (CP)(New/Extension/Amendment) DKT 50</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-05-05 10:31:00</pubDate>
 		</item>
 		<item>
 			<title>Submittal of the Environmental Report in Support of the Clinch River Nuclear Site Construction Permit Application</title>
@@ -136,6 +143,13 @@
 			<description>Letter</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2025-04-29 15:19:00</pubDate>
+		</item>
+		<item>
+			<title>May 6, 2025 NRC Public Outreach Meeting Slides, Clinch River CP Application Review</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25118A337</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NMSS, NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2025-04-29 14:16:00</pubDate>
 		</item>
 		<item>
 			<title>Cover Letter – TRISO-X, LLC, Response to Request for Additional Information Set 10 (Electrical and Digital Instrumentation and Control) for the TRISO-X License Application</title>
