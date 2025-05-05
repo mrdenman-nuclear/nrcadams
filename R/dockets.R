@@ -52,7 +52,8 @@ docket_codex = tibble::tribble(
   "Aalo-1 Pre-Application","Aalo", 99902128, TRUE,
   "RELLIS ESP Pre-Application", "TAMU", 99902136, FALSE,
   "Natura Pre-Application", "Natura Resources", 99902122, TRUE,
-  "BWRX-300 Clinch River Part 50", "GE", 05000537, FALSE
+  "BWRX-300 Clinch River Pre-Application", "TVA", 99902056, FALSE,
+  "BWRX-300 Clinch River Part 50", "TVA", 05000537, FALSE
 )
 
 #' Codex of Research and Test Reactor Docket Numbers
