@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 05 May 2025 18:19:52 GMT</pubDate>
-		<lastBuildDate>Mon, 05 May 2025 18:19:52 GMT</lastBuildDate>
+		<pubDate>Mon, 05 May 2025 19:14:56 GMT</pubDate>
+		<lastBuildDate>Mon, 05 May 2025 19:14:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>San Onofre Nuclear Generating Station (SONGS), Units 1, 2, and 3 - 2024 Annual Radioactive Effluent Release Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25122A175</link>
+			<description>Calculation, Environmental Monitoring Report, Letter, Manual, Periodic Monitoring Report (Radiological/Environmental)</description>
+			<author>Southern California Edison Co</author>
+			<pubDate>2025-05-05 14:48:00</pubDate>
+		</item>
 		<item>
 			<title>Diablo Canyon Power Plant, Units 1 and 2 - 2024 Annual Radiological Environmental Operating Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25115A186</link>
@@ -213,13 +220,6 @@
 			<description>Legal-Report</description>
 			<author>NRC/OGC, US Dept of Justice, Environment and Natural Resources Div, US Dept of Justice, Office of the Attorney General</author>
 			<pubDate>2025-04-22 09:37:00</pubDate>
-		</item>
-		<item>
-			<title>Columbia Generating Station - 2024 Annual Radiactive Effluent Release Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25104A281</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Energy Northwest</author>
-			<pubDate>2025-04-22 08:01:00</pubDate>
 		</item>
 	</channel>
 </rss>
