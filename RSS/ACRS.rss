@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 02 May 2025 23:17:07 GMT</pubDate>
-		<lastBuildDate>Fri, 02 May 2025 23:17:07 GMT</lastBuildDate>
+		<pubDate>Mon, 05 May 2025 14:19:27 GMT</pubDate>
+		<lastBuildDate>Mon, 05 May 2025 14:19:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,13 +52,6 @@
 			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-04-22 12:38:00</pubDate>
-		</item>
-		<item>
-			<title>Terrestrial Energy’s Principal Design Criteria For The Integral Molten Salt Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25099A144</link>
-			<description>Committee Letter Report</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-04-21 13:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

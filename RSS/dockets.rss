@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 02 May 2025 23:17:06 GMT</pubDate>
-		<lastBuildDate>Fri, 02 May 2025 23:17:06 GMT</lastBuildDate>
+		<pubDate>Mon, 05 May 2025 14:19:25 GMT</pubDate>
+		<lastBuildDate>Mon, 05 May 2025 14:19:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submittal of Aalo Holdings, Inc. Presentation, Aalo Regulatory Engagement Plan Discussion</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25115A239</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>Aalo Holdings, Inc</author>
+			<pubDate>2025-05-05 08:53:00</pubDate>
+		</item>
+		<item>
+			<title>05/08/2025 Public Meeting with SMR (Holtec) to Discuss SMR-300 Fire Analyses Plan</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25125A035</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-05-05 08:52:00</pubDate>
+		</item>
 		<item>
 			<title>06/25/2025 Pre-submittal Meeting with Kairos Power LLC on a Proposed Exemption to 10 CFR 70.24</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25122A094</link>
@@ -110,13 +124,6 @@
 			<pubDate>2025-04-29 15:19:00</pubDate>
 		</item>
 		<item>
-			<title>05/08/2025 Public Meeting with SMR (Holtec) to Discuss SMR-300 Fire Analyses Plan</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25119A130</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-04-29 11:14:00</pubDate>
-		</item>
-		<item>
 			<title>Cover Letter – TRISO-X, LLC, Response to Request for Additional Information Set 10 (Electrical and Digital Instrumentation and Control) for the TRISO-X License Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25114A234</link>
 			<description>Letter</description>
@@ -213,13 +220,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2025-04-23 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC Preapplication Meeting Materials for April 23, 2025 (Project No. 99902049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25105A119</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
-			<pubDate>2025-04-23 08:02:00</pubDate>
 		</item>
 	</channel>
 </rss>

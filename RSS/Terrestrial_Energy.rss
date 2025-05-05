@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 02 May 2025 23:17:12 GMT</pubDate>
-		<lastBuildDate>Fri, 02 May 2025 23:17:12 GMT</lastBuildDate>
+		<pubDate>Mon, 05 May 2025 14:19:31 GMT</pubDate>
+		<lastBuildDate>Mon, 05 May 2025 14:19:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Diablo Canyon Power Plant, Units 1 and 2 - 2024 Annual Radiological Environmental Operating Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25115A186</link>
+			<description>Environmental Monitoring Report, Letter</description>
+			<author>Pacific Gas and Electric Co</author>
+			<pubDate>2025-05-05 08:53:00</pubDate>
+		</item>
+		<item>
+			<title>Diablo Canyon, Unit 1, Current Facility Operating License DPR-80, Tech Specs, Revised 05/05/2025.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053140349</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-05-05 07:20:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 3, Oyster Creek Historical Site Assessment, Revision 2, November 2021</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25119A270</link>
@@ -206,13 +220,6 @@
 			<description>Environmental Monitoring Report, Letter</description>
 			<author>Energy Northwest</author>
 			<pubDate>2025-04-22 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>Terrestrial Energy’s Principal Design Criteria For The Integral Molten Salt Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25099A144</link>
-			<description>Committee Letter Report</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-04-21 13:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
