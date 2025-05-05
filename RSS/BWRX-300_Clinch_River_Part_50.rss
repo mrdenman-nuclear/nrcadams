@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <rss version="2.0">
 	<channel>
-		<title>RELLIS ESP Pre-Application</title>
+		<title>BWRX-300 Clinch River Part 50</title>
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
@@ -11,5 +11,12 @@
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Submittal of the Environmental Report in Support of the Clinch River Nuclear Site Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25118A209</link>
+			<description>Environmental Monitoring Report, Letter, License-Construction Permit (CP)(New/Extension/Amendment) DKT 50</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-05-05 10:31:00</pubDate>
+		</item>
+	</channel>
 </rss>
