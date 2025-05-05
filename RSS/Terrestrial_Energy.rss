@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 05 May 2025 19:14:56 GMT</pubDate>
-		<lastBuildDate>Mon, 05 May 2025 19:14:56 GMT</lastBuildDate>
+		<pubDate>Mon, 05 May 2025 20:19:36 GMT</pubDate>
+		<lastBuildDate>Mon, 05 May 2025 20:19:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Crow Butte Resources, Inc., Application for 2024 License Renewal</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25120A427</link>
+			<description>License-Application for License (Amend/Renewal/New) DKT 40</description>
+			<author>Crow Butte Resources, Inc</author>
+			<pubDate>2025-05-05 15:50:00</pubDate>
+		</item>
+		<item>
+			<title>Crow Butte Project and Marsland Expansion Area - Application for 2024 License Renewal</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25120A428</link>
+			<description>License-Application for (Amend/Renewal/New) for DKT 30, 40, 70</description>
+			<author>Crow Butte Resources, Inc</author>
+			<pubDate>2025-05-05 15:50:00</pubDate>
+		</item>
 		<item>
 			<title>San Onofre Nuclear Generating Station (SONGS), Units 1, 2, and 3 - 2024 Annual Radioactive Effluent Release Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25122A175</link>
@@ -206,20 +220,6 @@
 			<description>NUREG</description>
 			<author>NRC/ADM</author>
 			<pubDate>2025-04-23 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>Initial Brief for Federal Respondents</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25111A234</link>
-			<description>Legal-Report</description>
-			<author>NRC/OGC</author>
-			<pubDate>2025-04-22 09:37:00</pubDate>
-		</item>
-		<item>
-			<title>Federal Respondents' Separate Addendum of Statutes and Regulations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25111A235</link>
-			<description>Legal-Report</description>
-			<author>NRC/OGC, US Dept of Justice, Environment and Natural Resources Div, US Dept of Justice, Office of the Attorney General</author>
-			<pubDate>2025-04-22 09:37:00</pubDate>
 		</item>
 	</channel>
 </rss>
