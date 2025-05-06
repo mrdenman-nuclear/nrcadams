@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 05 May 2025 23:17:21 GMT</pubDate>
-		<lastBuildDate>Mon, 05 May 2025 23:17:21 GMT</lastBuildDate>
+		<pubDate>Tue, 06 May 2025 14:19:43 GMT</pubDate>
+		<lastBuildDate>Tue, 06 May 2025 14:19:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,20 +38,6 @@
 			<description>Meeting Minutes, Memoranda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-04-23 10:34:00</pubDate>
-		</item>
-		<item>
-			<title>725th Full Committee Meeting of the Advisory Committee on Reactor Safeguards May 6-9, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25097A326</link>
-			<description>Federal Register Notice, Meeting Notice</description>
-			<author>NRC/ACRS, NRC/SECY</author>
-			<pubDate>2025-04-22 16:16:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of Advisory Committee on Reactor Safeguards - NuScale Design-Centered Subcommittee Meeting, April 1, 2025, Pages 1-326 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25112A136</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-04-22 12:38:00</pubDate>
 		</item>
 	</channel>
 </rss>

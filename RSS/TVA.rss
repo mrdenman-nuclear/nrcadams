@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 05 May 2025 23:17:25 GMT</pubDate>
-		<lastBuildDate>Mon, 05 May 2025 23:17:25 GMT</lastBuildDate>
+		<pubDate>Tue, 06 May 2025 14:19:47 GMT</pubDate>
+		<lastBuildDate>Tue, 06 May 2025 14:19:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Acceptance Review Results for Sequoyah Nuclear Plant, Units 1 and 2, Revised Request for Alternative RV-02 for Pressure Isolation Valves (EPID L-2025-LLR-0039)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25119A061</link>
+			<description>Acceptance Review Letter, E-Mail</description>
+			<author>NRC/NRR/DORL/LPLII-2</author>
+			<pubDate>2025-05-06 08:05:00</pubDate>
+		</item>
+		<item>
+			<title>Polaris-PARCS Sensitivity Study on LWR Fuel Cycles Polaris Input Options</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25113A192</link>
+			<description>Report, Technical</description>
+			<author>Oak Ridge National Lab (ORNL)</author>
+			<pubDate>2025-05-06 08:04:00</pubDate>
+		</item>
 		<item>
 			<title>Louisiana Energy Services, LLC., dba Urenco USA, Semi-Annual Safety Analysis Report (SAR) Update</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25122A195</link>
@@ -143,27 +157,6 @@
 			<description>Letter</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2025-04-24 08:02:00</pubDate>
-		</item>
-		<item>
-			<title>SLR Efficiencies Public Meeting - Meeting Summary - March 26, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25106A329</link>
-			<description>Meeting Agenda, Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NLRP</author>
-			<pubDate>2025-04-22 15:33:00</pubDate>
-		</item>
-		<item>
-			<title>Tennessee Valley Authority - Central Emergency Control Center Emergency Plan Implementing Procedure Revisions</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25104A174</link>
-			<description>Emergency Preparedness-Emergency Plan Implementing Procedures, Letter</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-04-22 14:33:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3 - Application for Subsequent Renewed Operating Licenses, Response to Request for Confirmation of Information, Set #3 (EPID; L-2024-SLE-0000)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25104A172</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-04-22 08:01:00</pubDate>
 		</item>
 	</channel>
 </rss>
