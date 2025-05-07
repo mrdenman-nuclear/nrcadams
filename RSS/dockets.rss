@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 07 May 2025 14:20:05 GMT</pubDate>
-		<lastBuildDate>Wed, 07 May 2025 14:20:05 GMT</lastBuildDate>
+		<pubDate>Wed, 07 May 2025 15:20:42 GMT</pubDate>
+		<lastBuildDate>Wed, 07 May 2025 15:20:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Draft Safety Evaluation Of Topical Report Xe-100 Licensing Topical Report Gothic And Flownex Analysis Codes Qualification Rev. 3</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25076A692</link>
+			<description>Letter, Safety Evaluation Report, Draft</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2025-05-07 10:31:00</pubDate>
+		</item>
 		<item>
 			<title>Draft Safety Evaluation of Topical Report 007834 Xe-100 Licensing Topical Report Transient and Safety Analysis Methodology Revision 2 EPID L-2024-TOP-0017</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25062A069</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2025-04-28 09:32:00</pubDate>
-		</item>
-		<item>
-			<title>Staff -A Verification Form 896 for NuScale Topical Report TR-0716-50350-P-A, Revision 3 "Rod Ejection Accident Methodology"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25104A065</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-04-28 08:22:00</pubDate>
 		</item>
 	</channel>
 </rss>
