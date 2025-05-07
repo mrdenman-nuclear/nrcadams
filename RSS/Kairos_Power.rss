@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 May 2025 23:16:50 GMT</pubDate>
-		<lastBuildDate>Tue, 06 May 2025 23:16:50 GMT</lastBuildDate>
+		<pubDate>Wed, 07 May 2025 14:20:11 GMT</pubDate>
+		<lastBuildDate>Wed, 07 May 2025 14:20:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -40,7 +40,7 @@
 			<pubDate>2025-05-06 08:04:00</pubDate>
 		</item>
 		<item>
-			<title>Notice of Screening</title>
+			<title>Notice of Screening (Joseph Azeizat)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25125A138</link>
 			<description>Legal-Correspondence/Miscellaneous</description>
 			<author>Duke Energy Carolinas, LLC, Morgan, Lewis and Bockius, LLP</author>
@@ -73,13 +73,6 @@
 			<description>Legal-Affidavit, Letter</description>
 			<author>Long Mott Energy, LLC</author>
 			<pubDate>2025-04-28 09:43:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-0750, Vol. 100, Nuclear Regulatory Commission Issuances: Opinions and Decisions of the Nuclear Regulatory Commission with Selected Orders (July 1, 2024 - December 31, 2024)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25111A263</link>
-			<description>NUREG</description>
-			<author>NRC/ADM</author>
-			<pubDate>2025-04-23 08:03:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 May 2025 23:16:47 GMT</pubDate>
-		<lastBuildDate>Tue, 06 May 2025 23:16:47 GMT</lastBuildDate>
+		<pubDate>Wed, 07 May 2025 14:20:05 GMT</pubDate>
+		<lastBuildDate>Wed, 07 May 2025 14:20:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Legal-Affidavit, Letter</description>
 			<author>Aalo Holdings, Inc</author>
 			<pubDate>2025-05-05 08:53:00</pubDate>
-		</item>
-		<item>
-			<title>Aalo Regulatory Engagement Plan Discussion</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25113A048</link>
-			<description>Slides and Viewgraphs</description>
-			<author>AALO Atomics, NRC/NRR</author>
-			<pubDate>2025-04-23 10:34:00</pubDate>
 		</item>
 	</channel>
 </rss>
