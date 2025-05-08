@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 07 May 2025 23:17:37 GMT</pubDate>
-		<lastBuildDate>Wed, 07 May 2025 23:17:37 GMT</lastBuildDate>
+		<pubDate>Thu, 08 May 2025 14:19:14 GMT</pubDate>
+		<lastBuildDate>Thu, 08 May 2025 14:19:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure - Licensing Considerations Relating To Use Of Nuclear Energy For Nonelectric Applications</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25055A251</link>
+			<description>Report, Technical</description>
+			<author>NRC/Chairman</author>
+			<pubDate>2025-05-08 08:29:00</pubDate>
+		</item>
 		<item>
 			<title>03/05/2025 Summary Of NRC Public  Workshop On The Emergency Preparedness For Advanced Reactors</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25093A224</link>
@@ -38,13 +45,6 @@
 			<description>Status Report</description>
 			<author>NRC/Chairman</author>
 			<pubDate>2025-05-06 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>RIC 2025 Commissioner Annie Caputo Plenary Transcript</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25114A041</link>
-			<description>Transcript</description>
-			<author>NRC/OCM</author>
-			<pubDate>2025-04-24 12:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
