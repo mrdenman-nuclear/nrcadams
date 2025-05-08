@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 08 May 2025 17:16:47 GMT</pubDate>
-		<lastBuildDate>Thu, 08 May 2025 17:16:47 GMT</lastBuildDate>
+		<pubDate>Thu, 08 May 2025 18:26:38 GMT</pubDate>
+		<lastBuildDate>Thu, 08 May 2025 18:26:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NUREG-1437, Supplement 15, Second Renewal, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants: Regarding Subsequent License Renewal for Virgil C. Summer Nuclear Station, Unit 1" Final Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25128A160</link>
+			<description>NUREG</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2025-05-08 13:33:00</pubDate>
+		</item>
 		<item>
 			<title>St. Lucie, Units 1 and 2 - 2024 Annual Radioactive Effluent Release Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25120A237</link>
@@ -213,13 +220,6 @@
 			<description>Emergency Preparedness-Emergency Plan, Letter, Response to Request for Additional Information (RAI)</description>
 			<author>Holtec Palisades, LLC</author>
 			<pubDate>2025-05-02 15:31:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2, Oyster Creek Nuclear Generating Station, License Termination Plan Request Revision 1, April 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25119A269</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>Holtec Decommissioning International, LLC</author>
-			<pubDate>2025-05-02 14:39:00</pubDate>
 		</item>
 	</channel>
 </rss>
