@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 09 May 2025 14:19:15 GMT</pubDate>
-		<lastBuildDate>Fri, 09 May 2025 14:19:15 GMT</lastBuildDate>
+		<pubDate>Fri, 09 May 2025 15:18:52 GMT</pubDate>
+		<lastBuildDate>Fri, 09 May 2025 15:18:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -145,13 +145,6 @@
 			<pubDate>2025-05-06 09:45:00</pubDate>
 		</item>
 		<item>
-			<title>Declaring a National Energy Emergency - Enclosure April 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25094A063</link>
-			<description>Status Report</description>
-			<author>NRC/Chairman</author>
-			<pubDate>2025-05-06 08:04:00</pubDate>
-		</item>
-		<item>
 			<title>Slides for the Preliminary Findings of the Environmental Review for Clinton Power Station, Unit 1, License Renewal</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25125A229</link>
 			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
@@ -220,6 +213,13 @@
 			<description>Emergency Preparedness-Emergency Plan, Letter, Response to Request for Additional Information (RAI)</description>
 			<author>Holtec Palisades, LLC</author>
 			<pubDate>2025-05-02 15:31:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2, Oyster Creek Nuclear Generating Station, License Termination Plan Request Revision 1, April 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25119A269</link>
+			<description>Response to Request for Additional Information (RAI)</description>
+			<author>Holtec Decommissioning International, LLC</author>
+			<pubDate>2025-05-02 14:39:00</pubDate>
 		</item>
 	</channel>
 </rss>

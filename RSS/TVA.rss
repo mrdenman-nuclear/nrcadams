@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 09 May 2025 14:19:15 GMT</pubDate>
-		<lastBuildDate>Fri, 09 May 2025 14:19:15 GMT</lastBuildDate>
+		<pubDate>Fri, 09 May 2025 15:18:52 GMT</pubDate>
+		<lastBuildDate>Fri, 09 May 2025 15:18:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Sequoyah Nuclear Plant, Units 1 and 2, Annual Radiological Environmental Operating Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25128A182</link>
+			<description>Environmental Monitoring Report, Letter</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-05-09 10:30:00</pubDate>
+		</item>
 		<item>
 			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3, Application for Subsequent Renewed Operating Licenses, Sixth Safety Supplement (EPID L-2024-SLE-0000)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25121A174</link>
@@ -213,13 +220,6 @@
 			<description>Report, Technical</description>
 			<author>Nuclear Energy Institute (NEI)</author>
 			<pubDate>2025-04-29 12:32:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of March 05 2025 - NRC 50.69 Public Meeting Workshop</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A014</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DORL/LLPB</author>
-			<pubDate>2025-04-29 08:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
