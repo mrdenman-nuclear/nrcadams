@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 08 May 2025 23:19:08 GMT</pubDate>
-		<lastBuildDate>Thu, 08 May 2025 23:19:08 GMT</lastBuildDate>
+		<pubDate>Fri, 09 May 2025 14:19:15 GMT</pubDate>
+		<lastBuildDate>Fri, 09 May 2025 14:19:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3, Application for Subsequent Renewed Operating Licenses, Sixth Safety Supplement (EPID L-2024-SLE-0000)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25121A174</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-05-09 08:06:00</pubDate>
+		</item>
+		<item>
+			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3, 2024 Annual Radioactive Effluent Release Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25121A148</link>
+			<description>Environmental Monitoring Report, Letter</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-05-09 08:05:00</pubDate>
+		</item>
 		<item>
 			<title>NUREG-1437, Supplement 15, Second Renewal, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants: Regarding Subsequent License Renewal for Virgil C. Summer Nuclear Station, Unit 1" Final Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25128A160</link>
@@ -206,20 +220,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DORL/LLPB</author>
 			<pubDate>2025-04-29 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of April 16, 2025, Public Meeting with Tennessee Valley Authority to Discuss a Potential Exemption Request Regarding the Use of Potassium Hydroxide for pH Control (EPID L-2025-LRM-0031)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25108A105</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DORL/LPLII-2</author>
-			<pubDate>2025-04-29 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>Notice of Appeal of ASLB Decision LBP-25-04, by Beyond Nuclear, Don't Waste Michigan, Michigan Clean Energy Future, Three Mile Island Alert and Nuclear Energy Information Service, and Brief in Support of Appeal</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25115A265</link>
-			<description>Legal-Pleading</description>
-			<author>Beyond Nuclear, Don't Waste Michigan, Law Offices of Wallace L. Taylor, Nuclear Energy Information Service, Three Mile Island Alert, Inc</author>
-			<pubDate>2025-04-28 09:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
