@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 09 May 2025 15:18:52 GMT</pubDate>
-		<lastBuildDate>Fri, 09 May 2025 15:18:52 GMT</lastBuildDate>
+		<pubDate>Fri, 09 May 2025 16:22:18 GMT</pubDate>
+		<lastBuildDate>Fri, 09 May 2025 16:22:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Point Beach 2nd Draft SEIS Public Meeting May 2025-Updated Preliminary Findings of the Environmental Review for Point Beach Nuclear Plant, Subsequent License Renewal</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25128A046</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NMSS/DREFS/EPMB1</author>
+			<pubDate>2025-05-09 11:21:00</pubDate>
+		</item>
 		<item>
 			<title>NUREG-1437, Supplement 15, Second Renewal, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants: Regarding Subsequent License Renewal for Virgil C. Summer Nuclear Station, Unit 1" Final Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25128A160</link>
@@ -213,13 +220,6 @@
 			<description>Emergency Preparedness-Emergency Plan, Letter, Response to Request for Additional Information (RAI)</description>
 			<author>Holtec Palisades, LLC</author>
 			<pubDate>2025-05-02 15:31:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2, Oyster Creek Nuclear Generating Station, License Termination Plan Request Revision 1, April 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25119A269</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>Holtec Decommissioning International, LLC</author>
-			<pubDate>2025-05-02 14:39:00</pubDate>
 		</item>
 	</channel>
 </rss>
