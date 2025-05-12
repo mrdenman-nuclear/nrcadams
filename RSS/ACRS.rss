@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 09 May 2025 23:17:10 GMT</pubDate>
-		<lastBuildDate>Fri, 09 May 2025 23:17:10 GMT</lastBuildDate>
+		<pubDate>Mon, 12 May 2025 14:20:41 GMT</pubDate>
+		<lastBuildDate>Mon, 12 May 2025 14:20:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Memoranda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-05-01 13:38:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - Human Factors, Reliability, PRA and Advanced Reactors - SC - May 21, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25098A090</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-04-28 10:36:00</pubDate>
 		</item>
 	</channel>
 </rss>

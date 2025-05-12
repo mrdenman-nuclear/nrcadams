@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 09 May 2025 23:17:09 GMT</pubDate>
-		<lastBuildDate>Fri, 09 May 2025 23:17:09 GMT</lastBuildDate>
+		<pubDate>Mon, 12 May 2025 14:20:40 GMT</pubDate>
+		<lastBuildDate>Mon, 12 May 2025 14:20:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>Letter</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2025-04-29 15:19:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal of Response to NRC Audit Question 3-77 on Kemmerer Power Station Unit 1 Preliminary Safety Analysis Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25108A080</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-04-28 08:21:00</pubDate>
 		</item>
 	</channel>
 </rss>
