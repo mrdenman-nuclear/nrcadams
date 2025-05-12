@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 12 May 2025 19:15:49 GMT</pubDate>
-		<lastBuildDate>Mon, 12 May 2025 19:15:49 GMT</lastBuildDate>
+		<pubDate>Mon, 12 May 2025 21:17:48 GMT</pubDate>
+		<lastBuildDate>Mon, 12 May 2025 21:17:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Beach Bottom Energy Center - Annual Radioactive Effluent Release Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25114A210</link>
+			<description>Environmental Monitoring Report</description>
+			<author>Constellation Energy Generation, LLC</author>
+			<pubDate>2025-05-12 16:40:00</pubDate>
+		</item>
+		<item>
+			<title>Attachment 1: 2024 Limerick Generating Station Annual Radioactive Effluent Release Report No. 50</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25120A436</link>
+			<description>Environmental Monitoring Report</description>
+			<author>Constellation Energy Generation, LLC</author>
+			<pubDate>2025-05-12 16:40:00</pubDate>
+		</item>
+		<item>
+			<title>Monticello Nuclear Generating Plant, 2024 Annual Radioactive Effluent Release Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25132A066</link>
+			<description>Environmental Monitoring Report</description>
+			<author>Northern States Power Company, Minnesota, Xcel Energy</author>
+			<pubDate>2025-05-12 16:40:00</pubDate>
+		</item>
 		<item>
 			<title>Clinton Power Station - 2024 Annual Radioactive Effluent Release Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25122A162</link>
@@ -199,27 +220,6 @@
 			<description>License-Application for License (Amend/Renewal/New) DKT 40</description>
 			<author>Crow Butte Resources, Inc</author>
 			<pubDate>2025-05-05 15:50:00</pubDate>
-		</item>
-		<item>
-			<title>Crow Butte Project and Marsland Expansion Area - Application for 2024 License Renewal</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25120A428</link>
-			<description>License-Application for (Amend/Renewal/New) for DKT 30, 40, 70</description>
-			<author>Crow Butte Resources, Inc</author>
-			<pubDate>2025-05-05 15:50:00</pubDate>
-		</item>
-		<item>
-			<title>San Onofre Nuclear Generating Station (SONGS), Units 1, 2, and 3 - 2024 Annual Radioactive Effluent Release Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25122A175</link>
-			<description>Calculation, Environmental Monitoring Report, Letter, Manual, Periodic Monitoring Report (Radiological/Environmental)</description>
-			<author>Southern California Edison Co</author>
-			<pubDate>2025-05-05 14:48:00</pubDate>
-		</item>
-		<item>
-			<title>Diablo Canyon Power Plant, Units 1 and 2 - 2024 Annual Radiological Environmental Operating Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25115A186</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Pacific Gas and Electric Co</author>
-			<pubDate>2025-05-05 08:53:00</pubDate>
 		</item>
 	</channel>
 </rss>
