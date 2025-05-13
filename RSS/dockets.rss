@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 13 May 2025 15:20:15 GMT</pubDate>
-		<lastBuildDate>Tue, 13 May 2025 15:20:15 GMT</lastBuildDate>
+		<pubDate>Tue, 13 May 2025 16:24:10 GMT</pubDate>
+		<lastBuildDate>Tue, 13 May 2025 16:24:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for Abilene Christian University (ACU)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25129A126</link>
+			<description>Letter</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-05-13 11:32:00</pubDate>
+		</item>
 		<item>
 			<title>Long Mott Generating Station CP Application Acceptance Letter</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25115A247</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-05-02 10:17:00</pubDate>
-		</item>
-		<item>
-			<title>News Release-25-020:  NRC Makes Available Long Mott Generating Station Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25121A208</link>
-			<description>Press Release</description>
-			<author>NRC/OPA</author>
-			<pubDate>2025-05-01 15:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
