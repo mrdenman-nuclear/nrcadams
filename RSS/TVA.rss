@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 12 May 2025 23:18:37 GMT</pubDate>
-		<lastBuildDate>Mon, 12 May 2025 23:18:37 GMT</lastBuildDate>
+		<pubDate>Tue, 13 May 2025 14:21:23 GMT</pubDate>
+		<lastBuildDate>Tue, 13 May 2025 14:21:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Acceptance Review Results for Browns Ferry Nuclear Plant, Units 1, 2, and 3, License Amendment Request to Adopt TSTF-423-A, Revision 1 (EPID L-2025-LLA-0070)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25125A217</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DORL/LPLII-2</author>
+			<pubDate>2025-05-13 08:07:00</pubDate>
+		</item>
+		<item>
+			<title>Browns Ferry Nuclear Plant Integrated Inspection Report 05000259/2025001 05000260/2025001 And 05000296/2025001</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25125A068</link>
+			<description>Inspection Report, Letter</description>
+			<author>NRC/RGN-II/DORS</author>
+			<pubDate>2025-05-13 08:07:00</pubDate>
+		</item>
 		<item>
 			<title>Sequoyah Nuclear Plant, Units 1 and 2, Annual Radiological Environmental Operating Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25128A182</link>
@@ -206,20 +220,6 @@
 			<description>Environmental Impact Statement, NUREG</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2025-04-30 17:43:00</pubDate>
-		</item>
-		<item>
-			<title>Response to Request for Confirmation of Information - TVA LAR to Revised Sequoyah Nuclear Plant, Units 1 and 2 and Watts Bar Nuclear Plant, Units 1 and 2, TS LCO 3.5.2, Note 1 (EPID L-2024-LLA-0152)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25112A281</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-04-30 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>NEI October 2024 Power Uprate Survey</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25119A136</link>
-			<description>Report, Technical</description>
-			<author>Nuclear Energy Institute (NEI)</author>
-			<pubDate>2025-04-29 12:32:00</pubDate>
 		</item>
 	</channel>
 </rss>

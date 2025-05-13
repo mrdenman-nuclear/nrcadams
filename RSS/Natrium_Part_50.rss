@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 12 May 2025 23:18:31 GMT</pubDate>
-		<lastBuildDate>Mon, 12 May 2025 23:18:31 GMT</lastBuildDate>
+		<pubDate>Tue, 13 May 2025 14:21:16 GMT</pubDate>
+		<lastBuildDate>Tue, 13 May 2025 14:21:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Federal Register Notice</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2025-05-07 09:33:00</pubDate>
-		</item>
-		<item>
-			<title>Withdrawal of Exemption Request from 10 CFR 51.4 Definition of Construction for Construction of the Natirum Energy Island at Kemmerer Unit 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25119A205</link>
-			<description>Letter</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-04-29 15:19:00</pubDate>
 		</item>
 	</channel>
 </rss>

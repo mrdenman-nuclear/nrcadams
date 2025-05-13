@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 12 May 2025 23:18:37 GMT</pubDate>
-		<lastBuildDate>Mon, 12 May 2025 23:18:37 GMT</lastBuildDate>
+		<pubDate>Tue, 13 May 2025 14:21:23 GMT</pubDate>
+		<lastBuildDate>Tue, 13 May 2025 14:21:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-05-06 09:45:00</pubDate>
-		</item>
-		<item>
-			<title>RIC 2025, E. Redfoot Session, Seismic Solutions: Risk-Informed Site Characterization</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25118A080</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Oklo Inc</author>
-			<pubDate>2025-04-29 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>RIC 2025, C. Araguas Session, Building the Energy Future - Exploring Opportunities for the Safe and Economic Design and Construction of New and Advanced Nuclear Reactors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25118A081</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/RES/DE/SGSEB</author>
-			<pubDate>2025-04-29 08:08:00</pubDate>
 		</item>
 	</channel>
 </rss>
