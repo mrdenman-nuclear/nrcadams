@@ -5,18 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 13 May 2025 23:17:40 GMT</pubDate>
-		<lastBuildDate>Tue, 13 May 2025 23:17:40 GMT</lastBuildDate>
+		<pubDate>Wed, 14 May 2025 14:19:56 GMT</pubDate>
+		<lastBuildDate>Wed, 14 May 2025 14:19:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>NBSR Facility - Licnse Amendment Request</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25112A275</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
-			<pubDate>2025-04-30 08:06:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

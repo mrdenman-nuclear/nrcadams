@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 13 May 2025 23:17:45 GMT</pubDate>
-		<lastBuildDate>Tue, 13 May 2025 23:17:45 GMT</lastBuildDate>
+		<pubDate>Wed, 14 May 2025 14:20:02 GMT</pubDate>
+		<lastBuildDate>Wed, 14 May 2025 14:20:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Watts Bar Nuclear Plant, Units 1 and 2 - Emergency Plan Implementing Procedure Revisions</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25100A142</link>
+			<description>Emergency Preparedness-Emergency Plan Implementing Procedures, Letter</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-05-14 08:00:00</pubDate>
+		</item>
+		<item>
+			<title>Watts Bar Nuclear Plant, Revision 1 Of The Unit 1 Cycle 20 Core Operating Limits Report (COLR) And Revision 0 Of The Unit 2 Cycle 7 COLR</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25126A033</link>
+			<description>Fuel Cycle Reload Report, Letter</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-05-14 08:00:00</pubDate>
+		</item>
 		<item>
 			<title>Acceptance Review Results for Browns Ferry Nuclear Plant, Units 1, 2, and 3, License Amendment Request to Adopt TSTF-423-A, Revision 1 (EPID L-2025-LLA-0070)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25125A217</link>
@@ -206,20 +220,6 @@
 			<description>Meeting Agenda, Meeting Notice</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-05-01 11:33:00</pubDate>
-		</item>
-		<item>
-			<title>Watts Bar Nucear Plant - Annual Non-Radiological Environmental Operating Report - 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25113A070</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-05-01 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-1437, Supplement 61, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants Supplement 61 Regarding License Renewal of Perry Nuclear Power Plant" Final Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25113A032</link>
-			<description>Environmental Impact Statement, NUREG</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-04-30 17:43:00</pubDate>
 		</item>
 	</channel>
 </rss>
