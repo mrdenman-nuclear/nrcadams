@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 15 May 2025 16:23:07 GMT</pubDate>
-		<lastBuildDate>Thu, 15 May 2025 16:23:07 GMT</lastBuildDate>
+		<pubDate>Thu, 15 May 2025 17:17:44 GMT</pubDate>
+		<lastBuildDate>Thu, 15 May 2025 17:17:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -26,13 +26,6 @@
 			<pubDate>2025-05-14 16:21:00</pubDate>
 		</item>
 		<item>
-			<title>Beach Bottom Energy Center - Annual Radioactive Effluent Release Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25114A210</link>
-			<description>Environmental Monitoring Report</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2025-05-12 16:40:00</pubDate>
-		</item>
-		<item>
 			<title>Attachment 1: 2024 Limerick Generating Station Annual Radioactive Effluent Release Report No. 50</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25120A436</link>
 			<description>Environmental Monitoring Report</description>
@@ -44,6 +37,13 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25132A066</link>
 			<description>Environmental Monitoring Report</description>
 			<author>Northern States Power Company, Minnesota, Xcel Energy</author>
+			<pubDate>2025-05-12 16:40:00</pubDate>
+		</item>
+		<item>
+			<title>Peach Bottom Energy Center - Annual Radioactive Effluent Release Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25114A210</link>
+			<description>Environmental Monitoring Report</description>
+			<author>Constellation Energy Generation, LLC</author>
 			<pubDate>2025-05-12 16:40:00</pubDate>
 		</item>
 		<item>
