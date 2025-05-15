@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 15 May 2025 19:16:44 GMT</pubDate>
-		<lastBuildDate>Thu, 15 May 2025 19:16:44 GMT</lastBuildDate>
+		<pubDate>Thu, 15 May 2025 20:21:39 GMT</pubDate>
+		<lastBuildDate>Thu, 15 May 2025 20:21:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Callaway Plant, Unit 1 - Final Safety Analysis Report Rev. OL-27 and Technical Specification Bases Rev. 25, Chapter 2, Figures</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24191A278</link>
+			<description>Drawing, Updated Final Safety Analysis Report (UFSAR)</description>
+			<author>Ameren Missouri, Union Electric Co</author>
+			<pubDate>2025-05-15 15:45:00</pubDate>
+		</item>
+		<item>
+			<title>Callaway Plant, Unit 1 - Final Safety Analysis Report Rev. OL-27 and Technical Specification Bases Rev. 25, Chapter 2, Site Characteristics</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24191A290</link>
+			<description>Updated Final Safety Analysis Report (UFSAR)</description>
+			<author>Ameren Missouri, Union Electric Co</author>
+			<pubDate>2025-05-15 15:45:00</pubDate>
+		</item>
 		<item>
 			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3, Site Emergency Plan Implementing Procedure Revision</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25106A034</link>
@@ -206,20 +220,6 @@
 			<description>Environmental Monitoring Report, Letter</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2025-05-02 15:31:00</pubDate>
-		</item>
-		<item>
-			<title>LER 2024-004-01 for Browns Ferry Nuclear Plant, Unit 3, Reactor Coolant System Pressure Boundary Leakage Identified from Recirculation System Small Bore Piping</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25114A051</link>
-			<description>Letter, Licensee Event Report (LER)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-05-02 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3, Response to Request for Additional Information, Set #4 (EPID L-2024-SLE-0000)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25114A206</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-05-02 08:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
