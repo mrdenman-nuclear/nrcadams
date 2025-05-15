@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 14 May 2025 23:16:29 GMT</pubDate>
-		<lastBuildDate>Wed, 14 May 2025 23:16:29 GMT</lastBuildDate>
+		<pubDate>Thu, 15 May 2025 14:20:52 GMT</pubDate>
+		<lastBuildDate>Thu, 15 May 2025 14:20:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Withholding Proprietary Information from Public Disclosure - Long Mott Generating Station Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25111A254</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2025-05-15 07:54:00</pubDate>
+		</item>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for SMR, LLC (A Holtec International Company) Preapplication Meeting Materials for May 8, 2025, Public Meeting</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25127A327</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2025-05-15 07:53:00</pubDate>
+		</item>
 		<item>
 			<title>Request for Withholding Information from Public Disclosure for Abilene Christian University (ACU)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25129A126</link>
@@ -94,41 +108,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2025-05-09 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>05/28/2025 Public Meeting with Abilene Christian University (ACU) to Discuss Fuel Qualification Methodology</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25128A266</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-08 14:12:00</pubDate>
-		</item>
-		<item>
-			<title>Letter - US SFR Owner LLC - Notification Of The Issuance Of The Exemption From Certain Requirements In Title 10 Of The Code Of Federal Regulations 50.10(A) (EPID: L-2024-LLE-0027)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25119A331</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-05-08 09:05:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - US SFR OWNER LLC FRN Exemption for Energy Island</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25119A333</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-05-08 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>Cover Letter - Set 12 of Requests for Additional Information for the Emergency Management Portion of the TRISO-X License Application Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25107A173</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2025-05-08 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Cover Letter - Set 11 of Requests for Additional Information for the Chemical Safety Portion of the TRISO-X License Application Review (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25106A314</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2025-05-08 08:28:00</pubDate>
 		</item>
 	</channel>
 </rss>

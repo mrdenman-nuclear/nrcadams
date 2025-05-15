@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 14 May 2025 23:16:39 GMT</pubDate>
-		<lastBuildDate>Wed, 14 May 2025 23:16:39 GMT</lastBuildDate>
+		<pubDate>Thu, 15 May 2025 14:21:00 GMT</pubDate>
+		<lastBuildDate>Thu, 15 May 2025 14:21:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Fermi, Unit 2, Current Facility Operating License NPF-43, Technical Specifications, Revised 05/15/2025.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053060228</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-05-15 09:32:00</pubDate>
+		</item>
 		<item>
 			<title>Transcript of the Advisory Committee on Reactor Safeguards 724th Full Committee Meeting, April 02, 2025 Pages 1-153 (Open)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25112A095</link>
@@ -213,13 +220,6 @@
 			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-05-06 09:45:00</pubDate>
-		</item>
-		<item>
-			<title>Slides for the Preliminary Findings of the Environmental Review for Clinton Power Station, Unit 1, License Renewal</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25125A229</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NMSS/DREFS/EPMB1</author>
-			<pubDate>2025-05-05 16:53:00</pubDate>
 		</item>
 	</channel>
 </rss>
