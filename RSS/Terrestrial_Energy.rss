@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 16 May 2025 14:19:54 GMT</pubDate>
-		<lastBuildDate>Fri, 16 May 2025 14:19:54 GMT</lastBuildDate>
+		<pubDate>Fri, 16 May 2025 15:17:18 GMT</pubDate>
+		<lastBuildDate>Fri, 16 May 2025 15:17:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Draft White Paper - Dominion Energy ESP Renewal Approach (Project No. 99902135)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25134A007</link>
+			<description>Technical Paper</description>
+			<author>Dominion Energy, Virginia Electric and Power Co (VEPCO)</author>
+			<pubDate>2025-05-16 10:49:00</pubDate>
+		</item>
+		<item>
+			<title>Summary Report of the 724th Meeting of the Advisory Committee on Reactor Safeguards April 2 through 3 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25121A302</link>
+			<description>ACRS Summary Report</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2025-05-16 10:49:00</pubDate>
+		</item>
 		<item>
 			<title>Callaway Plant, Unit 1 - Final Safety Analysis Report Revision OL-27 and Technical Specification Bases Revision 25, Chapter 1, Introduction and General Description of the Plant</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24149A253</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25118A325</link>
 			<description>Environmental Monitoring Report, Letter, Periodic Monitoring Report (Radiological/Environmental)</description>
 			<author>Vistra Operations Company, LLC</author>
-			<pubDate>2025-05-06 09:45:00</pubDate>
-		</item>
-		<item>
-			<title>Fermi 2 Power Plant - Annual Radioactive Effluent Release Report and Radiological Environmental Operation Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25118A326</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>DTE Electric Company</author>
-			<pubDate>2025-05-06 09:45:00</pubDate>
-		</item>
-		<item>
-			<title>Fermi 2 Power Plant, Annual Non-Radiological Environmental Operating Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25118A328</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>DTE Electric Company</author>
 			<pubDate>2025-05-06 09:45:00</pubDate>
 		</item>
 	</channel>
