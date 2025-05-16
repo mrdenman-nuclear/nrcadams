@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 16 May 2025 19:17:57 GMT</pubDate>
-		<lastBuildDate>Fri, 16 May 2025 19:17:57 GMT</lastBuildDate>
+		<pubDate>Fri, 16 May 2025 20:19:54 GMT</pubDate>
+		<lastBuildDate>Fri, 16 May 2025 20:19:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Shearon Harris Nuclear Power Plant, Unit 1, Updated Final Safety Analysis Report (FSAR), Amendment 66</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24318A003</link>
+			<description>Updated Final Safety Analysis Report (UFSAR)</description>
+			<author>Duke Energy Progress, LLC</author>
+			<pubDate>2025-05-16 15:57:00</pubDate>
+		</item>
 		<item>
 			<title>Draft White Paper - Dominion Energy ESP Renewal Approach (Project No. 99902135)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25134A007</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25118A267</link>
 			<description>Environmental Monitoring Report, Letter, Periodic Monitoring Report (Radiological/Environmental)</description>
 			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2025-05-06 09:45:00</pubDate>
-		</item>
-		<item>
-			<title>Perry Nuclear Power Plant - Annual Radiological Effluent Release Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25118A325</link>
-			<description>Environmental Monitoring Report, Letter, Periodic Monitoring Report (Radiological/Environmental)</description>
-			<author>Vistra Operations Company, LLC</author>
 			<pubDate>2025-05-06 09:45:00</pubDate>
 		</item>
 	</channel>
