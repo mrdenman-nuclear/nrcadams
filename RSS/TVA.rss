@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 15 May 2025 23:18:23 GMT</pubDate>
-		<lastBuildDate>Thu, 15 May 2025 23:18:23 GMT</lastBuildDate>
+		<pubDate>Fri, 16 May 2025 14:19:54 GMT</pubDate>
+		<lastBuildDate>Fri, 16 May 2025 14:19:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Watts Bar Nuclear Plant - Integrated Inspection Report 05000390/2025001 And 05000391/2025001</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25128A347</link>
+			<description>Inspection Report, Letter</description>
+			<author>NRC/RGN-II/DORS/PB5</author>
+			<pubDate>2025-05-16 08:47:00</pubDate>
+		</item>
 		<item>
 			<title>Callaway Plant, Unit 1 - Final Safety Analysis Report Rev. OL-27 and Technical Specification Bases Rev. 25, Chapter 2, Figures</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24191A278</link>
@@ -213,13 +220,6 @@
 			<description>Final Safety Analysis Report (FSAR), Letter</description>
 			<author>Louisiana Energy Services, LLC, URENCO USA</author>
 			<pubDate>2025-05-05 15:50:00</pubDate>
-		</item>
-		<item>
-			<title>Watts Bar Nuclear Plant, Units 1 and 2, 2024 Annual Radioactive Effluent Release Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25119A014</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-05-02 15:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

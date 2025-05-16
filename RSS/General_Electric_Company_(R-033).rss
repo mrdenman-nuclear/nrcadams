@@ -5,32 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 15 May 2025 23:18:14 GMT</pubDate>
-		<lastBuildDate>Thu, 15 May 2025 23:18:14 GMT</lastBuildDate>
+		<pubDate>Fri, 16 May 2025 14:19:50 GMT</pubDate>
+		<lastBuildDate>Fri, 16 May 2025 14:19:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Marked-Up NTR License</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25090A090</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-02 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>License Transfer Completion E-Mail</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25073A119</link>
-			<description>E-Mail</description>
-			<author>GE Verona</author>
-			<pubDate>2025-05-02 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>E-Mail Transmitting Marked-Up NTR License</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25090A089</link>
-			<description>E-Mail</description>
-			<author>NorthStar Vallecitos, LLC, Vallecitos Nuclear Center</author>
-			<pubDate>2025-05-02 08:06:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 15 May 2025 23:18:23 GMT</pubDate>
-		<lastBuildDate>Thu, 15 May 2025 23:18:23 GMT</lastBuildDate>
+		<pubDate>Fri, 16 May 2025 14:19:54 GMT</pubDate>
+		<lastBuildDate>Fri, 16 May 2025 14:19:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Callaway Plant, Unit 1 - Final Safety Analysis Report Revision OL-27 and Technical Specification Bases Revision 25, Chapter 1, Introduction and General Description of the Plant</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24149A253</link>
+			<description>Final Safety Analysis Report (FSAR)</description>
+			<author>Ameren Missouri, Union Electric Co</author>
+			<pubDate>2025-05-16 08:46:00</pubDate>
+		</item>
+		<item>
+			<title>National Organization of Test, Research, and Training Reactors 2024 Presentation by Joshua Borromeo on Advanced Reactors</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25121A319</link>
+			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-05-16 07:49:00</pubDate>
+		</item>
 		<item>
 			<title>Fermi, Unit 2, Current Facility Operating License NPF-43, Technical Specifications, Revised 05/15/2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053060228</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25118A328</link>
 			<description>Environmental Monitoring Report, Letter</description>
 			<author>DTE Electric Company</author>
-			<pubDate>2025-05-06 09:45:00</pubDate>
-		</item>
-		<item>
-			<title>Crow Butte License Renewal Application - Request for Supplemental Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25120A426</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>Crow Butte Resources, Inc</author>
-			<pubDate>2025-05-06 09:45:00</pubDate>
-		</item>
-		<item>
-			<title>National Organization of Test, Research, and Training Reactors 2024 Presentation by Joshua Borromeo on Advanced Reactors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25121A319</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR</author>
 			<pubDate>2025-05-06 09:45:00</pubDate>
 		</item>
 	</channel>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 15 May 2025 23:18:23 GMT</pubDate>
-		<lastBuildDate>Thu, 15 May 2025 23:18:23 GMT</lastBuildDate>
+		<pubDate>Fri, 16 May 2025 14:19:54 GMT</pubDate>
+		<lastBuildDate>Fri, 16 May 2025 14:19:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>National Organization of Test, Research, and Training Reactors 2024 Presentation by Joshua Borromeo on Advanced Reactors</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25121A319</link>
+			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-05-16 07:49:00</pubDate>
+		</item>
 		<item>
 			<title>Staff Presentation to ACRS on New and Advanced PRA Topics.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25135A045</link>
@@ -68,25 +75,11 @@
 			<pubDate>2025-05-07 08:11:00</pubDate>
 		</item>
 		<item>
-			<title>National Organization of Test, Research, and Training Reactors 2024 Presentation by Joshua Borromeo on Advanced Reactors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25121A319</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-06 09:45:00</pubDate>
-		</item>
-		<item>
 			<title>US NRC Presentation - May 5 - May 9, 2025 IAEA CCF Workshop</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25125A023</link>
 			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NRC/NRR/DEX/EICB</author>
 			<pubDate>2025-05-05 08:54:00</pubDate>
-		</item>
-		<item>
-			<title>NRC FY 2023 Best Practices Report Enclosure 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24065A058</link>
-			<description>Letter</description>
-			<author>NRC/Chairman</author>
-			<pubDate>2025-05-02 08:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
