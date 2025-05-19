@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 19 May 2025 15:21:30 GMT</pubDate>
-		<lastBuildDate>Mon, 19 May 2025 15:21:30 GMT</lastBuildDate>
+		<pubDate>Mon, 19 May 2025 16:23:33 GMT</pubDate>
+		<lastBuildDate>Mon, 19 May 2025 16:23:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Quad Cities Nuclear Power Station, Units 1 and 2 - Radioactive Effluent Release Report for 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25120A416</link>
+			<description>Environmental Monitoring Report, Letter, Periodic Monitoring Report (Radiological/Environmental)</description>
+			<author>Constellation Energy Generation, LLC</author>
+			<pubDate>2025-05-19 11:45:00</pubDate>
+		</item>
+		<item>
+			<title>Prairie Island Nuclear Generating Plant, Units 1 and 2, Independent Spent Fuel Storage Installation - 2024 Annual Radiological Environmental Monitoring Program Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25132A129</link>
+			<description>Environmental Monitoring Report, Letter</description>
+			<author>Northern States Power Company, Minnesota, Xcel Energy</author>
+			<pubDate>2025-05-19 11:45:00</pubDate>
+		</item>
 		<item>
 			<title>R.E. Ginna Nuclear Power Plant, and Independent Spent Fuel Storage Installation (ISFSI) - 2024 Annual Radioactive Effluent Release Report and 2024 Annual Radiological Environmental Operating Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25134A151</link>
@@ -206,20 +220,6 @@
 			<description>Environmental Monitoring Report, Letter</description>
 			<author>Duke Energy Progress, LLC</author>
 			<pubDate>2025-05-08 08:27:00</pubDate>
-		</item>
-		<item>
-			<title>James A. FitzPatrick Nuclear Power Plant - 2024 Annual Radioactive Effluent Release Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25120A082</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2025-05-08 08:27:00</pubDate>
-		</item>
-		<item>
-			<title>Perry Nuclear Power Plant, Annual Radiological Environmental Operating Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25119A125</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Vistra Operations Company, LLC</author>
-			<pubDate>2025-05-07 08:11:00</pubDate>
 		</item>
 	</channel>
 </rss>
