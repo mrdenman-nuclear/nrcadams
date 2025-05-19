@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 16 May 2025 23:18:23 GMT</pubDate>
-		<lastBuildDate>Fri, 16 May 2025 23:18:23 GMT</lastBuildDate>
+		<pubDate>Mon, 19 May 2025 14:20:17 GMT</pubDate>
+		<lastBuildDate>Mon, 19 May 2025 14:20:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,13 +66,6 @@
 			<description>Graphics incl Charts and Tables, Routine Status Report (Recurring Weekly/Monthly)</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
 			<pubDate>2025-05-08 10:44:00</pubDate>
-		</item>
-		<item>
-			<title>Notice of Screening (Joseph Azeizat)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25125A138</link>
-			<description>Legal-Correspondence/Miscellaneous</description>
-			<author>Duke Energy Carolinas, LLC, Morgan, Lewis and Bockius, LLP</author>
-			<pubDate>2025-05-05 14:48:00</pubDate>
 		</item>
 	</channel>
 </rss>

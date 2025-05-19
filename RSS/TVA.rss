@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 16 May 2025 23:18:23 GMT</pubDate>
-		<lastBuildDate>Fri, 16 May 2025 23:18:23 GMT</lastBuildDate>
+		<pubDate>Mon, 19 May 2025 14:20:17 GMT</pubDate>
+		<lastBuildDate>Mon, 19 May 2025 14:20:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -213,13 +213,6 @@
 			<description>Report, Technical</description>
 			<author>Oak Ridge National Lab (ORNL)</author>
 			<pubDate>2025-05-06 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>Louisiana Energy Services, LLC., dba Urenco USA, Semi-Annual Safety Analysis Report (SAR) Update</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25122A195</link>
-			<description>Final Safety Analysis Report (FSAR), Letter</description>
-			<author>Louisiana Energy Services, LLC, URENCO USA</author>
-			<pubDate>2025-05-05 15:50:00</pubDate>
 		</item>
 	</channel>
 </rss>

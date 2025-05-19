@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 16 May 2025 23:18:17 GMT</pubDate>
-		<lastBuildDate>Fri, 16 May 2025 23:18:17 GMT</lastBuildDate>
+		<pubDate>Mon, 19 May 2025 14:20:14 GMT</pubDate>
+		<lastBuildDate>Mon, 19 May 2025 14:20:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Email- Clarification of Scope for Oklo Topical Report on Product Based Operator Licensing Framework</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25132A054</link>
+			<description>E-Mail</description>
+			<author>Oklo Inc</author>
+			<pubDate>2025-05-19 08:42:00</pubDate>
+		</item>
+	</channel>
 </rss>

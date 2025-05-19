@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 16 May 2025 23:18:17 GMT</pubDate>
-		<lastBuildDate>Fri, 16 May 2025 23:18:17 GMT</lastBuildDate>
+		<pubDate>Mon, 19 May 2025 14:20:14 GMT</pubDate>
+		<lastBuildDate>Mon, 19 May 2025 14:20:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Cover Letter for Response to Request for Additional Information Set 14 (Material Control and, Accounting) for the TRISO-X License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25135A377</link>
+			<description>Letter</description>
+			<author>Triso-X, LLC</author>
+			<pubDate>2025-05-19 09:45:00</pubDate>
+		</item>
+		<item>
+			<title>Email- Clarification of Scope for Oklo Topical Report on Product Based Operator Licensing Framework</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25132A054</link>
+			<description>E-Mail</description>
+			<author>Oklo Inc</author>
+			<pubDate>2025-05-19 08:42:00</pubDate>
+		</item>
+		<item>
+			<title>Cover Letter - Set 14 of Requests for Additional Information for the MC&A Portion of the TRISO-X License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25114A049</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2025-05-19 08:42:00</pubDate>
+		</item>
 		<item>
 			<title>Request for Withholding Information from Public Disclosure for Oklo Inc. Licensing Project Plan (Fuel Recycling): 2Q2025 Update</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25128A005</link>
@@ -199,27 +220,6 @@
 			<description>Legal-Affidavit, Letter, Topical Report</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-05-07 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>1851-0001-RPT-002, Revision 0, "Degradation Management Program for the Abilene Christian University Molten Salt Reactor" (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24341A135</link>
-			<description>Report, Technical</description>
-			<author>Abilene Christian University, Nuclear Energy eXperimental Testing Lab</author>
-			<pubDate>2025-05-05 12:55:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of the Environmental Report in Support of the Clinch River Nuclear Site Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25118A209</link>
-			<description>Environmental Monitoring Report, Letter, License-Construction Permit (CP)(New/Extension/Amendment) DKT 50</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-05-05 10:31:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of the Environmental Report in Support of the Clinch River Nuclear Site Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25118A209</link>
-			<description>Environmental Monitoring Report, Letter, License-Construction Permit (CP)(New/Extension/Amendment) DKT 50</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-05-05 10:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 16 May 2025 23:18:17 GMT</pubDate>
-		<lastBuildDate>Fri, 16 May 2025 23:18:17 GMT</lastBuildDate>
+		<pubDate>Mon, 19 May 2025 14:20:14 GMT</pubDate>
+		<lastBuildDate>Mon, 19 May 2025 14:20:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-05-08 14:12:00</pubDate>
-		</item>
-		<item>
-			<title>1851-0001-RPT-002, Revision 0, "Degradation Management Program for the Abilene Christian University Molten Salt Reactor" (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24341A135</link>
-			<description>Report, Technical</description>
-			<author>Abilene Christian University, Nuclear Energy eXperimental Testing Lab</author>
-			<pubDate>2025-05-05 12:55:00</pubDate>
 		</item>
 	</channel>
 </rss>

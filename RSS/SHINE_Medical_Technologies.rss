@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 16 May 2025 23:18:23 GMT</pubDate>
-		<lastBuildDate>Fri, 16 May 2025 23:18:23 GMT</lastBuildDate>
+		<pubDate>Mon, 19 May 2025 14:20:17 GMT</pubDate>
+		<lastBuildDate>Mon, 19 May 2025 14:20:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Report, Technical</description>
 			<author>NRC/Chairman</author>
 			<pubDate>2025-05-08 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>Diablo Canyon Power Plant, Units 1 and 2 - 2024 Annual Radiological Environmental Operating Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25115A186</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Pacific Gas and Electric Co</author>
-			<pubDate>2025-05-05 08:53:00</pubDate>
 		</item>
 	</channel>
 </rss>

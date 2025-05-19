@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 16 May 2025 23:18:23 GMT</pubDate>
-		<lastBuildDate>Fri, 16 May 2025 23:18:23 GMT</lastBuildDate>
+		<pubDate>Mon, 19 May 2025 14:20:17 GMT</pubDate>
+		<lastBuildDate>Mon, 19 May 2025 14:20:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>R.E. Ginna Nuclear Power Plant, and Independent Spent Fuel Storage Installation (ISFSI) - 2024 Annual Radioactive Effluent Release Report and 2024 Annual Radiological Environmental Operating Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25134A151</link>
+			<description>Environmental Monitoring Report, Letter</description>
+			<author>Constellation Energy Generation, LLC</author>
+			<pubDate>2025-05-19 09:45:00</pubDate>
+		</item>
+		<item>
+			<title>Dresden Energy Center - Annual Radioactive Effluent Release Report 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25121A289</link>
+			<description>Environmental Monitoring Report, Periodic Monitoring Report (Radiological/Environmental)</description>
+			<author>Constellation Energy Generation, LLC</author>
+			<pubDate>2025-05-19 08:42:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1: Final Safety Analysis Report (FSAR) 2025 (Redacted Version)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25135A338</link>
+			<description>Final Safety Analysis Report (FSAR)</description>
+			<author>Constellation Energy Generation, LLC</author>
+			<pubDate>2025-05-19 08:42:00</pubDate>
+		</item>
 		<item>
 			<title>Shearon Harris Nuclear Power Plant, Unit 1, Updated Final Safety Analysis Report (FSAR), Amendment 66</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24318A003</link>
@@ -199,27 +220,6 @@
 			<description>Environmental Monitoring Report, Letter</description>
 			<author>Vistra Operations Company, LLC</author>
 			<pubDate>2025-05-07 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Indian Point Energy Center, 2024 Annual Radiological Environmental Operating Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25125A131</link>
-			<description>Environmental Monitoring Report, Letter, Operating Report</description>
-			<author>Holtec Decommissioning International, LLC</author>
-			<pubDate>2025-05-06 15:33:00</pubDate>
-		</item>
-		<item>
-			<title>Salem Generating Station, Units 1 and 2, and Hope Creek Generating Station, 2024 Annual Radioactive Effluent Release Report (ARERR)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25118A145</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>PSEG Nuclear, LLC</author>
-			<pubDate>2025-05-06 09:45:00</pubDate>
-		</item>
-		<item>
-			<title>Byron Station, Units 1 and 2 - 2024 Annual Radioactive Effluent Release Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25118A267</link>
-			<description>Environmental Monitoring Report, Letter, Periodic Monitoring Report (Radiological/Environmental)</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2025-05-06 09:45:00</pubDate>
 		</item>
 	</channel>
 </rss>
