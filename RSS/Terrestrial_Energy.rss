@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 20 May 2025 19:16:36 GMT</pubDate>
-		<lastBuildDate>Tue, 20 May 2025 19:16:36 GMT</lastBuildDate>
+		<pubDate>Tue, 20 May 2025 20:21:57 GMT</pubDate>
+		<lastBuildDate>Tue, 20 May 2025 20:21:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>May 2025 Advisory Committee on Reactor Safeguards (ACRS) Full Committee Meeting Topical Reports</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25136A316</link>
+			<description>Memoranda</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2025-05-20 15:31:00</pubDate>
+		</item>
 		<item>
 			<title>Calvert Cliffs Nuclear Power Plant, Units 1 & 2, and Independent Spent Fuel Storage Installation - Annual Radiological Environmental Operating Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25135A003</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25120A394</link>
 			<description>Environmental Monitoring Report, Letter</description>
 			<author>Entergy Operations, Inc</author>
-			<pubDate>2025-05-08 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Joseph M. Farley Nuclear Plant, Units 1 & 2, Annual Radioactive Effluent Release Report and Annual Non-Radiological Environmental Operating Report for 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25120A454</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Southern Nuclear Operating Co, Inc</author>
 			<pubDate>2025-05-08 08:28:00</pubDate>
 		</item>
 	</channel>
