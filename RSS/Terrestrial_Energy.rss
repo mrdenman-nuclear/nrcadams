@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 19 May 2025 23:19:25 GMT</pubDate>
-		<lastBuildDate>Mon, 19 May 2025 23:19:25 GMT</lastBuildDate>
+		<pubDate>Tue, 20 May 2025 14:21:04 GMT</pubDate>
+		<lastBuildDate>Tue, 20 May 2025 14:21:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Wolf Creek Generating Station, 2024 Annual Radiological Environmental Operating Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25118A071</link>
+			<description>Annual Operating Report, Letter</description>
+			<author>Wolf Creek Nuclear Operating Corp</author>
+			<pubDate>2025-05-20 08:25:00</pubDate>
+		</item>
+		<item>
+			<title>Surry Power Station Units 1 And 2, 2024 Annual Radiological Environmental Opera Ting Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25119A073</link>
+			<description>Environmental Monitoring Report, Letter</description>
+			<author>Virginia Electric and Power Co (VEPCO)</author>
+			<pubDate>2025-05-20 08:25:00</pubDate>
+		</item>
+		<item>
+			<title>Nine Mile Point Nuclear Station, Units 1 and 2, Independent Spent Fuel Storage Installation (ISFSI) - 2024 Radioactive Effluent Release Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25120A326</link>
+			<description>Environmental Monitoring Report, Letter</description>
+			<author>Constellation Energy Generation, LLC</author>
+			<pubDate>2025-05-20 08:25:00</pubDate>
+		</item>
+		<item>
+			<title>Cooper Nuclear Station, Annual Radiological Environmental Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25132A248</link>
+			<description>Environmental Monitoring Report, Letter</description>
+			<author>Nebraska Public Power District (NPPD)</author>
+			<pubDate>2025-05-20 08:25:00</pubDate>
+		</item>
 		<item>
 			<title>Quad Cities Nuclear Power Station, Units 1 and 2 - Radioactive Effluent Release Report for 2024</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25120A416</link>
@@ -192,34 +220,6 @@
 			<description>Environmental Monitoring Report, Letter</description>
 			<author>Southern Nuclear Operating Co, Inc</author>
 			<pubDate>2025-05-08 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Edwin I. Hatch Nuclear Plant, Units 1 & 2, Annual Radioactive Effluent Release Report and Annual Non-Radiological Environmental Operating Report for 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25120A456</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Southern Nuclear Operating Co, Inc</author>
-			<pubDate>2025-05-08 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Vogtle Electric Generating Plant, Units 3 & 4, Annual Radioactive Effluent Release Report for 2024 and resubmittal of the Annual Radioactive Effluent Release Report for 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25120A457</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Southern Nuclear Operating Co, Inc</author>
-			<pubDate>2025-05-08 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>2025/04/24 Palisades Restart LA Docs - Critical Dune Permit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25114A163</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-05-08 08:27:00</pubDate>
-		</item>
-		<item>
-			<title>Shearon Harris Nuclear Power Plant, Unit 1 - Annual Environmental (Nonradiological) Operating Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25120A034</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Duke Energy Progress, LLC</author>
-			<pubDate>2025-05-08 08:27:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 19 May 2025 23:19:17 GMT</pubDate>
-		<lastBuildDate>Mon, 19 May 2025 23:19:17 GMT</lastBuildDate>
+		<pubDate>Tue, 20 May 2025 14:20:55 GMT</pubDate>
+		<lastBuildDate>Tue, 20 May 2025 14:20:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC, Submittal of Approved "-A" Version of Topical Report "Extended Passive Cooling and Reactivity Control Methodology," TR-124587-A, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25132A277</link>
+			<description>Legal-Affidavit, Letter, Report, Technical, Topical Report</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-05-20 08:25:00</pubDate>
+		</item>
 		<item>
 			<title>Audit Plan for TR Postulated Initiating Events for the IMSR400 Revision A - Email Transmittal.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25139A596</link>
@@ -59,34 +66,6 @@
 			<description>Letter, Proprietary Information Review</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2025-05-15 07:53:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Information from Public Disclosure for Abilene Christian University (ACU)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25129A126</link>
-			<description>Letter</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-13 11:32:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Generating Station CP Application Acceptance Letter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25115A247</link>
-			<description>Acceptance Review Letter, Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-05-13 10:32:00</pubDate>
-		</item>
-		<item>
-			<title>05/15/2025 Discussion with TRISO-X Chemical Safety RAI Discussions</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25133A077</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-05-13 09:51:00</pubDate>
-		</item>
-		<item>
-			<title>TRISO-X ER Supplement Request for Additional Information May 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25122A176</link>
-			<description>Letter, Request for Additional Information (RAI)</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-05-13 09:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

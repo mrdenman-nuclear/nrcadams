@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 19 May 2025 23:19:28 GMT</pubDate>
-		<lastBuildDate>Mon, 19 May 2025 23:19:28 GMT</lastBuildDate>
+		<pubDate>Tue, 20 May 2025 14:21:06 GMT</pubDate>
+		<lastBuildDate>Tue, 20 May 2025 14:21:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,20 +17,6 @@
 			<description>Inspection Manual</description>
 			<author>NRC/NRR/DANU/UNPO</author>
 			<pubDate>2025-05-14 11:34:00</pubDate>
-		</item>
-		<item>
-			<title>IMC 0307 Appendix B, Reactor Oversight Process Self-Assessment Baseline Inspection Program Monitoring and Comprehensive Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25028A157</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRIB</author>
-			<pubDate>2025-05-13 09:31:00</pubDate>
-		</item>
-		<item>
-			<title>Table of Contents for Inspection Manual Change Notice 25-011</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25132A312</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRIB</author>
-			<pubDate>2025-05-13 09:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

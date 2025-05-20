@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 19 May 2025 23:19:19 GMT</pubDate>
-		<lastBuildDate>Mon, 19 May 2025 23:19:19 GMT</lastBuildDate>
+		<pubDate>Tue, 20 May 2025 14:20:59 GMT</pubDate>
+		<lastBuildDate>Tue, 20 May 2025 14:20:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2025-05-16 08:47:00</pubDate>
-		</item>
-		<item>
-			<title>Pennyslvania State University Breazeale Reactor, License Amendment Request for Change in Organizational Structure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25118A019</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>Pennsylvania State Univ</author>
-			<pubDate>2025-05-06 08:04:00</pubDate>
 		</item>
 	</channel>
 </rss>
