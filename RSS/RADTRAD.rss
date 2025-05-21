@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 20 May 2025 23:18:41 GMT</pubDate>
-		<lastBuildDate>Tue, 20 May 2025 23:18:41 GMT</lastBuildDate>
+		<pubDate>Wed, 21 May 2025 14:21:49 GMT</pubDate>
+		<lastBuildDate>Wed, 21 May 2025 14:21:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>ACRS Summary Report</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-05-16 10:49:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of Advisory Committee on Reactor Safeguards - TerraPower Natrium Design Center Subcommittee Meeting, March 18, 2025, Pages 1-275 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25134A208</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-05-14 16:21:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of Advisory Committee on Reactor Safeguards - TerraPower Natrium Design Center Subcommittee Meeting, March 19, 2025, Pages 1-325 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25134A209</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-05-14 16:21:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 20 May 2025 23:18:34 GMT</pubDate>
-		<lastBuildDate>Tue, 20 May 2025 23:18:34 GMT</lastBuildDate>
+		<pubDate>Wed, 21 May 2025 14:21:39 GMT</pubDate>
+		<lastBuildDate>Wed, 21 May 2025 14:21:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC Feedback on WEC AP300 SMR Probabilistic Risk Assessment White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25129A124</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2025-05-21 08:12:00</pubDate>
+		</item>
+		<item>
+			<title>Final Meeting Summary Kairos OL TR  4-28-25.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25105A044</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-05-21 08:12:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Extension of the Chemical Safety RAI Response Due Dates from May 21 to May 30, 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25136A370</link>
+			<description>E-Mail</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2025-05-21 08:12:00</pubDate>
+		</item>
+		<item>
+			<title>2025/05/07 Project Long Mott Docs - Process Questions after Acceptance</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25127A442</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-05-21 08:11:00</pubDate>
+		</item>
 		<item>
 			<title>Terrestrial Energy USA - Audit Plan for TR Postulated Initiating Events for the IMSR400 Revision A.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25118A101</link>
@@ -192,34 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
 			<pubDate>2025-05-08 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>05/16/2025 Meeting to discuss NRC's Human Factor RAIs 4 and 5 with TRISO-X</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25127A388</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-05-07 16:22:00</pubDate>
-		</item>
-		<item>
-			<title>Draft Safety Evaluation Of Topical Report Xe-100 Licensing Topical Report Gothic And Flownex Analysis Codes Qualification Rev. 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25076A692</link>
-			<description>Letter, Safety Evaluation Report, Draft</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2025-05-07 10:31:00</pubDate>
-		</item>
-		<item>
-			<title>Draft Safety Evaluation of Topical Report 007834 Xe-100 Licensing Topical Report Transient and Safety Analysis Methodology Revision 2 EPID L-2024-TOP-0017</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25062A069</link>
-			<description>Letter, Safety Evaluation Report, Draft</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2025-05-07 09:33:00</pubDate>
-		</item>
-		<item>
-			<title>Draft Safety Evaluation Xe-100 Licensing Topical Report Mechanistic Source Term Approach Rev 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25064A595</link>
-			<description>Letter, Safety Evaluation Report, Draft</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2025-05-07 09:33:00</pubDate>
 		</item>
 	</channel>
 </rss>

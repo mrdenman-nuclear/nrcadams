@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 20 May 2025 23:18:39 GMT</pubDate>
-		<lastBuildDate>Tue, 20 May 2025 23:18:39 GMT</lastBuildDate>
+		<pubDate>Wed, 21 May 2025 14:21:47 GMT</pubDate>
+		<lastBuildDate>Wed, 21 May 2025 14:21:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 1: Affidavit Supporting Request for Withholding from Public Disclosure (10 CFR 2.390)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25133A255</link>
+			<description>Legal-Affidavit</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2025-05-21 08:12:00</pubDate>
+		</item>
+		<item>
+			<title>X-Energy, LLC - Submittal of Topical Report on Analytical Methods, Revision 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25133A254</link>
+			<description>Letter</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2025-05-21 08:12:00</pubDate>
+		</item>
 		<item>
 			<title>May 2025 Advisory Committee on Reactor Safeguards (ACRS) Full Committee Meeting Topical Reports</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25136A316</link>
@@ -52,13 +66,6 @@
 			<description>Report, Technical</description>
 			<author>NRC/Chairman</author>
 			<pubDate>2025-05-08 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>03/05/2025 Summary Of NRC Public  Workshop On The Emergency Preparedness For Advanced Reactors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25093A224</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NSIR/DPR/POB</author>
-			<pubDate>2025-05-07 08:11:00</pubDate>
 		</item>
 	</channel>
 </rss>

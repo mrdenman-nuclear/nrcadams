@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 20 May 2025 23:18:39 GMT</pubDate>
-		<lastBuildDate>Tue, 20 May 2025 23:18:39 GMT</lastBuildDate>
+		<pubDate>Wed, 21 May 2025 14:21:47 GMT</pubDate>
+		<lastBuildDate>Wed, 21 May 2025 14:21:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -94,13 +94,6 @@
 			<description>Report, Technical</description>
 			<author>NRC/Chairman</author>
 			<pubDate>2025-05-08 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>03/05/2025 Summary Of NRC Public  Workshop On The Emergency Preparedness For Advanced Reactors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25093A224</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NSIR/DPR/POB</author>
-			<pubDate>2025-05-07 08:11:00</pubDate>
 		</item>
 	</channel>
 </rss>

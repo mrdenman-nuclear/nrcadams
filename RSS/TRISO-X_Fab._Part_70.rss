@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 20 May 2025 23:18:34 GMT</pubDate>
-		<lastBuildDate>Tue, 20 May 2025 23:18:34 GMT</lastBuildDate>
+		<pubDate>Wed, 21 May 2025 14:21:39 GMT</pubDate>
+		<lastBuildDate>Wed, 21 May 2025 14:21:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC Extension of the Chemical Safety RAI Response Due Dates from May 21 to May 30, 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25136A370</link>
+			<description>E-Mail</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2025-05-21 08:12:00</pubDate>
+		</item>
 		<item>
 			<title>Cover Letter for Response to Request for Additional Information Set 14 (Material Control and, Accounting) for the TRISO-X License Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25135A377</link>
@@ -73,13 +80,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
 			<pubDate>2025-05-08 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>05/16/2025 Meeting to discuss NRC's Human Factor RAIs 4 and 5 with TRISO-X</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25127A388</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-05-07 16:22:00</pubDate>
 		</item>
 	</channel>
 </rss>

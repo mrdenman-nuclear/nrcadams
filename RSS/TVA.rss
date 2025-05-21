@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 20 May 2025 23:18:39 GMT</pubDate>
-		<lastBuildDate>Tue, 20 May 2025 23:18:39 GMT</lastBuildDate>
+		<pubDate>Wed, 21 May 2025 14:21:47 GMT</pubDate>
+		<lastBuildDate>Wed, 21 May 2025 14:21:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Watts Bar Nuclear Plant, Units 1 and 2 - Issuance of Amendment Nos. 176 and 81 Regarding the Revised Hydrologic Analysis (EPID L-2024-LLA-0006)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25087A090</link>
+			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation, Technical Specifications</description>
+			<author>NRC/NRR/DORL/LPLII-2</author>
+			<pubDate>2025-05-21 10:05:00</pubDate>
+		</item>
+		<item>
+			<title>Pilgrim Nuclear Power Station, Annual Radiological Environmental Operating Report, January 1 through December 31, 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25134A102</link>
+			<description>Environmental Monitoring Report, Letter</description>
+			<author>Holtec Decommissioning International, LLC</author>
+			<pubDate>2025-05-21 08:12:00</pubDate>
+		</item>
+		<item>
+			<title>Watts Bar Nuclear Plant, Unit 2, Revision 1 of the Unit 2 Cycle 7 Core Operating Limits Report (COLR)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25133A056</link>
+			<description>Fuel Cycle Reload Report, Letter</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-05-21 08:11:00</pubDate>
+		</item>
 		<item>
 			<title>Watts Bar Nuclear Plant - Integrated Inspection Report 05000390/2025001 And 05000391/2025001</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25128A347</link>
@@ -143,48 +164,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DORL/LPLII-2</author>
 			<pubDate>2025-05-08 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Seabrook Station, Application to Adopt 10 CFR 50.69, "Risk-informed categorization and treatment of structures, systems and components for nuclear power reactors"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25080A172</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>NextEra Energy Seabrook, LLC</author>
-			<pubDate>2025-05-07 12:28:00</pubDate>
-		</item>
-		<item>
-			<title>Revision to Second Round Request for Additional Information - TVA Request for Approval of Revision 44 to TVA Fleet Quality Assurance Program Description (EPID L-2024-LLQ-0000)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25126A091</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-05-07 10:30:00</pubDate>
-		</item>
-		<item>
-			<title>Benchmark Calculation for the Watts Bar Unit 1 Cycles 1-3 Using the SCALE 6.3/Polaris–PARCS v3.4.2 Code Package</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25113A083</link>
-			<description>Report, Technical</description>
-			<author>Oak Ridge National Lab (ORNL)</author>
-			<pubDate>2025-05-07 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Additional Information - TVA Alternative Request to Extend Watts Bar, Unit 2, Containment Inservice Inspection Interval (EPID L-2024-LLR-0081)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25119A129</link>
-			<description>E-Mail, Request for Additional Information (RAI)</description>
-			<author>NRC/NRR/DORL/LPLII-2</author>
-			<pubDate>2025-05-07 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Watts Bar Nuclear Plant, Unit 2, American Society of Mechanical Engineers Boiler and Pressure Vessel Code Section XI, Request for Alternative WBN-2-ISI-03</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25119A203</link>
-			<description>Letter, Request for Code Relief or Alternative</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-05-07 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>LER 2024-002-01 for Sequoyah Nuclear, Unit 1, Treactor Trip due to a Turbine Trip</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25119A263</link>
-			<description>Letter, Licensee Event Report (LER)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-05-07 08:11:00</pubDate>
 		</item>
 	</channel>
 </rss>

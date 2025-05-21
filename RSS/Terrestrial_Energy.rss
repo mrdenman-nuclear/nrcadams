@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 20 May 2025 23:18:39 GMT</pubDate>
-		<lastBuildDate>Tue, 20 May 2025 23:18:39 GMT</lastBuildDate>
+		<pubDate>Wed, 21 May 2025 14:21:47 GMT</pubDate>
+		<lastBuildDate>Wed, 21 May 2025 14:21:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>James A. FitzPatrick Nuclear Power Plant, 2024 Annual Radiological Environmental Operating Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25133A245</link>
+			<description>Environmental Monitoring Report, Letter</description>
+			<author>Constellation Energy Generation, LLC</author>
+			<pubDate>2025-05-21 08:12:00</pubDate>
+		</item>
+		<item>
+			<title>Pilgrim Nuclear Power Station, Annual Radiological Environmental Operating Report, January 1 through December 31, 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25134A102</link>
+			<description>Environmental Monitoring Report, Letter</description>
+			<author>Holtec Decommissioning International, LLC</author>
+			<pubDate>2025-05-21 08:12:00</pubDate>
+		</item>
+		<item>
+			<title>Vermont Yankee Nuclear Power Station, 2024 Radiological Environmental Operating Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25133A017</link>
+			<description>Environmental Report, Letter</description>
+			<author>Entergy Nuclear Operations, Inc</author>
+			<pubDate>2025-05-21 08:11:00</pubDate>
+		</item>
+		<item>
+			<title>Byron Station, Units 1 and 2 - 2024 Radiological Environmental Operating Report (AREOR)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25133A032</link>
+			<description>Environmental Monitoring Report, Letter</description>
+			<author>Constellation Energy Generation, LLC</author>
+			<pubDate>2025-05-21 08:11:00</pubDate>
+		</item>
 		<item>
 			<title>May 2025 Advisory Committee on Reactor Safeguards (ACRS) Full Committee Meeting Topical Reports</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25136A316</link>
@@ -192,34 +220,6 @@
 			<description>Environmental Monitoring Report, Letter, Periodic Monitoring Report (Radiological/Environmental)</description>
 			<author>Vistra Operations Company, LLC</author>
 			<pubDate>2025-05-12 09:02:00</pubDate>
-		</item>
-		<item>
-			<title>Point Beach 2nd Draft SEIS Public Meeting May 2025-Updated Preliminary Findings of the Environmental Review for Point Beach Nuclear Plant, Subsequent License Renewal</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25128A046</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NMSS/DREFS/EPMB1</author>
-			<pubDate>2025-05-09 11:21:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-1437, Supplement 15, Second Renewal, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants: Regarding Subsequent License Renewal for Virgil C. Summer Nuclear Station, Unit 1" Final Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25128A160</link>
-			<description>NUREG</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-05-08 13:33:00</pubDate>
-		</item>
-		<item>
-			<title>St. Lucie, Units 1 and 2 - 2024 Annual Radioactive Effluent Release Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25120A237</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Florida Power and Light Co</author>
-			<pubDate>2025-05-08 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Waterford Steam Electric Station, Unit 3, Annual Radioactive Effluent Release Report (ARERR) 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25120A394</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Entergy Operations, Inc</author>
-			<pubDate>2025-05-08 08:28:00</pubDate>
 		</item>
 	</channel>
 </rss>
