@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 21 May 2025 16:24:25 GMT</pubDate>
-		<lastBuildDate>Wed, 21 May 2025 16:24:25 GMT</lastBuildDate>
+		<pubDate>Wed, 21 May 2025 17:18:47 GMT</pubDate>
+		<lastBuildDate>Wed, 21 May 2025 17:18:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NUREG-1437, DFC, Supp. 10, Second Renewal, Supp. 1, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants, Supplement 10, Second Renewal Regarding Subsequent License Renewal for Peach Bottom Atomic Power Station Units 2 and 3"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25111A147</link>
+			<description>Environmental Impact Statement, NUREG, Draft</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2025-05-21 12:31:00</pubDate>
+		</item>
 		<item>
 			<title>James A. FitzPatrick Nuclear Power Plant, 2024 Annual Radiological Environmental Operating Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25133A245</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25122A146</link>
 			<description>Environmental Monitoring Report, Letter</description>
 			<author>NextEra Energy Seabrook, LLC</author>
-			<pubDate>2025-05-12 09:02:00</pubDate>
-		</item>
-		<item>
-			<title>Beaver Valley Power Station, Unit Nos. 1 and 2 - Submittal of 2024 Annual Radioactive Effluent Release Report, 2024 Annual Radiological Environmental Operating Report, (Non-Radiological)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25122A161</link>
-			<description>Environmental Monitoring Report, Letter, Periodic Monitoring Report (Radiological/Environmental)</description>
-			<author>Vistra Operations Company, LLC</author>
 			<pubDate>2025-05-12 09:02:00</pubDate>
 		</item>
 	</channel>
