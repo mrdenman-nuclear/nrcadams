@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 21 May 2025 23:18:15 GMT</pubDate>
-		<lastBuildDate>Wed, 21 May 2025 23:18:15 GMT</lastBuildDate>
+		<pubDate>Thu, 22 May 2025 14:20:17 GMT</pubDate>
+		<lastBuildDate>Thu, 22 May 2025 14:20:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Watts Bar, Units 1 and 2 - 2024 Annual Radiological Environmental Operating Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25134A274</link>
+			<description>Environmental Monitoring Report, Letter</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-05-22 08:24:00</pubDate>
+		</item>
 		<item>
 			<title>NUREG-1437, DFC, Supp. 17, Second Renewal, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants Supplement 17, Second Renewal, Regarding Subsequent License Renewal for Dresden Nuclear Power Station, Units 2 and 3"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25132A151</link>
@@ -150,41 +157,6 @@
 			<description>Environmental Monitoring Report, Letter</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2025-05-09 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-1437, Supplement 15, Second Renewal, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants: Regarding Subsequent License Renewal for Virgil C. Summer Nuclear Station, Unit 1" Final Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25128A160</link>
-			<description>NUREG</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-05-08 13:33:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry, Sequoyah & Watts Bar - 2024 Annual Assessment Meeting Slides (Final)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25120A232</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/RGN-II/DORS/PB5</author>
-			<pubDate>2025-05-08 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>04/07/2025 Summary of 2024 Annual Assessment Meeting For Browns Ferry, Sequoyah, And Watts Bar Nuclear Plants, Docket Nos. 50-259, 50-260, 50- 296, 50-327, 50-328, 50-390, And 50-391, Meeting No. 20250366</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25120A150</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/RGN-II/DORS/PB5</author>
-			<pubDate>2025-05-08 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>LER 2024-001-01 for Sequoyah Nuclear Plant, Unit 2, Reactor Trip due to an Electrical Trouble Turbine Trip, Second Update Letter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25120A338</link>
-			<description>Letter</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-05-08 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>CORRECTION: Request for Additional Information - TVA Alternative Request to Extend Watts Bar, Unit 2, Containment Inservice Inspection Interval (EPID L-2024-LLR-0081)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25120A364</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DORL/LPLII-2</author>
-			<pubDate>2025-05-08 08:28:00</pubDate>
 		</item>
 	</channel>
 </rss>
