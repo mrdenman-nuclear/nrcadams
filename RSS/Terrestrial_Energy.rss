@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 22 May 2025 19:16:26 GMT</pubDate>
-		<lastBuildDate>Thu, 22 May 2025 19:16:26 GMT</lastBuildDate>
+		<pubDate>Thu, 22 May 2025 20:20:44 GMT</pubDate>
+		<lastBuildDate>Thu, 22 May 2025 20:20:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Request For Concurrence With Endangered Species Act Determinations For Dresden Nuclear Power Station, Units 2 And 3, Proposed Subsequent License Renewal In Grundy And Will Counties, Illinois (IPAC Project Code: 2025-0011149) (Docket Numbers: 050-00237...</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25122A068</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DREFS/ETRB1</author>
+			<pubDate>2025-05-22 15:39:00</pubDate>
+		</item>
 		<item>
 			<title>HNP Subsequent License Renewal Application Appendix E, Applicant's Environmental Report-Operating License Renewal Stage</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25135A392</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Transcript</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-05-14 16:21:00</pubDate>
-		</item>
-		<item>
-			<title>Attachment 1: 2024 Limerick Generating Station Annual Radioactive Effluent Release Report No. 50</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25120A436</link>
-			<description>Environmental Monitoring Report</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2025-05-12 16:40:00</pubDate>
 		</item>
 	</channel>
 </rss>
