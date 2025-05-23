@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 22 May 2025 23:18:12 GMT</pubDate>
-		<lastBuildDate>Thu, 22 May 2025 23:18:12 GMT</lastBuildDate>
+		<pubDate>Fri, 23 May 2025 14:19:43 GMT</pubDate>
+		<lastBuildDate>Fri, 23 May 2025 14:19:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SECY-25-0036: Enclosure - Significant Advanced Reactor Significant Accomplishments for CY 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24334A056</link>
+			<description>Commission SECY Paper</description>
+			<author>NRC/NRR, NRC/NRR/DANU</author>
+			<pubDate>2025-05-23 07:57:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Risk-Informed EP_RREP 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25142A178</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NSIR/DPR</author>
+			<pubDate>2025-05-23 07:57:00</pubDate>
+		</item>
+		<item>
+			<title>SECY-25-0036: Advanced Reactor Program Status</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24334A055</link>
+			<description>Commission SECY Paper</description>
+			<author>NRC/NRR, NRC/NRR/DANU</author>
+			<pubDate>2025-05-23 07:56:00</pubDate>
+		</item>
 		<item>
 			<title>Input for ACRS Review of the NuScale US460 Standard Design Approval Application - Safety Evaluation Report for Chapter 15, "Transient and Accident Analyses"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25139A552</link>
@@ -164,13 +185,6 @@
 			<description>Guidance Document</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2025-05-14 08:16:00</pubDate>
-		</item>
-		<item>
-			<title>EPRI - Submittal of Responses to the Us NRC’s Request for Additional Information (January 2025) On EPRI’s Technical Report 3002025288, "Enhanced Risk-Informed Categorization Methodology for Pressure Boundary Components"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25121A203</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>Electric Power Research Institute (EPRI)</author>
-			<pubDate>2025-05-09 08:06:00</pubDate>
 		</item>
 	</channel>
 </rss>

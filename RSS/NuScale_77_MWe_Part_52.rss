@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 22 May 2025 23:18:07 GMT</pubDate>
-		<lastBuildDate>Thu, 22 May 2025 23:18:07 GMT</lastBuildDate>
+		<pubDate>Fri, 23 May 2025 14:19:37 GMT</pubDate>
+		<lastBuildDate>Fri, 23 May 2025 14:19:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>Legal-Affidavit, Letter, Report, Technical, Topical Report</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-05-20 08:25:00</pubDate>
-		</item>
-		<item>
-			<title>NRC FORM 898 - Completeness Determination For NuScale Topical Report TR-147121, Rev 0, "Supplement 1 to TR-1015-18653-P-A, "Design of the Highly Integrated Protection System Platform,</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25120A245</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-05-09 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>Email Transmitting NRC Form 898 For NuScale Topical Report TR-147121, Rev. 0.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25120A246</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-05-09 08:06:00</pubDate>
 		</item>
 	</channel>
 </rss>

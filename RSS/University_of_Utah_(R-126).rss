@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 22 May 2025 23:18:07 GMT</pubDate>
-		<lastBuildDate>Thu, 22 May 2025 23:18:07 GMT</lastBuildDate>
+		<pubDate>Fri, 23 May 2025 14:19:38 GMT</pubDate>
+		<lastBuildDate>Fri, 23 May 2025 14:19:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>University of Utah Part 55 Exemption Enclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25072A202</link>
+			<description>Exemption from NRC Requirements</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2025-05-23 07:57:00</pubDate>
+		</item>
+		<item>
+			<title>University Of Utah - Approval Of Exemption From The Requirements Of 10 CFR Part 55, "Operators' Licenses"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25072A203</link>
+			<description>Exemption from NRC Requirements, Letter</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2025-05-23 07:57:00</pubDate>
+		</item>
+	</channel>
 </rss>

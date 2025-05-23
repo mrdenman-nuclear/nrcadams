@@ -5,11 +5,53 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 22 May 2025 23:18:07 GMT</pubDate>
-		<lastBuildDate>Thu, 22 May 2025 23:18:07 GMT</lastBuildDate>
+		<pubDate>Fri, 23 May 2025 14:19:37 GMT</pubDate>
+		<lastBuildDate>Fri, 23 May 2025 14:19:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>TerraPower, LLC - Final Safety Evaluation of Topical Report NAT-9390, "Design Basis Accident Methodology for In-Vessel Events Without Radiological Release," Rev. 2 (EPID L-2023-TOP-0050)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25106A040</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-05-23 07:56:00</pubDate>
+		</item>
+		<item>
+			<title>Letter - TerraPower, LLC - Final Safety Evaluation of Topical Report NAT-9393, "Stability Methodology," Rev 0 (EPID L-2023-TOP-0057)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25105A068</link>
+			<description>Letter</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-05-23 07:56:00</pubDate>
+		</item>
+		<item>
+			<title>PUBLIC - Enclosure - TerraPower, LLC - Final Safety Evaluation of Topical Report NAT-9390, "Design Basis Accident Methodology for In-Vessel Events Without Radiological Release," Rev 2 (EPID L-2023-TOP-0050)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25106A043</link>
+			<description>Safety Evaluation</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-05-23 07:56:00</pubDate>
+		</item>
+		<item>
+			<title>Public - Enclosure - TerraPower, LLC - Final Safety Evaluation of Topical Report NAT-9393, "Stability Methodology," Rev 0 (EPID L-2023-TOP-0057)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25105A066</link>
+			<description>Safety Evaluation</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-05-23 07:56:00</pubDate>
+		</item>
+		<item>
+			<title>TerraPower, LLC - Final Safety Evaluation of Topical Report NAT-2695, "Human Factors Engineering Program Plan and Methodologies," Rev. 1 (EPID L-2023-TOP-0026)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A268</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-05-23 07:56:00</pubDate>
+		</item>
+		<item>
+			<title>PUBLIC - Enclosure - TerraPower, LLC - Final Safety Evaluation of Topical Report NAT-2695, "Human Factors Engineering Program Plan and Methodologies," Rev 1 (EPID L-2023-TOP-0026)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A276</link>
+			<description>Safety Evaluation</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-05-23 07:56:00</pubDate>
+		</item>
+	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 22 May 2025 23:18:12 GMT</pubDate>
-		<lastBuildDate>Thu, 22 May 2025 23:18:12 GMT</lastBuildDate>
+		<pubDate>Fri, 23 May 2025 14:19:43 GMT</pubDate>
+		<lastBuildDate>Fri, 23 May 2025 14:19:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -136,27 +136,6 @@
 			<description>Inspection Report, Letter</description>
 			<author>NRC/RGN-II/DORS</author>
 			<pubDate>2025-05-13 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>Sequoyah Nuclear Plant, Units 1 and 2, Annual Radiological Environmental Operating Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25128A182</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-05-09 10:30:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3, Application for Subsequent Renewed Operating Licenses, Sixth Safety Supplement (EPID L-2024-SLE-0000)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25121A174</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-05-09 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3, 2024 Annual Radioactive Effluent Release Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25121A148</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-05-09 08:05:00</pubDate>
 		</item>
 	</channel>
 </rss>
