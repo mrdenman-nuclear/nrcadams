@@ -5,39 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 23 May 2025 23:17:28 GMT</pubDate>
-		<lastBuildDate>Fri, 23 May 2025 23:17:28 GMT</lastBuildDate>
+		<pubDate>Mon, 26 May 2025 14:20:27 GMT</pubDate>
+		<lastBuildDate>Mon, 26 May 2025 14:20:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>University of New Mexico - License Amendment No. 8 for the AGN201M Research Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25090A286</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2025-05-12 09:03:00</pubDate>
-		</item>
-		<item>
-			<title>University of New Mexico - Transmittal of License Amendment No. 8 for the AGN-201M Research Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25090A287</link>
-			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2025-05-12 09:03:00</pubDate>
-		</item>
-		<item>
-			<title>University of New Mexico - Safety Evaluation of License Amendment No. 8 for the AGN201M Research Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25090A288</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2025-05-12 09:03:00</pubDate>
-		</item>
-		<item>
-			<title>TSAF50-00252 - Univ of New Mexico, Current Facility Operating License R-102, Tech Specs, Revised 05/12/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML14204A610</link>
-			<description>Environmental Assessment, License-Operating (New/Renewal/Amendments) DKT 50, Technical Specification, Amendment</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-12 08:08:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 23 May 2025 23:17:38 GMT</pubDate>
-		<lastBuildDate>Fri, 23 May 2025 23:17:38 GMT</lastBuildDate>
+		<pubDate>Mon, 26 May 2025 14:20:30 GMT</pubDate>
+		<lastBuildDate>Mon, 26 May 2025 14:20:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>ARC Clean Technology</author>
 			<pubDate>2025-05-21 13:45:00</pubDate>
-		</item>
-		<item>
-			<title>M250513: Transcript- Strategic Programmatic Overview of the Fuel Facilities and the Spent Fuel Storage and Transportation Business Lines</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25139A570</link>
-			<description>Commission Meeting Transcript</description>
-			<author>NRC/OCM</author>
-			<pubDate>2025-05-19 16:46:00</pubDate>
 		</item>
 	</channel>
 </rss>

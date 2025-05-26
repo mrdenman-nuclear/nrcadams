@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 23 May 2025 23:17:35 GMT</pubDate>
-		<lastBuildDate>Fri, 23 May 2025 23:17:35 GMT</lastBuildDate>
+		<pubDate>Mon, 26 May 2025 14:20:29 GMT</pubDate>
+		<lastBuildDate>Mon, 26 May 2025 14:20:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,20 +45,6 @@
 			<description>Meeting Transcript</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-05-14 16:21:00</pubDate>
-		</item>
-		<item>
-			<title>6-PV-2023-05 Form 2.3-3 Draft Operating Test Comments - Palo Verde Generating Station</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23143A207</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/RGN-IV/DRS/OB</author>
-			<pubDate>2025-05-12 09:02:00</pubDate>
-		</item>
-		<item>
-			<title>9-PV-2023-05 NRC Final Operating Test - Palo Verde Generating Station</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23143A210</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/RGN-IV/DRS/OB</author>
-			<pubDate>2025-05-12 09:02:00</pubDate>
 		</item>
 	</channel>
 </rss>

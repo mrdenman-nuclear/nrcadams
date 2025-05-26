@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 23 May 2025 23:17:25 GMT</pubDate>
-		<lastBuildDate>Fri, 23 May 2025 23:17:25 GMT</lastBuildDate>
+		<pubDate>Mon, 26 May 2025 14:20:24 GMT</pubDate>
+		<lastBuildDate>Mon, 26 May 2025 14:20:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -164,34 +164,6 @@
 			<description>Legal-Affidavit, Letter, Report, Technical, Topical Report</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-05-20 08:25:00</pubDate>
-		</item>
-		<item>
-			<title>Audit Plan for TR Postulated Initiating Events for the IMSR400 Revision A - Email Transmittal.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25139A596</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-19 17:03:00</pubDate>
-		</item>
-		<item>
-			<title>Cover Letter for Response to Request for Additional Information Set 14 (Material Control and, Accounting) for the TRISO-X License Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25135A377</link>
-			<description>Letter</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2025-05-19 09:45:00</pubDate>
-		</item>
-		<item>
-			<title>Email- Clarification of Scope for Oklo Topical Report on Product Based Operator Licensing Framework</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25132A054</link>
-			<description>E-Mail</description>
-			<author>Oklo Inc</author>
-			<pubDate>2025-05-19 08:42:00</pubDate>
-		</item>
-		<item>
-			<title>Cover Letter - Set 14 of Requests for Additional Information for the MC&A Portion of the TRISO-X License Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25114A049</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2025-05-19 08:42:00</pubDate>
 		</item>
 	</channel>
 </rss>
