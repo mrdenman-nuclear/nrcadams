@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 27 May 2025 16:24:13 GMT</pubDate>
-		<lastBuildDate>Tue, 27 May 2025 16:24:13 GMT</lastBuildDate>
+		<pubDate>Tue, 27 May 2025 17:17:35 GMT</pubDate>
+		<lastBuildDate>Tue, 27 May 2025 17:17:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>05/28/2025 Public Meeting with Abilene Christian University (ACU) to Discuss Fuel Qualification Methodology</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25147A128</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-05-27 12:42:00</pubDate>
+		</item>
+		<item>
+			<title>Meeting Slides - NRC Feedback on ACU Fuel Qualification Methodology White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25147A102</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-05-27 12:31:00</pubDate>
+		</item>
 		<item>
 			<title>Staff -A Verification Form 896 for NuScale Topical Report TR-0516-49416-P-A, Revision 5 "Non-Loss-of-Coolant Accident Analysis Methodology"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25139A117</link>
@@ -206,20 +220,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-05-19 17:03:00</pubDate>
-		</item>
-		<item>
-			<title>Cover Letter for Response to Request for Additional Information Set 14 (Material Control and, Accounting) for the TRISO-X License Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25135A377</link>
-			<description>Letter</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2025-05-19 09:45:00</pubDate>
-		</item>
-		<item>
-			<title>Email- Clarification of Scope for Oklo Topical Report on Product Based Operator Licensing Framework</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25132A054</link>
-			<description>E-Mail</description>
-			<author>Oklo Inc</author>
-			<pubDate>2025-05-19 08:42:00</pubDate>
 		</item>
 	</channel>
 </rss>

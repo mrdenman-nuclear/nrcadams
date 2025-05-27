@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 27 May 2025 16:24:13 GMT</pubDate>
-		<lastBuildDate>Tue, 27 May 2025 16:24:13 GMT</lastBuildDate>
+		<pubDate>Tue, 27 May 2025 17:17:35 GMT</pubDate>
+		<lastBuildDate>Tue, 27 May 2025 17:17:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>05/28/2025 Public Meeting with Abilene Christian University (ACU) to Discuss Fuel Qualification Methodology</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25147A128</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-05-27 12:42:00</pubDate>
+		</item>
+		<item>
+			<title>Meeting Slides - NRC Feedback on ACU Fuel Qualification Methodology White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25147A102</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-05-27 12:31:00</pubDate>
+		</item>
+	</channel>
 </rss>
