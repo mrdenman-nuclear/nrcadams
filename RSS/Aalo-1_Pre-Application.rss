@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 27 May 2025 19:15:41 GMT</pubDate>
-		<lastBuildDate>Tue, 27 May 2025 19:15:41 GMT</lastBuildDate>
+		<pubDate>Tue, 27 May 2025 20:21:56 GMT</pubDate>
+		<lastBuildDate>Tue, 27 May 2025 20:21:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>NRC 898-Aalo-QAP-001, Quality Assurance Program for Aalo Atomics</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25142A233</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2025-05-27 16:19:00</pubDate>
+		</item>
+		<item>
+			<title>Completeness Review - Quality Assurance Program Description Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25142A234</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2025-05-27 16:19:00</pubDate>
+		</item>
+	</channel>
 </rss>
