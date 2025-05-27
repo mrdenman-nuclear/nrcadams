@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 27 May 2025 20:21:56 GMT</pubDate>
-		<lastBuildDate>Tue, 27 May 2025 20:21:56 GMT</lastBuildDate>
+		<pubDate>Tue, 27 May 2025 21:18:46 GMT</pubDate>
+		<lastBuildDate>Tue, 27 May 2025 21:18:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale US460 SDAA Chapter 15 SER</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25029A125</link>
+			<description>Safety Evaluation Report, Draft</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2025-05-27 16:38:00</pubDate>
+		</item>
 		<item>
 			<title>NRC 898-Aalo-QAP-001, Quality Assurance Program for Aalo Atomics</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25142A233</link>
@@ -213,13 +220,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-05-21 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Terrestrial Energy USA - Audit Plan for TR Postulated Initiating Events for the IMSR400 Revision A.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25118A101</link>
-			<description>Audit Plan</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-20 14:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
