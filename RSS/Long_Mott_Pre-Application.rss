@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 26 May 2025 23:16:39 GMT</pubDate>
-		<lastBuildDate>Mon, 26 May 2025 23:16:39 GMT</lastBuildDate>
+		<pubDate>Tue, 27 May 2025 14:20:57 GMT</pubDate>
+		<lastBuildDate>Tue, 27 May 2025 14:20:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2025/05/12 Project Long Mott Docs - ESA Section 7 questions and the use of Information for Planning and Consultation (IPaC)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25132A212</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-05-27 07:58:00</pubDate>
+		</item>
 		<item>
 			<title>2025/05/07 Project Long Mott Docs - Process Questions after Acceptance</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25127A442</link>
@@ -24,13 +31,6 @@
 			<description>Letter, Proprietary Information Review</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2025-05-15 07:54:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Generating Station CP Application Acceptance Letter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25115A247</link>
-			<description>Acceptance Review Letter, Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-05-13 10:32:00</pubDate>
 		</item>
 	</channel>
 </rss>

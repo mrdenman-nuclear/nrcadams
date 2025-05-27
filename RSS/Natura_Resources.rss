@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 26 May 2025 23:16:45 GMT</pubDate>
-		<lastBuildDate>Mon, 26 May 2025 23:16:45 GMT</lastBuildDate>
+		<pubDate>Tue, 27 May 2025 14:21:03 GMT</pubDate>
+		<lastBuildDate>Tue, 27 May 2025 14:21:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Commission SECY Paper</description>
 			<author>NRC/NRR, NRC/NRR/DANU</author>
 			<pubDate>2025-05-23 07:56:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Information from Public Disclosure for Abilene Christian University (ACU)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25129A126</link>
-			<description>Letter</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-13 11:32:00</pubDate>
 		</item>
 	</channel>
 </rss>

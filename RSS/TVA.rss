@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 26 May 2025 23:16:45 GMT</pubDate>
-		<lastBuildDate>Mon, 26 May 2025 23:16:45 GMT</lastBuildDate>
+		<pubDate>Tue, 27 May 2025 14:21:03 GMT</pubDate>
+		<lastBuildDate>Tue, 27 May 2025 14:21:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -122,20 +122,6 @@
 			<description>Fuel Cycle Reload Report, Letter</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2025-05-14 08:00:00</pubDate>
-		</item>
-		<item>
-			<title>Acceptance Review Results for Browns Ferry Nuclear Plant, Units 1, 2, and 3, License Amendment Request to Adopt TSTF-423-A, Revision 1 (EPID L-2025-LLA-0070)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25125A217</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DORL/LPLII-2</author>
-			<pubDate>2025-05-13 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry Nuclear Plant Integrated Inspection Report 05000259/2025001 05000260/2025001 And 05000296/2025001</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25125A068</link>
-			<description>Inspection Report, Letter</description>
-			<author>NRC/RGN-II/DORS</author>
-			<pubDate>2025-05-13 08:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
