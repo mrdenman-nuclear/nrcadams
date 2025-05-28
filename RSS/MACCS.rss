@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 28 May 2025 15:20:21 GMT</pubDate>
-		<lastBuildDate>Wed, 28 May 2025 15:20:21 GMT</lastBuildDate>
+		<pubDate>Wed, 28 May 2025 16:22:30 GMT</pubDate>
+		<lastBuildDate>Wed, 28 May 2025 16:22:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale SDAA - FSER Chapter 19 - Probabilistic Risk Assessment and Severe Accident Evaluation</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A425</link>
+			<description>Final Safety Evaluation Report (FSER)</description>
+			<author>NRC/NRR/DNRL</author>
+			<pubDate>2025-05-28 11:25:00</pubDate>
+		</item>
 		<item>
 			<title>SECY-25-0036: Enclosure - Significant Advanced Reactor Significant Accomplishments for CY 2024</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24334A056</link>
