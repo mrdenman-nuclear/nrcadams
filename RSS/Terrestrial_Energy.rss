@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 28 May 2025 19:16:08 GMT</pubDate>
-		<lastBuildDate>Wed, 28 May 2025 19:16:08 GMT</lastBuildDate>
+		<pubDate>Wed, 28 May 2025 21:18:17 GMT</pubDate>
+		<lastBuildDate>Wed, 28 May 2025 21:18:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Transcript, Public Meeting to Receive Comments on the Point Beach Second Draft Supplemental Environmental Impact Statement, May 15, 2025, Pages 1-46</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25148A217</link>
+			<description>Meeting Transcript</description>
+			<author>NRC/NMSS/DREFS/EPMB1</author>
+			<pubDate>2025-05-28 15:36:00</pubDate>
+		</item>
 		<item>
 			<title>Draft Decommissioning Alternatives Study Report - Sequoyah Facility</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25014A249</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25118A071</link>
 			<description>Annual Operating Report, Letter</description>
 			<author>Wolf Creek Nuclear Operating Corp</author>
-			<pubDate>2025-05-20 08:25:00</pubDate>
-		</item>
-		<item>
-			<title>Surry Power Station Units 1 And 2, 2024 Annual Radiological Environmental Opera Ting Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25119A073</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Virginia Electric and Power Co (VEPCO)</author>
 			<pubDate>2025-05-20 08:25:00</pubDate>
 		</item>
 	</channel>
