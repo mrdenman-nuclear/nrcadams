@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 28 May 2025 23:19:09 GMT</pubDate>
-		<lastBuildDate>Wed, 28 May 2025 23:19:09 GMT</lastBuildDate>
+		<pubDate>Thu, 29 May 2025 14:21:11 GMT</pubDate>
+		<lastBuildDate>Thu, 29 May 2025 14:21:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Watts Bar Nuclear Plant, Unit 1, Cycle 19 Steam Generator Tube Inspection Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25141A010</link>
+			<description>Inservice/Preservice Inspection and Test Report, Letter</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-05-29 08:17:00</pubDate>
+		</item>
 		<item>
 			<title>Acceptance Review Results for Watts Bar Nuclear Plant, Unit 2, Request for Alternative to Use ASME Code Case N-716-3 (EPID L-2025-LLR-0050)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25148A273</link>
@@ -73,20 +80,6 @@
 			<description>Inspection Report, Letter</description>
 			<author>NRC/RGN-II/DORS/PB5</author>
 			<pubDate>2025-05-16 08:47:00</pubDate>
-		</item>
-		<item>
-			<title>Callaway Plant, Unit 1 - Final Safety Analysis Report Rev. OL-27 and Technical Specification Bases Rev. 25, Chapter 2, Figures</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24191A278</link>
-			<description>Drawing, Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Ameren Missouri, Union Electric Co</author>
-			<pubDate>2025-05-15 15:45:00</pubDate>
-		</item>
-		<item>
-			<title>Callaway Plant, Unit 1 - Final Safety Analysis Report Rev. OL-27 and Technical Specification Bases Rev. 25, Chapter 2, Site Characteristics</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24191A290</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Ameren Missouri, Union Electric Co</author>
-			<pubDate>2025-05-15 15:45:00</pubDate>
 		</item>
 	</channel>
 </rss>
