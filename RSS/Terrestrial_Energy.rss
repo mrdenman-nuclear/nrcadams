@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 29 May 2025 18:25:30 GMT</pubDate>
-		<lastBuildDate>Thu, 29 May 2025 18:25:30 GMT</lastBuildDate>
+		<pubDate>Thu, 29 May 2025 19:15:42 GMT</pubDate>
+		<lastBuildDate>Thu, 29 May 2025 19:15:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>Final Safety Evaluation Report (FSER)</description>
 			<author>NRC/NRR/DNRL</author>
 			<pubDate>2025-05-28 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>M250606: Slides - Meeting with the Advisory Committee on Reactor Safeguards</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25148A177</link>
-			<description>Commission Meeting Slides</description>
-			<author>NRC/OCM</author>
-			<pubDate>2025-05-28 11:24:00</pubDate>
 		</item>
 		<item>
 			<title>Comanche Peak, Unit 1, Current Facility Operating License NPF-87, Tech Specs, Revised 05/28/2025.</title>
@@ -220,6 +213,13 @@
 			<description>Environmental Monitoring Report</description>
 			<author>Constellation Energy Generation, LLC</author>
 			<pubDate>2025-05-20 12:40:00</pubDate>
+		</item>
+		<item>
+			<title>Wolf Creek Generating Station, 2024 Annual Radiological Environmental Operating Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25118A071</link>
+			<description>Annual Operating Report, Letter</description>
+			<author>Wolf Creek Nuclear Operating Corp</author>
+			<pubDate>2025-05-20 08:25:00</pubDate>
 		</item>
 	</channel>
 </rss>
