@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 30 May 2025 15:18:36 GMT</pubDate>
-		<lastBuildDate>Fri, 30 May 2025 15:18:36 GMT</lastBuildDate>
+		<pubDate>Fri, 30 May 2025 16:22:28 GMT</pubDate>
+		<lastBuildDate>Fri, 30 May 2025 16:22:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>LTR-25-0211 Peter Hastings, PE, Vice President, Regulatory, Quality, and Public Affairs, Kairos Power, LLC, Letter re: Endorsement for letter from ClearPath, the Clean Air Task Force, and Veriten on Transformative Regulatory Reform for New Reactors</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25139A429</link>
+			<description>Letter</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2025-05-30 11:34:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 1: Clinch River Nuclear Site - Construction Permit Application, Enclosure 3, Preliminary Safety Analysis Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25140A064</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25094A182</link>
 			<description>Final Safety Evaluation Report (FSER)</description>
 			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 19 - Probabilistic Risk Assessment and Severe Accident Evaluation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A425</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL</author>
 			<pubDate>2025-05-28 11:25:00</pubDate>
 		</item>
 	</channel>
