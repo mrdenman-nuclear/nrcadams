@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 29 May 2025 23:18:07 GMT</pubDate>
-		<lastBuildDate>Thu, 29 May 2025 23:18:07 GMT</lastBuildDate>
+		<pubDate>Fri, 30 May 2025 14:20:07 GMT</pubDate>
+		<lastBuildDate>Fri, 30 May 2025 14:20:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Summary of May 16, 2025, Phone Call with Tennessee Valley Authority Regarding Potential Use of Alternative RV-02 at Sequoyah Nuclear Plant, Unit 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25139A516</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DORL/LPLII-2</author>
+			<pubDate>2025-05-30 08:16:00</pubDate>
+		</item>
+		<item>
+			<title>Letter to TVA Browns Ferry NOA DEIS</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25114A124</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DREFS/EPMB1</author>
+			<pubDate>2025-05-30 08:16:00</pubDate>
+		</item>
+		<item>
+			<title>EPRI - Materials Reliability Program: Pressurized Water Reactor Internals Inspection and Evaluation Guidelines (MRP-227, Revision 2-A)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25142A177</link>
+			<description>Report, Technical</description>
+			<author>Electric Power Research Institute (EPRI)</author>
+			<pubDate>2025-05-30 08:14:00</pubDate>
+		</item>
 		<item>
 			<title>SECY-97-011O - Status Report on Implementation of Dam Safety Program. Vols 1 to FEMA 284,9-96 & Vol 2 to FEMA 285,9-96, "National Dam Safety Program," attached.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML12284A135</link>
@@ -80,13 +101,6 @@
 			<description>Fuel Cycle Reload Report, Letter</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2025-05-21 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Watts Bar Nuclear Plant - Integrated Inspection Report 05000390/2025001 And 05000391/2025001</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25128A347</link>
-			<description>Inspection Report, Letter</description>
-			<author>NRC/RGN-II/DORS/PB5</author>
-			<pubDate>2025-05-16 08:47:00</pubDate>
 		</item>
 	</channel>
 </rss>

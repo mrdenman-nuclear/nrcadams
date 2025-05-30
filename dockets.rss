@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 29 May 2025 23:17:59 GMT</pubDate>
-		<lastBuildDate>Thu, 29 May 2025 23:17:59 GMT</lastBuildDate>
+		<pubDate>Fri, 30 May 2025 14:19:58 GMT</pubDate>
+		<lastBuildDate>Fri, 30 May 2025 14:19:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submittal of Supporting Document for Review of Westinghouse Advanced Logic System (ALS) v2 Platform Elimination of Technical Specification Surveillance Requirements Topical Report (WCAP-18810)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25142A301</link>
+			<description>Letter</description>
+			<author>Westinghouse Electric Co</author>
+			<pubDate>2025-05-30 08:15:00</pubDate>
+		</item>
+		<item>
+			<title>Westinghouse - Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25142A302</link>
+			<description>Legal-Affidavit</description>
+			<author>Westinghouse Electric Co</author>
+			<pubDate>2025-05-30 08:15:00</pubDate>
+		</item>
+		<item>
+			<title>Staff - A Verification Form 896 for NuScale Topical Report "Loss-of-Coolant Accident Evaluation Model," TR-0516-49422, Revision 5</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25139A110</link>
+			<description>- No Document Type Applies</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2025-05-30 08:14:00</pubDate>
+		</item>
+		<item>
+			<title>Email Transmittal for NRC Form 896 for NuScale LOCA-A, TR-0516-49422, Revision 5</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25139A109</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2025-05-30 08:14:00</pubDate>
+		</item>
 		<item>
 			<title>Standard Design Approval SDA for the NuScale US460 Power Plant Design</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25129A004</link>
@@ -192,34 +220,6 @@
 			<description>Final Safety Evaluation Report (FSER)</description>
 			<author>NRC/NRR/DNRL</author>
 			<pubDate>2025-05-28 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 17 - Quality Assurance and Reliability Assurance</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A423</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 16 - Technical Specifications</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A422</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 1 - Introduction and General Description of the Plant</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A408</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2025-05-28 11:24:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 2 - Site Characteristics and Site Parameters</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A427</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2025-05-28 11:24:00</pubDate>
 		</item>
 	</channel>
 </rss>

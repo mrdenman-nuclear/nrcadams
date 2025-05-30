@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 29 May 2025 23:18:07 GMT</pubDate>
-		<lastBuildDate>Thu, 29 May 2025 23:18:07 GMT</lastBuildDate>
+		<pubDate>Fri, 30 May 2025 14:20:07 GMT</pubDate>
+		<lastBuildDate>Fri, 30 May 2025 14:20:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC-2024-0076 - PNP FRN FINAL EA and FONSI</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25141A055</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/NMSS/DREFS</author>
+			<pubDate>2025-05-30 09:27:00</pubDate>
+		</item>
+		<item>
+			<title>Transcript of Public Meeting to Receive Comments on the Draft Supplemental Environmental Impact Statement for the License Renewal of Clinton Power Station, Unit 1, May 6, 2025, Pages 1-22</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25142A359</link>
+			<description>Meeting Transcript</description>
+			<author>NRC/NMSS/DREFS/EPMB1</author>
+			<pubDate>2025-05-30 08:15:00</pubDate>
+		</item>
+		<item>
+			<title>Palisades, Final Environmental Assessment</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25111A031</link>
+			<description>Environmental Assessment</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2025-05-30 07:30:00</pubDate>
+		</item>
 		<item>
 			<title>Diablo Canyon, Unit 1, Current Facility Operating License DPR-80, Tech Specs, Revised 05/29/2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053140349</link>
@@ -199,27 +220,6 @@
 			<description>Environmental Monitoring Report, Letter</description>
 			<author>Constellation Energy Generation, LLC</author>
 			<pubDate>2025-05-21 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>May 2025 Advisory Committee on Reactor Safeguards (ACRS) Full Committee Meeting Topical Reports</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25136A316</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-05-20 15:31:00</pubDate>
-		</item>
-		<item>
-			<title>Calvert Cliffs Nuclear Power Plant, Units 1 & 2, and Independent Spent Fuel Storage Installation - Annual Radiological Environmental Operating Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25135A003</link>
-			<description>Environmental Monitoring Report</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2025-05-20 12:40:00</pubDate>
-		</item>
-		<item>
-			<title>Wolf Creek Generating Station, 2024 Annual Radiological Environmental Operating Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25118A071</link>
-			<description>Annual Operating Report, Letter</description>
-			<author>Wolf Creek Nuclear Operating Corp</author>
-			<pubDate>2025-05-20 08:25:00</pubDate>
 		</item>
 	</channel>
 </rss>
