@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 30 May 2025 21:17:37 GMT</pubDate>
-		<lastBuildDate>Fri, 30 May 2025 21:17:37 GMT</lastBuildDate>
+		<pubDate>Fri, 30 May 2025 22:18:30 GMT</pubDate>
+		<lastBuildDate>Fri, 30 May 2025 22:18:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -47,13 +47,6 @@
 			<pubDate>2025-05-30 13:49:00</pubDate>
 		</item>
 		<item>
-			<title>X-Energy 100 Licensing Topical Report GOTHIC and Flownex Analysis Codes Qualification - SC - June 3, 2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25150A289</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>X-Energy</author>
-			<pubDate>2025-05-30 13:49:00</pubDate>
-		</item>
-		<item>
 			<title>X-Energy Licensing Topical Report Transient and Safety Analysis Methodology - SC - June 3, 2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25150A292</link>
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
@@ -63,6 +56,13 @@
 		<item>
 			<title>X-Energy 100 Analysis Review - SC - June 3, 2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25150A288</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>X-Energy</author>
+			<pubDate>2025-05-30 13:49:00</pubDate>
+		</item>
+		<item>
+			<title>X-Energy 100 Licensing Topical Report GOTHIC and Flownex Analysis Codes Qualification - SC - June 3, 2025.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25150A289</link>
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>X-Energy</author>
 			<pubDate>2025-05-30 13:49:00</pubDate>
