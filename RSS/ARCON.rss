@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 30 May 2025 14:20:09 GMT</pubDate>
-		<lastBuildDate>Fri, 30 May 2025 14:20:09 GMT</lastBuildDate>
+		<pubDate>Fri, 30 May 2025 15:18:46 GMT</pubDate>
+		<lastBuildDate>Fri, 30 May 2025 15:18:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Enclosure 1: Clinch River Nuclear Site - Construction Permit Application, Enclosure 3, Preliminary Safety Analysis Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25140A064</link>
+			<description>License-Application for Construction Permit DKT 50, Preliminary Safety Analysis Report (PSAR)</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-05-30 10:46:00</pubDate>
+		</item>
+	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 30 May 2025 14:20:07 GMT</pubDate>
-		<lastBuildDate>Fri, 30 May 2025 14:20:07 GMT</lastBuildDate>
+		<pubDate>Fri, 30 May 2025 15:18:44 GMT</pubDate>
+		<lastBuildDate>Fri, 30 May 2025 15:18:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 1: Clinch River Nuclear Site - Construction Permit Application, Enclosure 3, Preliminary Safety Analysis Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25140A064</link>
+			<description>License-Application for Construction Permit DKT 50, Preliminary Safety Analysis Report (PSAR)</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-05-30 10:46:00</pubDate>
+		</item>
 		<item>
 			<title>NRC-2024-0076 - PNP FRN FINAL EA and FONSI</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25141A055</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25133A017</link>
 			<description>Environmental Report, Letter</description>
 			<author>Entergy Nuclear Operations, Inc</author>
-			<pubDate>2025-05-21 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Byron Station, Units 1 and 2 - 2024 Radiological Environmental Operating Report (AREOR)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25133A032</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Constellation Energy Generation, LLC</author>
 			<pubDate>2025-05-21 08:11:00</pubDate>
 		</item>
 	</channel>
