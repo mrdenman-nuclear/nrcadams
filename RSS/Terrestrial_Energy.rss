@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 02 Jun 2025 15:20:41 GMT</pubDate>
-		<lastBuildDate>Mon, 02 Jun 2025 15:20:41 GMT</lastBuildDate>
+		<pubDate>Mon, 02 Jun 2025 16:23:45 GMT</pubDate>
+		<lastBuildDate>Mon, 02 Jun 2025 16:23:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Biological Assessment for Dewey Burdock ISR License Renewal</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25119A165</link>
+			<description>Environmental Report</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2025-06-02 12:11:00</pubDate>
+		</item>
 		<item>
 			<title>Byron, Unit 1, Current Facility Operating License NPF-37, Tech Specs, Revised 05/30/2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052910365</link>
@@ -213,13 +220,6 @@
 			<description>Environmental Impact Statement, NUREG, Draft</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2025-05-21 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>James A. FitzPatrick Nuclear Power Plant, 2024 Annual Radiological Environmental Operating Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25133A245</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2025-05-21 08:12:00</pubDate>
 		</item>
 	</channel>
 </rss>
