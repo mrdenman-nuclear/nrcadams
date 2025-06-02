@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 30 May 2025 23:17:13 GMT</pubDate>
-		<lastBuildDate>Fri, 30 May 2025 23:17:13 GMT</lastBuildDate>
+		<pubDate>Mon, 02 Jun 2025 14:21:23 GMT</pubDate>
+		<lastBuildDate>Mon, 02 Jun 2025 14:21:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,20 +17,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
 			<pubDate>2025-05-21 08:12:00</pubDate>
-		</item>
-		<item>
-			<title>Cover Letter for Response to Request for Additional Information Set 14 (Material Control and, Accounting) for the TRISO-X License Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25135A377</link>
-			<description>Letter</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2025-05-19 09:45:00</pubDate>
-		</item>
-		<item>
-			<title>Cover Letter - Set 14 of Requests for Additional Information for the MC&A Portion of the TRISO-X License Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25114A049</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2025-05-19 08:42:00</pubDate>
 		</item>
 	</channel>
 </rss>

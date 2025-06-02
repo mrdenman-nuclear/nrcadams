@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 30 May 2025 23:17:10 GMT</pubDate>
-		<lastBuildDate>Fri, 30 May 2025 23:17:10 GMT</lastBuildDate>
+		<pubDate>Mon, 02 Jun 2025 14:21:19 GMT</pubDate>
+		<lastBuildDate>Mon, 02 Jun 2025 14:21:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -16,14 +16,21 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25128A028</link>
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL</author>
-			<pubDate>2025-05-30 14:49:00</pubDate>
+			<pubDate>2025-06-02 09:51:00</pubDate>
 		</item>
 		<item>
 			<title>Final Safety Evaluation Report (FSER) for NuScale US460 Design</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25128A028</link>
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL</author>
-			<pubDate>2025-05-30 14:49:00</pubDate>
+			<pubDate>2025-06-02 09:51:00</pubDate>
+		</item>
+		<item>
+			<title>Transmittal of TerraPower, LLC, Topical Report, "Partial Flow Blockage Methodology," NAT-9395 Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25129A064</link>
+			<description>Legal-Affidavit, Letter, Topical Report</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2025-06-02 08:13:00</pubDate>
 		</item>
 		<item>
 			<title>Enclosure 2: Clinch River Nuclear Site, Construction Permit Application Enclosure 4, Exemptions and Variances</title>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25094A166</link>
 			<description>Final Safety Evaluation Report (FSER)</description>
 			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 14 - Initial Test Program and Inspections, Tests, Analyses, and Acceptance Criteria</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A420</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL</author>
 			<pubDate>2025-05-28 11:25:00</pubDate>
 		</item>
 	</channel>

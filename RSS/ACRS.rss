@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 30 May 2025 23:17:14 GMT</pubDate>
-		<lastBuildDate>Fri, 30 May 2025 23:17:14 GMT</lastBuildDate>
+		<pubDate>Mon, 02 Jun 2025 14:21:24 GMT</pubDate>
+		<lastBuildDate>Mon, 02 Jun 2025 14:21:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Minutes of the 724th Meeting of the Advisory Committee on Reactor Safeguards  (ACRS) for April 2 through 3, 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25148A134</link>
+			<description>Meeting Minutes, Memoranda</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2025-06-02 09:34:00</pubDate>
+		</item>
 		<item>
 			<title>726th Full Committee Meeting of the Advisory Committee on Reactor Safeguards June 4-6, 2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25129A066</link>
@@ -129,20 +136,6 @@
 			<description>Meeting Agenda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-05-20 08:26:00</pubDate>
-		</item>
-		<item>
-			<title>Slides for Human Factors, Reliability, and PRA Subcommittee - Thoughts on Cliff Edge Effects - May 21, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25139A420</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-05-19 15:14:00</pubDate>
-		</item>
-		<item>
-			<title>Slides for Human Factors, Reliability, and PRA Subcommittee - Probabilistic Risk Assessment (PRA) and Advanced Reactors - May 21, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25139A419</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-05-19 13:07:00</pubDate>
 		</item>
 	</channel>
 </rss>

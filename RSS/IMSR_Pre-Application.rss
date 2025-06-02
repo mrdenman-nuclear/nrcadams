@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 30 May 2025 23:17:13 GMT</pubDate>
-		<lastBuildDate>Fri, 30 May 2025 23:17:13 GMT</lastBuildDate>
+		<pubDate>Mon, 02 Jun 2025 14:21:23 GMT</pubDate>
+		<lastBuildDate>Mon, 02 Jun 2025 14:21:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Audit Plan</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-05-20 14:32:00</pubDate>
-		</item>
-		<item>
-			<title>Audit Plan for TR Postulated Initiating Events for the IMSR400 Revision A - Email Transmittal.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25139A596</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-19 17:03:00</pubDate>
 		</item>
 	</channel>
 </rss>

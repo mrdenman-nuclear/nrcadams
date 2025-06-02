@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 30 May 2025 23:17:18 GMT</pubDate>
-		<lastBuildDate>Fri, 30 May 2025 23:17:18 GMT</lastBuildDate>
+		<pubDate>Mon, 02 Jun 2025 14:21:29 GMT</pubDate>
+		<lastBuildDate>Mon, 02 Jun 2025 14:21:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Minutes of the 724th Meeting of the Advisory Committee on Reactor Safeguards  (ACRS) for April 2 through 3, 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25148A134</link>
+			<description>Meeting Minutes, Memoranda</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2025-06-02 09:34:00</pubDate>
+		</item>
 		<item>
 			<title>Non-Concurrence on NuScale SDAA Chapter 15 Safety Evaluation Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25133A110</link>
@@ -150,20 +157,6 @@
 			<description>Letter, Report, Technical</description>
 			<author>Hadron Energy, Inc</author>
 			<pubDate>2025-05-21 14:23:00</pubDate>
-		</item>
-		<item>
-			<title>FOIA-2025-000273 Responsive Document</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25139A574</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/OCIO</author>
-			<pubDate>2025-05-19 16:55:00</pubDate>
-		</item>
-		<item>
-			<title>M250513: Transcript- Strategic Programmatic Overview of the Fuel Facilities and the Spent Fuel Storage and Transportation Business Lines</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25139A570</link>
-			<description>Commission Meeting Transcript</description>
-			<author>NRC/OCM</author>
-			<pubDate>2025-05-19 16:46:00</pubDate>
 		</item>
 	</channel>
 </rss>
