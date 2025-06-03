@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 02 Jun 2025 23:18:21 GMT</pubDate>
-		<lastBuildDate>Mon, 02 Jun 2025 23:18:21 GMT</lastBuildDate>
+		<pubDate>Tue, 03 Jun 2025 14:21:07 GMT</pubDate>
+		<lastBuildDate>Tue, 03 Jun 2025 14:21:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -115,34 +115,6 @@
 			<description>Committee Letter Report</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-05-21 16:00:00</pubDate>
-		</item>
-		<item>
-			<title>May 2025 Advisory Committee on Reactor Safeguards (ACRS) Full Committee Meeting Topical Reports</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25136A316</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-05-20 15:31:00</pubDate>
-		</item>
-		<item>
-			<title>Documentation of Receipt of Applicable Official NRC Notices to the Advisory Committee on Reactor Safeguards for May 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25136A315</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-05-20 15:31:00</pubDate>
-		</item>
-		<item>
-			<title>725th ACRS Full Committee Regulatory Guide - May 6 through May 9, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25136A308</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-05-20 12:41:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - X Energy Xe-100 Topical Report Reviews: Mechanistic Source Term; Transient and Safety Analysis Methodology; Gothic and Flownex Analysis Code Qualification - June 3, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25139A590</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-05-20 08:26:00</pubDate>
 		</item>
 	</channel>
 </rss>

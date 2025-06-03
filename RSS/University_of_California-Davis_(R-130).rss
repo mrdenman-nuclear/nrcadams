@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 02 Jun 2025 23:18:21 GMT</pubDate>
-		<lastBuildDate>Mon, 02 Jun 2025 23:18:21 GMT</lastBuildDate>
+		<pubDate>Tue, 03 Jun 2025 14:21:07 GMT</pubDate>
+		<lastBuildDate>Tue, 03 Jun 2025 14:21:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Univ. of California - Davis - Transmittal of 2024 Annual Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25132A182</link>
-			<description>Letter</description>
-			<author>Univ of California - Davis</author>
-			<pubDate>2025-05-20 08:25:00</pubDate>
-		</item>
-		<item>
-			<title>Univ of California - Davis - 2024 Annual Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25132A183</link>
-			<description>Annual Operating Report</description>
-			<author>Univ of California - Davis</author>
-			<pubDate>2025-05-20 08:25:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
