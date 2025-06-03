@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 03 Jun 2025 19:16:26 GMT</pubDate>
-		<lastBuildDate>Tue, 03 Jun 2025 19:16:26 GMT</lastBuildDate>
+		<pubDate>Tue, 03 Jun 2025 20:22:34 GMT</pubDate>
+		<lastBuildDate>Tue, 03 Jun 2025 20:22:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Westinghouse, Submittal of AP300 SMR Safety Analysis Codes and Methodology White Paper White Paper for Pre-Application Engagement</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25030A352</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>Westinghouse Electric Co, LLC</author>
+			<pubDate>2025-06-03 15:36:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC - Response to SDAA Audit Question Number A-3.9.2-26</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24346A147</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25094A152</link>
 			<description>Final Safety Evaluation Report (FSER)</description>
 			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 5 - Reactor Coolant System and Connecting Systems</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A429</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL</author>
 			<pubDate>2025-05-28 11:25:00</pubDate>
 		</item>
 	</channel>

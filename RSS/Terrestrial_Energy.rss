@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 03 Jun 2025 19:16:33 GMT</pubDate>
-		<lastBuildDate>Tue, 03 Jun 2025 19:16:33 GMT</lastBuildDate>
+		<pubDate>Tue, 03 Jun 2025 20:22:44 GMT</pubDate>
+		<lastBuildDate>Tue, 03 Jun 2025 20:22:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Palo Verde, Unit 1, Current Facility Operating License NPF-41, Tech Specs, Revised 06/03/2025.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053110045</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-06-03 15:25:00</pubDate>
+		</item>
 		<item>
 			<title>Biological Assessment for Dewey Burdock ISR License Renewal</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25119A165</link>
@@ -213,13 +220,6 @@
 			<description>License-Combined License (COL) (New/Renewal/Amendments) DKT 52</description>
 			<author>NRC/NRO/DNRL/LB4</author>
 			<pubDate>2025-05-21 13:33:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-1437, DFC, Supp. 10, Second Renewal, Supp. 1, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants, Supplement 10, Second Renewal Regarding Subsequent License Renewal for Peach Bottom Atomic Power Station Units 2 and 3"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25111A147</link>
-			<description>Environmental Impact Statement, NUREG, Draft</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-05-21 12:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
