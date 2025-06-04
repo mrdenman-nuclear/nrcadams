@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 03 Jun 2025 22:19:52 GMT</pubDate>
-		<lastBuildDate>Tue, 03 Jun 2025 22:19:52 GMT</lastBuildDate>
+		<pubDate>Wed, 04 Jun 2025 14:17:48 GMT</pubDate>
+		<lastBuildDate>Wed, 04 Jun 2025 14:17:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -157,69 +157,6 @@
 			<description>Memoranda</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2025-05-29 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Appendix F - Report by the Advisory Committee on Reactor Safeguards</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25094A191</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Appendix E - Index of Responses to NRC Requests for Additional Information and Audit Items</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25094A186</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Appendix D - Principal Contributors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25094A185</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Appendix C - Abbreviations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25094A183</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Appendix B - References</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25097A179</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Abstract</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25125A238</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER - Table of Contents</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25147A275</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 3 - Design of Structures, Systems, Components and Equipment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A428</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 4 - Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25094A152</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
 		</item>
 	</channel>
 </rss>

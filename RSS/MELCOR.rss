@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 03 Jun 2025 22:20:02 GMT</pubDate>
-		<lastBuildDate>Tue, 03 Jun 2025 22:20:02 GMT</lastBuildDate>
+		<pubDate>Wed, 04 Jun 2025 14:17:57 GMT</pubDate>
+		<lastBuildDate>Wed, 04 Jun 2025 14:17:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,41 +17,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>X-Energy</author>
 			<pubDate>2025-06-02 12:18:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Appendix C - Abbreviations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25094A183</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Appendix B - References</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25097A179</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 6 - Engineered Safety Features</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A431</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 15 - Transient and Accident Analyses</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25094A166</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 19 - Probabilistic Risk Assessment and Severe Accident Evaluation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A425</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 03 Jun 2025 22:20:00 GMT</pubDate>
-		<lastBuildDate>Tue, 03 Jun 2025 22:20:00 GMT</lastBuildDate>
+		<pubDate>Wed, 04 Jun 2025 14:17:56 GMT</pubDate>
+		<lastBuildDate>Wed, 04 Jun 2025 14:17:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Semiannual Status Report on the Licensing Activities and Regulatory Duties (October 2024 - March 2025) Enclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25114A197</link>
+			<description>Status Report</description>
+			<author>NRC/Chairman</author>
+			<pubDate>2025-06-04 09:34:00</pubDate>
+		</item>
 		<item>
 			<title>Palo Verde, Unit 1, Current Facility Operating License NPF-41, Tech Specs, Revised 06/03/2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053110045</link>
@@ -199,27 +206,6 @@
 			<description>Environmental Monitoring Report</description>
 			<author>Microbac Labs, Inc, NextEra Energy Duane Arnold, LLC</author>
 			<pubDate>2025-05-22 08:23:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-1437, DFC, Supp. 17, Second Renewal, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants Supplement 17, Second Renewal, Regarding Subsequent License Renewal for Dresden Nuclear Power Station, Units 2 and 3"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25132A151</link>
-			<description>NUREG, Draft</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-05-21 16:37:00</pubDate>
-		</item>
-		<item>
-			<title>Vogtle Electric Generating Plant, Unit 4, Current Facility Combined License NPF-92, Revised 05/21/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML14100A135</link>
-			<description>License-Combined License (COL) (New/Renewal/Amendments) DKT 52, Technical Specifications, Test/Inspection/Operating Procedure</description>
-			<author>NRC/NRO/DNRL/LB4</author>
-			<pubDate>2025-05-21 13:44:00</pubDate>
-		</item>
-		<item>
-			<title>Vogtle Electric Generating Plant, Unit 3 Current Facility Combined License NPF-91, Revised 05/21/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML14100A106</link>
-			<description>License-Combined License (COL) (New/Renewal/Amendments) DKT 52</description>
-			<author>NRC/NRO/DNRL/LB4</author>
-			<pubDate>2025-05-21 13:33:00</pubDate>
 		</item>
 	</channel>
 </rss>

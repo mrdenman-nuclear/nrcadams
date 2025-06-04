@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 03 Jun 2025 22:19:54 GMT</pubDate>
-		<lastBuildDate>Tue, 03 Jun 2025 22:19:54 GMT</lastBuildDate>
+		<pubDate>Wed, 04 Jun 2025 14:17:50 GMT</pubDate>
+		<lastBuildDate>Wed, 04 Jun 2025 14:17:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,13 +52,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-05-23 07:57:00</pubDate>
-		</item>
-		<item>
-			<title>Final Meeting Summary Kairos OL TR  4-28-25.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25105A044</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-05-21 08:12:00</pubDate>
 		</item>
 	</channel>
 </rss>
