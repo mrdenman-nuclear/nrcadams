@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 04 Jun 2025 23:18:43 GMT</pubDate>
-		<lastBuildDate>Wed, 04 Jun 2025 23:18:43 GMT</lastBuildDate>
+		<pubDate>Thu, 05 Jun 2025 14:20:29 GMT</pubDate>
+		<lastBuildDate>Thu, 05 Jun 2025 14:20:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Transcript of the Advisory Committee on Reactor Safeguards 725th Full Committee Meeting, May 07, 2025 Pages 1-206 (Open)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25156A010</link>
+			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2025-06-05 08:18:00</pubDate>
+		</item>
 		<item>
 			<title>Semiannual Status Report on the Licensing Activities and Regulatory Duties (October 2024 - March 2025) Enclosure</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25114A197</link>
@@ -178,34 +185,6 @@
 			<description>Environmental Monitoring Report, Letter</description>
 			<author>Constellation Energy Generation, LLC</author>
 			<pubDate>2025-05-23 07:56:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-1437, DFC, Supp. 21, Second Renewal, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants Supplement 21, Second Renewal Regarding Subsequent License Renewal of Browns Ferry Nuclear Power Plant, Units 1, 2, and 3"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25133A156</link>
-			<description>NUREG, Draft</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-05-22 16:51:00</pubDate>
-		</item>
-		<item>
-			<title>Request For Concurrence With Endangered Species Act Determinations For Dresden Nuclear Power Station, Units 2 And 3, Proposed Subsequent License Renewal In Grundy And Will Counties, Illinois (IPAC Project Code: 2025-0011149) (Docket Numbers: 050-00237...</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25122A068</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/ETRB1</author>
-			<pubDate>2025-05-22 15:39:00</pubDate>
-		</item>
-		<item>
-			<title>HNP Subsequent License Renewal Application Appendix E, Applicant's Environmental Report-Operating License Renewal Stage</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25135A392</link>
-			<description>License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>Southern Nuclear Operating Co, Inc</author>
-			<pubDate>2025-05-22 09:34:00</pubDate>
-		</item>
-		<item>
-			<title>Duane Arnold, Annual Radiological Environmental Operating Report January 1, 2024 through December 31, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25134A037</link>
-			<description>Environmental Monitoring Report</description>
-			<author>Microbac Labs, Inc, NextEra Energy Duane Arnold, LLC</author>
-			<pubDate>2025-05-22 08:23:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 04 Jun 2025 23:18:38 GMT</pubDate>
-		<lastBuildDate>Wed, 04 Jun 2025 23:18:38 GMT</lastBuildDate>
+		<pubDate>Thu, 05 Jun 2025 14:20:23 GMT</pubDate>
+		<lastBuildDate>Thu, 05 Jun 2025 14:20:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Westinghouse Electric Company LLC. - Audit Plan for Topical Report Advanced Logic System V2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25101A297</link>
+			<description>Audit Plan</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2025-06-05 08:18:00</pubDate>
+		</item>
+		<item>
+			<title>Westinghouse Electric Co. - Transmittal email regarding Draft Audit Plan for ALS v2 Surveilance Elimination TR</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25101A298</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2025-06-05 08:17:00</pubDate>
+		</item>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for Oklo Inc. Information for a Foreign Ownership, Control, or Influence and Non-Possessing Facility Security Clearance Determination</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25148A022</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2025-06-05 08:17:00</pubDate>
+		</item>
 		<item>
 			<title>Westinghouse, Submittal of AP300 SMR Safety Analysis Codes and Methodology White Paper White Paper for Pre-Application Engagement</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25030A352</link>
@@ -199,27 +220,6 @@
 			<description>Final Safety Evaluation Report (FSER)</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-05-28 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER - Table of Contents</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25147A275</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 3 - Design of Structures, Systems, Components and Equipment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A428</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 4 - Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25094A152</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
 		</item>
 	</channel>
 </rss>

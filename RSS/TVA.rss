@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 04 Jun 2025 23:18:43 GMT</pubDate>
-		<lastBuildDate>Wed, 04 Jun 2025 23:18:43 GMT</lastBuildDate>
+		<pubDate>Thu, 05 Jun 2025 14:20:29 GMT</pubDate>
+		<lastBuildDate>Thu, 05 Jun 2025 14:20:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>06/05/2025 Meeting with Tennessee Valley Authority to Discuss a Proposed One-Time License Amendment Request and Possible Exemption</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25156A047</link>
+			<description>Meeting Agenda, Meeting Notice</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-06-05 08:38:00</pubDate>
+		</item>
 		<item>
 			<title>Request for Additional Information - TVA Alternative Request to Extend Watts Bar, Unit 2, Containment Inservice Inspection Interval (EPID L-2024-LLR-0081)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25147A130</link>
@@ -87,20 +94,6 @@
 			<description>Acceptance Review Letter, E-Mail</description>
 			<author>NRC/NRR/DORL/LPLII-2</author>
 			<pubDate>2025-05-28 13:31:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-1437, DFC, Supp. 21, Second Renewal, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants Supplement 21, Second Renewal Regarding Subsequent License Renewal of Browns Ferry Nuclear Power Plant, Units 1, 2, and 3"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25133A156</link>
-			<description>NUREG, Draft</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-05-22 16:51:00</pubDate>
-		</item>
-		<item>
-			<title>Watts Bar, Units 1 and 2 - 2024 Annual Radiological Environmental Operating Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25134A274</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-05-22 08:24:00</pubDate>
 		</item>
 	</channel>
 </rss>
