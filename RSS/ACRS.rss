@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 05 Jun 2025 23:20:00 GMT</pubDate>
-		<lastBuildDate>Thu, 05 Jun 2025 23:20:00 GMT</lastBuildDate>
+		<pubDate>Fri, 06 Jun 2025 14:19:48 GMT</pubDate>
+		<lastBuildDate>Fri, 06 Jun 2025 14:19:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Meeting Minutes, Memoranda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-06-02 09:34:00</pubDate>
-		</item>
-		<item>
-			<title>726th Full Committee Meeting of the Advisory Committee on Reactor Safeguards June 4-6, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25129A066</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/ACRS, NRC/SECY</author>
-			<pubDate>2025-05-23 07:56:00</pubDate>
 		</item>
 	</channel>
 </rss>
