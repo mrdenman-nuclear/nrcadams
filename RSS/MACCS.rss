@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 06 Jun 2025 23:17:53 GMT</pubDate>
-		<lastBuildDate>Fri, 06 Jun 2025 23:17:53 GMT</lastBuildDate>
+		<pubDate>Mon, 09 Jun 2025 14:20:21 GMT</pubDate>
+		<lastBuildDate>Mon, 09 Jun 2025 14:20:21 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Graphics incl Charts and Tables, Letter, Report, Miscellaneous</description>
 			<author>Constellation Energy Generation, LLC</author>
 			<pubDate>2025-06-05 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>X-Energy 100 Licensing Topical Report Mechanistic Source Term Approach - SC - June 3, 2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25150A291</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>X-Energy</author>
-			<pubDate>2025-06-02 12:18:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 06 Jun 2025 23:17:47 GMT</pubDate>
-		<lastBuildDate>Fri, 06 Jun 2025 23:17:47 GMT</lastBuildDate>
+		<pubDate>Mon, 09 Jun 2025 14:20:16 GMT</pubDate>
+		<lastBuildDate>Mon, 09 Jun 2025 14:20:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>NIST - Submittal of License Amendment Request</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25150A404</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
+			<pubDate>2025-06-09 08:14:00</pubDate>
+		</item>
+		<item>
+			<title>NIST - License Amendment Request</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25150A405</link>
+			<description>License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
+			<pubDate>2025-06-09 08:14:00</pubDate>
+		</item>
+	</channel>
 </rss>
