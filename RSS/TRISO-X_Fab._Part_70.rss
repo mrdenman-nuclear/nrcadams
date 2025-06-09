@@ -5,11 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 09 Jun 2025 16:23:14 GMT</pubDate>
-		<lastBuildDate>Mon, 09 Jun 2025 16:23:14 GMT</lastBuildDate>
+		<pubDate>Mon, 09 Jun 2025 17:16:46 GMT</pubDate>
+		<lastBuildDate>Mon, 09 Jun 2025 17:16:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Enclosure: Set 13 License Chapter 1 and 2 RAI Responses</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25148A401</link>
+			<description>Response to Request for Additional Information (RAI)</description>
+			<author>Triso-X, LLC</author>
+			<pubDate>2025-06-09 12:34:00</pubDate>
+		</item>
+		<item>
+			<title>Triso-X, LLC, Response to Request for Additional Information Set 13 (License Chapter 1 and 2) for the TRISO-X License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25148A400</link>
+			<description>Letter</description>
+			<author>Triso-X, LLC</author>
+			<pubDate>2025-06-09 12:34:00</pubDate>
+		</item>
+		<item>
+			<title>Response to Request for Additional Information Set 11 (Chemical Safety), for the TRISO-X License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25153A506</link>
+			<description>Letter</description>
+			<author>Triso-X, LLC</author>
+			<pubDate>2025-06-09 12:34:00</pubDate>
+		</item>
+	</channel>
 </rss>
