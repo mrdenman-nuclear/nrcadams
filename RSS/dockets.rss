@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 09 Jun 2025 14:20:15 GMT</pubDate>
-		<lastBuildDate>Mon, 09 Jun 2025 14:20:15 GMT</lastBuildDate>
+		<pubDate>Mon, 09 Jun 2025 15:20:57 GMT</pubDate>
+		<lastBuildDate>Mon, 09 Jun 2025 15:20:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -87,13 +87,6 @@
 			<description>Press Release</description>
 			<author>NRC/OPA</author>
 			<pubDate>2025-06-02 15:29:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of the April 2025, Partially Closed Meeting with Radiant Industries - Discussion Related to Future Regulatory Engagement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25153A010</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-06-02 11:03:00</pubDate>
 		</item>
 		<item>
 			<title>Final Safety Evaluation Report (FSER) for NuScale US460 Design</title>
@@ -217,6 +210,13 @@
 		<item>
 			<title>NuScale SDAA - FSER Appendix C - Abbreviations</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25094A183</link>
+			<description>Final Safety Evaluation Report (FSER)</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-05-28 12:31:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale SDAA - FSER Appendix B - References</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25097A179</link>
 			<description>Final Safety Evaluation Report (FSER)</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-05-28 12:31:00</pubDate>
