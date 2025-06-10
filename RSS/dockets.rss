@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 09 Jun 2025 23:18:16 GMT</pubDate>
-		<lastBuildDate>Mon, 09 Jun 2025 23:18:16 GMT</lastBuildDate>
+		<pubDate>Tue, 10 Jun 2025 14:20:12 GMT</pubDate>
+		<lastBuildDate>Tue, 10 Jun 2025 14:20:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC, Submittal of Approved "-A" Version of Topical Report "NuScale Power Plant Design Capability to Mitigate Beyond-Design-Basis Events Defined by 10 CFR 50.155," TR-141299-A, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25153A538</link>
+			<description>Legal-Affidavit, Letter, Topical Report</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-06-10 09:31:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC, Supplemental Response to NRC Request for Additional Information No. 001 (RAI-10502 R1) on the NuScale Topical Report TR-145417</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25153A551</link>
+			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-06-10 09:31:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure: Set 13 License Chapter 1 and 2 RAI Responses</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25148A401</link>
@@ -206,20 +220,6 @@
 			<description>Memoranda</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2025-05-29 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Appendix F - Report by the Advisory Committee on Reactor Safeguards</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25094A191</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Appendix E - Index of Responses to NRC Requests for Additional Information and Audit Items</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25094A186</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 12:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
