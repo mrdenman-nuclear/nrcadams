@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 10 Jun 2025 23:19:27 GMT</pubDate>
-		<lastBuildDate>Tue, 10 Jun 2025 23:19:27 GMT</lastBuildDate>
+		<pubDate>Wed, 11 Jun 2025 14:19:57 GMT</pubDate>
+		<lastBuildDate>Wed, 11 Jun 2025 14:19:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2025/06/04 Oklo SNF Reprocessing Docs - Request for Withholding Information for Public Disclosure for Oklo MC&A White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25155B848</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-06-11 08:01:00</pubDate>
+		</item>
 		<item>
 			<title>Request for Withholding Information from Public Disclosure for Oklo Inc. Information for a Foreign Ownership, Control, or Influence and Non-Possessing Facility Security Clearance Determination</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25148A022</link>
@@ -24,34 +31,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2025-06-03 09:29:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo Inc., "Material Control and Accounting for the Oklo Fuel Recycling Facility" White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25143A221</link>
-			<description>Letter</description>
-			<author>Oklo Inc</author>
-			<pubDate>2025-05-28 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo Inc., Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25143A223</link>
-			<description>Legal-Affidavit</description>
-			<author>Oklo Inc</author>
-			<pubDate>2025-05-28 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo, Inc., Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25143A267</link>
-			<description>Legal-Affidavit</description>
-			<author>Oklo Inc</author>
-			<pubDate>2025-05-28 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo, Inc., Transmittal of information for a Foreign Ownership, Control, or Influence (FOCI) and Non-Possessing Facility Security Clearance Determination</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25143A268</link>
-			<description>Letter</description>
-			<author>Oklo Inc</author>
-			<pubDate>2025-05-28 08:11:00</pubDate>
 		</item>
 	</channel>
 </rss>

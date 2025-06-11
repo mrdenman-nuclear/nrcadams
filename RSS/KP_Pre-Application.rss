@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 10 Jun 2025 23:19:27 GMT</pubDate>
-		<lastBuildDate>Tue, 10 Jun 2025 23:19:27 GMT</lastBuildDate>
+		<pubDate>Wed, 11 Jun 2025 14:19:57 GMT</pubDate>
+		<lastBuildDate>Wed, 11 Jun 2025 14:19:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Letter</description>
 			<author>Kairos Power, LLC</author>
 			<pubDate>2025-05-30 11:34:00</pubDate>
-		</item>
-		<item>
-			<title>Office Of Nuclear Reactor Regulation Staff Observations Regarding Kairos’s Approach To Implementing 10 CFR 21 And 10 CFR 50.55(e) Reporting Requirements</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25132A148</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-05-28 08:10:00</pubDate>
 		</item>
 	</channel>
 </rss>

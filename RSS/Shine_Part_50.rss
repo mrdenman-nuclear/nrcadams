@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 10 Jun 2025 23:19:27 GMT</pubDate>
-		<lastBuildDate>Tue, 10 Jun 2025 23:19:27 GMT</lastBuildDate>
+		<pubDate>Wed, 11 Jun 2025 14:19:57 GMT</pubDate>
+		<lastBuildDate>Wed, 11 Jun 2025 14:19:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>SHINE Technologies, LLC, Submittal of Annual Financial Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25154A077</link>
+			<description>Letter</description>
+			<author>SHINE Technologies, LLC</author>
+			<pubDate>2025-06-11 08:00:00</pubDate>
+		</item>
+		<item>
+			<title>SHINE Technologies, LLC, Enclosure 2, Annual Financial Report - Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25154A079</link>
+			<description>Legal-Affidavit</description>
+			<author>SHINE Technologies, LLC</author>
+			<pubDate>2025-06-11 08:00:00</pubDate>
+		</item>
+	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 10 Jun 2025 23:19:36 GMT</pubDate>
-		<lastBuildDate>Tue, 10 Jun 2025 23:19:36 GMT</lastBuildDate>
+		<pubDate>Wed, 11 Jun 2025 14:20:05 GMT</pubDate>
+		<lastBuildDate>Wed, 11 Jun 2025 14:20:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,13 +66,6 @@
 			<description>Report, Miscellaneous</description>
 			<author>NRC/OGC</author>
 			<pubDate>2025-05-29 12:02:00</pubDate>
-		</item>
-		<item>
-			<title>2025/03/11 Chmn. David Wright Opening Plenary RIC 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25107A098</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Transcript</description>
-			<author>NRC/OCM</author>
-			<pubDate>2025-05-28 16:35:00</pubDate>
 		</item>
 	</channel>
 </rss>

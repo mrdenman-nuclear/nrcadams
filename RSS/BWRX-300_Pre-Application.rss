@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 10 Jun 2025 23:19:27 GMT</pubDate>
-		<lastBuildDate>Tue, 10 Jun 2025 23:19:27 GMT</lastBuildDate>
+		<pubDate>Wed, 11 Jun 2025 14:19:57 GMT</pubDate>
+		<lastBuildDate>Wed, 11 Jun 2025 14:19:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,27 +24,6 @@
 			<description>Memoranda</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2025-05-29 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>GE Hitachi Nuclear Energy - NEDC-3443P/NEDO-34043, Revision 1, BWRX-300 TRACG Application, to Supplement NEDC-34270P, Revision 0, BWRX-300 Stability Analysis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25141A240</link>
-			<description>Letter</description>
-			<author>GE Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2025-05-28 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: GEH Engineering Report NEDO-34043, Revision 1, BWRX-300 TRACG Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25141A242</link>
-			<description>Report, Technical</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2025-05-28 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25141A243</link>
-			<description>Legal-Affidavit</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2025-05-28 08:10:00</pubDate>
 		</item>
 	</channel>
 </rss>

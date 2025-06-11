@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 10 Jun 2025 23:19:27 GMT</pubDate>
-		<lastBuildDate>Tue, 10 Jun 2025 23:19:27 GMT</lastBuildDate>
+		<pubDate>Wed, 11 Jun 2025 14:19:57 GMT</pubDate>
+		<lastBuildDate>Wed, 11 Jun 2025 14:19:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Audit Summary for U.S. Nuclear Regulatory Commission Requests for Phase A - NuScale US460 Standard Design Approval Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24264A049</link>
+			<description>Audit Report, Memoranda</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2025-06-11 08:01:00</pubDate>
+		</item>
 		<item>
 			<title>NuScale Power, LLC, Supplemental Response to NRC Request for Additional Information No. 001 (RAI-10502 R1) on the NuScale Topical Report TR-145417</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25153A551</link>
@@ -52,174 +59,6 @@
 			<description>Letter, Report, Miscellaneous</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2025-05-29 10:31:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Appendix F - Report by the Advisory Committee on Reactor Safeguards</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25094A191</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Appendix E - Index of Responses to NRC Requests for Additional Information and Audit Items</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25094A186</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Appendix D - Principal Contributors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25094A185</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Appendix C - Abbreviations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25094A183</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Appendix B - References</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25097A179</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Abstract</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25125A238</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER - Table of Contents</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25147A275</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 3 - Design of Structures, Systems, Components and Equipment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A428</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 4 - Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25094A152</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 5 - Reactor Coolant System and Connecting Systems</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A429</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 6 - Engineered Safety Features</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A431</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 7 - Instrumentation and Controls</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A433</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 8 - Electric Power</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A434</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 9 - Auxiliary Systems</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A435</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 10 - Steam and Power Conversion System</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A416</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 15 - Transient and Accident Analyses</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25094A166</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 14 - Initial Test Program and Inspections, Tests, Analyses, and Acceptance Criteria</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A420</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 13 - Conduct of Operations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A419</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 12 - Radiation Protection</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A418</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 11 - Radioactive Waste Management</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A417</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Appendix A - Chronology</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25094A182</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 19 - Probabilistic Risk Assessment and Severe Accident Evaluation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A425</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 18 - Human Factors Engineering</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A424</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale SDAA - FSER Chapter 17 - Quality Assurance and Reliability Assurance</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25085A423</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2025-05-28 11:25:00</pubDate>
 		</item>
 	</channel>
 </rss>
