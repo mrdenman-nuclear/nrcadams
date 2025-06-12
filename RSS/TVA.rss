@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 12 Jun 2025 19:16:48 GMT</pubDate>
-		<lastBuildDate>Thu, 12 Jun 2025 19:16:48 GMT</lastBuildDate>
+		<pubDate>Thu, 12 Jun 2025 20:22:20 GMT</pubDate>
+		<lastBuildDate>Thu, 12 Jun 2025 20:22:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>20250428 Public Mtg AA FN RIS Meeting Summary</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25156A101</link>
+			<description>Meeting Summary</description>
+			<author>NRC/NSIR/DPCP/AAFPB</author>
+			<pubDate>2025-06-12 16:18:00</pubDate>
+		</item>
 		<item>
 			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3 - Issuance of Amendment Nos. 335, 358, and 318 Revision 3 to Revise Safety/Relief Valve Requirements (EPID L-2024-LLA-0163)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25093A254</link>
@@ -213,13 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS/DREFS/EPMB1</author>
 			<pubDate>2025-05-30 08:16:00</pubDate>
-		</item>
-		<item>
-			<title>EPRI - Materials Reliability Program: Pressurized Water Reactor Internals Inspection and Evaluation Guidelines (MRP-227, Revision 2-A)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25142A177</link>
-			<description>Report, Technical</description>
-			<author>Electric Power Research Institute (EPRI)</author>
-			<pubDate>2025-05-30 08:14:00</pubDate>
 		</item>
 	</channel>
 </rss>
