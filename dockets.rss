@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 11 Jun 2025 23:20:03 GMT</pubDate>
-		<lastBuildDate>Wed, 11 Jun 2025 23:20:03 GMT</lastBuildDate>
+		<pubDate>Thu, 12 Jun 2025 14:21:03 GMT</pubDate>
+		<lastBuildDate>Thu, 12 Jun 2025 14:21:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC 898-Aalo-QAP-001, Quality Assurance Program for Aalo Atomics</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25142A233</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2025-06-12 10:04:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Staff's Feedback on the Oklo White Paper Licensing Approach for the Oklo Fuel Recycling Facility</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25143A010</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2025-06-12 08:15:00</pubDate>
+		</item>
+		<item>
+			<title>Final Meeting Summary Kairos OL TR 4-16-25</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25105A041</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-06-12 08:14:00</pubDate>
+		</item>
 		<item>
 			<title>Audit Summary for U.S. Nuclear Regulatory Commission Requests for Phase A - NuScale US460 Standard Design Approval Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24264A049</link>
@@ -108,27 +129,6 @@
 			<description>Meeting Summary, Memoranda, Trip Report</description>
 			<author>NRC/NMSS/DREFS/ETRB1</author>
 			<pubDate>2025-06-09 08:14:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse Electric Company LLC. - Audit Plan for Topical Report Advanced Logic System V2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25101A297</link>
-			<description>Audit Plan</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-06-05 08:18:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse Electric Co. - Transmittal email regarding Draft Audit Plan for ALS v2 Surveilance Elimination TR</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25101A298</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-06-05 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Information from Public Disclosure for Oklo Inc. Information for a Foreign Ownership, Control, or Influence and Non-Possessing Facility Security Clearance Determination</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25148A022</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-06-05 08:17:00</pubDate>
 		</item>
 	</channel>
 </rss>

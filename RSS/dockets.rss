@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 11 Jun 2025 23:20:06 GMT</pubDate>
-		<lastBuildDate>Wed, 11 Jun 2025 23:20:06 GMT</lastBuildDate>
+		<pubDate>Thu, 12 Jun 2025 14:21:05 GMT</pubDate>
+		<lastBuildDate>Thu, 12 Jun 2025 14:21:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC 898-Aalo-QAP-001, Quality Assurance Program for Aalo Atomics</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25142A233</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2025-06-12 10:04:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Staff's Feedback on the Oklo White Paper Licensing Approach for the Oklo Fuel Recycling Facility</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25143A010</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2025-06-12 08:15:00</pubDate>
+		</item>
+		<item>
+			<title>Final Meeting Summary Kairos OL TR 4-16-25</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25105A041</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-06-12 08:14:00</pubDate>
+		</item>
 		<item>
 			<title>Audit Summary for U.S. Nuclear Regulatory Commission Requests for Phase A - NuScale US460 Standard Design Approval Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24264A049</link>
@@ -199,27 +220,6 @@
 			<description>License-Application for Construction Permit DKT 50, Report, Technical</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2025-05-30 13:49:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of the Preliminary Safety Analysis Report and Exemptions and Variances in Support of the Clinch River Nuclear Site Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25140A063</link>
-			<description>Letter</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-05-30 13:49:00</pubDate>
-		</item>
-		<item>
-			<title>LTR-25-0211 Peter Hastings, PE, Vice President, Regulatory, Quality, and Public Affairs, Kairos Power, LLC, Letter re: Endorsement for letter from ClearPath, the Clean Air Task Force, and Veriten on Transformative Regulatory Reform for New Reactors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25139A429</link>
-			<description>Letter</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2025-05-30 11:34:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Clinch River Nuclear Site - Construction Permit Application, Enclosure 3, Preliminary Safety Analysis Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25140A064</link>
-			<description>License-Application for Construction Permit DKT 50, Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-05-30 10:46:00</pubDate>
 		</item>
 	</channel>
 </rss>

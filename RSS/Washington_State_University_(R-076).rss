@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 11 Jun 2025 23:20:06 GMT</pubDate>
-		<lastBuildDate>Wed, 11 Jun 2025 23:20:06 GMT</lastBuildDate>
+		<pubDate>Thu, 12 Jun 2025 14:21:06 GMT</pubDate>
+		<lastBuildDate>Thu, 12 Jun 2025 14:21:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DANU/UNPL</author>
 			<pubDate>2025-06-05 08:18:00</pubDate>
-		</item>
-		<item>
-			<title>Washington State University - U.S. Nuclear Regulatory Commission Safety Inspection Report No. 050000272025201, Cover Letter and Enclosure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25121A297</link>
-			<description>Inspection Report, Letter</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2025-05-29 08:17:00</pubDate>
 		</item>
 	</channel>
 </rss>

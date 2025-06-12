@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 11 Jun 2025 23:20:13 GMT</pubDate>
-		<lastBuildDate>Wed, 11 Jun 2025 23:20:13 GMT</lastBuildDate>
+		<pubDate>Thu, 12 Jun 2025 14:21:11 GMT</pubDate>
+		<lastBuildDate>Thu, 12 Jun 2025 14:21:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>03/10/2025 Summary of 2025 U.S NRC Public Meeting with PWROG Executive Committee</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25142A162</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DORL/LLPB</author>
+			<pubDate>2025-06-12 08:15:00</pubDate>
+		</item>
+		<item>
+			<title>03 - PWROG Materials Commitee Update</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25163A014</link>
+			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>PWR Owners Group</author>
+			<pubDate>2025-06-12 08:15:00</pubDate>
+		</item>
+		<item>
+			<title>Tennessee Valley Authority - Supplement to 10 CFR 50.46 Annual Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25155B386</link>
+			<description>Letter</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-06-12 08:14:00</pubDate>
+		</item>
 		<item>
 			<title>RIL Draft-Vol 1-Response Bias of Electrical Cable Coatings at Fire Conditions</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25041A291</link>
@@ -192,20 +213,6 @@
 			<description>Report, Technical</description>
 			<author>Electric Power Research Institute (EPRI)</author>
 			<pubDate>2025-05-30 08:14:00</pubDate>
-		</item>
-		<item>
-			<title>SECY-97-011O - Status Report on Implementation of Dam Safety Program. Vols 1 to FEMA 284,9-96 & Vol 2 to FEMA 285,9-96, "National Dam Safety Program," attached.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML12284A135</link>
-			<description>Commission SECY Paper, Status Report</description>
-			<author>NRC/EDO</author>
-			<pubDate>2025-05-29 13:19:00</pubDate>
-		</item>
-		<item>
-			<title>Watts Bar Nuclear Plant, Unit 1, Cycle 19 Steam Generator Tube Inspection Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25141A010</link>
-			<description>Inservice/Preservice Inspection and Test Report, Letter</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-05-29 08:17:00</pubDate>
 		</item>
 	</channel>
 </rss>
