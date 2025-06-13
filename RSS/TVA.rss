@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 12 Jun 2025 23:18:10 GMT</pubDate>
-		<lastBuildDate>Thu, 12 Jun 2025 23:18:10 GMT</lastBuildDate>
+		<pubDate>Fri, 13 Jun 2025 14:20:37 GMT</pubDate>
+		<lastBuildDate>Fri, 13 Jun 2025 14:20:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Watts Bar Nuclear Plants, Unit 1 and 2 - Periodic submission for changes made to the Technical Specification Bases and Technical Requirements Manual</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25156A139</link>
+			<description>Letter, Manual, Technical Specification, Bases Change</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-06-13 08:10:00</pubDate>
+		</item>
+		<item>
+			<title>Watts Bar Nuclear Plant, Unit 2, Emergency Request for Amendment to Technical Specification – Reactor Trip System (RTS) Instrumentation Level Transmitter Inoperable (WBN-TS-25-08)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25156A365</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-06-13 08:10:00</pubDate>
+		</item>
 		<item>
 			<title>20250428 Public Mtg AA FN RIS Meeting Summary</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25156A101</link>
@@ -206,20 +220,6 @@
 			<description>Meeting Agenda, Meeting Notice</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-06-02 07:20:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of May 16, 2025, Phone Call with Tennessee Valley Authority Regarding Potential Use of Alternative RV-02 at Sequoyah Nuclear Plant, Unit 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25139A516</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DORL/LPLII-2</author>
-			<pubDate>2025-05-30 08:16:00</pubDate>
-		</item>
-		<item>
-			<title>Letter to TVA Browns Ferry NOA DEIS</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25114A124</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/EPMB1</author>
-			<pubDate>2025-05-30 08:16:00</pubDate>
 		</item>
 	</channel>
 </rss>

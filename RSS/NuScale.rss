@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 12 Jun 2025 23:18:10 GMT</pubDate>
-		<lastBuildDate>Thu, 12 Jun 2025 23:18:10 GMT</lastBuildDate>
+		<pubDate>Fri, 13 Jun 2025 14:20:37 GMT</pubDate>
+		<lastBuildDate>Fri, 13 Jun 2025 14:20:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -49,7 +49,7 @@
 		<item>
 			<title>SECY-25-0049: Weekly Information Report Week Ending May 30, 2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25160A098</link>
-			<description>Commission SECY Paper, Weekly Information Report</description>
+			<description>Commission SECY Paper</description>
 			<author>NRC/EDO/AO</author>
 			<pubDate>2025-06-11 08:01:00</pubDate>
 		</item>
@@ -101,13 +101,6 @@
 			<description>Meeting Minutes, Memoranda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-06-02 09:34:00</pubDate>
-		</item>
-		<item>
-			<title>Non-Concurrence on NuScale SDAA Chapter 15 Safety Evaluation Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25133A110</link>
-			<description>Non-Concurrence Process</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-05-30 11:34:00</pubDate>
 		</item>
 	</channel>
 </rss>
