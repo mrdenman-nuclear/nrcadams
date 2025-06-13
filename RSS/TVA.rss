@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 13 Jun 2025 14:20:37 GMT</pubDate>
-		<lastBuildDate>Fri, 13 Jun 2025 14:20:37 GMT</lastBuildDate>
+		<pubDate>Fri, 13 Jun 2025 15:20:14 GMT</pubDate>
+		<lastBuildDate>Fri, 13 Jun 2025 15:20:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SECY-25-0051: Weekly Information Report Week Ending June 6, 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25164A036</link>
+			<description>Commission SECY Paper</description>
+			<author>NRC/EDO/AO</author>
+			<pubDate>2025-06-13 10:19:00</pubDate>
+		</item>
 		<item>
 			<title>Watts Bar Nuclear Plants, Unit 1 and 2 - Periodic submission for changes made to the Technical Specification Bases and Technical Requirements Manual</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25156A139</link>
@@ -210,13 +217,6 @@
 		<item>
 			<title>06/11/2025 Meeting with Tennessee Valley Authority to Discuss a Proposed License Amendment Request</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25153A014</link>
-			<description>Meeting Agenda, Meeting Notice</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-06-02 07:20:00</pubDate>
-		</item>
-		<item>
-			<title>06/12/2025 Meeting with Tennessee Valley Authority to Discuss a Proposed Alternative Request</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25153A013</link>
 			<description>Meeting Agenda, Meeting Notice</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-06-02 07:20:00</pubDate>
