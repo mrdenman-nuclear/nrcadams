@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 13 Jun 2025 21:18:45 GMT</pubDate>
-		<lastBuildDate>Fri, 13 Jun 2025 21:18:45 GMT</lastBuildDate>
+		<pubDate>Mon, 16 Jun 2025 14:20:28 GMT</pubDate>
+		<lastBuildDate>Mon, 16 Jun 2025 14:20:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Meeting Summary May 15 2025 Blue Energy TR Pre-submittal - Resequencing BOP-NI Construction.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25153A019</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2025-06-16 08:50:00</pubDate>
+		</item>
+		<item>
+			<title>May 22, 2025, Summary of Comment-Gathering Public Meeting About U.S. Nuclear Regulatory Commission's Implementation of Section 505 of the Advance Act Of 2024 (EPID G-2024-AGN-0033)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25153A016</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DORL/LPL1</author>
+			<pubDate>2025-06-16 08:49:00</pubDate>
+		</item>
 		<item>
 			<title>June 2025 Advisory Committee on Reactor Safeguards (ACRS) Full Committee Meeting Topical Reports</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25162A110</link>
@@ -94,20 +108,6 @@
 			<description>Meeting Transcript, Slides and Viewgraphs</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-06-03 16:26:00</pubDate>
-		</item>
-		<item>
-			<title>News Release-25-033:  NRC Approves Standard Design for NuScale US460 Small Modular Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25153A523</link>
-			<description>Press Release</description>
-			<author>NRC/OPA</author>
-			<pubDate>2025-06-02 14:37:00</pubDate>
-		</item>
-		<item>
-			<title>Minutes of the 724th Meeting of the Advisory Committee on Reactor Safeguards  (ACRS) for April 2 through 3, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25148A134</link>
-			<description>Meeting Minutes, Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-06-02 09:34:00</pubDate>
 		</item>
 	</channel>
 </rss>

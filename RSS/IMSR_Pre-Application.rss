@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 13 Jun 2025 21:18:37 GMT</pubDate>
-		<lastBuildDate>Fri, 13 Jun 2025 21:18:37 GMT</lastBuildDate>
+		<pubDate>Mon, 16 Jun 2025 14:20:25 GMT</pubDate>
+		<lastBuildDate>Mon, 16 Jun 2025 14:20:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Terrestrial Energy USA - Non-Prop - Audit Plan for the Principal Design Criteria for IMSR Structures, Systems, and Components Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24095A307</link>
+			<description>Audit Plan</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2025-06-16 10:07:00</pubDate>
+		</item>
+	</channel>
 </rss>

@@ -5,12 +5,54 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 13 Jun 2025 21:18:45 GMT</pubDate>
-		<lastBuildDate>Fri, 13 Jun 2025 21:18:45 GMT</lastBuildDate>
+		<pubDate>Mon, 16 Jun 2025 14:20:28 GMT</pubDate>
+		<lastBuildDate>Mon, 16 Jun 2025 14:20:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Dept of Health & Human Services, Clarification of Request for Amendment of License dated 03/10/2000</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML003693520</link>
+			<description>Letter, Report, Technical</description>
+			<author>US Dept of Health and Human Services, National Institutes of Health (NIH)</author>
+			<pubDate>2025-06-16 10:07:00</pubDate>
+		</item>
+		<item>
+			<title>NUREG-0056 Manufacture of Floating Nuclear Power Plants by Offshore Power Systems. A Generic Environmental Statement Considering the Siting and Operation of Floating Nuclear Power Plants. Volume I.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25160A269</link>
+			<description>NUREG</description>
+			<author>NRC/NRR, US Dept of Commerce, National Technical Information Service (NTIS)</author>
+			<pubDate>2025-06-16 08:49:00</pubDate>
+		</item>
+		<item>
+			<title>NUREG-0058 Draft Environmental Statement Related to Construction of Atlantic Generating Station, Units 1 and 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25160A280</link>
+			<description>NUREG</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-06-16 08:49:00</pubDate>
+		</item>
+		<item>
+			<title>NUREG-0056 Manufacture of Floating Nuclear Power Plants by Offshore Power Systems. A Generic Environmental Statement Considering the Siting and Operation of Floating Nuclear Power Plants. Final Addendum.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25160A281</link>
+			<description>NUREG</description>
+			<author>NRC/NRR, US Dept of Commerce, National Technical Information Service (NTIS)</author>
+			<pubDate>2025-06-16 08:49:00</pubDate>
+		</item>
+		<item>
+			<title>NRC-2016-000539 - Released Set 4</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25161A025</link>
+			<description>FOIA/Privacy Act Background, FOIA/Privacy Act Response to Requestor</description>
+			<author>NRC/OCIO</author>
+			<pubDate>2025-06-16 08:49:00</pubDate>
+		</item>
+		<item>
+			<title>Wolf Creek, Unit 1, Current Facility Operating License NPF-42, Technical Specifications, Revised 06/16/2025.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052720315</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-06-16 07:40:00</pubDate>
+		</item>
 		<item>
 			<title>06-04-25 National Energy Emergency - Enclosure April 30, 2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25122A010</link>
@@ -115,13 +157,6 @@
 			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-06-03 15:25:00</pubDate>
-		</item>
-		<item>
-			<title>Biological Assessment for Dewey Burdock ISR License Renewal</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25119A165</link>
-			<description>Environmental Report</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-06-02 12:11:00</pubDate>
 		</item>
 	</channel>
 </rss>

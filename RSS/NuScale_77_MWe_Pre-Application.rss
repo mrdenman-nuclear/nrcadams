@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 13 Jun 2025 21:18:37 GMT</pubDate>
-		<lastBuildDate>Fri, 13 Jun 2025 21:18:37 GMT</lastBuildDate>
+		<pubDate>Mon, 16 Jun 2025 14:20:25 GMT</pubDate>
+		<lastBuildDate>Mon, 16 Jun 2025 14:20:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Legal-Affidavit, Letter, Topical Report</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-06-10 09:31:00</pubDate>
-		</item>
-		<item>
-			<title>Final Safety Evaluation Report (FSER) for NuScale US460 Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25128A028</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2025-06-02 09:51:00</pubDate>
 		</item>
 	</channel>
 </rss>
