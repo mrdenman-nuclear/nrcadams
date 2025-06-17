@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 16 Jun 2025 23:18:39 GMT</pubDate>
-		<lastBuildDate>Mon, 16 Jun 2025 23:18:39 GMT</lastBuildDate>
+		<pubDate>Tue, 17 Jun 2025 14:20:58 GMT</pubDate>
+		<lastBuildDate>Tue, 17 Jun 2025 14:20:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -157,13 +157,6 @@
 			<description>Status Report</description>
 			<author>NRC/Chairman</author>
 			<pubDate>2025-06-04 09:34:00</pubDate>
-		</item>
-		<item>
-			<title>Palo Verde, Unit 1, Current Facility Operating License NPF-41, Tech Specs, Revised 06/03/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053110045</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-06-03 15:25:00</pubDate>
 		</item>
 	</channel>
 </rss>

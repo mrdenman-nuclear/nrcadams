@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 16 Jun 2025 23:18:28 GMT</pubDate>
-		<lastBuildDate>Mon, 16 Jun 2025 23:18:28 GMT</lastBuildDate>
+		<pubDate>Tue, 17 Jun 2025 14:20:46 GMT</pubDate>
+		<lastBuildDate>Tue, 17 Jun 2025 14:20:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC 898 - GEH BWRX-300 Stability Analysis LTR Completeness Determination.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25150A017</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2025-06-17 07:54:00</pubDate>
+		</item>
+		<item>
+			<title>Transmittal Email for the Acceptance of GEH BWRX-300 Stability Analysis LTR.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25150A016</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2025-06-17 07:54:00</pubDate>
+		</item>
+		<item>
+			<title>06/26/2025 Public Meeting with SMR (Holtec) to Discuss SMR-300 Combustible Gas Control Considerations for the In-Containment Spent Fuel Pool</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25167A335</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-06-16 22:56:00</pubDate>
+		</item>
 		<item>
 			<title>Terrestrial Energy USA - Non-Prop - Audit Plan for the Principal Design Criteria for IMSR Structures, Systems, and Components Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24095A307</link>
@@ -199,20 +220,6 @@
 			<description>Legal-Affidavit</description>
 			<author>SHINE Technologies, LLC</author>
 			<pubDate>2025-06-11 08:00:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of Approved "-A" Version of Topical Report "NuScale Power Plant Design Capability to Mitigate Beyond-Design-Basis Events Defined by 10 CFR 50.155," TR-141299-A, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25153A538</link>
-			<description>Legal-Affidavit, Letter, Topical Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-06-10 09:31:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Supplemental Response to NRC Request for Additional Information No. 001 (RAI-10502 R1) on the NuScale Topical Report TR-145417</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25153A551</link>
-			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-06-10 09:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

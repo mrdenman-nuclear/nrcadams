@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 16 Jun 2025 23:18:30 GMT</pubDate>
-		<lastBuildDate>Mon, 16 Jun 2025 23:18:30 GMT</lastBuildDate>
+		<pubDate>Tue, 17 Jun 2025 14:20:50 GMT</pubDate>
+		<lastBuildDate>Tue, 17 Jun 2025 14:20:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Legal-Affidavit, Letter, Response to Request for Additional Information (RAI)</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-06-10 09:31:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC - Response to SDAA Audit Question Number A-3.9.2-26</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24346A147</link>
-			<description>Response to Request for Additional Information (RAI), Audit Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-06-03 13:29:00</pubDate>
 		</item>
 	</channel>
 </rss>

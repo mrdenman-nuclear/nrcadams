@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 16 Jun 2025 23:18:39 GMT</pubDate>
-		<lastBuildDate>Mon, 16 Jun 2025 23:18:39 GMT</lastBuildDate>
+		<pubDate>Tue, 17 Jun 2025 14:20:58 GMT</pubDate>
+		<lastBuildDate>Tue, 17 Jun 2025 14:20:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>Report, Miscellaneous</description>
 			<author>NRC/Chairman</author>
 			<pubDate>2025-06-12 16:18:00</pubDate>
-		</item>
-		<item>
-			<title>ProTechnics Division of Core Laboratories LP - EPA response to draft NRC environmental assessment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25153A701</link>
-			<description>E-Mail</description>
-			<author>US Environmental Protection Agency, Office of Ground Water and Drinking Water</author>
-			<pubDate>2025-06-03 07:53:00</pubDate>
 		</item>
 	</channel>
 </rss>

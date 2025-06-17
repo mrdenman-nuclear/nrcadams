@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 16 Jun 2025 23:18:30 GMT</pubDate>
-		<lastBuildDate>Mon, 16 Jun 2025 23:18:30 GMT</lastBuildDate>
+		<pubDate>Tue, 17 Jun 2025 14:20:50 GMT</pubDate>
+		<lastBuildDate>Tue, 17 Jun 2025 14:20:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,13 +52,6 @@
 			<description>Letter, Proprietary Information Review</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2025-06-05 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Information from Public Disclosure for Oklo Inc. "Material Control and Accounting for the Oklo Fuel Recycling Facility" White Paper and Feedback Request Enclosure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25148A097</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-06-03 09:29:00</pubDate>
 		</item>
 	</channel>
 </rss>

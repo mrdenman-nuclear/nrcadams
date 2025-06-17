@@ -5,13 +5,20 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 16 Jun 2025 23:18:42 GMT</pubDate>
-		<lastBuildDate>Mon, 16 Jun 2025 23:18:42 GMT</lastBuildDate>
+		<pubDate>Tue, 17 Jun 2025 14:21:01 GMT</pubDate>
+		<lastBuildDate>Tue, 17 Jun 2025 14:21:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
+			<title>Detailed NEI 24-05 Questions and Observations for June Public Meeting</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25168A016</link>
+			<description>Graphics incl Charts and Tables</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-06-17 07:55:00</pubDate>
+		</item>
+		<item>
 			<title>SMR, LLC, SMR-300 Design Basis Accident Radiological Consequences Analysis Methodology Licensing Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25157A143</link>
 			<description>Topical Report</description>
@@ -66,27 +73,6 @@
 			<description>Report, Technical</description>
 			<author>NRC/RES/DSA/AAB</author>
 			<pubDate>2025-06-11 10:13:00</pubDate>
-		</item>
-		<item>
-			<title>Callaway Plant, Unit 1 - Final Safety Analysis Report Rev. OL-27 and Technical Specification Bases Rev. 25, Chapter 6, Engineered Safety Features</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24191A234</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Ameren Missouri, Union Electric Co</author>
-			<pubDate>2025-06-10 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>Callaway Plant, Unit 1 - Final Safety Analysis Report Rev. OL-27 and Technical Specification Bases Rev. 25, Chapter 9, Auxiliary Systems</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24191A302</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Ameren Missouri, Union Electric Co</author>
-			<pubDate>2025-06-10 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>Callaway Plant, Unit 1 - Final Safety Analysis Report Rev. OL-27 and Technical Specification Bases Rev. 25, Chapter 3, Design of Structures, Components, Equipment, and Systems</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24191A232</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Ameren Missouri, Union Electric Co</author>
-			<pubDate>2025-06-10 11:36:00</pubDate>
 		</item>
 	</channel>
 </rss>
