@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 17 Jun 2025 14:20:58 GMT</pubDate>
-		<lastBuildDate>Tue, 17 Jun 2025 14:20:58 GMT</lastBuildDate>
+		<pubDate>Tue, 17 Jun 2025 15:21:16 GMT</pubDate>
+		<lastBuildDate>Tue, 17 Jun 2025 15:21:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>05/06/2025 Summary of Meeting with NEI to Discuss NEI 24-05, Rev. 0, "An Approach for Risk-Informed Performance-Based Emergency Planning"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25168A022</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-06-17 10:27:00</pubDate>
+		</item>
 		<item>
 			<title>NRC-2016-000539 - Released Set 2</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25161A031</link>
@@ -210,13 +217,6 @@
 		<item>
 			<title>IRC  Sequoyah19990001 Integrated</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML993640212</link>
-			<description>Inspection Report</description>
-			<author>NRC/RGN-II</author>
-			<pubDate>2025-06-06 13:29:00</pubDate>
-		</item>
-		<item>
-			<title>IRC  Sequoyah19990002 Integrated</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML993640216</link>
 			<description>Inspection Report</description>
 			<author>NRC/RGN-II</author>
 			<pubDate>2025-06-06 13:29:00</pubDate>
