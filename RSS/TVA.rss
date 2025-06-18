@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 17 Jun 2025 23:18:33 GMT</pubDate>
-		<lastBuildDate>Tue, 17 Jun 2025 23:18:33 GMT</lastBuildDate>
+		<pubDate>Wed, 18 Jun 2025 14:20:18 GMT</pubDate>
+		<lastBuildDate>Wed, 18 Jun 2025 14:20:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Sequoyah Nuclear Plant, Security Baseline Inspection Report 05000327/2025402 and 05000328/2025402</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25163A178</link>
+			<description>Inspection Report, Letter</description>
+			<author>NRC/RGN-II/DFRSS/NSB</author>
+			<pubDate>2025-06-18 08:20:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2 - Callaway, Unit 1, Environmental Assessment</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25161A240</link>
+			<description>Environmental Assessment</description>
+			<author>Ameren Missouri, Union Electric Co</author>
+			<pubDate>2025-06-18 08:19:00</pubDate>
+		</item>
+		<item>
+			<title>June 5, 2025 Performance Indicator Workshop Meeting Summary</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25161A073</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DRO</author>
+			<pubDate>2025-06-18 08:19:00</pubDate>
+		</item>
 		<item>
 			<title>05/06/2025 Summary of Meeting with NEI to Discuss NEI 24-05, Rev. 0, "An Approach for Risk-Informed Performance-Based Emergency Planning"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25168A022</link>
@@ -199,27 +220,6 @@
 			<description>Inspection Report</description>
 			<author>NRC/RGN-II</author>
 			<pubDate>2025-06-06 13:30:00</pubDate>
-		</item>
-		<item>
-			<title>IRC Browns Ferry 1999005 Integrated</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML993640096</link>
-			<description>Inspection Report</description>
-			<author>NRC/RGN-II</author>
-			<pubDate>2025-06-06 13:30:00</pubDate>
-		</item>
-		<item>
-			<title>IRC Browns Ferry 1999006 Integrated</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML993640100</link>
-			<description>Inspection Report</description>
-			<author>NRC/RGN-II</author>
-			<pubDate>2025-06-06 13:30:00</pubDate>
-		</item>
-		<item>
-			<title>IRC  Sequoyah19990001 Integrated</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML993640212</link>
-			<description>Inspection Report</description>
-			<author>NRC/RGN-II</author>
-			<pubDate>2025-06-06 13:29:00</pubDate>
 		</item>
 	</channel>
 </rss>
