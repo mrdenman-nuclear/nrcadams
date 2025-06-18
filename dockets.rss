@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 18 Jun 2025 19:15:53 GMT</pubDate>
-		<lastBuildDate>Wed, 18 Jun 2025 19:15:53 GMT</lastBuildDate>
+		<pubDate>Wed, 18 Jun 2025 20:22:32 GMT</pubDate>
+		<lastBuildDate>Wed, 18 Jun 2025 20:22:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Letter to FWS Requesting Concurrence on NLAA Determinations for TerraPower</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25143A020</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DREFS/ETRB1</author>
+			<pubDate>2025-06-18 15:26:00</pubDate>
+		</item>
 		<item>
 			<title>Response to Request for Additional Information Seet 9 (Human Factors) for the TRISO-X License Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25094A188</link>
@@ -213,13 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2025-06-12 08:15:00</pubDate>
-		</item>
-		<item>
-			<title>Final Meeting Summary Kairos OL TR 4-16-25</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25105A041</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-06-12 08:14:00</pubDate>
 		</item>
 	</channel>
 </rss>
