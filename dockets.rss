@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 18 Jun 2025 23:19:36 GMT</pubDate>
-		<lastBuildDate>Wed, 18 Jun 2025 23:19:36 GMT</lastBuildDate>
+		<pubDate>Thu, 19 Jun 2025 14:20:13 GMT</pubDate>
+		<lastBuildDate>Thu, 19 Jun 2025 14:20:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -199,27 +199,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-06-13 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>Issuance of Environmental Scoping Summary Report Associated With the U.S. Nuclear Regulatory Commission Staffs Review of the Us SFR Owner, LLC Construction Permit For Kemmerer Unit 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24271A031</link>
-			<description>Memoranda</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2025-06-12 15:12:00</pubDate>
-		</item>
-		<item>
-			<title>NRC 898-Aalo-QAP-001, Quality Assurance Program for Aalo Atomics</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25142A233</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-06-12 10:04:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Staff's Feedback on the Oklo White Paper Licensing Approach for the Oklo Fuel Recycling Facility</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25143A010</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-06-12 08:15:00</pubDate>
 		</item>
 	</channel>
 </rss>

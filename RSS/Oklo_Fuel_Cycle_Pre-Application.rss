@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 18 Jun 2025 23:19:39 GMT</pubDate>
-		<lastBuildDate>Wed, 18 Jun 2025 23:19:39 GMT</lastBuildDate>
+		<pubDate>Thu, 19 Jun 2025 14:20:16 GMT</pubDate>
+		<lastBuildDate>Thu, 19 Jun 2025 14:20:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-06-11 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Information from Public Disclosure for Oklo Inc. Information for a Foreign Ownership, Control, or Influence and Non-Possessing Facility Security Clearance Determination</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25148A022</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-06-05 08:17:00</pubDate>
 		</item>
 	</channel>
 </rss>
