@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 19 Jun 2025 23:18:38 GMT</pubDate>
-		<lastBuildDate>Thu, 19 Jun 2025 23:18:38 GMT</lastBuildDate>
+		<pubDate>Fri, 20 Jun 2025 14:20:57 GMT</pubDate>
+		<lastBuildDate>Fri, 20 Jun 2025 14:20:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Inspection Report, Letter</description>
 			<author>NRC/NRR/DANU/UNPO</author>
 			<pubDate>2025-06-18 08:19:00</pubDate>
-		</item>
-		<item>
-			<title>University Of Utah - U.S. Nuclear Regulatory Commission Inspection Report No. 05000407/2024201, Disputed Cited Violation Rescinded</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25154A356</link>
-			<description>Inspection Report, Letter</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2025-06-06 10:27:00</pubDate>
 		</item>
 	</channel>
 </rss>

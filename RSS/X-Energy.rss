@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 19 Jun 2025 23:18:43 GMT</pubDate>
-		<lastBuildDate>Thu, 19 Jun 2025 23:18:43 GMT</lastBuildDate>
+		<pubDate>Fri, 20 Jun 2025 14:21:04 GMT</pubDate>
+		<lastBuildDate>Fri, 20 Jun 2025 14:21:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>XENITH PRA wp Cover Letter</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25167A225</link>
+			<description>Letter</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-06-20 08:19:00</pubDate>
+		</item>
 		<item>
 			<title>727th ACRS Full Committee Meeting Agenda for July 9 through 11, 2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25160A282</link>
@@ -52,20 +59,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/NSIR/DPCP/CSB</author>
 			<pubDate>2025-06-11 12:27:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - XENITH Audit Report for PDC Topical Report-Rev. 4 - v1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25100A241</link>
-			<description>Audit Report</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-06-06 08:21:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy, LLC. - Report Regarding The Regulatory Audit Of The "Xenith Principal Design Criteria Topical Report" (EPID L-2024-TOP-0014)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25100A240</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-06-06 08:20:00</pubDate>
 		</item>
 	</channel>
 </rss>

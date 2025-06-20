@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 19 Jun 2025 23:18:43 GMT</pubDate>
-		<lastBuildDate>Thu, 19 Jun 2025 23:18:43 GMT</lastBuildDate>
+		<pubDate>Fri, 20 Jun 2025 14:21:04 GMT</pubDate>
+		<lastBuildDate>Fri, 20 Jun 2025 14:21:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,13 +66,6 @@
 			<description>Commission SECY Paper</description>
 			<author>NRC/EDO/AO</author>
 			<pubDate>2025-06-11 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Presentation to the NEA WGHOF Task Group on Human and Organizational Factors for SMRs: Main Control Room Minimum Staffing</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25154A433</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DRO</author>
-			<pubDate>2025-06-06 08:21:00</pubDate>
 		</item>
 	</channel>
 </rss>

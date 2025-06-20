@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 19 Jun 2025 23:18:43 GMT</pubDate>
-		<lastBuildDate>Thu, 19 Jun 2025 23:18:43 GMT</lastBuildDate>
+		<pubDate>Fri, 20 Jun 2025 14:21:04 GMT</pubDate>
+		<lastBuildDate>Fri, 20 Jun 2025 14:21:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Meeting Summary</description>
 			<author>NRC/RES/DE</author>
 			<pubDate>2025-06-09 12:34:00</pubDate>
-		</item>
-		<item>
-			<title>03/11-13/2025 Regulatory Information Conference (RIC) 2025- Advance Reactor Ready</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25079A061</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-06-06 14:57:00</pubDate>
 		</item>
 	</channel>
 </rss>
