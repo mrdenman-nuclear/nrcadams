@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 20 Jun 2025 23:18:31 GMT</pubDate>
-		<lastBuildDate>Fri, 20 Jun 2025 23:18:31 GMT</lastBuildDate>
+		<pubDate>Mon, 23 Jun 2025 14:22:18 GMT</pubDate>
+		<lastBuildDate>Mon, 23 Jun 2025 14:22:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -150,27 +150,6 @@
 			<description>Updated Final Safety Analysis Report (UFSAR)</description>
 			<author>Ameren Missouri, Union Electric Co</author>
 			<pubDate>2025-06-10 11:02:00</pubDate>
-		</item>
-		<item>
-			<title>Volume III - Appendices - State of New Mexico Environmental Improvement Division Uranium Mill License Renewal Application Environmental Report.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML101200118</link>
-			<description>Environmental Report</description>
-			<author>D'Appolonia Consulting Engineers, Inc, Homestake Mining Co</author>
-			<pubDate>2025-06-09 13:43:00</pubDate>
-		</item>
-		<item>
-			<title>Donald C. Cook, Unit 2, Current Facility Operating License No. DPR-74, Tech Specs, Revised 06/09/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053050307</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-06-09 11:47:00</pubDate>
-		</item>
-		<item>
-			<title>Donald C. Cook, Unit 1, Current Facility Operating License No. DPR-58, Tech Specs, Revised 06/09/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053050305</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-06-09 11:45:00</pubDate>
 		</item>
 	</channel>
 </rss>

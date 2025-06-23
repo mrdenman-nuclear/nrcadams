@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 20 Jun 2025 23:18:23 GMT</pubDate>
-		<lastBuildDate>Fri, 20 Jun 2025 23:18:23 GMT</lastBuildDate>
+		<pubDate>Mon, 23 Jun 2025 14:22:12 GMT</pubDate>
+		<lastBuildDate>Mon, 23 Jun 2025 14:22:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>NRC Feedback Letter Regarding Westinghouse AP300 SMR Safety Analysis Codes and Methods White Paper for Pre-Application Engagement</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25164A023</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2025-06-23 09:39:00</pubDate>
+		</item>
+	</channel>
 </rss>
