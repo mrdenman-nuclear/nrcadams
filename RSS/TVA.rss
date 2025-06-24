@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 24 Jun 2025 18:26:40 GMT</pubDate>
-		<lastBuildDate>Tue, 24 Jun 2025 18:26:40 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Jun 2025 19:16:20 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Jun 2025 19:16:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NUREG-1125 Volume 3 A Compilation of Reports of The Advisory Committee on Reactor Safeguards 1957-1984</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25174A111</link>
+			<description>NUREG</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2025-06-24 14:31:00</pubDate>
+		</item>
 		<item>
 			<title>Fermi 2 - Revision 25 to the Updated Final Safety Analysis Report, Main Page</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24319A082</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>PWR Owners Group</author>
 			<pubDate>2025-06-12 08:15:00</pubDate>
-		</item>
-		<item>
-			<title>Tennessee Valley Authority - Supplement to 10 CFR 50.46 Annual Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25155B386</link>
-			<description>Letter</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-06-12 08:14:00</pubDate>
 		</item>
 	</channel>
 </rss>
