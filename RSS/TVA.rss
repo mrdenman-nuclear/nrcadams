@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 24 Jun 2025 16:24:02 GMT</pubDate>
-		<lastBuildDate>Tue, 24 Jun 2025 16:24:02 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Jun 2025 17:20:39 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Jun 2025 17:20:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Fermi 2 - Revision 25 to the Updated Final Safety Analysis Report, Main Page</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24319A082</link>
+			<description>Updated Final Safety Analysis Report (UFSAR)</description>
+			<author>DTE Electric Company</author>
+			<pubDate>2025-06-24 12:33:00</pubDate>
+		</item>
+		<item>
+			<title>Fermi 2 - Revision 25 to the Updated Final Safety Analysis Report, Chapter 1, Introduction And General Description Of Plant</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24319A099</link>
+			<description>Updated Final Safety Analysis Report (UFSAR)</description>
+			<author>DTE Electric Company</author>
+			<pubDate>2025-06-24 12:33:00</pubDate>
+		</item>
+		<item>
+			<title>NUREG-1125, Vol. 1, "A Compilation of Reports of The Advisory Committee on Reactor Safeguards 1957-1984"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25174A107</link>
+			<description>NUREG</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2025-06-24 12:33:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 1 - Chapters 1 through 11, Environmental Report for the Paducah Laser Enrichment Facility</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25164A078</link>
@@ -199,27 +220,6 @@
 			<description>Letter</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2025-06-12 08:14:00</pubDate>
-		</item>
-		<item>
-			<title>RIL Draft-Vol 1-Response Bias of Electrical Cable Coatings at Fire Conditions</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25041A291</link>
-			<description>Research Information Letter (RIL)</description>
-			<author>NRC/RES/DRA/FXHAB, US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
-			<pubDate>2025-06-11 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>RIL Draft-Vol 3-Response Bias of Electrical Cable Coatings at Fire Conditions</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25041A289</link>
-			<description>Research Information Letter (RIL)</description>
-			<author>NRC/RES/DRA/FXHAB, Sandia National Labs (SNL), US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
-			<pubDate>2025-06-11 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>RIL Draft-Vol 2-Response Bias of Electrical Cable Coatings at Fire Conditions</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25041A290</link>
-			<description>Research Information Letter (RIL)</description>
-			<author>NRC/RES/DRA/FXHAB, US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
-			<pubDate>2025-06-11 08:01:00</pubDate>
 		</item>
 	</channel>
 </rss>

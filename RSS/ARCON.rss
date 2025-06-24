@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 24 Jun 2025 16:24:04 GMT</pubDate>
-		<lastBuildDate>Tue, 24 Jun 2025 16:24:04 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Jun 2025 17:20:39 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Jun 2025 17:20:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Fermi 2 - Revision 25 to the Updated Final Safety Analysis Report, Main Page</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24319A082</link>
+			<description>Updated Final Safety Analysis Report (UFSAR)</description>
+			<author>DTE Electric Company</author>
+			<pubDate>2025-06-24 12:33:00</pubDate>
+		</item>
+		<item>
+			<title>Fermi 2 - Revision 25 to the Updated Final Safety Analysis Report, Chapter 2, Site Characteristics</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24319A093</link>
+			<description>Updated Final Safety Analysis Report (UFSAR)</description>
+			<author>DTE Electric Company</author>
+			<pubDate>2025-06-24 12:33:00</pubDate>
+		</item>
+	</channel>
 </rss>
