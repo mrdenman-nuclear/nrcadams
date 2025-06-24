@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 23 Jun 2025 23:16:05 GMT</pubDate>
-		<lastBuildDate>Mon, 23 Jun 2025 23:16:05 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Jun 2025 14:20:31 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Jun 2025 14:20:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 1 - Chapters 1 through 11, Environmental Report for the Paducah Laser Enrichment Facility</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25164A078</link>
+			<description>Environmental Monitoring Report, Report, Technical</description>
+			<author>Global Laser Enrichment, LLC</author>
+			<pubDate>2025-06-24 09:31:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2c - Appendices L though P, Environmental Report for the Paducah Laser Enrichment Facility</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25164A083</link>
+			<description>Environmental Monitoring Report, Report, Technical</description>
+			<author>Global Laser Enrichment, LLC</author>
+			<pubDate>2025-06-24 09:31:00</pubDate>
+		</item>
 		<item>
 			<title>Homestake Mining Co. of CA - Stantec Consulting Services, Inc. - Design Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25163A319</link>
@@ -136,20 +150,6 @@
 			<description>Report, Technical</description>
 			<author>US Dept of Energy, Office of Environmental Management</author>
 			<pubDate>2025-06-11 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>Beaver Valley, Unit 2, Current Facility Operating License NPF-73, Revised 06/10/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052720308</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-06-10 13:26:00</pubDate>
-		</item>
-		<item>
-			<title>Callaway Plant, Unit 1 - Final Safety Analysis Report Rev. OL-27 and Technical Specification Bases Rev. 25, Chapter 1, Introduction and General Description of the Plant</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24191A229</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Ameren Missouri, Union Electric Co</author>
-			<pubDate>2025-06-10 11:02:00</pubDate>
 		</item>
 	</channel>
 </rss>

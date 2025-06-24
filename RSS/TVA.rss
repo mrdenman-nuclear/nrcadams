@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 23 Jun 2025 23:16:05 GMT</pubDate>
-		<lastBuildDate>Mon, 23 Jun 2025 23:16:05 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Jun 2025 14:20:31 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Jun 2025 14:20:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 1 - Chapters 1 through 11, Environmental Report for the Paducah Laser Enrichment Facility</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25164A078</link>
+			<description>Environmental Monitoring Report, Report, Technical</description>
+			<author>Global Laser Enrichment, LLC</author>
+			<pubDate>2025-06-24 09:31:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2c - Appendices L though P, Environmental Report for the Paducah Laser Enrichment Facility</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25164A083</link>
+			<description>Environmental Monitoring Report, Report, Technical</description>
+			<author>Global Laser Enrichment, LLC</author>
+			<pubDate>2025-06-24 09:31:00</pubDate>
+		</item>
+		<item>
+			<title>NEI - Guidance for Implementing the Requirements of 10 CFR Part 52 for Early Site Permit Renewal</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25167A250</link>
+			<description>Letter, Report, Technical</description>
+			<author>Nuclear Energy Institute (NEI)</author>
+			<pubDate>2025-06-24 07:56:00</pubDate>
+		</item>
 		<item>
 			<title>Browns Ferry, Unit 3, Current Facility Operating License No. DPR-68, Technical Specifications, Revised 06/23/2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052780411</link>
@@ -199,27 +220,6 @@
 			<description>Research Information Letter (RIL)</description>
 			<author>NRC/RES/DRA/FXHAB, US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
 			<pubDate>2025-06-11 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>XLB (Sequoyah Nuclear Power Plant) Request for Relief from Reporting Material Status Report to NMMSS</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25153A499</link>
-			<description>E-Mail, Request for Code Relief or Alternative</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-06-11 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>Callaway Plant, Unit 1 - Final Safety Analysis Report Rev. OL-27 and Technical Specification Bases Rev. 25, Chapter 8, Electric Power</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24191A275</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Ameren Missouri, Union Electric Co</author>
-			<pubDate>2025-06-10 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>Monthly (28-day) Federal Register Notice - Applications and Amendments to Facility Operating Licenses and Combined Licenses Involving No Significant Hazards Considerations - Publication Date: June 10, 2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25141A201</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NRR/DORL</author>
-			<pubDate>2025-06-10 11:02:00</pubDate>
 		</item>
 	</channel>
 </rss>
