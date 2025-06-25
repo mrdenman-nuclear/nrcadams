@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 24 Jun 2025 23:18:50 GMT</pubDate>
-		<lastBuildDate>Tue, 24 Jun 2025 23:18:50 GMT</lastBuildDate>
+		<pubDate>Wed, 25 Jun 2025 14:21:10 GMT</pubDate>
+		<lastBuildDate>Wed, 25 Jun 2025 14:21:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -178,20 +178,6 @@
 			<description>Report, Miscellaneous</description>
 			<author>NRC/Chairman</author>
 			<pubDate>2025-06-12 16:18:00</pubDate>
-		</item>
-		<item>
-			<title>Calvert Cliffs, Units 1 and 2, and Calvert Cliffs Independent Spent Fuel Storage Installation - Annual Radioactive Effluent Release Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25160A107</link>
-			<description>Environmental Monitoring Report</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2025-06-11 15:32:00</pubDate>
-		</item>
-		<item>
-			<title>DOE/EIS-0355 SA-3, Draft Final Supplement Analysis for an Alternative Evapotranspiration Cell Cover for the Crescent Junction Disposal Cell for Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25156A258</link>
-			<description>Report, Technical</description>
-			<author>US Dept of Energy, Office of Environmental Management</author>
-			<pubDate>2025-06-11 08:01:00</pubDate>
 		</item>
 	</channel>
 </rss>

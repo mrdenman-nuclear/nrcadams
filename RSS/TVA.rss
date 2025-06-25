@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 24 Jun 2025 23:18:50 GMT</pubDate>
-		<lastBuildDate>Tue, 24 Jun 2025 23:18:50 GMT</lastBuildDate>
+		<pubDate>Wed, 25 Jun 2025 14:21:10 GMT</pubDate>
+		<lastBuildDate>Wed, 25 Jun 2025 14:21:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Digital Instrumentation and Control & Human Factors Engineering Workshop 2025 - Agenda</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25175A099</link>
+			<description>Meeting Agenda</description>
+			<author>Idaho National Lab, NRC/RES/DRA, NRC/RES/DRA/HFRB</author>
+			<pubDate>2025-06-25 09:35:00</pubDate>
+		</item>
 		<item>
 			<title>NUREG-1125, Vol. 2, "A Compilation of Reports of The Advisory Committee on Reactor Safeguards 1957-1984"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25174A109</link>
@@ -213,13 +220,6 @@
 			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation</description>
 			<author>NRC/NRR/DORL/LPL2-2</author>
 			<pubDate>2025-06-12 10:40:00</pubDate>
-		</item>
-		<item>
-			<title>03/10/2025 Summary of 2025 U.S NRC Public Meeting with PWROG Executive Committee</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25142A162</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DORL/LLPB</author>
-			<pubDate>2025-06-12 08:15:00</pubDate>
 		</item>
 	</channel>
 </rss>
