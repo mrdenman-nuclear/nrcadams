@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 25 Jun 2025 23:18:03 GMT</pubDate>
-		<lastBuildDate>Wed, 25 Jun 2025 23:18:03 GMT</lastBuildDate>
+		<pubDate>Thu, 26 Jun 2025 14:20:58 GMT</pubDate>
+		<lastBuildDate>Thu, 26 Jun 2025 14:20:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>FWS to NRC, ESA Concurrence for Dresden Subsequent License Renewal</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25174A037</link>
+			<description>Letter</description>
+			<author>US Dept of Interior, Fish and Wildlife Service</author>
+			<pubDate>2025-06-26 08:01:00</pubDate>
+		</item>
 		<item>
 			<title>Vogtle Electric Generating Plant, Unit 4, Current Facility Combined License NPF-92, Revised 06/24/2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML14100A135</link>
@@ -171,13 +178,6 @@
 			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-06-16 07:40:00</pubDate>
-		</item>
-		<item>
-			<title>06-04-25 National Energy Emergency - Enclosure April 30, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25122A010</link>
-			<description>Report, Miscellaneous</description>
-			<author>NRC/Chairman</author>
-			<pubDate>2025-06-12 16:18:00</pubDate>
 		</item>
 	</channel>
 </rss>

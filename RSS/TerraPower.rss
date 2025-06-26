@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 25 Jun 2025 23:18:03 GMT</pubDate>
-		<lastBuildDate>Wed, 25 Jun 2025 23:18:03 GMT</lastBuildDate>
+		<pubDate>Thu, 26 Jun 2025 14:20:58 GMT</pubDate>
+		<lastBuildDate>Thu, 26 Jun 2025 14:20:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC Update: NUPIC General Membership Meeting - June 23 & 24, 2025 - Austin, TX</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25169A150</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NRR/DRO/IQVB</author>
+			<pubDate>2025-06-26 08:01:00</pubDate>
+		</item>
 		<item>
 			<title>Transcript of the Advisory Committee on Reactor Safeguards 725th Full Committee Meeting, May 06, 2025 Pages 1-97 (Open)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25175A195</link>
@@ -52,20 +59,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-06-17 10:27:00</pubDate>
-		</item>
-		<item>
-			<title>06-04-25 National Energy Emergency - Enclosure April 30, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25122A010</link>
-			<description>Report, Miscellaneous</description>
-			<author>NRC/Chairman</author>
-			<pubDate>2025-06-12 16:18:00</pubDate>
-		</item>
-		<item>
-			<title>M250617: Slides - Briefing on Human Capital and Equal Employment Opportunity</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25163A105</link>
-			<description>Commission Meeting Slides</description>
-			<author>NRC/OCM</author>
-			<pubDate>2025-06-12 10:29:00</pubDate>
 		</item>
 	</channel>
 </rss>

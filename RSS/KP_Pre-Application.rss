@@ -5,18 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 25 Jun 2025 23:17:58 GMT</pubDate>
-		<lastBuildDate>Wed, 25 Jun 2025 23:17:58 GMT</lastBuildDate>
+		<pubDate>Thu, 26 Jun 2025 14:20:53 GMT</pubDate>
+		<lastBuildDate>Thu, 26 Jun 2025 14:20:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>Final Meeting Summary Kairos OL TR 4-16-25</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25105A041</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-06-12 08:14:00</pubDate>
+			<title>Kairos Power LLC, Core Design and Analysis Methodology for the Kairos Power Fluoride Salt-Cooled High Temperature Reactor (KP-TR-024, Revision 1)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25168A341</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2025-06-26 08:01:00</pubDate>
+		</item>
+		<item>
+			<title>Kairos Power LLC, KP-FHR Core Design and Analysis Methodology Topical Report, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25168A344</link>
+			<description>Topical Report</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2025-06-26 08:01:00</pubDate>
 		</item>
 	</channel>
 </rss>
