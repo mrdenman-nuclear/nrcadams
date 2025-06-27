@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 27 Jun 2025 22:20:15 GMT</pubDate>
-		<lastBuildDate>Fri, 27 Jun 2025 22:20:15 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Jun 2025 23:21:28 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Jun 2025 23:21:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -33,17 +33,17 @@
 			<pubDate>2025-06-24 13:28:00</pubDate>
 		</item>
 		<item>
-			<title>Fiscal Year 2025 Final Fee Rule</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25126A232</link>
-			<description>Federal Register Notice, Rulemaking- Final Rule</description>
-			<author>NRC/OCFO/DB</author>
-			<pubDate>2025-06-24 09:32:00</pubDate>
-		</item>
-		<item>
 			<title>NEI Response to NRC Review Comments on NEI 24-05 for 6/23/25 Public Meeting</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25175A055</link>
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Nuclear Energy Institute (NEI)</author>
+			<pubDate>2025-06-24 09:32:00</pubDate>
+		</item>
+		<item>
+			<title>Fiscal Year 2025 Final Fee Rule</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25126A232</link>
+			<description>Federal Register Notice, Rulemaking- Final Rule</description>
+			<author>NRC/OCFO/DB</author>
 			<pubDate>2025-06-24 09:32:00</pubDate>
 		</item>
 		<item>
