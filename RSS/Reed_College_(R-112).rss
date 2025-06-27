@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 27 Jun 2025 17:18:29 GMT</pubDate>
-		<lastBuildDate>Fri, 27 Jun 2025 17:18:29 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Jun 2025 18:25:48 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Jun 2025 18:25:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Examination Result Letter No. 50-288/OL-25-03, Reed College</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25036A345</link>
+			<description>Letter, License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2025-06-27 13:35:00</pubDate>
+		</item>
+		<item>
+			<title>Examination Report Letter No. 50-288/OL-25-03, Reed College</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25036A344</link>
+			<description>License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2025-06-27 13:35:00</pubDate>
+		</item>
+	</channel>
 </rss>
