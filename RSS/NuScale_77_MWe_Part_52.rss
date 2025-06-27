@@ -5,32 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 26 Jun 2025 23:18:59 GMT</pubDate>
-		<lastBuildDate>Thu, 26 Jun 2025 23:18:59 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Jun 2025 14:19:59 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Jun 2025 14:19:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Audit Summary for NuScale SDAA Phase A - Supplemental Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25080A205</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-06-13 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>Audit Summary for NuScale's Loss-of-Coolant Accident Evaluation Model Topical Report, TR-0516-49422, Revision 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24262A230</link>
-			<description>Audit Report, Letter</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-06-13 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>Audit Summary for NuScale’s Non-Loss-of-Coolant Accident Analysis Methodology Topical Report, TR-0516-49416, Revision 4</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24262A257</link>
-			<description>Audit Report, Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-06-13 08:10:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

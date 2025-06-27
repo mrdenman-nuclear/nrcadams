@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 26 Jun 2025 23:19:03 GMT</pubDate>
-		<lastBuildDate>Thu, 26 Jun 2025 23:19:03 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Jun 2025 14:20:06 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Jun 2025 14:20:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Energy Northwest New Nuclear Small Module Reactor (SMR) Integrated Environmental Review White Paper, Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25169A279</link>
+			<description>Legal-Affidavit, Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs, Technical Paper</description>
+			<author>Energy Northwest</author>
+			<pubDate>2025-06-27 08:09:00</pubDate>
+		</item>
 		<item>
 			<title>Insights from Surrogate Industries on Remote Operations for Advanced (Paper)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25175A106</link>
@@ -52,13 +59,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-06-17 10:27:00</pubDate>
-		</item>
-		<item>
-			<title>June 2025 Advisory Committee on Reactor Safeguards (ACRS) Full Committee Meeting Topical Reports</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25162A110</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-06-13 14:32:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 26 Jun 2025 23:19:04 GMT</pubDate>
-		<lastBuildDate>Thu, 26 Jun 2025 23:19:04 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Jun 2025 14:20:09 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Jun 2025 14:20:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,48 +31,6 @@
 			<description>Inspection Manual</description>
 			<author>NRC/NRR/DRO/IRIB</author>
 			<pubDate>2025-06-23 16:19:00</pubDate>
-		</item>
-		<item>
-			<title>IMC 0308 Attachment 2, Technical Basis for Inspection Program</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25072A255</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRIB</author>
-			<pubDate>2025-06-20 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>IMC 2515 Light-Water Reactor Inspection Program--Operations Phase</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25072A254</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRIB</author>
-			<pubDate>2025-06-20 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>IMC 2515 Appendix A, Risk-Informed Baseline Inspection Program</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25072A253</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRIB</author>
-			<pubDate>2025-06-20 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>IMC 2515 Appendix D, Plant Status</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25072A252</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRIB</author>
-			<pubDate>2025-06-20 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>Table of Contents for Inspection Manual Change Notice 25-017</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25169A251</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRIB</author>
-			<pubDate>2025-06-20 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>Table of Contents for Inspection Manual Change Notice 25-018</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25169A370</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRIB</author>
-			<pubDate>2025-06-20 10:29:00</pubDate>
 		</item>
 	</channel>
 </rss>
