@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 27 Jun 2025 19:15:15 GMT</pubDate>
-		<lastBuildDate>Fri, 27 Jun 2025 19:15:15 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Jun 2025 20:20:02 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Jun 2025 20:20:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>07-12-83 Proposed Integrated Safety Assessment Program (ISAP)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25168A073</link>
+			<description>Committee Letter Report, Letter</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2025-06-27 15:35:00</pubDate>
+		</item>
 		<item>
 			<title>07-13-82 ACRS Report on the Perry Nuclear Power Plant, Unit 1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25168A263</link>
@@ -210,13 +217,6 @@
 		<item>
 			<title>06-07-82 ACRS Report On Pressurized Thermal Shock.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25168A243</link>
-			<description>Committee Letter Report, Letter</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-06-27 13:34:00</pubDate>
-		</item>
-		<item>
-			<title>06-07-82 Procedures For ACRS Review Of the NRC Long-Range Research Plan.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25168A244</link>
 			<description>Committee Letter Report, Letter</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-06-27 13:34:00</pubDate>
