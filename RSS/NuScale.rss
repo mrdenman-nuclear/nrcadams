@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 27 Jun 2025 23:21:28 GMT</pubDate>
-		<lastBuildDate>Fri, 27 Jun 2025 23:21:28 GMT</lastBuildDate>
+		<pubDate>Mon, 30 Jun 2025 14:20:58 GMT</pubDate>
+		<lastBuildDate>Mon, 30 Jun 2025 14:20:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submission of NEI White Paper: Modernizing Population-Relaed Siting Requirements for Advanced Reactors - Request for Regulatory Action</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25171A127</link>
+			<description>Letter, Technical Paper</description>
+			<author>Nuclear Energy Institute (NEI)</author>
+			<pubDate>2025-06-30 08:16:00</pubDate>
+		</item>
 		<item>
 			<title>NRC Update: 33rd NUPIC Vendor Conference - June 25 & 26, 2025 - Austin, TX</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25169A189</link>
@@ -59,13 +66,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-06-24 07:56:00</pubDate>
-		</item>
-		<item>
-			<title>May 22, 2025, Summary of Comment-Gathering Public Meeting About U.S. Nuclear Regulatory Commission's Implementation of Section 505 of the Advance Act Of 2024 (EPID G-2024-AGN-0033)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25153A016</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DORL/LPL1</author>
-			<pubDate>2025-06-16 08:49:00</pubDate>
 		</item>
 	</channel>
 </rss>

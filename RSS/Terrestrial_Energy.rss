@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 27 Jun 2025 23:21:28 GMT</pubDate>
-		<lastBuildDate>Fri, 27 Jun 2025 23:21:28 GMT</lastBuildDate>
+		<pubDate>Mon, 30 Jun 2025 14:20:58 GMT</pubDate>
+		<lastBuildDate>Mon, 30 Jun 2025 14:20:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Supplement to January 2025 License Amendment Application Environmental Submittal for Up to 6.5% Enrichment</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25171A113</link>
+			<description>Environmental Report</description>
+			<author>Framatome, Inc</author>
+			<pubDate>2025-06-30 08:16:00</pubDate>
+		</item>
 		<item>
 			<title>Vogtle Electric Generating Plant, Unit 3 Current Facility Combined License NPF-91, Revised 06/27/2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML14100A106</link>
@@ -143,55 +150,6 @@
 			<description>Legal-Report</description>
 			<author>Environmental Working Group, Harmon, Curran, Spielberg and Eisenberg, LLP</author>
 			<pubDate>2025-06-17 15:12:00</pubDate>
-		</item>
-		<item>
-			<title>Final Environmental Assessment for the American Centrifuge Operating, LLC's American Centrifuge Plant Phase III of HALEU Operations LAR</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25084A113</link>
-			<description>Environmental Assessment</description>
-			<author>NRC/NMSS/DREFS/EPMB2</author>
-			<pubDate>2025-06-16 14:36:00</pubDate>
-		</item>
-		<item>
-			<title>Dept of Health & Human Services, Clarification of Request for Amendment of License dated 03/10/2000</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML003693520</link>
-			<description>Letter, Report, Technical</description>
-			<author>US Dept of Health and Human Services, National Institutes of Health (NIH)</author>
-			<pubDate>2025-06-16 10:07:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-0056 Manufacture of Floating Nuclear Power Plants by Offshore Power Systems. A Generic Environmental Statement Considering the Siting and Operation of Floating Nuclear Power Plants. Volume I.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25160A269</link>
-			<description>NUREG</description>
-			<author>NRC/NRR, US Dept of Commerce, National Technical Information Service (NTIS)</author>
-			<pubDate>2025-06-16 08:49:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-0058 Draft Environmental Statement Related to Construction of Atlantic Generating Station, Units 1 and 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25160A280</link>
-			<description>NUREG</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-06-16 08:49:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-0056 Manufacture of Floating Nuclear Power Plants by Offshore Power Systems. A Generic Environmental Statement Considering the Siting and Operation of Floating Nuclear Power Plants. Final Addendum.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25160A281</link>
-			<description>NUREG</description>
-			<author>NRC/NRR, US Dept of Commerce, National Technical Information Service (NTIS)</author>
-			<pubDate>2025-06-16 08:49:00</pubDate>
-		</item>
-		<item>
-			<title>NRC-2016-000539 - Released Set 4</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25161A025</link>
-			<description>FOIA/Privacy Act Background, FOIA/Privacy Act Response to Requestor</description>
-			<author>NRC/OCIO</author>
-			<pubDate>2025-06-16 08:49:00</pubDate>
-		</item>
-		<item>
-			<title>Wolf Creek, Unit 1, Current Facility Operating License NPF-42, Technical Specifications, Revised 06/16/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052720315</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-06-16 07:40:00</pubDate>
 		</item>
 	</channel>
 </rss>

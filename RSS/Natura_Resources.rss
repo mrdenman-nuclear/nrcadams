@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 27 Jun 2025 23:21:29 GMT</pubDate>
-		<lastBuildDate>Fri, 27 Jun 2025 23:21:29 GMT</lastBuildDate>
+		<pubDate>Mon, 30 Jun 2025 14:20:58 GMT</pubDate>
+		<lastBuildDate>Mon, 30 Jun 2025 14:20:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,27 +17,6 @@
 			<description>NUREG</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-06-24 14:31:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-0056 Manufacture of Floating Nuclear Power Plants by Offshore Power Systems. A Generic Environmental Statement Considering the Siting and Operation of Floating Nuclear Power Plants. Volume I.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25160A269</link>
-			<description>NUREG</description>
-			<author>NRC/NRR, US Dept of Commerce, National Technical Information Service (NTIS)</author>
-			<pubDate>2025-06-16 08:49:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-0058 Draft Environmental Statement Related to Construction of Atlantic Generating Station, Units 1 and 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25160A280</link>
-			<description>NUREG</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-06-16 08:49:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-0056 Manufacture of Floating Nuclear Power Plants by Offshore Power Systems. A Generic Environmental Statement Considering the Siting and Operation of Floating Nuclear Power Plants. Volume II.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25160A285</link>
-			<description>NUREG</description>
-			<author>NRC/NRR, US Dept of Commerce, National Technical Information Service (NTIS)</author>
-			<pubDate>2025-06-16 08:49:00</pubDate>
 		</item>
 	</channel>
 </rss>
