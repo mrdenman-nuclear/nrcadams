@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 30 Jun 2025 23:19:53 GMT</pubDate>
-		<lastBuildDate>Mon, 30 Jun 2025 23:19:53 GMT</lastBuildDate>
+		<pubDate>Tue, 01 Jul 2025 14:20:30 GMT</pubDate>
+		<lastBuildDate>Tue, 01 Jul 2025 14:20:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC Staff Response to Request For Sensitive Unclassified Non-Safeguards Information Regarding Construction Permit Application Submitted By Long Mott Energy, LLC</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25181A772</link>
+			<description>Legal-Correspondence/Miscellaneous</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-07-01 09:40:00</pubDate>
+		</item>
 		<item>
 			<title>Subcommittee Structure and Listing - Description for the Advisory Committee on Reactor Safeguards</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24199A157</link>
@@ -66,13 +73,6 @@
 			<description>Meeting Agenda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-06-18 09:03:00</pubDate>
-		</item>
-		<item>
-			<title>05/06/2025 Summary of Meeting with NEI to Discuss NEI 24-05, Rev. 0, "An Approach for Risk-Informed Performance-Based Emergency Planning"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25168A022</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-06-17 10:27:00</pubDate>
 		</item>
 	</channel>
 </rss>

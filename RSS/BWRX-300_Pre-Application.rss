@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 30 Jun 2025 23:19:45 GMT</pubDate>
-		<lastBuildDate>Mon, 30 Jun 2025 23:19:45 GMT</lastBuildDate>
+		<pubDate>Tue, 01 Jul 2025 14:20:23 GMT</pubDate>
+		<lastBuildDate>Tue, 01 Jul 2025 14:20:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,20 +52,6 @@
 			<description>E-Mail, Proprietary Information Review</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2025-06-18 08:18:00</pubDate>
-		</item>
-		<item>
-			<title>NRC 898 - GEH BWRX-300 Stability Analysis LTR Completeness Determination.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25150A017</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-06-17 07:54:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal Email for the Acceptance of GEH BWRX-300 Stability Analysis LTR.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25150A016</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-06-17 07:54:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 30 Jun 2025 23:19:45 GMT</pubDate>
-		<lastBuildDate>Mon, 30 Jun 2025 23:19:45 GMT</lastBuildDate>
+		<pubDate>Tue, 01 Jul 2025 14:20:23 GMT</pubDate>
+		<lastBuildDate>Tue, 01 Jul 2025 14:20:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Letter</description>
 			<author>Triso-X, LLC</author>
 			<pubDate>2025-06-18 09:32:00</pubDate>
-		</item>
-		<item>
-			<title>06/25/2025 Meeting to discuss NRC's Criticality RAIs with TRISO-X</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25168A323</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-06-17 16:54:00</pubDate>
 		</item>
 	</channel>
 </rss>

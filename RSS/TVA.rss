@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 30 Jun 2025 23:19:53 GMT</pubDate>
-		<lastBuildDate>Mon, 30 Jun 2025 23:19:53 GMT</lastBuildDate>
+		<pubDate>Tue, 01 Jul 2025 14:20:31 GMT</pubDate>
+		<lastBuildDate>Tue, 01 Jul 2025 14:20:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Sequoyah Nuclear Plant, Units 1 and 2 - Issuance of Amendment Nos. 372 and 366 Regarding Revision of the Fuel Handling Accident Analysis, Deletion of Technical Specification 3.9.4, and Revision of Technical Specification 3.3.6 (EPID L-2024-LLA-0117)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25112A334</link>
+			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation</description>
+			<author>NRC/NRR/DORL/LPLII-2</author>
+			<pubDate>2025-07-01 08:07:00</pubDate>
+		</item>
+		<item>
+			<title>Tennessee Valley Authority; License Amendment Request Letter dated 06/03/2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25156A198</link>
+			<description>Letter, License-Application for (Amend/Renewal/New) for DKT 30, 40, 70</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-07-01 08:06:00</pubDate>
+		</item>
+		<item>
+			<title>Tennessee Valley Authority, License Amendment No. 14, Mail Control No. 647182</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25174A032</link>
+			<description>License-Materials Byproduct Amendment DKT 30</description>
+			<author>NRC/RGN-I</author>
+			<pubDate>2025-07-01 08:06:00</pubDate>
+		</item>
 		<item>
 			<title>Petition To Intervene And Request For Adjudicatory Hearing By Beyond Nuclear, Don't Waste Michigan, Michigan Safe Energy Future, Three Mile Island Alert And Nuclear Energy Information Service</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25178C909</link>
@@ -199,27 +220,6 @@
 			<description>Inspection Report, Letter</description>
 			<author>NRC/RGN-II/DFRSS/NSB</author>
 			<pubDate>2025-06-18 08:20:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - Callaway, Unit 1, Environmental Assessment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25161A240</link>
-			<description>Environmental Assessment</description>
-			<author>Ameren Missouri, Union Electric Co</author>
-			<pubDate>2025-06-18 08:19:00</pubDate>
-		</item>
-		<item>
-			<title>June 5, 2025 Performance Indicator Workshop Meeting Summary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25161A073</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DRO</author>
-			<pubDate>2025-06-18 08:19:00</pubDate>
-		</item>
-		<item>
-			<title>05/06/2025 Summary of Meeting with NEI to Discuss NEI 24-05, Rev. 0, "An Approach for Risk-Informed Performance-Based Emergency Planning"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25168A022</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-06-17 10:27:00</pubDate>
 		</item>
 	</channel>
 </rss>
