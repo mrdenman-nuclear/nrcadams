@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 02 Jul 2025 17:18:45 GMT</pubDate>
-		<lastBuildDate>Wed, 02 Jul 2025 17:18:45 GMT</lastBuildDate>
+		<pubDate>Wed, 02 Jul 2025 18:27:46 GMT</pubDate>
+		<lastBuildDate>Wed, 02 Jul 2025 18:27:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Sequoyah, Unit 2, Current Facility Operating License DPR-79, Tech Specs, Revised 07/02/2025.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052930262</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-07-02 14:08:00</pubDate>
+		</item>
+		<item>
+			<title>Sequoyah, Unit 1, Current Facility Operating License DPR-77, Tech Specs, Revised 07/02/2025.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052930183</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-07-02 14:07:00</pubDate>
+		</item>
+		<item>
+			<title>07/14/2025 Meeting with Tennessee Valley Authority to Discuss a Proposed License Amendment Request for the Browns Ferry Nuclear Plant</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25182A016</link>
+			<description>Meeting Agenda, Meeting Notice</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-07-02 13:26:00</pubDate>
+		</item>
 		<item>
 			<title>Sequoyah Nuclear Plant, Units 1 and 2 - Issuance of Amendment Nos. 372 and 366 Regarding Revision of the Fuel Handling Accident Analysis, Deletion of Technical Specification 3.9.4, and Revision of Technical Specification 3.3.6 (EPID L-2024-LLA-0117)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25112A334</link>
@@ -199,20 +220,6 @@
 			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-06-23 13:11:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry, Unit 1, Current Facility Operating License No. DPR-33, Technical Specifications, Revised 06/23/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052780019</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-06-23 13:10:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-1437, Supp. 62, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants Supplement 62 Regarding License Renewal of Diablo Canyon Nuclear Power Plant, Units 1 and 2" Final Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25156A357</link>
-			<description>NUREG</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-06-20 08:19:00</pubDate>
 		</item>
 	</channel>
 </rss>
