@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 02 Jul 2025 19:15:57 GMT</pubDate>
-		<lastBuildDate>Wed, 02 Jul 2025 19:15:57 GMT</lastBuildDate>
+		<pubDate>Wed, 02 Jul 2025 20:20:47 GMT</pubDate>
+		<lastBuildDate>Wed, 02 Jul 2025 20:20:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Sequoyah Nuclear Plant, Units 1 and 2, 10 CFR 50.59 and 10 CFR 72.48 Changes, Tests, and Experiments Summary Report; and Commitment Summary Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25182A175</link>
+			<description>Inservice/Preservice Inspection and Test Report, Letter</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-07-02 15:24:00</pubDate>
+		</item>
+		<item>
+			<title>Sequoyah Nuclear Plant, Units 1 and 2, Revisions to the Technical Requirements Manual</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25182A196</link>
+			<description>Letter, Manual</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-07-02 15:24:00</pubDate>
+		</item>
 		<item>
 			<title>Sequoyah, Unit 2, Current Facility Operating License DPR-79, Tech Specs, Revised 07/02/2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052930262</link>
@@ -206,20 +220,6 @@
 			<description>Letter, Report, Technical</description>
 			<author>Nuclear Energy Institute (NEI)</author>
 			<pubDate>2025-06-24 07:56:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry, Unit 3, Current Facility Operating License No. DPR-68, Technical Specifications, Revised 06/23/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052780411</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-06-23 13:13:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry, Unit 2, Current Facility Operating License No. DPR-52, Technical Specifications, Revised 06/23/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052780020</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-06-23 13:11:00</pubDate>
 		</item>
 	</channel>
 </rss>
