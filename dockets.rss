@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 01 Jul 2025 23:20:08 GMT</pubDate>
-		<lastBuildDate>Tue, 01 Jul 2025 23:20:08 GMT</lastBuildDate>
+		<pubDate>Wed, 02 Jul 2025 14:22:56 GMT</pubDate>
+		<lastBuildDate>Wed, 02 Jul 2025 14:22:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>USO Kemmerer 1 Schedule Status Letter</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25181A764</link>
+			<description>Letter</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-07-02 09:35:00</pubDate>
+		</item>
 		<item>
 			<title>07/22/2025 Draft Environmental Impact Statement (EIS) Public Meetings Related to the Proposed Kemmerer Unit One Power Plant</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25182A403</link>
@@ -122,48 +129,6 @@
 			<description>Report, Technical</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2025-06-26 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>Acceptance Letter, Part One of Tennessee Valley Authority's CP Application (Clinch River Nuclear Site)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25156A058</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-06-25 15:13:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Determination for GEH Faceplate Buckling Analysis Design Basis Record DBR</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25175A209</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-06-25 12:34:00</pubDate>
-		</item>
-		<item>
-			<title>06/26/2025 Public Meeting with SMR (Holtec) to Discuss SMR-300 Combustible Gas Control Considerations for the In-Containment Spent Fuel Pool</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25176A104</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-06-25 10:27:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25167A332</link>
-			<description>Legal-Affidavit</description>
-			<author>SMR, LLC</author>
-			<pubDate>2025-06-25 07:41:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC Preapplication Meeting Materials for June 26, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25167A333</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
-			<pubDate>2025-06-25 07:41:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Combustible Gas Control Considerations for the SMR-300 In-Containment Spent Fuel Pool (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25167A330</link>
-			<description>Slides and Viewgraphs</description>
-			<author>SMR, LLC</author>
-			<pubDate>2025-06-25 07:41:00</pubDate>
 		</item>
 	</channel>
 </rss>
