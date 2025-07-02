@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 02 Jul 2025 20:20:47 GMT</pubDate>
-		<lastBuildDate>Wed, 02 Jul 2025 20:20:47 GMT</lastBuildDate>
+		<pubDate>Wed, 02 Jul 2025 21:19:14 GMT</pubDate>
+		<lastBuildDate>Wed, 02 Jul 2025 21:19:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Sequoyah Nuclear Plant, Units 1 and 2, Update to Fire Protection Report, Revision 40</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25162A075</link>
+			<description>Fire Protection Plan, Letter</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-07-02 16:18:00</pubDate>
+		</item>
 		<item>
 			<title>Sequoyah Nuclear Plant, Units 1 and 2, 10 CFR 50.59 and 10 CFR 72.48 Changes, Tests, and Experiments Summary Report; and Commitment Summary Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25182A175</link>
@@ -213,13 +220,6 @@
 			<description>Environmental Monitoring Report, Report, Technical</description>
 			<author>Global Laser Enrichment, LLC</author>
 			<pubDate>2025-06-24 09:31:00</pubDate>
-		</item>
-		<item>
-			<title>NEI - Guidance for Implementing the Requirements of 10 CFR Part 52 for Early Site Permit Renewal</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25167A250</link>
-			<description>Letter, Report, Technical</description>
-			<author>Nuclear Energy Institute (NEI)</author>
-			<pubDate>2025-06-24 07:56:00</pubDate>
 		</item>
 	</channel>
 </rss>
