@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 02 Jul 2025 23:18:43 GMT</pubDate>
-		<lastBuildDate>Wed, 02 Jul 2025 23:18:43 GMT</lastBuildDate>
+		<pubDate>Thu, 03 Jul 2025 14:21:27 GMT</pubDate>
+		<lastBuildDate>Thu, 03 Jul 2025 14:21:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Sequoyah Nuclear Plant, Units 1 and 2, Revisions to the Technical Specification Bases</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25182A213</link>
+			<description>Letter, Technical Specification, Bases Change</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-07-03 08:08:00</pubDate>
+		</item>
+		<item>
+			<title>USACE Cooperation Invitation CRN CP</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25174A015</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DREFS/EPMB3</author>
+			<pubDate>2025-07-03 08:07:00</pubDate>
+		</item>
 		<item>
 			<title>Sequoyah Nuclear Plant, Units 1 and 2, Update to Fire Protection Report, Revision 40</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25162A075</link>
@@ -206,20 +220,6 @@
 			<description>NUREG</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-06-24 12:33:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - Chapters 1 through 11, Environmental Report for the Paducah Laser Enrichment Facility</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25164A078</link>
-			<description>Environmental Monitoring Report, Report, Technical</description>
-			<author>Global Laser Enrichment, LLC</author>
-			<pubDate>2025-06-24 09:31:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2c - Appendices L though P, Environmental Report for the Paducah Laser Enrichment Facility</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25164A083</link>
-			<description>Environmental Monitoring Report, Report, Technical</description>
-			<author>Global Laser Enrichment, LLC</author>
-			<pubDate>2025-06-24 09:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

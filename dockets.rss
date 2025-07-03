@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 02 Jul 2025 23:18:33 GMT</pubDate>
-		<lastBuildDate>Wed, 02 Jul 2025 23:18:33 GMT</lastBuildDate>
+		<pubDate>Thu, 03 Jul 2025 14:21:14 GMT</pubDate>
+		<lastBuildDate>Thu, 03 Jul 2025 14:21:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Email Acceptance - SMR 300 Radiological Consequences Methodology TR.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25161A172</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DNRL</author>
+			<pubDate>2025-07-03 08:08:00</pubDate>
+		</item>
+		<item>
+			<title>Final Withholding Letter - Kairos 6-25-25 Meeting.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25171A125</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-07-03 08:08:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Form 898, Oklo Topical Report Completeness Determination product based operator licensing</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25080A164</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2025-07-03 08:07:00</pubDate>
+		</item>
+		<item>
+			<title>email for completeness determination Oklo topical report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25148A352</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-07-03 08:07:00</pubDate>
+		</item>
 		<item>
 			<title>USO Kemmerer 1 Schedule Status Letter</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25181A764</link>
@@ -87,48 +115,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2025-06-27 08:09:00</pubDate>
-		</item>
-		<item>
-			<title>07/17/2025 Preapplication meeting with Oklo to discuss pre-construction activities for the Aurora reactor to be constructed at INL</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25177C557</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-06-26 15:09:00</pubDate>
-		</item>
-		<item>
-			<title>07/14/2025 Public Meeting to Discuss the GEH BWRX-300 Safety Strategy Licensing Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25177C974</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-06-26 15:08:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Core Design and Analysis Methodology for the Kairos Power Fluoride Salt-Cooled High Temperature Reactor (KP-TR-024, Revision 1)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25168A341</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2025-06-26 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, KP-FHR Core Design and Analysis Methodology Topical Report, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25168A344</link>
-			<description>Topical Report</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2025-06-26 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>Terrestrial Energy USA, Inc. - U.S. NRC Staff’s Feedback Regarding The Technical Report Titled "Modeling And Simulation Activities Related To Source TERM For IMSR Design Basis Accidents"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25148A386</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-06-26 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>NON-PROP: Enclosure 2 - "Modeling and Simulation Activities Related to Source TERM FOR IMSR Design Basis Accidents"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25174A182</link>
-			<description>Report, Technical</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-06-26 08:01:00</pubDate>
 		</item>
 	</channel>
 </rss>

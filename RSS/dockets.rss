@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 02 Jul 2025 23:18:35 GMT</pubDate>
-		<lastBuildDate>Wed, 02 Jul 2025 23:18:35 GMT</lastBuildDate>
+		<pubDate>Thu, 03 Jul 2025 14:21:18 GMT</pubDate>
+		<lastBuildDate>Thu, 03 Jul 2025 14:21:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Email Acceptance - SMR 300 Radiological Consequences Methodology TR.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25161A172</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DNRL</author>
+			<pubDate>2025-07-03 08:08:00</pubDate>
+		</item>
+		<item>
+			<title>Final Withholding Letter - Kairos 6-25-25 Meeting.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25171A125</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-07-03 08:08:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Form 898, Oklo Topical Report Completeness Determination product based operator licensing</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25080A164</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2025-07-03 08:07:00</pubDate>
+		</item>
+		<item>
+			<title>email for completeness determination Oklo topical report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25148A352</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-07-03 08:07:00</pubDate>
+		</item>
 		<item>
 			<title>USO Kemmerer 1 Schedule Status Letter</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25181A764</link>
@@ -192,34 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-06-24 07:56:00</pubDate>
-		</item>
-		<item>
-			<title>May 8, 2025, Summary of Public Meeting with SMR, LLC (A Holtec International Company) to Discuss the Planned Fire Probabilistic Safety Assessment for the SMR-300 Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25160A228</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2025-06-23 13:27:00</pubDate>
-		</item>
-		<item>
-			<title>D. Moon, Skull Valley Band of Goshute Indians, Section 106 Consultation And Notification Of The Issuance Of The Draft Environmental Impact Statement For The Construction Permit Application For Kemmerer Power Station Unit 1 In Lincoln County, Wyoming</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25167A094</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/ETRB1</author>
-			<pubDate>2025-06-23 10:32:00</pubDate>
-		</item>
-		<item>
-			<title>F. Tahdooahnippah Comanche Nation, Section 106 Consultation And Notification Of The Issuance Of The Draft Environmental Impact Statement For The Construction Permit Application For Kemmerer Power Station Unit 1 In Lincoln County, Wyoming</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25167A096</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/ETRB1</author>
-			<pubDate>2025-06-23 09:39:00</pubDate>
-		</item>
-		<item>
-			<title>F. Star Comes Out Oglala Sioux Tribe, Section 106 Consultation And Notification Of The Issuance Of The Draft Environmental Impact Statement For The Construction Permit Application For Kemmerer Power Station Unit 1 In Lincoln County, Wyoming</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25167A095</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/ETRB1</author>
-			<pubDate>2025-06-23 09:39:00</pubDate>
 		</item>
 	</channel>
 </rss>
