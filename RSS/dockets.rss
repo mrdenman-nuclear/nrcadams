@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 03 Jul 2025 14:21:18 GMT</pubDate>
-		<lastBuildDate>Thu, 03 Jul 2025 14:21:18 GMT</lastBuildDate>
+		<pubDate>Thu, 03 Jul 2025 15:20:16 GMT</pubDate>
+		<lastBuildDate>Thu, 03 Jul 2025 15:20:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Response to Request for Additional Information for the TRISO-X Environmental Report Supplement</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25143A217</link>
+			<description>Letter</description>
+			<author>Triso-X, LLC</author>
+			<pubDate>2025-07-03 10:28:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2, Traffic Impact Analysis</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25143A219</link>
+			<description>Report, Technical</description>
+			<author>Triso-X, LLC</author>
+			<pubDate>2025-07-03 10:28:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1 - RAI Responses for the TRISO-X Environmental Report Supplement</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25143A218</link>
+			<description>Response to Request for Additional Information (RAI)</description>
+			<author>Triso-X, LLC</author>
+			<pubDate>2025-07-03 10:28:00</pubDate>
+		</item>
 		<item>
 			<title>Email Acceptance - SMR 300 Radiological Consequences Methodology TR.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25161A172</link>
@@ -199,27 +220,6 @@
 			<description>Slides and Viewgraphs</description>
 			<author>SMR, LLC</author>
 			<pubDate>2025-06-25 07:41:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure: Regulatory Engagement Plan for Submittal and Approval of an Application to Construct a New Research Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25174A168</link>
-			<description>License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>NANO Nuclear Energy, Inc, Univ of Illinois - Urbana - Champaign</author>
-			<pubDate>2025-06-24 13:28:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Updated Version of the Regulatory Engagement Plan for the University of Illinois Urbana-Champaign Microreactor Demonstration Project, Release 06, dated June 17, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25174A167</link>
-			<description>Letter</description>
-			<author>Univ of Illinois - Urbana - Champaign</author>
-			<pubDate>2025-06-24 12:33:00</pubDate>
-		</item>
-		<item>
-			<title>Staff Response to the Advisory Committee on Reactor Safeguards Letter on Safety Evaluation of the Terrestrial USA Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25148A437</link>
-			<description>Letter</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-06-24 07:56:00</pubDate>
 		</item>
 	</channel>
 </rss>

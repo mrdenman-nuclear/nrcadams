@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 03 Jul 2025 14:21:27 GMT</pubDate>
-		<lastBuildDate>Thu, 03 Jul 2025 14:21:27 GMT</lastBuildDate>
+		<pubDate>Thu, 03 Jul 2025 15:20:24 GMT</pubDate>
+		<lastBuildDate>Thu, 03 Jul 2025 15:20:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>06/03/2025 Summary of Public Meeting to Discuss Possible Efficiencies on Subsequent License Renewal Review</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25182A025</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NLRP</author>
+			<pubDate>2025-07-03 10:28:00</pubDate>
+		</item>
 		<item>
 			<title>Sequoyah Nuclear Plant, Units 1 and 2, Revisions to the Technical Specification Bases</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25182A213</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24319A099</link>
 			<description>Updated Final Safety Analysis Report (UFSAR)</description>
 			<author>DTE Electric Company</author>
-			<pubDate>2025-06-24 12:33:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-1125, Vol. 1, "A Compilation of Reports of The Advisory Committee on Reactor Safeguards 1957-1984"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25174A107</link>
-			<description>NUREG</description>
-			<author>NRC/ACRS</author>
 			<pubDate>2025-06-24 12:33:00</pubDate>
 		</item>
 	</channel>
