@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 03 Jul 2025 23:18:53 GMT</pubDate>
-		<lastBuildDate>Thu, 03 Jul 2025 23:18:53 GMT</lastBuildDate>
+		<pubDate>Fri, 04 Jul 2025 14:20:51 GMT</pubDate>
+		<lastBuildDate>Fri, 04 Jul 2025 14:20:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,34 +52,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DNRL</author>
 			<pubDate>2025-06-23 13:27:00</pubDate>
-		</item>
-		<item>
-			<title>Memo for SMR Holtec 3-19-25 Meeting Summary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25121A267</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-06-20 08:18:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1- SMR Holtec 3-19-25 Meeting Agenda</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25121A268</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-06-20 08:18:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - SMR Holtec 3-19-25 Meeting Attendees</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25121A269</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-06-20 08:18:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3 - SMR Holtec 3-19-25 Meeting Summary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25121A270</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-06-20 08:18:00</pubDate>
 		</item>
 	</channel>
 </rss>

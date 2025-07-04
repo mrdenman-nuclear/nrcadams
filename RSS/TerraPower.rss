@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 03 Jul 2025 23:19:03 GMT</pubDate>
-		<lastBuildDate>Thu, 03 Jul 2025 23:19:03 GMT</lastBuildDate>
+		<pubDate>Fri, 04 Jul 2025 14:21:01 GMT</pubDate>
+		<lastBuildDate>Fri, 04 Jul 2025 14:21:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,13 +66,6 @@
 			<description>Federal Register Notice, Rulemaking- Final Rule</description>
 			<author>NRC/OCFO/DB</author>
 			<pubDate>2025-06-24 09:32:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - SMR Holtec 3-19-25 Meeting Attendees</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25121A269</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-06-20 08:18:00</pubDate>
 		</item>
 	</channel>
 </rss>

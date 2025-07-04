@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 03 Jul 2025 23:19:03 GMT</pubDate>
-		<lastBuildDate>Thu, 03 Jul 2025 23:19:03 GMT</lastBuildDate>
+		<pubDate>Fri, 04 Jul 2025 14:21:01 GMT</pubDate>
+		<lastBuildDate>Fri, 04 Jul 2025 14:21:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -150,27 +150,6 @@
 			<description>Environmental Monitoring Report, Report, Technical</description>
 			<author>Global Laser Enrichment, LLC</author>
 			<pubDate>2025-06-24 09:31:00</pubDate>
-		</item>
-		<item>
-			<title>Homestake Mining Co. of CA - Stantec Consulting Services, Inc. - Design Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25163A319</link>
-			<description>Report, Technical</description>
-			<author>Stantec Consulting Services, Inc</author>
-			<pubDate>2025-06-20 09:31:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-1437, Supp. 62, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants Supplement 62 Regarding License Renewal of Diablo Canyon Nuclear Power Plant, Units 1 and 2" Final Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25156A357</link>
-			<description>NUREG</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-06-20 08:19:00</pubDate>
-		</item>
-		<item>
-			<title>Supplement to September 2024 License Amendment Application Submittal for up to 10% Enrichment for Specialty Fuels Building</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25162A122</link>
-			<description>Environmental Report</description>
-			<author>Framatome, Inc</author>
-			<pubDate>2025-06-20 08:18:00</pubDate>
 		</item>
 	</channel>
 </rss>
