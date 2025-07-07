@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 04 Jul 2025 23:17:58 GMT</pubDate>
-		<lastBuildDate>Fri, 04 Jul 2025 23:17:58 GMT</lastBuildDate>
+		<pubDate>Mon, 07 Jul 2025 14:21:03 GMT</pubDate>
+		<lastBuildDate>Mon, 07 Jul 2025 14:21:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Browns Ferry 2025-301 Exam Report Items-ADAMS 2B</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25182A024</link>
+			<description>License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/RGN-II</author>
+			<pubDate>2025-07-07 09:34:00</pubDate>
+		</item>
+		<item>
+			<title>Summary of June 5, 2025, Public Teleconference with Tennessee Valley Authority to Discuss a Proposed Emergency License Amendment Request and Exemption Related to Technical Specification 3.3.1 for Watts Bar Nuclear Plant, Unit 2 (EPID L-2025-LRM-0074)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25176A107</link>
+			<description>Meeting Summary</description>
+			<author>NRC/NRR/DORL/LPLII-2</author>
+			<pubDate>2025-07-07 09:33:00</pubDate>
+		</item>
 		<item>
 			<title>06/03/2025 Summary of Public Meeting to Discuss Possible Efficiencies on Subsequent License Renewal Review</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25182A025</link>
@@ -206,20 +220,6 @@
 			<description>NUREG</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-06-24 14:31:00</pubDate>
-		</item>
-		<item>
-			<title>Fermi 2 - Revision 25 to the Updated Final Safety Analysis Report, Main Page</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24319A082</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>DTE Electric Company</author>
-			<pubDate>2025-06-24 12:33:00</pubDate>
-		</item>
-		<item>
-			<title>Fermi 2 - Revision 25 to the Updated Final Safety Analysis Report, Chapter 1, Introduction And General Description Of Plant</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24319A099</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>DTE Electric Company</author>
-			<pubDate>2025-06-24 12:33:00</pubDate>
 		</item>
 	</channel>
 </rss>

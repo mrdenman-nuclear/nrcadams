@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 04 Jul 2025 23:17:49 GMT</pubDate>
-		<lastBuildDate>Fri, 04 Jul 2025 23:17:49 GMT</lastBuildDate>
+		<pubDate>Mon, 07 Jul 2025 14:20:55 GMT</pubDate>
+		<lastBuildDate>Mon, 07 Jul 2025 14:20:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Request for Withholding Information from Public Disclosure for SMR, LLC (A Holtec International Company) Preapplication Meeting Materials for June 26, 2025, Public Meeting</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25176A031</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2025-07-07 09:33:00</pubDate>
+		</item>
 		<item>
 			<title>Email Acceptance - SMR 300 Radiological Consequences Methodology TR.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25161A172</link>
@@ -45,13 +52,6 @@
 			<description>Slides and Viewgraphs</description>
 			<author>SMR, LLC</author>
 			<pubDate>2025-06-25 07:41:00</pubDate>
-		</item>
-		<item>
-			<title>May 8, 2025, Summary of Public Meeting with SMR, LLC (A Holtec International Company) to Discuss the Planned Fire Probabilistic Safety Assessment for the SMR-300 Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25160A228</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2025-06-23 13:27:00</pubDate>
 		</item>
 	</channel>
 </rss>

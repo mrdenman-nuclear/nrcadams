@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 04 Jul 2025 23:18:01 GMT</pubDate>
-		<lastBuildDate>Fri, 04 Jul 2025 23:18:01 GMT</lastBuildDate>
+		<pubDate>Mon, 07 Jul 2025 14:21:06 GMT</pubDate>
+		<lastBuildDate>Mon, 07 Jul 2025 14:21:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Report, Miscellaneous</description>
 			<author>NRC/RES/DE</author>
 			<pubDate>2025-07-02 13:36:00</pubDate>
-		</item>
-		<item>
-			<title>Subcommittee Structure and Listing - Description for the Advisory Committee on Reactor Safeguards</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24199A157</link>
-			<description>Graphics incl Charts and Tables, Schedule and Calendars</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-06-30 13:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
