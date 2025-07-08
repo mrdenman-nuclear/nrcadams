@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 08 Jul 2025 19:17:32 GMT</pubDate>
-		<lastBuildDate>Tue, 08 Jul 2025 19:17:32 GMT</lastBuildDate>
+		<pubDate>Tue, 08 Jul 2025 20:23:21 GMT</pubDate>
+		<lastBuildDate>Tue, 08 Jul 2025 20:23:21 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Summary Report of the 725th Meeting of the Advisory Committee on Reactor Safeguards May 6 through 9 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25174A313</link>
+			<description>ACRS Summary Report, Letter, Meeting Summary</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2025-07-08 16:18:00</pubDate>
+		</item>
 		<item>
 			<title>000632 “Xe-100 Licensing Topical Report Mechanistic Source Term Approach”- NRC Staff Review - ACRS July 9, 2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25188A215</link>
@@ -211,13 +218,6 @@
 			<title>05-13-81 Response to Inquiries Concerning the Browns Ferry Nuclear Power Station Unit 3 Partial-Failure-To-Scram.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25169A094</link>
 			<description>Committee Letter Report</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-06-30 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>06-09-81 Instrumentation For Detection Of Inadequate Core Cooling.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25169A095</link>
-			<description>Committee Letter Report, Letter</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-06-30 08:17:00</pubDate>
 		</item>
