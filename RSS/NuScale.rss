@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 07 Jul 2025 23:20:28 GMT</pubDate>
-		<lastBuildDate>Mon, 07 Jul 2025 23:20:28 GMT</lastBuildDate>
+		<pubDate>Tue, 08 Jul 2025 14:22:56 GMT</pubDate>
+		<lastBuildDate>Tue, 08 Jul 2025 14:22:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -80,41 +80,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NRC/NRR/DRO/IQVB</author>
 			<pubDate>2025-06-26 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of the Advisory Committee on Reactor Safeguards 725th Full Committee Meeting, May 06, 2025 Pages 1-97 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25175A195</link>
-			<description>Meeting Transcript</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-06-24 13:28:00</pubDate>
-		</item>
-		<item>
-			<title>TLR-RES-DE-REB-2025-09, Technical Assessment of Application of Digital Twin And Prognostic Tools For Condition Monitoring</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25135A029</link>
-			<description>Report, Technical</description>
-			<author>Idaho National Lab, NRC/RES/DE</author>
-			<pubDate>2025-06-24 09:32:00</pubDate>
-		</item>
-		<item>
-			<title>NEI Response to NRC Review Comments on NEI 24-05 for 6/23/25 Public Meeting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25175A055</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Nuclear Energy Institute (NEI)</author>
-			<pubDate>2025-06-24 09:32:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - Chapters 1 through 11, Environmental Report for the Paducah Laser Enrichment Facility</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25164A078</link>
-			<description>Environmental Monitoring Report, Report, Technical</description>
-			<author>Global Laser Enrichment, LLC</author>
-			<pubDate>2025-06-24 09:31:00</pubDate>
-		</item>
-		<item>
-			<title>Staff Response to the Advisory Committee on Reactor Safeguards Letter on Safety Evaluation of the Terrestrial USA Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25148A437</link>
-			<description>Letter</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-06-24 07:56:00</pubDate>
 		</item>
 	</channel>
 </rss>

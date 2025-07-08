@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 07 Jul 2025 23:20:14 GMT</pubDate>
-		<lastBuildDate>Mon, 07 Jul 2025 23:20:14 GMT</lastBuildDate>
+		<pubDate>Tue, 08 Jul 2025 14:22:45 GMT</pubDate>
+		<lastBuildDate>Tue, 08 Jul 2025 14:22:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SMR, LLC Regulatory Engagement Plan, JI-2240423 Revision 5</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25178A822</link>
+			<description>Letter</description>
+			<author>SMR, LLC</author>
+			<pubDate>2025-07-08 08:02:00</pubDate>
+		</item>
+		<item>
+			<title>SMR-300 Regulatory Engagement Plan</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25178A823</link>
+			<description>Report, Technical</description>
+			<author>SMR, LLC</author>
+			<pubDate>2025-07-08 08:02:00</pubDate>
+		</item>
 		<item>
 			<title>Letter - TerraPower, LLC - Summary Report On The Regulatory Audit Of Topical Report, TP-LIC-RPT-0007, "Design Basis Accident Methodology For Events With Radiological Release," Revision 0 (EPID NO. L-2024-TOP-0009)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25157A117</link>
@@ -94,48 +108,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-07-02 09:35:00</pubDate>
-		</item>
-		<item>
-			<title>07/22/2025 Draft Environmental Impact Statement (EIS) Public Meetings Related to the Proposed Kemmerer Unit One Power Plant</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25182A403</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-07-01 18:07:00</pubDate>
-		</item>
-		<item>
-			<title>07/14/2025 Meeting to discuss NRC's Criticality RAIs with TRISO-X</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25182A368</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-07-01 16:58:00</pubDate>
-		</item>
-		<item>
-			<title>07/08/2025 Meeting to discuss NRC's Structural RAIs with TRISO-X</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25182A366</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-07-01 16:57:00</pubDate>
-		</item>
-		<item>
-			<title>NRC-2024-0146 - FRNs (weeks 4) Tennessee Valley Authority's CP application (Clinch River Nuclear Site)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25168A110</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-07-01 13:37:00</pubDate>
-		</item>
-		<item>
-			<title>NRC-2024-0146 - FRNs (Weeks 3) Tennessee Valley Authority's CP Application (Clinch River Nuclear Site)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25168A109</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-07-01 11:22:00</pubDate>
-		</item>
-		<item>
-			<title>NRC-2024-0146 - FRNs (weeks 2) Tennessee Valley Authority's CP application (Clinch River Nuclear Site)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25168A108</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-07-01 11:22:00</pubDate>
 		</item>
 	</channel>
 </rss>

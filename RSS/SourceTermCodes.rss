@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 07 Jul 2025 23:20:31 GMT</pubDate>
-		<lastBuildDate>Mon, 07 Jul 2025 23:20:31 GMT</lastBuildDate>
+		<pubDate>Tue, 08 Jul 2025 14:22:58 GMT</pubDate>
+		<lastBuildDate>Tue, 08 Jul 2025 14:22:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SMR-300 Regulatory Engagement Plan</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25178A823</link>
+			<description>Report, Technical</description>
+			<author>SMR, LLC</author>
+			<pubDate>2025-07-08 08:02:00</pubDate>
+		</item>
 		<item>
 			<title>2025/06/23 Project Long Mott Docs - Request for Information Needs for Long Mott Generating Station</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25174A248</link>
@@ -45,13 +52,6 @@
 			<description>Report, Miscellaneous</description>
 			<author>NRC/RES/DE</author>
 			<pubDate>2025-07-02 13:36:00</pubDate>
-		</item>
-		<item>
-			<title>Sequoyah Nuclear Plant, Units 1 and 2 - Issuance of Amendment Nos. 372 and 366 Regarding Revision of the Fuel Handling Accident Analysis, Deletion of Technical Specification 3.9.4, and Revision of Technical Specification 3.3.6 (EPID L-2024-LLA-0117)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25112A334</link>
-			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation</description>
-			<author>NRC/NRR/DORL/LPLII-2</author>
-			<pubDate>2025-07-01 08:07:00</pubDate>
 		</item>
 	</channel>
 </rss>

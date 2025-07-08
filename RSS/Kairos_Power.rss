@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 07 Jul 2025 23:20:28 GMT</pubDate>
-		<lastBuildDate>Mon, 07 Jul 2025 23:20:28 GMT</lastBuildDate>
+		<pubDate>Tue, 08 Jul 2025 14:22:56 GMT</pubDate>
+		<lastBuildDate>Tue, 08 Jul 2025 14:22:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>06/30/2025 National Energy Emergency - Enclosure May 31 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25142A186</link>
+			<description>Status Report</description>
+			<author>NRC/Chairman</author>
+			<pubDate>2025-07-08 08:01:00</pubDate>
+		</item>
 		<item>
 			<title>SECY-25-0061: Weekly Information Report Week Ending June 27, 2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25183A393</link>
@@ -87,20 +94,6 @@
 			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts</description>
 			<author>Idaho National Lab, NRC/RES/DRA, NRC/RES/DRA/HFRB, Paragon</author>
 			<pubDate>2025-06-25 09:35:00</pubDate>
-		</item>
-		<item>
-			<title>Fiscal Year 2025 Final Fee Rule</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25126A232</link>
-			<description>Federal Register Notice, Rulemaking- Final Rule</description>
-			<author>NRC/OCFO/DB</author>
-			<pubDate>2025-06-24 09:32:00</pubDate>
-		</item>
-		<item>
-			<title>NEI - Guidance for Implementing the Requirements of 10 CFR Part 52 for Early Site Permit Renewal</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25167A250</link>
-			<description>Letter, Report, Technical</description>
-			<author>Nuclear Energy Institute (NEI)</author>
-			<pubDate>2025-06-24 07:56:00</pubDate>
 		</item>
 	</channel>
 </rss>
