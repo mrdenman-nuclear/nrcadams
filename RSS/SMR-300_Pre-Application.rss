@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 08 Jul 2025 23:19:54 GMT</pubDate>
-		<lastBuildDate>Tue, 08 Jul 2025 23:19:54 GMT</lastBuildDate>
+		<pubDate>Wed, 09 Jul 2025 14:23:32 GMT</pubDate>
+		<lastBuildDate>Wed, 09 Jul 2025 14:23:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,34 +38,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DNRL</author>
 			<pubDate>2025-07-03 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>06/26/2025 Public Meeting with SMR (Holtec) to Discuss SMR-300 Combustible Gas Control Considerations for the In-Containment Spent Fuel Pool</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25176A104</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-06-25 10:27:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25167A332</link>
-			<description>Legal-Affidavit</description>
-			<author>SMR, LLC</author>
-			<pubDate>2025-06-25 07:41:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC Preapplication Meeting Materials for June 26, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25167A333</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
-			<pubDate>2025-06-25 07:41:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Combustible Gas Control Considerations for the SMR-300 In-Containment Spent Fuel Pool (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25167A330</link>
-			<description>Slides and Viewgraphs</description>
-			<author>SMR, LLC</author>
-			<pubDate>2025-06-25 07:41:00</pubDate>
 		</item>
 	</channel>
 </rss>

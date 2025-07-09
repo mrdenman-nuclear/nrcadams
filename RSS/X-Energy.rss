@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 08 Jul 2025 23:20:03 GMT</pubDate>
-		<lastBuildDate>Tue, 08 Jul 2025 23:20:03 GMT</lastBuildDate>
+		<pubDate>Wed, 09 Jul 2025 14:23:42 GMT</pubDate>
+		<lastBuildDate>Wed, 09 Jul 2025 14:23:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -16,7 +16,14 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25189A369</link>
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>X-Energy</author>
-			<pubDate>2025-07-08 14:31:00</pubDate>
+			<pubDate>2025-07-09 09:31:00</pubDate>
+		</item>
+		<item>
+			<title>Advanced Reactor Overview</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25189A246</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-07-09 08:12:00</pubDate>
 		</item>
 		<item>
 			<title>06/30/2025 National Energy Emergency - Enclosure May 31 2025</title>
@@ -80,13 +87,6 @@
 			<description>Legal-Affidavit, Letter, Meeting Briefing Package/Handouts, Slides and Viewgraphs, Technical Paper</description>
 			<author>Energy Northwest</author>
 			<pubDate>2025-06-27 08:09:00</pubDate>
-		</item>
-		<item>
-			<title>Insights from Surrogate Industries on Remote Operations for Advanced (Paper)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25175A106</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts</description>
-			<author>Idaho National Lab, NRC/RES/DRA, NRC/RES/DRA/HFRB, Paragon</author>
-			<pubDate>2025-06-25 09:35:00</pubDate>
 		</item>
 	</channel>
 </rss>

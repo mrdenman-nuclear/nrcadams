@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 08 Jul 2025 23:19:56 GMT</pubDate>
-		<lastBuildDate>Tue, 08 Jul 2025 23:19:56 GMT</lastBuildDate>
+		<pubDate>Wed, 09 Jul 2025 14:23:35 GMT</pubDate>
+		<lastBuildDate>Wed, 09 Jul 2025 14:23:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Minutes of the 725th Meeting of the Advisory Committee On Reactor Safeguards (ACRS) for May 6 through 9, 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25182A241</link>
+			<description>Meeting Minutes, Memoranda</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2025-07-09 08:12:00</pubDate>
+		</item>
 		<item>
 			<title>Summary Report of the 725th Meeting of the Advisory Committee on Reactor Safeguards May 6 through 9 2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25174A313</link>
@@ -211,13 +218,6 @@
 			<title>05-13-81 Power Level Increase at Crystal River Nuclear Plant Unit 3</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25169A092</link>
 			<description>Committee Letter Report, Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-06-30 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>05-13-81 Response to Inquiries Concerning the Browns Ferry Nuclear Power Station Unit 3 Partial-Failure-To-Scram.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25169A094</link>
-			<description>Committee Letter Report</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-06-30 08:17:00</pubDate>
 		</item>
