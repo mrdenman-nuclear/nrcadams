@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 09 Jul 2025 23:19:58 GMT</pubDate>
-		<lastBuildDate>Wed, 09 Jul 2025 23:19:58 GMT</lastBuildDate>
+		<pubDate>Thu, 10 Jul 2025 14:22:15 GMT</pubDate>
+		<lastBuildDate>Thu, 10 Jul 2025 14:22:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Terrestrial Energy USA, Inc. - U.S. NRC Staff’s Feedback Regarding The Technical Report Titled "Modeling And Simulation Activities Related To Source TERM For IMSR Design Basis Accidents"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25148A386</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-06-26 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>NON-PROP: Enclosure 2 - "Modeling and Simulation Activities Related to Source TERM FOR IMSR Design Basis Accidents"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25174A182</link>
-			<description>Report, Technical</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-06-26 08:01:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

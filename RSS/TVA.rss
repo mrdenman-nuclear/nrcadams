@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 09 Jul 2025 23:20:04 GMT</pubDate>
-		<lastBuildDate>Wed, 09 Jul 2025 23:20:04 GMT</lastBuildDate>
+		<pubDate>Thu, 10 Jul 2025 14:22:19 GMT</pubDate>
+		<lastBuildDate>Thu, 10 Jul 2025 14:22:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Letter to TVA, Acceptance, Docketing and Opportunity for Hearing, Tennessee Valley Authority's CP application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25182A151</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2025-07-10 08:19:00</pubDate>
+		</item>
+		<item>
+			<title>Turkey Point Nuclear Plant, Units 3 and 3 - Application to Adopt 10 CFR 50.69, "Risk-Informed Categorization and Treatment of Structures, Systems and Components for Nuclear Power Reactors"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25182A034</link>
+			<description>Letter</description>
+			<author>Florida Power and Light Co</author>
+			<pubDate>2025-07-10 08:18:00</pubDate>
+		</item>
+		<item>
+			<title>LER 2024-001-01 for Sequoyah Nuclear Plant, Unit 2, Reactor Trip due to an Electrical Trouble Turbine Trip</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25182A055</link>
+			<description>Letter, Licensee Event Report (LER)</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-07-10 08:18:00</pubDate>
+		</item>
+		<item>
+			<title>06/12/2025 Summary of Public Teleconference with Tennessee Valley Authority to Discuss a Proposed Alternative Request Regarding Thermal Relief Valves (EPID L-2025-LRM-0067)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25178B389</link>
+			<description>Meeting Summary</description>
+			<author>NRC/NRR/DORL/LPL2-2</author>
+			<pubDate>2025-07-10 08:18:00</pubDate>
+		</item>
 		<item>
 			<title>Browns Ferry, Units 1, 2, and 3, Sequoyah, Units 1 and 2, Watts Bar, Unit 1 and 2, Transmittal of 24 Month Report of Changes to Radioactive Material Packages Quality Assurance Program</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML19224C413</link>
@@ -192,34 +220,6 @@
 			<description>Letter</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2025-06-30 08:16:00</pubDate>
-		</item>
-		<item>
-			<title>08-16-82 ACRS Report on Watts Bar Nuclear Plant, Units 1 and 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25168A265</link>
-			<description>Committee Letter Report, Letter</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-06-27 14:35:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry Nuclear Plant - NRC Operator License Examination Report Nos. 05000259/2024301, 05000260/2024301, And 05000296/2024301</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24183A009</link>
-			<description>Letter, License-Operator Examination Report</description>
-			<author>NRC/RGN-II/DRS/OLB</author>
-			<pubDate>2025-06-27 10:34:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Update: 33rd NUPIC Vendor Conference - June 25 & 26, 2025 - Austin, TX</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25169A189</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DRO</author>
-			<pubDate>2025-06-27 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Update: NUPIC General Membership Meeting - June 23 & 24, 2025 - Austin, TX</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25169A150</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DRO/IQVB</author>
-			<pubDate>2025-06-26 08:01:00</pubDate>
 		</item>
 	</channel>
 </rss>

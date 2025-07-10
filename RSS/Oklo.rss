@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 09 Jul 2025 23:20:04 GMT</pubDate>
-		<lastBuildDate>Wed, 09 Jul 2025 23:20:04 GMT</lastBuildDate>
+		<pubDate>Thu, 10 Jul 2025 14:22:19 GMT</pubDate>
+		<lastBuildDate>Thu, 10 Jul 2025 14:22:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>Graphics incl Charts and Tables, Schedule and Calendars</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-06-30 13:06:00</pubDate>
-		</item>
-		<item>
-			<title>SECY-25-0058: Weekly Information Report Week Ending June 13, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25177A142</link>
-			<description>Commission SECY Paper, Weekly Information Report</description>
-			<author>NRC/EDO/AO</author>
-			<pubDate>2025-06-26 15:27:00</pubDate>
 		</item>
 	</channel>
 </rss>

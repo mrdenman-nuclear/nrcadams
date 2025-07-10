@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 09 Jul 2025 23:19:56 GMT</pubDate>
-		<lastBuildDate>Wed, 09 Jul 2025 23:19:56 GMT</lastBuildDate>
+		<pubDate>Thu, 10 Jul 2025 14:22:12 GMT</pubDate>
+		<lastBuildDate>Thu, 10 Jul 2025 14:22:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TerraPower, LLC, Transmittal of Kemmerer Power Station Unit 1 Cultural Resources Testing Results for Sites 48LN740 and 48LN8940</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25182A007</link>
+			<description>Letter</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2025-07-10 08:18:00</pubDate>
+		</item>
+		<item>
+			<title>Hermes Test Reactor - U.S. Nuclear Regulatory Commission Inspection Report 05007513/2025001</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25183A381</link>
+			<description>Inspection Report, Letter</description>
+			<author>NRC/RGN-II/DORS</author>
+			<pubDate>2025-07-10 08:18:00</pubDate>
+		</item>
 		<item>
 			<title>NRC Staff Review of the DHS Consultation Report Kemmerer Unit 1 Power Reactor Construction Permit Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25161A205</link>
@@ -66,55 +80,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2025-07-07 09:33:00</pubDate>
-		</item>
-		<item>
-			<title>Response to Request for Additional Information for the TRISO-X Environmental Report Supplement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25143A217</link>
-			<description>Letter</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2025-07-03 10:28:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2, Traffic Impact Analysis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25143A219</link>
-			<description>Report, Technical</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2025-07-03 10:28:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - RAI Responses for the TRISO-X Environmental Report Supplement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25143A218</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2025-07-03 10:28:00</pubDate>
-		</item>
-		<item>
-			<title>Email Acceptance - SMR 300 Radiological Consequences Methodology TR.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25161A172</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2025-07-03 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>Final Withholding Letter - Kairos 6-25-25 Meeting.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25171A125</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-07-03 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Form 898, Oklo Topical Report Completeness Determination product based operator licensing</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25080A164</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-07-03 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>email for completeness determination Oklo topical report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25148A352</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-07-03 08:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
