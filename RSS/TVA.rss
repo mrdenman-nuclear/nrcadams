@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 11 Jul 2025 16:24:57 GMT</pubDate>
-		<lastBuildDate>Fri, 11 Jul 2025 16:24:57 GMT</lastBuildDate>
+		<pubDate>Fri, 11 Jul 2025 17:19:07 GMT</pubDate>
+		<lastBuildDate>Fri, 11 Jul 2025 17:19:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Watts Bar Nuclear Plant, Unit 2 - Withdrawal of License Amendment and Exemption Requests (EPIDS L-2025-LLE-0017 and L-2025-LLA-0091)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25160A210</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DORL/LPLII-2</author>
+			<pubDate>2025-07-11 12:42:00</pubDate>
+		</item>
 		<item>
 			<title>2024/04/11 - Comment (1) E-mail regarding Browns Ferry SLR Draft EIS</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25182A147</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25171A008</link>
 			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50, Technical Specification, Amendment</description>
 			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-06-30 08:16:00</pubDate>
-		</item>
-		<item>
-			<title>Submission of NEI White Paper: Modernizing Population-Relaed Siting Requirements for Advanced Reactors - Request for Regulatory Action</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25171A127</link>
-			<description>Letter, Technical Paper</description>
-			<author>Nuclear Energy Institute (NEI)</author>
 			<pubDate>2025-06-30 08:16:00</pubDate>
 		</item>
 	</channel>
