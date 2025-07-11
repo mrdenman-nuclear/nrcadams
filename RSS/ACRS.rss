@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 11 Jul 2025 19:16:37 GMT</pubDate>
-		<lastBuildDate>Fri, 11 Jul 2025 19:16:37 GMT</lastBuildDate>
+		<pubDate>Fri, 11 Jul 2025 20:21:31 GMT</pubDate>
+		<lastBuildDate>Fri, 11 Jul 2025 20:21:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Advisory Committee On Reactor Safeguards Power Uprate Reviews</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25177B284</link>
+			<description>Memoranda</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2025-07-11 16:17:00</pubDate>
+		</item>
 		<item>
 			<title>Minutes of the 725th Meeting of the Advisory Committee On Reactor Safeguards (ACRS) for May 6 through 9, 2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25182A241</link>
@@ -211,13 +218,6 @@
 			<title>05-12-81 Response To Inquiry Concerning The Safety Implications Of Control Systems Failures.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25169A091</link>
 			<description>Committee Letter Report, Letter</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-06-30 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>05-13-81 Power Level Increase at Crystal River Nuclear Plant Unit 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25169A092</link>
-			<description>Committee Letter Report, Memoranda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-06-30 08:17:00</pubDate>
 		</item>
