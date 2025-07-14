@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 14 Jul 2025 14:21:33 GMT</pubDate>
-		<lastBuildDate>Mon, 14 Jul 2025 14:21:33 GMT</lastBuildDate>
+		<pubDate>Mon, 14 Jul 2025 15:22:16 GMT</pubDate>
+		<lastBuildDate>Mon, 14 Jul 2025 15:22:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>07/30/2025 pre-application meeting with Oklo to discuss an upcoming topical report on principal design criteria</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25195A048</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-07-14 10:51:00</pubDate>
+		</item>
 		<item>
 			<title>TerraPower Kemmerer Power Station - July 2025 - Testing Results for Cultural Resource Sites 48LN740 and 48LN8940 (REDACTED VERSION)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25195A007</link>
@@ -213,13 +220,6 @@
 			<description>Federal Register Notice</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2025-07-01 13:37:00</pubDate>
-		</item>
-		<item>
-			<title>NRC-2024-0146 - FRNs (Weeks 3) Tennessee Valley Authority's CP Application (Clinch River Nuclear Site)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25168A109</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-07-01 11:22:00</pubDate>
 		</item>
 	</channel>
 </rss>
