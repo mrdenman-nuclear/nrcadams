@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 11 Jul 2025 23:21:21 GMT</pubDate>
-		<lastBuildDate>Fri, 11 Jul 2025 23:21:21 GMT</lastBuildDate>
+		<pubDate>Mon, 14 Jul 2025 14:21:33 GMT</pubDate>
+		<lastBuildDate>Mon, 14 Jul 2025 14:21:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TerraPower Kemmerer Power Station - July 2025 - Testing Results for Cultural Resource Sites 48LN740 and 48LN8940 (REDACTED VERSION)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25195A007</link>
+			<description>Report, Technical</description>
+			<author>Bechtel Corp, Tetra Tech, Inc</author>
+			<pubDate>2025-07-14 10:09:00</pubDate>
+		</item>
+		<item>
+			<title>Cultural Resource Testing Plan for Sites 48LN740 and 48LN8940 as Part of TerraPower, LLC's, Natrium Demonstration Project, Lincoln County, Wyoming (REDACTED VERSION)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25195A006</link>
+			<description>Report, Technical</description>
+			<author>Tetra Tech, Inc</author>
+			<pubDate>2025-07-14 10:09:00</pubDate>
+		</item>
 		<item>
 			<title>TerraPower, LLC, Transmittal of Kemmerer Power Station Unit 1 Cultural Resources Testing Results for Sites 48LN740 and 48LN8940</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25182A007</link>
@@ -45,13 +59,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2025-07-01 18:07:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC, Transmittal of Probabilistic Site Response Analysis Calculation of GMRS and SSE Spectra</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25171A021</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-06-30 08:16:00</pubDate>
 		</item>
 	</channel>
 </rss>
