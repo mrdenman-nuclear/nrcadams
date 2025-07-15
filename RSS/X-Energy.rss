@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 14 Jul 2025 23:19:56 GMT</pubDate>
-		<lastBuildDate>Mon, 14 Jul 2025 23:19:56 GMT</lastBuildDate>
+		<pubDate>Tue, 15 Jul 2025 14:21:15 GMT</pubDate>
+		<lastBuildDate>Tue, 15 Jul 2025 14:21:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,13 +73,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/NMSS/DREFS/EPMB3</author>
 			<pubDate>2025-07-03 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Staff Response to Request For Sensitive Unclassified Non-Safeguards Information Regarding Construction Permit Application Submitted By Long Mott Energy, LLC</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25181A772</link>
-			<description>Legal-Correspondence/Miscellaneous</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-07-01 09:40:00</pubDate>
 		</item>
 	</channel>
 </rss>

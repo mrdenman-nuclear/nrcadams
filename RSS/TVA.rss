@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 14 Jul 2025 23:19:57 GMT</pubDate>
-		<lastBuildDate>Mon, 14 Jul 2025 23:19:57 GMT</lastBuildDate>
+		<pubDate>Tue, 15 Jul 2025 14:21:15 GMT</pubDate>
+		<lastBuildDate>Tue, 15 Jul 2025 14:21:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>CA-MISC-038, Rev. 0, "All Credible Dependency Combinations In Tree Newly Developed Method Fact and Observation Closure."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25188A188</link>
+			<description>Report, Miscellaneous</description>
+			<author>Constellation Energy Generation, LLC</author>
+			<pubDate>2025-07-15 08:06:00</pubDate>
+		</item>
+		<item>
+			<title>TVA Clinch River CPA Safety Review Audit Plan July 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25191A113</link>
+			<description>Audit Plan, Memoranda</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2025-07-15 08:06:00</pubDate>
+		</item>
 		<item>
 			<title>09-08-80 Sequoyah Nuclear Power Plant, Units 1 and 2.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25175A256</link>
@@ -199,27 +213,6 @@
 			<description>Meeting Agenda, Meeting Notice</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-07-02 13:26:00</pubDate>
-		</item>
-		<item>
-			<title>Sequoyah Nuclear Plant, Units 1 and 2 - Issuance of Amendment Nos. 372 and 366 Regarding Revision of the Fuel Handling Accident Analysis, Deletion of Technical Specification 3.9.4, and Revision of Technical Specification 3.3.6 (EPID L-2024-LLA-0117)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25112A334</link>
-			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation</description>
-			<author>NRC/NRR/DORL/LPLII-2</author>
-			<pubDate>2025-07-01 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>Tennessee Valley Authority; License Amendment Request Letter dated 06/03/2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25156A198</link>
-			<description>Letter, License-Application for (Amend/Renewal/New) for DKT 30, 40, 70</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-07-01 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>Tennessee Valley Authority, License Amendment No. 14, Mail Control No. 647182</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25174A032</link>
-			<description>License-Materials Byproduct Amendment DKT 30</description>
-			<author>NRC/RGN-I</author>
-			<pubDate>2025-07-01 08:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
