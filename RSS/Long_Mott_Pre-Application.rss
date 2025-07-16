@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 15 Jul 2025 23:17:18 GMT</pubDate>
-		<lastBuildDate>Tue, 15 Jul 2025 23:17:18 GMT</lastBuildDate>
+		<pubDate>Wed, 16 Jul 2025 14:19:56 GMT</pubDate>
+		<lastBuildDate>Wed, 16 Jul 2025 14:19:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>X Energy, LLC Response to NRC Letter Granting Access to Requestors of Redacted Information in the Long Mott Generating Station Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25191A244</link>
+			<description>Letter</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2025-07-16 07:33:00</pubDate>
+		</item>
+	</channel>
 </rss>

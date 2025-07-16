@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 15 Jul 2025 23:17:21 GMT</pubDate>
-		<lastBuildDate>Tue, 15 Jul 2025 23:17:21 GMT</lastBuildDate>
+		<pubDate>Wed, 16 Jul 2025 14:20:00 GMT</pubDate>
+		<lastBuildDate>Wed, 16 Jul 2025 14:20:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Clinch River CP Environmental Audit Plan</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25189A385</link>
+			<description>Audit Plan</description>
+			<author>NRC/NMSS/DREFS/EPMB3</author>
+			<pubDate>2025-07-16 07:33:00</pubDate>
+		</item>
 		<item>
 			<title>Biological Assessment for Species Under NMFS Jurisdiction, St. Lucie Nuclear Power Plant, Continued Operations and Subsequent License Renewal</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25190A668</link>
@@ -101,13 +108,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/NMSS/DREFS/EPMB3</author>
 			<pubDate>2025-07-03 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>Radiation Protection Policy in a Nuclear Era</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25182A384</link>
-			<description>Policy and Program Guidance</description>
-			<author>NRC/EDO</author>
-			<pubDate>2025-07-02 10:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

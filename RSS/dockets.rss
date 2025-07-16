@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 15 Jul 2025 23:17:18 GMT</pubDate>
-		<lastBuildDate>Tue, 15 Jul 2025 23:17:18 GMT</lastBuildDate>
+		<pubDate>Wed, 16 Jul 2025 14:19:57 GMT</pubDate>
+		<lastBuildDate>Wed, 16 Jul 2025 14:19:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>X Energy, LLC Response to NRC Letter Granting Access to Requestors of Redacted Information in the Long Mott Generating Station Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25191A244</link>
+			<description>Letter</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2025-07-16 07:33:00</pubDate>
+		</item>
 		<item>
 			<title>07/30/2025 pre-application meeting with Oklo to discuss an upcoming topical report on principal design criteria</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25195A048</link>
@@ -185,13 +192,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-07-03 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>USO Kemmerer 1 Schedule Status Letter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25181A764</link>
-			<description>Letter</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-07-02 09:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
