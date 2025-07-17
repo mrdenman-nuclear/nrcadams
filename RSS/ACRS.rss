@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 17 Jul 2025 14:19:53 GMT</pubDate>
-		<lastBuildDate>Thu, 17 Jul 2025 14:19:53 GMT</lastBuildDate>
+		<pubDate>Thu, 17 Jul 2025 15:22:18 GMT</pubDate>
+		<lastBuildDate>Thu, 17 Jul 2025 15:22:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Documentation of Receipt of Applicable Official NRC Notices to the Advisory Committee on Reactor Safeguards for July 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25197A800</link>
+			<description>Memoranda</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2025-07-17 10:33:00</pubDate>
+		</item>
+		<item>
+			<title>July 2025 Advisory Committee On Reactor Safeguards (ACRS) Full Committee Meeting Topical Reports</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25196A201</link>
+			<description>Memoranda</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2025-07-17 10:33:00</pubDate>
+		</item>
 		<item>
 			<title>04-16-75 Report on Washington Public Power Supply System Nuclear Projects No. 3 and No. 5</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25196A507</link>
@@ -206,20 +220,6 @@
 			<description>Committee Letter Report, Letter</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-07-17 08:57:00</pubDate>
-		</item>
-		<item>
-			<title>02-17-77 ACRS Report on the North Anna Power Station, Units 1 and 2, Dated January 17, 1977</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25196A178</link>
-			<description>Committee Letter Report, Letter</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-07-17 08:19:00</pubDate>
-		</item>
-		<item>
-			<title>03-16-77 Report on Partial Review of the Site for the Sundesert Nuclear Power Plant, Units 1 and 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25196A182</link>
-			<description>Committee Letter Report, Letter</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-07-17 08:19:00</pubDate>
 		</item>
 	</channel>
 </rss>
