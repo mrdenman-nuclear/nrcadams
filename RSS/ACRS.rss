@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 17 Jul 2025 17:19:27 GMT</pubDate>
-		<lastBuildDate>Thu, 17 Jul 2025 17:19:27 GMT</lastBuildDate>
+		<pubDate>Thu, 17 Jul 2025 18:27:40 GMT</pubDate>
+		<lastBuildDate>Thu, 17 Jul 2025 18:27:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>04-15-74 Report on North Anna Power Station, Units 1, 2, 3 and 4</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25197A103</link>
+			<description>Committee Letter Report, Letter</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2025-07-17 13:31:00</pubDate>
+		</item>
 		<item>
 			<title>02-12-74 Report on Hope Creek Generating Station (Formerly Newbold Island Generating Station), Units 1 and 2</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25197A098</link>
@@ -211,13 +218,6 @@
 			<title>12-11-75 Report on the Tyrone Energy Park, Unit 1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25197A089</link>
 			<description>Committee Letter Report</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-07-17 08:57:00</pubDate>
-		</item>
-		<item>
-			<title>10-14-75 Proposed Amendment To General Design Criterion 50 - Working Paper C, Dated August 1, 1975</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25197A080</link>
-			<description>Letter</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-07-17 08:57:00</pubDate>
 		</item>
