@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 16 Jul 2025 23:20:18 GMT</pubDate>
-		<lastBuildDate>Wed, 16 Jul 2025 23:20:18 GMT</lastBuildDate>
+		<pubDate>Thu, 17 Jul 2025 14:19:57 GMT</pubDate>
+		<lastBuildDate>Thu, 17 Jul 2025 14:19:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Joseph M. Farley, Unit 2, Current Facility Operating License NPF-8, Revised 07/17/2025.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052780039</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-07-17 08:30:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1: Oklo, Inc. Report On Limited Scope Preapplication Readiness Assessment For Phase One Of A Combined License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25178C715</link>
+			<description>Report, Technical</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2025-07-17 08:18:00</pubDate>
+		</item>
+		<item>
+			<title>St. Lucie Nuclear Plant, Units 1 and 2, Subsequent License Renewal Application Environmental Review Supplemental Environmental Audit Response to Requests for Confirmation of Information and Requests for Additional Information</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25190A290</link>
+			<description>Letter, Response to Request for Additional Information (RAI)</description>
+			<author>Florida Power and Light Co</author>
+			<pubDate>2025-07-17 08:18:00</pubDate>
+		</item>
+		<item>
+			<title>Joseph M. Farley, Unit 1, Current Facility Operating License NPF-2, Tech Specs, Revised 07/17/2025.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052780033</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-07-17 07:42:00</pubDate>
+		</item>
 		<item>
 			<title>Donald C. Cook, Unit 2, Current Facility Operating License No. DPR-74, Tech Specs, Revised 07/16/2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053050307</link>
@@ -122,13 +150,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-07-07 09:33:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Generating Station Environmental Review Information Needs Document</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25176A106</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2025-07-03 08:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
