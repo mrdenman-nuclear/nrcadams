@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 17 Jul 2025 23:20:11 GMT</pubDate>
-		<lastBuildDate>Thu, 17 Jul 2025 23:20:11 GMT</lastBuildDate>
+		<pubDate>Fri, 18 Jul 2025 14:21:08 GMT</pubDate>
+		<lastBuildDate>Fri, 18 Jul 2025 14:21:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>FRN Site Notice of Intent to Prepare a Supplement</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25175A032</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/NMSS/DREFS/EPMB3</author>
+			<pubDate>2025-07-18 09:40:00</pubDate>
+		</item>
+		<item>
+			<title>LER 2025-001-00 for Browns Ferry Nuclear Plant, Unit 2, Reactor SCRAM due to Low Electro-Hydraulic Control Pressure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25191A210</link>
+			<description>Letter, Licensee Event Report (LER)</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-07-18 08:07:00</pubDate>
+		</item>
+		<item>
+			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3, Expedited License Amendment Request to Modify Surveillance Requirement 3.8.4.5 for Shutdown Board Subsystems (BFN TS-556)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25191A239</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-07-18 08:07:00</pubDate>
+		</item>
 		<item>
 			<title>07-16-74 Report on the Bellefonte Nuclear Plant, Units 1 and 2</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25197A557</link>
@@ -199,27 +220,6 @@
 			<description>Letter</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2025-07-09 10:31:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry, Units 1, 2, and 3, Sequoyah, Units 1 and 2, Watts Bar, Unit 1 and 2, 24-Month Report Of No Changes To Radioactive Material Packages Quality Assurance Program</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23222A081</link>
-			<description>Letter</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-07-09 10:31:00</pubDate>
-		</item>
-		<item>
-			<title>Email to Alabama Ecological Services Field Office, U.S. Fish and Wildlife Service, Re. Browns Ferry SLR - Request to FWS for Concurrence on NLAA Conclusions</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25183A320</link>
-			<description>E-Mail, Letter</description>
-			<author>NRC/NMSS/DREFS/ETRB1</author>
-			<pubDate>2025-07-08 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry 2025-301 Exam Report Items-ADAMS 2B</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25182A024</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/RGN-II</author>
-			<pubDate>2025-07-07 09:34:00</pubDate>
 		</item>
 	</channel>
 </rss>
