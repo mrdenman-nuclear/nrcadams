@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 18 Jul 2025 23:18:59 GMT</pubDate>
-		<lastBuildDate>Fri, 18 Jul 2025 23:18:59 GMT</lastBuildDate>
+		<pubDate>Mon, 21 Jul 2025 14:23:37 GMT</pubDate>
+		<lastBuildDate>Mon, 21 Jul 2025 14:23:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Report, Technical</description>
 			<author>SMR, LLC</author>
 			<pubDate>2025-07-08 08:02:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Information from Public Disclosure for SMR, LLC (A Holtec International Company) Preapplication Meeting Materials for June 26, 2025, Public Meeting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25176A031</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-07-07 09:33:00</pubDate>
 		</item>
 	</channel>
 </rss>

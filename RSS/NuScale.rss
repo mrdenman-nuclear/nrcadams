@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 18 Jul 2025 23:19:08 GMT</pubDate>
-		<lastBuildDate>Fri, 18 Jul 2025 23:19:08 GMT</lastBuildDate>
+		<pubDate>Mon, 21 Jul 2025 14:23:46 GMT</pubDate>
+		<lastBuildDate>Mon, 21 Jul 2025 14:23:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TEUSA PDC Topical Report Final Safety Evaluation - Non Proprietary</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25189A049</link>
+			<description>Final Safety Evaluation Report (FSER)</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2025-07-21 09:39:00</pubDate>
+		</item>
+		<item>
+			<title>NEI - Request for Review and Endorsement of NEI 25-05, "Fabrication of ASME Code Items Prior to the Identification of an Owner"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25192A125</link>
+			<description>Letter, Report, Technical</description>
+			<author>Nuclear Energy Institute (NEI)</author>
+			<pubDate>2025-07-21 08:08:00</pubDate>
+		</item>
+		<item>
+			<title>NEI 25-05, "Fabrication of ASME Code Items Prior to the Identification of an Owner/Licensee"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25192A126</link>
+			<description>Report, Technical</description>
+			<author>Nuclear Energy Institute (NEI)</author>
+			<pubDate>2025-07-21 08:08:00</pubDate>
+		</item>
 		<item>
 			<title>U.S. NRC Response to SMR LLCA Holtec International Company Regarding the Proposed Pathways to Using 10 CFR 50.160 Emergency Preparedness Rule for the SMR-300 Design</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25153A579</link>
@@ -87,13 +108,6 @@
 			<description>ACRS Summary Report, Letter, Meeting Summary</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-07-08 16:18:00</pubDate>
-		</item>
-		<item>
-			<title>SECY-25-0061: Weekly Information Report Week Ending June 27, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25183A393</link>
-			<description>Commission SECY Paper, Weekly Information Report</description>
-			<author>NRC/EDO/AO</author>
-			<pubDate>2025-07-07 12:54:00</pubDate>
 		</item>
 	</channel>
 </rss>
