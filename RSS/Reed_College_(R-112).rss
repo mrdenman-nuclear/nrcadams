@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 21 Jul 2025 23:19:52 GMT</pubDate>
-		<lastBuildDate>Mon, 21 Jul 2025 23:19:52 GMT</lastBuildDate>
+		<pubDate>Tue, 22 Jul 2025 14:22:47 GMT</pubDate>
+		<lastBuildDate>Tue, 22 Jul 2025 14:22:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Letter of Recommendation for Jerry Newhouse to Act as a Reviewing Official for Reed College.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25195A086</link>
+			<description>Letter</description>
+			<author>Reed College</author>
+			<pubDate>2025-07-22 08:10:00</pubDate>
+		</item>
+	</channel>
 </rss>

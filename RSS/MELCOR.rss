@@ -5,25 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 21 Jul 2025 23:20:03 GMT</pubDate>
-		<lastBuildDate>Mon, 21 Jul 2025 23:20:03 GMT</lastBuildDate>
+		<pubDate>Tue, 22 Jul 2025 14:22:57 GMT</pubDate>
+		<lastBuildDate>Tue, 22 Jul 2025 14:22:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Nuclear Energy Institute, - Supplement to the NEI Proposal Paper "Regulation of Rapid High-Volume Deployable Reactors in Remote Applications (RHDRA) and Other Advanced Reactors"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25195A307</link>
+			<description>Letter, Technical Paper</description>
+			<author>Nuclear Energy Institute (NEI)</author>
+			<pubDate>2025-07-22 08:11:00</pubDate>
+		</item>
 		<item>
 			<title>Initial Review of PRE-2024-001, Nuclear Criticality in Fuel Pools Due to Drain Down Events and Boil Off</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25097A243</link>
 			<description>Report, Miscellaneous</description>
 			<author>NRC/RES/DE</author>
 			<pubDate>2025-07-18 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>SCALE Analyses of Scenarios in the TRISO-based HPMR Fuel Cycle</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25178C892</link>
-			<description>Report, Technical</description>
-			<author>Oak Ridge National Lab (ORNL)</author>
-			<pubDate>2025-07-15 15:01:00</pubDate>
 		</item>
 	</channel>
 </rss>

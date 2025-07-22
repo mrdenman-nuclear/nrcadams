@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 21 Jul 2025 23:20:00 GMT</pubDate>
-		<lastBuildDate>Mon, 21 Jul 2025 23:20:00 GMT</lastBuildDate>
+		<pubDate>Tue, 22 Jul 2025 14:22:55 GMT</pubDate>
+		<lastBuildDate>Tue, 22 Jul 2025 14:22:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Nuclear Energy Institute, - Supplement to the NEI Proposal Paper "Regulation of Rapid High-Volume Deployable Reactors in Remote Applications (RHDRA) and Other Advanced Reactors"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25195A307</link>
+			<description>Letter, Technical Paper</description>
+			<author>Nuclear Energy Institute (NEI)</author>
+			<pubDate>2025-07-22 08:11:00</pubDate>
+		</item>
+		<item>
+			<title>TerraPower, LLC, Transmittal of Topical Report, "Reactor Seismic Isolation System Qualification Topical Report," NAT-8922 Revision 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25195A156</link>
+			<description>Legal-Affidavit, Letter, Topical Report</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2025-07-22 08:10:00</pubDate>
+		</item>
 		<item>
 			<title>TEUSA PDC Topical Report Final Safety Evaluation - Non Proprietary</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25189A049</link>
@@ -101,13 +115,6 @@
 			<description>Meeting Minutes, Memoranda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-07-09 08:12:00</pubDate>
-		</item>
-		<item>
-			<title>Summary Report of the 725th Meeting of the Advisory Committee on Reactor Safeguards May 6 through 9 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25174A313</link>
-			<description>ACRS Summary Report, Letter, Meeting Summary</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-07-08 16:18:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 21 Jul 2025 23:20:00 GMT</pubDate>
-		<lastBuildDate>Mon, 21 Jul 2025 23:20:00 GMT</lastBuildDate>
+		<pubDate>Tue, 22 Jul 2025 14:22:55 GMT</pubDate>
+		<lastBuildDate>Tue, 22 Jul 2025 14:22:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3, Supplement to License Amendment Request for Adoption of Technical Specifications Task Force Traveler TSTF-423-A, Revision 1 (EPID L-2025-LLA-0070</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25195A060</link>
+			<description>Letter, Technical Specifications</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-07-22 08:10:00</pubDate>
+		</item>
+		<item>
+			<title>LER 2025-002-00 for Browns Ferry Nuclear Plant, Unit 2, Residual Heat Removal Suppression Pool Spray Inoperable Due to Missing U-Bolt</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25195A123</link>
+			<description>Letter, Licensee Event Report (LER)</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-07-22 08:10:00</pubDate>
+		</item>
+		<item>
+			<title>Browns Ferry Nuclear Plant, Units 1, 2 And 3, Comments on Draft Supplemental Environmental Impact Statement Regarding Browns Ferry Subsequent License Renewal</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25195A138</link>
+			<description>Letter</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-07-22 08:10:00</pubDate>
+		</item>
 		<item>
 			<title>Tennessee Valley Authority - Notice Of Intent To Prepare A Supplement To The Environmental Impact Statement In Relation To The Construction Permit Application For The Clinch River Nuclear Site</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25175A064</link>
@@ -199,27 +220,6 @@
 			<description>Legal-Pleading</description>
 			<author>Balch and Bingham, LLP, Holtec Palisades, LLC</author>
 			<pubDate>2025-07-14 10:08:00</pubDate>
-		</item>
-		<item>
-			<title>June 26 2025 - Summary of Performance Indicator Workshop</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25184A000</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DRO/IRAB</author>
-			<pubDate>2025-07-14 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>06/11/2025 Summary of Public Teleconference with Tennessee Valley Authority to Discuss a Proposed License Amendment Request Regarding Revision to TS LCO 3.3.6 for Containment Vent Isolation Instrumentation (EPID L-2025-LRM-0066)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25181A799</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DORL/LPLII-2</author>
-			<pubDate>2025-07-14 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-0713, Vol. 45, "Occupational Radiation Exposure at Commercial Nuclear Power Reactors and Other Facilities 2023: Fifty-Sixth Annual Report"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25191A324</link>
-			<description>NUREG</description>
-			<author>NRC/RES, Oak Ridge Associated Universities</author>
-			<pubDate>2025-07-14 08:08:00</pubDate>
 		</item>
 	</channel>
 </rss>
