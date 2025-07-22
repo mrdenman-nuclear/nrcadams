@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 22 Jul 2025 15:21:43 GMT</pubDate>
-		<lastBuildDate>Tue, 22 Jul 2025 15:21:43 GMT</lastBuildDate>
+		<pubDate>Tue, 22 Jul 2025 16:24:25 GMT</pubDate>
+		<lastBuildDate>Tue, 22 Jul 2025 16:24:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>11-13-73 Report On Relationships Of Earthquakes And Geology InWest Tennessee And Adjacent Area</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25197A750</link>
+			<description>Committee Letter Report, Letter</description>
+			<author>US Atomic Energy Commission (AEC)</author>
+			<pubDate>2025-07-22 11:25:00</pubDate>
+		</item>
 		<item>
 			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3, Supplement to License Amendment Request for Adoption of Technical Specifications Task Force Traveler TSTF-423-A, Revision 1 (EPID L-2025-LLA-0070</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25195A060</link>
@@ -213,13 +220,6 @@
 			<description>Committee Letter Report, Letter</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-07-14 13:30:00</pubDate>
-		</item>
-		<item>
-			<title>Applicant's Answer Opposing Beyond Nuclear et al.'s Petition to Intervene and Request for Hearing</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25192A253</link>
-			<description>Legal-Pleading</description>
-			<author>Balch and Bingham, LLP, Holtec Palisades, LLC</author>
-			<pubDate>2025-07-14 10:08:00</pubDate>
 		</item>
 	</channel>
 </rss>
