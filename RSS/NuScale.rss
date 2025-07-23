@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 22 Jul 2025 23:19:37 GMT</pubDate>
-		<lastBuildDate>Tue, 22 Jul 2025 23:19:37 GMT</lastBuildDate>
+		<pubDate>Wed, 23 Jul 2025 14:22:35 GMT</pubDate>
+		<lastBuildDate>Wed, 23 Jul 2025 14:22:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>FY 2025 Q2 Quarterly Report Enclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25128A162</link>
+			<description>Congressional Correspondence, Status Report</description>
+			<author>NRC/OCM/AXC</author>
+			<pubDate>2025-07-23 08:03:00</pubDate>
+		</item>
 		<item>
 			<title>Nuclear Energy Institute, - Supplement to the NEI Proposal Paper "Regulation of Rapid High-Volume Deployable Reactors in Remote Applications (RHDRA) and Other Advanced Reactors"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25195A307</link>
@@ -94,27 +101,6 @@
 			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-07-14 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>Advanced Reactor Overview</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25189A246</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-07-09 08:12:00</pubDate>
-		</item>
-		<item>
-			<title>Emergency Planning for Small Modular Reactors and Other Technologies</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25189A247</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NSIR</author>
-			<pubDate>2025-07-09 08:12:00</pubDate>
-		</item>
-		<item>
-			<title>Minutes of the 725th Meeting of the Advisory Committee On Reactor Safeguards (ACRS) for May 6 through 9, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25182A241</link>
-			<description>Meeting Minutes, Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-07-09 08:12:00</pubDate>
 		</item>
 	</channel>
 </rss>

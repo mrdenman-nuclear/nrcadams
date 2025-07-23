@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 22 Jul 2025 23:19:37 GMT</pubDate>
-		<lastBuildDate>Tue, 22 Jul 2025 23:19:37 GMT</lastBuildDate>
+		<pubDate>Wed, 23 Jul 2025 14:22:35 GMT</pubDate>
+		<lastBuildDate>Wed, 23 Jul 2025 14:22:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Comanche Peak, Unit 1, Current Facility Operating License NPF-87, Tech Specs, Revised 07/23/2025.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053180521</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-07-23 08:19:00</pubDate>
+		</item>
+		<item>
+			<title>FY 2025 Q2 Quarterly Report Enclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25128A162</link>
+			<description>Congressional Correspondence, Status Report</description>
+			<author>NRC/OCM/AXC</author>
+			<pubDate>2025-07-23 08:03:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 1: Oklo, Inc. Report On Limited Scope Preapplication Readiness Assessment For Phase One Of A Combined License Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25178C715</link>
@@ -87,27 +101,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-07-10 08:18:00</pubDate>
-		</item>
-		<item>
-			<title>Salem, Unit 1, Current Facility Operating License DPR-70, Tech Specs, Revised 07/09/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052990140</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-07-09 10:43:00</pubDate>
-		</item>
-		<item>
-			<title>Perry, Unit 1, Current Facility Operating License NPF-58, Tech Specs, Revised 07/09/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053040355</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-07-09 09:42:00</pubDate>
-		</item>
-		<item>
-			<title>National Park Service Dead Horse Bay Final Sampling and Analysis Plan for the Phase 1 Remedial Investigation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25182A168</link>
-			<description>Report, Technical</description>
-			<author>US Dept of Interior, National Park Service</author>
-			<pubDate>2025-07-09 08:12:00</pubDate>
 		</item>
 	</channel>
 </rss>

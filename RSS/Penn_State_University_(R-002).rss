@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 22 Jul 2025 23:19:29 GMT</pubDate>
-		<lastBuildDate>Tue, 22 Jul 2025 23:19:29 GMT</lastBuildDate>
+		<pubDate>Wed, 23 Jul 2025 14:22:29 GMT</pubDate>
+		<lastBuildDate>Wed, 23 Jul 2025 14:22:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,27 +24,6 @@
 			<description>Environmental Assessment, Letter, License-Operating (New/Renewal/Amendments) DKT 50, Technical Specification, Amendment</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-07-17 12:25:00</pubDate>
-		</item>
-		<item>
-			<title>Pennsylvania State University - U.S. Nuclear Regulatory Commission Safety Inspection Report 05000005/2025201</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25183A289</link>
-			<description>Inspection Report, Letter</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-07-09 08:12:00</pubDate>
-		</item>
-		<item>
-			<title>Pennsylvania State University - Nuclear Regulatory Commission Security Inspection Report 05000005/2025202 (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25183A336</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2025-07-09 08:12:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Confirmation Letter No. 50-005/OL-25-01, The Pennsylvania State University</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25177A899</link>
-			<description>Letter, License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2025-07-09 08:12:00</pubDate>
 		</item>
 	</channel>
 </rss>

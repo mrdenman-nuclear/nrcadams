@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 22 Jul 2025 23:19:37 GMT</pubDate>
-		<lastBuildDate>Tue, 22 Jul 2025 23:19:37 GMT</lastBuildDate>
+		<pubDate>Wed, 23 Jul 2025 14:22:35 GMT</pubDate>
+		<lastBuildDate>Wed, 23 Jul 2025 14:22:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>FY 2025 Q2 Quarterly Report Enclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25128A162</link>
+			<description>Congressional Correspondence, Status Report</description>
+			<author>NRC/OCM/AXC</author>
+			<pubDate>2025-07-23 08:03:00</pubDate>
+		</item>
+		<item>
+			<title>XENITH - Analytical Methods TR Audit Report Transmittal Letter-v2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25175A211</link>
+			<description>Letter</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-07-23 08:03:00</pubDate>
+		</item>
 		<item>
 			<title>Joint Motion for Proposed Protective Order Governing Disclosure of Sensitive Unclassified Non-Safeguards Information and Non-Disclosure Agreement</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25202A214</link>
@@ -38,20 +52,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-07-10 08:18:00</pubDate>
-		</item>
-		<item>
-			<title>Slides (External) - X-Energy Licensing Topical Report Mechanistic Source Term Approach - ACRS Full Committee - July 9, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25189A369</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>X-Energy</author>
-			<pubDate>2025-07-09 09:31:00</pubDate>
-		</item>
-		<item>
-			<title>Advanced Reactor Overview</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25189A246</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-07-09 08:12:00</pubDate>
 		</item>
 	</channel>
 </rss>
