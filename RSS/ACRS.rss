@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 23 Jul 2025 18:26:12 GMT</pubDate>
-		<lastBuildDate>Wed, 23 Jul 2025 18:26:12 GMT</lastBuildDate>
+		<pubDate>Wed, 23 Jul 2025 19:19:48 GMT</pubDate>
+		<lastBuildDate>Wed, 23 Jul 2025 19:19:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>11-12-69 ACRS Comments on the Power Burst Facility (PBF)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25198A182</link>
+			<description>Committee Letter Report</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2025-07-23 14:38:00</pubDate>
+		</item>
 		<item>
 			<title>07-17-70 Report on Trojan Nuclear Plant Unit 1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25198A126</link>
@@ -211,13 +218,6 @@
 			<title>07-16-75 Report on Rancho Seco Nuclear Generating Statio, Unit 1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25197A061</link>
 			<description>Committee Letter Report</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-07-17 08:57:00</pubDate>
-		</item>
-		<item>
-			<title>09-15-75 Report On Exxon Nuclear Company ECCS Evaluation Model For Reload cores In PWR's</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25197A064</link>
-			<description>Committee Letter Report, Letter</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-07-17 08:57:00</pubDate>
 		</item>
