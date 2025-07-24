@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 24 Jul 2025 15:20:22 GMT</pubDate>
-		<lastBuildDate>Thu, 24 Jul 2025 15:20:22 GMT</lastBuildDate>
+		<pubDate>Thu, 24 Jul 2025 16:22:20 GMT</pubDate>
+		<lastBuildDate>Thu, 24 Jul 2025 16:22:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>03-14-67 Generic Issue 23, Reactor Coolant Pump Seal Leakage</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25198A262</link>
+			<description>Committee Letter Report, Letter</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2025-07-24 11:32:00</pubDate>
+		</item>
 		<item>
 			<title>11-12-69 ACRS Comments on the Power Burst Facility (PBF)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25198A182</link>
@@ -210,13 +217,6 @@
 		<item>
 			<title>07-16-75 Report on Loft Facility</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25197A058</link>
-			<description>Committee Letter Report</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-07-17 08:57:00</pubDate>
-		</item>
-		<item>
-			<title>07-16-75 Report on Rancho Seco Nuclear Generating Statio, Unit 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25197A061</link>
 			<description>Committee Letter Report</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-07-17 08:57:00</pubDate>
