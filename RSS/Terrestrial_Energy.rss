@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 23 Jul 2025 23:20:43 GMT</pubDate>
-		<lastBuildDate>Wed, 23 Jul 2025 23:20:43 GMT</lastBuildDate>
+		<pubDate>Thu, 24 Jul 2025 14:23:39 GMT</pubDate>
+		<lastBuildDate>Thu, 24 Jul 2025 14:23:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>U.S. Army Dugway Proving Ground - Final Radiation Protection Plan (RPP) - Soils Remediation of Area 2 of SWMU-11</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25199A056</link>
+			<description>Report, Technical</description>
+			<author>Cabrera Services, Inc</author>
+			<pubDate>2025-07-24 10:01:00</pubDate>
+		</item>
+		<item>
+			<title>2025/07/10 Clinch River CP Env Docs - Clinch River Construction Permit Environmental Audit Plan</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25191A229</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-07-24 08:07:00</pubDate>
+		</item>
 		<item>
 			<title>Comanche Peak, Unit 1, Current Facility Operating License NPF-87, Tech Specs, Revised 07/23/2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053180521</link>
@@ -94,13 +108,6 @@
 			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-07-11 11:36:00</pubDate>
-		</item>
-		<item>
-			<title>2025/06/26 Project Long Mott Docs - Information Needs Revision 1 - Land Use (LU) - 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25177A122</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-07-10 08:18:00</pubDate>
 		</item>
 	</channel>
 </rss>
