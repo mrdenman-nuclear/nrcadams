@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 24 Jul 2025 22:20:20 GMT</pubDate>
-		<lastBuildDate>Thu, 24 Jul 2025 22:20:20 GMT</lastBuildDate>
+		<pubDate>Fri, 25 Jul 2025 14:20:37 GMT</pubDate>
+		<lastBuildDate>Fri, 25 Jul 2025 14:20:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Audit Plan, Letter</description>
 			<author>NRC/NRR/DORL/LPLII-1</author>
 			<pubDate>2025-07-21 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>Initial Review of PRE-2024-001, Nuclear Criticality in Fuel Pools Due to Drain Down Events and Boil Off</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25097A243</link>
-			<description>Report, Miscellaneous</description>
-			<author>NRC/RES/DE</author>
-			<pubDate>2025-07-18 08:08:00</pubDate>
 		</item>
 	</channel>
 </rss>

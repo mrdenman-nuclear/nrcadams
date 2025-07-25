@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 24 Jul 2025 22:20:09 GMT</pubDate>
-		<lastBuildDate>Thu, 24 Jul 2025 22:20:09 GMT</lastBuildDate>
+		<pubDate>Fri, 25 Jul 2025 14:20:15 GMT</pubDate>
+		<lastBuildDate>Fri, 25 Jul 2025 14:20:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,20 +17,6 @@
 			<description>Letter</description>
 			<author>Univ Of Florida, Gainesville</author>
 			<pubDate>2025-07-22 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Results Letter No. 50-083/OL-25-01, University of Florida</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25118A118</link>
-			<description>Letter, License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2025-07-11 08:09:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Report Letter No. 50-083/OL-25-01, University of Florida</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25118A117</link>
-			<description>Letter, License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2025-07-11 08:09:00</pubDate>
 		</item>
 	</channel>
 </rss>
