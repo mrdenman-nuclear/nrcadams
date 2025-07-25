@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 25 Jul 2025 14:20:14 GMT</pubDate>
-		<lastBuildDate>Fri, 25 Jul 2025 14:20:14 GMT</lastBuildDate>
+		<pubDate>Fri, 25 Jul 2025 15:22:32 GMT</pubDate>
+		<lastBuildDate>Fri, 25 Jul 2025 15:22:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>07/29/2025 Meeting to discuss NRC's Management Measures RAIs with TRISO-X</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25206A083</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2025-07-25 10:44:00</pubDate>
+		</item>
 		<item>
 			<title>Acceptance Email for Review of X-Energy's Quality Assurance Program Description and X-Energy, LLC Project Quality Plan</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25204A236</link>
@@ -213,13 +220,6 @@
 			<description>Report, Technical</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2025-07-17 15:28:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Oklo, Inc. Report On Limited Scope Preapplication Readiness Assessment For Phase One Of A Combined License Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25178C716</link>
-			<description>Report, Technical</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-07-17 12:44:00</pubDate>
 		</item>
 	</channel>
 </rss>
