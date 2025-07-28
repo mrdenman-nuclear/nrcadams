@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 25 Jul 2025 23:19:43 GMT</pubDate>
-		<lastBuildDate>Fri, 25 Jul 2025 23:19:43 GMT</lastBuildDate>
+		<pubDate>Mon, 28 Jul 2025 14:24:35 GMT</pubDate>
+		<lastBuildDate>Mon, 28 Jul 2025 14:24:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,13 +52,6 @@
 			<description>Letter, Technical Paper</description>
 			<author>Nuclear Energy Institute (NEI)</author>
 			<pubDate>2025-07-22 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript - ACRS - X Energy Xe-100 Topical Report Reviews: Mechanistic Source Term; Transient and Safety Analysis Methodology; Gothic and Flownex Analysis Code Qualification - SC - June 3, 2025, Pages 1-436</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25192A240</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-07-14 08:08:00</pubDate>
 		</item>
 	</channel>
 </rss>

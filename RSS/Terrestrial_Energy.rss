@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 25 Jul 2025 23:19:43 GMT</pubDate>
-		<lastBuildDate>Fri, 25 Jul 2025 23:19:43 GMT</lastBuildDate>
+		<pubDate>Mon, 28 Jul 2025 14:24:35 GMT</pubDate>
+		<lastBuildDate>Mon, 28 Jul 2025 14:24:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -115,13 +115,6 @@
 			<description>Audit Plan</description>
 			<author>NRC/NMSS/DREFS/EPMB3</author>
 			<pubDate>2025-07-16 07:33:00</pubDate>
-		</item>
-		<item>
-			<title>Biological Assessment for Species Under NMFS Jurisdiction, St. Lucie Nuclear Power Plant, Continued Operations and Subsequent License Renewal</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25190A668</link>
-			<description>Environmental Report</description>
-			<author>Inwater Research Group, Inc</author>
-			<pubDate>2025-07-14 08:08:00</pubDate>
 		</item>
 	</channel>
 </rss>

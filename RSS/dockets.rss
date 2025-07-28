@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 25 Jul 2025 23:19:37 GMT</pubDate>
-		<lastBuildDate>Fri, 25 Jul 2025 23:19:37 GMT</lastBuildDate>
+		<pubDate>Mon, 28 Jul 2025 14:24:26 GMT</pubDate>
+		<lastBuildDate>Mon, 28 Jul 2025 14:24:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Oklo, Inc., Transmittal of Proprietary Slides for the July 17, 2025, Meeting Regarding Preconstruction Activities for the Aurora Powerhouse at Idaho National Laboratory</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25199A221</link>
+			<description>Letter</description>
+			<author>Oklo Inc</author>
+			<pubDate>2025-07-28 08:12:00</pubDate>
+		</item>
+		<item>
+			<title>Oklo, Inc., Affidavit Pursuant to 10 CFR 2.390</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25199A224</link>
+			<description>Legal-Affidavit</description>
+			<author>Oklo Inc</author>
+			<pubDate>2025-07-28 08:12:00</pubDate>
+		</item>
+		<item>
+			<title>Oklo, Inc., Aurora INL preconstruction</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25199A223</link>
+			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Oklo Inc</author>
+			<pubDate>2025-07-28 08:12:00</pubDate>
+		</item>
 		<item>
 			<title>07/29/2025 Meeting to discuss NRC's Management Measures RAIs with TRISO-X</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25206A083</link>
@@ -199,27 +220,6 @@
 			<description>Topical Report</description>
 			<author>Kairos Power, LLC</author>
 			<pubDate>2025-07-21 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>07/24/2025 Aalo Quality Assurance Program Description Topical Report Clarification Question Public Meeting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25199A238</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-07-18 18:11:00</pubDate>
-		</item>
-		<item>
-			<title>U.S. NRC Response to SMR LLCA Holtec International Company Regarding the Proposed Pathways to Using 10 CFR 50.160 Emergency Preparedness Rule for the SMR-300 Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25153A579</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-07-18 12:36:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Oklo, Inc. Report On Limited Scope Preapplication Readiness Assessment For Phase One Of A Combined License Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25178C715</link>
-			<description>Report, Technical</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-07-17 15:28:00</pubDate>
 		</item>
 	</channel>
 </rss>
