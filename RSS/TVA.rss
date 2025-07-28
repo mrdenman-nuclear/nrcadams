@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 28 Jul 2025 15:22:46 GMT</pubDate>
-		<lastBuildDate>Mon, 28 Jul 2025 15:22:46 GMT</lastBuildDate>
+		<pubDate>Mon, 28 Jul 2025 16:25:44 GMT</pubDate>
+		<lastBuildDate>Mon, 28 Jul 2025 16:25:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Acceptance Review Results for Browns Ferry Nuclear Plant, Units 1, 2, and 3 - Request to Revise SR 3.8.4.5 re: Shutdown Board Battery Charger Capacity (EPID L-2025-LLA-0104)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25197A034</link>
+			<description>Acceptance Review Letter, E-Mail</description>
+			<author>NRC/NRR/DORL/LPLII-2</author>
+			<pubDate>2025-07-28 11:33:00</pubDate>
+		</item>
 		<item>
 			<title>Audit Plan Related to the Review of Browns Ferry Nuclear Plant, Units 1, 2, and 3, TS Surveillance Requirement3.8.4.5 LAR (EPID L-2025-LLA-0104)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25199A137</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25195A021</link>
 			<description>Safety Evaluation Report</description>
 			<author>NRC/NRR/DNRL/NLRP</author>
-			<pubDate>2025-07-21 08:09:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal Letter for the Browns Ferry SLRA Safety Evaluation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25169A141</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL</author>
 			<pubDate>2025-07-21 08:09:00</pubDate>
 		</item>
 	</channel>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 28 Jul 2025 15:22:39 GMT</pubDate>
-		<lastBuildDate>Mon, 28 Jul 2025 15:22:39 GMT</lastBuildDate>
+		<pubDate>Mon, 28 Jul 2025 16:25:39 GMT</pubDate>
+		<lastBuildDate>Mon, 28 Jul 2025 16:25:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>04-18-63 Testing Of Engineered Safeguards</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25203A146</link>
+			<description>Committee Letter Report, NUREG</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2025-07-28 11:32:00</pubDate>
+		</item>
 		<item>
 			<title>08-30-62 Report on SPERT I Destructive Tests</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25196A056</link>
@@ -211,13 +218,6 @@
 			<title>05-13-75 Report on the Byron Station Units 1 and 2 and Braidwood Station Units 1 and 2</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25196A509</link>
 			<description>Committee Letter Report</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-07-17 08:57:00</pubDate>
-		</item>
-		<item>
-			<title>06-09-75 Safe End Welds on Beaver Valley, Unit 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25196A510</link>
-			<description>Committee Letter Report, Letter</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-07-17 08:57:00</pubDate>
 		</item>
