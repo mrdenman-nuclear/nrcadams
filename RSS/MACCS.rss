@@ -5,25 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 28 Jul 2025 23:21:55 GMT</pubDate>
-		<lastBuildDate>Mon, 28 Jul 2025 23:21:55 GMT</lastBuildDate>
+		<pubDate>Tue, 29 Jul 2025 14:25:54 GMT</pubDate>
+		<lastBuildDate>Tue, 29 Jul 2025 14:25:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2025/07/15 Project Long Mott Docs - Project Long Mott Information Needs Document Revision 3</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25196A095</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-07-29 08:01:00</pubDate>
+		</item>
 		<item>
 			<title>Research Information Letter 2025-02, "A Human Error Handbook and Verification of IDHEAS-DATA (Integrated Human Event Analysis System - Human Reliability Data)"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25071A060</link>
 			<description>Research Information Letter (RIL)</description>
 			<author>NRC/RES/DRA/HFRB, Pacific Northwest National Lab</author>
 			<pubDate>2025-07-25 15:35:00</pubDate>
-		</item>
-		<item>
-			<title>Nuclear Energy Institute, - Supplement to the NEI Proposal Paper "Regulation of Rapid High-Volume Deployable Reactors in Remote Applications (RHDRA) and Other Advanced Reactors"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25195A307</link>
-			<description>Letter, Technical Paper</description>
-			<author>Nuclear Energy Institute (NEI)</author>
-			<pubDate>2025-07-22 08:11:00</pubDate>
 		</item>
 	</channel>
 </rss>

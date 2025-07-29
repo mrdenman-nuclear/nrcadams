@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 28 Jul 2025 23:21:52 GMT</pubDate>
-		<lastBuildDate>Mon, 28 Jul 2025 23:21:52 GMT</lastBuildDate>
+		<pubDate>Tue, 29 Jul 2025 14:25:52 GMT</pubDate>
+		<lastBuildDate>Tue, 29 Jul 2025 14:25:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>07/22/2025 National Energy Emergency - Enclosure June 30 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25164A123</link>
+			<description>Status Report</description>
+			<author>NRC/OCM/AXC</author>
+			<pubDate>2025-07-29 08:02:00</pubDate>
+		</item>
+		<item>
+			<title>Clinton Power Station, Units 1 and 2 - AEC Draft Environmental Statement</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25202A212</link>
+			<description>Environmental Impact Statement</description>
+			<author>US Atomic Energy Commission (AEC)</author>
+			<pubDate>2025-07-29 08:01:00</pubDate>
+		</item>
+	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 28 Jul 2025 23:21:42 GMT</pubDate>
-		<lastBuildDate>Mon, 28 Jul 2025 23:21:42 GMT</lastBuildDate>
+		<pubDate>Tue, 29 Jul 2025 14:25:43 GMT</pubDate>
+		<lastBuildDate>Tue, 29 Jul 2025 14:25:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -143,27 +143,6 @@
 			<description>Letter</description>
 			<author>Kairos Power, LLC</author>
 			<pubDate>2025-07-23 08:02:00</pubDate>
-		</item>
-		<item>
-			<title>07/24/2025 Meeting to discuss NRC's Management Measures RAIs with TRISO-X</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25203A361</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-07-22 16:33:00</pubDate>
-		</item>
-		<item>
-			<title>Audit Plan for the Staff Review of the NuScale Power, LLC Supplement 1 To TR-1015-18653-P-A, "Design of the Highly Integrated Protection System Platform," TR-147121, Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25199A072</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-07-22 10:25:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC, Transmittal of Topical Report, "Reactor Seismic Isolation System Qualification Topical Report," NAT-8922 Revision 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25195A156</link>
-			<description>Legal-Affidavit, Letter, Topical Report</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-07-22 08:10:00</pubDate>
 		</item>
 	</channel>
 </rss>
