@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 29 Jul 2025 23:19:06 GMT</pubDate>
-		<lastBuildDate>Tue, 29 Jul 2025 23:19:06 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Jul 2025 14:22:17 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Jul 2025 14:22:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,13 +59,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2025-07-17 08:18:00</pubDate>
-		</item>
-		<item>
-			<title>07/23/2025 Pre-application meeting with Oklo to discuss a proposed topical report on quality assurance</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25197A513</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-07-16 10:41:00</pubDate>
 		</item>
 	</channel>
 </rss>

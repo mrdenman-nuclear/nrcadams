@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 29 Jul 2025 23:19:11 GMT</pubDate>
-		<lastBuildDate>Tue, 29 Jul 2025 23:19:11 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Jul 2025 14:22:24 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Jul 2025 14:22:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Browns Ferry, Units 1, 2, and 3, Clinch River, Sequoyah, Units 1 and 2, Watts Bar, Units 1 and 2 - Nuclear Quality Assurance Plan, TVA-NQA-PLN89-A, Revision 44</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25196A033</link>
+			<description>Letter, Quality Assurance Program</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-07-30 08:07:00</pubDate>
+		</item>
+		<item>
+			<title>Waterford, Unit 3, Current Facility Operating License NPF-38, Tech Specs, Revised 07/30/2025.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053130318</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-07-30 07:06:00</pubDate>
+		</item>
 		<item>
 			<title>NEI Presentation - Security Event Notification Meeting 07-31-25</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25210A241</link>
@@ -206,20 +220,6 @@
 			<description>Letter</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2025-07-22 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>Tennessee Valley Authority - Notice Of Intent To Prepare A Supplement To The Environmental Impact Statement In Relation To The Construction Permit Application For The Clinch River Nuclear Site</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25175A064</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2025-07-21 12:34:00</pubDate>
-		</item>
-		<item>
-			<title>BTI Comments on the ADVANCE Act: Population Density Considerations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25202A076</link>
-			<description>Letter</description>
-			<author>The Breakthrough Institue</author>
-			<pubDate>2025-07-21 12:34:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 29 Jul 2025 23:19:11 GMT</pubDate>
-		<lastBuildDate>Tue, 29 Jul 2025 23:19:11 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Jul 2025 14:22:24 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Jul 2025 14:22:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>LaSalle, Unit 1, Current Facility Operating License NPF-11, Technical Specifications, Revised 07/30/2025.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052990324</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-07-30 08:54:00</pubDate>
+		</item>
+		<item>
+			<title>Clinton, Unit 1, Current Facility Operating License NPF-62, Tech Specs, Revised 07/30/2025.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052720312</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-07-30 08:47:00</pubDate>
+		</item>
+		<item>
+			<title>Waterford, Unit 3, Current Facility Operating License NPF-38, Tech Specs, Revised 07/30/2025.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053130318</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-07-30 07:06:00</pubDate>
+		</item>
 		<item>
 			<title>Columbia, Current Facility Operating License NPF-21, Technical Specifications, Revised 07/29/2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053130319</link>
@@ -136,34 +157,6 @@
 			<description>Letter, Response to Request for Additional Information (RAI)</description>
 			<author>Florida Power and Light Co</author>
 			<pubDate>2025-07-17 08:18:00</pubDate>
-		</item>
-		<item>
-			<title>Donald C. Cook, Unit 2, Current Facility Operating License No. DPR-74, Tech Specs, Revised 07/16/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053050307</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-07-16 13:16:00</pubDate>
-		</item>
-		<item>
-			<title>Donald C. Cook, Unit 1, Current Facility Operating License No. DPR-58, Tech Specs, Revised 07/16/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053050305</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-07-16 13:13:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Slides - July 16 Public Meeting on EO 14300 Section 5(b) - ML25196A090</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25196A090</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DORL</author>
-			<pubDate>2025-07-16 10:31:00</pubDate>
-		</item>
-		<item>
-			<title>Clinch River CP Environmental Audit Plan</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25189A385</link>
-			<description>Audit Plan</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2025-07-16 07:33:00</pubDate>
 		</item>
 	</channel>
 </rss>
