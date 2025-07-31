@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 30 Jul 2025 23:20:18 GMT</pubDate>
-		<lastBuildDate>Wed, 30 Jul 2025 23:20:18 GMT</lastBuildDate>
+		<pubDate>Thu, 31 Jul 2025 14:24:36 GMT</pubDate>
+		<lastBuildDate>Thu, 31 Jul 2025 14:24:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Draft Regulatory Guide (DG) 1422 Revision 1 (Regulatory Guide (RG) 1.245 Revision 1), Preparing Probabilistic Fracture Mechanics Submittals</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24312A308</link>
+			<description>Regulatory Guide, Draft</description>
+			<author>NRC/RES/DE</author>
+			<pubDate>2025-07-31 08:11:00</pubDate>
+		</item>
+		<item>
+			<title>Regulatory Analysis for Draft Regulatory Guide (DG) 1422 Revision 1 (Regulatory Guide (RG) 1.245 Revision 1), Preparing Probabilistic Fracture Mechanics Submittals</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24312A310</link>
+			<description>Regulatory Analysis</description>
+			<author>NRC/RES/DE</author>
+			<pubDate>2025-07-31 08:11:00</pubDate>
+		</item>
+		<item>
+			<title>LTR-25-0240 Paul Marston, concerns Arizona's $2.435T Plan: Mox Facility for Nuclear Energy Security</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25181A655</link>
+			<description>E-Mail</description>
+			<author>Public Commenter</author>
+			<pubDate>2025-07-31 08:10:00</pubDate>
+		</item>
 		<item>
 			<title>SECY-21-0088: Enclosure 2 - NRC Response to Public Comments on PRM-50-120</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20304A003</link>
@@ -157,27 +178,6 @@
 			<description>Letter, Report, Technical</description>
 			<author>Nuclear Energy Institute (NEI)</author>
 			<pubDate>2025-07-18 10:35:00</pubDate>
-		</item>
-		<item>
-			<title>NEI 20-07, Draft Revision E2, "Guidance for Addressing Common Cause Failure in High Safety-Significant Safety-Related Digital I&C Systems" (EPID L-2025-NFN-0001)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25198A311</link>
-			<description>Guidance Document, Report, Technical</description>
-			<author>Nuclear Energy Institute (NEI)</author>
-			<pubDate>2025-07-17 15:28:00</pubDate>
-		</item>
-		<item>
-			<title>FOIA-2025-000615 - Incoming Request</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25190A563</link>
-			<description>FOIA/Privacy Act Request</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2025-07-17 08:18:00</pubDate>
-		</item>
-		<item>
-			<title>FOIA-2025-000615 - Resp 1 - Final</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25190A562</link>
-			<description>FOIA/Privacy Act Response to Requestor</description>
-			<author>NRC/OCIO/DIME/FLICB</author>
-			<pubDate>2025-07-17 08:18:00</pubDate>
 		</item>
 	</channel>
 </rss>
