@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 31 Jul 2025 20:21:56 GMT</pubDate>
-		<lastBuildDate>Thu, 31 Jul 2025 20:21:56 GMT</lastBuildDate>
+		<pubDate>Thu, 31 Jul 2025 21:27:59 GMT</pubDate>
+		<lastBuildDate>Thu, 31 Jul 2025 21:27:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>USDOI, Fish and Wildlife Services re Browns Ferry Continued Operation for Additional 20 Years</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25212A149</link>
+			<description>Letter</description>
+			<author>US Dept of Interior, Fish and Wildlife Service</author>
+			<pubDate>2025-07-31 16:25:00</pubDate>
+		</item>
 		<item>
 			<title>Waterford, Unit 3, Current Facility Operating License NPF-38, Tech Specs, Revised 07/30/2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053130318</link>
@@ -213,13 +220,6 @@
 			<description>Committee Letter Report, Letter</description>
 			<author>US Atomic Energy Commission (AEC)</author>
 			<pubDate>2025-07-22 11:25:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3, Supplement to License Amendment Request for Adoption of Technical Specifications Task Force Traveler TSTF-423-A, Revision 1 (EPID L-2025-LLA-0070</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25195A060</link>
-			<description>Letter, Technical Specifications</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-07-22 08:10:00</pubDate>
 		</item>
 	</channel>
 </rss>
