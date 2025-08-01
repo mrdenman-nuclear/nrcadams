@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 01 Aug 2025 19:20:37 GMT</pubDate>
-		<lastBuildDate>Fri, 01 Aug 2025 19:20:37 GMT</lastBuildDate>
+		<pubDate>Fri, 01 Aug 2025 20:27:33 GMT</pubDate>
+		<lastBuildDate>Fri, 01 Aug 2025 20:27:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>News Release-25-045:  NRC Announces Opportunity to Request a Hearing on TVA Clinch River Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25213A080</link>
+			<description>Press Release</description>
+			<author>NRC/OPA</author>
+			<pubDate>2025-08-01 16:18:00</pubDate>
+		</item>
 		<item>
 			<title>NUREG-1437, Supp. 63, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants Supplement 63 Regarding License Renewal for Clinton Power Station, Unit 1" Final Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25212A224</link>
@@ -213,13 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS/DREFS/ETRB1</author>
 			<pubDate>2025-07-25 08:13:00</pubDate>
-		</item>
-		<item>
-			<title>Sequoyah Nuclear Plant, Units 1 and 2 - Acceptance Review Results for Revised Request for Alternative RV-05 Re: Thermal Relief Valves (EPID L-2025-LLR-0061)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25196A468</link>
-			<description>Acceptance Review Letter, E-Mail</description>
-			<author>NRC/NRR/DORL/LPLII-2</author>
-			<pubDate>2025-07-23 08:03:00</pubDate>
 		</item>
 	</channel>
 </rss>
