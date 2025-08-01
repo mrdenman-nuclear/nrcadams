@@ -5,25 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 31 Jul 2025 23:20:53 GMT</pubDate>
-		<lastBuildDate>Thu, 31 Jul 2025 23:20:53 GMT</lastBuildDate>
+		<pubDate>Fri, 01 Aug 2025 14:22:04 GMT</pubDate>
+		<lastBuildDate>Fri, 01 Aug 2025 14:22:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>U.S. NRC Level 3 Probabilistic Risk Assessment Project, Volume 8: Integrated Site Risk, All Hazards, Level 1, Level 2, and Level 3 PRA (for Public Review) - Draft</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25149A043</link>
+			<description>NUREG, Draft, Report, Technical</description>
+			<author>NRC/RES</author>
+			<pubDate>2025-08-01 07:58:00</pubDate>
+		</item>
 		<item>
 			<title>2025/07/15 Project Long Mott Docs - Project Long Mott Information Needs Document Revision 3</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25196A095</link>
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-07-29 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>Research Information Letter 2025-02, "A Human Error Handbook and Verification of IDHEAS-DATA (Integrated Human Event Analysis System - Human Reliability Data)"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25071A060</link>
-			<description>Research Information Letter (RIL)</description>
-			<author>NRC/RES/DRA/HFRB, Pacific Northwest National Lab</author>
-			<pubDate>2025-07-25 15:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
