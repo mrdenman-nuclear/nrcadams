@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 01 Aug 2025 23:20:25 GMT</pubDate>
-		<lastBuildDate>Fri, 01 Aug 2025 23:20:25 GMT</lastBuildDate>
+		<pubDate>Mon, 04 Aug 2025 14:26:27 GMT</pubDate>
+		<lastBuildDate>Mon, 04 Aug 2025 14:26:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>TEUSA IMSR PDC TR FINAL SE Cover Letter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25189A048</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-07-21 09:39:00</pubDate>
-		</item>
-		<item>
-			<title>TEUSA PDC Topical Report Final Safety Evaluation - Non Proprietary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25189A049</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-07-21 09:39:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

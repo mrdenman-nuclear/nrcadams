@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 01 Aug 2025 23:20:25 GMT</pubDate>
-		<lastBuildDate>Fri, 01 Aug 2025 23:20:25 GMT</lastBuildDate>
+		<pubDate>Mon, 04 Aug 2025 14:26:27 GMT</pubDate>
+		<lastBuildDate>Mon, 04 Aug 2025 14:26:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>Acceptance Review Letter, E-Mail</description>
 			<author>NRC/NMSS/DFM/IOB</author>
 			<pubDate>2025-07-25 10:13:00</pubDate>
-		</item>
-		<item>
-			<title>X-Energy, LLC - Request for 10 CFR 71, Subpart H, Quality Assurance Program Approval and Intent to Apply Previously Approved 10 CFR 50, Appendix B, Quality Assurance Program to 10 CFR 71 Activities</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25170A014</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-07-21 14:30:00</pubDate>
-		</item>
-		<item>
-			<title>X-Energy, LLC, 10 CFR Part 71, Subpart H Project Quality Assurance Plan</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25170A015</link>
-			<description>Quality Assurance Program</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-07-21 14:30:00</pubDate>
 		</item>
 	</channel>
 </rss>

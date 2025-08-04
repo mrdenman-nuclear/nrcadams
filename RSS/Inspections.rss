@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 01 Aug 2025 23:20:36 GMT</pubDate>
-		<lastBuildDate>Fri, 01 Aug 2025 23:20:36 GMT</lastBuildDate>
+		<pubDate>Mon, 04 Aug 2025 14:26:39 GMT</pubDate>
+		<lastBuildDate>Mon, 04 Aug 2025 14:26:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Inspection Manual</description>
 			<author>NRC/NRR/DANU/UARP</author>
 			<pubDate>2025-07-31 10:30:00</pubDate>
-		</item>
-		<item>
-			<title>IMC 2515 Appendix A, Risk-Informed Baseline Inspection Program</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25072A253</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRIB</author>
-			<pubDate>2025-07-28 13:30:00</pubDate>
 		</item>
 	</channel>
 </rss>

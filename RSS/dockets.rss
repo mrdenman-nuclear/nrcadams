@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 01 Aug 2025 23:20:25 GMT</pubDate>
-		<lastBuildDate>Fri, 01 Aug 2025 23:20:25 GMT</lastBuildDate>
+		<pubDate>Mon, 04 Aug 2025 14:26:27 GMT</pubDate>
+		<lastBuildDate>Mon, 04 Aug 2025 14:26:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Set 19 Requests for Additional Information Regarding Environmental Safety Chapter 9 of the License Application from TRISO-X, LLC</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25196A082</link>
+			<description>Letter, Request for Additional Information (RAI)</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2025-08-04 08:02:00</pubDate>
+		</item>
+		<item>
+			<title>Submittal of Supporting Document for Review of Westinghouse Advanced Logic System (ALS) v2 Platform Elimination of Technical Specification Surveillance Requirements Topical Report (WCAP-18810)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25206A264</link>
+			<description>Letter</description>
+			<author>Westinghouse Electric Co, LLC</author>
+			<pubDate>2025-08-04 08:01:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1: Affidavit AW-25-051</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25206A265</link>
+			<description>Legal-Affidavit</description>
+			<author>Westinghouse Electric Co, LLC</author>
+			<pubDate>2025-08-04 08:01:00</pubDate>
+		</item>
 		<item>
 			<title>News Release-25-040:  NRC Accelerates Review of Kemmerer Power Station Construction Permit</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25213A074</link>
@@ -199,27 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2025-07-25 10:44:00</pubDate>
-		</item>
-		<item>
-			<title>Acceptance Email for Review of X-Energy's Quality Assurance Program Description and X-Energy, LLC Project Quality Plan</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25204A236</link>
-			<description>Acceptance Review Letter, E-Mail</description>
-			<author>NRC/NMSS/DFM/IOB</author>
-			<pubDate>2025-07-25 10:13:00</pubDate>
-		</item>
-		<item>
-			<title>2025/07/18 TerraPower CP Env Docs - DEIS Public Meeting slides Kemmerer 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25199A241</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-07-25 08:14:00</pubDate>
-		</item>
-		<item>
-			<title>Letter - Terrapower, LLC – Summary Report on the Regulatory Audit of Nat-8922, "Reactor Seismic Isolation System Qualification Topical Report," Revision 0 (EPID L-2024-TOP-0005)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25202A054</link>
-			<description>Audit Report</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-07-25 08:14:00</pubDate>
 		</item>
 	</channel>
 </rss>

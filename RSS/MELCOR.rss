@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 01 Aug 2025 23:20:36 GMT</pubDate>
-		<lastBuildDate>Fri, 01 Aug 2025 23:20:36 GMT</lastBuildDate>
+		<pubDate>Mon, 04 Aug 2025 14:26:38 GMT</pubDate>
+		<lastBuildDate>Mon, 04 Aug 2025 14:26:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Methodology for Generating MACCS Site-Specific Input Files to Support Risk-Informed Radiological Consequence Assessment</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25203A330</link>
+			<description>Report, Miscellaneous</description>
+			<author>NRC/RES/DSA/AAB</author>
+			<pubDate>2025-08-04 08:02:00</pubDate>
+		</item>
 		<item>
 			<title>NUREG-1437, Supp. 63, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants Supplement 63 Regarding License Renewal for Clinton Power Station, Unit 1" Final Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25212A224</link>
@@ -24,13 +31,6 @@
 			<description>NUREG, Draft, Report, Technical</description>
 			<author>NRC/RES</author>
 			<pubDate>2025-08-01 07:58:00</pubDate>
-		</item>
-		<item>
-			<title>X-Energy, LLC's, X100 Licensing Topical Report Mechanistic Source Term Approach, Revision 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25204A121</link>
-			<description>Letter</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-07-28 16:18:00</pubDate>
 		</item>
 	</channel>
 </rss>

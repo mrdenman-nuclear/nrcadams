@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 01 Aug 2025 23:20:33 GMT</pubDate>
-		<lastBuildDate>Fri, 01 Aug 2025 23:20:33 GMT</lastBuildDate>
+		<pubDate>Mon, 04 Aug 2025 14:26:35 GMT</pubDate>
+		<lastBuildDate>Mon, 04 Aug 2025 14:26:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Paper - Important Human Actions for Advanced Reactors: Implications for Risk Analysis, Park et. al, AHFE 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25211A054</link>
+			<description>Conference/Symposium/Workshop Paper, Journal Article, Meeting Briefing Package/Handouts, Technical Paper</description>
+			<author>Idaho National Lab, NRC/RES</author>
+			<pubDate>2025-08-04 08:02:00</pubDate>
+		</item>
+		<item>
+			<title>Presentation - Important Human Actions for Advanced Reactors: Implications for Risk Analysis, Park et. al, AHFE 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25211A055</link>
+			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Idaho National Lab, NRC/RES</author>
+			<pubDate>2025-08-04 08:02:00</pubDate>
+		</item>
+		<item>
+			<title>Application of Reliability and Integrity Management to Plant Components</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25133A189</link>
+			<description>Technical Paper</description>
+			<author>Idaho National Lab, NRC/RES/DE</author>
+			<pubDate>2025-08-04 08:02:00</pubDate>
+		</item>
 		<item>
 			<title>Accelerating NRC Reform - Industry Recommendations</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25213A112</link>
@@ -66,13 +87,6 @@
 			<description>Legal-Affidavit, Letter, Topical Report</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2025-07-22 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>BTI Comments on the ADVANCE Act: Population Density Considerations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25202A076</link>
-			<description>Letter</description>
-			<author>The Breakthrough Institue</author>
-			<pubDate>2025-07-21 12:34:00</pubDate>
 		</item>
 	</channel>
 </rss>
