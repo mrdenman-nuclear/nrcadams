@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 04 Aug 2025 23:20:25 GMT</pubDate>
-		<lastBuildDate>Mon, 04 Aug 2025 23:20:25 GMT</lastBuildDate>
+		<pubDate>Tue, 05 Aug 2025 14:26:46 GMT</pubDate>
+		<lastBuildDate>Tue, 05 Aug 2025 14:26:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Vogtle Electric Generating Plant, Unit 3 Current Facility Combined License NPF-91, Revised 08/05/2025.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML14100A106</link>
+			<description>License-Combined License (COL) (New/Renewal/Amendments) DKT 52</description>
+			<author>NRC/NRO/DNRL/LB4</author>
+			<pubDate>2025-08-05 10:20:00</pubDate>
+		</item>
+		<item>
+			<title>Draft for Public Comment - Environmental Assessment for Proposed Issuance of Multi-Site License to Disa Technologies for Abandoned Uranium Mine Waste Remediation</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25216A003</link>
+			<description>Environmental Assessment</description>
+			<author>NRC/NMSS/DREFS</author>
+			<pubDate>2025-08-05 08:55:00</pubDate>
+		</item>
+		<item>
+			<title>Edwin I. Hatch, Units 1 and 2, Environmental Audit Plan for Subsequent License Renewal Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25202A167</link>
+			<description>Audit Plan, Letter</description>
+			<author>NRC/NMSS/DREFS/EPMB1</author>
+			<pubDate>2025-08-05 07:54:00</pubDate>
+		</item>
 		<item>
 			<title>Paper - Important Human Actions for Advanced Reactors: Implications for Risk Analysis, Park et. al, AHFE 2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25211A054</link>
@@ -199,20 +220,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-07-24 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>Comanche Peak, Unit 1, Current Facility Operating License NPF-87, Tech Specs, Revised 07/23/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053180521</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-07-23 08:19:00</pubDate>
-		</item>
-		<item>
-			<title>FY 2025 Q2 Quarterly Report Enclosure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25128A162</link>
-			<description>Congressional Correspondence, Status Report</description>
-			<author>NRC/OCM/AXC</author>
-			<pubDate>2025-07-23 08:03:00</pubDate>
 		</item>
 	</channel>
 </rss>

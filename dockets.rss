@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 04 Aug 2025 23:20:15 GMT</pubDate>
-		<lastBuildDate>Mon, 04 Aug 2025 23:20:15 GMT</lastBuildDate>
+		<pubDate>Tue, 05 Aug 2025 14:26:37 GMT</pubDate>
+		<lastBuildDate>Tue, 05 Aug 2025 14:26:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC, Submittal of Topical Report Entitled "NuScale US460 Fuel Storage Rack Design Topical Report," TR-145417-P, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25209A556</link>
+			<description>Letter, Topical Report</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2025-08-05 07:54:00</pubDate>
+		</item>
 		<item>
 			<title>Set 19 Requests for Additional Information Regarding Environmental Safety Chapter 9 of the License Application from TRISO-X, LLC</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25196A082</link>
@@ -171,20 +178,6 @@
 			<description>Letter</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2025-07-30 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC (TerraPower) Natrium Topical Report NAT-2806, Fuel and Control Assembly Qualification</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25098A252</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-07-29 13:38:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal - Verification for Publication of TerraPower Topical Report, NAT-2806, Revision 0, "Fuel and Control Assembly Qualification"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25104A186</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-07-29 13:38:00</pubDate>
 		</item>
 	</channel>
 </rss>

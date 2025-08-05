@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 04 Aug 2025 23:20:17 GMT</pubDate>
-		<lastBuildDate>Mon, 04 Aug 2025 23:20:17 GMT</lastBuildDate>
+		<pubDate>Tue, 05 Aug 2025 14:26:40 GMT</pubDate>
+		<lastBuildDate>Tue, 05 Aug 2025 14:26:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-07-25 08:14:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC, Transmittal of Topical Report, "Reactor Seismic Isolation System Qualification Topical Report," NAT-8922 Revision 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25195A156</link>
-			<description>Legal-Affidavit, Letter, Topical Report</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-07-22 08:10:00</pubDate>
 		</item>
 	</channel>
 </rss>
