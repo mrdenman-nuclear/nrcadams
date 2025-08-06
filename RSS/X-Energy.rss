@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 05 Aug 2025 23:21:26 GMT</pubDate>
-		<lastBuildDate>Tue, 05 Aug 2025 23:21:26 GMT</lastBuildDate>
+		<pubDate>Wed, 06 Aug 2025 14:25:29 GMT</pubDate>
+		<lastBuildDate>Wed, 06 Aug 2025 14:25:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Energy Northwest New Nuclear, LLC, Regulatory Engagement Plan, Revision 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25210A601</link>
+			<description>Legal-Affidavit, Letter, Operating Plan</description>
+			<author>Energy Northwest New Nuclear, LLC</author>
+			<pubDate>2025-08-06 08:04:00</pubDate>
+		</item>
 		<item>
 			<title>Paper - Important Human Actions for Advanced Reactors: Implications for Risk Analysis, Park et. al, AHFE 2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25211A054</link>
@@ -73,27 +80,6 @@
 			<description>Letter, Meeting Summary</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-07-24 15:07:00</pubDate>
-		</item>
-		<item>
-			<title>Memorandum and Order (Protective Order Governing Specific Sensitive Unclassified Non-Safeguards Information)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25203A367</link>
-			<description>Legal-Memorandum and Order</description>
-			<author>NRC/ASLBP</author>
-			<pubDate>2025-07-23 10:35:00</pubDate>
-		</item>
-		<item>
-			<title>FY 2025 Q2 Quarterly Report Enclosure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25128A162</link>
-			<description>Congressional Correspondence, Status Report</description>
-			<author>NRC/OCM/AXC</author>
-			<pubDate>2025-07-23 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>XENITH - Analytical Methods TR Audit Report Transmittal Letter-v2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25175A211</link>
-			<description>Letter</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-07-23 08:03:00</pubDate>
 		</item>
 	</channel>
 </rss>

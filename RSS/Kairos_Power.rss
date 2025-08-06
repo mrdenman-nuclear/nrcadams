@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 05 Aug 2025 23:21:27 GMT</pubDate>
-		<lastBuildDate>Tue, 05 Aug 2025 23:21:27 GMT</lastBuildDate>
+		<pubDate>Wed, 06 Aug 2025 14:25:29 GMT</pubDate>
+		<lastBuildDate>Wed, 06 Aug 2025 14:25:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -80,13 +80,6 @@
 			<description>Commission Voting Record (CVR)</description>
 			<author>NRC/OCM</author>
 			<pubDate>2025-07-28 11:32:00</pubDate>
-		</item>
-		<item>
-			<title>FY 2025 Q2 Quarterly Report Enclosure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25128A162</link>
-			<description>Congressional Correspondence, Status Report</description>
-			<author>NRC/OCM/AXC</author>
-			<pubDate>2025-07-23 08:03:00</pubDate>
 		</item>
 	</channel>
 </rss>

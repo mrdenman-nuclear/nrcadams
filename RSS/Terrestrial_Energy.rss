@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 05 Aug 2025 23:21:26 GMT</pubDate>
-		<lastBuildDate>Tue, 05 Aug 2025 23:21:26 GMT</lastBuildDate>
+		<pubDate>Wed, 06 Aug 2025 14:25:29 GMT</pubDate>
+		<lastBuildDate>Wed, 06 Aug 2025 14:25:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Range-Wide Indiana Bat & Northern Long-Eared Bat Survey Guidelines</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25217A089</link>
+			<description>Environmental Monitoring Report</description>
+			<author>US Dept of Interior, Fish and Wildlife Service</author>
+			<pubDate>2025-08-06 08:05:00</pubDate>
+		</item>
 		<item>
 			<title>Vogtle Electric Generating Plant, Unit 4, Current Facility Combined License NPF-92, Revised 08/05/2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML14100A135</link>
@@ -213,13 +220,6 @@
 			<description>Environmental Monitoring Report</description>
 			<author>Constellation Energy Generation, LLC, Teledyne Brown Engineering Environmental Services</author>
 			<pubDate>2025-07-24 14:32:00</pubDate>
-		</item>
-		<item>
-			<title>U.S. Army Dugway Proving Ground - Final Radiation Protection Plan (RPP) - Soils Remediation of Area 2 of SWMU-11</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25199A056</link>
-			<description>Report, Technical</description>
-			<author>Cabrera Services, Inc</author>
-			<pubDate>2025-07-24 10:01:00</pubDate>
 		</item>
 	</channel>
 </rss>
