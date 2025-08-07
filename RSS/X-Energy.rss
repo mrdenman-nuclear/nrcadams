@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 06 Aug 2025 23:22:07 GMT</pubDate>
-		<lastBuildDate>Wed, 06 Aug 2025 23:22:07 GMT</lastBuildDate>
+		<pubDate>Thu, 07 Aug 2025 14:26:33 GMT</pubDate>
+		<lastBuildDate>Thu, 07 Aug 2025 14:26:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Energy Northwest New Nuclear, LLC - Acceptability of Historical Information - Flooding</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25211A360</link>
+			<description>Environmental Monitoring Report, Letter, Report, Technical</description>
+			<author>Energy Northwest New Nuclear, LLC</author>
+			<pubDate>2025-08-07 08:04:00</pubDate>
+		</item>
 		<item>
 			<title>Energy Northwest New Nuclear, LLC, Regulatory Engagement Plan, Revision 2</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25210A601</link>
@@ -73,13 +80,6 @@
 			<description>Letter</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-07-28 16:18:00</pubDate>
-		</item>
-		<item>
-			<title>Summary Report of the 726th Meeting of the Advisory Committee on Reactor Safeguards for June 4 Through 5, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25196A311</link>
-			<description>Letter, Meeting Summary</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-07-24 15:07:00</pubDate>
 		</item>
 	</channel>
 </rss>

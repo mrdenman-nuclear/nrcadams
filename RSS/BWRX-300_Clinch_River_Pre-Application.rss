@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 06 Aug 2025 23:21:59 GMT</pubDate>
-		<lastBuildDate>Wed, 06 Aug 2025 23:21:59 GMT</lastBuildDate>
+		<pubDate>Thu, 07 Aug 2025 14:26:27 GMT</pubDate>
+		<lastBuildDate>Thu, 07 Aug 2025 14:26:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,34 +24,6 @@
 			<description>Environmental Monitoring Report, Letter, Report, Technical</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2025-08-01 07:58:00</pubDate>
-		</item>
-		<item>
-			<title>2025/07/10 Clinch River CP Env Docs - Clinch River Construction Permit Environmental Audit Plan</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25191A229</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-07-24 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>2025/07/10 Clinch River CP Env Docs - Transmittal of Clinch River Construction Permit Environmental Audit Plan</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25191A231</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-07-24 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>2025/07/10 Clinch River CP Env Docs - TVA Submittal of GIS Shapefiles- Map Packages Clinch River</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25191A310</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-07-24 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>2025/07/10 Clinch River CP Env Docs - FW TVA Submittal of GIS Shapefiles- Map Packages Clinch River</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25191A311</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-07-24 08:07:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 06 Aug 2025 23:22:07 GMT</pubDate>
-		<lastBuildDate>Wed, 06 Aug 2025 23:22:07 GMT</lastBuildDate>
+		<pubDate>Thu, 07 Aug 2025 14:26:33 GMT</pubDate>
+		<lastBuildDate>Thu, 07 Aug 2025 14:26:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -206,20 +206,6 @@
 			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-07-25 11:01:00</pubDate>
-		</item>
-		<item>
-			<title>Palisades Nuclear Plant - Issuance of Amendment No. 276 Re: Amendment Request to Revise Renewed Facility Operating License and Permanently Defueled Technical Specifications to Support Resumption of Power Operations (EPID L-2023-LLA-0174)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25157A127</link>
-			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation</description>
-			<author>NRC/NRR/DORL/LPLIII</author>
-			<pubDate>2025-07-24 15:07:00</pubDate>
-		</item>
-		<item>
-			<title>Dresden Nuclear Power Station Units 1, 2, and 3, Annual Radiological Environmental Operating Report 1 January through 31 December 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25203A106</link>
-			<description>Environmental Monitoring Report</description>
-			<author>Constellation Energy Generation, LLC, Teledyne Brown Engineering Environmental Services</author>
-			<pubDate>2025-07-24 14:32:00</pubDate>
 		</item>
 	</channel>
 </rss>

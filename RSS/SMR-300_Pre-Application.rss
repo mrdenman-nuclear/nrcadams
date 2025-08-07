@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 06 Aug 2025 23:21:59 GMT</pubDate>
-		<lastBuildDate>Wed, 06 Aug 2025 23:21:59 GMT</lastBuildDate>
+		<pubDate>Thu, 07 Aug 2025 14:26:27 GMT</pubDate>
+		<lastBuildDate>Thu, 07 Aug 2025 14:26:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NMSS/DREFS/EPMB3</author>
 			<pubDate>2025-07-30 09:35:00</pubDate>
-		</item>
-		<item>
-			<title>Email to SMR (Holtec) Transmitting Withholding Information Determination for Preapplication Meeting Materials for the June 26, 2025 Meeting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25198A090</link>
-			<description>E-Mail, Proprietary Information Review</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-07-24 08:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
