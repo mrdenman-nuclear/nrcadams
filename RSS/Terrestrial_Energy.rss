@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 07 Aug 2025 23:20:21 GMT</pubDate>
-		<lastBuildDate>Thu, 07 Aug 2025 23:20:21 GMT</lastBuildDate>
+		<pubDate>Fri, 08 Aug 2025 14:23:52 GMT</pubDate>
+		<lastBuildDate>Fri, 08 Aug 2025 14:23:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TLR-RES/DE/REB-2025-13, "Technical Assessment of Molten Salt Reactor Fuel Salt Waste Processing"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25204A067</link>
+			<description>Report, Technical</description>
+			<author>Center for Nuclear Waste Regulatory Analyses (CNWRA), NRC/RES/DE, Southwest Research Institute</author>
+			<pubDate>2025-08-08 09:36:00</pubDate>
+		</item>
+		<item>
+			<title>NUREG-1437, Supp. 23, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants Supplement 23, Second Renewal Regarding Subsequent License Renewal for Point Beach Nuclear Plant Units 1 and 2" Final Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25191A238</link>
+			<description>Environmental Impact Statement, NUREG</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2025-08-08 08:03:00</pubDate>
+		</item>
 		<item>
 			<title>Range-Wide Indiana Bat & Northern Long-Eared Bat Survey Guidelines</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25217A089</link>
@@ -199,13 +213,6 @@
 			<description>Environmental Impact Statement</description>
 			<author>US Atomic Energy Commission (AEC)</author>
 			<pubDate>2025-07-29 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>Palisades, Current Facility Operating License DPR-20, Tech Specs, Revised 07/25/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052720263</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-07-25 11:01:00</pubDate>
 		</item>
 	</channel>
 </rss>

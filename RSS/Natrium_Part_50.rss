@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 07 Aug 2025 23:20:16 GMT</pubDate>
-		<lastBuildDate>Thu, 07 Aug 2025 23:20:16 GMT</lastBuildDate>
+		<pubDate>Fri, 08 Aug 2025 14:23:47 GMT</pubDate>
+		<lastBuildDate>Fri, 08 Aug 2025 14:23:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,13 +66,6 @@
 			<description>Legal-Affidavit, Letter</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2025-08-01 07:58:00</pubDate>
-		</item>
-		<item>
-			<title>2025/07/18 TerraPower CP Env Docs - DEIS Public Meeting slides Kemmerer 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25199A241</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-07-25 08:14:00</pubDate>
 		</item>
 	</channel>
 </rss>

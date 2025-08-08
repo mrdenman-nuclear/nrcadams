@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 07 Aug 2025 23:20:16 GMT</pubDate>
-		<lastBuildDate>Thu, 07 Aug 2025 23:20:16 GMT</lastBuildDate>
+		<pubDate>Fri, 08 Aug 2025 14:23:47 GMT</pubDate>
+		<lastBuildDate>Fri, 08 Aug 2025 14:23:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure - Set 19 Environmental Safety RAI Responses</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25218A298</link>
+			<description>Response to Request for Additional Information (RAI)</description>
+			<author>Triso-X, LLC</author>
+			<pubDate>2025-08-08 08:03:00</pubDate>
+		</item>
+		<item>
+			<title>Response to Request for Additional Information Set 19 (Environmental Safety) for the TRISO-X License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25218A297</link>
+			<description>Letter</description>
+			<author>Triso-X, LLC</author>
+			<pubDate>2025-08-08 08:03:00</pubDate>
+		</item>
 		<item>
 			<title>Letter - Set 18 RAIs Structural Review of the TRISO-X License Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25161A080</link>
@@ -45,13 +59,6 @@
 			<description>Letter</description>
 			<author>Triso-X, LLC</author>
 			<pubDate>2025-07-28 15:08:00</pubDate>
-		</item>
-		<item>
-			<title>07/29/2025 Meeting to discuss NRC's Management Measures RAIs with TRISO-X</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25206A083</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-07-25 10:44:00</pubDate>
 		</item>
 	</channel>
 </rss>

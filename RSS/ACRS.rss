@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 07 Aug 2025 23:20:17 GMT</pubDate>
-		<lastBuildDate>Thu, 07 Aug 2025 23:20:17 GMT</lastBuildDate>
+		<pubDate>Fri, 08 Aug 2025 14:23:48 GMT</pubDate>
+		<lastBuildDate>Fri, 08 Aug 2025 14:23:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,48 +66,6 @@
 			<description>Committee Letter Report, Letter</description>
 			<author>NRC/ACRS, US Atomic Energy Commission (AEC)</author>
 			<pubDate>2025-07-28 09:30:00</pubDate>
-		</item>
-		<item>
-			<title>03-17-65 Report on Molten Salt Reactor Experiment (MSRE)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25203A020</link>
-			<description>Committee Letter Report</description>
-			<author>NRC/ACRS, US Atomic Energy Commission (AEC)</author>
-			<pubDate>2025-07-25 11:30:00</pubDate>
-		</item>
-		<item>
-			<title>03-31-65 Letter To Honorable Glenn T. Seaborg</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25203A023</link>
-			<description>Letter</description>
-			<author>NRC/ACRS, US Atomic Energy Commission (AEC)</author>
-			<pubDate>2025-07-25 11:30:00</pubDate>
-		</item>
-		<item>
-			<title>05-20-65 Report on Northern States Power Company - Pathfinder Atomic Power Plant</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25203A031</link>
-			<description>Committee Letter Report</description>
-			<author>NRC/ACRS, US Atomic Energy Commission (AEC)</author>
-			<pubDate>2025-07-25 11:30:00</pubDate>
-		</item>
-		<item>
-			<title>07-19-65 Report on Nuclear Fuel Services, Inc</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25203A038</link>
-			<description>Letter</description>
-			<author>NRC/ACRS, US Atomic Energy Commission (AEC)</author>
-			<pubDate>2025-07-25 11:30:00</pubDate>
-		</item>
-		<item>
-			<title>07-19-65 Report on Saxton Nuclear Experimental Corporation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25203A039</link>
-			<description>Committee Letter Report</description>
-			<author>NRC/ACRS, US Atomic Energy Commission (AEC)</author>
-			<pubDate>2025-07-25 11:30:00</pubDate>
-		</item>
-		<item>
-			<title>11-18-64 Report On Enrico Fermi Atomic Power Plant</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25203A113</link>
-			<description>Committee Letter Report, Report, Miscellaneous</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-07-25 11:30:00</pubDate>
 		</item>
 	</channel>
 </rss>

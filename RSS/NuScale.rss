@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 07 Aug 2025 23:20:21 GMT</pubDate>
-		<lastBuildDate>Thu, 07 Aug 2025 23:20:21 GMT</lastBuildDate>
+		<pubDate>Fri, 08 Aug 2025 14:23:52 GMT</pubDate>
+		<lastBuildDate>Fri, 08 Aug 2025 14:23:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NUREG-1437, Supp. 23, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants Supplement 23, Second Renewal Regarding Subsequent License Renewal for Point Beach Nuclear Plant Units 1 and 2" Final Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25191A238</link>
+			<description>Environmental Impact Statement, NUREG</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2025-08-08 08:03:00</pubDate>
+		</item>
+		<item>
+			<title>Hadron Energy, Second Amended Pre-Application Regulatory Engagement Plan for Standardized Microreactor Design</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25212A013</link>
+			<description>Letter, Report, Miscellaneous</description>
+			<author>Hadron Energy, Inc</author>
+			<pubDate>2025-08-08 08:02:00</pubDate>
+		</item>
 		<item>
 			<title>July 24, 2025, Summary Of Public Meeting with Representatives Of Industry</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25212A100</link>
@@ -115,27 +129,6 @@
 			<description>2.802 Process - Petition for Rulemaking (PRM), Commission SECY Paper, Federal Register Notice</description>
 			<author>NRC/SECY</author>
 			<pubDate>2025-07-28 08:12:00</pubDate>
-		</item>
-		<item>
-			<title>SRM-SECY-21-0088: Federal Register Notice - PRM-50-120 Petition for Rulemaking, Denial</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25177B636</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/SECY</author>
-			<pubDate>2025-07-25 10:13:00</pubDate>
-		</item>
-		<item>
-			<title>Nonproprietary - Final Safety Evaluation Associated with EPRI TR BWRVIP-100, BWR Vessel and Internals Project, Updated Assessment of the Fracture Toughness of Irradiated Stainless Steel for BWR Internal Components, Revision 2 (EPID L-2023-NTR-0005)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25168A095</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR/DORL/LLPB</author>
-			<pubDate>2025-07-25 08:14:00</pubDate>
-		</item>
-		<item>
-			<title>Nuclear Energy Institute, - Request for Review and Endorsement of NEI 23-01, "Operator Cold License Training Plan for Advanced Nuclear Reactors"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25198A361</link>
-			<description>Letter</description>
-			<author>Nuclear Energy Institute (NEI)</author>
-			<pubDate>2025-07-25 08:13:00</pubDate>
 		</item>
 	</channel>
 </rss>

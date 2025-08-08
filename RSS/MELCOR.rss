@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 07 Aug 2025 23:20:23 GMT</pubDate>
-		<lastBuildDate>Thu, 07 Aug 2025 23:20:23 GMT</lastBuildDate>
+		<pubDate>Fri, 08 Aug 2025 14:23:54 GMT</pubDate>
+		<lastBuildDate>Fri, 08 Aug 2025 14:23:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,20 +38,6 @@
 			<description>Report, Miscellaneous</description>
 			<author>NRC/RES/DSA/AAB</author>
 			<pubDate>2025-08-04 08:02:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-1437, Supp. 63, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants Supplement 63 Regarding License Renewal for Clinton Power Station, Unit 1" Final Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25212A224</link>
-			<description>NUREG</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-08-01 11:36:00</pubDate>
-		</item>
-		<item>
-			<title>U.S. NRC Level 3 Probabilistic Risk Assessment Project, Volume 8: Integrated Site Risk, All Hazards, Level 1, Level 2, and Level 3 PRA (for Public Review) - Draft</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25149A043</link>
-			<description>NUREG, Draft, Report, Technical</description>
-			<author>NRC/RES</author>
-			<pubDate>2025-08-01 07:58:00</pubDate>
 		</item>
 	</channel>
 </rss>
