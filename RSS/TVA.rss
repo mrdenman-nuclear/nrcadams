@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 08 Aug 2025 23:18:40 GMT</pubDate>
-		<lastBuildDate>Fri, 08 Aug 2025 23:18:40 GMT</lastBuildDate>
+		<pubDate>Mon, 11 Aug 2025 14:23:41 GMT</pubDate>
+		<lastBuildDate>Mon, 11 Aug 2025 14:23:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>U.S. Nuclear Regulatory Commission Staff's Response to SMR, LLC - A Holtec International Company Regarding Planned SMR-300 LWA Exemption Requests and LWA Application Contents</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25168A028</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2025-08-11 08:49:00</pubDate>
+		</item>
+		<item>
+			<title>BFN SLRA Memo to File - Draft RAIs</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25212A205</link>
+			<description>Memoranda</description>
+			<author>NRC/NRR/DNRL/NLRP</author>
+			<pubDate>2025-08-11 08:49:00</pubDate>
+		</item>
 		<item>
 			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3, License Amendment Request to Modify Technical Specification 3.3.2.1 Requirements for Rod Worth Minimizer (BFN TS-549)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25212A156</link>
@@ -206,20 +220,6 @@
 			<description>Emergency Preparedness-Emergency Plan Implementing Procedures, Letter</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2025-07-29 11:39:00</pubDate>
-		</item>
-		<item>
-			<title>Acceptance Review Results for Browns Ferry Nuclear Plant, Units 1, 2, and 3 - Request to Revise SR 3.8.4.5 re: Shutdown Board Battery Charger Capacity (EPID L-2025-LLA-0104)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25197A034</link>
-			<description>Acceptance Review Letter, E-Mail</description>
-			<author>NRC/NRR/DORL/LPLII-2</author>
-			<pubDate>2025-07-28 11:33:00</pubDate>
-		</item>
-		<item>
-			<title>Audit Plan Related to the Review of Browns Ferry Nuclear Plant, Units 1, 2, and 3, TS Surveillance Requirement3.8.4.5 LAR (EPID L-2025-LLA-0104)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25199A137</link>
-			<description>Audit Plan, E-Mail</description>
-			<author>NRC/NRR/DORL/LPL2-2</author>
-			<pubDate>2025-07-28 08:12:00</pubDate>
 		</item>
 	</channel>
 </rss>

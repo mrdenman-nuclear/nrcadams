@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 08 Aug 2025 23:18:34 GMT</pubDate>
-		<lastBuildDate>Fri, 08 Aug 2025 23:18:34 GMT</lastBuildDate>
+		<pubDate>Mon, 11 Aug 2025 14:23:35 GMT</pubDate>
+		<lastBuildDate>Mon, 11 Aug 2025 14:23:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,27 +45,6 @@
 			<description>Federal Register Notice</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-07-29 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>X-Energy, LLC's, X100 Licensing Topical Report Mechanistic Source Term Approach, Revision 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25204A121</link>
-			<description>Letter</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-07-28 16:18:00</pubDate>
-		</item>
-		<item>
-			<title>04-18-63 Testing Of Engineered Safeguards</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25203A146</link>
-			<description>Committee Letter Report, NUREG</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-07-28 11:32:00</pubDate>
-		</item>
-		<item>
-			<title>08-30-62 Report on SPERT I Destructive Tests</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25196A056</link>
-			<description>Committee Letter Report, Letter</description>
-			<author>NRC/ACRS, US Atomic Energy Commission (AEC)</author>
-			<pubDate>2025-07-28 09:30:00</pubDate>
 		</item>
 	</channel>
 </rss>

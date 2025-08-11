@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 08 Aug 2025 23:18:40 GMT</pubDate>
-		<lastBuildDate>Fri, 08 Aug 2025 23:18:40 GMT</lastBuildDate>
+		<pubDate>Mon, 11 Aug 2025 14:23:41 GMT</pubDate>
+		<lastBuildDate>Mon, 11 Aug 2025 14:23:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Lessons Learned from Recent High Temperature Materials Reviews</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25220A252</link>
+			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NRR/DANU/UAL1, NRC/NRR/DANU/UTB1, NRC/NRR/DANU/UTB2</author>
+			<pubDate>2025-08-11 08:50:00</pubDate>
+		</item>
 		<item>
 			<title>SECY-25-0071: Weekly Information Report Week Ending August 1, 2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25219A718</link>
@@ -19,17 +26,17 @@
 			<pubDate>2025-08-08 10:29:00</pubDate>
 		</item>
 		<item>
-			<title>Lessons Learned from Recent High Temp Materials Reviews</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25210A362</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DANU/UAL1, NRC/NRR/DANU/UTB1, NRC/NRR/DANU/UTB2</author>
-			<pubDate>2025-08-08 09:36:00</pubDate>
-		</item>
-		<item>
 			<title>TLR-RES/DE/REB-2025-13, "Technical Assessment of Molten Salt Reactor Fuel Salt Waste Processing"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25204A067</link>
 			<description>Report, Technical</description>
 			<author>Center for Nuclear Waste Regulatory Analyses (CNWRA), NRC/RES/DE, Southwest Research Institute</author>
+			<pubDate>2025-08-08 09:36:00</pubDate>
+		</item>
+		<item>
+			<title>Lessons Learned from Recent High Temp Materials Reviews</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25210A362</link>
+			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NRR/DANU/UAL1, NRC/NRR/DANU/UTB1, NRC/NRR/DANU/UTB2</author>
 			<pubDate>2025-08-08 09:36:00</pubDate>
 		</item>
 		<item>

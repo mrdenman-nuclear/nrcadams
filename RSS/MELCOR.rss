@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 08 Aug 2025 23:18:42 GMT</pubDate>
-		<lastBuildDate>Fri, 08 Aug 2025 23:18:42 GMT</lastBuildDate>
+		<pubDate>Mon, 11 Aug 2025 14:23:43 GMT</pubDate>
+		<lastBuildDate>Mon, 11 Aug 2025 14:23:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Topical Report</description>
 			<author>Kairos Power, LLC</author>
 			<pubDate>2025-08-06 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>Clinton, Unit 1, Severe Accident Mitigation Alternatives (SAMA) Analysis Response to Requests for Confirmation of Information (RCI) and Requests for Additional Information (RAI)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24330A174</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2025-08-04 10:33:00</pubDate>
-		</item>
-		<item>
-			<title>Methodology for Generating MACCS Site-Specific Input Files to Support Risk-Informed Radiological Consequence Assessment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25203A330</link>
-			<description>Report, Miscellaneous</description>
-			<author>NRC/RES/DSA/AAB</author>
-			<pubDate>2025-08-04 08:02:00</pubDate>
 		</item>
 	</channel>
 </rss>

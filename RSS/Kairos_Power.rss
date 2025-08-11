@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 08 Aug 2025 23:18:40 GMT</pubDate>
-		<lastBuildDate>Fri, 08 Aug 2025 23:18:40 GMT</lastBuildDate>
+		<pubDate>Mon, 11 Aug 2025 14:23:41 GMT</pubDate>
+		<lastBuildDate>Mon, 11 Aug 2025 14:23:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Lessons Learned from Recent High Temperature Materials Reviews</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25220A252</link>
+			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NRR/DANU/UAL1, NRC/NRR/DANU/UTB1, NRC/NRR/DANU/UTB2</author>
+			<pubDate>2025-08-11 08:50:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Perspective on High Temperature Materials Qualification</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25220A253</link>
+			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NRR/DANU/UTB2, NRC/NRR/DNRL, NRC/RES/DE</author>
+			<pubDate>2025-08-11 08:50:00</pubDate>
+		</item>
 		<item>
 			<title>NRC Perspective on High Temperature Materials Qualification</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25210A361</link>
@@ -108,13 +122,6 @@
 			<description>Report, Technical</description>
 			<author>Idaho National Lab, Lawrence Livermore National Lab (LLNL), Los Alamos National Lab (LANL), Oak Ridge National Lab (ORNL), US Dept of Energy (DOE)</author>
 			<pubDate>2025-07-29 08:02:00</pubDate>
-		</item>
-		<item>
-			<title>VR-SECY-24-0046: Implementation of the Fiscal Responsibility Act of 2023 National Environmental Policy Act Amendments (Caputo)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25112A290</link>
-			<description>Commission Voting Record (CVR)</description>
-			<author>NRC/OCM</author>
-			<pubDate>2025-07-28 11:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
