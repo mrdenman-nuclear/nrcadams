@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 11 Aug 2025 14:23:41 GMT</pubDate>
-		<lastBuildDate>Mon, 11 Aug 2025 14:23:41 GMT</lastBuildDate>
+		<pubDate>Mon, 11 Aug 2025 15:22:51 GMT</pubDate>
+		<lastBuildDate>Mon, 11 Aug 2025 15:22:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>BF 2024-301 2B Exam Administrative Items (Normal Release).</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24185A133</link>
+			<description>License-Operator, Part 55 Examination Related Material</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-08-11 10:55:00</pubDate>
+		</item>
 		<item>
 			<title>U.S. Nuclear Regulatory Commission Staff's Response to SMR, LLC - A Holtec International Company Regarding Planned SMR-300 LWA Exemption Requests and LWA Application Contents</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25168A028</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Nuclear Energy Institute (NEI)</author>
 			<pubDate>2025-07-29 11:40:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry Nuclear Plant - Site Emergency Plan Implementing Procedure Revision. Includes EPIP-6, Revision 51, "Activation and Operation of the Technical Support Center (TSC)"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25139A043</link>
-			<description>Emergency Preparedness-Emergency Plan Implementing Procedures, Letter</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-07-29 11:39:00</pubDate>
 		</item>
 	</channel>
 </rss>
