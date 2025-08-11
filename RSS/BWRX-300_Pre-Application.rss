@@ -5,25 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 11 Aug 2025 16:25:10 GMT</pubDate>
-		<lastBuildDate>Mon, 11 Aug 2025 16:25:10 GMT</lastBuildDate>
+		<pubDate>Mon, 11 Aug 2025 17:21:07 GMT</pubDate>
+		<lastBuildDate>Mon, 11 Aug 2025 17:21:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>08/19/2025 Closed Technology Update Meeting with GE-Vernova, Global Nuclear Fuel Americas, and the U. S. Nuclear Regulatory Commission (NRC)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25223A196</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-08-11 12:29:00</pubDate>
+		</item>
 		<item>
 			<title>Nuclear Regulatory Commission Inspection Report Of Ge Hitachi Nuclear Energy No. 99900003/2025201, And Notice Of Nonconformance</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25189A437</link>
 			<description>Inspection Report, Letter, Notice of Non-Conformance</description>
 			<author>NRC/NRR/DRO/IQVB</author>
 			<pubDate>2025-08-01 07:59:00</pubDate>
-		</item>
-		<item>
-			<title>08/19/2025 Closed Technology Update Meeting with GE-Vernova, Global Nuclear Fuel Americas, and the U. S. Nuclear Regulatory Commission (NRC)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25211A074</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-07-30 08:43:00</pubDate>
 		</item>
 	</channel>
 </rss>
