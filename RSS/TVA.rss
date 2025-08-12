@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 12 Aug 2025 15:21:20 GMT</pubDate>
-		<lastBuildDate>Tue, 12 Aug 2025 15:21:20 GMT</lastBuildDate>
+		<pubDate>Tue, 12 Aug 2025 16:24:41 GMT</pubDate>
+		<lastBuildDate>Tue, 12 Aug 2025 16:24:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Crown Point Project, "In Situ Mining Technical Rept." W/9 Oversized Figures</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20091S325</link>
+			<description>Legal-Hearing File, Report, Technical</description>
+			<author>IN-SITU, INC.</author>
+			<pubDate>2025-08-12 12:13:00</pubDate>
+		</item>
 		<item>
 			<title>July 14-18, 2025 Public Meeting Summary: Licensing Requirements for Microreactors and Other Low Consequence Reactors Rulemaking</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25223A181</link>
@@ -213,13 +220,6 @@
 			<description>Letter</description>
 			<author>US Dept of Interior, Fish and Wildlife Service</author>
 			<pubDate>2025-07-31 16:25:00</pubDate>
-		</item>
-		<item>
-			<title>Waterford, Unit 3, Current Facility Operating License NPF-38, Tech Specs, Revised 07/30/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053130318</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-07-30 15:41:00</pubDate>
 		</item>
 	</channel>
 </rss>

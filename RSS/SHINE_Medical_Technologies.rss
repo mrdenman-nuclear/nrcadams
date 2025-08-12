@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 12 Aug 2025 15:21:20 GMT</pubDate>
-		<lastBuildDate>Tue, 12 Aug 2025 15:21:20 GMT</lastBuildDate>
+		<pubDate>Tue, 12 Aug 2025 16:24:40 GMT</pubDate>
+		<lastBuildDate>Tue, 12 Aug 2025 16:24:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>647032 Request for Amendment to Reid Hospital and Health Care Services, License No. 13-03284-02. Dated 05/16/2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25147A032</link>
+			<description>E-Mail, Letter, License-Application for (Amend/Renewal/New) for DKT 30, 40, 70</description>
+			<author>Reid Hosp and Health Care Services, Richmond, IN</author>
+			<pubDate>2025-08-12 11:42:00</pubDate>
+		</item>
+	</channel>
 </rss>
