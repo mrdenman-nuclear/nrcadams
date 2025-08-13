@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 12 Aug 2025 23:19:19 GMT</pubDate>
-		<lastBuildDate>Tue, 12 Aug 2025 23:19:19 GMT</lastBuildDate>
+		<pubDate>Wed, 13 Aug 2025 14:21:18 GMT</pubDate>
+		<lastBuildDate>Wed, 13 Aug 2025 14:21:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Legal-Affidavit, Letter, Topical Report</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2025-08-07 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: KP-TR-020-NP, Revision 1, "Safety Analysis Methodology for the Kairos Power Fluoride Salt-Cooled High-Temperature Test Reactor"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25210A576</link>
-			<description>Topical Report</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2025-08-06 08:04:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 12 Aug 2025 23:19:10 GMT</pubDate>
-		<lastBuildDate>Tue, 12 Aug 2025 23:19:10 GMT</lastBuildDate>
+		<pubDate>Wed, 13 Aug 2025 14:21:08 GMT</pubDate>
+		<lastBuildDate>Wed, 13 Aug 2025 14:21:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Holtec SMR-300 Radiological Consequences Methodology Topical Report Audit Plan</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25181A199</link>
+			<description>Audit Plan, Memoranda</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2025-08-13 08:57:00</pubDate>
+		</item>
 		<item>
 			<title>SMR, LLC - SMR-300 Structural Modularity Methodology Meeting Materials for August 12, 2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25216A253</link>
@@ -45,13 +52,6 @@
 			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2025-08-06 13:39:00</pubDate>
-		</item>
-		<item>
-			<title>02/13/2025 Summary of Public Meeting With SMR, LLC (A Holtec International Co.) TO Discuss Environmental Impacts of Postulated Accidents</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25177A042</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2025-07-30 09:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
