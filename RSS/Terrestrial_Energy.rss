@@ -5,14 +5,21 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 14 Aug 2025 17:17:48 GMT</pubDate>
-		<lastBuildDate>Thu, 14 Aug 2025 17:17:48 GMT</lastBuildDate>
+		<pubDate>Thu, 14 Aug 2025 18:27:39 GMT</pubDate>
+		<lastBuildDate>Thu, 14 Aug 2025 18:27:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>Salem, Unit 1, Current Facility Operating License DPR-70, Tech Specs, Revised 07/09/2025.</title>
+			<title>Salem, Unit 2, Current Facility Operating License DPR-75, Tech Specs, Revised 08/14/2025.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052990143</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-08-14 14:01:00</pubDate>
+		</item>
+		<item>
+			<title>Salem, Unit 1, Current Facility Operating License DPR-70, Tech Specs, Revised 08/14/2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052990140</link>
 			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
 			<author>NRC/NRR</author>
