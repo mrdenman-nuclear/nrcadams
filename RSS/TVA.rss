@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 14 Aug 2025 16:25:52 GMT</pubDate>
-		<lastBuildDate>Thu, 14 Aug 2025 16:25:52 GMT</lastBuildDate>
+		<pubDate>Thu, 14 Aug 2025 17:17:48 GMT</pubDate>
+		<lastBuildDate>Thu, 14 Aug 2025 17:17:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>USACE CRN Site CP Cooperating Invitation Response</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25226A140</link>
+			<description>Letter</description>
+			<author>US Dept of the Army, Corps of Engineers, Nashville District</author>
+			<pubDate>2025-08-14 12:37:00</pubDate>
+		</item>
 		<item>
 			<title>August 6, 2025, Email to TVA - Request for Additional Information - TVA 180-Day SGTI Report for Watts Bar Unit 1, Cycle 19 (EPID L-2025-LRO-0031)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25219A178</link>
@@ -213,13 +220,6 @@
 			<description>NUREG</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2025-08-01 11:36:00</pubDate>
-		</item>
-		<item>
-			<title>Nuclear Regulatory Commission Inspection Report Of Ge Hitachi Nuclear Energy No. 99900003/2025201, And Notice Of Nonconformance</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25189A437</link>
-			<description>Inspection Report, Letter, Notice of Non-Conformance</description>
-			<author>NRC/NRR/DRO/IQVB</author>
-			<pubDate>2025-08-01 07:59:00</pubDate>
 		</item>
 	</channel>
 </rss>
