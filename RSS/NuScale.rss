@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 13 Aug 2025 23:19:16 GMT</pubDate>
-		<lastBuildDate>Wed, 13 Aug 2025 23:19:16 GMT</lastBuildDate>
+		<pubDate>Thu, 14 Aug 2025 14:21:14 GMT</pubDate>
+		<lastBuildDate>Thu, 14 Aug 2025 14:21:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Regulatory History - Alternative Physical Security Requirements for Advanced Reactors - Proposed Rule</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24242A021</link>
+			<description>Regulatory History Report</description>
+			<author>NRC/NMSS/DREFS/RRPB</author>
+			<pubDate>2025-08-14 08:54:00</pubDate>
+		</item>
 		<item>
 			<title>Regulatory History for Petition for Rulemaking (PRM) 50-120, Alternative Method for Calculation Embrittlement for Steel Reactor Vessels</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25224A221</link>
@@ -59,27 +66,6 @@
 			<description>Commission SECY Paper</description>
 			<author>NRC/EDO/AO</author>
 			<pubDate>2025-08-01 07:59:00</pubDate>
-		</item>
-		<item>
-			<title>Draft Regulatory Guide (DG) 1422 Revision 1 (Regulatory Guide (RG) 1.245 Revision 1), Preparing Probabilistic Fracture Mechanics Submittals</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24312A308</link>
-			<description>Regulatory Guide, Draft</description>
-			<author>NRC/RES/DE</author>
-			<pubDate>2025-07-31 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Regulatory Analysis for Draft Regulatory Guide (DG) 1422 Revision 1 (Regulatory Guide (RG) 1.245 Revision 1), Preparing Probabilistic Fracture Mechanics Submittals</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24312A310</link>
-			<description>Regulatory Analysis</description>
-			<author>NRC/RES/DE</author>
-			<pubDate>2025-07-31 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>LTR-25-0240 Paul Marston, concerns Arizona's $2.435T Plan: Mox Facility for Nuclear Energy Security</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25181A655</link>
-			<description>E-Mail</description>
-			<author>Public Commenter</author>
-			<pubDate>2025-07-31 08:10:00</pubDate>
 		</item>
 	</channel>
 </rss>
