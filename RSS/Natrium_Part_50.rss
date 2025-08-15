@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 14 Aug 2025 22:19:33 GMT</pubDate>
-		<lastBuildDate>Thu, 14 Aug 2025 22:19:33 GMT</lastBuildDate>
+		<pubDate>Fri, 15 Aug 2025 14:20:34 GMT</pubDate>
+		<lastBuildDate>Fri, 15 Aug 2025 14:20:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2025/08/05 - Comment (6) E-mail regarding TerraPower CP Draft EIS</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25217A016</link>
+			<description>General FR Notice Comment Letter</description>
+			<author>Public Commenter</author>
+			<pubDate>2025-08-15 09:24:00</pubDate>
+		</item>
 		<item>
 			<title>2025/08/01 - Comment (2) E-mail regarding TerraPower CP Draft EIS</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25216A279</link>
@@ -122,20 +129,6 @@
 			<description>Legal-Affidavit, Letter, Topical Report</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2025-08-07 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>News Release-25-040:  NRC Accelerates Review of Kemmerer Power Station Construction Permit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25213A074</link>
-			<description>Press Release</description>
-			<author>NRC/OPA</author>
-			<pubDate>2025-08-01 16:18:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal of TerraPower, LLC, "Natrium Demonstration DID Evaluation Report," NAT-4770 Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25205A087</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-08-01 07:58:00</pubDate>
 		</item>
 	</channel>
 </rss>

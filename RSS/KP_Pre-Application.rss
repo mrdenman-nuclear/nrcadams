@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 14 Aug 2025 22:19:33 GMT</pubDate>
-		<lastBuildDate>Thu, 14 Aug 2025 22:19:33 GMT</lastBuildDate>
+		<pubDate>Fri, 15 Aug 2025 14:20:34 GMT</pubDate>
+		<lastBuildDate>Fri, 15 Aug 2025 14:20:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,20 +66,6 @@
 			<description>Legal-Affidavit, Letter</description>
 			<author>Kairos Power, LLC</author>
 			<pubDate>2025-08-06 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>2025/07/25 Kairos Power Pre-App Doc - Kairos KP-FHR Core Design and Analysis Methodology Topical Report - Draft Safety Evaluation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25206A085</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-08-01 07:59:00</pubDate>
-		</item>
-		<item>
-			<title>2025/07/25 Kairos Power Pre-App Doc - FW Kairos KP-FHR Core Design and Analysis Methodology Topical Report - Draft Safety Evaluation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25206A089</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-08-01 07:59:00</pubDate>
 		</item>
 	</channel>
 </rss>

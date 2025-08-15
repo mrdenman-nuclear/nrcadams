@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 14 Aug 2025 22:19:33 GMT</pubDate>
-		<lastBuildDate>Thu, 14 Aug 2025 22:19:33 GMT</lastBuildDate>
+		<pubDate>Fri, 15 Aug 2025 14:20:34 GMT</pubDate>
+		<lastBuildDate>Fri, 15 Aug 2025 14:20:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,34 +52,6 @@
 			<description>Legal-Affidavit, Letter, Topical Report</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2025-08-07 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>NRC 897: Request for Withholding Proprietary Information from Public Disclosure - TerraPower, LLC, Topical Report, NAT-9395 "Partial Flow Blockage Methodology," Revision 0 (EPID L-2024-TOP-0010)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25206A228</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-08-01 07:59:00</pubDate>
-		</item>
-		<item>
-			<title>Email: Request for Withholding Proprietary Information from Public Disclosure - TerraPower, LLC Topical Report, NAT-9395 "Partial Flow Blockage Methodology," Revision 0 (EPID L-2024-TOP-0010)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25206A231</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-08-01 07:59:00</pubDate>
-		</item>
-		<item>
-			<title>NRC 897: Request for Withholding Proprietary Information from Public Disclosure - TerraPower, LLC, NAT-8922 "Reactor Seismic Isolation System Qualification Topical Report," Revision 2 (EPID L-2024-TOP-0005)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25206A270</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-08-01 07:59:00</pubDate>
-		</item>
-		<item>
-			<title>Email: Request for Withholding Proprietary Information from Public Disclosure - TerraPower, LLC, NAT-8922 "Reactor Seismic Isolation System Qualification Topical Report," Revision 2 (EPID L-2024-TOP-0005)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25206A271</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-08-01 07:59:00</pubDate>
 		</item>
 	</channel>
 </rss>

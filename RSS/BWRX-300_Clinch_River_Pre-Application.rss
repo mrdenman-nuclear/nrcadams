@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 14 Aug 2025 22:19:33 GMT</pubDate>
-		<lastBuildDate>Thu, 14 Aug 2025 22:19:33 GMT</lastBuildDate>
+		<pubDate>Fri, 15 Aug 2025 14:20:34 GMT</pubDate>
+		<lastBuildDate>Fri, 15 Aug 2025 14:20:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,20 +45,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-08-08 08:02:00</pubDate>
-		</item>
-		<item>
-			<title>Letter to TVA, schedule and resource estimates for CP application review (Clinch River Nuclear Site, Unit 1)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25205A005</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-08-01 07:59:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Audit Responses in Support of the Clinch River Nuclear Site Construction Permit Application Environmental Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25205A137</link>
-			<description>Environmental Monitoring Report, Letter, Report, Technical</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-08-01 07:58:00</pubDate>
 		</item>
 	</channel>
 </rss>

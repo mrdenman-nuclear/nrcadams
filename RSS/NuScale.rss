@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 14 Aug 2025 22:19:40 GMT</pubDate>
-		<lastBuildDate>Thu, 14 Aug 2025 22:19:40 GMT</lastBuildDate>
+		<pubDate>Fri, 15 Aug 2025 14:20:42 GMT</pubDate>
+		<lastBuildDate>Fri, 15 Aug 2025 14:20:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Final Safety Evaluation for X-Energy LLC's XE-100 Licensing Topical Report Transient and Safety Analysis Methodology Revision 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25206A049</link>
+			<description>Letter, Safety Evaluation</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2025-08-15 09:26:00</pubDate>
+		</item>
 		<item>
 			<title>Regulatory History - Alternative Physical Security Requirements for Advanced Reactors - Proposed Rule</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24242A021</link>
@@ -59,13 +66,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DRO/IOLB</author>
 			<pubDate>2025-08-07 09:30:00</pubDate>
-		</item>
-		<item>
-			<title>SECY-25-0069: Weekly Information Report Week Ending July 25, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25212A169</link>
-			<description>Commission SECY Paper</description>
-			<author>NRC/EDO/AO</author>
-			<pubDate>2025-08-01 07:59:00</pubDate>
 		</item>
 	</channel>
 </rss>

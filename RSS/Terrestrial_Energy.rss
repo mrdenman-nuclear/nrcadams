@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 14 Aug 2025 22:19:40 GMT</pubDate>
-		<lastBuildDate>Thu, 14 Aug 2025 22:19:40 GMT</lastBuildDate>
+		<pubDate>Fri, 15 Aug 2025 14:20:42 GMT</pubDate>
+		<lastBuildDate>Fri, 15 Aug 2025 14:20:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -122,20 +122,6 @@
 			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Idaho National Lab, NRC/RES</author>
 			<pubDate>2025-08-04 08:02:00</pubDate>
-		</item>
-		<item>
-			<title>Acceptance Review of CBR License Renewal Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25202A079</link>
-			<description>Acceptance Review Letter, Letter, Request for Additional Information (RAI)</description>
-			<author>NRC/NMSS/DDUWP/URMDB</author>
-			<pubDate>2025-08-01 13:28:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-1437, Supp. 63, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants Supplement 63 Regarding License Renewal for Clinton Power Station, Unit 1" Final Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25212A224</link>
-			<description>NUREG</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-08-01 11:36:00</pubDate>
 		</item>
 	</channel>
 </rss>
