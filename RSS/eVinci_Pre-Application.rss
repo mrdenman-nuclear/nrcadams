@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 15 Aug 2025 23:18:31 GMT</pubDate>
-		<lastBuildDate>Fri, 15 Aug 2025 23:18:31 GMT</lastBuildDate>
+		<pubDate>Mon, 18 Aug 2025 14:22:04 GMT</pubDate>
+		<lastBuildDate>Mon, 18 Aug 2025 14:22:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>Letter, Proprietary Information Review</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2025-08-13 08:57:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Supporting Document for Review of Westinghouse Advanced Logic System (ALS) v2 Platform Elimination of Technical Specification Surveillance Requirements Topical Report (WCAP-18810)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25206A264</link>
-			<description>Letter</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2025-08-04 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Affidavit AW-25-051</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25206A265</link>
-			<description>Legal-Affidavit</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2025-08-04 08:01:00</pubDate>
 		</item>
 	</channel>
 </rss>

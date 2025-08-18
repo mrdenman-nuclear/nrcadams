@@ -5,18 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 15 Aug 2025 23:18:38 GMT</pubDate>
-		<lastBuildDate>Fri, 15 Aug 2025 23:18:38 GMT</lastBuildDate>
+		<pubDate>Mon, 18 Aug 2025 14:22:09 GMT</pubDate>
+		<lastBuildDate>Mon, 18 Aug 2025 14:22:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
 			<title>08/18/2025 Meeting with Tennessee Valley Authority to Discuss a Proposed Emergency License Amendment Request for Browns Ferry Nuclear Plant, Unit 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25227A202</link>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25230A054</link>
 			<description>Meeting Agenda, Meeting Notice</description>
 			<author>NRC/NRR</author>
-			<pubDate>2025-08-15 14:39:00</pubDate>
+			<pubDate>2025-08-18 09:52:00</pubDate>
+		</item>
+		<item>
+			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3 - Audit Plan Related to the Review of Browns Ferry Nuclear Plant, Units 1, 2, and 3, Hydrology LAR (EPID L-2025-LLA-0034)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25223A219</link>
+			<description>Audit Plan, E-Mail</description>
+			<author>NRC/NRR/DORL/LPLII-2</author>
+			<pubDate>2025-08-18 09:18:00</pubDate>
 		</item>
 		<item>
 			<title>Watts Bar Nuclear Plant - Integrated Inspection Report 05000390/2025002 and 05000391/2025002</title>
@@ -206,20 +213,6 @@
 			<description>Letter</description>
 			<author>Electric Power Research Institute (EPRI), Tennessee Valley Authority</author>
 			<pubDate>2025-08-05 07:54:00</pubDate>
-		</item>
-		<item>
-			<title>SECY- 81-044: The Nuclear Regulatory Commission v. NRC, et al., U.S.C.A,, D.C. Cir., No. 81-1026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24233A020</link>
-			<description>Commission SECY Paper</description>
-			<author>NRC/SECY</author>
-			<pubDate>2025-08-04 16:19:00</pubDate>
-		</item>
-		<item>
-			<title>Responds to 970816 ltr requesting specific questions posed in connection w/petition filed pursuant to 10CFR2.206 dtd 960530 by ST Doyle.Appendix A encl provides formal response to questions posed in ltr.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20137B769</link>
-			<description>Letter</description>
-			<author>WESTINGHOUSE ELECTRIC COMPANY, DIV OF CBS CORP.</author>
-			<pubDate>2025-08-04 07:25:00</pubDate>
 		</item>
 	</channel>
 </rss>
