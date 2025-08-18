@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 18 Aug 2025 16:24:49 GMT</pubDate>
-		<lastBuildDate>Mon, 18 Aug 2025 16:24:49 GMT</lastBuildDate>
+		<pubDate>Mon, 18 Aug 2025 17:20:29 GMT</pubDate>
+		<lastBuildDate>Mon, 18 Aug 2025 17:20:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"UIC Application & Technical Rept." W/14 oversize drawings.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20091R641</link>
+			<description>Report, Technical, Text-Safety Report</description>
+			<author>HRI, INC. (HYDRO RESOURCES, INC.)</author>
+			<pubDate>2025-08-18 13:17:00</pubDate>
+		</item>
+		<item>
+			<title>Forwards "Crownpoint Archaeological Survey," "Wellfield Piping Map (Crownpoint)," "Wellfield Piping Map (Unit 1)," "Revised Mine Plan (Crownpoint & Unit 1)," & "Revised Pages EA Unit 1 920106." W/eight oversize encl.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20058L919</link>
+			<description>Letter</description>
+			<author>HRI, INC. (HYDRO RESOURCES, INC.)</author>
+			<pubDate>2025-08-18 12:21:00</pubDate>
+		</item>
 		<item>
 			<title>08/18/2025 Meeting with Tennessee Valley Authority to Discuss a Proposed Emergency License Amendment Request for Browns Ferry Nuclear Plant, Unit 3</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25230A054</link>
@@ -205,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25209A534</link>
 			<description>Inservice/Preservice Inspection and Test Report, Letter</description>
 			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-08-05 07:54:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry, Unit 2 - Surveillance Capsule Withdrawal Schedule Change</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25209A578</link>
-			<description>Letter</description>
-			<author>Electric Power Research Institute (EPRI), Tennessee Valley Authority</author>
 			<pubDate>2025-08-05 07:54:00</pubDate>
 		</item>
 	</channel>
