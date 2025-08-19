@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 18 Aug 2025 23:17:36 GMT</pubDate>
-		<lastBuildDate>Mon, 18 Aug 2025 23:17:36 GMT</lastBuildDate>
+		<pubDate>Tue, 19 Aug 2025 14:19:54 GMT</pubDate>
+		<lastBuildDate>Tue, 19 Aug 2025 14:19:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Letter, Topical Report</description>
 			<author>NuScale Power, LLC</author>
 			<pubDate>2025-08-06 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC, Submittal of Topical Report Entitled "NuScale US460 Fuel Storage Rack Design Topical Report," TR-145417-P, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25209A556</link>
-			<description>Letter, Topical Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-08-05 07:54:00</pubDate>
 		</item>
 	</channel>
 </rss>

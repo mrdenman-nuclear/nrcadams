@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 18 Aug 2025 23:17:43 GMT</pubDate>
-		<lastBuildDate>Mon, 18 Aug 2025 23:17:43 GMT</lastBuildDate>
+		<pubDate>Tue, 19 Aug 2025 14:20:02 GMT</pubDate>
+		<lastBuildDate>Tue, 19 Aug 2025 14:20:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Diablo Canyon, Unit 1, Current Facility Operating License DPR-80, Tech Specs, Revised 08/19/2025.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053140349</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-08-19 07:52:00</pubDate>
+		</item>
 		<item>
 			<title>Vogtle Electric Generating Plant, Unit 3 Current Facility Combined License NPF-91, Revised 08/18/2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML14100A106</link>
@@ -101,20 +108,6 @@
 			<description>Environmental Monitoring Report</description>
 			<author>US Dept of Interior, Fish and Wildlife Service</author>
 			<pubDate>2025-08-06 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>Draft for Public Comment - Environmental Assessment for Proposed Issuance of Multi-Site License to Disa Technologies for Abandoned Uranium Mine Waste Remediation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25216A003</link>
-			<description>Environmental Assessment</description>
-			<author>NRC/NMSS/DREFS</author>
-			<pubDate>2025-08-05 08:55:00</pubDate>
-		</item>
-		<item>
-			<title>Edwin I. Hatch, Units 1 and 2, Environmental Audit Plan for Subsequent License Renewal Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25202A167</link>
-			<description>Audit Plan, Letter</description>
-			<author>NRC/NMSS/DREFS/EPMB1</author>
-			<pubDate>2025-08-05 07:54:00</pubDate>
 		</item>
 	</channel>
 </rss>

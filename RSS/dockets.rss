@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 18 Aug 2025 23:17:36 GMT</pubDate>
-		<lastBuildDate>Mon, 18 Aug 2025 23:17:36 GMT</lastBuildDate>
+		<pubDate>Tue, 19 Aug 2025 14:19:54 GMT</pubDate>
+		<lastBuildDate>Tue, 19 Aug 2025 14:19:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Cover Letter - Set 16 of Requests for Additional Information for Management Measures for the TRISO-X License Application Review</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25157A157</link>
+			<description>Letter, Request for Additional Information (RAI)</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2025-08-19 09:08:00</pubDate>
+		</item>
 		<item>
 			<title>Final Safety Evaluation of X-Energy LLC's XE-100 Licensing Topical Report Mechanistic Source Term Approach Revision 3</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25195A103</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-08-13 16:32:00</pubDate>
-		</item>
-		<item>
-			<title>2025/07/30 Clinch River CP Env Docs - CRN Site CP Environmental Requests for Confirmatory Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25211A359</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-08-13 08:57:00</pubDate>
 		</item>
 	</channel>
 </rss>
