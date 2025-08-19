@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 19 Aug 2025 18:24:59 GMT</pubDate>
-		<lastBuildDate>Tue, 19 Aug 2025 18:24:59 GMT</lastBuildDate>
+		<pubDate>Tue, 19 Aug 2025 19:17:19 GMT</pubDate>
+		<lastBuildDate>Tue, 19 Aug 2025 19:17:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Palisades Nuclear Plant, Request for Exemption from Requirements of 10 CFR 26.205, "Fitness for Duty Programs - Work Hours"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25224A206</link>
+			<description>Environmental Assessment, Letter, Request for Code Relief or Alternative</description>
+			<author>Holtec Palisades, LLC</author>
+			<pubDate>2025-08-19 14:32:00</pubDate>
+		</item>
+		<item>
+			<title>Slides- External - BWRX-300 Design for ACRS Presentation 8-20-2025 - SC</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25231A131</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>GE Verona</author>
+			<pubDate>2025-08-19 14:32:00</pubDate>
+		</item>
+		<item>
+			<title>Slides - External - TVA Clinch River Nuclear Project - August 20, 2025 - SC</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25231A144</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-08-19 14:32:00</pubDate>
+		</item>
 		<item>
 			<title>Sequoyah, Unit 2, Current Facility Operating License DPR-79, Tech Specs, Revised 08/19/2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052930262</link>
@@ -199,27 +220,6 @@
 			<description>Letter, Quality Assurance Program</description>
 			<author>Entergy Operations, Inc</author>
 			<pubDate>2025-08-07 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>08/20/2025 Meeting with Tennessee Valley Authority to Discuss a Proposed License Amendment Request for Sequoyah Nuclear Plant, Units 1 and 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25218A171</link>
-			<description>Meeting Agenda, Meeting Notice</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-08-06 12:15:00</pubDate>
-		</item>
-		<item>
-			<title>NEI - Performance of PRA Peer Reviews Using the ASME/ANS Advanced Non-LWR PRA Standard</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25210A238</link>
-			<description>Report, Technical</description>
-			<author>Nuclear Energy Institute (NEI)</author>
-			<pubDate>2025-08-06 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>NEI - Performance of PRA Peer Reviews Using the ASME/ANS Advanced Non-LWR PRA Standard</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25210A239</link>
-			<description>Report, Technical</description>
-			<author>Nuclear Energy Institute (NEI)</author>
-			<pubDate>2025-08-06 08:04:00</pubDate>
 		</item>
 	</channel>
 </rss>
