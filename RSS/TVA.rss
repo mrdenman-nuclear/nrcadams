@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 19 Aug 2025 17:18:19 GMT</pubDate>
-		<lastBuildDate>Tue, 19 Aug 2025 17:18:19 GMT</lastBuildDate>
+		<pubDate>Tue, 19 Aug 2025 18:24:59 GMT</pubDate>
+		<lastBuildDate>Tue, 19 Aug 2025 18:24:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Sequoyah, Unit 2, Current Facility Operating License DPR-79, Tech Specs, Revised 08/19/2025.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052930262</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-08-19 13:49:00</pubDate>
+		</item>
+		<item>
+			<title>Sequoyah, Unit 1, Current Facility Operating License DPR-77, Tech Specs, Revised 08/19/2025.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052930183</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-08-19 13:46:00</pubDate>
+		</item>
 		<item>
 			<title>Crown Point Project, "In Situ Mining Technical Rept." W/9 Oversized Figures</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20091S325</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25210A239</link>
 			<description>Report, Technical</description>
 			<author>Nuclear Energy Institute (NEI)</author>
-			<pubDate>2025-08-06 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry Nuclear Plant, Units 1, 2, & 3 - Summary of July 14, 2025, Public Teleconference with Tennessee Valley Authority to Discuss a Proposed License Amendment Request Regarding Revision to TS 3.3.2.1 for Rod Worth Minimizer (EPID L-2025-LRM-0088)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25199A170</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DORL/LPLII-2</author>
-			<pubDate>2025-08-06 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>LER 2025-003-00 for Browns Ferry Nuclear Plant, Unit 2, Primary Containment Isolation and Manual Reactor Trip Due to Dual Recirculation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25210A472</link>
-			<description>Letter, Licensee Event Report (LER)</description>
-			<author>Tennessee Valley Authority</author>
 			<pubDate>2025-08-06 08:04:00</pubDate>
 		</item>
 	</channel>
