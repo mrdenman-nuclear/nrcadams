@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 19 Aug 2025 23:17:59 GMT</pubDate>
-		<lastBuildDate>Tue, 19 Aug 2025 23:17:59 GMT</lastBuildDate>
+		<pubDate>Wed, 20 Aug 2025 14:20:40 GMT</pubDate>
+		<lastBuildDate>Wed, 20 Aug 2025 14:20:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Idaho State University - U.S. Nuclear Regulatory Commission Safety Inspection Report 05000284/2025201</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25225A105</link>
+			<description>Inspection Report, Letter</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2025-08-20 08:07:00</pubDate>
+		</item>
+	</channel>
 </rss>

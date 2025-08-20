@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 19 Aug 2025 23:17:58 GMT</pubDate>
-		<lastBuildDate>Tue, 19 Aug 2025 23:17:58 GMT</lastBuildDate>
+		<pubDate>Wed, 20 Aug 2025 14:20:39 GMT</pubDate>
+		<lastBuildDate>Wed, 20 Aug 2025 14:20:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,20 +45,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2025-08-11 08:49:00</pubDate>
-		</item>
-		<item>
-			<title>08/12/2025 Public Meeting with SMR (Holtec) to Discuss SMR-300 Structural Modularity</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25218A290</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-08-06 15:55:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: (NP) SMR-300 Structural Modularity - 08-12-2025 - Open Session</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25216A255</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2025-08-06 13:39:00</pubDate>
 		</item>
 	</channel>
 </rss>

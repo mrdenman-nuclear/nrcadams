@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 19 Aug 2025 23:18:04 GMT</pubDate>
-		<lastBuildDate>Tue, 19 Aug 2025 23:18:04 GMT</lastBuildDate>
+		<pubDate>Wed, 20 Aug 2025 14:20:45 GMT</pubDate>
+		<lastBuildDate>Wed, 20 Aug 2025 14:20:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Response to Requests for Additional Information regarding the Clinch River Nuclear Site Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25224A161</link>
+			<description>Letter, Response to Request for Additional Information (RAI)</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-08-20 08:06:00</pubDate>
+		</item>
+		<item>
+			<title>Transmittal of Responses to NRC Requests for Confirmatory Information regarding the Clinch River Nuclear Site Construction Permit Application Environmental Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25224A191</link>
+			<description>Letter</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-08-20 08:06:00</pubDate>
+		</item>
 		<item>
 			<title>Palisades Nuclear Plant, Request for Exemption from Requirements of 10 CFR 26.205, "Fitness for Duty Programs - Work Hours"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25224A206</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25195A014</link>
 			<description>Exemption from NRC Requirements, Federal Register Notice</description>
 			<author>NRC/NRR/DNRL/NLRP</author>
-			<pubDate>2025-08-07 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>History of the Browns Ferry Fire</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25210A050</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/RES/DRA/FXHAB</author>
-			<pubDate>2025-08-07 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>Quality Assurance Program Manual Reduction in Commitment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25217A492</link>
-			<description>Letter, Quality Assurance Program</description>
-			<author>Entergy Operations, Inc</author>
 			<pubDate>2025-08-07 08:04:00</pubDate>
 		</item>
 	</channel>

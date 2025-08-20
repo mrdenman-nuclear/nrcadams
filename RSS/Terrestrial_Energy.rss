@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 19 Aug 2025 23:18:03 GMT</pubDate>
-		<lastBuildDate>Tue, 19 Aug 2025 23:18:03 GMT</lastBuildDate>
+		<pubDate>Wed, 20 Aug 2025 14:20:45 GMT</pubDate>
+		<lastBuildDate>Wed, 20 Aug 2025 14:20:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Transmittal of Responses to NRC Requests for Confirmatory Information regarding the Clinch River Nuclear Site Construction Permit Application Environmental Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25224A191</link>
+			<description>Letter</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-08-20 08:06:00</pubDate>
+		</item>
 		<item>
 			<title>Petitioners ENDAUM & SRIC second amended request for hearing,petition to intervene & statement of concerns.* Related exhibits encl.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20216B536</link>
@@ -108,13 +115,6 @@
 			<description>Environmental Impact Statement, NUREG</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2025-08-08 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>Range-Wide Indiana Bat & Northern Long-Eared Bat Survey Guidelines</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25217A089</link>
-			<description>Environmental Monitoring Report</description>
-			<author>US Dept of Interior, Fish and Wildlife Service</author>
-			<pubDate>2025-08-06 08:05:00</pubDate>
 		</item>
 	</channel>
 </rss>

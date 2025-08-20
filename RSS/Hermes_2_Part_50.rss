@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 19 Aug 2025 23:17:58 GMT</pubDate>
-		<lastBuildDate>Tue, 19 Aug 2025 23:17:58 GMT</lastBuildDate>
+		<pubDate>Wed, 20 Aug 2025 14:20:39 GMT</pubDate>
+		<lastBuildDate>Wed, 20 Aug 2025 14:20:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2025-08-14 08:47:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power, LLC, Notification of Removal of Kairos Power Reviewing Official for 10 CFR Part 73</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25210A557</link>
-			<description>Letter</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2025-08-06 08:04:00</pubDate>
 		</item>
 	</channel>
 </rss>

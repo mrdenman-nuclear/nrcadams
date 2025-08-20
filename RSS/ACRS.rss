@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 19 Aug 2025 23:17:59 GMT</pubDate>
-		<lastBuildDate>Tue, 19 Aug 2025 23:17:59 GMT</lastBuildDate>
+		<pubDate>Wed, 20 Aug 2025 14:20:40 GMT</pubDate>
+		<lastBuildDate>Wed, 20 Aug 2025 14:20:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Federal Register Notice</description>
 			<author>NRC/ACRS, NRC/SECY</author>
 			<pubDate>2025-08-13 08:57:00</pubDate>
-		</item>
-		<item>
-			<title>Minutes of the 726th Meeting of The Advisory Committee on Reactor Safeguards (ACRS) for June 4 through 5, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25216A230</link>
-			<description>Meeting Minutes, Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-08-06 13:39:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - Palisades Restart - SC - August 21, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25216A028</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-08-06 10:41:00</pubDate>
 		</item>
 	</channel>
 </rss>
