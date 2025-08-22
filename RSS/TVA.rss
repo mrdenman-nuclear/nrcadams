@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 21 Aug 2025 23:18:12 GMT</pubDate>
-		<lastBuildDate>Thu, 21 Aug 2025 23:18:12 GMT</lastBuildDate>
+		<pubDate>Fri, 22 Aug 2025 14:19:14 GMT</pubDate>
+		<lastBuildDate>Fri, 22 Aug 2025 14:19:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>09/04/2025 Meeting with Tennessee Valley Authority to Discuss a Proposed Emergent Alternative Request for Browns Ferry Nuclear Plant, Unit 3</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25234A043</link>
+			<description>Meeting Agenda, Meeting Notice</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-08-22 10:17:00</pubDate>
+		</item>
+		<item>
+			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3, Supplement to Expedited License Amendment Request to Modify Surveillance Requirement 3.8.4.5 for Shutdown Board Subsystems (EPID L-2025-LLA-0104)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25226A098</link>
+			<description>Letter, Response to Request for Additional Information (RAI)</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-08-22 08:24:00</pubDate>
+		</item>
 		<item>
 			<title>NUREG-1437, Supp. 21, Second Renewal, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants Supplement 21, Second Renewal Regarding Subsequent License Renewal of Browns Ferry Nuclear Power Plant, Units 1, 2, and 3" Final Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25230A077</link>
@@ -199,20 +213,6 @@
 			<description>Memoranda</description>
 			<author>NRC/NRR/DNRL/NLRP</author>
 			<pubDate>2025-08-11 08:49:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3, License Amendment Request to Modify Technical Specification 3.3.2.1 Requirements for Rod Worth Minimizer (BFN TS-549)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25212A156</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50, Technical Specification, Amendment, Technical Specification, Bases Change</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-08-08 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>MD 8.3 & IMC 0309 Reactive Inspection Determination for Watts Bar Unit 2 Lower Ice Condenser Doors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25132A008</link>
-			<description>MD 8.3 Reactive Inspection Evaluation</description>
-			<author>NRC/RGN-II/DORS</author>
-			<pubDate>2025-08-08 08:02:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 21 Aug 2025 23:18:05 GMT</pubDate>
-		<lastBuildDate>Thu, 21 Aug 2025 23:18:05 GMT</lastBuildDate>
+		<pubDate>Fri, 22 Aug 2025 14:19:10 GMT</pubDate>
+		<lastBuildDate>Fri, 22 Aug 2025 14:19:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Annual Report for the University of Massachusetts Lower Research Reactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25226A182</link>
+			<description>Annual Operating Report, Letter</description>
+			<author>Univ of Massachusetts - Lowell</author>
+			<pubDate>2025-08-22 08:24:00</pubDate>
+		</item>
+	</channel>
 </rss>

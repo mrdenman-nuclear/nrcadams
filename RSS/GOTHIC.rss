@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 21 Aug 2025 23:18:15 GMT</pubDate>
-		<lastBuildDate>Thu, 21 Aug 2025 23:18:15 GMT</lastBuildDate>
+		<pubDate>Fri, 22 Aug 2025 14:19:16 GMT</pubDate>
+		<lastBuildDate>Fri, 22 Aug 2025 14:19:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Final Safety Evaluation for X-Energy LLC's XE-100 Licensing Topical Report Transient and Safety Analysis Methodology Revision 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25206A049</link>
-			<description>Letter, Safety Evaluation</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-08-15 09:26:00</pubDate>
-		</item>
-		<item>
-			<title>Final Safety Evaluation For X-Energy LCS's Topical Report, "XE-100 Licensing Topical Report Gothic And Flownex Analysis Codes Qualification," Revision 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25204A205</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-08-15 09:26:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
