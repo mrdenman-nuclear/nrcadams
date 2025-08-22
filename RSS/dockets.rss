@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 22 Aug 2025 18:25:21 GMT</pubDate>
-		<lastBuildDate>Fri, 22 Aug 2025 18:25:21 GMT</lastBuildDate>
+		<pubDate>Fri, 22 Aug 2025 19:17:44 GMT</pubDate>
+		<lastBuildDate>Fri, 22 Aug 2025 19:17:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>09/04/2025 Public Meeting with SMR (A Holtec International Company) to Discuss SMR-300 I&C Architecture Topical Report Overview</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25234A187</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-08-22 15:01:00</pubDate>
+		</item>
+		<item>
+			<title>Final Safety Evaluation of Long Mott Energy, LLC, Quality Assurance Program Description Topical Report, Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25184A391</link>
+			<description>Letter, Safety Evaluation</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2025-08-22 14:30:00</pubDate>
+		</item>
 		<item>
 			<title>07/17/2025 Summary of Partially Closed Public Meeting to Discuss Preconstruction Activities for the Oklo Advanced Reactor Design</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25204A140</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25206A049</link>
 			<description>Letter, Safety Evaluation</description>
 			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-08-15 09:26:00</pubDate>
-		</item>
-		<item>
-			<title>Final Safety Evaluation For X-Energy LCS's Topical Report, "XE-100 Licensing Topical Report Gothic And Flownex Analysis Codes Qualification," Revision 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25204A205</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-08-15 09:26:00</pubDate>
-		</item>
-		<item>
-			<title>AALO April 23 2025 Closed Meeting Slides Withholding Proprietary Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25178A293</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR</author>
 			<pubDate>2025-08-15 09:26:00</pubDate>
 		</item>
 	</channel>
