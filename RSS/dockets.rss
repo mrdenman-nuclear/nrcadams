@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 22 Aug 2025 14:19:09 GMT</pubDate>
-		<lastBuildDate>Fri, 22 Aug 2025 14:19:09 GMT</lastBuildDate>
+		<pubDate>Fri, 22 Aug 2025 15:19:45 GMT</pubDate>
+		<lastBuildDate>Fri, 22 Aug 2025 15:19:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>07/17/2025 Summary of Partially Closed Public Meeting to Discuss Preconstruction Activities for the Oklo Advanced Reactor Design</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25204A140</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-08-22 10:53:00</pubDate>
+		</item>
 		<item>
 			<title>Email: Request for Withholding Proprietary Information from Public Disclosure - TerraPower, LLC, NAT-9390-A, Revision 2, "Design Basis Accident Methodology for In-Vessel Events without Radiological Release"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25213A034</link>
@@ -213,13 +220,6 @@
 			<description>Letter, Proprietary Information Review</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-08-15 09:26:00</pubDate>
-		</item>
-		<item>
-			<title>2025/08/05 - Comment (6) E-mail regarding TerraPower CP Draft EIS</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25217A016</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>Public Commenter</author>
-			<pubDate>2025-08-15 09:24:00</pubDate>
 		</item>
 	</channel>
 </rss>
