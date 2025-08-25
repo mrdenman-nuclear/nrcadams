@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 22 Aug 2025 23:18:00 GMT</pubDate>
-		<lastBuildDate>Fri, 22 Aug 2025 23:18:00 GMT</lastBuildDate>
+		<pubDate>Mon, 25 Aug 2025 14:20:33 GMT</pubDate>
+		<lastBuildDate>Mon, 25 Aug 2025 14:20:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -199,27 +199,6 @@
 			<description>Letter, Request for Additional Information (RAI)</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
 			<pubDate>2025-08-19 09:08:00</pubDate>
-		</item>
-		<item>
-			<title>Final Safety Evaluation of X-Energy LLC's XE-100 Licensing Topical Report Mechanistic Source Term Approach Revision 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25195A103</link>
-			<description>Letter, Safety Evaluation</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-08-18 09:18:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo, Inc., Submittal of "Principal Design Criteria for the Aurora Powerhouse" Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25220A125</link>
-			<description>Letter</description>
-			<author>Oklo Inc</author>
-			<pubDate>2025-08-18 09:17:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo, Inc., Affidavit Pursuant to 10 CFR 2.390</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25220A126</link>
-			<description>Legal-Affidavit</description>
-			<author>Oklo Inc</author>
-			<pubDate>2025-08-18 09:17:00</pubDate>
 		</item>
 	</channel>
 </rss>
