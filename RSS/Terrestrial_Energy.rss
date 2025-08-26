@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 25 Aug 2025 23:18:36 GMT</pubDate>
-		<lastBuildDate>Mon, 25 Aug 2025 23:18:36 GMT</lastBuildDate>
+		<pubDate>Tue, 26 Aug 2025 14:19:57 GMT</pubDate>
+		<lastBuildDate>Tue, 26 Aug 2025 14:19:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -129,20 +129,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-08-13 08:56:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (1) of Anthony Slayton on Monthly Notice; Applications and Amendments to Facility Operating Licenses and Combined Licenses Involving No Significant Hazards Considerations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25217A461</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2025-08-12 08:52:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (4) of Deric Tilson on US SFR Owner, LLC; Kemmerer Power Station, Unit 1; Draft Environmental Impact Statement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25217A544</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>The Breakthrough Institue</author>
-			<pubDate>2025-08-12 08:52:00</pubDate>
 		</item>
 	</channel>
 </rss>
