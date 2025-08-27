@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 26 Aug 2025 23:17:16 GMT</pubDate>
-		<lastBuildDate>Tue, 26 Aug 2025 23:17:16 GMT</lastBuildDate>
+		<pubDate>Wed, 27 Aug 2025 14:18:42 GMT</pubDate>
+		<lastBuildDate>Wed, 27 Aug 2025 14:18:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Letter, Proprietary Information Review</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2025-08-14 08:46:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Proprietary Information of the Submittal Letter on supporting Document for ALS V2 Review submitted on July 25 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25209A071</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-08-13 08:57:00</pubDate>
 		</item>
 	</channel>
 </rss>

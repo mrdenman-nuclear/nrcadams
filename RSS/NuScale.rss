@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 26 Aug 2025 23:17:23 GMT</pubDate>
-		<lastBuildDate>Tue, 26 Aug 2025 23:17:23 GMT</lastBuildDate>
+		<pubDate>Wed, 27 Aug 2025 14:18:46 GMT</pubDate>
+		<lastBuildDate>Wed, 27 Aug 2025 14:18:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,13 +73,6 @@
 			<description>Regulatory History Report</description>
 			<author>NRC/NMSS/DREFS/RRPB</author>
 			<pubDate>2025-08-14 08:54:00</pubDate>
-		</item>
-		<item>
-			<title>Regulatory History for Petition for Rulemaking (PRM) 50-120, Alternative Method for Calculation Embrittlement for Steel Reactor Vessels</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25224A221</link>
-			<description>Regulatory History Report</description>
-			<author>NRC/NMSS/DREFS/RRPB</author>
-			<pubDate>2025-08-13 11:34:00</pubDate>
 		</item>
 	</channel>
 </rss>

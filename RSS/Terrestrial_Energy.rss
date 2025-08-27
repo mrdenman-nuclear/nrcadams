@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 26 Aug 2025 23:17:23 GMT</pubDate>
-		<lastBuildDate>Tue, 26 Aug 2025 23:17:23 GMT</lastBuildDate>
+		<pubDate>Wed, 27 Aug 2025 14:18:46 GMT</pubDate>
+		<lastBuildDate>Wed, 27 Aug 2025 14:18:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -129,20 +129,6 @@
 			<description>General FR Notice Comment Letter</description>
 			<author>Public Commenter</author>
 			<pubDate>2025-08-14 08:46:00</pubDate>
-		</item>
-		<item>
-			<title>2025/07/30 Clinch River CP Env Docs - CRN Site CP Environmental Requests for Confirmatory Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25211A359</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-08-13 08:57:00</pubDate>
-		</item>
-		<item>
-			<title>2025/07/30 Clinch River CP Env Docs - CRN Site CP Environmental Requests for Confirmatory Information Transmittal</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25211A357</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-08-13 08:56:00</pubDate>
 		</item>
 	</channel>
 </rss>
