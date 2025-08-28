@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 28 Aug 2025 15:19:51 GMT</pubDate>
-		<lastBuildDate>Thu, 28 Aug 2025 15:19:51 GMT</lastBuildDate>
+		<pubDate>Thu, 28 Aug 2025 16:26:05 GMT</pubDate>
+		<lastBuildDate>Thu, 28 Aug 2025 16:26:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TRISO-X, LLC - Response to Request for Additional Information Set 17 (Integrated Safety Analysis) for the TRISO-X License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25239B560</link>
+			<description>Letter</description>
+			<author>Triso-X, LLC</author>
+			<pubDate>2025-08-28 11:37:00</pubDate>
+		</item>
 		<item>
 			<title>TerraPower, LLC, Submittal of Approved I&C Architecture and Design Basis Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25232A241</link>
@@ -211,13 +218,6 @@
 			<title>NRC 897: Request for Withholding Proprietary Information from Public Disclosure - TerraPower, LLC, NAT-9393-A, Revision 0, "Reactor Stability"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25213A037</link>
 			<description>Proprietary Information Review, Topical Report</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-08-22 08:23:00</pubDate>
-		</item>
-		<item>
-			<title>NRC 897: Request for Withholding Proprietary Information from Public Disclosure - TerraPower, LLC, NAT-9390-A, Revision 2, "Design Basis Accident Methodology for In-Vessel Events without Radiological Release"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25213A033</link>
-			<description>Topical Report Evaluation</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2025-08-22 08:23:00</pubDate>
 		</item>
