@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 28 Aug 2025 19:16:23 GMT</pubDate>
-		<lastBuildDate>Thu, 28 Aug 2025 19:16:23 GMT</lastBuildDate>
+		<pubDate>Thu, 28 Aug 2025 20:21:20 GMT</pubDate>
+		<lastBuildDate>Thu, 28 Aug 2025 20:21:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SECY-25-0075: Weekly Information Report Week Ending August 22, 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25240B530</link>
+			<description>Commission SECY Paper</description>
+			<author>NRC/EDO/AO</author>
+			<pubDate>2025-08-28 16:14:00</pubDate>
+		</item>
 		<item>
 			<title>Transcript of Advisory Committee on Reactor Safeguards - BWRX-300 Design-Centered & Clinch River Subcommittee Meeting, August 20, 2025, Pages 1-188 (Open)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25238A063</link>
@@ -213,13 +220,6 @@
 			<description>Report, Technical, Text-Safety Report</description>
 			<author>HRI, INC. (HYDRO RESOURCES, INC.)</author>
 			<pubDate>2025-08-18 13:17:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards "Crownpoint Archaeological Survey," "Wellfield Piping Map (Crownpoint)," "Wellfield Piping Map (Unit 1)," "Revised Mine Plan (Crownpoint & Unit 1)," & "Revised Pages EA Unit 1 920106." W/eight oversize encl.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20058L919</link>
-			<description>Letter</description>
-			<author>HRI, INC. (HYDRO RESOURCES, INC.)</author>
-			<pubDate>2025-08-18 12:21:00</pubDate>
 		</item>
 	</channel>
 </rss>
