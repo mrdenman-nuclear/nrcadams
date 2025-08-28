@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 27 Aug 2025 23:17:25 GMT</pubDate>
-		<lastBuildDate>Wed, 27 Aug 2025 23:17:25 GMT</lastBuildDate>
+		<pubDate>Thu, 28 Aug 2025 14:20:28 GMT</pubDate>
+		<lastBuildDate>Thu, 28 Aug 2025 14:20:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NUREG-1437, Supp. 21, Second Renewal, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants Supplement 21, Second Renewal Regarding Subsequent License Renewal of Browns Ferry Nuclear Plant, Units 1, 2, and 3" Final Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25230A077</link>
+			<description>Environmental Impact Statement, NUREG</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2025-08-28 09:06:00</pubDate>
+		</item>
+		<item>
+			<title>Watts Bar Nuclear Plant, Units 1 and 2 - Supplement to License Amendment Request to Revise Technical Specifications to Adopt Risk-Informed Completion Times TSTF-505, Revision 2, "Provide Risk-informed Extended Completion Times - RITSTF Initiative 4b"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25232A156</link>
+			<description>Letter, Response to Request for Additional Information (RAI)</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-08-28 08:04:00</pubDate>
+		</item>
+		<item>
+			<title>Updated Inspection Plan for Watts Bar Nuclear Plant Report 05000390/2025005 and 05000391/2025005 Final</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25232A110</link>
+			<description>Inspection Plan, Letter</description>
+			<author>NRC/RGN-II/DORS/PB5</author>
+			<pubDate>2025-08-28 08:04:00</pubDate>
+		</item>
+		<item>
+			<title>Browns Ferry Nuclear Plant, Report 05000259/2025005 and 05000260/2025005 and 05000296/2025005 Final - Updated Inspection Plan</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25232A134</link>
+			<description>Inspection Plan, Letter</description>
+			<author>NRC/RGN-II/DORS/PB5</author>
+			<pubDate>2025-08-28 08:04:00</pubDate>
+		</item>
 		<item>
 			<title>Tennessee Valley Authority, Sequoyah Unit 1 Inservice Inspection Alternative Request Regarding Containment Spray Heat Exchanger, Meeting Slides</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25239B076</link>
@@ -66,13 +94,6 @@
 			<description>Letter, Response to Request for Additional Information (RAI)</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2025-08-22 08:24:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-1437, Supp. 21, Second Renewal, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants Supplement 21, Second Renewal Regarding Subsequent License Renewal of Browns Ferry Nuclear Power Plant, Units 1, 2, and 3" Final Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25230A077</link>
-			<description>Environmental Impact Statement, NUREG</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-08-21 08:15:00</pubDate>
 		</item>
 		<item>
 			<title>Response to Requests for Additional Information regarding the Clinch River Nuclear Site Construction Permit Application</title>
@@ -192,20 +213,6 @@
 			<description>Enforcement Action, Inspection Report, Letter</description>
 			<author>NRC/RGN-II/DORS/PB5</author>
 			<pubDate>2025-08-15 09:26:00</pubDate>
-		</item>
-		<item>
-			<title>USACE CRN Site CP Cooperating Invitation Response</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25226A140</link>
-			<description>Letter</description>
-			<author>US Dept of the Army, Corps of Engineers, Nashville District</author>
-			<pubDate>2025-08-14 12:37:00</pubDate>
-		</item>
-		<item>
-			<title>August 6, 2025, Email to TVA - Request for Additional Information - TVA 180-Day SGTI Report for Watts Bar Unit 1, Cycle 19 (EPID L-2025-LRO-0031)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25219A178</link>
-			<description>E-Mail, Request for Additional Information (RAI)</description>
-			<author>NRC/NRR/DORL/LPLII-2</author>
-			<pubDate>2025-08-14 08:47:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 27 Aug 2025 23:17:15 GMT</pubDate>
-		<lastBuildDate>Wed, 27 Aug 2025 23:17:15 GMT</lastBuildDate>
+		<pubDate>Thu, 28 Aug 2025 14:20:17 GMT</pubDate>
+		<lastBuildDate>Thu, 28 Aug 2025 14:20:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TerraPower, LLC, Submittal of Approved I&C Architecture and Design Basis Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25232A241</link>
+			<description>Legal-Affidavit, Letter, Topical Report</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2025-08-28 08:04:00</pubDate>
+		</item>
+		<item>
+			<title>U.S. Nuclear Regulatory Commission Staff's Email to SMR (Holtec) Subject RE: NRC Staff's Clarification Regarding Assumptions A-1.1 and H-4 in RG 1.183, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25233A011</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2025-08-28 08:04:00</pubDate>
+		</item>
+		<item>
+			<title>U.S. Nuclear Regulatory Commission Staff's Feedback on SMR, LLC - A Holtec International Company - Planned Limited Work Authorization Contents</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25231A013</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2025-08-28 08:04:00</pubDate>
+		</item>
+		<item>
+			<title>TerraPower - Transmittal of Kemmerer Power Station Unit 1 Macro-Corridor Update</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25232A002</link>
+			<description>Letter</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2025-08-28 08:03:00</pubDate>
+		</item>
 		<item>
 			<title>Form 897 Oklo PDC Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25232A142</link>
@@ -192,34 +220,6 @@
 			<description>Topical Report Evaluation</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2025-08-22 08:23:00</pubDate>
-		</item>
-		<item>
-			<title>Email: Request for Withholding Proprietary Information from Public Disclosure - TerraPower, LLC, NAT-9393-A, Revision 0, "Reactor Stability"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25213A038</link>
-			<description>E-Mail, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-08-22 08:23:00</pubDate>
-		</item>
-		<item>
-			<title>Email: Request for Withholding Proprietary Information from Public Disclosure - TerraPower, LLC, NAT-2695-A, Revision 0, "Human Factors Engineering Program Plan and Methodologies"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25213A025</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-08-22 08:23:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of the July 22, 2025 Public Meeting to Receive Comments on the DEIS for the Construction Permit Application for Kemmerer Power Station One</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25232A041</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2025-08-21 16:19:00</pubDate>
-		</item>
-		<item>
-			<title>X-Energy, LLC, Submittal of Xe-100 Engagement Plan (REP) 2025, Revision 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25225A221</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-08-21 08:15:00</pubDate>
 		</item>
 	</channel>
 </rss>

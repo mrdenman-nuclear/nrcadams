@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 27 Aug 2025 23:17:25 GMT</pubDate>
-		<lastBuildDate>Wed, 27 Aug 2025 23:17:25 GMT</lastBuildDate>
+		<pubDate>Thu, 28 Aug 2025 14:20:28 GMT</pubDate>
+		<lastBuildDate>Thu, 28 Aug 2025 14:20:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NUREG-1437, Supp. 21, Second Renewal, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants Supplement 21, Second Renewal Regarding Subsequent License Renewal of Browns Ferry Nuclear Plant, Units 1, 2, and 3" Final Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25230A077</link>
+			<description>Environmental Impact Statement, NUREG</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2025-08-28 09:06:00</pubDate>
+		</item>
 		<item>
 			<title>Comanche Peak, Unit 1, Current Facility Operating License NPF-87, Tech Specs, Revised 08/27/2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053180521</link>
@@ -56,13 +63,6 @@
 		<item>
 			<title>NUREG-1437, Supp. 10, Second Renewal, Supp. 1, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants Supplement 10, Second Renewal Regarding Subsequent License Renewal for Peach Bottom Atomic Power Station Units 2 and 3" Final</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25191A237</link>
-			<description>Environmental Impact Statement, NUREG</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-08-21 08:15:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-1437, Supp. 21, Second Renewal, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants Supplement 21, Second Renewal Regarding Subsequent License Renewal of Browns Ferry Nuclear Power Plant, Units 1, 2, and 3" Final Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25230A077</link>
 			<description>Environmental Impact Statement, NUREG</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2025-08-21 08:15:00</pubDate>
@@ -115,27 +115,6 @@
 			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-08-18 09:42:00</pubDate>
-		</item>
-		<item>
-			<title>Salem, Unit 2, Current Facility Operating License DPR-75, Tech Specs, Revised 08/14/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052990143</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-08-14 14:01:00</pubDate>
-		</item>
-		<item>
-			<title>Salem, Unit 1, Current Facility Operating License DPR-70, Tech Specs, Revised 08/14/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052990140</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-08-14 12:43:00</pubDate>
-		</item>
-		<item>
-			<title>2025/08/01 - Comment (2) E-mail regarding TerraPower CP Draft EIS</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25216A279</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>Public Commenter</author>
-			<pubDate>2025-08-14 08:46:00</pubDate>
 		</item>
 	</channel>
 </rss>
