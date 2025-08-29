@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 28 Aug 2025 23:17:52 GMT</pubDate>
-		<lastBuildDate>Thu, 28 Aug 2025 23:17:52 GMT</lastBuildDate>
+		<pubDate>Fri, 29 Aug 2025 14:18:39 GMT</pubDate>
+		<lastBuildDate>Fri, 29 Aug 2025 14:18:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>FRN: Tennessee Valley Authority; Browns Ferry Nuclear Plant, Units 1, 2, and 3, Final Environmental Impact Statement</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25227A047</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/NMSS/DREFS/EPMB1</author>
+			<pubDate>2025-08-29 10:08:00</pubDate>
+		</item>
+		<item>
+			<title>Watts Bar Nuclear Plant, Unit 2 - Request for Exemption from Requirements of 10 CFR 54.17, "Filing of Application"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25233A135</link>
+			<description>Letter</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-08-29 08:04:00</pubDate>
+		</item>
 		<item>
 			<title>SECY-25-0075: Weekly Information Report Week Ending August 22, 2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25240B530</link>
@@ -206,20 +220,6 @@
 			<description>Meeting Agenda, Meeting Notice</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-08-19 07:11:00</pubDate>
-		</item>
-		<item>
-			<title>08/19/2025 Meeting with Tennessee Valley Authority to Discuss a Proposed Emergency License Amendment Request for Browns Ferry Nuclear Plant, Unit 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25230A184</link>
-			<description>Meeting Agenda, Meeting Notice</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-08-18 15:14:00</pubDate>
-		</item>
-		<item>
-			<title>"UIC Application & Technical Rept." W/14 oversize drawings.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20091R641</link>
-			<description>Report, Technical, Text-Safety Report</description>
-			<author>HRI, INC. (HYDRO RESOURCES, INC.)</author>
-			<pubDate>2025-08-18 13:17:00</pubDate>
 		</item>
 	</channel>
 </rss>

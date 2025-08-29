@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 28 Aug 2025 23:17:52 GMT</pubDate>
-		<lastBuildDate>Thu, 28 Aug 2025 23:17:52 GMT</lastBuildDate>
+		<pubDate>Fri, 29 Aug 2025 14:18:39 GMT</pubDate>
+		<lastBuildDate>Fri, 29 Aug 2025 14:18:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>June 4, 2025, Summary of Meeting Between the Nuclear Energy Institute Representatives and the U.S. Nuclear Regulatory Commission Staff on Emergency Preparedness Program in Response to Nuclear Energy Institute’s Input on Recent Executive Orders</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25196A170</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DORL/LLPB</author>
+			<pubDate>2025-08-29 08:04:00</pubDate>
+		</item>
 		<item>
 			<title>Public Comment Table for Regulatory Guide (RG) 1.87, Revision 3, Acceptability of ASME Code Section III, Division 5, High Temperature Reactors</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25188A048</link>
@@ -38,13 +45,6 @@
 			<description>E-Mail</description>
 			<author>State of WY, Game and Fish Dept</author>
 			<pubDate>2025-08-19 09:06:00</pubDate>
-		</item>
-		<item>
-			<title>Announcement Letter for the Quality Assurance Implementation Inspection of USO SFR Owner, LLC</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25218A182</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DRO/IQVB</author>
-			<pubDate>2025-08-15 15:47:00</pubDate>
 		</item>
 	</channel>
 </rss>

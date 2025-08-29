@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 28 Aug 2025 23:17:54 GMT</pubDate>
-		<lastBuildDate>Thu, 28 Aug 2025 23:17:54 GMT</lastBuildDate>
+		<pubDate>Fri, 29 Aug 2025 14:18:41 GMT</pubDate>
+		<lastBuildDate>Fri, 29 Aug 2025 14:18:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>U.S. NRC Level 3 Probabilistic Risk Assessment Project, Volume 5c: Reactor, At-Shutdown, Level 3 PRA for Internal Events (Draft for Public Review)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25157A087</link>
+			<description>Probabilistic Risk Assessment</description>
+			<author>NRC/RES/DRA</author>
+			<pubDate>2025-08-29 08:04:00</pubDate>
+		</item>
+		<item>
+			<title>U.S. NRC Level 3 Probabilistic Risk Assessment Project, Volume 5: Overview of Reactor, Low-Power and Shutdown, Level 1, 2, and 3 PRAs for Internal Events (Draft for Public Review)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25157A084</link>
+			<description>Probabilistic Risk Assessment, Report, Technical</description>
+			<author>NRC/RES/DRA</author>
+			<pubDate>2025-08-29 08:04:00</pubDate>
+		</item>
+		<item>
+			<title>U.S. NRC Level 3 Probabilistic Risk Assessment Project, Volume 5b: Reactor, At-Shutdown, Level 2 PRA for Internal Events (Draft for Public Review)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25157A086</link>
+			<description>Probabilistic Risk Assessment</description>
+			<author>NRC/RES/DRA</author>
+			<pubDate>2025-08-29 08:04:00</pubDate>
+		</item>
 		<item>
 			<title>Transcript of the Advisory Committee on Reactor Safeguards 727th Full Committee Meeting, July 9, 2025 Pages 1-183 (Open)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25237A266</link>
@@ -24,27 +45,6 @@
 			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
 			<author>Constellation Energy Generation, LLC</author>
 			<pubDate>2025-08-25 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>NEI - Suggestions Regarding Use of Offsite Meteorological Data for Licensing and Emergency Planning</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25098A278</link>
-			<description>Letter, Report, Technical</description>
-			<author>Nuclear Energy Institute (NEI)</author>
-			<pubDate>2025-08-22 11:31:00</pubDate>
-		</item>
-		<item>
-			<title>Attachment 1: NEI 24-05 An Approach for Risk-Informed Performance-Based Emergency Planning< Rev. 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25227A121</link>
-			<description>Report, Technical</description>
-			<author>Nuclear Energy Institute (NEI)</author>
-			<pubDate>2025-08-22 09:31:00</pubDate>
-		</item>
-		<item>
-			<title>Amendment 2: NEI 24-05 Comment Resolution Matrix</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25227A122</link>
-			<description>Graphics incl Charts and Tables</description>
-			<author>Nuclear Energy Institute (NEI)</author>
-			<pubDate>2025-08-22 09:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
