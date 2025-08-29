@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 29 Aug 2025 16:22:19 GMT</pubDate>
-		<lastBuildDate>Fri, 29 Aug 2025 16:22:19 GMT</lastBuildDate>
+		<pubDate>Fri, 29 Aug 2025 17:16:49 GMT</pubDate>
+		<lastBuildDate>Fri, 29 Aug 2025 17:16:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Letter - Westinghouse Electric Co. Regulatory Audit Report regarding TRISO Fuel Design Methodology for the eVinci Microreactor Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25190A667</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2025-08-29 12:26:00</pubDate>
+		</item>
 		<item>
 			<title>NRC Form 897: Request for Withholding Proprietary Information from Public Disclosure - TerraPower, LLC NAT-9392-A, Radiological Source Term Methodology, Revision 0</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25217A478</link>
@@ -213,13 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DRO/IQVB</author>
 			<pubDate>2025-08-25 15:15:00</pubDate>
-		</item>
-		<item>
-			<title>09/04/2025 Public Meeting with SMR (A Holtec International Company) to Discuss SMR-300 I&C Architecture Topical Report Overview</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25237A248</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-08-25 14:43:00</pubDate>
 		</item>
 	</channel>
 </rss>
