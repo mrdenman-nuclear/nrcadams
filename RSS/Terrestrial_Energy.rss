@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 29 Aug 2025 23:17:41 GMT</pubDate>
-		<lastBuildDate>Fri, 29 Aug 2025 23:17:41 GMT</lastBuildDate>
+		<pubDate>Mon, 01 Sep 2025 14:19:12 GMT</pubDate>
+		<lastBuildDate>Mon, 01 Sep 2025 14:19:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -108,13 +108,6 @@
 			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-08-19 07:52:00</pubDate>
-		</item>
-		<item>
-			<title>Hope Creek, Current Facility Operating License NPF-57, Tech Specs, Revised 08/18/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052720298</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-08-18 09:42:00</pubDate>
 		</item>
 	</channel>
 </rss>

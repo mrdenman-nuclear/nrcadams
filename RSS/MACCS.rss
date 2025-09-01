@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 29 Aug 2025 23:17:43 GMT</pubDate>
-		<lastBuildDate>Fri, 29 Aug 2025 23:17:43 GMT</lastBuildDate>
+		<pubDate>Mon, 01 Sep 2025 14:19:15 GMT</pubDate>
+		<lastBuildDate>Mon, 01 Sep 2025 14:19:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>Transcript</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-08-26 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Limerick Generating Station, Units 1 and 2 - License Amendment Request for One-Time Extension of the Containment Type A Integrated Leakage Rate Test Frequency</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25227A183</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2025-08-25 08:05:00</pubDate>
 		</item>
 	</channel>
 </rss>
