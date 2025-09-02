@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 01 Sep 2025 23:16:11 GMT</pubDate>
-		<lastBuildDate>Mon, 01 Sep 2025 23:16:11 GMT</lastBuildDate>
+		<pubDate>Tue, 02 Sep 2025 14:19:48 GMT</pubDate>
+		<lastBuildDate>Tue, 02 Sep 2025 14:19:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Long Mott Generating Station, Environmental Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25241A353</link>
+			<description>Environmental Monitoring Report</description>
+			<author>Long Mott Energy, LLC</author>
+			<pubDate>2025-09-02 09:42:00</pubDate>
+		</item>
 		<item>
 			<title>U.S. NRC Level 3 Probabilistic Risk Assessment Project, Volume 5c: Reactor, At-Shutdown, Level 3 PRA for Internal Events (Draft for Public Review)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25157A087</link>
@@ -80,48 +87,6 @@
 			<description>Meeting Transcript, Slides and Viewgraphs</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-08-28 11:37:00</pubDate>
-		</item>
-		<item>
-			<title>Subcommittee Structure and Listing - Description for the Advisory Committee on Reactor Safeguards</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24199A157</link>
-			<description>Graphics incl Charts and Tables, Schedule and Calendars</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-08-26 15:45:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of the Advisory Committee on Reactor Safeguards 727th Full Committee Meeting, July 9, 2025 Pages 1-183 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25237A266</link>
-			<description>Transcript</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-08-26 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of the Advisory Committee on Reactor Safeguards 727th Full Committee Meeting, July 9, 2025 Pages 1-183 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25237A266</link>
-			<description>Transcript</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-08-26 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of the Advisory Committee on Reactor Safeguards 727th Full Committee Meeting, July 9, 2025 Pages 1-183 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25237A266</link>
-			<description>Transcript</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-08-26 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>NP Enclosure Terrapower, LLC. - Final Safety Evaluation of Topical Report Nat-9394, "Design Basis Accident Methodology for Events with Radiological Release," Revision 0 (EPID L-2024-TOP-0009)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25212A054</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-08-26 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>NP Enclosure Terrapower, LLC. - Final Safety Evaluation of Topical Report Nat-9394, "Design Basis Accident Methodology for Events with Radiological Release," Revision 0 (EPID L-2024-TOP-0009)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25212A054</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-08-26 08:10:00</pubDate>
 		</item>
 	</channel>
 </rss>

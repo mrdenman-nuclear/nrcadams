@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 01 Sep 2025 23:16:02 GMT</pubDate>
-		<lastBuildDate>Mon, 01 Sep 2025 23:16:02 GMT</lastBuildDate>
+		<pubDate>Tue, 02 Sep 2025 14:19:37 GMT</pubDate>
+		<lastBuildDate>Tue, 02 Sep 2025 14:19:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Letter - Set 17 Requests for Additional Information for the ISA Summary Portion of the TRISO-X License Application Review</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25153A363</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2025-09-02 09:10:00</pubDate>
+		</item>
 		<item>
 			<title>Triso-X, LLC - Response to Request for Additional Information Set 16 (Management Measures) for the TRISO-X License Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25240B647</link>
@@ -31,13 +38,6 @@
 			<description>Memoranda</description>
 			<author>NRC/RGN-II/DFRSS/FOB2</author>
 			<pubDate>2025-08-26 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>Cover Letter - Set 16 of Requests for Additional Information for Management Measures for the TRISO-X License Application Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25157A157</link>
-			<description>Letter, Request for Additional Information (RAI)</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2025-08-19 09:08:00</pubDate>
 		</item>
 	</channel>
 </rss>

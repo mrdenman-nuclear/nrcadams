@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 01 Sep 2025 23:16:09 GMT</pubDate>
-		<lastBuildDate>Mon, 01 Sep 2025 23:16:09 GMT</lastBuildDate>
+		<pubDate>Tue, 02 Sep 2025 14:19:45 GMT</pubDate>
+		<lastBuildDate>Tue, 02 Sep 2025 14:19:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Legal-Correspondence, Legal-Exhibit, Letter</description>
 			<author>Aerotest Operations, Inc, Nuclear Labyrinth LLC</author>
 			<pubDate>2025-08-21 09:32:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards "Defense Base Realignment & Closure Commission Archives Search Rept for Ordnance & Explosive Waste Chemical Warfare Matls Jefferson Proving Ground Vol II South of Firing Line."</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20086T465</link>
-			<description>Memoranda</description>
-			<author>ARMY, DEPT. OF, CORPS OF ENGINEERS</author>
-			<pubDate>2025-08-19 12:29:00</pubDate>
 		</item>
 	</channel>
 </rss>

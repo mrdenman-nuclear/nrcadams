@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 01 Sep 2025 23:16:03 GMT</pubDate>
-		<lastBuildDate>Mon, 01 Sep 2025 23:16:03 GMT</lastBuildDate>
+		<pubDate>Tue, 02 Sep 2025 14:19:37 GMT</pubDate>
+		<lastBuildDate>Tue, 02 Sep 2025 14:19:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2025-08-22 10:53:00</pubDate>
-		</item>
-		<item>
-			<title>08/25/2025 Meeting with Oklo to discuss pre-construction activities for the Aurora reactor to be constructed at INL</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25231A232</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-08-19 15:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
