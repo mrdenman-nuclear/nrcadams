@@ -5,25 +5,53 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 02 Sep 2025 23:16:15 GMT</pubDate>
-		<lastBuildDate>Tue, 02 Sep 2025 23:16:15 GMT</lastBuildDate>
+		<pubDate>Wed, 03 Sep 2025 14:20:36 GMT</pubDate>
+		<lastBuildDate>Wed, 03 Sep 2025 14:20:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3 - Regulatory Audit Summary Related to the Request to Revise Technical Specification Surveillance Requirement 3.8.4.5 for Shutdown Board Subsystems (EPID L-2025-LLA-0104)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25227A148</link>
+			<description>Audit Report, Letter</description>
+			<author>NRC/NRR/DORL/LPLII-2</author>
+			<pubDate>2025-09-03 08:15:00</pubDate>
+		</item>
+		<item>
+			<title>August 20 2025 ROP Baseline Inspection Program Public Meeting Summary</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25237A001</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DRO/IRAB</author>
+			<pubDate>2025-09-03 08:15:00</pubDate>
+		</item>
+		<item>
+			<title>Watts Bar Nuclear Plant, Units 1 and 2, Rebaseline of Sections 3.4 and 3.9 of the Technical Specifications (WBN-TS-24-11)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25237A197</link>
+			<description>Letter, Technical Specifications</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-09-03 08:15:00</pubDate>
+		</item>
+		<item>
+			<title>LER 2025-004-00 for Browns Ferry Nuclear Plant, Unit 2, Main Steam Relief Valves Lift Settings Outside of Technical Specifications Required Setpoints</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25237A236</link>
+			<description>Letter, Licensee Event Report (LER)</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-09-03 08:15:00</pubDate>
+		</item>
+		<item>
+			<title>NUREG-1437, Supp. 17, Second Renewal, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants Supplement 17, Second Renewal Regarding Subsequent License Renewal for Dresden Nuclear Power Station, Units 2 and 3" Final Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25233A275</link>
+			<description>Environmental Impact Statement, NUREG</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2025-09-03 08:15:00</pubDate>
+		</item>
 		<item>
 			<title>Tennessee Valley Authority Clinch River Nuclear Site Supplemental Environmental Impact Statement Appendices</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25241A173</link>
 			<description>- No Document Type Applies</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2025-09-02 11:35:00</pubDate>
-		</item>
-		<item>
-			<title>Draft Safety Evaluation for the Dominion Energy Topical Report, "Quality Assurance Program Description For Dominion Energy New Nuclear Program",  Revision 1 (EPID No: L-2025-TOP-0004)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25206A088</link>
-			<description>Safety Evaluation Report, Draft</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-09-02 09:11:00</pubDate>
 		</item>
 		<item>
 			<title>Tennessee Valley Authority Clinch River Nuclear Site Supplemental Environmental Impact Statement</title>
@@ -185,20 +213,6 @@
 			<description>Letter, Response to Request for Additional Information (RAI)</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2025-08-22 08:24:00</pubDate>
-		</item>
-		<item>
-			<title>Response to Requests for Additional Information regarding the Clinch River Nuclear Site Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25224A161</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-08-20 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal of Responses to NRC Requests for Confirmatory Information regarding the Clinch River Nuclear Site Construction Permit Application Environmental Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25224A191</link>
-			<description>Letter</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-08-20 08:06:00</pubDate>
 		</item>
 	</channel>
 </rss>

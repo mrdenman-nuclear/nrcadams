@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 02 Sep 2025 23:16:15 GMT</pubDate>
-		<lastBuildDate>Tue, 02 Sep 2025 23:16:15 GMT</lastBuildDate>
+		<pubDate>Wed, 03 Sep 2025 14:20:36 GMT</pubDate>
+		<lastBuildDate>Wed, 03 Sep 2025 14:20:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Graphics incl Charts and Tables, Schedule and Calendars</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-08-26 15:45:00</pubDate>
-		</item>
-		<item>
-			<title>09/16/2025 Oklo Meeting to Discuss Fresh Fuel Fab Licensing Project Plan Q32025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25232A251</link>
-			<description>Meeting Agenda, Meeting Notice</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-08-20 16:15:00</pubDate>
 		</item>
 	</channel>
 </rss>
