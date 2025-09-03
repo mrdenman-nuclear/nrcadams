@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 03 Sep 2025 17:16:05 GMT</pubDate>
-		<lastBuildDate>Wed, 03 Sep 2025 17:16:05 GMT</lastBuildDate>
+		<pubDate>Wed, 03 Sep 2025 18:26:40 GMT</pubDate>
+		<lastBuildDate>Wed, 03 Sep 2025 18:26:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Triso-X, LLC - Response to Request for Additional Information Set 18 (Structural) for the TRISO-X License Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25240B642</link>
+			<description>Letter</description>
+			<author>Triso-X, LLC</author>
+			<pubDate>2025-09-03 14:07:00</pubDate>
+		</item>
 		<item>
 			<title>09/04/2025 Meeting to discuss Environmental RAIs with TRISO-X (meeting closed)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25246A842</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25232A241</link>
 			<description>Legal-Affidavit, Letter, Topical Report</description>
 			<author>TerraPower, LLC</author>
-			<pubDate>2025-08-28 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>U.S. Nuclear Regulatory Commission Staff's Email to SMR (Holtec) Subject RE: NRC Staff's Clarification Regarding Assumptions A-1.1 and H-4 in RG 1.183, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25233A011</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2025-08-28 08:04:00</pubDate>
 		</item>
 	</channel>
