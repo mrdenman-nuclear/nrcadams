@@ -155,7 +155,7 @@ tibble::tibble(Project = "ACRS") |>
 
 # Undocketed Company Mentions (Experimental)
 
-Do you want to know who else is talking about a compnay outside of a docket? 
+Do you want to know who else is talking about a company outside of a docket? 
 This list of RSS files searches for a company name that is not also tagged with a
 docket number associated with that company. 
 
