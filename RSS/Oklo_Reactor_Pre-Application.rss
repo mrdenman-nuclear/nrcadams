@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 04 Sep 2025 23:18:11 GMT</pubDate>
-		<lastBuildDate>Thu, 04 Sep 2025 23:18:11 GMT</lastBuildDate>
+		<pubDate>Fri, 05 Sep 2025 14:19:31 GMT</pubDate>
+		<lastBuildDate>Fri, 05 Sep 2025 14:19:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-08-27 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>09/03/2025 Pre-application meeting between the NRC staff and Oklo to discuss the regulatory approach for several topics in their upcoming combined license application.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25234A205</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-08-22 16:08:00</pubDate>
-		</item>
-		<item>
-			<title>07/17/2025 Summary of Partially Closed Public Meeting to Discuss Preconstruction Activities for the Oklo Advanced Reactor Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25204A140</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-08-22 10:53:00</pubDate>
 		</item>
 	</channel>
 </rss>

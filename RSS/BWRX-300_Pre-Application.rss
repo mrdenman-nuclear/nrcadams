@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 04 Sep 2025 23:18:11 GMT</pubDate>
-		<lastBuildDate>Thu, 04 Sep 2025 23:18:11 GMT</lastBuildDate>
+		<pubDate>Fri, 05 Sep 2025 14:19:30 GMT</pubDate>
+		<lastBuildDate>Fri, 05 Sep 2025 14:19:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,20 +17,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DRO/IQVB</author>
 			<pubDate>2025-08-25 15:15:00</pubDate>
-		</item>
-		<item>
-			<title>GE-Hitachi Nuclear Energy Americas, LLC, GEHA/GVHA Notice of Name Change</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25212A171</link>
-			<description>Letter</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA), GE Vernova Hitachi Nuclear Energy Holdings, LLC (GVHNEH), GE Vernova NE Holding, LLC (GVNE-H), GE-Hitachi Nuclear Energy Americas, LLC, GE-Hitachi Nuclear Energy Holdings LLC, GENE Holdings, LLC</author>
-			<pubDate>2025-08-22 16:11:00</pubDate>
-		</item>
-		<item>
-			<title>GVH Extension Request for NRC Notice of Nonconformance Response</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25232A111</link>
-			<description>Letter</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2025-08-22 15:26:00</pubDate>
 		</item>
 	</channel>
 </rss>
