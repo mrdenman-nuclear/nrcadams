@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 05 Sep 2025 15:34:20 GMT</pubDate>
-		<lastBuildDate>Fri, 05 Sep 2025 15:34:20 GMT</lastBuildDate>
+		<pubDate>Fri, 05 Sep 2025 15:46:04 GMT</pubDate>
+		<lastBuildDate>Fri, 05 Sep 2025 15:46:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -54,6 +54,20 @@
 			<pubDate>2025-09-03 10:01:00</pubDate>
 		</item>
 		<item>
+			<title>Clinch River CP Acceptance Letter and DHS Consultation Request</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25237A180</link>
+			<description>Letter</description>
+			<author>NRC/NSIR/DPCP/RPPB</author>
+			<pubDate>2025-09-03 10:01:00</pubDate>
+		</item>
+		<item>
+			<title>Tennessee Valley Authority Clinch River Nuclear Site Supplemental Environmental Impact Statement Appendices</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25241A173</link>
+			<description>- No Document Type Applies</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-09-02 11:35:00</pubDate>
+		</item>
+		<item>
 			<title>Supplement #1 to the Environmental Report for the Long Mott Generating Station Construction Permit Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25241A352</link>
 			<description>Letter</description>
@@ -66,6 +80,13 @@
 			<description>Environmental Monitoring Report</description>
 			<author>Long Mott Energy, LLC</author>
 			<pubDate>2025-09-02 09:42:00</pubDate>
+		</item>
+		<item>
+			<title>Tennessee Valley Authority Clinch River Nuclear Site Supplemental Environmental Impact Statement</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25241A172</link>
+			<description>Environmental Impact Statement</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-09-02 09:11:00</pubDate>
 		</item>
 		<item>
 			<title>Letter - Set 17 Requests for Additional Information for the ISA Summary Portion of the TRISO-X License Application Review</title>
@@ -198,27 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25212A061</link>
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-08-29 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC Preapplication Meeting Materials for August 27, 2025 (Project No. 99902049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25233A297</link>
-			<description>Letter</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2025-08-29 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Affidavit Pursuant to 10 CFR 2.390 to Withhold Information from Public Disclosure (NP)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25233A300</link>
-			<description>Legal-Affidavit</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2025-08-29 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC -Preapplication Meeting Material for Steptember 4, 2025 (Project No. 99002049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25233A294</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
 			<pubDate>2025-08-29 08:04:00</pubDate>
 		</item>
 	</channel>

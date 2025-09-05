@@ -5,11 +5,46 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 05 Sep 2025 15:34:20 GMT</pubDate>
-		<lastBuildDate>Fri, 05 Sep 2025 15:34:20 GMT</lastBuildDate>
+		<pubDate>Fri, 05 Sep 2025 15:46:04 GMT</pubDate>
+		<lastBuildDate>Fri, 05 Sep 2025 15:46:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Clinch River CP Acceptance Letter and DHS Consultation Request</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25237A180</link>
+			<description>Letter</description>
+			<author>NRC/NSIR/DPCP/RPPB</author>
+			<pubDate>2025-09-03 10:01:00</pubDate>
+		</item>
+		<item>
+			<title>Tennessee Valley Authority Clinch River Nuclear Site Supplemental Environmental Impact Statement Appendices</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25241A173</link>
+			<description>- No Document Type Applies</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-09-02 11:35:00</pubDate>
+		</item>
+		<item>
+			<title>Tennessee Valley Authority Clinch River Nuclear Site Supplemental Environmental Impact Statement</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25241A172</link>
+			<description>Environmental Impact Statement</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-09-02 09:11:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Ltr to J. Loichinger, ACHP Re Notification of NHPA Sec 106 Consult for the Clinch River Construction Permit Review</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25182A123</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DREFS/ETRB1</author>
+			<pubDate>2025-08-25 10:33:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Ltr to E. Patrick McIntyre, Jr., TN SHPO Re Initiation of NHPA Sec 106 Consult for the Clinch River Construction Permit Rev</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25182A122</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DREFS/ETRB1</author>
+			<pubDate>2025-08-25 09:32:00</pubDate>
+		</item>
+	</channel>
 </rss>
