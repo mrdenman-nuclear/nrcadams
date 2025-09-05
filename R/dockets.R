@@ -33,6 +33,7 @@ docket_codex = tibble::tribble(
 
   "Natrium Pre-Application", "TerraPower", 99902100, TRUE,
   "Natrium Part 50", "TerraPower", 05000613, TRUE,
+  "USO SFR Owner Pre-Applicatoin","TerraPower", 99902150, TRUE,
   "UIUC HTGR Pre-Application", "UCUI", 99902094, TRUE,
   "eVinci Pre-Application", "Westinghouse", 99902079, TRUE,
   "IMSR Pre-Application", "Terrestrial Energy", 99902076, TRUE,
@@ -53,7 +54,7 @@ docket_codex = tibble::tribble(
   "RELLIS ESP Pre-Application", "TAMU", 99902136, FALSE,
   "Natura Pre-Application", "Natura Resources", 99902122, TRUE,
   "BWRX-300 Clinch River Pre-Application", "TVA", 99902056, FALSE,
-  "BWRX-300 Clinch River Part 50", "TVA", 05000537, FALSE
+  "BWRX-300 Clinch River Part 50", "TVA", 05000615, FALSE
 )
 
 #' Codex of Research and Test Reactor Docket Numbers
