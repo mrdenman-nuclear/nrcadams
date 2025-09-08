@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 05 Sep 2025 23:17:38 GMT</pubDate>
-		<lastBuildDate>Fri, 05 Sep 2025 23:17:38 GMT</lastBuildDate>
+		<pubDate>Mon, 08 Sep 2025 14:21:50 GMT</pubDate>
+		<lastBuildDate>Mon, 08 Sep 2025 14:21:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Graphics incl Charts and Tables, Schedule and Calendars</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-08-26 15:45:00</pubDate>
-		</item>
-		<item>
-			<title>Salem - Administered Examination Files.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23209A018</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/RGN-I/DORS/OB</author>
-			<pubDate>2025-08-25 08:05:00</pubDate>
 		</item>
 	</channel>
 </rss>
