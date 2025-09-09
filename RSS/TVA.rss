@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 09 Sep 2025 18:22:44 GMT</pubDate>
-		<lastBuildDate>Tue, 09 Sep 2025 18:22:44 GMT</lastBuildDate>
+		<pubDate>Tue, 09 Sep 2025 19:15:59 GMT</pubDate>
+		<lastBuildDate>Tue, 09 Sep 2025 19:15:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Updated Inspection Plan For Sequoyah Nuclear Plant, Units 1 and 2 - Report 05000327/2025005 And 05000328/2025005</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25232A139</link>
+			<description>Inspection Plan, Letter</description>
+			<author>NRC/RGN-II/DORS/PB5</author>
+			<pubDate>2025-09-09 14:52:00</pubDate>
+		</item>
 		<item>
 			<title>GE Vernova Hitachi Energy Americans, LLC - Reduced Hourly Rate Fees for Topical Reports Submitted by GE Vernova Hitachi Nuclear Energy Supporting Advanced Nuclear Reactor Applicants</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25251A043</link>
@@ -213,13 +220,6 @@
 			<description>Inspection Plan, Letter</description>
 			<author>NRC/RGN-II/DORS/PB5</author>
 			<pubDate>2025-08-28 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>Tennessee Valley Authority, Sequoyah Unit 1 Inservice Inspection Alternative Request Regarding Containment Spray Heat Exchanger, Meeting Slides</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25239B076</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-08-27 14:25:00</pubDate>
 		</item>
 	</channel>
 </rss>
