@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 09 Sep 2025 14:19:05 GMT</pubDate>
-		<lastBuildDate>Tue, 09 Sep 2025 14:19:05 GMT</lastBuildDate>
+		<pubDate>Tue, 09 Sep 2025 15:21:30 GMT</pubDate>
+		<lastBuildDate>Tue, 09 Sep 2025 15:21:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>GE Vernova Hitachi Energy Americans, LLC - Reduced Hourly Rate Fees for Topical Reports Submitted by GE Vernova Hitachi Nuclear Energy Supporting Advanced Nuclear Reactor Applicants</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25251A043</link>
+			<description>Letter</description>
+			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
+			<pubDate>2025-09-09 10:30:00</pubDate>
+		</item>
 		<item>
 			<title>Browns Ferry SLRA - Correction to Safety Evaluation</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25232A016</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2025-08-27 14:25:00</pubDate>
-		</item>
-		<item>
-			<title>Application to Revise Technical Specifications to Adopt TSTF-599-A, Revision 1, "Eliminate Periodic Surveillance Test of Simultaneous Start of Redundant Diesel Generators" (SQN-TS-25-01 and WBN-TS-25-03)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25231A300</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-08-27 08:10:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 09 Sep 2025 14:18:57 GMT</pubDate>
-		<lastBuildDate>Tue, 09 Sep 2025 14:18:57 GMT</lastBuildDate>
+		<pubDate>Tue, 09 Sep 2025 15:21:22 GMT</pubDate>
+		<lastBuildDate>Tue, 09 Sep 2025 15:21:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>GE Vernova Hitachi Energy Americans, LLC - Reduced Hourly Rate Fees for Topical Reports Submitted by GE Vernova Hitachi Nuclear Energy Supporting Advanced Nuclear Reactor Applicants</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25251A043</link>
+			<description>Letter</description>
+			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
+			<pubDate>2025-09-09 10:30:00</pubDate>
+		</item>
 		<item>
 			<title>Memorandum - Meeting Summary Of June 25, 2025 To Provide Clarity On Draft Criticality Requests For Additional Information For the Triso-X, LLC, License Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25206A415</link>
@@ -213,13 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2025-08-29 12:26:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Form 897: Request for Withholding Proprietary Information from Public Disclosure - TerraPower, LLC NAT-9392-A, Radiological Source Term Methodology, Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25217A478</link>
-			<description>Proprietary Information Review, Topical Report</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-08-29 08:05:00</pubDate>
 		</item>
 	</channel>
 </rss>
