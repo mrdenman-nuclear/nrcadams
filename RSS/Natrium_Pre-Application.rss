@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 08 Sep 2025 23:18:42 GMT</pubDate>
-		<lastBuildDate>Mon, 08 Sep 2025 23:18:42 GMT</lastBuildDate>
+		<pubDate>Tue, 09 Sep 2025 14:18:56 GMT</pubDate>
+		<lastBuildDate>Tue, 09 Sep 2025 14:18:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -108,20 +108,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2025-08-29 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>Terrapower, LLC. - Final Safety Evaluation of Topical Report Nat-9394, "Design Basis Accident Methodology for Events with Radiological Release," Revision 0 (EPID L-2024-TOP-0009)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25189A085</link>
-			<description>Letter</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-08-26 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>NP Enclosure Terrapower, LLC. - Final Safety Evaluation of Topical Report Nat-9394, "Design Basis Accident Methodology for Events with Radiological Release," Revision 0 (EPID L-2024-TOP-0009)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25212A054</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-08-26 08:10:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 08 Sep 2025 23:18:48 GMT</pubDate>
-		<lastBuildDate>Mon, 08 Sep 2025 23:18:48 GMT</lastBuildDate>
+		<pubDate>Tue, 09 Sep 2025 14:19:05 GMT</pubDate>
+		<lastBuildDate>Tue, 09 Sep 2025 14:19:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,13 +52,6 @@
 			<description>Technical Paper</description>
 			<author>Southern Co Services</author>
 			<pubDate>2025-08-27 09:32:00</pubDate>
-		</item>
-		<item>
-			<title>Subcommittee Structure and Listing - Description for the Advisory Committee on Reactor Safeguards</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24199A157</link>
-			<description>Graphics incl Charts and Tables, Schedule and Calendars</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-08-26 15:45:00</pubDate>
 		</item>
 	</channel>
 </rss>

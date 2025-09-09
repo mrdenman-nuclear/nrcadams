@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 08 Sep 2025 23:18:50 GMT</pubDate>
-		<lastBuildDate>Mon, 08 Sep 2025 23:18:50 GMT</lastBuildDate>
+		<pubDate>Tue, 09 Sep 2025 14:19:07 GMT</pubDate>
+		<lastBuildDate>Tue, 09 Sep 2025 14:19:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,20 +38,6 @@
 			<description>ACQ-Contract</description>
 			<author>NRC/ADM/AMD</author>
 			<pubDate>2025-09-03 11:58:00</pubDate>
-		</item>
-		<item>
-			<title>LER 2025-003-01 for Quad Cities Nuclear Power Station, Unit 1, Main Steam Isolation Valves Local Leak Rate Test Exceed Technical Specification Limits</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25241A295</link>
-			<description>Letter, Licensee Event Report (LER)</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2025-09-02 13:23:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Generating Station, Environmental Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25241A353</link>
-			<description>Environmental Monitoring Report</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2025-09-02 09:42:00</pubDate>
 		</item>
 	</channel>
 </rss>
