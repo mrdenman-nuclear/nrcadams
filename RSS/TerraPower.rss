@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 09 Sep 2025 23:16:17 GMT</pubDate>
-		<lastBuildDate>Tue, 09 Sep 2025 23:16:17 GMT</lastBuildDate>
+		<pubDate>Wed, 10 Sep 2025 14:18:51 GMT</pubDate>
+		<lastBuildDate>Wed, 10 Sep 2025 14:18:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Slides for DOE/NRC Collaboration for Criticality Safety Support for Commercial-Scale HALEU Fuel Cycles and Transportation (DNCSH) Call #2 Workshop</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25252A200</link>
+			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Lawrence Livermore National Lab (LLNL), Los Alamos National Lab (LANL), Oak Ridge National Lab (ORNL)</author>
+			<pubDate>2025-09-10 08:15:00</pubDate>
+		</item>
 		<item>
 			<title>Summary Report of the 727th Meeting of the ACRS for July 9 Through 10 2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25232A132</link>
@@ -45,13 +52,6 @@
 			<description>Report, Miscellaneous</description>
 			<author>NRC/NRR/DANU, NRC/RES/DE</author>
 			<pubDate>2025-08-28 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>Technology Inclusive Management of Safety Case (TIMaSC) White Paper, SC-21256-100, Rev. 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25239A009</link>
-			<description>Technical Paper</description>
-			<author>Southern Co Services</author>
-			<pubDate>2025-08-27 09:32:00</pubDate>
 		</item>
 	</channel>
 </rss>

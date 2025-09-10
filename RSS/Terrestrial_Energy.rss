@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 09 Sep 2025 23:16:17 GMT</pubDate>
-		<lastBuildDate>Tue, 09 Sep 2025 23:16:17 GMT</lastBuildDate>
+		<pubDate>Wed, 10 Sep 2025 14:18:51 GMT</pubDate>
+		<lastBuildDate>Wed, 10 Sep 2025 14:18:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -115,13 +115,6 @@
 			<description>Environmental Impact Statement, NUREG</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2025-08-28 09:06:00</pubDate>
-		</item>
-		<item>
-			<title>Comanche Peak, Unit 1, Current Facility Operating License NPF-87, Tech Specs, Revised 08/27/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053180521</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-08-27 14:14:00</pubDate>
 		</item>
 	</channel>
 </rss>
