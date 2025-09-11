@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 10 Sep 2025 23:16:21 GMT</pubDate>
-		<lastBuildDate>Wed, 10 Sep 2025 23:16:21 GMT</lastBuildDate>
+		<pubDate>Thu, 11 Sep 2025 14:19:34 GMT</pubDate>
+		<lastBuildDate>Thu, 11 Sep 2025 14:19:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,27 +24,6 @@
 			<description>Inspection Report, Letter</description>
 			<author>NRC/NRR/DANU/UNPO</author>
 			<pubDate>2025-09-04 08:13:00</pubDate>
-		</item>
-		<item>
-			<title>DRAFT - License Amendment Request to Revise the Technical Specifications for the Addition of Ancillary Exhaust Systems</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25240B260</link>
-			<description>Letter</description>
-			<author>Univ of Missouri</author>
-			<pubDate>2025-08-28 11:37:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Result Letter No. 50-186/OL-25-02, University of Missouri - Columbia</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25160A275</link>
-			<description>Letter, License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2025-08-28 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Report Letter No. 50-186/OL-25-02, University of Missouri - Columbia</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25160A274</link>
-			<description>Letter, License-Operator Examination Report (Non-Power Reactors Only), License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2025-08-28 08:04:00</pubDate>
 		</item>
 	</channel>
 </rss>

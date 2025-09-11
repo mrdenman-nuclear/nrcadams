@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 10 Sep 2025 23:16:27 GMT</pubDate>
-		<lastBuildDate>Wed, 10 Sep 2025 23:16:27 GMT</lastBuildDate>
+		<pubDate>Thu, 11 Sep 2025 14:19:40 GMT</pubDate>
+		<lastBuildDate>Thu, 11 Sep 2025 14:19:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -122,13 +122,6 @@
 			<description>License-Combined License (COL) (New/Renewal/Amendments) DKT 52</description>
 			<author>NRC/NRO/DNRL/LB4</author>
 			<pubDate>2025-08-29 09:19:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-1437, Supp. 21, Second Renewal, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants Supplement 21, Second Renewal Regarding Subsequent License Renewal of Browns Ferry Nuclear Plant, Units 1, 2, and 3" Final Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25230A077</link>
-			<description>Environmental Impact Statement, NUREG</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-08-28 09:06:00</pubDate>
 		</item>
 	</channel>
 </rss>

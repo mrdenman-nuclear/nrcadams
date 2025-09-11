@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 10 Sep 2025 23:16:22 GMT</pubDate>
-		<lastBuildDate>Wed, 10 Sep 2025 23:16:22 GMT</lastBuildDate>
+		<pubDate>Thu, 11 Sep 2025 14:19:35 GMT</pubDate>
+		<lastBuildDate>Thu, 11 Sep 2025 14:19:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,41 +17,6 @@
 			<description>ACRS Summary Report</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-09-08 16:31:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - WCAP-18850 FSLOCA - ACRS SC - September 16, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25240B540</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-08-28 15:25:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of Advisory Committee on Reactor Safeguards - BWRX-300 Design-Centered & Clinch River Subcommittee Meeting, August 20, 2025, Pages 1-188 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25238A063</link>
-			<description>Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-08-28 11:37:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of Advisory Committee on Reactor Safeguards - Plant Operations - Palisades Subcommittee Meeting, August 21, 2025, Pages 1-266 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25240B466</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-08-28 11:37:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG/KM-0021, "Development of Safety Goals and Implementation of the Safety Goal Policy: A Historical Perspective and the Role of the Advisory Committee on Reactor Safeguards Office"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25238A203</link>
-			<description>NUREG</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-08-28 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG/KM-0020, "Severe Accident Regulatory Decisions: A Historical Perspective and the Role of the Advisory Committee on Reactor Safeguards"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25238A202</link>
-			<description>NUREG</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-08-28 08:04:00</pubDate>
 		</item>
 	</channel>
 </rss>

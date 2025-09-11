@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 10 Sep 2025 23:16:28 GMT</pubDate>
-		<lastBuildDate>Wed, 10 Sep 2025 23:16:28 GMT</lastBuildDate>
+		<pubDate>Thu, 11 Sep 2025 14:19:40 GMT</pubDate>
+		<lastBuildDate>Thu, 11 Sep 2025 14:19:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Letter to Dr. Ian Mitchell, State of New Jersey, providing a copy of the NRC's Annual Report of Federal Advisory Committees for CY 1978.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25246B708</link>
+			<description>Annual Report, Letter</description>
+			<author>NRC/SECY</author>
+			<pubDate>2025-09-11 08:09:00</pubDate>
+		</item>
 		<item>
 			<title>Vogtle, Unit 2, Current Facility Operating License NPF-81, Revised 09/10/2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052840236</link>
@@ -164,62 +171,6 @@
 			<description>Letter</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2025-08-29 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>SECY-25-0075: Weekly Information Report Week Ending August 22, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25240B530</link>
-			<description>Commission SECY Paper</description>
-			<author>NRC/EDO/AO</author>
-			<pubDate>2025-08-28 16:14:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of Advisory Committee on Reactor Safeguards - BWRX-300 Design-Centered & Clinch River Subcommittee Meeting, August 20, 2025, Pages 1-188 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25238A063</link>
-			<description>Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-08-28 11:37:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of Advisory Committee on Reactor Safeguards - Plant Operations - Palisades Subcommittee Meeting, August 21, 2025, Pages 1-266 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25240B466</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-08-28 11:37:00</pubDate>
-		</item>
-		<item>
-			<title>Global Nuclear Fuel - Americas, LLC - Enclosure 2: Presentation for Pre-Submittal Meeting (Non-Proprietary)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25238A102</link>
-			<description>Slides and Viewgraphs</description>
-			<author>Global Nuclear Fuel - Americas, LLC</author>
-			<pubDate>2025-08-28 10:29:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-1437, Supp. 21, Second Renewal, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants Supplement 21, Second Renewal Regarding Subsequent License Renewal of Browns Ferry Nuclear Plant, Units 1, 2, and 3" Final Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25230A077</link>
-			<description>Environmental Impact Statement, NUREG</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-08-28 09:06:00</pubDate>
-		</item>
-		<item>
-			<title>Watts Bar Nuclear Plant, Units 1 and 2 - Supplement to License Amendment Request to Revise Technical Specifications to Adopt Risk-Informed Completion Times TSTF-505, Revision 2, "Provide Risk-informed Extended Completion Times - RITSTF Initiative 4b"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25232A156</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-08-28 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>Updated Inspection Plan for Watts Bar Nuclear Plant Report 05000390/2025005 and 05000391/2025005 Final</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25232A110</link>
-			<description>Inspection Plan, Letter</description>
-			<author>NRC/RGN-II/DORS/PB5</author>
-			<pubDate>2025-08-28 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry Nuclear Plant, Report 05000259/2025005 and 05000260/2025005 and 05000296/2025005 Final - Updated Inspection Plan</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25232A134</link>
-			<description>Inspection Plan, Letter</description>
-			<author>NRC/RGN-II/DORS/PB5</author>
-			<pubDate>2025-08-28 08:04:00</pubDate>
 		</item>
 	</channel>
 </rss>
