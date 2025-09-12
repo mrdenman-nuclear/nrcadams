@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 11 Sep 2025 23:17:44 GMT</pubDate>
-		<lastBuildDate>Thu, 11 Sep 2025 23:17:44 GMT</lastBuildDate>
+		<pubDate>Fri, 12 Sep 2025 14:18:09 GMT</pubDate>
+		<lastBuildDate>Fri, 12 Sep 2025 14:18:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,27 +45,6 @@
 			<description>Audit Plan, Memoranda</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2025-09-02 09:10:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC Preapplication Meeting Materials for August 27, 2025 (Project No. 99902049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25233A297</link>
-			<description>Letter</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2025-08-29 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Affidavit Pursuant to 10 CFR 2.390 to Withhold Information from Public Disclosure (NP)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25233A300</link>
-			<description>Legal-Affidavit</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2025-08-29 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC -Preapplication Meeting Material for Steptember 4, 2025 (Project No. 99002049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25233A294</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
-			<pubDate>2025-08-29 08:04:00</pubDate>
 		</item>
 	</channel>
 </rss>

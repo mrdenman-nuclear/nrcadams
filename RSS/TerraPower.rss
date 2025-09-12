@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 11 Sep 2025 23:17:52 GMT</pubDate>
-		<lastBuildDate>Thu, 11 Sep 2025 23:17:52 GMT</lastBuildDate>
+		<pubDate>Fri, 12 Sep 2025 14:18:13 GMT</pubDate>
+		<lastBuildDate>Fri, 12 Sep 2025 14:18:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Transmittal - Verification for Publication of TerraPower Topical Report, NAT-9391-A, Revision 0, "Radiological Release Consequence Methodology" (EPID L-2023-TOP-0017)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25237A272</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-09-12 08:29:00</pubDate>
+		</item>
+		<item>
+			<title>2025-08-26 ARCOP Public Meeting Summary</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25246C347</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UARP</author>
+			<pubDate>2025-09-12 08:28:00</pubDate>
+		</item>
 		<item>
 			<title>Summary of August 28 2025 Advanced Reactor Stakeholder Meeting</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25253A270</link>
@@ -45,13 +59,6 @@
 			<description>Letter</description>
 			<author>Duke Energy Carolinas, LLC</author>
 			<pubDate>2025-09-04 08:12:00</pubDate>
-		</item>
-		<item>
-			<title>June 4, 2025, Summary of Meeting Between the Nuclear Energy Institute Representatives and the U.S. Nuclear Regulatory Commission Staff on Emergency Preparedness Program in Response to Nuclear Energy Institute’s Input on Recent Executive Orders</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25196A170</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DORL/LLPB</author>
-			<pubDate>2025-08-29 08:04:00</pubDate>
 		</item>
 	</channel>
 </rss>

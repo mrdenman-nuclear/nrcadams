@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 11 Sep 2025 23:17:52 GMT</pubDate>
-		<lastBuildDate>Thu, 11 Sep 2025 23:17:52 GMT</lastBuildDate>
+		<pubDate>Fri, 12 Sep 2025 14:18:13 GMT</pubDate>
+		<lastBuildDate>Fri, 12 Sep 2025 14:18:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Acceptance Review Results for Browns Ferry Nuclear Plant, Units 1, 2, and 3, Request to Revise TS 3.3.2.1 re Rod Worth Minimizer (EPID L-2025-LLA-0121)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25253A312</link>
+			<description>Acceptance Review Letter, E-Mail</description>
+			<author>NRC/NRR/DORL/LPL2-2</author>
+			<pubDate>2025-09-12 08:29:00</pubDate>
+		</item>
+		<item>
+			<title>2025-08-26 ARCOP Public Meeting Summary</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25246C347</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UARP</author>
+			<pubDate>2025-09-12 08:28:00</pubDate>
+		</item>
 		<item>
 			<title>Letter to Dr. Ian Mitchell, State of New Jersey, providing a copy of the NRC's Annual Report of Federal Advisory Committees for CY 1978.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25246B708</link>
@@ -157,20 +171,6 @@
 			<description>Safety Evaluation Report</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-09-02 09:09:00</pubDate>
-		</item>
-		<item>
-			<title>FRN: Tennessee Valley Authority; Browns Ferry Nuclear Plant, Units 1, 2, and 3, Final Environmental Impact Statement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25227A047</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NMSS/DREFS/EPMB1</author>
-			<pubDate>2025-08-29 10:08:00</pubDate>
-		</item>
-		<item>
-			<title>Watts Bar Nuclear Plant, Unit 2 - Request for Exemption from Requirements of 10 CFR 54.17, "Filing of Application"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25233A135</link>
-			<description>Letter</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-08-29 08:04:00</pubDate>
 		</item>
 	</channel>
 </rss>
