@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 15 Sep 2025 20:18:39 GMT</pubDate>
-		<lastBuildDate>Mon, 15 Sep 2025 20:18:39 GMT</lastBuildDate>
+		<pubDate>Mon, 15 Sep 2025 21:18:04 GMT</pubDate>
+		<lastBuildDate>Mon, 15 Sep 2025 21:18:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>09/23/2025 Follow-up Closed Meeting with SMR (Holtec) on LWA PSAR Chapter 2 Contents for SMR-300</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25258A243</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-09-15 16:29:00</pubDate>
+		</item>
 		<item>
 			<title>09/18/2025 Call with TRISO-X to Discuss Design Margin Available for Meeting the Baseline Design Criteria</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25258A144</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-09-04 10:02:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC - Submittal of Regulatory Engagement Plan Entitled "NuScale Regulatory Acceleration Regulatory Engagement Plan," PL-186704, Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25238A096</link>
-			<description>Letter</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2025-09-04 08:12:00</pubDate>
 		</item>
 	</channel>
 </rss>
