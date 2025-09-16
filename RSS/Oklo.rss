@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 15 Sep 2025 23:17:47 GMT</pubDate>
-		<lastBuildDate>Mon, 15 Sep 2025 23:17:47 GMT</lastBuildDate>
+		<pubDate>Tue, 16 Sep 2025 14:22:58 GMT</pubDate>
+		<lastBuildDate>Tue, 16 Sep 2025 14:22:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,20 +38,6 @@
 			<description>Congressional Correspondence, Report, Technical</description>
 			<author>NRC/Chairman</author>
 			<pubDate>2025-09-03 11:32:00</pubDate>
-		</item>
-		<item>
-			<title>Cover Letter - U.S Nuclear Regulatory Commission Staff's Feedback on the Oklo Inc. Follow-up Question Related to Waste Management</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25210A561</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2025-09-02 09:09:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - NRC Staff's Feedback on the Oklo Inc. Follow-Up Question Related to Waste Management</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25210A584</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2025-09-02 09:09:00</pubDate>
 		</item>
 	</channel>
 </rss>
