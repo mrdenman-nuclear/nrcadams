@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 16 Sep 2025 23:15:04 GMT</pubDate>
-		<lastBuildDate>Tue, 16 Sep 2025 23:15:04 GMT</lastBuildDate>
+		<pubDate>Wed, 17 Sep 2025 14:19:32 GMT</pubDate>
+		<lastBuildDate>Wed, 17 Sep 2025 14:19:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Summary of the June 26, 2025, Public Meeting with SMR, LLC (A Holtec International Company) to Discuss SMR-300 Combustible Gas Control Considerations for the In-Containment Spent Fuel Pool</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25223A160</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2025-09-17 07:51:00</pubDate>
+		</item>
 		<item>
 			<title>09/23/2025 Follow-up Closed Meeting with SMR (Holtec) on LWA PSAR Chapter 2 Contents for SMR-300</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25258A243</link>
@@ -52,13 +59,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-09-05 15:44:00</pubDate>
-		</item>
-		<item>
-			<title>09/09/2025 Closed Meeting with SMR (Holtec) to Discuss an Approach to Evaluation Model Development and Assessment Process (EMDAP) and Analysis Methods for SMR-300 Preliminary Safety Analysis Report (PSAR) Chapter 15</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25246A845</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-09-03 12:10:00</pubDate>
 		</item>
 	</channel>
 </rss>

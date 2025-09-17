@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 16 Sep 2025 23:15:10 GMT</pubDate>
-		<lastBuildDate>Tue, 16 Sep 2025 23:15:10 GMT</lastBuildDate>
+		<pubDate>Wed, 17 Sep 2025 14:19:40 GMT</pubDate>
+		<lastBuildDate>Wed, 17 Sep 2025 14:19:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -143,20 +143,6 @@
 			<description>Audit Plan</description>
 			<author>NRC/NMSS/DREFS/EPMB3</author>
 			<pubDate>2025-09-04 08:13:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - Regulatory Issues for Nuclear Facilities at Brownfield Sites</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25138A005</link>
-			<description>Congressional Correspondence, Report, Technical</description>
-			<author>NRC/Chairman</author>
-			<pubDate>2025-09-03 11:32:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-1437, Supp. 17, Second Renewal, "Generic Environmental Impact Statement for License Renewal of Nuclear Plants Supplement 17, Second Renewal Regarding Subsequent License Renewal for Dresden Nuclear Power Station, Units 2 and 3" Final Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25233A275</link>
-			<description>Environmental Impact Statement, NUREG</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-09-03 08:15:00</pubDate>
 		</item>
 	</channel>
 </rss>
