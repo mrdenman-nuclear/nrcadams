@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 17 Sep 2025 23:18:16 GMT</pubDate>
-		<lastBuildDate>Wed, 17 Sep 2025 23:18:16 GMT</lastBuildDate>
+		<pubDate>Thu, 18 Sep 2025 14:21:17 GMT</pubDate>
+		<lastBuildDate>Thu, 18 Sep 2025 14:21:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>09-11-25 National Energy Emergency - Enclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25198A392</link>
+			<description>Status Report</description>
+			<author>NRC/Chairman</author>
+			<pubDate>2025-09-18 08:31:00</pubDate>
+		</item>
 		<item>
 			<title>September 2025 Advisory Committee On Reactor Safeguards (ACRS) Full Committee Meeting Topical Reports</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25254A240</link>
@@ -66,20 +73,6 @@
 			<description>Legal-Pleading</description>
 			<author>NRC/OGC</author>
 			<pubDate>2025-09-08 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>TLR-RES-DE-REB-2025-15, Chemical Process Safety at TRISO-Based, Metal-Based, and Salt-Based Fuel Fabrication Facilities Technical Assessment and Guidance Assessment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25230A132</link>
-			<description>Report, Technical</description>
-			<author>NRC/RES/DE, Pacific Northwest National Lab</author>
-			<pubDate>2025-09-04 08:13:00</pubDate>
-		</item>
-		<item>
-			<title>August 22 2025 New Mexico IMPEP Questionnaire Response</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25238A025</link>
-			<description>Integrated Material Performance Evaluation Program (IMPEP)-Agreement States</description>
-			<author>State of NM, Environment Dept</author>
-			<pubDate>2025-09-04 08:12:00</pubDate>
 		</item>
 	</channel>
 </rss>

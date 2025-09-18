@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 17 Sep 2025 23:18:16 GMT</pubDate>
-		<lastBuildDate>Wed, 17 Sep 2025 23:18:16 GMT</lastBuildDate>
+		<pubDate>Thu, 18 Sep 2025 14:21:17 GMT</pubDate>
+		<lastBuildDate>Thu, 18 Sep 2025 14:21:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>09-11-25 National Energy Emergency - Enclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25198A392</link>
+			<description>Status Report</description>
+			<author>NRC/Chairman</author>
+			<pubDate>2025-09-18 08:31:00</pubDate>
+		</item>
 		<item>
 			<title>Transmittal - Verification for Publication of TerraPower Topical Report, NAT-9391-A, Revision 0, "Radiological Release Consequence Methodology" (EPID L-2023-TOP-0017)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25237A272</link>
@@ -45,20 +52,6 @@
 			<description>ACRS Summary Report</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-09-08 16:31:00</pubDate>
-		</item>
-		<item>
-			<title>TLR-RES-DE-REB-2025-15, Chemical Process Safety at TRISO-Based, Metal-Based, and Salt-Based Fuel Fabrication Facilities Technical Assessment and Guidance Assessment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25230A132</link>
-			<description>Report, Technical</description>
-			<author>NRC/RES/DE, Pacific Northwest National Lab</author>
-			<pubDate>2025-09-04 08:13:00</pubDate>
-		</item>
-		<item>
-			<title>Regulatory Engagement Plan Related to the Belews Creek Site</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25238A036</link>
-			<description>Letter</description>
-			<author>Duke Energy Carolinas, LLC</author>
-			<pubDate>2025-09-04 08:12:00</pubDate>
 		</item>
 	</channel>
 </rss>
