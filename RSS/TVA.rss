@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 18 Sep 2025 23:16:57 GMT</pubDate>
-		<lastBuildDate>Thu, 18 Sep 2025 23:16:57 GMT</lastBuildDate>
+		<pubDate>Fri, 19 Sep 2025 14:19:05 GMT</pubDate>
+		<lastBuildDate>Fri, 19 Sep 2025 14:19:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>LER 2025-002-00 for Watts Bar Nuclear Plant, Unit 2, Automatic Reactor Trip due to a Main Turbine Trip</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25254A011</link>
+			<description>Letter, Licensee Event Report (LER)</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-09-19 08:05:00</pubDate>
+		</item>
+		<item>
+			<title>Sequoyah Nuclear Plant, Units 1 and 2 - Authorization of Alternative Request RV-05 for Thermal Relief Valves (EPID L-2025-LLR-0061)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25248A221</link>
+			<description>Code Relief or Alternative, Letter, Safety Evaluation</description>
+			<author>NRC/NRR/DORL/LPLII-2</author>
+			<pubDate>2025-09-19 08:05:00</pubDate>
+		</item>
 		<item>
 			<title>Waterford, Unit 3, Current Facility Operating License NPF-38, Tech Specs, Revised 09/18/2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053130318</link>
@@ -143,13 +157,6 @@
 			<description>Exemption from NRC Requirements, Letter</description>
 			<author>Entergy Operations, Inc</author>
 			<pubDate>2025-09-08 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>August 20, 2025, Summary of Public Teleconference with Tennessee Valley Authority to Discuss a Proposed License Amendment Request Regarding Revision to Technical Specification 5.5.3 for Use of Potassium Hydroxide (EPID L-2025-LRM-0106)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25239A046</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DORL/LPL2-2</author>
-			<pubDate>2025-09-05 08:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
