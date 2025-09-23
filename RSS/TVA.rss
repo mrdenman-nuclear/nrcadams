@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 19 Sep 2025 23:16:39 GMT</pubDate>
-		<lastBuildDate>Fri, 19 Sep 2025 23:16:39 GMT</lastBuildDate>
+		<pubDate>Tue, 23 Sep 2025 14:20:33 GMT</pubDate>
+		<lastBuildDate>Tue, 23 Sep 2025 14:20:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Slides to support 9/25/2025 Pre-submittal Meeting with APS to Discuss a Planned LAR Technical Specification 5.3.1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25265A131</link>
+			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Arizona Public Service Co</author>
+			<pubDate>2025-09-22 15:32:00</pubDate>
+		</item>
 		<item>
 			<title>LER 2025-002-00 for Watts Bar Nuclear Plant, Unit 2, Automatic Reactor Trip due to a Main Turbine Trip</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25254A011</link>
@@ -115,48 +122,6 @@
 			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-09-10 12:03:00</pubDate>
-		</item>
-		<item>
-			<title>Updated Inspection Plan For Sequoyah Nuclear Plant, Units 1 and 2 - Report 05000327/2025005 And 05000328/2025005</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25232A139</link>
-			<description>Inspection Plan, Letter</description>
-			<author>NRC/RGN-II/DORS/PB5</author>
-			<pubDate>2025-09-09 14:52:00</pubDate>
-		</item>
-		<item>
-			<title>GE Vernova Hitachi Energy Americans, LLC - Reduced Hourly Rate Fees for Topical Reports Submitted by GE Vernova Hitachi Nuclear Energy Supporting Advanced Nuclear Reactor Applicants</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25251A043</link>
-			<description>Letter</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2025-09-09 10:30:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry SLRA - Correction to Safety Evaluation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25232A016</link>
-			<description>Letter, Safety Evaluation</description>
-			<author>NRC/NRR/DNRL/NLRP</author>
-			<pubDate>2025-09-08 15:46:00</pubDate>
-		</item>
-		<item>
-			<title>Edwin I. Hatch, Unit 2, Current Facility Operating License NPF-5, Tech Specs, Revised 09/08/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052930177</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-09-08 10:05:00</pubDate>
-		</item>
-		<item>
-			<title>Email to Shawna Hughes re: Request for 30-day extension to WBN U1 Steam Generator Report RAIs</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25240B477</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DORL/LPLII-2</author>
-			<pubDate>2025-09-08 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Grand Gulf ESP Site - Request for Exemption from 10 CFR 52.29(a) and Renewal of Early Site Permit ESP-002</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25240B489</link>
-			<description>Exemption from NRC Requirements, Letter</description>
-			<author>Entergy Operations, Inc</author>
-			<pubDate>2025-09-08 08:28:00</pubDate>
 		</item>
 	</channel>
 </rss>

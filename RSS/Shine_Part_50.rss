@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 19 Sep 2025 23:16:32 GMT</pubDate>
-		<lastBuildDate>Fri, 19 Sep 2025 23:16:32 GMT</lastBuildDate>
+		<pubDate>Tue, 23 Sep 2025 14:20:30 GMT</pubDate>
+		<lastBuildDate>Tue, 23 Sep 2025 14:20:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>2025/09/12 NRR E-mail Capture - SHINE Amendment Request to Construction Permit No. CPMIF-001 (L-2025-LLA-0133)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25258A232</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2025-09-22 08:08:00</pubDate>
+		</item>
+	</channel>
 </rss>

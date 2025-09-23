@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 19 Sep 2025 23:16:32 GMT</pubDate>
-		<lastBuildDate>Fri, 19 Sep 2025 23:16:32 GMT</lastBuildDate>
+		<pubDate>Tue, 23 Sep 2025 14:20:30 GMT</pubDate>
+		<lastBuildDate>Tue, 23 Sep 2025 14:20:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,20 +38,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2025-09-11 14:02:00</pubDate>
-		</item>
-		<item>
-			<title>Memorandum - Meeting Summary Of June 25, 2025 To Provide Clarity On Draft Criticality Requests For Additional Information For the Triso-X, LLC, License Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25206A415</link>
-			<description>Memoranda</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2025-09-09 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>TRISO-X FFF EIS Updated IPaC 20250501</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25251A152</link>
-			<description>Environmental Monitoring Report</description>
-			<author>US Dept of Interior, Fish and Wildlife Service</author>
-			<pubDate>2025-09-08 15:46:00</pubDate>
 		</item>
 	</channel>
 </rss>

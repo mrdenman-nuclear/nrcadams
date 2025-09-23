@@ -5,18 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 19 Sep 2025 23:16:39 GMT</pubDate>
-		<lastBuildDate>Fri, 19 Sep 2025 23:16:39 GMT</lastBuildDate>
+		<pubDate>Tue, 23 Sep 2025 14:20:33 GMT</pubDate>
+		<lastBuildDate>Tue, 23 Sep 2025 14:20:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
+			<title>Summary of Aug 9th Public Meeting with NEI on Metrics for a Performance-Based EP Program</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24039A002</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DORL/LLPB</author>
+			<pubDate>2025-09-22 15:32:00</pubDate>
+		</item>
+		<item>
 			<title>National Organization of Test, Research and Training Reactors Quarterly Meeting With NRC Summary August 12 2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25259A161</link>
 			<description>Meeting Summary, Organization Chart</description>
 			<author>NRC/NRR</author>
-			<pubDate>2025-09-19 16:18:00</pubDate>
+			<pubDate>2025-09-22 14:20:00</pubDate>
 		</item>
 		<item>
 			<title>Summary of the August 27, 2025, Public Meeting with X-Energy LLC to Discuss the Future Submittal of their White Paper on the XE-100 as a Self-Reliant Mitigation Facility</title>
@@ -80,20 +87,6 @@
 			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Lawrence Livermore National Lab (LLNL), Los Alamos National Lab (LANL), Oak Ridge National Lab (ORNL)</author>
 			<pubDate>2025-09-10 08:15:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Energy, LLC's Answer to San Antonio Bay Estuarine Waterkeeper Hearing Request and Petition to Intervene</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25248A335</link>
-			<description>Legal-Pleading</description>
-			<author>Long Mott Energy, LLC, Morgan, Lewis and Bockius, LLP</author>
-			<pubDate>2025-09-08 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Staff's Answer to San Antonio Bay Estuarine Waterkeeper Petition to Intervene and Request for Hearing</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25249A000</link>
-			<description>Legal-Pleading</description>
-			<author>NRC/OGC</author>
-			<pubDate>2025-09-08 08:29:00</pubDate>
 		</item>
 	</channel>
 </rss>

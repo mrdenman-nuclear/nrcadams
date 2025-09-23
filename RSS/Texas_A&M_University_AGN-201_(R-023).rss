@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 19 Sep 2025 23:16:33 GMT</pubDate>
-		<lastBuildDate>Fri, 19 Sep 2025 23:16:33 GMT</lastBuildDate>
+		<pubDate>Tue, 23 Sep 2025 14:20:31 GMT</pubDate>
+		<lastBuildDate>Tue, 23 Sep 2025 14:20:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Texas A&M Engineering & Science Center - License Amendment Request for Facility Operating License No. R-23 - Revision to Technical Specification 6.4.3 Audit Frequency</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25240B526</link>
-			<description>Letter, Technical Specification, Amendment</description>
-			<author>Texas AandM Univ</author>
-			<pubDate>2025-09-08 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Texas A&M Engineering Experiment Station - License Amendment Request for Facility Operating License No. R-23 (Docket No. 50-59) - Revision to TS 3.5 to Remove the Reactor Console, Control Rod Drives, and Associated Electronics from Storage</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25240B609</link>
-			<description>Letter</description>
-			<author>Texas AandM Univ</author>
-			<pubDate>2025-09-08 08:28:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 19 Sep 2025 23:16:33 GMT</pubDate>
-		<lastBuildDate>Fri, 19 Sep 2025 23:16:33 GMT</lastBuildDate>
+		<pubDate>Tue, 23 Sep 2025 14:20:31 GMT</pubDate>
+		<lastBuildDate>Tue, 23 Sep 2025 14:20:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Report On The Safety Aspects Of The Reauthorization Of Power Operations For The Palisades Nuclear Plant</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25253A463</link>
+			<description>Committee Letter Report, Letter</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2025-09-23 09:31:00</pubDate>
+		</item>
+		<item>
+			<title>Minutes of the 727th Meeting of the Advisory Committee on Reactor Safeguards (ACRS) for July 9 Through 10, 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25261A293</link>
+			<description>Meeting Minutes, Memoranda</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2025-09-22 15:32:00</pubDate>
+		</item>
+		<item>
+			<title>729th Full Committee Meeting of the Advisory Committee on Reactor Safeguards October 10, 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25252A003</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/ACRS, NRC/SECY</author>
+			<pubDate>2025-09-22 08:07:00</pubDate>
+		</item>
 		<item>
 			<title>Transcript of the Advisory Committee on Reactor Safeguards 728th Full Committee Meeting, September 3, 2025 Pages 1-157 (Open)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25261A269</link>
@@ -45,13 +66,6 @@
 			<description>Meeting Agenda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-09-11 16:14:00</pubDate>
-		</item>
-		<item>
-			<title>Summary Report of the 727th Meeting of the ACRS for July 9 Through 10 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25232A132</link>
-			<description>ACRS Summary Report</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-09-08 16:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

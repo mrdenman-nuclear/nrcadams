@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 19 Sep 2025 23:16:39 GMT</pubDate>
-		<lastBuildDate>Fri, 19 Sep 2025 23:16:39 GMT</lastBuildDate>
+		<pubDate>Tue, 23 Sep 2025 14:20:33 GMT</pubDate>
+		<lastBuildDate>Tue, 23 Sep 2025 14:20:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Minutes of the 727th Meeting of the Advisory Committee on Reactor Safeguards (ACRS) for July 9 Through 10, 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25261A293</link>
+			<description>Meeting Minutes, Memoranda</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2025-09-22 15:32:00</pubDate>
+		</item>
+		<item>
+			<title>Summary of Aug 9th Public Meeting with NEI on Metrics for a Performance-Based EP Program</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24039A002</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DORL/LLPB</author>
+			<pubDate>2025-09-22 15:32:00</pubDate>
+		</item>
 		<item>
 			<title>Summary of Informing NUREG-1220 for Advanced and Microreactors Training Review Criteria and Procedures</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25260A653</link>
@@ -73,27 +87,6 @@
 			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Lawrence Livermore National Lab (LLNL), Los Alamos National Lab (LANL), Oak Ridge National Lab (ORNL)</author>
 			<pubDate>2025-09-10 08:15:00</pubDate>
-		</item>
-		<item>
-			<title>Summary Report of the 727th Meeting of the ACRS for July 9 Through 10 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25232A132</link>
-			<description>ACRS Summary Report</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-09-08 16:31:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Energy, LLC's Answer to San Antonio Bay Estuarine Waterkeeper Hearing Request and Petition to Intervene</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25248A335</link>
-			<description>Legal-Pleading</description>
-			<author>Long Mott Energy, LLC, Morgan, Lewis and Bockius, LLP</author>
-			<pubDate>2025-09-08 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Staff's Answer to San Antonio Bay Estuarine Waterkeeper Petition to Intervene and Request for Hearing</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25249A000</link>
-			<description>Legal-Pleading</description>
-			<author>NRC/OGC</author>
-			<pubDate>2025-09-08 08:29:00</pubDate>
 		</item>
 	</channel>
 </rss>
