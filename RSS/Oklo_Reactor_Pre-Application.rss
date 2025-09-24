@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 23 Sep 2025 23:16:56 GMT</pubDate>
-		<lastBuildDate>Tue, 23 Sep 2025 23:16:56 GMT</lastBuildDate>
+		<pubDate>Wed, 24 Sep 2025 14:18:50 GMT</pubDate>
+		<lastBuildDate>Wed, 24 Sep 2025 14:18:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Audit Plan</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2025-09-18 16:11:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Proprietary Information From Public Disclosure -OKLO INC. Slides July 2025 Meeting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25216A273</link>
-			<description>Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-09-10 08:15:00</pubDate>
 		</item>
 	</channel>
 </rss>
