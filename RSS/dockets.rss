@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 26 Sep 2025 18:23:51 GMT</pubDate>
-		<lastBuildDate>Fri, 26 Sep 2025 18:23:51 GMT</lastBuildDate>
+		<pubDate>Fri, 26 Sep 2025 19:15:46 GMT</pubDate>
+		<lastBuildDate>Fri, 26 Sep 2025 19:15:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Supplement #1 to the Preliminary Safety Analysis Report for the Long Mott Generating Station Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25269A126</link>
+			<description>Letter</description>
+			<author>Long Mott Energy, LLC</author>
+			<pubDate>2025-09-26 14:39:00</pubDate>
+		</item>
+		<item>
+			<title>Long Mott Generating Station, Preliminary Safety Analysis Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25269A127</link>
+			<description>Preliminary Safety Analysis Report (PSAR)</description>
+			<author>Long Mott Energy, LLC</author>
+			<pubDate>2025-09-26 14:39:00</pubDate>
+		</item>
 		<item>
 			<title>TerraPower, LLC - Response to NRC Audit Question 3-85 on Kemmerer Power Station, Unit 1, Preliminary Safety Analysis Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25260A002</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24233A241</link>
 			<description>Letter</description>
 			<author>NRC/NMSS/DREFS/ETRB1</author>
-			<pubDate>2025-09-19 16:18:00</pubDate>
-		</item>
-		<item>
-			<title>Tribal Letters for S106 Completion Hermes 2 - J.R. Johnson</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24233A241</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/ETRB1</author>
-			<pubDate>2025-09-19 16:18:00</pubDate>
-		</item>
-		<item>
-			<title>Tribal Letters for S106 Completion Hermes 2 - W. Yargee</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24254A238</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS</author>
 			<pubDate>2025-09-19 16:18:00</pubDate>
 		</item>
 	</channel>
