@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 25 Sep 2025 23:18:16 GMT</pubDate>
-		<lastBuildDate>Thu, 25 Sep 2025 23:18:16 GMT</lastBuildDate>
+		<pubDate>Fri, 26 Sep 2025 14:19:06 GMT</pubDate>
+		<lastBuildDate>Fri, 26 Sep 2025 14:19:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TerraPower, LLC - Draft Safety Evaluation For NAT-8922 "Reactor Seismic Isolation System Qualification Topical Report," Revision 2 (EPID No. L-2024-TOP-0005)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25202A068</link>
+			<description>Safety Evaluation Report, Draft</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-09-26 08:58:00</pubDate>
+		</item>
 		<item>
 			<title>NRC 896 - A Verification of TerraPower, LLC, NAT-9395-A, Partial Flow Blockage Methodology, Revision 0</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25252A423</link>
@@ -59,34 +66,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2025-09-19 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>NRC 897: Request for Withholding Proprietary Information from Public Disclosure - TerraPower, LLC, NAT-9391-A, Revision 0, "Radiological Release Consequence Methodology"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25237A220</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-09-12 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>Email: Request for Withholding Proprietary Information from Public Disclosure - TerraPower, LLC, NAT-9391-A, Revision 0, "Radiological Release Consequence Methodology"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25237A218</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-09-12 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Form 897: Request For Withholding Proprietary Information From Public Disclosure - Terrapower, LLC, NAT-9391, "Radiological Release Consequences Methodology Topical Report," Rev. 0 (EPID: L-2023-TOP-0055)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24278A281</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-09-12 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal-Topical Report Withholding Determination - TerraPower, LLC NAT-9391, Rev. 0, "Radiological Release Consequences Methodology"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24282A947</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-09-12 08:29:00</pubDate>
 		</item>
 	</channel>
 </rss>

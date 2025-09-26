@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 25 Sep 2025 23:18:24 GMT</pubDate>
-		<lastBuildDate>Thu, 25 Sep 2025 23:18:24 GMT</lastBuildDate>
+		<pubDate>Fri, 26 Sep 2025 14:19:13 GMT</pubDate>
+		<lastBuildDate>Fri, 26 Sep 2025 14:19:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Browns Ferry Nuclear Plant, Unit 3, American Society of Mechanical Engineers Operation and Maintenance Code Request for Alternative BFN-IST-06</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25261A131</link>
+			<description>Inservice/Preservice Inspection and Test Report, Letter</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-09-26 08:58:00</pubDate>
+		</item>
 		<item>
 			<title>TRISO-X Fuel Fabrication Facility Draft Environmental Impact Statement</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25267A128</link>
@@ -150,20 +157,6 @@
 			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2025-09-15 15:34:00</pubDate>
-		</item>
-		<item>
-			<title>Acceptance Review Results for Browns Ferry Nuclear Plant, Units 1, 2, and 3, Request to Revise TS 3.3.2.1 re Rod Worth Minimizer (EPID L-2025-LLA-0121)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25253A312</link>
-			<description>Acceptance Review Letter, E-Mail</description>
-			<author>NRC/NRR/DORL/LPL2-2</author>
-			<pubDate>2025-09-12 08:29:00</pubDate>
-		</item>
-		<item>
-			<title>2025-08-26 ARCOP Public Meeting Summary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25246C347</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UARP</author>
-			<pubDate>2025-09-12 08:28:00</pubDate>
 		</item>
 	</channel>
 </rss>
