@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 26 Sep 2025 23:17:46 GMT</pubDate>
-		<lastBuildDate>Fri, 26 Sep 2025 23:17:46 GMT</lastBuildDate>
+		<pubDate>Mon, 29 Sep 2025 14:22:17 GMT</pubDate>
+		<lastBuildDate>Mon, 29 Sep 2025 14:22:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NUREG-1482, Revision 4, "Guidelines for Inservice Testing at Nuclear Power Plants: Inservice Testing of Pumps and Valves and Inservice Examination and Testing of Dynamic Restraints (Snubbers) at Nuclear Power Plants" Final Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25267A104</link>
+			<description>NUREG</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-09-29 08:06:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: "Xe-100 Licensing Topical Report Transient and Safety Analysis Methodology," Revision 2 (Public)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25262A034</link>
+			<description>Topical Report</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2025-09-29 08:05:00</pubDate>
+		</item>
 		<item>
 			<title>Summary of Aug 9th Public Meeting with NEI on Metrics for a Performance-Based EP Program</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24039A002</link>
@@ -45,13 +59,6 @@
 			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Duke Energy Corp</author>
 			<pubDate>2025-09-16 16:16:00</pubDate>
-		</item>
-		<item>
-			<title>M250909: Transcript - All Employees Meeting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25258A165</link>
-			<description>Commission Meeting Transcript</description>
-			<author>NRC/OCM</author>
-			<pubDate>2025-09-15 15:34:00</pubDate>
 		</item>
 	</channel>
 </rss>

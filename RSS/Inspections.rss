@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 26 Sep 2025 23:17:47 GMT</pubDate>
-		<lastBuildDate>Fri, 26 Sep 2025 23:17:47 GMT</lastBuildDate>
+		<pubDate>Mon, 29 Sep 2025 14:22:20 GMT</pubDate>
+		<lastBuildDate>Mon, 29 Sep 2025 14:22:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Inspection Manual</description>
 			<author>NRC/NRR/DRO/IRIB</author>
 			<pubDate>2025-09-24 08:09:00</pubDate>
-		</item>
-		<item>
-			<title>Table of Contents for Inspection Manual Change Notice 25-030</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25260A666</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRIB</author>
-			<pubDate>2025-09-22 12:37:00</pubDate>
-		</item>
-		<item>
-			<title>IMC 1245 Appendix C5, Non-Power Production and Utilization Facility Technical Proficiency Training and Qualification Journal</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25252A392</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRAB</author>
-			<pubDate>2025-09-22 12:37:00</pubDate>
 		</item>
 	</channel>
 </rss>

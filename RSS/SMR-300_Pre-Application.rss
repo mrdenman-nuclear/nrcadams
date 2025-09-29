@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 26 Sep 2025 23:17:44 GMT</pubDate>
-		<lastBuildDate>Fri, 26 Sep 2025 23:17:44 GMT</lastBuildDate>
+		<pubDate>Mon, 29 Sep 2025 14:22:08 GMT</pubDate>
+		<lastBuildDate>Mon, 29 Sep 2025 14:22:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,20 +38,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2025-09-17 07:51:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Submittal of SMR-300 Design Basis Accident Radiological Consequences Analysis Methodology Licensing Topical Report, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25248A284</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
-			<pubDate>2025-09-15 08:09:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, SMR-300 Design Basis Accident Radiological Consequences Analysis Methodology Licensing Topical Report, HI-2241098, Rev. 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25248A285</link>
-			<description>Topical Report</description>
-			<author>SMR, LLC</author>
-			<pubDate>2025-09-15 08:09:00</pubDate>
 		</item>
 	</channel>
 </rss>
