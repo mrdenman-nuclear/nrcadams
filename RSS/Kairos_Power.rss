@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 29 Sep 2025 23:17:40 GMT</pubDate>
-		<lastBuildDate>Mon, 29 Sep 2025 23:17:40 GMT</lastBuildDate>
+		<pubDate>Tue, 30 Sep 2025 14:20:40 GMT</pubDate>
+		<lastBuildDate>Tue, 30 Sep 2025 14:20:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,20 +66,6 @@
 			<description>Status Report</description>
 			<author>NRC/Chairman</author>
 			<pubDate>2025-09-18 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>September 2025 Advisory Committee On Reactor Safeguards (ACRS) Full Committee Meeting Topical Reports</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25254A240</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-09-16 16:16:00</pubDate>
-		</item>
-		<item>
-			<title>2025/09/02 Clinch River CP Saf Docs - Meeting Summary_POM Clinch River CPA_202505.docx</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25245A131</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-09-16 08:03:00</pubDate>
 		</item>
 	</channel>
 </rss>

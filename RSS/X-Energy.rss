@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 29 Sep 2025 23:17:40 GMT</pubDate>
-		<lastBuildDate>Mon, 29 Sep 2025 23:17:40 GMT</lastBuildDate>
+		<pubDate>Tue, 30 Sep 2025 14:20:40 GMT</pubDate>
+		<lastBuildDate>Tue, 30 Sep 2025 14:20:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2025/09/16 Project Long Mott Docs - Long Mott Generating Station Environmental Information Needs Revision 5</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25259A216</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-09-30 08:15:00</pubDate>
+		</item>
 		<item>
 			<title>PRA Realism Workshop -NRC all</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25272A200</link>
@@ -80,20 +87,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-09-18 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>San Antonio Bay Estuarine Waterkeeper’s Reply In Support Of Petition To Intervene And Request For Hearing</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25258A244</link>
-			<description>Legal-Petition To Intervene/Request for Hearing</description>
-			<author>Perales, Allmon and Ice, P.C., San Antonio Bay Estuarine Waterkeeper</author>
-			<pubDate>2025-09-16 09:40:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Proprietary Information from Public Disclosure - For The Long Mott Generating Station CPA Part VII</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25240B524</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-09-16 08:04:00</pubDate>
 		</item>
 	</channel>
 </rss>

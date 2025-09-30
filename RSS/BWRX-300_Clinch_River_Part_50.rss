@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 29 Sep 2025 23:17:35 GMT</pubDate>
-		<lastBuildDate>Mon, 29 Sep 2025 23:17:35 GMT</lastBuildDate>
+		<pubDate>Tue, 30 Sep 2025 14:20:34 GMT</pubDate>
+		<lastBuildDate>Tue, 30 Sep 2025 14:20:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,20 +45,6 @@
 			<description>Letter</description>
 			<author>US Advisory Council on Historic Preservation, Office of Federal Agency Programs</author>
 			<pubDate>2025-09-24 11:26:00</pubDate>
-		</item>
-		<item>
-			<title>2025/09/02 Clinch River CP Saf Docs - Meeting Summary_POM Clinch River CPA_202505.docx</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25245A131</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-09-16 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>2025/09/02 Clinch River CP Saf Docs - Docket Request for A-8.1-1 and A-8.1-2 - TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25245A197</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-09-16 08:03:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 29 Sep 2025 23:17:32 GMT</pubDate>
-		<lastBuildDate>Mon, 29 Sep 2025 23:17:32 GMT</lastBuildDate>
+		<pubDate>Tue, 30 Sep 2025 14:20:31 GMT</pubDate>
+		<lastBuildDate>Tue, 30 Sep 2025 14:20:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 2: Xe-100 Licensing Topical Report Graphite Core Assembly Material Qualification and Design Methodologies</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25262A204</link>
+			<description>Topical Report</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2025-09-30 09:34:00</pubDate>
+		</item>
+		<item>
+			<title>Form: -A Verification of TerraPower, LLC, NAT-4950-A "Instrumentation & Control Architecture and Design Basis," Revision 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25258A027</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-09-30 08:16:00</pubDate>
+		</item>
+		<item>
+			<title>EMAIL: -A Verification of TerraPower, LLC, NAT-4950-A "Instrumentation & Control Architecture and Design Basis," Revision 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25258A028</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-09-30 08:16:00</pubDate>
+		</item>
+		<item>
+			<title>NRC 896 - A Verification of TerraPower, LLC NAT-9394-A, Design Basis Accident Methodology for Events with Radiological Release, Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25252A419</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-09-30 08:15:00</pubDate>
+		</item>
 		<item>
 			<title>TerraPower, LLC - Submittal of Supplemental Information to Support Kemmerer Unit 1, Construction Permit Application Review</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25259A175</link>
@@ -192,34 +220,6 @@
 			<description>Safety Evaluation Report, Draft</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-09-26 08:58:00</pubDate>
-		</item>
-		<item>
-			<title>Email Summary of Environmental Safety Meeting on 9-4-2025 to Discuss Supplemental Responses to Set 19, RAI 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25262A185</link>
-			<description>E-Mail, Meeting Summary</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2025-09-26 08:58:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower - Feedback to White Paper - Regulatory Interpretation of Definitions Constituting Construction to the Installation of Conduit and Cable Trays.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25261A323</link>
-			<description>Letter, Technical Paper</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-09-26 08:58:00</pubDate>
-		</item>
-		<item>
-			<title>2025/09/11 Clinch River CP Saf Docs - Docket Request for A-17.5-1, A-17.5-2, A-17.5-3, and A-17.1-1 - TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25255A060</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-09-26 08:57:00</pubDate>
-		</item>
-		<item>
-			<title>2025/09/16 - Comment (17) E-mail regarding Kairos Hermes CP DEIS</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25259A330</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>Public Commenter</author>
-			<pubDate>2025-09-26 08:57:00</pubDate>
 		</item>
 	</channel>
 </rss>

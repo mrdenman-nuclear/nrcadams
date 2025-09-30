@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 29 Sep 2025 23:17:40 GMT</pubDate>
-		<lastBuildDate>Mon, 29 Sep 2025 23:17:40 GMT</lastBuildDate>
+		<pubDate>Tue, 30 Sep 2025 14:20:40 GMT</pubDate>
+		<lastBuildDate>Tue, 30 Sep 2025 14:20:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Criteria to Evaluate a Performance-Based Safety Assurance Case for Digital Systems That Protect Operating Reactors</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25248A033</link>
+			<description>Report, Technical, Technical Paper</description>
+			<author>Adelard, NRC/RES/DE</author>
+			<pubDate>2025-09-30 08:15:00</pubDate>
+		</item>
+		<item>
+			<title>2025/09/16 Project Long Mott Docs - Long Mott Generating Station Environmental Information Needs Revision 5</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25259A216</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-09-30 08:15:00</pubDate>
+		</item>
 		<item>
 			<title>Point Beach SLR - (ROD) Record of Decision</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25223A031</link>
@@ -129,27 +143,6 @@
 			<description>Letter, Periodic Monitoring Report (Radiological/Environmental)</description>
 			<author>Constellation Energy Generation, LLC</author>
 			<pubDate>2025-09-17 11:26:00</pubDate>
-		</item>
-		<item>
-			<title>September 2025 Advisory Committee On Reactor Safeguards (ACRS) Full Committee Meeting Topical Reports</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25254A240</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-09-16 16:16:00</pubDate>
-		</item>
-		<item>
-			<title>Palisades, Current Facility Operating License DPR-20, Tech Specs, Revised 09/16/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052720263</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-09-16 13:13:00</pubDate>
-		</item>
-		<item>
-			<title>H.B. Robinson Steam Electric Plant, Unit Number 2, Subsequent License Renewal Application Responses to Requests for Additional Information (RAI) and Requests for Confirmation of Information (RCI)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25251A097</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>Duke Energy Progress, LLC</author>
-			<pubDate>2025-09-16 08:03:00</pubDate>
 		</item>
 	</channel>
 </rss>

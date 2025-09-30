@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 29 Sep 2025 23:17:35 GMT</pubDate>
-		<lastBuildDate>Mon, 29 Sep 2025 23:17:35 GMT</lastBuildDate>
+		<pubDate>Tue, 30 Sep 2025 14:20:34 GMT</pubDate>
+		<lastBuildDate>Tue, 30 Sep 2025 14:20:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,34 +66,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NMSS/DREFS/ETRB1</author>
 			<pubDate>2025-09-17 09:34:00</pubDate>
-		</item>
-		<item>
-			<title>NHPA Section 106 Email Dated March 26, 2025, from G. LaFranier, Northern Cheyenne Tribe, to S. Lopas, Regarding Mitigation for Kemmerer Power Station Unit 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25259A002</link>
-			<description>E-Mail</description>
-			<author>Northern Cheyenne Tribe</author>
-			<pubDate>2025-09-16 09:40:00</pubDate>
-		</item>
-		<item>
-			<title>Revision to Exemption Request from 10 CFR 50.33(f) and 10 CFR 50 Appendix C Financial Qualification Documentation Requirements and Revision to the General and Financial Information of the Kemmerer Power Station, Unit 1, Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25251A127</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-09-16 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Approved TerraPower, LLC Partial Flow Blockage Methodology Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25251A084</link>
-			<description>Legal-Affidavit, Letter, Topical Report</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-09-16 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Approved TerraPower, LLC Design Basis Accident Methodology for Events with Radiological Release Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25251A090</link>
-			<description>Legal-Affidavit, Letter, Topical Report</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-09-16 08:03:00</pubDate>
 		</item>
 	</channel>
 </rss>
