@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 30 Sep 2025 23:17:20 GMT</pubDate>
-		<lastBuildDate>Tue, 30 Sep 2025 23:17:20 GMT</lastBuildDate>
+		<pubDate>Wed, 01 Oct 2025 14:53:16 GMT</pubDate>
+		<lastBuildDate>Wed, 01 Oct 2025 14:53:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Email dated 8-5-2024 to USO TerraPower providing Batch No.1 Information Needs Document</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24285A044</link>
+			<description>E-Mail</description>
+			<author>NRC/NMSS/DREFS/EPMB3</author>
+			<pubDate>2025-10-01 09:38:00</pubDate>
+		</item>
 		<item>
 			<title>TerraPower, LLC - Submittal of Supplemental Information to Support Kemmerer Unit 1, Construction Permit Application Review</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25259A175</link>
@@ -59,13 +66,6 @@
 			<description>Legal-Affidavit, Letter</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2025-09-18 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower Kemmerer Power Station, Unit 1 - NHPA Section 106 - Email to Tribes Summarizing August 2025 Tribal Information Meetings Regarding Archaeological Testing Results and NRC's Updated NHPA Section 106 Determination</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25259A321</link>
-			<description>E-Mail</description>
-			<author>NRC/NMSS/DREFS/ETRB1</author>
-			<pubDate>2025-09-17 09:34:00</pubDate>
 		</item>
 	</channel>
 </rss>

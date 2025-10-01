@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 30 Sep 2025 23:17:20 GMT</pubDate>
-		<lastBuildDate>Tue, 30 Sep 2025 23:17:20 GMT</lastBuildDate>
+		<pubDate>Wed, 01 Oct 2025 14:53:16 GMT</pubDate>
+		<lastBuildDate>Wed, 01 Oct 2025 14:53:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Audit Summary for SMR Holtec's SMR-300 Design Basis Accident Radiological Consequences Analysis Methodology Licensing Topical Report, HI-2241098, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25258A007</link>
+			<description>Audit Report, Memoranda</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2025-10-01 08:00:00</pubDate>
+		</item>
 		<item>
 			<title>SMR, LLC, Preapplication Meeting Materials for September 23, 2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25261A094</link>
@@ -31,13 +38,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NMSS/DREFS/EPMB3</author>
 			<pubDate>2025-09-19 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of the June 26, 2025, Public Meeting with SMR, LLC (A Holtec International Company) to Discuss SMR-300 Combustible Gas Control Considerations for the In-Containment Spent Fuel Pool</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25223A160</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-09-17 07:51:00</pubDate>
 		</item>
 	</channel>
 </rss>

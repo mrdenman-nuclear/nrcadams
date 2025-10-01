@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 30 Sep 2025 23:17:26 GMT</pubDate>
-		<lastBuildDate>Tue, 30 Sep 2025 23:17:26 GMT</lastBuildDate>
+		<pubDate>Wed, 01 Oct 2025 14:53:23 GMT</pubDate>
+		<lastBuildDate>Wed, 01 Oct 2025 14:53:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -150,27 +150,6 @@
 			<description>Code Relief or Alternative, Letter, Safety Evaluation</description>
 			<author>NRC/NRR/DORL/LPL2-1</author>
 			<pubDate>2025-09-18 08:30:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3, Final Report of a Deviation or Failure to Comply Associated with a Valve in the Unit 3 Diesel Generator Starting Air System</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25259A159</link>
-			<description>Deficiency Correspondence (per 10CFR50.55e and Part 21), Deficiency Report (per 10CFR50.55e and Part 21), Letter</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-09-17 11:26:00</pubDate>
-		</item>
-		<item>
-			<title>Clinch River Nuclear Site USACE Jurisdictional Determination</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25260A011</link>
-			<description>Letter, Memoranda</description>
-			<author>US Dept of the Army, Corps of Engineers, Nashville District</author>
-			<pubDate>2025-09-17 09:34:00</pubDate>
-		</item>
-		<item>
-			<title>LER 2025-001-01 for Browns Ferry Nuclear Plant, Unit 2, Reactor SCRAM due to Low Electro-Hydraulic Control Pressure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25252A080</link>
-			<description>Letter, Licensee Event Report (LER)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-09-17 07:51:00</pubDate>
 		</item>
 	</channel>
 </rss>

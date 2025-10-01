@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 30 Sep 2025 23:17:26 GMT</pubDate>
-		<lastBuildDate>Tue, 30 Sep 2025 23:17:26 GMT</lastBuildDate>
+		<pubDate>Wed, 01 Oct 2025 14:53:23 GMT</pubDate>
+		<lastBuildDate>Wed, 01 Oct 2025 14:53:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -157,20 +157,6 @@
 			<description>Status Report</description>
 			<author>NRC/Chairman</author>
 			<pubDate>2025-09-18 08:31:00</pubDate>
-		</item>
-		<item>
-			<title>Prairie Island, Units 1 and 2, Independent Spent Fuel Storage Installation, Monticello - Updates to the Standard Emergency Plan (SEP) Documents</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25245A263</link>
-			<description>Emergency Preparedness-Emergency Plan, Letter</description>
-			<author>Northern States Power Company, Minnesota, Xcel Energy</author>
-			<pubDate>2025-09-17 16:13:00</pubDate>
-		</item>
-		<item>
-			<title>Dresden Nuclear Power Station, Units 1, 2, and 3, Revision to 2024 Annual Radioactive Effluent Release Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25226A101</link>
-			<description>Letter, Periodic Monitoring Report (Radiological/Environmental)</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2025-09-17 11:26:00</pubDate>
 		</item>
 	</channel>
 </rss>
