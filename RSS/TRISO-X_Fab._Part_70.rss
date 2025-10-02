@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 01 Oct 2025 23:17:06 GMT</pubDate>
-		<lastBuildDate>Wed, 01 Oct 2025 23:17:06 GMT</lastBuildDate>
+		<pubDate>Thu, 02 Oct 2025 14:19:05 GMT</pubDate>
+		<lastBuildDate>Thu, 02 Oct 2025 14:19:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TRISO-X DRAFT EIS letter to Oak Ridge Library</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25267A210</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DREFS/EPMB2</author>
+			<pubDate>2025-10-02 10:00:00</pubDate>
+		</item>
+		<item>
+			<title>Triso-X, LLC - Submittal of Supplemental Information for the Human Factors RAI 4 and RAI 5 Responses</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25269A178</link>
+			<description>Letter</description>
+			<author>Triso-X, LLC</author>
+			<pubDate>2025-10-02 08:50:00</pubDate>
+		</item>
 		<item>
 			<title>Memorandum - Trip Report For Horizontal Vertical Slice Meeting Held On May 20 And 21, 2025, With TRISO-X, LLC</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25195A219</link>
@@ -66,13 +80,6 @@
 			<description>Response to Request for Additional Information (RAI)</description>
 			<author>Triso-X, LLC</author>
 			<pubDate>2025-09-19 16:17:00</pubDate>
-		</item>
-		<item>
-			<title>09/19/2025 Call with TRISO-X to Discuss Design Margin Available for Meeting the Baseline Design Criteria</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25261A090</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-09-18 11:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

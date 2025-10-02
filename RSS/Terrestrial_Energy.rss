@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 01 Oct 2025 23:17:13 GMT</pubDate>
-		<lastBuildDate>Wed, 01 Oct 2025 23:17:13 GMT</lastBuildDate>
+		<pubDate>Thu, 02 Oct 2025 14:19:13 GMT</pubDate>
+		<lastBuildDate>Thu, 02 Oct 2025 14:19:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Midpoint Small Modular Reactor Project #1 - Draft Environmental Impact Statement</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25267A243</link>
+			<description>Environmental Impact Statement</description>
+			<author>Sawtooth Energy and Development Corp</author>
+			<pubDate>2025-10-02 08:01:00</pubDate>
+		</item>
 		<item>
 			<title>Presentation on advanced materials for high temperature reactor applications, graduate seminar at University of Nebraska-Lincoln, 04-15-2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25261A140</link>
@@ -136,27 +143,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NMSS/DREFS/EPMB3</author>
 			<pubDate>2025-09-19 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>Diablo Canyon, Unit 1, Current Facility Operating License DPR-80, Tech Specs, Revised 09/18/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053140349</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-09-18 14:40:00</pubDate>
-		</item>
-		<item>
-			<title>Waterford, Unit 3, Current Facility Operating License NPF-38, Tech Specs, Revised 09/18/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053130318</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-09-18 14:36:00</pubDate>
-		</item>
-		<item>
-			<title>09-11-25 National Energy Emergency - Enclosure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25198A392</link>
-			<description>Status Report</description>
-			<author>NRC/Chairman</author>
-			<pubDate>2025-09-18 08:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
