@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 Oct 2025 22:16:18 GMT</pubDate>
-		<lastBuildDate>Thu, 02 Oct 2025 22:16:18 GMT</lastBuildDate>
+		<pubDate>Fri, 03 Oct 2025 14:18:37 GMT</pubDate>
+		<lastBuildDate>Fri, 03 Oct 2025 14:18:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,27 +17,6 @@
 			<description>Audit Report, Memoranda</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2025-10-01 08:00:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Preapplication Meeting Materials for September 23, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25261A094</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
-			<pubDate>2025-09-19 09:39:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Affidavit Pursuant to 10 CFR 2.390 to Withhold Information from Public Disclosure (NP)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25261A096</link>
-			<description>Legal-Affidavit</description>
-			<author>SMR, LLC</author>
-			<pubDate>2025-09-19 09:39:00</pubDate>
-		</item>
-		<item>
-			<title>04/28/2025 Summary of Public Meeting with SMR, LLC. (A Holtec International Company) to Discuss Updates to Site characterization Work conducted at Palisades</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25241A194</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2025-09-19 08:05:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 Oct 2025 22:16:18 GMT</pubDate>
-		<lastBuildDate>Thu, 02 Oct 2025 22:16:18 GMT</lastBuildDate>
+		<pubDate>Fri, 03 Oct 2025 14:18:37 GMT</pubDate>
+		<lastBuildDate>Fri, 03 Oct 2025 14:18:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,34 +17,6 @@
 			<description>Audit Plan, Memoranda</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2025-10-01 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>Email: Completeness Determination for NuScale Topical TR-182845, "Emergency Event Classification Scheme for a NuScale Power Plant," Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25253A200</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-09-19 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>Email: Completeness Determination for NuScale Topical Report TR-183101, "Emergency Response Organization for a NuScale Power Plant," Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25253A018</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-09-19 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>Form 898 - Completeness Determination for NuScale Topical Report TR-183101, "Emergency Response Organization for a NuScale Power Plant," Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25253A019</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-09-19 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>Form 898 - Completeness Determination for NuScale Topical TR-182845, "Emergency Event Classification Scheme for a NuScale Power Plant," Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25253A202</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-09-19 08:05:00</pubDate>
 		</item>
 	</channel>
 </rss>

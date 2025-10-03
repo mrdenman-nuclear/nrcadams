@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 Oct 2025 22:16:18 GMT</pubDate>
-		<lastBuildDate>Thu, 02 Oct 2025 22:16:18 GMT</lastBuildDate>
+		<pubDate>Fri, 03 Oct 2025 14:18:37 GMT</pubDate>
+		<lastBuildDate>Fri, 03 Oct 2025 14:18:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Public - Final Safety Evaluation for GE-Hitachi Licensing Topical Report NEDC-33926P, Revision 3 BWRX-300 Steel-Plate Composite Containment Vessel and Reactor Building Structural Design</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25268A141</link>
+			<description>Safety Evaluation</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2025-10-03 07:52:00</pubDate>
+		</item>
+		<item>
+			<title>NRC 897: Request for Withholding Proprietary Information from Public Disclosure - TerraPower, LLC, NAT-4950-A "Instrumentation & Control Architecture and Design Basis," Revision 2 (EPID L-2024-0006)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25252A040</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-10-03 07:51:00</pubDate>
+		</item>
+		<item>
+			<title>Email: Request for Withholding Proprietary Information from Public Disclosure - TerraPower, LLC, NAT-4950-A "Instrumentation & Control Architecture and Design Basis," Revision 2 (EPID L-2024-0006)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25252A041</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-10-03 07:51:00</pubDate>
+		</item>
 		<item>
 			<title>10/08/2025 Meeting with TRISO-X to discuss draft Responses to Structural RAI-7 and RAI-8</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25275A659</link>
@@ -198,27 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25258A164</link>
 			<description>E-Mail</description>
 			<author>NRC</author>
-			<pubDate>2025-09-29 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy, LLC (X-energy), Submittal of Xe-100 Licensing Topical Report Transient and Safety Analysis Methodology, Revision 2 Accepted Version</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25262A032</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-09-29 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: "Xe-100 Licensing Topical Report Transient and Safety Analysis Methodology," Revision 2 (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25262A034</link>
-			<description>Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-09-29 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy, LLC (X-energy), Submittal of  Xe-100 Licensing Topical Report GOTHIC and Flownex Analysis Codes Qualification, Revision 3 Accepted Version</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25262A061</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
 			<pubDate>2025-09-29 08:05:00</pubDate>
 		</item>
 	</channel>

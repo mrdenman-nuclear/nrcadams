@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 Oct 2025 22:16:18 GMT</pubDate>
-		<lastBuildDate>Thu, 02 Oct 2025 22:16:18 GMT</lastBuildDate>
+		<pubDate>Fri, 03 Oct 2025 14:18:37 GMT</pubDate>
+		<lastBuildDate>Fri, 03 Oct 2025 14:18:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-10-01 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal of NRC Staff Draft Safety Evaluation Regarding Kairos Power Safety Analysis Methodology Topical Report (KP-TR-020, Revision 1)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25258A013</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-09-19 08:06:00</pubDate>
 		</item>
 	</channel>
 </rss>

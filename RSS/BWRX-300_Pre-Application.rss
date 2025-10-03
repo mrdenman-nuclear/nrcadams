@@ -5,25 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 Oct 2025 22:16:18 GMT</pubDate>
-		<lastBuildDate>Thu, 02 Oct 2025 22:16:18 GMT</lastBuildDate>
+		<pubDate>Fri, 03 Oct 2025 14:18:37 GMT</pubDate>
+		<lastBuildDate>Fri, 03 Oct 2025 14:18:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Public - Final Safety Evaluation for GE-Hitachi Licensing Topical Report NEDC-33926P, Revision 3 BWRX-300 Steel-Plate Composite Containment Vessel and Reactor Building Structural Design</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25268A141</link>
+			<description>Safety Evaluation</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2025-10-03 07:52:00</pubDate>
+		</item>
 		<item>
 			<title>GE Vernova Hitachi Nuclear Energy - Reply to Notice of Nonconformance, References: 1) NRC Inspection Report 99900003/2025-201 (July 24, 2025)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25265A292</link>
 			<description>Letter, Licensee Response to Notice of Violation</description>
 			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
 			<pubDate>2025-09-25 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>Public - NRC Response to GEH Inquiry to Support BWRX-300 Safety Strategy Licensing Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25175A199</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2025-09-19 16:18:00</pubDate>
 		</item>
 	</channel>
 </rss>

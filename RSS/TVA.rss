@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 Oct 2025 22:16:28 GMT</pubDate>
-		<lastBuildDate>Thu, 02 Oct 2025 22:16:28 GMT</lastBuildDate>
+		<pubDate>Fri, 03 Oct 2025 14:18:45 GMT</pubDate>
+		<lastBuildDate>Fri, 03 Oct 2025 14:18:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3, Core Operating Limits Report for Unit 1 Cycle 16 Operation, Revision 1; Unit 2 Cycle 24 Operation, Revision 1; and Unit 3 Cycle 22 Operation, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25268A301</link>
+			<description>Fuel Cycle Reload Report, Letter</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-10-03 07:52:00</pubDate>
+		</item>
+		<item>
+			<title>Salem Generating Station, Units 1 and 2, License Amendment Request to Modify Salem Generating Station Renewed Facility Operating Licenses in support of Cobalt-60 Production</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25268A072</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>PSEG Nuclear, LLC</author>
+			<pubDate>2025-10-03 07:51:00</pubDate>
+		</item>
 		<item>
 			<title>Watts Bar Nuclear Plant, Units 1 and 2 - Acceptance Review Results for Watts Bar Nuclear Plant, Units 1 and 2 - LAR to Rebaseline TS Sections 3.4 and 3.9 (EPID L-2025-LLA-0138)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25267A158</link>
@@ -136,20 +150,6 @@
 			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Arizona Public Service Co</author>
 			<pubDate>2025-09-22 15:32:00</pubDate>
-		</item>
-		<item>
-			<title>LER 2025-002-00 for Watts Bar Nuclear Plant, Unit 2, Automatic Reactor Trip due to a Main Turbine Trip</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25254A011</link>
-			<description>Letter, Licensee Event Report (LER)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-09-19 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>Sequoyah Nuclear Plant, Units 1 and 2 - Authorization of Alternative Request RV-05 for Thermal Relief Valves (EPID L-2025-LLR-0061)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25248A221</link>
-			<description>Code Relief or Alternative, Letter, Safety Evaluation</description>
-			<author>NRC/NRR/DORL/LPLII-2</author>
-			<pubDate>2025-09-19 08:05:00</pubDate>
 		</item>
 	</channel>
 </rss>

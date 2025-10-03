@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 Oct 2025 22:16:28 GMT</pubDate>
-		<lastBuildDate>Thu, 02 Oct 2025 22:16:28 GMT</lastBuildDate>
+		<pubDate>Fri, 03 Oct 2025 14:18:45 GMT</pubDate>
+		<lastBuildDate>Fri, 03 Oct 2025 14:18:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -129,20 +129,6 @@
 			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-09-24 08:26:00</pubDate>
-		</item>
-		<item>
-			<title>Biological Assessment for Dewey Burdock ISR License Renewal V2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25262A029</link>
-			<description>Environmental Report</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-09-19 10:27:00</pubDate>
-		</item>
-		<item>
-			<title>04/28/2025 Summary of Public Meeting with SMR, LLC. (A Holtec International Company) to Discuss Updates to Site characterization Work conducted at Palisades</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25241A194</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2025-09-19 08:05:00</pubDate>
 		</item>
 	</channel>
 </rss>
