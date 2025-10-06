@@ -10,7 +10,7 @@ simplify_type = function(search_tbl, type_vct = Type) {
   search_tbl |>
     dplyr::mutate(
       {{type_vct}} := dplyr::case_when(
-        {{type_vct}} |> stringr::str_detect("Comment Letter") ~ "Public Comments",
+        {{type_vct}} |> stringr::str_detect("Comment Letter") ~ "Comments",
         {{type_vct}} |> stringr::str_detect("RAI") ~ "RAI",
         {{type_vct}} |> stringr::str_detect("Audit") ~ "Audit",
         {{type_vct}} |> stringr::str_detect("SAR") ~ "Safety Analysis",
