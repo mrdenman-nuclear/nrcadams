@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>NEI 22-04</title>
+		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
+		<description>NRC ADAMS Docket Update</description>
+		<language>en-us</language>
+		<pubDate>Mon, 06 Oct 2025 21:11:12 GMT</pubDate>
+		<lastBuildDate>Mon, 06 Oct 2025 21:11:12 GMT</lastBuildDate>
+		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
+		<generator>Function write_rss() in R package nrcadams</generator>
+		<managingEditor>mrdenman@gmail.com</managingEditor>
+		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Response to the Nuclear Energy Institute's Request for a Retraction of Charges Related to the Request for Endorsement and Fee Exemption for NEI 22-04, Revision 0, "Utilization of ISO 9001 and Other Non-Nuclear Suppliers for Safety-Related Applications"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25245A042</link>
+			<description>Letter</description>
+			<author>NRC/OCFO</author>
+			<pubDate>2025-09-10 15:31:00</pubDate>
+		</item>
+		<item>
+			<title>NQA-1 Letter to NRC 9-2-2025.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25246C400</link>
+			<description>Letter</description>
+			<author>American Society of Mechanical Engineers (ASME)</author>
+			<pubDate>2025-09-08 15:46:00</pubDate>
+		</item>
+	</channel>
+</rss>
