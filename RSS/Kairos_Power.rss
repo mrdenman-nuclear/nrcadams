@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 03 Oct 2025 23:16:20 GMT</pubDate>
-		<lastBuildDate>Fri, 03 Oct 2025 23:16:20 GMT</lastBuildDate>
+		<pubDate>Mon, 06 Oct 2025 14:20:00 GMT</pubDate>
+		<lastBuildDate>Mon, 06 Oct 2025 14:20:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DORL/LLPB</author>
 			<pubDate>2025-09-25 09:22:00</pubDate>
-		</item>
-		<item>
-			<title>National Organization of Test, Research and Training Reactors Quarterly Meeting With NRC Summary August 12 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25259A161</link>
-			<description>Meeting Summary, Organization Chart</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-09-22 14:20:00</pubDate>
 		</item>
 	</channel>
 </rss>

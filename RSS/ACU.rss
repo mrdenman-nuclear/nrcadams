@@ -5,39 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 03 Oct 2025 23:16:20 GMT</pubDate>
-		<lastBuildDate>Fri, 03 Oct 2025 23:16:20 GMT</lastBuildDate>
+		<pubDate>Mon, 06 Oct 2025 14:20:00 GMT</pubDate>
+		<lastBuildDate>Mon, 06 Oct 2025 14:20:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Millstone 3 - Administered Written Examination with Answer Key</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23298A179</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/RGN-I/DORS/OB</author>
-			<pubDate>2025-09-22 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>Millstone 3 - Administered Operating Test and Spare Scenario</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23298A183</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/RGN-I/DORS/OB</author>
-			<pubDate>2025-09-22 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>Millstone 3 - Draft Written Examination</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23334A231</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>Dominion Energy Nuclear Connecticut, Inc</author>
-			<pubDate>2025-09-22 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>Millstone 3 - Draft Operating Test</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23334A227</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>Dominion Energy Nuclear Connecticut, Inc</author>
-			<pubDate>2025-09-22 08:07:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

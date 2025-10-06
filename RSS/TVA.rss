@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 03 Oct 2025 23:16:20 GMT</pubDate>
-		<lastBuildDate>Fri, 03 Oct 2025 23:16:20 GMT</lastBuildDate>
+		<pubDate>Mon, 06 Oct 2025 14:20:00 GMT</pubDate>
+		<lastBuildDate>Mon, 06 Oct 2025 14:20:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -143,13 +143,6 @@
 			<description>Acceptance Review Letter, E-Mail</description>
 			<author>NRC/NRR/DORL/LPL2-2</author>
 			<pubDate>2025-09-24 08:09:00</pubDate>
-		</item>
-		<item>
-			<title>Slides to support 9/25/2025 Pre-submittal Meeting with APS to Discuss a Planned LAR Technical Specification 5.3.1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25265A131</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Arizona Public Service Co</author>
-			<pubDate>2025-09-22 15:32:00</pubDate>
 		</item>
 	</channel>
 </rss>

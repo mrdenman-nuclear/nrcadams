@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 03 Oct 2025 23:16:15 GMT</pubDate>
-		<lastBuildDate>Fri, 03 Oct 2025 23:16:15 GMT</lastBuildDate>
+		<pubDate>Mon, 06 Oct 2025 14:19:53 GMT</pubDate>
+		<lastBuildDate>Mon, 06 Oct 2025 14:19:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,13 +59,6 @@
 			<description>Request for Additional Information (RAI)</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-09-25 12:34:00</pubDate>
-		</item>
-		<item>
-			<title>January 9, 2025, WY State Engineer Final Opinion, TerraPower, LLC, Kemmerer Unit 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25255A019</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>State of WY, Engineer's Office</author>
-			<pubDate>2025-09-22 08:07:00</pubDate>
 		</item>
 	</channel>
 </rss>

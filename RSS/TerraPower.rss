@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 03 Oct 2025 23:16:20 GMT</pubDate>
-		<lastBuildDate>Fri, 03 Oct 2025 23:16:20 GMT</lastBuildDate>
+		<pubDate>Mon, 06 Oct 2025 14:20:00 GMT</pubDate>
+		<lastBuildDate>Mon, 06 Oct 2025 14:20:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DORL/LLPB</author>
 			<pubDate>2025-09-25 09:22:00</pubDate>
-		</item>
-		<item>
-			<title>20250814 US Fish Wildlife Svc Final Ltr Re Water Depletion, TerraPower LLC, Kemmerer Unit 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25255A018</link>
-			<description>Letter</description>
-			<author>US Dept of Interior, Fish and Wildlife Service, Wyoming Ecological Services Field Office</author>
-			<pubDate>2025-09-22 08:07:00</pubDate>
 		</item>
 	</channel>
 </rss>

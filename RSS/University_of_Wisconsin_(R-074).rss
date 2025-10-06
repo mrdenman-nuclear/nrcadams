@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 03 Oct 2025 23:16:15 GMT</pubDate>
-		<lastBuildDate>Fri, 03 Oct 2025 23:16:15 GMT</lastBuildDate>
+		<pubDate>Mon, 06 Oct 2025 14:19:54 GMT</pubDate>
+		<lastBuildDate>Mon, 06 Oct 2025 14:19:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Annual Report for the University of Wisconsin Nuclear Reactor Laboratory 2024-2025 (Letter)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25255A093</link>
-			<description>Letter</description>
-			<author>Univ of Wisconsin - Madison</author>
-			<pubDate>2025-09-22 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>Annual Report for the University of Wisconsin Nuclear Reactor Laboratory 2024-2025 (Report)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25255A094</link>
-			<description>Annual Operating Report</description>
-			<author>Univ of Wisconsin - Madison</author>
-			<pubDate>2025-09-22 08:07:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
