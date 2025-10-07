@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 06 Oct 2025 23:16:33 GMT</pubDate>
-		<lastBuildDate>Mon, 06 Oct 2025 23:16:33 GMT</lastBuildDate>
+		<pubDate>Tue, 07 Oct 2025 14:20:02 GMT</pubDate>
+		<lastBuildDate>Tue, 07 Oct 2025 14:20:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SMR, LLC, - Regulatory Engagement Plan, HI-2240423 Revision 6</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25272A264</link>
+			<description>Letter</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2025-10-07 07:44:00</pubDate>
+		</item>
+		<item>
+			<title>2025/09/30 Kairos Power Pre-App Doc - ACCEPTANCE REVIEW OF KAIROS POWER LLC 10 CFR PART 55 EXEMPTION REQUESTS FOR NON-POWER KAIROS POWER FLUORIDE SALT-COOLED, HIGH TEMPERATURE REACTORS (EPID NO. L-2025-LLE-0021)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25273A286</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-10-07 07:44:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 2: Xe-100 Licensing Topical Reactor Core Design Methods and Analysis</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25262A126</link>
@@ -150,34 +164,6 @@
 			<description>Audit Report, Memoranda</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2025-10-01 08:00:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Xe-100 Licensing Topical Report Graphite Core Assembly Material Qualification and Design Methodologies</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25262A204</link>
-			<description>Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-09-30 09:34:00</pubDate>
-		</item>
-		<item>
-			<title>Form: -A Verification of TerraPower, LLC, NAT-4950-A "Instrumentation & Control Architecture and Design Basis," Revision 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25258A027</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-09-30 08:16:00</pubDate>
-		</item>
-		<item>
-			<title>EMAIL: -A Verification of TerraPower, LLC, NAT-4950-A "Instrumentation & Control Architecture and Design Basis," Revision 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25258A028</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-09-30 08:16:00</pubDate>
-		</item>
-		<item>
-			<title>NRC 896 - A Verification of TerraPower, LLC NAT-9394-A, Design Basis Accident Methodology for Events with Radiological Release, Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25252A419</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-09-30 08:15:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 06 Oct 2025 23:16:46 GMT</pubDate>
-		<lastBuildDate>Mon, 06 Oct 2025 23:16:46 GMT</lastBuildDate>
+		<pubDate>Tue, 07 Oct 2025 14:20:11 GMT</pubDate>
+		<lastBuildDate>Tue, 07 Oct 2025 14:20:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -80,27 +80,6 @@
 			<description>Graphics incl Charts and Tables</description>
 			<author>NRC/NMSS/DREFS/EPMB3</author>
 			<pubDate>2025-10-01 09:39:00</pubDate>
-		</item>
-		<item>
-			<title>Updated Audit Questions - Vogtle 1/2 - LAR for Adoption of RG 1.183 Rev 1 - EPID L-2025-LLA-0080</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25265A159</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DORL/LPLII-1</author>
-			<pubDate>2025-09-30 08:15:00</pubDate>
-		</item>
-		<item>
-			<title>2025/09/16 Project Long Mott Docs - Long Mott Generating Station Environmental Information Needs Revision 5</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25259A216</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-09-30 08:15:00</pubDate>
-		</item>
-		<item>
-			<title>2025/09/16 Project Long Mott Docs - Long Mott Generating Station Environmental Information Needs Revision 5</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25259A216</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-09-30 08:15:00</pubDate>
 		</item>
 	</channel>
 </rss>

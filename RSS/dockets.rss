@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 06 Oct 2025 23:16:37 GMT</pubDate>
-		<lastBuildDate>Mon, 06 Oct 2025 23:16:37 GMT</lastBuildDate>
+		<pubDate>Tue, 07 Oct 2025 14:20:04 GMT</pubDate>
+		<lastBuildDate>Tue, 07 Oct 2025 14:20:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SMR, LLC, - Regulatory Engagement Plan, HI-2240423 Revision 6</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25272A264</link>
+			<description>Letter</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2025-10-07 07:44:00</pubDate>
+		</item>
+		<item>
+			<title>2025/09/30 Kairos Power Pre-App Doc - ACCEPTANCE REVIEW OF KAIROS POWER LLC 10 CFR PART 55 EXEMPTION REQUESTS FOR NON-POWER KAIROS POWER FLUORIDE SALT-COOLED, HIGH TEMPERATURE REACTORS (EPID NO. L-2025-LLE-0021)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25273A286</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-10-07 07:44:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 2: Xe-100 Licensing Topical Reactor Core Design Methods and Analysis</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25262A126</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25262A202</link>
 			<description>Letter</description>
 			<author>X-Energy, LLC</author>
-			<pubDate>2025-09-29 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25262A203</link>
-			<description>Legal-Affidavit</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-09-29 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>Hadron Energy, Inc., Submittal of Quality Assurance Program Description (Topical Report), Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25262A219</link>
-			<description>Letter, Quality Assurance Program</description>
-			<author>Hadron Energy, Inc</author>
 			<pubDate>2025-09-29 08:06:00</pubDate>
 		</item>
 	</channel>
