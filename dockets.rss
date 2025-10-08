@@ -5,12 +5,61 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 08 Oct 2025 14:20:02 GMT</pubDate>
-		<lastBuildDate>Wed, 08 Oct 2025 14:20:02 GMT</lastBuildDate>
+		<pubDate>Wed, 08 Oct 2025 15:19:54 GMT</pubDate>
+		<lastBuildDate>Wed, 08 Oct 2025 15:19:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>1 - Opening Remarks, Introduction, and Agenda</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25280A084</link>
+			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-10-08 10:30:00</pubDate>
+		</item>
+		<item>
+			<title>2 - LMP Overview</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25280A085</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NRR/DANU/UTB2</author>
+			<pubDate>2025-10-08 10:30:00</pubDate>
+		</item>
+		<item>
+			<title>3 - NRC Review of LBE Identification and Scope</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25280A087</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NRR/DANU/UTB2</author>
+			<pubDate>2025-10-08 10:30:00</pubDate>
+		</item>
+		<item>
+			<title>4 - Safety Classification</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25280A088</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NRR/DANU/UTB2</author>
+			<pubDate>2025-10-08 10:30:00</pubDate>
+		</item>
+		<item>
+			<title>5 - Safety Analysis Methods</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25280A089</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NRR/DANU/UTB2</author>
+			<pubDate>2025-10-08 10:30:00</pubDate>
+		</item>
+		<item>
+			<title>6 - DID & Integrated Risk Evaluation</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25280A090</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NRR/DANU/UTB2</author>
+			<pubDate>2025-10-08 10:30:00</pubDate>
+		</item>
+		<item>
+			<title>7 - Safety Analysis Results</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25280A091</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NRR/DANU/UTB2</author>
+			<pubDate>2025-10-08 10:30:00</pubDate>
+		</item>
 		<item>
 			<title>"Kemmerer Unit 1 ACRS Subcommittee Presentation October 8th, 2025"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25280A230</link>
@@ -171,27 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2025-10-02 15:44:00</pubDate>
-		</item>
-		<item>
-			<title>Apr 18 2024 Species List Wyoming Ecological Services Field Office</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24214A329</link>
-			<description>Letter</description>
-			<author>US Dept of Interior, Fish and Wildlife Service</author>
-			<pubDate>2025-10-02 10:00:00</pubDate>
-		</item>
-		<item>
-			<title>TRISO-X DRAFT EIS letter to Oak Ridge Library</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25267A210</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/EPMB2</author>
-			<pubDate>2025-10-02 10:00:00</pubDate>
-		</item>
-		<item>
-			<title>Triso-X, LLC - Submittal of Supplemental Information for the Human Factors RAI 4 and RAI 5 Responses</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25269A178</link>
-			<description>Letter</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2025-10-02 08:50:00</pubDate>
 		</item>
 	</channel>
 </rss>
