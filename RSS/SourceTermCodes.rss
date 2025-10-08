@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 07 Oct 2025 23:17:28 GMT</pubDate>
-		<lastBuildDate>Tue, 07 Oct 2025 23:17:28 GMT</lastBuildDate>
+		<pubDate>Wed, 08 Oct 2025 14:20:11 GMT</pubDate>
+		<lastBuildDate>Wed, 08 Oct 2025 14:20:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 2: "Xe-100 Licensing Topical Report Transient and Safety Analysis Methodology," Revision 2 (Public)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25262A034</link>
+			<description>Topical Report</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2025-10-08 08:26:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 2: "Xe-100 Licensing Topical Report Mechanistic Source Term Approach," Revision 3 (Public)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25262A110</link>
@@ -87,13 +94,6 @@
 			<description>Environmental Impact Statement</description>
 			<author>Sawtooth Energy and Development Corp</author>
 			<pubDate>2025-10-02 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>USO TerrraPower Batch No. 1 Information Needs Document</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24285A043</link>
-			<description>Graphics incl Charts and Tables</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2025-10-01 09:39:00</pubDate>
 		</item>
 	</channel>
 </rss>

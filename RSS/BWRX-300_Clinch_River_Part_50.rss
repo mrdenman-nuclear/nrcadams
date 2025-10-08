@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 07 Oct 2025 23:17:18 GMT</pubDate>
-		<lastBuildDate>Tue, 07 Oct 2025 23:17:18 GMT</lastBuildDate>
+		<pubDate>Wed, 08 Oct 2025 14:20:05 GMT</pubDate>
+		<lastBuildDate>Wed, 08 Oct 2025 14:20:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2025/09/24 Clinch River CP Saf Docs - Docket Request for A-6.2-5, A-6.2-6, A-6.2-7 - TVA Clinch River CP Audit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25267A065</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-10-08 07:50:00</pubDate>
+		</item>
+		<item>
+			<title>2025/09/24 Clinch River CP Saf Docs - Docket Request for A-4.5-1, A-4.5-2, A-13.7-1, A-13.7-2 - TVA Clinch River CP Audit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25267A121</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-10-08 07:50:00</pubDate>
+		</item>
 		<item>
 			<title>2025/09/22 Clinch River CP Saf Docs - Docket Request for A-3.9-1 - TVA Clinch River CP Audit</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25265A225</link>
@@ -73,13 +87,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-09-26 08:57:00</pubDate>
-		</item>
-		<item>
-			<title>Letter from R. Mangum, ACHP Regarding Notification of NHPA Section 106 Consultation for the Clinch River Construction Permit Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25216A159</link>
-			<description>Letter</description>
-			<author>US Advisory Council on Historic Preservation, Office of Federal Agency Programs</author>
-			<pubDate>2025-09-24 11:26:00</pubDate>
 		</item>
 	</channel>
 </rss>

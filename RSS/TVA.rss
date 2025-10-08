@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 07 Oct 2025 23:17:25 GMT</pubDate>
-		<lastBuildDate>Tue, 07 Oct 2025 23:17:25 GMT</lastBuildDate>
+		<pubDate>Wed, 08 Oct 2025 14:20:10 GMT</pubDate>
+		<lastBuildDate>Wed, 08 Oct 2025 14:20:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Catawba Nuclear Station, Units 1 and 2 - Application to Adopt 10 CFR 50.69, "Risk-Informed Categorization and Treatment of Structures, Systems and Components for Nuclear Power Reactors"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25273A166</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>Duke Energy, Duke Energy Carolinas, LLC</author>
+			<pubDate>2025-10-08 07:51:00</pubDate>
+		</item>
+		<item>
+			<title>LER 2025-001-00 for Browns Ferry Nuclear Plant, Unit 1, Reactor Scram due to Low Reactor Water Level</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25273A039</link>
+			<description>Letter, Licensee Event Report (LER)</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-10-08 07:50:00</pubDate>
+		</item>
 		<item>
 			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3, Core Operating Limits Report for Unit 1 Cycle 16 Operation, Revision 1; Unit 2 Cycle 24 Operation, Revision 1; and Unit 3 Cycle 22 Operation, Revision 1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25268A301</link>
@@ -115,34 +129,6 @@
 			<description>Safety Evaluation Report, Draft</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2025-09-25 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>09/04/2025 Summary of Public Teleconference with Tennessee Valley Authority to Discuss a Planned Alternative Request Regarding Standby Liquid Control Pump Testing at Browns Ferry Nuclear Plant, Unit 3 (EPID L-2025-LRM-0116)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25254A210</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DORL/LPLII-2</author>
-			<pubDate>2025-09-24 08:09:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of August 28, 2025, Public Teleconference with Tennessee Valley Authority to Discuss a Proposed Alternative Request Regarding N-Stamp for Containment Spray Heat Exchanger at Sequoyah Nuclear Plant, Unit 1 (EPID L-2025-LRM-0113)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25252A128</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DORL/LPL2-2</author>
-			<pubDate>2025-09-24 08:09:00</pubDate>
-		</item>
-		<item>
-			<title>Acceptance Review Results for Watts Bar Nuclear Plant, Unit 2, Exemption Request re: 10 CFR 54.17(c) (EPID L-2025-LLE-0024)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25262A071</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DORL/LPLII-2</author>
-			<pubDate>2025-09-24 08:09:00</pubDate>
-		</item>
-		<item>
-			<title>Email - Acceptance Review Results for Sequoyah Nuclear Plant, Units 1 and 2, and Watts Bar Nuclear Plant, Units 1 and 2 - License Amendment Request to Adopt TSTF-599-A (EPID L-2025-LLA-0135)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25262A106</link>
-			<description>Acceptance Review Letter, E-Mail</description>
-			<author>NRC/NRR/DORL/LPL2-2</author>
-			<pubDate>2025-09-24 08:09:00</pubDate>
 		</item>
 	</channel>
 </rss>

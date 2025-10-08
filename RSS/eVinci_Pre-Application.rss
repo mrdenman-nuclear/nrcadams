@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 07 Oct 2025 23:17:18 GMT</pubDate>
-		<lastBuildDate>Tue, 07 Oct 2025 23:17:18 GMT</lastBuildDate>
+		<pubDate>Wed, 08 Oct 2025 14:20:05 GMT</pubDate>
+		<lastBuildDate>Wed, 08 Oct 2025 14:20:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Request for Withholding Proprietary Information of the Submittal of WEC Prop Review of Draft Safety Evaluation for Triso Fuel Topical Report Submitted on Sept 10 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25269A169</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2025-10-08 07:51:00</pubDate>
+		</item>
+	</channel>
 </rss>
