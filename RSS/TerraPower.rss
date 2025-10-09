@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 08 Oct 2025 23:17:30 GMT</pubDate>
-		<lastBuildDate>Wed, 08 Oct 2025 23:17:30 GMT</lastBuildDate>
+		<pubDate>Thu, 09 Oct 2025 14:20:28 GMT</pubDate>
+		<lastBuildDate>Thu, 09 Oct 2025 14:20:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2025/09/25 Project Long Mott Docs - WRN-1 Possible Approach for consideration</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25268A056</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-10-09 08:03:00</pubDate>
+		</item>
 		<item>
 			<title>USO TerrraPower Batch No. 1 Information Needs Document</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24285A043</link>
@@ -31,13 +38,6 @@
 			<description>Status Report</description>
 			<author>NRC/Chairman</author>
 			<pubDate>2025-09-26 08:57:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of Aug 9th Public Meeting with NEI on Metrics for a Performance-Based EP Program</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24039A002</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DORL/LLPB</author>
-			<pubDate>2025-09-25 09:22:00</pubDate>
 		</item>
 	</channel>
 </rss>

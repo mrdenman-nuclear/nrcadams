@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 08 Oct 2025 23:17:30 GMT</pubDate>
-		<lastBuildDate>Wed, 08 Oct 2025 23:17:30 GMT</lastBuildDate>
+		<pubDate>Thu, 09 Oct 2025 14:20:28 GMT</pubDate>
+		<lastBuildDate>Thu, 09 Oct 2025 14:20:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -101,34 +101,6 @@
 			<description>Inservice/Preservice Inspection and Test Report, Letter</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2025-09-26 08:58:00</pubDate>
-		</item>
-		<item>
-			<title>TRISO-X Fuel Fabrication Facility Draft Environmental Impact Statement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25267A128</link>
-			<description>Environmental Impact Statement</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-09-25 12:34:00</pubDate>
-		</item>
-		<item>
-			<title>Sequoyah Nuclear Plant, Units 1 and 2 - Authorization of Revised Alternative Request RV-02 for Pressure Isolation Valve Seat Leakage (EPID L-2025-LLR-0039)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25251A095</link>
-			<description>Code Relief or Alternative, Letter, Safety Evaluation</description>
-			<author>NRC/NRR/DORL/LPLII-2</author>
-			<pubDate>2025-09-25 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>Final Safety Evaluation for the Topical Report, "Quality Assurance Program Description For Dominion Energy New Nuclear Program," Revision 1 (EPID No. L-2025-TOP-0004)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25247A006</link>
-			<description>Final Safety Evaluation Report (FSER)</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-09-25 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>Draft Safety Evaluation for the Dominion Energy Topical Report, "Quality Assurance Program Description For Dominion Energy New Nuclear Program",  Revision 1 (EPID No: L-2025-TOP-0004)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25206A088</link>
-			<description>Safety Evaluation Report, Draft</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-09-25 08:07:00</pubDate>
 		</item>
 	</channel>
 </rss>

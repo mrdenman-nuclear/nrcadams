@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 08 Oct 2025 23:17:26 GMT</pubDate>
-		<lastBuildDate>Wed, 08 Oct 2025 23:17:26 GMT</lastBuildDate>
+		<pubDate>Thu, 09 Oct 2025 14:20:21 GMT</pubDate>
+		<lastBuildDate>Thu, 09 Oct 2025 14:20:21 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 3: TerraPower Supplemental R&D Information (Public)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25274A126</link>
+			<description>Report, Miscellaneous</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2025-10-09 08:04:00</pubDate>
+		</item>
+		<item>
+			<title>TerraPower, LLC, Research and Development Supplemental Information</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25274A124</link>
+			<description>Letter</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2025-10-09 08:04:00</pubDate>
+		</item>
+		<item>
+			<title>TerraPower, LLC, Submittal of Supplemental Information to Support Kemmerer Unit 1 Construction Permit Application Review</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25274A130</link>
+			<description>Letter, License-Application for Construction Permit DKT 50</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2025-10-09 08:04:00</pubDate>
+		</item>
 		<item>
 			<title>USO ACRS Subcommittee Meeting Slides Oct 8 & Oct 9 - Transient Overview</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25281A200</link>
@@ -115,20 +136,6 @@
 			<description>Letter, Technical Paper</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-09-26 08:58:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - Kemmerer Unit 1 CPA - SC - October 8-9, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25268A085</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-09-25 16:14:00</pubDate>
-		</item>
-		<item>
-			<title>RCI-10862-R1-Final (003) -  US SFR Owner, LLC Kemmerer Power Station, Unit 1, Construction Permit Safety Review (Terrapower Natrium)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25261A106</link>
-			<description>Request for Additional Information (RAI)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-09-25 12:34:00</pubDate>
 		</item>
 	</channel>
 </rss>
