@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 Oct 2025 23:16:34 GMT</pubDate>
-		<lastBuildDate>Thu, 09 Oct 2025 23:16:34 GMT</lastBuildDate>
+		<pubDate>Fri, 10 Oct 2025 14:18:51 GMT</pubDate>
+		<lastBuildDate>Fri, 10 Oct 2025 14:18:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 1: CRN Site CPA, PSAR Section 1.5, Further Technical Information-Seismic Analysis (Public Version)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25275A437</link>
+			<description>Preliminary Safety Analysis Report (PSAR)</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-10-10 07:46:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: CRN Site CPA, NRC Audit Questions and TVA Responses (Public Version)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25275A438</link>
+			<description>Response to Request for Additional Information (RAI)</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-10-10 07:46:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 3: CRN Site CPA, PSAR Changes (Public Version)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25275A439</link>
+			<description>Preliminary Safety Analysis Report (PSAR)</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-10-10 07:46:00</pubDate>
+		</item>
+		<item>
+			<title>Submittal of Further Technical Information and Audit Responses in Support of the Clinch River Nuclear Site Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25275A436</link>
+			<description>Letter</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-10-10 07:46:00</pubDate>
+		</item>
 		<item>
 			<title>2025/09/25 Clinch River CP Saf Docs - Docket Request for A-3.5-2, A-3.5-6 - TVA Clinch River CP Audit</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25268A124</link>
@@ -115,13 +143,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-09-29 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>2025/09/11 Clinch River CP Saf Docs - Docket Request for A-17.5-1, A-17.5-2, A-17.5-3, and A-17.1-1 - TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25255A060</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-09-26 08:57:00</pubDate>
 		</item>
 	</channel>
 </rss>

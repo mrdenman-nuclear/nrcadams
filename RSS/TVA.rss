@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 Oct 2025 23:16:40 GMT</pubDate>
-		<lastBuildDate>Thu, 09 Oct 2025 23:16:40 GMT</lastBuildDate>
+		<pubDate>Fri, 10 Oct 2025 14:18:57 GMT</pubDate>
+		<lastBuildDate>Fri, 10 Oct 2025 14:18:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>LER 2025-002-01 for Sequoyah Nuclear Plant, Unit 2, Manual Reactor Trip due to a Failed Closed Main Feedwater Regulating Valve</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25275A002</link>
+			<description>Letter, Licensee Event Report (LER)</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-10-10 07:46:00</pubDate>
+		</item>
+		<item>
+			<title>Response to Request for Additional Information regarding the Watts Bar Nuclear Plant, Unit 1 Steam Generator Tube Inspection Report Cycle 19</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25275A045</link>
+			<description>Letter, Response to Request for Additional Information (RAI)</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-10-10 07:46:00</pubDate>
+		</item>
 		<item>
 			<title>Catawba Nuclear Station, Units 1 and 2 - Application to Adopt 10 CFR 50.69, "Risk-Informed Categorization and Treatment of Structures, Systems and Components for Nuclear Power Reactors"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25273A166</link>
@@ -94,13 +108,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DRO</author>
 			<pubDate>2025-09-29 10:45:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry Nuclear Plant, Unit 3, American Society of Mechanical Engineers Operation and Maintenance Code Request for Alternative BFN-IST-06</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25261A131</link>
-			<description>Inservice/Preservice Inspection and Test Report, Letter</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-09-26 08:58:00</pubDate>
 		</item>
 	</channel>
 </rss>
