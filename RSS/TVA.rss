@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 10 Oct 2025 23:16:04 GMT</pubDate>
-		<lastBuildDate>Fri, 10 Oct 2025 23:16:04 GMT</lastBuildDate>
+		<pubDate>Mon, 13 Oct 2025 14:19:53 GMT</pubDate>
+		<lastBuildDate>Mon, 13 Oct 2025 14:19:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -101,13 +101,6 @@
 			<description>Acceptance Review Letter, E-Mail</description>
 			<author>NRC/NRR/DORL/LPLII-2</author>
 			<pubDate>2025-09-30 08:15:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of the Reactor Oversight Process Bi?Monthly Public Meeting Held on September 18, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25267A199</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DRO</author>
-			<pubDate>2025-09-29 10:45:00</pubDate>
 		</item>
 	</channel>
 </rss>

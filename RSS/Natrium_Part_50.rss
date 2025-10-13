@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 10 Oct 2025 23:15:59 GMT</pubDate>
-		<lastBuildDate>Fri, 10 Oct 2025 23:15:59 GMT</lastBuildDate>
+		<pubDate>Mon, 13 Oct 2025 14:19:48 GMT</pubDate>
+		<lastBuildDate>Mon, 13 Oct 2025 14:19:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -122,13 +122,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NMSS/DREFS/EPMB3</author>
 			<pubDate>2025-10-01 09:38:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC - Submittal of Supplemental Information to Support Kemmerer Unit 1, Construction Permit Application Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25259A175</link>
-			<description>Legal-Affidavit, Letter, Report, Technical</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-09-29 11:35:00</pubDate>
 		</item>
 	</channel>
 </rss>

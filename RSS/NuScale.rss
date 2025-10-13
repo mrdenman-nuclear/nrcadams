@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 10 Oct 2025 23:16:04 GMT</pubDate>
-		<lastBuildDate>Fri, 10 Oct 2025 23:16:04 GMT</lastBuildDate>
+		<pubDate>Mon, 13 Oct 2025 14:19:53 GMT</pubDate>
+		<lastBuildDate>Mon, 13 Oct 2025 14:19:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,20 +38,6 @@
 			<description>Letter</description>
 			<author>Sawtooth Energy and Development Corp</author>
 			<pubDate>2025-09-30 15:47:00</pubDate>
-		</item>
-		<item>
-			<title>PRA Realism Workshop -NRC all</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25272A200</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/RES/DRA</author>
-			<pubDate>2025-09-29 14:47:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-1482, Revision 4, "Guidelines for Inservice Testing at Nuclear Power Plants: Inservice Testing of Pumps and Valves and Inservice Examination and Testing of Dynamic Restraints (Snubbers) at Nuclear Power Plants" Final Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25267A104</link>
-			<description>NUREG</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-09-29 08:06:00</pubDate>
 		</item>
 	</channel>
 </rss>

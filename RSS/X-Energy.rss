@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 10 Oct 2025 23:16:04 GMT</pubDate>
-		<lastBuildDate>Fri, 10 Oct 2025 23:16:04 GMT</lastBuildDate>
+		<pubDate>Mon, 13 Oct 2025 14:19:53 GMT</pubDate>
+		<lastBuildDate>Mon, 13 Oct 2025 14:19:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-09-30 08:15:00</pubDate>
-		</item>
-		<item>
-			<title>PRA Realism Workshop -NRC all</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25272A200</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/RES/DRA</author>
-			<pubDate>2025-09-29 14:47:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Letter - Approval of X-Energy Quality Assurance Program for Part 71 Design Activities</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25259A327</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DFM/IOB</author>
-			<pubDate>2025-09-29 08:06:00</pubDate>
 		</item>
 	</channel>
 </rss>

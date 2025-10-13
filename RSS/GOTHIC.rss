@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 10 Oct 2025 23:16:06 GMT</pubDate>
-		<lastBuildDate>Fri, 10 Oct 2025 23:16:06 GMT</lastBuildDate>
+		<pubDate>Mon, 13 Oct 2025 14:19:54 GMT</pubDate>
+		<lastBuildDate>Mon, 13 Oct 2025 14:19:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Topical Report</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2025-10-08 08:26:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Xe-100 Licensing Topical Reactor Core Design Methods and Analysis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25262A126</link>
-			<description>Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2025-10-06 10:11:00</pubDate>
 		</item>
 	</channel>
 </rss>
