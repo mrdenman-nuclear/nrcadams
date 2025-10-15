@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 14 Oct 2025 23:16:31 GMT</pubDate>
-		<lastBuildDate>Tue, 14 Oct 2025 23:16:31 GMT</lastBuildDate>
+		<pubDate>Wed, 15 Oct 2025 14:21:48 GMT</pubDate>
+		<lastBuildDate>Wed, 15 Oct 2025 14:21:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2025/10/01 Clinch River CP Saf Docs - Docket Request for A-3A-1 - TVA Clinch River CP Audit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25274A117</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-10-15 08:05:00</pubDate>
+		</item>
 		<item>
 			<title>2025/09/22 Clinch River CP Env Docs - [External_Sender] Re Re [EXTERNAL] TVA Clinch River Redacted BiOp Availability</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25273A090</link>
@@ -178,48 +185,6 @@
 			<description>Audit Report</description>
 			<author>NRC/NMSS/DREFS/EPMB3</author>
 			<pubDate>2025-10-09 08:04:00</pubDate>
-		</item>
-		<item>
-			<title>USO ACRS Subcommittee Meeting Slides Oct 8 & Oct 9 - Transient Overview</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25281A200</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-10-08 15:33:00</pubDate>
-		</item>
-		<item>
-			<title>1 - Opening Remarks, Introduction, and Agenda</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25280A084</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-10-08 10:30:00</pubDate>
-		</item>
-		<item>
-			<title>2 - LMP Overview</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25280A085</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DANU/UTB2</author>
-			<pubDate>2025-10-08 10:30:00</pubDate>
-		</item>
-		<item>
-			<title>3 - NRC Review of LBE Identification and Scope</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25280A087</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DANU/UTB2</author>
-			<pubDate>2025-10-08 10:30:00</pubDate>
-		</item>
-		<item>
-			<title>4 - Safety Classification</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25280A088</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DANU/UTB2</author>
-			<pubDate>2025-10-08 10:30:00</pubDate>
-		</item>
-		<item>
-			<title>5 - Safety Analysis Methods</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25280A089</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DANU/UTB2</author>
-			<pubDate>2025-10-08 10:30:00</pubDate>
 		</item>
 	</channel>
 </rss>
