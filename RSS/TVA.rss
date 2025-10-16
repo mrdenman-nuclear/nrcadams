@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 15 Oct 2025 23:16:48 GMT</pubDate>
-		<lastBuildDate>Wed, 15 Oct 2025 23:16:48 GMT</lastBuildDate>
+		<pubDate>Thu, 16 Oct 2025 14:19:25 GMT</pubDate>
+		<lastBuildDate>Thu, 16 Oct 2025 14:19:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,20 +66,6 @@
 			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
 			<author>PSEG Nuclear, LLC</author>
 			<pubDate>2025-10-03 07:51:00</pubDate>
-		</item>
-		<item>
-			<title>Watts Bar Nuclear Plant, Units 1 and 2 - Acceptance Review Results for Watts Bar Nuclear Plant, Units 1 and 2 - LAR to Rebaseline TS Sections 3.4 and 3.9 (EPID L-2025-LLA-0138)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25267A158</link>
-			<description>Acceptance Review Letter, E-Mail</description>
-			<author>NRC/NRR/DORL/LPLII-2</author>
-			<pubDate>2025-10-02 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>Grand Gulf ESP Site, Resubmittal of Request for Exemption from 10 CFR 52.29(a) and Renewal of Early Site Permit ESP-002</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25267A217</link>
-			<description>Letter</description>
-			<author>Entergy Operations, Inc</author>
-			<pubDate>2025-10-02 08:01:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 15 Oct 2025 23:16:46 GMT</pubDate>
-		<lastBuildDate>Wed, 15 Oct 2025 23:16:46 GMT</lastBuildDate>
+		<pubDate>Thu, 16 Oct 2025 14:19:22 GMT</pubDate>
+		<lastBuildDate>Thu, 16 Oct 2025 14:19:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,27 +24,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2025-10-07 16:42:00</pubDate>
-		</item>
-		<item>
-			<title>10/08/2025 Meeting with TRISO-X to discuss draft Responses to Structural RAI-7 and RAI-8</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25275A659</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-10-02 15:44:00</pubDate>
-		</item>
-		<item>
-			<title>TRISO-X DRAFT EIS letter to Oak Ridge Library</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25267A210</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/EPMB2</author>
-			<pubDate>2025-10-02 10:00:00</pubDate>
-		</item>
-		<item>
-			<title>Triso-X, LLC - Submittal of Supplemental Information for the Human Factors RAI 4 and RAI 5 Responses</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25269A178</link>
-			<description>Letter</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2025-10-02 08:50:00</pubDate>
 		</item>
 	</channel>
 </rss>
