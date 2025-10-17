@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 16 Oct 2025 23:16:18 GMT</pubDate>
-		<lastBuildDate>Thu, 16 Oct 2025 23:16:18 GMT</lastBuildDate>
+		<pubDate>Fri, 17 Oct 2025 14:19:49 GMT</pubDate>
+		<lastBuildDate>Fri, 17 Oct 2025 14:19:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,20 +17,6 @@
 			<description>Legal-Affidavit, Letter, Preliminary Safety Analysis Report (PSAR)</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2025-10-14 08:20:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: CRN Site CPA, PSAR Section 1.5, Further Technical Information-Seismic Analysis (Public Version)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25275A437</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-10-10 07:46:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: CRN Site CPA, PSAR Changes (Public Version)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25275A439</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-10-10 07:46:00</pubDate>
 		</item>
 	</channel>
 </rss>
