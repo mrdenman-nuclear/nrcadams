@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Oct 2025 23:18:21 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Oct 2025 23:18:21 GMT</lastBuildDate>
+		<pubDate>Wed, 22 Oct 2025 14:22:12 GMT</pubDate>
+		<lastBuildDate>Wed, 22 Oct 2025 14:22:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,20 +52,6 @@
 			<description>Letter, Response to Request for Additional Information (RAI)</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2025-10-10 07:46:00</pubDate>
-		</item>
-		<item>
-			<title>Catawba Nuclear Station, Units 1 and 2 - Application to Adopt 10 CFR 50.69, "Risk-Informed Categorization and Treatment of Structures, Systems and Components for Nuclear Power Reactors"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25273A166</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>Duke Energy, Duke Energy Carolinas, LLC</author>
-			<pubDate>2025-10-08 07:51:00</pubDate>
-		</item>
-		<item>
-			<title>LER 2025-001-00 for Browns Ferry Nuclear Plant, Unit 1, Reactor Scram due to Low Reactor Water Level</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25273A039</link>
-			<description>Letter, Licensee Event Report (LER)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-10-08 07:50:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Oct 2025 23:18:14 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Oct 2025 23:18:14 GMT</lastBuildDate>
+		<pubDate>Wed, 22 Oct 2025 14:22:05 GMT</pubDate>
+		<lastBuildDate>Wed, 22 Oct 2025 14:22:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Hadron Energy, Inc., Resubmittal of Quality Assurance Program Description (Topical Report), Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25287A168</link>
+			<description>Letter, Quality Assurance Program</description>
+			<author>Hadron Energy, Inc</author>
+			<pubDate>2025-10-22 08:08:00</pubDate>
+		</item>
+	</channel>
 </rss>
