@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 22 Oct 2025 23:16:29 GMT</pubDate>
-		<lastBuildDate>Wed, 22 Oct 2025 23:16:29 GMT</lastBuildDate>
+		<pubDate>Thu, 23 Oct 2025 15:20:39 GMT</pubDate>
+		<lastBuildDate>Thu, 23 Oct 2025 15:20:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Federal Register Notice - TRISO-X Draft Environmental Impact Statement Notice and Request for Comments</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25267A200</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/NMSS/DREFS</author>
+			<pubDate>2025-10-23 11:08:00</pubDate>
+		</item>
+		<item>
+			<title>Federal Register Notice Issuing a Final Environmental Impact Statement for the Construction Permit Application for Kemmerer Power Station Unit 1: Final Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25274A101</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/NMSS/DREFS</author>
+			<pubDate>2025-10-23 11:08:00</pubDate>
+		</item>
 		<item>
 			<title>Hadron Energy, Inc., Resubmittal of Quality Assurance Program Description (Topical Report), Revision 1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25287A168</link>
@@ -206,20 +220,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2025-10-15 13:05:00</pubDate>
-		</item>
-		<item>
-			<title>Email Withholding Determination  Xe-100 Licensing Topical Report for Transient and Safety Analysis Methodology Revision 2 Accepted Version</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25281A007</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-10-15 13:05:00</pubDate>
-		</item>
-		<item>
-			<title>Topical Report Verification 006889-A, Revision 2 Accepted Version Xe-100 Licensing Topical Report Reactor Core Design Methods and Analysis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25274A121</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-10-15 12:38:00</pubDate>
 		</item>
 	</channel>
 </rss>
