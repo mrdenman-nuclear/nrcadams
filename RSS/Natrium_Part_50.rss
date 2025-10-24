@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 Oct 2025 17:17:32 GMT</pubDate>
-		<lastBuildDate>Fri, 24 Oct 2025 17:17:32 GMT</lastBuildDate>
+		<pubDate>Fri, 24 Oct 2025 18:25:40 GMT</pubDate>
+		<lastBuildDate>Fri, 24 Oct 2025 18:25:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>1 - Opening Remarks, Introduction and Review of Items from Previous Meeting</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25293A459</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2025-10-24 13:29:00</pubDate>
+		</item>
+		<item>
+			<title>2 - Control of Heat Generation</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25293A458</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/ACRS, NRC/NRR/DANU/UTB2</author>
+			<pubDate>2025-10-24 13:25:00</pubDate>
+		</item>
+		<item>
+			<title>3 - Safety-Significant SSC Design Requirements</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25293A457</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/ACRS, NRC/NRR/DANU/UAL1, NRC/NRR/DANU/UTB2</author>
+			<pubDate>2025-10-24 13:22:00</pubDate>
+		</item>
+		<item>
+			<title>4 - Control of Heat Removal - NRC Review of PHT, IHT, RAC, & IAC</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25293A456</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/ACRS, NRC/NRR/DANU</author>
+			<pubDate>2025-10-24 13:18:00</pubDate>
+		</item>
 		<item>
 			<title>5 - Radionuclide Retention - NRC Review of RES, SCG, & RWG</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25293A455</link>
@@ -192,34 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS/DREFS/EPMB3</author>
 			<pubDate>2025-10-23 14:53:00</pubDate>
-		</item>
-		<item>
-			<title>Ltr. to Chairman Keenan Groesbeck Re Conclusion of Section 106 Consultation NOA of the FEIS and ROD</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25279A185</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2025-10-23 14:53:00</pubDate>
-		</item>
-		<item>
-			<title>Ltr. to Chairman Jason Sheridan Re Conclusion of Section 106 Consultation NOA of the FEIS and ROD</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25279A189</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2025-10-23 14:53:00</pubDate>
-		</item>
-		<item>
-			<title>Ltr. to Chairwoman Donna Thompson Re Conclusion of Section 106 Consultation NOA of the FEIS and ROD</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25279A195</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2025-10-23 14:53:00</pubDate>
-		</item>
-		<item>
-			<title>Ltr to Sara Sheen WYSHPO Re Conclusion of Section 106 Consultation NOA of the FEIS and ROD</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25276A250</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/ETRB1</author>
-			<pubDate>2025-10-23 14:52:00</pubDate>
 		</item>
 	</channel>
 </rss>
