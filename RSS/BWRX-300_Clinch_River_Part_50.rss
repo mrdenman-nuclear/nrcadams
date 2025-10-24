@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 23 Oct 2025 23:16:24 GMT</pubDate>
-		<lastBuildDate>Thu, 23 Oct 2025 23:16:24 GMT</lastBuildDate>
+		<pubDate>Fri, 24 Oct 2025 14:19:18 GMT</pubDate>
+		<lastBuildDate>Fri, 24 Oct 2025 14:19:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,34 +52,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-10-14 08:20:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: CRN Site CPA, PSAR Section 1.5, Further Technical Information-Seismic Analysis (Public Version)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25275A437</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-10-10 07:46:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: CRN Site CPA, NRC Audit Questions and TVA Responses (Public Version)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25275A438</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-10-10 07:46:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: CRN Site CPA, PSAR Changes (Public Version)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25275A439</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-10-10 07:46:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Further Technical Information and Audit Responses in Support of the Clinch River Nuclear Site Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25275A436</link>
-			<description>Letter</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-10-10 07:46:00</pubDate>
 		</item>
 	</channel>
 </rss>

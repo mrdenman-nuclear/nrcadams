@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 23 Oct 2025 23:16:27 GMT</pubDate>
-		<lastBuildDate>Thu, 23 Oct 2025 23:16:27 GMT</lastBuildDate>
+		<pubDate>Fri, 24 Oct 2025 14:19:31 GMT</pubDate>
+		<lastBuildDate>Fri, 24 Oct 2025 14:19:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3 - Request for Exemptions from 10 CFR 50.55(a)(3)(iii) and 10 CFR 50.55a(y) for Adoption of Code Case OMN-31</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25289A358</link>
+			<description>Letter, Request for Code Relief or Alternative</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-10-24 07:48:00</pubDate>
+		</item>
 		<item>
 			<title>IRC Watts Bar 19990001  Integrated</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML993640245</link>
@@ -87,20 +94,6 @@
 			<description>Inservice/Preservice Inspection and Test Report, Letter</description>
 			<author>Dominion Energy, Dominion Energy Virginia, Virginia Electric and Power Co (VEPCO)</author>
 			<pubDate>2025-10-15 08:05:00</pubDate>
-		</item>
-		<item>
-			<title>LER 2025-002-01 for Sequoyah Nuclear Plant, Unit 2, Manual Reactor Trip due to a Failed Closed Main Feedwater Regulating Valve</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25275A002</link>
-			<description>Letter, Licensee Event Report (LER)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-10-10 07:46:00</pubDate>
-		</item>
-		<item>
-			<title>Response to Request for Additional Information regarding the Watts Bar Nuclear Plant, Unit 1 Steam Generator Tube Inspection Report Cycle 19</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25275A045</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-10-10 07:46:00</pubDate>
 		</item>
 	</channel>
 </rss>
