@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 29 Oct 2025 23:18:10 GMT</pubDate>
-		<lastBuildDate>Wed, 29 Oct 2025 23:18:10 GMT</lastBuildDate>
+		<pubDate>Fri, 31 Oct 2025 15:18:29 GMT</pubDate>
+		<lastBuildDate>Fri, 31 Oct 2025 15:18:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Univ. of Utah, Request to use an Alternate Location for Special Refresher Training</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25296A460</link>
+			<description>Letter</description>
+			<author>Univ of Utah, Salt Lake City</author>
+			<pubDate>2025-10-31 08:28:00</pubDate>
+		</item>
+	</channel>
 </rss>
