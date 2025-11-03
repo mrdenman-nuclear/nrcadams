@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 31 Oct 2025 23:17:41 GMT</pubDate>
-		<lastBuildDate>Fri, 31 Oct 2025 23:17:41 GMT</lastBuildDate>
+		<pubDate>Mon, 03 Nov 2025 14:20:52 GMT</pubDate>
+		<lastBuildDate>Mon, 03 Nov 2025 14:20:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Supplement 3 Regarding the Environmental Report for the Long Mott Generating Station Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25297A165</link>
+			<description>Letter</description>
+			<author>Long Mott Energy, LLC</author>
+			<pubDate>2025-11-03 08:01:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 4: Xe-100 Dow Seadrift Site Phase 1 Intensive Archaeological Survey, Calhoun County, Texas, Negative Finding Short Report, February 19, 2024</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25297A169</link>
@@ -52,13 +59,6 @@
 			<description>NUREG</description>
 			<author>NRC/NMSS, US Dept of Energy (DOE)</author>
 			<pubDate>2025-10-21 12:09:00</pubDate>
-		</item>
-		<item>
-			<title>Christopher M. Crane Clean Energy Center  PRA Observations on Draft Environmental Report Related to Requests for Reauthorization of Power Operations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25288A093</link>
-			<description>Letter, Report, Technical</description>
-			<author>NRC/NMSS/DREFS/EPMB1</author>
-			<pubDate>2025-10-20 12:55:00</pubDate>
 		</item>
 	</channel>
 </rss>

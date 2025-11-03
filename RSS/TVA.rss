@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 31 Oct 2025 23:17:42 GMT</pubDate>
-		<lastBuildDate>Fri, 31 Oct 2025 23:17:42 GMT</lastBuildDate>
+		<pubDate>Mon, 03 Nov 2025 14:20:52 GMT</pubDate>
+		<lastBuildDate>Mon, 03 Nov 2025 14:20:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -87,13 +87,6 @@
 			<description>Inspection Report</description>
 			<author>NRC/RGN-II</author>
 			<pubDate>2025-10-23 14:41:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Energy, LLC, Quality Assurance Program Description, Revision 0-A</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25269A120</link>
-			<description>Quality Assurance Program</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2025-10-20 13:44:00</pubDate>
 		</item>
 	</channel>
 </rss>
