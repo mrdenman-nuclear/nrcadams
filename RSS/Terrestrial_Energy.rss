@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Nov 2025 23:16:51 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Nov 2025 23:16:51 GMT</lastBuildDate>
+		<pubDate>Tue, 04 Nov 2025 14:20:31 GMT</pubDate>
+		<lastBuildDate>Tue, 04 Nov 2025 14:20:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,13 +52,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-10-22 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-2268, "Environmental Impact Statement for the Construction Permit Application for Kemmerer Power Station Unit 1" Final Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25287A017</link>
-			<description>NUREG</description>
-			<author>NRC/NMSS, US Dept of Energy (DOE)</author>
-			<pubDate>2025-10-21 12:09:00</pubDate>
 		</item>
 	</channel>
 </rss>

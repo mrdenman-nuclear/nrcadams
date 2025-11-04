@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 03 Nov 2025 23:16:48 GMT</pubDate>
-		<lastBuildDate>Mon, 03 Nov 2025 23:16:48 GMT</lastBuildDate>
+		<pubDate>Tue, 04 Nov 2025 14:20:26 GMT</pubDate>
+		<lastBuildDate>Tue, 04 Nov 2025 14:20:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2025/10/21 Clinch River CP Saf Docs - Docket Request for A-4.4-6 - TVA Clinch River CP Audit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25294A697</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-11-04 07:51:00</pubDate>
+		</item>
 		<item>
 			<title>2025/10/20 Clinch River CP Saf Docs - Docket Request for A-15.5-1 - TVA Clinch River CP Audit</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25293A254</link>
@@ -38,20 +45,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-10-29 07:59:00</pubDate>
-		</item>
-		<item>
-			<title>2025/07/17 Clinch River CP Env Docs - Notification - Clinch River Nuclear Site Construction Permit Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25280A180</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-10-21 08:00:00</pubDate>
-		</item>
-		<item>
-			<title>2025/10/07 Clinch River CP Env Docs - FW Notification - Clinch River Nuclear Site Construction Permit Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25280A181</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-10-21 08:00:00</pubDate>
 		</item>
 	</channel>
 </rss>
