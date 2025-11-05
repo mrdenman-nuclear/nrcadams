@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 05 Nov 2025 14:20:31 GMT</pubDate>
-		<lastBuildDate>Wed, 05 Nov 2025 14:20:31 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Nov 2025 15:20:41 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Nov 2025 15:20:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TerraPower, LLC - Transmittal of Response to NRC Request for Confirmation of Information for the Review of the Kemmerer Power Station Unit 1 Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25259A180</link>
+			<description>Letter, Response to Request for Additional Information (RAI)</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2025-11-05 09:35:00</pubDate>
+		</item>
 		<item>
 			<title>730th ACRS FC Meeting Slides - ACRS Subcommittee Review of Kemmerer Construction Permit Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25307A198</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NRC/NRR/DRA, NRC/ACRS, NRC/NRR/DANU, NRC/RES/DRA</author>
 			<pubDate>2025-10-24 13:09:00</pubDate>
-		</item>
-		<item>
-			<title>8 - NRC Review of R&D</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25293A452</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/ACRS, NRC/NRR/DANU</author>
-			<pubDate>2025-10-24 13:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
