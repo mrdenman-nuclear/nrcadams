@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 04 Nov 2025 23:18:28 GMT</pubDate>
-		<lastBuildDate>Tue, 04 Nov 2025 23:18:28 GMT</lastBuildDate>
+		<pubDate>Wed, 05 Nov 2025 14:20:34 GMT</pubDate>
+		<lastBuildDate>Wed, 05 Nov 2025 14:20:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,13 +52,6 @@
 			<description>Environmental Monitoring Report, Letter</description>
 			<author>Long Mott Energy, LLC</author>
 			<pubDate>2025-10-27 08:00:00</pubDate>
-		</item>
-		<item>
-			<title>2025/10/08 Project Long Mott Docs - DRAFT Request for Confirmatory Information (RCI) Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25281A305</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-10-22 08:08:00</pubDate>
 		</item>
 	</channel>
 </rss>
