@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 05 Nov 2025 23:18:36 GMT</pubDate>
-		<lastBuildDate>Wed, 05 Nov 2025 23:18:36 GMT</lastBuildDate>
+		<pubDate>Thu, 06 Nov 2025 14:20:57 GMT</pubDate>
+		<lastBuildDate>Thu, 06 Nov 2025 14:20:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,55 +45,6 @@
 			<description>Letter, Request for Code Relief or Alternative</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2025-10-24 07:48:00</pubDate>
-		</item>
-		<item>
-			<title>IRC Watts Bar 19990001  Integrated</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML993640245</link>
-			<description>Inspection Report</description>
-			<author>NRC/RGN-II</author>
-			<pubDate>2025-10-23 14:41:00</pubDate>
-		</item>
-		<item>
-			<title>IRC Sequoyah 19990003 Integrated</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML993640220</link>
-			<description>Inspection Report</description>
-			<author>NRC/RGN-II</author>
-			<pubDate>2025-10-23 14:41:00</pubDate>
-		</item>
-		<item>
-			<title>IRC Sequoyah 19990004 Integrated</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML993640225</link>
-			<description>Inspection Report</description>
-			<author>NRC/RGN-II</author>
-			<pubDate>2025-10-23 14:41:00</pubDate>
-		</item>
-		<item>
-			<title>IRC Sequoyah 19990005 Integrated</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML993640232</link>
-			<description>Inspection Report</description>
-			<author>NRC/RGN-II</author>
-			<pubDate>2025-10-23 14:41:00</pubDate>
-		</item>
-		<item>
-			<title>IRC Sequoyah 19990006 Integrated</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML993640237</link>
-			<description>Inspection Report</description>
-			<author>NRC/RGN-II</author>
-			<pubDate>2025-10-23 14:41:00</pubDate>
-		</item>
-		<item>
-			<title>IRC Sequoyah 19990007 Integrated</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML993640242</link>
-			<description>Inspection Report</description>
-			<author>NRC/RGN-II</author>
-			<pubDate>2025-10-23 14:41:00</pubDate>
-		</item>
-		<item>
-			<title>IRC Watts Bar 19990002 Integrated</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML993640251</link>
-			<description>Inspection Report</description>
-			<author>NRC/RGN-II</author>
-			<pubDate>2025-10-23 14:41:00</pubDate>
 		</item>
 	</channel>
 </rss>

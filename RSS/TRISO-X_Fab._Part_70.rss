@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 05 Nov 2025 23:18:29 GMT</pubDate>
-		<lastBuildDate>Wed, 05 Nov 2025 23:18:29 GMT</lastBuildDate>
+		<pubDate>Thu, 06 Nov 2025 14:20:49 GMT</pubDate>
+		<lastBuildDate>Thu, 06 Nov 2025 14:20:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Letter</description>
 			<author>Triso-X, LLC</author>
 			<pubDate>2025-10-24 11:31:00</pubDate>
-		</item>
-		<item>
-			<title>Federal Register Notice - TRISO-X Draft Environmental Impact Statement Notice and Request for Comments</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25267A200</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NMSS/DREFS</author>
-			<pubDate>2025-10-23 11:08:00</pubDate>
 		</item>
 	</channel>
 </rss>
