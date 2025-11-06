@@ -1,0 +1,40 @@
+# Codex of Docket Numbers
+
+Docket numbers are hard to keep track of so let `nrcadams` keep track of
+them for you! This exported tibble provides the project name, company,
+and docket number for a selection of efforts.
+
+## Usage
+
+``` r
+docket_codex
+```
+
+## Format
+
+A tibble with columns for project names, company names, docket numbers,
+and logical flag for NLWR applications.
+
+## Value
+
+tibble of docket numbers
+
+## Examples
+
+``` r
+nrcadams::docket_codex
+#> # A tibble: 32 × 4
+#>    Project                         Company                    DocketNumber NLWR 
+#>    <chr>                           <chr>                             <dbl> <lgl>
+#>  1 MSRR Pre-Application            ACU                            99902088 TRUE 
+#>  2 MSRR Part 50                    ACU                             5000610 TRUE 
+#>  3 Shine Part 50                   SHINE Medical Technologies      5000608 TRUE 
+#>  4 Shine Recycling Pre-Application SHINE Medical Technologies     99902115 TRUE 
+#>  5 Xe-100 Pre-Application          X-Energy                       99902071 TRUE 
+#>  6 TRISO-X Fab. Part 70            X-Energy                        7007027 TRUE 
+#>  7 Long Mott Pre-Application       X-Energy                       99902117 TRUE 
+#>  8 AP300                           Westinghouse                   99902111 FALSE
+#>  9 Natrium Pre-Application         TerraPower                     99902100 TRUE 
+#> 10 Natrium Part 50                 TerraPower                      5000613 TRUE 
+#> # ℹ 22 more rows
+```
