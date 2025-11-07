@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 06 Nov 2025 23:17:50 GMT</pubDate>
-		<lastBuildDate>Thu, 06 Nov 2025 23:17:50 GMT</lastBuildDate>
+		<pubDate>Fri, 07 Nov 2025 14:18:47 GMT</pubDate>
+		<lastBuildDate>Fri, 07 Nov 2025 14:18:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
 			<author>Arizona Public Service Co</author>
 			<pubDate>2025-10-27 08:00:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3 - Request for Exemptions from 10 CFR 50.55(a)(3)(iii) and 10 CFR 50.55a(y) for Adoption of Code Case OMN-31</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25289A358</link>
-			<description>Letter, Request for Code Relief or Alternative</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-10-24 07:48:00</pubDate>
 		</item>
 	</channel>
 </rss>

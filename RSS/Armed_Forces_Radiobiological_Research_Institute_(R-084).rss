@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 06 Nov 2025 23:17:47 GMT</pubDate>
-		<lastBuildDate>Thu, 06 Nov 2025 23:17:47 GMT</lastBuildDate>
+		<pubDate>Fri, 07 Nov 2025 14:18:45 GMT</pubDate>
+		<lastBuildDate>Fri, 07 Nov 2025 14:18:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>U.S. Dept. of Defense, Request to Complete Pulse Training at Similar Facility to Satisfy AFRRI Licensed Operator Requalification Program Requirements for TRIGA Reactor Facility Operating License No. R-84, Docket No. 05000170</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25303A279</link>
+			<description>Letter</description>
+			<author>US Dept of Defense, Uniformed Services Univ of the Health Sciences</author>
+			<pubDate>2025-11-07 08:09:00</pubDate>
+		</item>
+	</channel>
 </rss>
