@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 07 Nov 2025 23:16:52 GMT</pubDate>
-		<lastBuildDate>Fri, 07 Nov 2025 23:16:52 GMT</lastBuildDate>
+		<pubDate>Mon, 10 Nov 2025 14:20:53 GMT</pubDate>
+		<lastBuildDate>Mon, 10 Nov 2025 14:20:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,13 +73,6 @@
 			<description>Letter, Map, Photograph, Response to Request for Additional Information (RAI)</description>
 			<author>Southern Nuclear Operating Co, Inc</author>
 			<pubDate>2025-10-28 07:58:00</pubDate>
-		</item>
-		<item>
-			<title>Confirmatory Information regarding the Environmental Report for the Long Mott Generating Station Constuction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25290A123</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2025-10-27 08:00:00</pubDate>
 		</item>
 	</channel>
 </rss>

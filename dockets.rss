@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 07 Nov 2025 23:16:46 GMT</pubDate>
-		<lastBuildDate>Fri, 07 Nov 2025 23:16:46 GMT</lastBuildDate>
+		<pubDate>Mon, 10 Nov 2025 14:20:44 GMT</pubDate>
+		<lastBuildDate>Mon, 10 Nov 2025 14:20:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -157,48 +157,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-11-04 07:51:00</pubDate>
-		</item>
-		<item>
-			<title>2025/10/20 Clinch River CP Saf Docs - Docket Request for A-15.5-1 - TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25293A254</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-11-03 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>Supplement 3 Regarding the Environmental Report for the Long Mott Generating Station Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25297A165</link>
-			<description>Letter</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2025-11-03 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Clarification of the Comparative Acreages of Sites A, B, C, and D Described in Chapter 9 of the ER</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25297A166</link>
-			<description>Report, Miscellaneous</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2025-11-03 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Texas Pollutant Discharge Elimination System (TPDES) permit (WQ0000447000) for the Seadrift Operations Plant, December 3, 2014</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25297A168</link>
-			<description>Environmental Monitoring Report</description>
-			<author>Long Mott Energy, LLC, State of TX, Commission on Environmental Quality</author>
-			<pubDate>2025-11-03 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 5: Project Long Mott Ecological Resources Technical Report, Rev. 1, August 20, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25297A170</link>
-			<description>Report, Technical</description>
-			<author>Long Mott Energy, LLC, US Dept of Agriculture, Natural Resources Conservation Service</author>
-			<pubDate>2025-11-03 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 6: USFWS Northern Long-Eared Bat and Tricolored Bat Range-Wide Determination Key, July 29, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25297A171</link>
-			<description>Report, Technical</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2025-11-03 08:01:00</pubDate>
 		</item>
 	</channel>
 </rss>

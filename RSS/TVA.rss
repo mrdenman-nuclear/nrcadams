@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 07 Nov 2025 23:16:53 GMT</pubDate>
-		<lastBuildDate>Fri, 07 Nov 2025 23:16:53 GMT</lastBuildDate>
+		<pubDate>Mon, 10 Nov 2025 14:20:54 GMT</pubDate>
+		<lastBuildDate>Mon, 10 Nov 2025 14:20:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Letter, Licensee Event Report (LER)</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2025-10-28 07:58:00</pubDate>
-		</item>
-		<item>
-			<title>Palo Verde, Units 1, 2, and 3 - License Amendment Request to Relocate Select Unit Staff Qualifications from Technical Specification Section 5.3.1 to the Quality Assurance Program Document</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25290A000</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>Arizona Public Service Co</author>
-			<pubDate>2025-10-27 08:00:00</pubDate>
 		</item>
 	</channel>
 </rss>
