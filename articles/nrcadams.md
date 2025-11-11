@@ -49,7 +49,7 @@ nrcadams::docket_codex |>
     )
 #> Searching with the following URL:
 #>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_any:!(!(DocketNumber,eq,'99902088',''),!(DocketNumber,eq,'05000610','')),properties_search_all:!(!(PublishDatePARS,gt,'09/12/2025',''))))&qn=New&tab=advanced-search-pars&z=0 
-#> : 0.407 sec elapsed
+#> : 0.357 sec elapsed
 #> 
 #>  This search returned: 5 files.
 ```
@@ -82,7 +82,7 @@ nrcadams::docket_codex |>
     )
 #> Searching with the following URL:
 #>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_any:!(!(DocketNumber,eq,'99902071',''),!(DocketNumber,eq,'07007027',''),!(DocketNumber,eq,'99902117',''))))&qn=New&tab=advanced-search-pars&z=0 
-#> : 4.768 sec elapsed
+#> : 6.742 sec elapsed
 #> 
 #>  This search returned: 1000 files.
 #> Warning in nrcadams::search_docket(dplyr::pull(dplyr::filter(nrcadams::docket_codex, : 
