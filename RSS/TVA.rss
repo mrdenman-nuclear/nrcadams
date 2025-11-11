@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 10 Nov 2025 23:18:51 GMT</pubDate>
-		<lastBuildDate>Mon, 10 Nov 2025 23:18:51 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Nov 2025 14:19:45 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Nov 2025 14:19:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Letter, Licensee Event Report (LER)</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2025-10-30 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>LER 2025-002-00 for Browns Ferry Nuclear Plant, Unit 3, Reactor Core Isolation Cooling Inoperable Due to Failed Ramp Generating Signal Converter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25293A446</link>
-			<description>Letter, Licensee Event Report (LER)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-10-28 07:58:00</pubDate>
 		</item>
 	</channel>
 </rss>
