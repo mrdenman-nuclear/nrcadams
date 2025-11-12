@@ -5,18 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 23 Oct 2025 23:16:28 GMT</pubDate>
-		<lastBuildDate>Thu, 23 Oct 2025 23:16:28 GMT</lastBuildDate>
+		<pubDate>Wed, 12 Nov 2025 21:18:02 GMT</pubDate>
+		<lastBuildDate>Wed, 12 Nov 2025 21:18:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>Table of Contents for Inspection Manual Change Notice 11-020</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML11279A098</link>
+			<title>Draft Inspection Procedure (IP) 71111.21A "Engineering Safety Performance Inspection"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25303A281</link>
 			<description>Inspection Manual</description>
-			<author>NRC/NRR/DIRS/IRIB</author>
-			<pubDate>2025-10-17 11:49:00</pubDate>
+			<author>NRC/NRR/DRO/IRIB</author>
+			<pubDate>2025-11-12 15:02:00</pubDate>
+		</item>
+		<item>
+			<title>Draft Inspection Procedure (IP) 71152, "Problem Identification and Resolution (PI&R)"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25311A092</link>
+			<description>Inspection Manual</description>
+			<author>NRC/NRR/DRO/IRIB</author>
+			<pubDate>2025-11-12 15:02:00</pubDate>
+		</item>
+		<item>
+			<title>Draft Inspection Procedures (IP) 93816 "Problem Identification and Resolution (PI&R) Team Inspection"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25314A002</link>
+			<description>Inspection Manual</description>
+			<author>NRC/NRR/DRO/IRIB</author>
+			<pubDate>2025-11-12 15:02:00</pubDate>
 		</item>
 	</channel>
 </rss>
