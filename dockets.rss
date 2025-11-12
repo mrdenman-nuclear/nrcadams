@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Nov 2025 23:18:15 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Nov 2025 23:18:15 GMT</lastBuildDate>
+		<pubDate>Wed, 12 Nov 2025 14:21:08 GMT</pubDate>
+		<lastBuildDate>Wed, 12 Nov 2025 14:21:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2025/10/29 Clinch River CP Saf Docs - Docket Request for A-10.2-1, A-10.2-2, and A-10.2-3 - TVA Clinch River CP Audit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25302A227</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-11-12 08:05:00</pubDate>
+		</item>
 		<item>
 			<title>Email - Draft Safety Evaluations for the Kemmerer Power Station Unit 1 Construction Permit Application to Support the ACRS Full Committee</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25303A296</link>
@@ -108,20 +115,6 @@
 			<description>Environmental Impact Statement</description>
 			<author>NRC/NMSS/DREFS, US Dept of the Army, Corps of Engineers, Nashville District</author>
 			<pubDate>2025-11-06 08:48:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC - Transmittal of Response to NRC Request for Confirmation of Information for the Review of the Kemmerer Power Station Unit 1 Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25259A180</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-11-05 09:35:00</pubDate>
-		</item>
-		<item>
-			<title>730th ACRS FC Meeting Slides - ACRS Subcommittee Review of Kemmerer Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25307A198</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-11-05 08:23:00</pubDate>
 		</item>
 	</channel>
 </rss>
