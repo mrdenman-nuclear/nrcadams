@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Nov 2025 23:19:24 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Nov 2025 23:19:24 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Nov 2025 14:20:27 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Nov 2025 14:20:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Letter - Terrapower, LLC - Final Safety Evaluation for NAT-8922 "Reactor Seismic Isolation System Qualification Topical Report," Revision 2 (EPID L-2024-TOP-0005)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25296A227</link>
-			<description>Letter</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-10-31 08:28:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - Terrapower, LLC - Final Safety Evaluation for NAT-8922 "Reactor Seismic Isolation System Qualification Topical Report," Revision 2 (EPID L-2024-TOP-0005)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25296A229</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-10-31 08:28:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

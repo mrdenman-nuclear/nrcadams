@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Nov 2025 23:19:25 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Nov 2025 23:19:25 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Nov 2025 14:20:27 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Nov 2025 14:20:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>ML25266A131-Summary of the August 12, 2025, Public Meeting with SMR, LLC (A Holtec International Company) to Discuss the SMR-300 Structural Modularity</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25266A131</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2025-11-14 07:54:00</pubDate>
+		</item>
 		<item>
 			<title>Clinch River Nuclear Site Construction Permit Draft SEIS Issuance Applicant Letter</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25274A093</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25297A168</link>
 			<description>Environmental Monitoring Report</description>
 			<author>Long Mott Energy, LLC, State of TX, Commission on Environmental Quality</author>
-			<pubDate>2025-11-03 08:01:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 5: Project Long Mott Ecological Resources Technical Report, Rev. 1, August 20, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25297A170</link>
-			<description>Report, Technical</description>
-			<author>Long Mott Energy, LLC, US Dept of Agriculture, Natural Resources Conservation Service</author>
 			<pubDate>2025-11-03 08:01:00</pubDate>
 		</item>
 	</channel>
