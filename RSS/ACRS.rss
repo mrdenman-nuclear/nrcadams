@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 18 Nov 2025 23:20:51 GMT</pubDate>
-		<lastBuildDate>Tue, 18 Nov 2025 23:20:51 GMT</lastBuildDate>
+		<pubDate>Wed, 19 Nov 2025 14:22:07 GMT</pubDate>
+		<lastBuildDate>Wed, 19 Nov 2025 14:22:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Report on Closed Portions of the Advisory Committee on Reactor Safeguards Full Committee Meetings in 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25259A232</link>
+			<description>Memoranda</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2025-11-19 08:03:00</pubDate>
+		</item>
 		<item>
 			<title>Report on the Safety Aspects of the Construction Permit Application for a TerraPower Natrium Reactor at the Kemmerer Power Station</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25311A150</link>
@@ -24,13 +31,6 @@
 			<description>Meeting Agenda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-11-17 09:32:00</pubDate>
-		</item>
-		<item>
-			<title>730th ACRS FC Meeting Slides - ACRS Subcommittee Review of Kemmerer Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25307A198</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-11-05 08:23:00</pubDate>
 		</item>
 	</channel>
 </rss>

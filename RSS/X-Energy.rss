@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 18 Nov 2025 23:20:56 GMT</pubDate>
-		<lastBuildDate>Tue, 18 Nov 2025 23:20:56 GMT</lastBuildDate>
+		<pubDate>Wed, 19 Nov 2025 14:22:12 GMT</pubDate>
+		<lastBuildDate>Wed, 19 Nov 2025 14:22:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Long Mott Generating Station - Redacted Seadrift WSP Phase I Survey Short Final Report 02-19-2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25317A020</link>
+			<description>Environmental Monitoring Report, Report, Technical</description>
+			<author>WSP USA Environment and Infrastructure, Inc</author>
+			<pubDate>2025-11-19 08:03:00</pubDate>
+		</item>
+		<item>
+			<title>Presentation 4 - Eggett - ARCSC 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25268A095</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Advanced Reactor Codes and Standards Collaborative</author>
+			<pubDate>2025-11-19 08:03:00</pubDate>
+		</item>
+	</channel>
 </rss>

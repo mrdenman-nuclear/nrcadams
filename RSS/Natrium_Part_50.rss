@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 18 Nov 2025 23:20:50 GMT</pubDate>
-		<lastBuildDate>Tue, 18 Nov 2025 23:20:50 GMT</lastBuildDate>
+		<pubDate>Wed, 19 Nov 2025 14:22:06 GMT</pubDate>
+		<lastBuildDate>Wed, 19 Nov 2025 14:22:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,20 +59,6 @@
 			<description>Draft Safety Evaluation Report (DSER)</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2025-11-07 08:09:00</pubDate>
-		</item>
-		<item>
-			<title>TerraPower, LLC - Transmittal of Response to NRC Request for Confirmation of Information for the Review of the Kemmerer Power Station Unit 1 Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25259A180</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-11-05 09:35:00</pubDate>
-		</item>
-		<item>
-			<title>730th ACRS FC Meeting Slides - ACRS Subcommittee Review of Kemmerer Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25307A198</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-11-05 08:23:00</pubDate>
 		</item>
 	</channel>
 </rss>
