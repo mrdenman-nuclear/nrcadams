@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 19 Nov 2025 23:19:12 GMT</pubDate>
-		<lastBuildDate>Wed, 19 Nov 2025 23:19:12 GMT</lastBuildDate>
+		<pubDate>Thu, 20 Nov 2025 20:21:31 GMT</pubDate>
+		<lastBuildDate>Thu, 20 Nov 2025 20:21:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>2025/09/30 Kairos Power Pre-App Doc - [External_Sender] RE Kairos Power Electronic Reading Room Document Upload</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25317A661</link>
+			<description>E-Mail</description>
+			<author>- No Known Affiliation</author>
+			<pubDate>2025-11-20 08:12:00</pubDate>
+		</item>
+		<item>
+			<title>2025/11/13 Kairos Power Pre-App Doc -  A E  FW Kairos Power Electronic Reading Room Document Upload</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25317A663</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-11-20 08:12:00</pubDate>
+		</item>
+	</channel>
 </rss>
