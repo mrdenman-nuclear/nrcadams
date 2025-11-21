@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 21 Nov 2025 15:18:18 GMT</pubDate>
-		<lastBuildDate>Fri, 21 Nov 2025 15:18:18 GMT</lastBuildDate>
+		<pubDate>Fri, 21 Nov 2025 16:23:00 GMT</pubDate>
+		<lastBuildDate>Fri, 21 Nov 2025 16:23:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Examination Confirmation Letter No. 50-166/OL-26-01, University of Maryland</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25253A478</link>
+			<description>Letter, License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2025-11-21 10:20:00</pubDate>
+		</item>
+	</channel>
 </rss>
