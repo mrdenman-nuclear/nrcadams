@@ -5,11 +5,39 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 20 Nov 2025 23:18:59 GMT</pubDate>
-		<lastBuildDate>Thu, 20 Nov 2025 23:18:59 GMT</lastBuildDate>
+		<pubDate>Fri, 21 Nov 2025 14:20:12 GMT</pubDate>
+		<lastBuildDate>Fri, 21 Nov 2025 14:20:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>NRC 896 - A Topical Report Verification of TerraPower, LLC "Reactor Seismic Isolation System Qualification," NAT-8922?A, Revision 2 (EPID L-2024-TOP-0005)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25318A769</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-11-21 08:24:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Form 897 - Request For Withholding Proprietary Information From Public Disclosure - TerraPower, LLC NAT-8922-A, "Reactor Seismic Isolation System Qualification," Revision 2 (EPID L-2023-TOP-0005)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25321A282</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2025-11-21 08:24:00</pubDate>
+		</item>
+		<item>
+			<title>Email - Request For Withholding Proprietary Information From Public Disclosure - TerraPower, LLC NAT-8922-A, "Reactor Seismic Isolation System Qualification," Revision 2 (EPID L-2023-TOP-0005)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25321A277</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-11-21 08:24:00</pubDate>
+		</item>
+		<item>
+			<title>Email - A Topical Report Verification of TerraPower, LLC "Reactor Seismic Isolation System Qualification," NAT-8922?A, Revision 2 (EPID L-2024-TOP-0005)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25318B192</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-11-21 08:24:00</pubDate>
+		</item>
+	</channel>
 </rss>
