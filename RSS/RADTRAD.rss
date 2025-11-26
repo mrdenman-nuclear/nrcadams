@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 26 Nov 2025 14:22:21 GMT</pubDate>
-		<lastBuildDate>Wed, 26 Nov 2025 14:22:21 GMT</lastBuildDate>
+		<pubDate>Wed, 26 Nov 2025 15:19:50 GMT</pubDate>
+		<lastBuildDate>Wed, 26 Nov 2025 15:19:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Enclosure 3 - US SFR Owner, LLC - Summary Report for the General Regulatory Audit of the Kemmerer Power Station Unit 1 Construction Permit Application (EPID L-2024-CPS-0000)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25302A450</link>
+			<description>Report, Technical</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-11-26 10:04:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1 - US SFR Owner, LLC - Summary Report for the General Regulatory Audit of the Kemmerer Power Station Unit 1 Construction Permit Application (EPID L-2024-CPS-0000)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25302A446</link>
+			<description>Report, Technical</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-11-26 10:04:00</pubDate>
+		</item>
+	</channel>
 </rss>
