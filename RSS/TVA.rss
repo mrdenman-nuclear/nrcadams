@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 27 Nov 2025 23:18:31 GMT</pubDate>
-		<lastBuildDate>Thu, 27 Nov 2025 23:18:31 GMT</lastBuildDate>
+		<pubDate>Fri, 28 Nov 2025 14:22:41 GMT</pubDate>
+		<lastBuildDate>Fri, 28 Nov 2025 14:22:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Browns Ferry Nuclear Plant - Site Emergency Plan Implementing Procedure Revision (EPIP-1, Revision 69)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25282A008</link>
+			<description>Emergency Preparedness-Emergency Plan Implementing Procedures, Letter</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-11-28 09:18:00</pubDate>
+		</item>
 		<item>
 			<title>Browns Ferry Nuclear Plant Pre-Submittal Meeting for Proposed License Amendment Request to Modify Technical Specification 3.6.1.3 Meeting Slides</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25329A045</link>
@@ -73,13 +80,6 @@
 			<description>Research Information Letter (RIL)</description>
 			<author>NRC/RES</author>
 			<pubDate>2025-11-18 12:37:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (2) of Will Herrick on Global Laser Enrichment, LLC; Paducah Laser Enrichment Facility; Notice of Intent To Conduct Scoping Process and Prepare Environmental Impact Statement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25317A563</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2025-11-14 07:54:00</pubDate>
 		</item>
 	</channel>
 </rss>
