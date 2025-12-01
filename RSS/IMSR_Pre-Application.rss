@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 28 Nov 2025 22:17:17 GMT</pubDate>
-		<lastBuildDate>Fri, 28 Nov 2025 22:17:17 GMT</lastBuildDate>
+		<pubDate>Mon, 01 Dec 2025 14:22:28 GMT</pubDate>
+		<lastBuildDate>Mon, 01 Dec 2025 14:22:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,27 +24,6 @@
 			<description>Topical Report</description>
 			<author>Terrestrial Energy USA</author>
 			<pubDate>2025-11-26 10:03:00</pubDate>
-		</item>
-		<item>
-			<title>Terrestrial Energy USA - Submittal of Topical Report on Postulated Initiating Events Methodology for the IMSR400, Revision B</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25274A147</link>
-			<description>Letter</description>
-			<author>Terrestrial Energy USA</author>
-			<pubDate>2025-11-17 10:29:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Affidavit Supporting Request for Withholding from Public Disclosure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25274A146</link>
-			<description>Legal-Affidavit</description>
-			<author>Terrestrial Energy USA</author>
-			<pubDate>2025-11-17 10:29:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Topical Report on Postulated Initiating Events for the IMSR400 Revision B - non-Proprietary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25320A004</link>
-			<description>Topical Report</description>
-			<author>Terrestrial Energy USA, Inc</author>
-			<pubDate>2025-11-17 10:29:00</pubDate>
 		</item>
 	</channel>
 </rss>

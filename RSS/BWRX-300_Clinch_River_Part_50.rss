@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 28 Nov 2025 22:17:17 GMT</pubDate>
-		<lastBuildDate>Fri, 28 Nov 2025 22:17:17 GMT</lastBuildDate>
+		<pubDate>Mon, 01 Dec 2025 14:22:28 GMT</pubDate>
+		<lastBuildDate>Mon, 01 Dec 2025 14:22:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2025/11/17 Clinch River CP Saf Docs - Docket Request for Audit Response and PSAR Markup (TVA Clinch River CP Audit) - Audit Issue A-3F-1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25321A054</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-12-01 08:05:00</pubDate>
+		</item>
 		<item>
 			<title>Notification Of the Issuance of the Draft Supplemental Environmental Impact Statement for Tennessee Valley Authority at the Clinch River Nuclear Site (EPID L-2025-LNE-0000)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25317A643</link>
@@ -108,20 +115,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-11-19 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>President Donald J. Trump Advanced Energy And Intelligence Campus, Units 1-4, Combined License Application Review - Acknowledgment Of Interest In Applicant-Prepared NEPA Document Pilot Project (Project Number: 99902056) (Docket Number: 05000615)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25302A444</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2025-11-17 16:01:00</pubDate>
-		</item>
-		<item>
-			<title>2025/11/03 Clinch River CP Saf Docs - Docket Request for A-15.5-11 - TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25307A311</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-11-17 08:12:00</pubDate>
 		</item>
 	</channel>
 </rss>

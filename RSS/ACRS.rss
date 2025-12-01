@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 28 Nov 2025 22:17:18 GMT</pubDate>
-		<lastBuildDate>Fri, 28 Nov 2025 22:17:18 GMT</lastBuildDate>
+		<pubDate>Mon, 01 Dec 2025 14:22:30 GMT</pubDate>
+		<lastBuildDate>Mon, 01 Dec 2025 14:22:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,20 +73,6 @@
 			<description>Memoranda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-11-19 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>Report on the Safety Aspects of the Construction Permit Application for a TerraPower Natrium Reactor at the Kemmerer Power Station</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25311A150</link>
-			<description>Committee Letter Report, Letter</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-11-17 09:32:00</pubDate>
-		</item>
-		<item>
-			<title>731st ACRS Full Committee Meeting Agenda for December 3 through 5 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25309A159</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-11-17 09:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
