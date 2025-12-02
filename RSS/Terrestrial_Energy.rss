@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 01 Dec 2025 23:18:38 GMT</pubDate>
-		<lastBuildDate>Mon, 01 Dec 2025 23:18:38 GMT</lastBuildDate>
+		<pubDate>Tue, 02 Dec 2025 14:22:41 GMT</pubDate>
+		<lastBuildDate>Tue, 02 Dec 2025 14:22:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -115,20 +115,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Advanced Reactor Codes and Standards Collaborative</author>
 			<pubDate>2025-11-19 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>Donald C. Cook, Unit 2, Current Facility Operating License No. DPR-74, Tech Specs, Revised 11/18/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053050307</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-11-18 11:21:00</pubDate>
-		</item>
-		<item>
-			<title>Donald C. Cook, Unit 1, Current Facility Operating License No. DPR-58, Tech Specs, Revised 11/18/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053050305</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-11-18 11:20:00</pubDate>
 		</item>
 	</channel>
 </rss>

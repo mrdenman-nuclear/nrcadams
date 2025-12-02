@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 01 Dec 2025 23:18:38 GMT</pubDate>
-		<lastBuildDate>Mon, 01 Dec 2025 23:18:38 GMT</lastBuildDate>
+		<pubDate>Tue, 02 Dec 2025 14:22:41 GMT</pubDate>
+		<lastBuildDate>Tue, 02 Dec 2025 14:22:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>58060-EN # 58060 - Rosemount Model 3154</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25330A126</link>
+			<description>Deficiency Report (per 10CFR50.55e and Part 21), Letter</description>
+			<author>Rosemount Nuclear Instruments, Inc</author>
+			<pubDate>2025-12-02 08:24:00</pubDate>
+		</item>
 		<item>
 			<title>Safety Evaluation Related to the U.S. SFR Owner, LLC Construction Permit Application for the Kemmerer Power Station, Unit 1, (EPID L-2024-CPS-0000)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25329A252</link>
@@ -122,13 +129,6 @@
 			<description>Updated Final Safety Analysis Report (UFSAR)</description>
 			<author>Vistra Operations Company, LLC</author>
 			<pubDate>2025-11-19 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>Research Information Letter 2025-06, "NRC Workshop on Structural Materials: Research for 80 Years and Beyond, Summary Report"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25258A153</link>
-			<description>Research Information Letter (RIL)</description>
-			<author>NRC/RES</author>
-			<pubDate>2025-11-18 12:37:00</pubDate>
 		</item>
 	</channel>
 </rss>

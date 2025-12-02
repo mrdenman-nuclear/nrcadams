@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 01 Dec 2025 23:18:40 GMT</pubDate>
-		<lastBuildDate>Mon, 01 Dec 2025 23:18:40 GMT</lastBuildDate>
+		<pubDate>Tue, 02 Dec 2025 14:22:43 GMT</pubDate>
+		<lastBuildDate>Tue, 02 Dec 2025 14:22:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -101,13 +101,6 @@
 			<description>Report, Technical</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-11-26 10:03:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure, TerraPower Kemmerer, Environmental Audit Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25273A060</link>
-			<description>Audit Report, Environmental Report</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2025-11-25 15:43:00</pubDate>
 		</item>
 	</channel>
 </rss>
