@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 02 Dec 2025 22:17:50 GMT</pubDate>
-		<lastBuildDate>Tue, 02 Dec 2025 22:17:50 GMT</lastBuildDate>
+		<pubDate>Wed, 03 Dec 2025 14:23:04 GMT</pubDate>
+		<lastBuildDate>Wed, 03 Dec 2025 14:23:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,34 +38,6 @@
 			<description>Legal-Pleading</description>
 			<author>Long Mott Energy, LLC, Morgan, Lewis and Bockius, LLP</author>
 			<pubDate>2025-11-21 09:28:00</pubDate>
-		</item>
-		<item>
-			<title>November 2025 Advisory Committee on Reactor Safeguards (ACRS) Full Committee Meeting - Topical Reports</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25321A011</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-11-19 10:43:00</pubDate>
-		</item>
-		<item>
-			<title>Presentation 4 - McDonald - Risk-informed performance-based seismic design of NPPs</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25268A156</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Exponent, Inc, Univ of Buffalo, X-Energy</author>
-			<pubDate>2025-11-19 10:43:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Generating Station - Redacted Seadrift WSP Phase I Survey Short Final Report 02-19-2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25317A020</link>
-			<description>Environmental Monitoring Report, Report, Technical</description>
-			<author>WSP USA Environment and Infrastructure, Inc</author>
-			<pubDate>2025-11-19 08:03:00</pubDate>
-		</item>
-		<item>
-			<title>Presentation 4 - Eggett - ARCSC 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25268A095</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Advanced Reactor Codes and Standards Collaborative</author>
-			<pubDate>2025-11-19 08:03:00</pubDate>
 		</item>
 	</channel>
 </rss>

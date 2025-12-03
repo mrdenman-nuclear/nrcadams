@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 02 Dec 2025 22:17:50 GMT</pubDate>
-		<lastBuildDate>Tue, 02 Dec 2025 22:17:50 GMT</lastBuildDate>
+		<pubDate>Wed, 03 Dec 2025 14:23:04 GMT</pubDate>
+		<lastBuildDate>Wed, 03 Dec 2025 14:23:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Legal-Affidavit, Letter, Topical Report</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2025-11-20 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-1482, Revision 4, "Guidelines for Inservice Testing at Nuclear Power Plants: Inservice Testing of Pumps and Valves and Inservice Examination and Testing of Dynamic Restraints (Snubbers) at Nuclear Power Plants" Final Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25267A104</link>
-			<description>NUREG</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-11-19 08:42:00</pubDate>
 		</item>
 	</channel>
 </rss>
