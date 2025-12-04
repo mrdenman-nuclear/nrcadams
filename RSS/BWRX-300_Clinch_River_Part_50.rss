@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 03 Dec 2025 23:17:56 GMT</pubDate>
-		<lastBuildDate>Wed, 03 Dec 2025 23:17:56 GMT</lastBuildDate>
+		<pubDate>Thu, 04 Dec 2025 14:22:47 GMT</pubDate>
+		<lastBuildDate>Thu, 04 Dec 2025 14:22:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -87,27 +87,6 @@
 			<description>General FR Notice Comment Letter</description>
 			<author>Amphibian Refuge</author>
 			<pubDate>2025-11-21 08:24:00</pubDate>
-		</item>
-		<item>
-			<title>2025/11/06 Clinch River CP Saf Docs - Docket Request for A-9.2-3 - TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25310A002</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-11-20 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>2025/11/06 Clinch River CP Saf Docs - Docket Request for A-3.10-2 (TVA Clinch River CP Audit)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25310A226</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-11-20 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>2025/11/06 Clinch River CP Saf Docs - Docket Request for 11.2-3 - TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25310A242</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-11-20 08:11:00</pubDate>
 		</item>
 	</channel>
 </rss>
