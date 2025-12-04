@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 04 Dec 2025 18:30:35 GMT</pubDate>
-		<lastBuildDate>Thu, 04 Dec 2025 18:30:35 GMT</lastBuildDate>
+		<pubDate>Thu, 04 Dec 2025 19:19:55 GMT</pubDate>
+		<lastBuildDate>Thu, 04 Dec 2025 19:19:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SMR, LLC, Submittal of SMR-300 Concrete Strengthened Steel Structures Design and Analysis Methodology Licensing Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25336A061</link>
+			<description>Letter</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2025-12-04 14:14:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: "SMR-300 Concrete Strengthened Steel Structures Design and Analysis Methodology Licensing Topical Report," HI-2251825 R0, Nonproprietary (Without Proprietary Appendices A and B)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25336A063</link>
+			<description>Topical Report</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2025-12-04 14:14:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 3: Affidavit Pursuant to 10 CFR 2.390 to Withhold Information from Public Disclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25336A064</link>
+			<description>Legal-Affidavit</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2025-12-04 14:14:00</pubDate>
+		</item>
 		<item>
 			<title>Final SE Kairos Core Design Methodology TR (Public)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25206A372</link>
@@ -199,27 +220,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2025-11-28 13:04:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25330A078</link>
-			<description>Legal-Affidavit</description>
-			<author>SMR, LLC</author>
-			<pubDate>2025-11-28 13:04:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse - Affidavit AW-25-066</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25323A313</link>
-			<description>Legal-Affidavit</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2025-11-28 09:19:00</pubDate>
-		</item>
-		<item>
-			<title>2025/11/20 Kairos Power Pre-App Doc - Kairos KP-FHR Core Design and Analysis Methodology Topical Report - Final Audit Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25324A354</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-11-28 09:19:00</pubDate>
 		</item>
 	</channel>
 </rss>
