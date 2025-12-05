@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 04 Dec 2025 23:19:27 GMT</pubDate>
-		<lastBuildDate>Thu, 04 Dec 2025 23:19:27 GMT</lastBuildDate>
+		<pubDate>Fri, 05 Dec 2025 14:21:15 GMT</pubDate>
+		<lastBuildDate>Fri, 05 Dec 2025 14:21:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -80,27 +80,6 @@
 			<description>Letter, Organization Chart, Preliminary Safety Analysis Report (PSAR)</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2025-11-25 12:30:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of the Advisory Committee on Reactor Safeguards - TerraPower Natrium Design-Centered - Kemmerer Subcommittee Meeting, October 8-9, 2025, Pages 1-653 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25324A391</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-11-21 08:24:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of the Advisory Committee on Reactor Safeguards - TerraPower Natrium Design-Centered - Kemmerer Subcommittee Meeting, October 21-23, 2025, Pages 1-910 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25324A396</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-11-21 08:24:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of the Advisory Committee on Reactor Safeguards 730th Full Committee Meeting, November 5, 2025 Pages 1-85 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25324A407</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-11-21 08:24:00</pubDate>
 		</item>
 	</channel>
 </rss>

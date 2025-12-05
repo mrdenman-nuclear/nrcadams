@@ -5,39 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 04 Dec 2025 23:19:37 GMT</pubDate>
-		<lastBuildDate>Thu, 04 Dec 2025 23:19:37 GMT</lastBuildDate>
+		<pubDate>Fri, 05 Dec 2025 14:21:22 GMT</pubDate>
+		<lastBuildDate>Fri, 05 Dec 2025 14:21:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Point Beach, Units 1 and 2, Periodic Update of the Updated Final Safety Analysis Report, List of Effective Pages</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25282A054</link>
-			<description>Graphics incl Charts and Tables, Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>NextEra Energy Point Beach, LLC</author>
-			<pubDate>2025-11-28 13:09:00</pubDate>
-		</item>
-		<item>
-			<title>Point Beach, Units 1 and 2, Periodic Update of the Updated Final Safety Analysis Report, Chapter 14, Safety Analysis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25283A012</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>NextEra Energy Point Beach, LLC</author>
-			<pubDate>2025-11-28 13:09:00</pubDate>
-		</item>
-		<item>
-			<title>Point Beach, Units 1 and 2, Periodic Update of the Updated Final Safety Analysis Report, Chapter 9, Auxiliary And Emergency Systems (REDACTED)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25283A007</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>NextEra Energy Point Beach, LLC</author>
-			<pubDate>2025-11-28 13:03:00</pubDate>
-		</item>
-		<item>
-			<title>Point Beach, Units 1 and 2, Periodic Update of the Updated Final Safety Analysis Report, Appendix A, Station Blackout (SBO) (REDACTED)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25283A014</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>NextEra Energy Point Beach, LLC</author>
-			<pubDate>2025-11-28 13:03:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
