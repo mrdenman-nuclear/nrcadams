@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 05 Dec 2025 17:18:51 GMT</pubDate>
-		<lastBuildDate>Fri, 05 Dec 2025 17:18:51 GMT</lastBuildDate>
+		<pubDate>Fri, 05 Dec 2025 18:25:40 GMT</pubDate>
+		<lastBuildDate>Fri, 05 Dec 2025 18:25:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>08/25/2025 Summary of Closed Public Meeting to Discuss Preconstruction Activities for Oklo Advanced Reactor Design</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25269A198</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-12-05 13:04:00</pubDate>
+		</item>
+		<item>
+			<title>University of Illinois Urbana-Champaign, Request for Pre-Application Regulatory Audit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25339A072</link>
+			<description>E-Mail</description>
+			<author>Univ of Illinois - Urbana - Champaign</author>
+			<pubDate>2025-12-05 13:04:00</pubDate>
+		</item>
 		<item>
 			<title>NRC 897-TEUSA PDC TR240719-A, withholding determination</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25336A269</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25324A311</link>
 			<description>Preliminary Safety Analysis Report (PSAR)</description>
 			<author>Long Mott Energy, LLC</author>
-			<pubDate>2025-12-01 12:24:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 5: PSAR Subsection 2.4.10, "Flood Protection Requirements"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25324A312</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2025-12-01 12:24:00</pubDate>
-		</item>
-		<item>
-			<title>Safety Evaluation Related to the U.S. SFR Owner, LLC Construction Permit Application for the Kemmerer Power Station, Unit 1, (EPID L-2024-CPS-0000)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25329A252</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR</author>
 			<pubDate>2025-12-01 12:24:00</pubDate>
 		</item>
 	</channel>
