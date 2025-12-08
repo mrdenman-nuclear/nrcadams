@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 08 Dec 2025 20:23:47 GMT</pubDate>
-		<lastBuildDate>Mon, 08 Dec 2025 20:23:47 GMT</lastBuildDate>
+		<pubDate>Mon, 08 Dec 2025 21:17:49 GMT</pubDate>
+		<lastBuildDate>Mon, 08 Dec 2025 21:17:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>12/15/2025 Discussion with TRISO-X to Align on the LC Language for the IROFS Exemption</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25342A378</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2025-12-08 15:30:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 2: Approved Version of the KP-FHR Core Design and Analysis Methodology Topical Report (Non-Proprietary)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25338A331</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25206A366</link>
 			<description>Letter</description>
 			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-12-02 08:24:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC, Submittal of SMR-300 Time-Domain LS-DYNA Soil Structure Interaction Analysis Methodology Licensing Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25330A198</link>
-			<description>Letter</description>
-			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2025-12-02 08:24:00</pubDate>
 		</item>
 	</channel>
