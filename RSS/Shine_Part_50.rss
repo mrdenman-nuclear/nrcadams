@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 05 Dec 2025 22:18:41 GMT</pubDate>
-		<lastBuildDate>Fri, 05 Dec 2025 22:18:41 GMT</lastBuildDate>
+		<pubDate>Mon, 08 Dec 2025 14:21:40 GMT</pubDate>
+		<lastBuildDate>Mon, 08 Dec 2025 14:21:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>2025/11/17 NRR E-mail Capture - SHINE Technologies, LLC - Environmental Assessment for Construction Permit Amendment No. 5</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25324A141</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2025-12-08 08:15:00</pubDate>
+		</item>
+	</channel>
 </rss>

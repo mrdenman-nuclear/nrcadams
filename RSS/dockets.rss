@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 05 Dec 2025 22:18:41 GMT</pubDate>
-		<lastBuildDate>Fri, 05 Dec 2025 22:18:41 GMT</lastBuildDate>
+		<pubDate>Mon, 08 Dec 2025 14:21:40 GMT</pubDate>
+		<lastBuildDate>Mon, 08 Dec 2025 14:21:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>12/18/2025 Closed Meeting with X-energy to Discuss Remotely Operated Special Tooling (ROST) Concept</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25342A026</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-12-08 09:09:00</pubDate>
+		</item>
+		<item>
+			<title>2025/11/17 NRR E-mail Capture - SHINE Technologies, LLC - Environmental Assessment for Construction Permit Amendment No. 5</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25324A141</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2025-12-08 08:15:00</pubDate>
+		</item>
+		<item>
+			<title>12/11/2025 Terrestrial Energy USA- "Strategy for Establishing Defense in Depth for IMSR Structures, Systems and Components" TR-251024 Rev. A</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25342A004</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-12-08 07:30:00</pubDate>
+		</item>
 		<item>
 			<title>Supplement #3 to the Preliminary Safety Analysis Report for the Long Mott Generating Station Construction Permit Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25338A311</link>
@@ -199,27 +220,6 @@
 			<description>Topical Report</description>
 			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2025-12-02 08:24:00</pubDate>
-		</item>
-		<item>
-			<title>Supplement #2 to the Preliminary Safety Analysis Report for the Long Mott Generating Station Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25324A307</link>
-			<description>Letter</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2025-12-01 12:24:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: PSAR Subsection 2.4.2, "Floods"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25324A308</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2025-12-01 12:24:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: PSAR Subsection 2.4.3, "Probable Maximum Flood on Streams and Rivers"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25324A309</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2025-12-01 12:24:00</pubDate>
 		</item>
 	</channel>
 </rss>

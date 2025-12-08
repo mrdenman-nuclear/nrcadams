@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 05 Dec 2025 22:18:46 GMT</pubDate>
-		<lastBuildDate>Fri, 05 Dec 2025 22:18:46 GMT</lastBuildDate>
+		<pubDate>Mon, 08 Dec 2025 14:21:46 GMT</pubDate>
+		<lastBuildDate>Mon, 08 Dec 2025 14:21:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Diablo Canyon, Unit 1, Current Facility Operating License DPR-80, Tech Specs, Revised 12/08/2025.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053140349</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-12-08 08:15:00</pubDate>
+		</item>
 		<item>
 			<title>LTR-25-0341 Walter Kirchner, Chairman, Advisory Committee on Reactor Safeguards, Letter re: Summary Report of the 728th Meeting of the Advisory Committee on Reactor Safeguards for September 3 through 5, 2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25328A184</link>
@@ -87,20 +94,6 @@
 			<description>Audit Report, Environmental Report</description>
 			<author>NRC/NMSS/DREFS/EPMB3</author>
 			<pubDate>2025-11-25 15:43:00</pubDate>
-		</item>
-		<item>
-			<title>Summary Report of the 728th Meeting of the Advisory Committee on Reactor Safeguards for September 3 through 5  2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25322A356</link>
-			<description>ACRS Summary Report, Letter, Meeting Summary</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-11-24 14:32:00</pubDate>
-		</item>
-		<item>
-			<title>The NRC: Who We Are, What We Do - 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25328A065</link>
-			<description>Slides and Viewgraphs</description>
-			<author>NRC/OPA</author>
-			<pubDate>2025-11-24 11:29:00</pubDate>
 		</item>
 	</channel>
 </rss>

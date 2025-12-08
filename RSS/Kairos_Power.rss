@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 05 Dec 2025 22:18:46 GMT</pubDate>
-		<lastBuildDate>Fri, 05 Dec 2025 22:18:46 GMT</lastBuildDate>
+		<pubDate>Mon, 08 Dec 2025 14:21:46 GMT</pubDate>
+		<lastBuildDate>Mon, 08 Dec 2025 14:21:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Terra Innovatum, LTR-TINN-25-024, Revision 0, "Rock City Admiral Parkway (IL) Site Characteristics Preliminary Analysis"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25333A003</link>
+			<description>Technical Paper</description>
+			<author>Terra Innovatum s.r.l</author>
+			<pubDate>2025-12-08 08:15:00</pubDate>
+		</item>
+		<item>
+			<title>San Antonio Bay Estuarine Waterkeeper Motion to Amend Contention 1 Based on PSAR Supplement 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25339A186</link>
+			<description>Legal-Motion</description>
+			<author>Perales, Allmon and Ice, P.C., San Antonio Bay Estuarine Waterkeeper</author>
+			<pubDate>2025-12-08 08:15:00</pubDate>
+		</item>
 		<item>
 			<title>National Organization of Test, Research, and Training Reactors 2025 Presentation by Tony Brown on NPUF Oversight and Licensing</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25338A354</link>
@@ -24,13 +38,6 @@
 			<description>Report, Administrative</description>
 			<author>NRC/Chairman</author>
 			<pubDate>2025-11-25 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>Minutes of the 728th Meeting of the Advisory Committee On Reactor Safeguards (ACRS) for September 3 through 5, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25322A511</link>
-			<description>Meeting Minutes, Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-11-24 14:32:00</pubDate>
 		</item>
 	</channel>
 </rss>

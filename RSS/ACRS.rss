@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 05 Dec 2025 22:18:42 GMT</pubDate>
-		<lastBuildDate>Fri, 05 Dec 2025 22:18:42 GMT</lastBuildDate>
+		<pubDate>Mon, 08 Dec 2025 14:21:42 GMT</pubDate>
+		<lastBuildDate>Mon, 08 Dec 2025 14:21:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,27 +24,6 @@
 			<description>Federal Register Notice</description>
 			<author>NRC/ACRS, NRC/SECY</author>
 			<pubDate>2025-11-25 08:08:00</pubDate>
-		</item>
-		<item>
-			<title>Summary Report of the 728th Meeting of the Advisory Committee on Reactor Safeguards for September 3 through 5  2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25322A356</link>
-			<description>ACRS Summary Report, Letter, Meeting Summary</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-11-24 14:32:00</pubDate>
-		</item>
-		<item>
-			<title>Report in Lieu of Summary Report and Certified Minutes 729th Scheduled Meeting of the Advisory Committee on Reactor Safeguards for October 10 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25321A726</link>
-			<description>ACRS Summary Report, Letter, Meeting Minutes</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-11-24 14:32:00</pubDate>
-		</item>
-		<item>
-			<title>Minutes of the 728th Meeting of the Advisory Committee On Reactor Safeguards (ACRS) for September 3 through 5, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25322A511</link>
-			<description>Meeting Minutes, Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-11-24 14:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
