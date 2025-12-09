@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 08 Dec 2025 23:18:31 GMT</pubDate>
-		<lastBuildDate>Mon, 08 Dec 2025 23:18:31 GMT</lastBuildDate>
+		<pubDate>Tue, 09 Dec 2025 14:23:20 GMT</pubDate>
+		<lastBuildDate>Tue, 09 Dec 2025 14:23:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -129,13 +129,6 @@
 			<description>Emergency Preparedness-Emergency Plan Implementing Procedures, Letter</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2025-11-28 09:18:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry Nuclear Plant Pre-Submittal Meeting for Proposed License Amendment Request to Modify Technical Specification 3.6.1.3 Meeting Slides</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25329A045</link>
-			<description>Meeting Agenda, Meeting Notice, Slides and Viewgraphs</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-11-25 10:30:00</pubDate>
 		</item>
 	</channel>
 </rss>

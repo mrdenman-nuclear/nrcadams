@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 08 Dec 2025 23:18:24 GMT</pubDate>
-		<lastBuildDate>Mon, 08 Dec 2025 23:18:24 GMT</lastBuildDate>
+		<pubDate>Tue, 09 Dec 2025 14:23:10 GMT</pubDate>
+		<lastBuildDate>Tue, 09 Dec 2025 14:23:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>ML25325A037 - Summary of the August 27, 2025, Public Meeting with SMR (Holtec) to Discuss an Update for Planned LWA Application for SMR-300</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25325A037</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2025-12-09 08:07:00</pubDate>
+		</item>
 		<item>
 			<title>12/15/2025 Discussion with TRISO-X to Align on the LC Language for the IROFS Exemption</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25342A378</link>
@@ -192,34 +199,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-12-03 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>12/09/2025 Aalo-1 Design Overview</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25336A296</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-12-02 18:39:00</pubDate>
-		</item>
-		<item>
-			<title>2025/11/18 Clinch River CP Saf Docs - Docket Request for A-4.3-6 - TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25322A210</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-12-02 08:24:00</pubDate>
-		</item>
-		<item>
-			<title>July 23 2025 Summary of Partially Closed Meeting with Oklo to Discuss a Proposed Topical Report in The QA Program Description EPID L-2022-LRM-0042 Cover Letter and Enclosure 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25218A262</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-12-02 08:24:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal Letter Final SE for Kairos Core Design TR</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25206A366</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-12-02 08:24:00</pubDate>
 		</item>
 	</channel>
 </rss>

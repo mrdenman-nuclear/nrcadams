@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 08 Dec 2025 23:18:31 GMT</pubDate>
-		<lastBuildDate>Mon, 08 Dec 2025 23:18:31 GMT</lastBuildDate>
+		<pubDate>Tue, 09 Dec 2025 14:23:20 GMT</pubDate>
+		<lastBuildDate>Tue, 09 Dec 2025 14:23:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NEI - Request for NRC Endorsement of NEI 25-08, Revision A, "Graded Approach to Seismic Hazard Analysis and Corresponding Site Investigations for Licensing Nuclear Power Plants"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25335A211</link>
+			<description>Letter, Report, Technical</description>
+			<author>Nuclear Energy Institute (NEI)</author>
+			<pubDate>2025-12-09 08:07:00</pubDate>
+		</item>
 		<item>
 			<title>San Antonio Bay Estuarine Waterkeeper Motion to Amend Contention 1 Based on PSAR Supplement 1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25339A186</link>
@@ -24,13 +31,6 @@
 			<description>Conference/Symposium/Workshop Paper, Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-12-05 09:35:00</pubDate>
-		</item>
-		<item>
-			<title>NRC's Report on "Mission Alignment: Updated Mission Statement and Guidance to Ensure Effective Performance of the Mission"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25136A362</link>
-			<description>Report, Administrative</description>
-			<author>NRC/Chairman</author>
-			<pubDate>2025-11-25 08:08:00</pubDate>
 		</item>
 	</channel>
 </rss>
