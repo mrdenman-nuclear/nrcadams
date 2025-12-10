@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 10 Dec 2025 19:18:13 GMT</pubDate>
-		<lastBuildDate>Wed, 10 Dec 2025 19:18:13 GMT</lastBuildDate>
+		<pubDate>Wed, 10 Dec 2025 20:22:47 GMT</pubDate>
+		<lastBuildDate>Wed, 10 Dec 2025 20:22:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>USNRC Request for Withholding Proprietary Information of the Submittal Letter on Supporting Document for NDM Review Submitted on Nov. 19, 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25337A355</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2025-12-10 14:32:00</pubDate>
+		</item>
 		<item>
 			<title>12/18/2025 Notice of Meeting with Aalo Atomics</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25344A073</link>
@@ -211,13 +218,6 @@
 			<title>Enclosure 4: Affidavit Pursuant to 10 CFR 2.390</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25265A150</link>
 			<description>Legal-Affidavit</description>
-			<author>Oklo Inc</author>
-			<pubDate>2025-12-04 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Public Sides, "Aurora Fuel Qualification Topical Report - Open Portion"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25265A151</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Oklo Inc</author>
 			<pubDate>2025-12-04 08:17:00</pubDate>
 		</item>
