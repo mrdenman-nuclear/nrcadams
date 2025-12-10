@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 09 Dec 2025 23:18:53 GMT</pubDate>
-		<lastBuildDate>Tue, 09 Dec 2025 23:18:53 GMT</lastBuildDate>
+		<pubDate>Wed, 10 Dec 2025 17:23:07 GMT</pubDate>
+		<lastBuildDate>Wed, 10 Dec 2025 17:23:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>12/18/2025 Notice of Meeting with Aalo Atomics</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25344A073</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-12-10 09:23:00</pubDate>
+		</item>
+		<item>
+			<title>EPA Comments on the TRISO-X Special Nuclear Material License Application for a Fuel Fabrication Facility, CEQ No. 20250140</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25343A341</link>
+			<description>Letter, Report, Miscellaneous</description>
+			<author>US Environmental Protection Agency, Region 4</author>
+			<pubDate>2025-12-10 09:04:00</pubDate>
+		</item>
 		<item>
 			<title>Oklo, Inc., Transmittal of Meeting Materials for the August 21, 2025, Meeting Regarding the Staffing Plan Validation Methodology Topical Report for the Aurora Powerhouse</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25254A268</link>
@@ -206,20 +220,6 @@
 			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Oklo Inc</author>
 			<pubDate>2025-12-04 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>12/18/2025 Pre-submittal Meeting with Kairos Power LLC on the Structural Building Design for Hermes 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25337A051</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-12-03 09:21:00</pubDate>
-		</item>
-		<item>
-			<title>2025/11/19 Clinch River CP Saf Docs - Docket Request for A-3.7-2, A-3.9.2-2 & A-3.9.2-3 (TVA Clinch River CP Audit)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25323A493</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-12-03 08:11:00</pubDate>
 		</item>
 	</channel>
 </rss>

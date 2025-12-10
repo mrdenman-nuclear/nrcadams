@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 09 Dec 2025 23:18:53 GMT</pubDate>
-		<lastBuildDate>Tue, 09 Dec 2025 23:18:53 GMT</lastBuildDate>
+		<pubDate>Wed, 10 Dec 2025 17:23:06 GMT</pubDate>
+		<lastBuildDate>Wed, 10 Dec 2025 17:23:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,20 +38,6 @@
 			<description>Topical Report Evaluation</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2025-12-05 07:56:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Terrestrial Energy USA Topical Report on Defense in Depth Strategy "Strategy for Establishing Defense in Depth for IMSR Structures, Systems and Components", TR-251024, Revision A</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25322A304</link>
-			<description>Letter</description>
-			<author>Terrestrial Energy USA</author>
-			<pubDate>2025-11-26 10:03:00</pubDate>
-		</item>
-		<item>
-			<title>TR 251024, Revision A, "Strategy for Establishing Defense in Depth for IMSR Structures, Systems and Components"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25322A303</link>
-			<description>Topical Report</description>
-			<author>Terrestrial Energy USA</author>
-			<pubDate>2025-11-26 10:03:00</pubDate>
 		</item>
 	</channel>
 </rss>
