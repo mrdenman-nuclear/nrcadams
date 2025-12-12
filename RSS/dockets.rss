@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 12 Dec 2025 14:19:59 GMT</pubDate>
-		<lastBuildDate>Fri, 12 Dec 2025 14:19:59 GMT</lastBuildDate>
+		<pubDate>Fri, 12 Dec 2025 15:22:40 GMT</pubDate>
+		<lastBuildDate>Fri, 12 Dec 2025 15:22:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TVA Airborne EM Geophysics Presentation.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25345A482</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>hydroGEOPHYSICS, Inc</author>
+			<pubDate>2025-12-12 10:18:00</pubDate>
+		</item>
 		<item>
 			<title>SHINE Technologies, LLC - Issuance of Order and Amendment No. 5 to Construction Permit No. CPMIF-001, for the SHINE Medical Isotope Production Facility</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25318A056</link>
@@ -213,13 +220,6 @@
 			<description>Legal-Affidavit</description>
 			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2025-12-04 14:14:00</pubDate>
-		</item>
-		<item>
-			<title>Final SE Kairos Core Design Methodology TR (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25206A372</link>
-			<description>Safety Evaluation Report, Draft</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-12-04 12:20:00</pubDate>
 		</item>
 	</channel>
 </rss>
