@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 12 Dec 2025 15:22:46 GMT</pubDate>
-		<lastBuildDate>Fri, 12 Dec 2025 15:22:46 GMT</lastBuildDate>
+		<pubDate>Fri, 12 Dec 2025 16:22:45 GMT</pubDate>
+		<lastBuildDate>Fri, 12 Dec 2025 16:22:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -28,6 +28,20 @@
 		<item>
 			<title>Browns Ferry Nuclear Plant, Subsequent Renewed License - DPR-33</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25219A009</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50</description>
+			<author>NRC/NRR/DNRL/NLRP</author>
+			<pubDate>2025-12-12 10:18:00</pubDate>
+		</item>
+		<item>
+			<title>Browns Ferry Nuclear Plant, Subsequent Renewed License - DPR-68</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25219A011</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50</description>
+			<author>NRC/NRR/DNRL/NLRP</author>
+			<pubDate>2025-12-12 10:18:00</pubDate>
+		</item>
+		<item>
+			<title>Browns Ferry Nuclear Plant, Subsequent Renewed License - DPR-52</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25219A010</link>
 			<description>License-Operating (New/Renewal/Amendments) DKT 50</description>
 			<author>NRC/NRR/DNRL/NLRP</author>
 			<pubDate>2025-12-12 10:18:00</pubDate>
