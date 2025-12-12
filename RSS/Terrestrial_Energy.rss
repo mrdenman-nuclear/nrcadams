@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 11 Dec 2025 23:18:07 GMT</pubDate>
-		<lastBuildDate>Thu, 11 Dec 2025 23:18:07 GMT</lastBuildDate>
+		<pubDate>Fri, 12 Dec 2025 14:20:03 GMT</pubDate>
+		<lastBuildDate>Fri, 12 Dec 2025 14:20:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -101,13 +101,6 @@
 			<description>License-Combined License (COL) (New/Renewal/Amendments) DKT 52, Technical Specifications, Test/Inspection/Operating Procedure</description>
 			<author>NRC/NRO/DNRL/LB4</author>
 			<pubDate>2025-12-01 08:35:00</pubDate>
-		</item>
-		<item>
-			<title>Point Beach, Units 1 and 2, Periodic Update of the Updated Final Safety Analysis Report, Chapter 2, Site and Environment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25282A059</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>NextEra Energy Point Beach, LLC</author>
-			<pubDate>2025-11-28 13:09:00</pubDate>
 		</item>
 	</channel>
 </rss>

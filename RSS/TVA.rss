@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 11 Dec 2025 23:18:07 GMT</pubDate>
-		<lastBuildDate>Thu, 11 Dec 2025 23:18:07 GMT</lastBuildDate>
+		<pubDate>Fri, 12 Dec 2025 14:20:03 GMT</pubDate>
+		<lastBuildDate>Fri, 12 Dec 2025 14:20:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3, Application to Revise Technical Specifications to Adopt TSTF-592-A, Revision 2, "Revise Automatic Depressurization System (ADS) Instrumentation Requirements" (BFN TS-558)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25338A084</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50, Technical Specification, Amendment, Technical Specification, Bases Change</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2025-12-12 08:07:00</pubDate>
+		</item>
+		<item>
+			<title>APCo ESP QAPD, Nuclear Quality Assurance Program Quality Assurance Program Description, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25251A129</link>
+			<description>Safety Evaluation</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-12-12 08:07:00</pubDate>
+		</item>
 		<item>
 			<title>Blue Energy Accepted BE-QAPD-001-A Rev 2</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25340A000</link>
@@ -129,48 +143,6 @@
 			<description>Letter, Manual, Report, Technical, Technical Specification, Bases Change</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2025-12-01 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry, Units 1, 2, and 3, Clinch River, Sequoyah, Units 1 and 2, Watts Bar, Units 1 and 2, Nuclear Quality Assurance Plan, TVA-NQA-PLN89-A, Revision 45</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25300A299</link>
-			<description>Letter, Quality Assurance Program</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-11-28 13:04:00</pubDate>
-		</item>
-		<item>
-			<title>Brown Ferry Nuclear Plant - Site Emergency Plan Implementing Procedure Revisions</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25232A177</link>
-			<description>Emergency Preparedness-Emergency Plan Implementing Procedures, Letter</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-11-28 13:03:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry, Units 1, 2, and 3; Sequoyah, Units 1 and 2; Watts Bar, Units 1 and 2-TVA Fleet License Amendment Request to Adopt TSTF-596-A and TSTF-600-A, Revision 2, Meeting Slides</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25325A153</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DORL/LPLII-2</author>
-			<pubDate>2025-11-28 12:14:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - Watts Bar Hydrologic SE Revised Public Version Redacted with Fixed References</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25272A168</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50, Safety Evaluation</description>
-			<author>NRC/NRR/DORL/LPLII-2</author>
-			<pubDate>2025-11-28 09:19:00</pubDate>
-		</item>
-		<item>
-			<title>Sequoyah Nuclear Plant, Units 1 and 2; Watts Bar Nuclear Plant, Units 1 and 2 - Regulatory Audit Summary Regarding License Amendment Request to use Online Monitoring (EPID L-2024-LLA-0147) - Non-Proprietary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25272A158</link>
-			<description>Audit Report, Letter, Technical Specifications</description>
-			<author>NRC/NRR/DORL/LPL2-2</author>
-			<pubDate>2025-11-28 09:19:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry Nuclear Plant - Site Emergency Plan Implementing Procedure Revision (EPIP-1, Revision 69)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25282A008</link>
-			<description>Emergency Preparedness-Emergency Plan Implementing Procedures, Letter</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-11-28 09:18:00</pubDate>
 		</item>
 	</channel>
 </rss>

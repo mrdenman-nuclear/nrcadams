@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 11 Dec 2025 23:18:05 GMT</pubDate>
-		<lastBuildDate>Thu, 11 Dec 2025 23:18:05 GMT</lastBuildDate>
+		<pubDate>Fri, 12 Dec 2025 14:19:59 GMT</pubDate>
+		<lastBuildDate>Fri, 12 Dec 2025 14:19:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>Legal-Affidavit</description>
 			<author>Westinghouse Electric Co, LLC</author>
 			<pubDate>2025-12-05 07:56:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse - Affidavit AW-25-066</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25323A313</link>
-			<description>Legal-Affidavit</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2025-11-28 09:19:00</pubDate>
-		</item>
-		<item>
-			<title>Westinghouse - Submittal of Supporting Document for Review of Westinghouse Nuclear Design Methodology Topical Report (EVR-LIC-RL-002)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25323A312</link>
-			<description>Letter</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2025-11-28 09:18:00</pubDate>
 		</item>
 	</channel>
 </rss>
