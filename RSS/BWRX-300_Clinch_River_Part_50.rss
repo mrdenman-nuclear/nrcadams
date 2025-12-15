@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 12 Dec 2025 23:18:45 GMT</pubDate>
-		<lastBuildDate>Fri, 12 Dec 2025 23:18:45 GMT</lastBuildDate>
+		<pubDate>Mon, 15 Dec 2025 14:24:46 GMT</pubDate>
+		<lastBuildDate>Mon, 15 Dec 2025 14:24:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2025/12/01 Clinch River CP Saf Docs - Docket Request for 13.1-2, 13.1-4, and 13.2-1 - TVA Clinch River CP Audit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25335A183</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-12-15 08:14:00</pubDate>
+		</item>
+		<item>
+			<title>2025/12/01 Clinch River CP Saf Docs - Docket Request for response to A-3.9-4, TVA Clinch River CP Audit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25335A214</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-12-15 08:14:00</pubDate>
+		</item>
+		<item>
+			<title>2025/12/01 Clinch River CP Saf Docs - Docket Request for A-9.2-6 and A-9.2-7 - TVA Clinch River CP Audit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25335A043</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-12-15 08:13:00</pubDate>
+		</item>
+		<item>
+			<title>2025/12/01 Clinch River CP Saf Docs - Docket Request for A-5.4-3 - TVA Clinch River CP Audit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25335A062</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-12-15 08:13:00</pubDate>
+		</item>
 		<item>
 			<title>TVA Airborne EM Geophysics Presentation.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25345A482</link>
@@ -38,13 +66,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-12-02 08:24:00</pubDate>
-		</item>
-		<item>
-			<title>2025/11/17 Clinch River CP Saf Docs - Docket Request for Audit Response and PSAR Markup (TVA Clinch River CP Audit) - Audit Issue A-3F-1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25321A054</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-12-01 08:05:00</pubDate>
 		</item>
 	</channel>
 </rss>

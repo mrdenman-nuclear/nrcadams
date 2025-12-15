@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 12 Dec 2025 23:18:49 GMT</pubDate>
-		<lastBuildDate>Fri, 12 Dec 2025 23:18:49 GMT</lastBuildDate>
+		<pubDate>Mon, 15 Dec 2025 14:24:52 GMT</pubDate>
+		<lastBuildDate>Mon, 15 Dec 2025 14:24:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Edwin I. Hatch, Unit 2, Current Facility Operating License NPF-5, Tech Specs, Revised 12/15/2025.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052930177</link>
+			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-12-15 09:13:00</pubDate>
+		</item>
+		<item>
+			<title>10/21/2025 Summary of Reactor Oversight Process Rebaselining Public Meeting</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25301A007</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DRO/IOEB</author>
+			<pubDate>2025-12-15 08:14:00</pubDate>
+		</item>
 		<item>
 			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3, SLRA Record of Decision</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25209A180</link>
@@ -157,27 +171,6 @@
 			<description>Deficiency Report (per 10CFR50.55e and Part 21), Letter</description>
 			<author>Rosemount Nuclear Instruments, Inc</author>
 			<pubDate>2025-12-02 08:24:00</pubDate>
-		</item>
-		<item>
-			<title>Safety Evaluation Related to the U.S. SFR Owner, LLC Construction Permit Application for the Kemmerer Power Station, Unit 1, (EPID L-2024-CPS-0000)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25329A252</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-12-01 12:24:00</pubDate>
-		</item>
-		<item>
-			<title>Watts Bar Nuclear Plant, Units 1 and 2 - Regulatory Audit Summary Regarding License Amendment Request to Revise Technical Specifications to Adopt TSTF-505, Revision 2, "Provide Risk-Informed Extended Completion Time - RITSTF (EPID L-2024-LLA-0175)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25268A010</link>
-			<description>Audit Report, Letter</description>
-			<author>NRC/NRR/DORL/LPLII-2</author>
-			<pubDate>2025-12-01 08:06:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3, Summary Report for 10 CFR 50.59 Evaluations, Technical Specifications Bases Changes, Technical Requirement Manual Changes, and NRC Commitment Revisions</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25324A378</link>
-			<description>Letter, Manual, Report, Technical, Technical Specification, Bases Change</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-12-01 08:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
