@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 15 Dec 2025 16:27:30 GMT</pubDate>
-		<lastBuildDate>Mon, 15 Dec 2025 16:27:30 GMT</lastBuildDate>
+		<pubDate>Mon, 15 Dec 2025 17:24:30 GMT</pubDate>
+		<lastBuildDate>Mon, 15 Dec 2025 17:24:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Oklo Inc., Transmittal of Follow-Up Questions to the U.S NRC Staff's Feedback on the Oklo Licensing Approach White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25232A274</link>
+			<description>Letter</description>
+			<author>Oklo Inc</author>
+			<pubDate>2025-12-15 12:18:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: Oklo, Inc., Affidavit Pursuant to 10 CFR 2.390</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25232A275</link>
+			<description>Legal-Affidavit</description>
+			<author>Oklo Inc</author>
+			<pubDate>2025-12-15 12:18:00</pubDate>
+		</item>
+	</channel>
 </rss>
