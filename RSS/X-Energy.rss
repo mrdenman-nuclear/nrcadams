@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 15 Dec 2025 23:20:13 GMT</pubDate>
-		<lastBuildDate>Mon, 15 Dec 2025 23:20:13 GMT</lastBuildDate>
+		<pubDate>Tue, 16 Dec 2025 18:30:57 GMT</pubDate>
+		<lastBuildDate>Tue, 16 Dec 2025 18:30:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,13 +66,6 @@
 			<description>Legal-Correspondence/Miscellaneous</description>
 			<author>NRC/OGC</author>
 			<pubDate>2025-12-03 13:48:00</pubDate>
-		</item>
-		<item>
-			<title>Memorandum and Order (Amended Protective Order Governing Specific Sensitive Unclassified Non-Safeguards Information)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25335A185</link>
-			<description>Legal-Order</description>
-			<author>NRC/ASLBP</author>
-			<pubDate>2025-12-02 10:25:00</pubDate>
 		</item>
 	</channel>
 </rss>

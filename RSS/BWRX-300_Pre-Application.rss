@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 15 Dec 2025 23:20:06 GMT</pubDate>
-		<lastBuildDate>Mon, 15 Dec 2025 23:20:06 GMT</lastBuildDate>
+		<pubDate>Tue, 16 Dec 2025 18:30:51 GMT</pubDate>
+		<lastBuildDate>Tue, 16 Dec 2025 18:30:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Withholding Determination Letter for GE Vernova Hitachi Nuclear Energy Americas, LLC, Ultra Plus Control Rod Topical Report Pre-submittal Slides (EPID L-2025-LRM-0145)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25338A221</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DORL/LLPB</author>
+			<pubDate>2025-12-16 10:56:00</pubDate>
+		</item>
+	</channel>
 </rss>

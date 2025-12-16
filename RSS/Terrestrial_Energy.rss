@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 15 Dec 2025 23:20:13 GMT</pubDate>
-		<lastBuildDate>Mon, 15 Dec 2025 23:20:13 GMT</lastBuildDate>
+		<pubDate>Tue, 16 Dec 2025 18:30:57 GMT</pubDate>
+		<lastBuildDate>Tue, 16 Dec 2025 18:30:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Dresden Nuclear Power Station Units 2 and 3 - Record of Decision</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25237A115</link>
+			<description>- No Document Type Applies</description>
+			<author>NRC/NRR/DNRL/NLRP</author>
+			<pubDate>2025-12-16 12:37:00</pubDate>
+		</item>
 		<item>
 			<title>Oyster Creek Nuclear Generating Station, Decommissioning Project License Termination Plan Revision 2</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25345A095</link>
@@ -115,27 +122,6 @@
 			<description>Conference/Symposium/Workshop Paper, Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-12-05 09:35:00</pubDate>
-		</item>
-		<item>
-			<title>Environmental Assessment for the Homestake Mining Company of California Large Tailings Pile Evapotranspiration Cover Design License Amendment Request</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25225A218</link>
-			<description>Environmental Assessment</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-12-02 12:55:00</pubDate>
-		</item>
-		<item>
-			<title>Joseph M. Farley, Unit 2, Current Facility Operating License NPF-8, Revised 12/02/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052780039</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-12-02 12:33:00</pubDate>
-		</item>
-		<item>
-			<title>Joseph M. Farley, Unit 1, Current Facility Operating License NPF-2, Tech Specs, Revised 12/02/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052780033</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-12-02 12:18:00</pubDate>
 		</item>
 	</channel>
 </rss>

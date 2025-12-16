@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 15 Dec 2025 23:20:13 GMT</pubDate>
-		<lastBuildDate>Mon, 15 Dec 2025 23:20:13 GMT</lastBuildDate>
+		<pubDate>Tue, 16 Dec 2025 18:30:57 GMT</pubDate>
+		<lastBuildDate>Tue, 16 Dec 2025 18:30:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>Letter, Report, Technical</description>
 			<author>Nuclear Energy Institute (NEI)</author>
 			<pubDate>2025-12-09 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: "SMR-300 Time-Domain LS-DYNA Soil Structure Interaction Analysis Methodology Licensing Topical Report," HI-2251837 R0, Nonproprietary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25330A200</link>
-			<description>Topical Report</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2025-12-02 08:24:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 15 Dec 2025 23:20:15 GMT</pubDate>
-		<lastBuildDate>Mon, 15 Dec 2025 23:20:15 GMT</lastBuildDate>
+		<pubDate>Tue, 16 Dec 2025 18:30:59 GMT</pubDate>
+		<lastBuildDate>Tue, 16 Dec 2025 18:30:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Meeting Transcript</description>
 			<author>NRC/OCM</author>
 			<pubDate>2025-12-15 08:15:00</pubDate>
-		</item>
-		<item>
-			<title>IAEA EPR 2025_Let's Talk About KI</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25343A205</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NSIR/DPR</author>
-			<pubDate>2025-12-09 14:30:00</pubDate>
-		</item>
-		<item>
-			<title>IAEA EPR 2025_Let's Talk About KI</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25343A205</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NSIR/DPR</author>
-			<pubDate>2025-12-09 14:30:00</pubDate>
 		</item>
 	</channel>
 </rss>
