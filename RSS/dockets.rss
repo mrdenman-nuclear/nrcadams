@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 16 Dec 2025 20:24:47 GMT</pubDate>
-		<lastBuildDate>Tue, 16 Dec 2025 20:24:47 GMT</lastBuildDate>
+		<pubDate>Tue, 16 Dec 2025 21:22:05 GMT</pubDate>
+		<lastBuildDate>Tue, 16 Dec 2025 21:22:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>FWS 2025-0079091, Final Biological Opinion for TVA Clinch River Nuclear Site in Roane County, Tennessee</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25280A139</link>
+			<description>Letter, Report, Technical</description>
+			<author>US Dept of Interior, Fish and Wildlife Service, TN Ecological Services Field Office</author>
+			<pubDate>2025-12-16 16:12:00</pubDate>
+		</item>
+		<item>
+			<title>09/23/2025 Follow-up Closed Meeting with SMR (Holtec) on LWA PSAR Chapter 2 Contents for SMR-300</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25350C172</link>
+			<description>Meeting Agenda, Meeting Notice</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-12-16 16:12:00</pubDate>
+		</item>
 		<item>
 			<title>Presentation Materials for the Kairos Power Meeting with the Nuclear Regulatory Commission on Hermes External Event Design Criteria</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25349B335</link>
@@ -206,20 +220,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NMSS/DREFS/ETRB1</author>
 			<pubDate>2025-12-11 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>USNRC Request for Withholding Proprietary Information of the Submittal Letter on Supporting Document for NDM Review Submitted on Nov. 19, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25337A355</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-12-10 14:32:00</pubDate>
-		</item>
-		<item>
-			<title>12/18/2025 Notice of Meeting with Aalo Atomics</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25344A073</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-12-10 09:23:00</pubDate>
 		</item>
 	</channel>
 </rss>
