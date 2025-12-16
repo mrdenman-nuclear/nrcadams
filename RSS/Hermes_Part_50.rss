@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 16 Dec 2025 21:22:05 GMT</pubDate>
-		<lastBuildDate>Tue, 16 Dec 2025 21:22:05 GMT</lastBuildDate>
+		<pubDate>Tue, 16 Dec 2025 23:19:24 GMT</pubDate>
+		<lastBuildDate>Tue, 16 Dec 2025 23:19:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>12/18/2025 Pre-submittal Meeting with Kairos Power LLC on the Structural Building Design for Hermes 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25350C359</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-12-16 18:16:00</pubDate>
+		</item>
 		<item>
 			<title>Presentation Materials for the Kairos Power Meeting with the Nuclear Regulatory Commission on Hermes External Event Design Criteria</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25349B335</link>
@@ -24,13 +31,6 @@
 			<description>Slides and Viewgraphs</description>
 			<author>Kairos Power, LLC</author>
 			<pubDate>2025-12-16 12:37:00</pubDate>
-		</item>
-		<item>
-			<title>12/18/2025 Pre-submittal Meeting with Kairos Power LLC on the Structural Building Design for Hermes 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25337A051</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-12-03 09:21:00</pubDate>
 		</item>
 	</channel>
 </rss>

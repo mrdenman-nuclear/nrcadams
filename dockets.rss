@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 16 Dec 2025 21:22:02 GMT</pubDate>
-		<lastBuildDate>Tue, 16 Dec 2025 21:22:02 GMT</lastBuildDate>
+		<pubDate>Tue, 16 Dec 2025 23:19:22 GMT</pubDate>
+		<lastBuildDate>Tue, 16 Dec 2025 23:19:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>12/18/2025 Pre-submittal Meeting with Kairos Power LLC on the Structural Building Design for Hermes 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25350C359</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-12-16 18:16:00</pubDate>
+		</item>
 		<item>
 			<title>FWS 2025-0079091, Final Biological Opinion for TVA Clinch River Nuclear Site in Roane County, Tennessee</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25280A139</link>
@@ -213,13 +220,6 @@
 			<description>Letter, Slides and Viewgraphs</description>
 			<author>Aalo Holdings, Inc</author>
 			<pubDate>2025-12-11 10:40:00</pubDate>
-		</item>
-		<item>
-			<title>11-19-25 Mtg Summary Between the U.S. NRC, the U.S. Army Corps of Engineers, and Federally Recognized Tribes Re Clinch River Constr Permit Env Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25325A091</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NMSS/DREFS/ETRB1</author>
-			<pubDate>2025-12-11 08:17:00</pubDate>
 		</item>
 	</channel>
 </rss>
