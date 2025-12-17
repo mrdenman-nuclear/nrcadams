@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 17 Dec 2025 20:24:24 GMT</pubDate>
-		<lastBuildDate>Wed, 17 Dec 2025 20:24:24 GMT</lastBuildDate>
+		<pubDate>Wed, 17 Dec 2025 21:20:06 GMT</pubDate>
+		<lastBuildDate>Wed, 17 Dec 2025 21:20:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>HI-2240423, Rev. 6, "SMR-300 Regulatory Engagement Plan"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25272A265</link>
+			<description>Report, Technical</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2025-12-17 16:12:00</pubDate>
+		</item>
 		<item>
 			<title>SMR, LLC - Submittal of SMR-300 Instrumentation and Control Architecture Licensing Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25345A241</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25336A276</link>
 			<description>E-Mail</description>
 			<author>NRC</author>
-			<pubDate>2025-12-16 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (12) of Anonymous on Notice of Intent to Conduct Scoping Process and Prepare Supplement to Draft Environmental Impact Statement TRISO-X Fuel Fabrication Facility</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25343A242</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>US Dept of Interior, Office of Environmental Projects Review, US Dept of Interior, Office of the Secretary</author>
 			<pubDate>2025-12-16 08:11:00</pubDate>
 		</item>
 	</channel>
