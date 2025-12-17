@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 17 Dec 2025 15:23:50 GMT</pubDate>
-		<lastBuildDate>Wed, 17 Dec 2025 15:23:50 GMT</lastBuildDate>
+		<pubDate>Wed, 17 Dec 2025 16:26:06 GMT</pubDate>
+		<lastBuildDate>Wed, 17 Dec 2025 16:26:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Supplement #4 to the Preliminary Safety Analysis Report for the Long Mott Generating Station Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25346A257</link>
+			<description>Letter</description>
+			<author>Long Mott Energy, LLC</author>
+			<pubDate>2025-12-17 11:23:00</pubDate>
+		</item>
+		<item>
+			<title>Attachment 1: Information Requested to be Withheld from Public Disclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25346A259</link>
+			<description>- No Document Type Applies</description>
+			<author>Long Mott Energy, LLC</author>
+			<pubDate>2025-12-17 11:23:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure - Westinghouse Electronic Co. - Audit Report Advanced Logic System v2 Platform Elimination of Technical Specification Surveillance</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25325A150</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25339A125</link>
 			<description>Response to Request for Additional Information (RAI)</description>
 			<author>Long Mott Energy, LLC</author>
-			<pubDate>2025-12-15 08:14:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: LME Response to NRC RAI No. WNR-1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25339A126</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2025-12-15 08:14:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 Report For The Regulatory Audit Regarding Westinghouse Electric Company's Nuclear Design Methodology Topical Report- Nonproprietary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25245A157</link>
-			<description>Audit Report</description>
-			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2025-12-15 08:14:00</pubDate>
 		</item>
 	</channel>
