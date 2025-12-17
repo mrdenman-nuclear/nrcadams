@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 16 Dec 2025 23:19:30 GMT</pubDate>
-		<lastBuildDate>Tue, 16 Dec 2025 23:19:30 GMT</lastBuildDate>
+		<pubDate>Wed, 17 Dec 2025 14:23:42 GMT</pubDate>
+		<lastBuildDate>Wed, 17 Dec 2025 14:23:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>12/03/2025 Summary of Observation Pre-Submittal Meeting With Southern Nuclear Operating Co., Inc., Regarding Proposed License Amendment Request to Revise 10 CFR 50.69 Categorization Process to Adopt Enhanced Risk-Informed Categorization Methodology...</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25342A326</link>
+			<description>Meeting Summary</description>
+			<author>NRC/NRR/DORL/LPLII-1</author>
+			<pubDate>2025-12-17 08:11:00</pubDate>
+		</item>
+		<item>
+			<title>Sequoyah Nuclear Plant, Units 1 and 2; Watts Bar Nuclear Plant, Units 1 and 2 - Issuance of Amendment Nos. 373, 368; 177, and 82 Regarding Use of Online Monitoring Methodology (EPID L-2024-LLA-0147)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25328A120</link>
+			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation, Technical Specifications</description>
+			<author>NRC/NRR/DORL/LPL2-2</author>
+			<pubDate>2025-12-17 08:10:00</pubDate>
+		</item>
 		<item>
 			<title>Edwin I. Hatch, Unit 2, Current Facility Operating License NPF-5, Tech Specs, Revised 12/15/2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052930177</link>
@@ -143,27 +157,6 @@
 			<description>Report, Technical</description>
 			<author>Nuclear Ship Support Services, LLC, US Dept of Transportation, Maritime Admin</author>
 			<pubDate>2025-12-04 08:18:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3, Updated Final Safety Analysis Report, Amendment 31</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25295A491</link>
-			<description>Letter, Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-12-03 15:21:00</pubDate>
-		</item>
-		<item>
-			<title>Certification Minutes of Fourth Meeting of the LSS Advisory Review Panel</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25329A186</link>
-			<description>Committee Records</description>
-			<author>NRC/Chairman</author>
-			<pubDate>2025-12-03 08:12:00</pubDate>
-		</item>
-		<item>
-			<title>Vogtle Electric Generating Plant, Units 1 and 2, Transmittal of National Pollutant Discharge Elimination System (NPDES) Permit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25328A219</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Southern Nuclear Operating Co, Inc</author>
-			<pubDate>2025-12-03 08:11:00</pubDate>
 		</item>
 	</channel>
 </rss>

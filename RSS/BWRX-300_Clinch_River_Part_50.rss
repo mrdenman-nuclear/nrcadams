@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 16 Dec 2025 23:19:24 GMT</pubDate>
-		<lastBuildDate>Tue, 16 Dec 2025 23:19:24 GMT</lastBuildDate>
+		<pubDate>Wed, 17 Dec 2025 14:23:34 GMT</pubDate>
+		<lastBuildDate>Wed, 17 Dec 2025 14:23:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2025/12/03 Clinch River CP Saf Docs - Docket Request for A-12.3-1 - TVA Clinch River CP Audit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25337A021</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-12-17 08:10:00</pubDate>
+		</item>
+		<item>
+			<title>2025/12/03 Clinch River CP Saf Docs - Docket Request for A-6.1-1, A-6.1-2, A-6.3-1, and A-6.6-1 - TVA Clinch River CP Audit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25337A363</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-12-17 08:10:00</pubDate>
+		</item>
+		<item>
+			<title>2025/12/03 Clinch River CP Saf Docs - RE Docket Request for responses to A-3.6-2, A-3.6-3, A-3.6-4, A-3.6-5, A-3.8-4 & A-3.9.2-1, TVA Clinch River CP Audit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25337A402</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2025-12-17 08:10:00</pubDate>
+		</item>
 		<item>
 			<title>FWS 2025-0079091, Final Biological Opinion for TVA Clinch River Nuclear Site in Roane County, Tennessee</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25280A139</link>
@@ -73,13 +94,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NMSS/DREFS/ETRB1</author>
 			<pubDate>2025-12-11 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>2025/11/19 Clinch River CP Saf Docs - Docket Request for A-3.7-2, A-3.9.2-2 & A-3.9.2-3 (TVA Clinch River CP Audit)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25323A493</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-12-03 08:11:00</pubDate>
 		</item>
 	</channel>
 </rss>
