@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 18 Dec 2025 21:18:10 GMT</pubDate>
-		<lastBuildDate>Thu, 18 Dec 2025 21:18:10 GMT</lastBuildDate>
+		<pubDate>Thu, 18 Dec 2025 22:20:24 GMT</pubDate>
+		<lastBuildDate>Thu, 18 Dec 2025 22:20:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Safety Evaluation Related to the U.S. SFR Owner, LLC Construction Permit Application for the Kemmerer Power Station, Unit 1, (EPID L-2024-CPS-0000)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25329A252</link>
+			<description>Safety Evaluation</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-12-18 17:09:00</pubDate>
+		</item>
+	</channel>
 </rss>
