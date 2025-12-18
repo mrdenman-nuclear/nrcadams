@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 17 Dec 2025 23:19:10 GMT</pubDate>
-		<lastBuildDate>Wed, 17 Dec 2025 23:19:10 GMT</lastBuildDate>
+		<pubDate>Thu, 18 Dec 2025 14:25:19 GMT</pubDate>
+		<lastBuildDate>Thu, 18 Dec 2025 14:25:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>2025/11/25 NRR E-mail Capture - TEXAS ENGINEERING EXPERIMENT STATIONTEXAS A&M UNIVERSITY SYSTEM - LICENSE AMENDMENT REQUEST FOR CHANGE TO TECHNICAL SPECIFICATION 3.5 ACCEPTANCE REVIEW</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25329A080</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-12-04 08:18:00</pubDate>
-		</item>
-		<item>
-			<title>2025/11/25 NRR E-mail Capture - TEXAS ENGINEERING EXPERIMENT STATIONTEXAS A&M UNIVERSITY SYSTEM - LICENSE AMENDMENT REQUEST FOR CHANGE TO TECHNICAL SPECIFICATION 6.4.3 ACCEPTANCE REVIEW</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25329A082</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2025-12-04 08:18:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
