@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 18 Dec 2025 23:19:09 GMT</pubDate>
-		<lastBuildDate>Thu, 18 Dec 2025 23:19:09 GMT</lastBuildDate>
+		<pubDate>Fri, 19 Dec 2025 14:23:24 GMT</pubDate>
+		<lastBuildDate>Fri, 19 Dec 2025 14:23:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Supplement #5 to the Preliminary Safety Analysis Report for the Long Mott Generating Station Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25351A148</link>
+			<description>Letter</description>
+			<author>Long Mott Energy, LLC</author>
+			<pubDate>2025-12-19 08:37:00</pubDate>
+		</item>
+		<item>
+			<title>Long Mott Generating Station - Preliminary Safety Analysis Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25351A149</link>
+			<description>Preliminary Safety Analysis Report (PSAR)</description>
+			<author>Long Mott Energy, LLC</author>
+			<pubDate>2025-12-19 08:37:00</pubDate>
+		</item>
 		<item>
 			<title>Attachment 2: X Energy, LLC Affidavit Supporting Request for Withholding from Public Disclosure per 10 CFR 2.390(a)(4)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25346A260</link>
@@ -101,20 +115,6 @@
 			<description>Response to Request for Additional Information (RAI)</description>
 			<author>Long Mott Energy, LLC</author>
 			<pubDate>2025-12-15 08:14:00</pubDate>
-		</item>
-		<item>
-			<title>Supplement #3 to the Preliminary Safety Analysis Report for the Long Mott Generating Station Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25338A311</link>
-			<description>Letter</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2025-12-05 15:55:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Generating Station, Preliminary Safety Analysis Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25338A312</link>
-			<description>Graphics incl Charts and Tables, Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2025-12-05 15:55:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 18 Dec 2025 23:19:09 GMT</pubDate>
-		<lastBuildDate>Thu, 18 Dec 2025 23:19:09 GMT</lastBuildDate>
+		<pubDate>Fri, 19 Dec 2025 14:23:24 GMT</pubDate>
+		<lastBuildDate>Fri, 19 Dec 2025 14:23:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-12-16 10:56:00</pubDate>
-		</item>
-		<item>
-			<title>University of Illinois Urbana-Champaign, Request for Pre-Application Regulatory Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25339A072</link>
-			<description>E-Mail</description>
-			<author>Univ of Illinois - Urbana - Champaign</author>
-			<pubDate>2025-12-05 13:04:00</pubDate>
 		</item>
 	</channel>
 </rss>
