@@ -12,7 +12,7 @@ knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>"
 )
-options(timeout=30)
+options(timeout = 30)
 ```
 
 # What are Docket Numbers?
@@ -48,13 +48,13 @@ non-proprietary portions of the document on ADAMS.
 The NRC typically strives to ensure that enough information is in the public 
 sphere to justify any licensing actions. 
 
-To keep up-to-date with ACU's MSRR license, it is best to search through both
+To keep up-to-date with TerraPower's Natrium license, it is best to search through both
 the pre-application and docketed information. 
 
 
 ```{r}
 nrcadams::docket_codex |>
-  dplyr::filter(Company == "ACU") |>
+  dplyr::filter(Company == "TerraPower") |>
   dplyr::pull(DocketNumber) |>
   nrcadams::search_docket(days_back = 60) |>
   dplyr::mutate(Title = paste0("<a href='", URL, "'>", Title, '</a>')) |>
