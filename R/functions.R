@@ -70,38 +70,62 @@ search_docket <- function(
 #'
 #' @param ML_number chr/vector: ML number (or numbers) to be searched on ADAMS.
 #' All searches must start with ML but partial ML numbers can be searched for
-#' in addition to full ML numbers.
+#' in addition to full ML numbers. 
 #'
-#' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
+#' @source \url{https://adams-search.nrc.gov/assets/APS-API-Guide.pdf}
 #' @return tibble of search results
 #' @export
 #'
 #' @examples
-#' c("ML22179A346", "ML19211C119") |> nrcadams::search_ml()
+#' nrcadams::search_ml(ML_number = c("ML19211C119", "ML20014E642", "ML22179A346"))
 search_ml <- function(ML_number) {
-  if(all(ML_number |> stringr::str_starts("ML"))) {
-    adams_ML = paste0(
-      "properties_search_any:!(",
-      paste0(
-        "!(AccessionNumber,starts,", ML_number , ",'')"
-      ) |> stringr::str_c(collapse = ","),
-      ")"
-    )
+  rm(results) |> suppressWarnings()
+  if (all(ML_number |> stringr::str_starts("ML"))) {
+    for (ml in ML_number) {
+      print(ml)
+      key <- Sys.getenv("ADAMS")
+      get <- paste0("https://adams-api.nrc.gov/aps/api/search/", ml)
+      accept <- "application/json"
 
-    url = paste0(
-      nrcadams:::adams_search_head,
-      adams_ML,
-      nrcadams:::adams_search_tail()
-    )
+      req <- httr2::request(get) |>
+        httr2::req_headers(
+          "Accept" = accept,
+          "Ocp-Apim-Subscription-Key" = key
+        )
 
-    paste("Searching with the following URL:\n", url) |>
-      message()
+      resp <- req |> httr2::req_perform() |> httr2::resp_body_json()
 
-    results = nrcadams:::make_results_tibble(url)
-    if(results |> nrow() == 0) {
-      warning("The search return no results.\n")
+      file <- resp$document
+
+      adams_tbl <- tibble::tibble(
+        Title = file$DocumentTitle,
+        `Document Date` = file$DocumentDate |>
+          lubridate::ymd(),
+        `Publish Date` = file$DateAddedTimestamp |>
+          lubridate::ymd_hm(tz = "EDT"),
+        Type = nrcadams:::collapse_list(file$DocumentType),
+        Affiliation = nrcadams:::collapse_list(file$AddresseeAffiliation),
+        URL = file$Url,
+        DocketNumber = nrcadams:::collapse_list(file$DocketNumber),
+        `ML Number` = file$AccessionNumber
+      ) |>
+        dplyr::mutate(
+          `Publish Date` = `Publish Date` - 4 * 3600,
+          DocketNumber = DocketNumber |> as.double()
+        ) |>
+        suppressWarnings()
+
+    if (!exists("results")) {
+      results <- adams_tbl
+    } else {
+      results <- results |>
+        dplyr::full_join(adams_tbl)
     }
-    return(results)
+  }
+  results <- results |>
+    dplyr::arrange(dplyr::desc(`Publish Date`))
+
+  return(results)
 
   } else {
     stop("No ML number was entered.")
@@ -120,6 +144,21 @@ extract_from_xml = function(xml_results, search_term) {
     xml2::xml_find_all(paste0("//", search_term)) |>
     xml2::as_list() |>
     unlist()
+}
+
+#' Collapse List
+#'
+#' @param list_to_collapse list to be compressed
+#'
+#' @return vector of listed object
+#' @keywords Internal
+collapse_list = function(list_to_collapse) {
+  if (length(list_to_collapse) == 0) {
+    result = "NA"
+  } else {
+    result = paste0(list_to_collapse, collapse = "; ")
+  }
+  return(result)
 }
 
 
