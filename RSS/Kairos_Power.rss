@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 19 Dec 2025 23:20:39 GMT</pubDate>
-		<lastBuildDate>Fri, 19 Dec 2025 23:20:39 GMT</lastBuildDate>
+		<pubDate>Sun, 28 Dec 2025 22:51:43 GMT</pubDate>
+		<lastBuildDate>Sun, 28 Dec 2025 22:51:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Long Mott Energy LLC's Answer to Waterkeeper's December 5, 2025 Motion to Amend Contention 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25353A610</link>
+			<description>Legal-Pleading</description>
+			<author>Long Mott Energy, LLC, Morgan, Lewis and Bockius, LLP</author>
+			<pubDate>2025-12-22 09:32:00</pubDate>
+		</item>
 		<item>
 			<title>SECY-25-0102: Staff's Statement in Support of the Uncontested Hearing for the Issuance of a Construction Permit for the USO Kemmerer Power Station, Unit 1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25324A372</link>
@@ -24,41 +31,6 @@
 			<description>Meeting Transcript</description>
 			<author>NRC/OCM</author>
 			<pubDate>2025-12-15 08:15:00</pubDate>
-		</item>
-		<item>
-			<title>Summary Report for the 730th Meeting of the Advisory Committee on Reactor Safeguards for November 5 Through 6, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25342A445</link>
-			<description>ACRS Summary Report</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-12-12 10:18:00</pubDate>
-		</item>
-		<item>
-			<title>Declaring a National Energy Emergency - Enclosure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25258A014</link>
-			<description>Status Report</description>
-			<author>NRC/Chairman</author>
-			<pubDate>2025-12-11 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>IAEA EPR 2025_Modernizing EP Regulations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25343A206</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NSIR/DPR</author>
-			<pubDate>2025-12-09 14:30:00</pubDate>
-		</item>
-		<item>
-			<title>NEI - Request for NRC Endorsement of NEI 25-08, Revision A, "Graded Approach to Seismic Hazard Analysis and Corresponding Site Investigations for Licensing Nuclear Power Plants"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25335A211</link>
-			<description>Letter, Report, Technical</description>
-			<author>Nuclear Energy Institute (NEI)</author>
-			<pubDate>2025-12-09 08:07:00</pubDate>
-		</item>
-		<item>
-			<title>San Antonio Bay Estuarine Waterkeeper Motion to Amend Contention 1 Based on PSAR Supplement 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25339A186</link>
-			<description>Legal-Motion</description>
-			<author>Perales, Allmon and Ice, P.C., San Antonio Bay Estuarine Waterkeeper</author>
-			<pubDate>2025-12-08 08:15:00</pubDate>
 		</item>
 	</channel>
 </rss>

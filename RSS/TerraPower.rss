@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 19 Dec 2025 23:20:39 GMT</pubDate>
-		<lastBuildDate>Fri, 19 Dec 2025 23:20:39 GMT</lastBuildDate>
+		<pubDate>Sun, 28 Dec 2025 22:51:43 GMT</pubDate>
+		<lastBuildDate>Sun, 28 Dec 2025 22:51:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,27 +17,6 @@
 			<description>Meeting Minutes</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-12-19 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>Summary Report for the 730th Meeting of the Advisory Committee on Reactor Safeguards for November 5 Through 6, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25342A445</link>
-			<description>ACRS Summary Report</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-12-12 10:18:00</pubDate>
-		</item>
-		<item>
-			<title>Declaring a National Energy Emergency - Enclosure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25258A014</link>
-			<description>Status Report</description>
-			<author>NRC/Chairman</author>
-			<pubDate>2025-12-11 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>IAEA EPR 2025_Modernizing EP Regulations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25343A206</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NSIR/DPR</author>
-			<pubDate>2025-12-09 14:30:00</pubDate>
 		</item>
 	</channel>
 </rss>

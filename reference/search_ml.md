@@ -28,14 +28,6 @@ tibble of search results
 
 ``` r
 c("ML22179A346", "ML19211C119") |> nrcadams::search_ml()
-#> Searching with the following URL:
-#>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_any:!(!(AccessionNumber,starts,ML22179A346,''),!(AccessionNumber,starts,ML19211C119,''))))&qn=New&tab=content-search-pars&z=0
-#> # A tibble: 2 × 8
-#> Warning: unknown timezone 'EDT'
-#> Warning: unknown timezone 'EDT'
-#>   Title `Document Date` `Publish Date`      Type  Affiliation URL   DocketNumber
-#>   <chr> <date>          <dttm>              <chr> <chr>       <chr>        <dbl>
-#> 1 "NUR… 2022-06-30      2022-07-05 08:26:00 NURE… NRC/NMSS    "htt…      5000608
-#> 2 "SHI… 2019-07-17      2019-08-13 10:46:00 Fina… SHINE Medi… "htt…      5000608
-#> # ℹ 1 more variable: `ML Number` <chr>
+#> [1] "ML22179A346"
+#> Error in httr2::req_perform(req): HTTP 401 Unauthorized.
 ```

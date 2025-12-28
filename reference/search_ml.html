@@ -70,16 +70,8 @@ in addition to full ML numbers.</p></dd>
     <div class="section level2">
     <h2 id="ref-examples">Examples<a class="anchor" aria-label="anchor" href="#ref-examples"></a></h2>
     <div class="sourceCode"><pre class="sourceCode r"><code><span class="r-in"><span><span class="fu"><a href="https://rdrr.io/r/base/c.html" class="external-link">c</a></span><span class="op">(</span><span class="st">"ML22179A346"</span>, <span class="st">"ML19211C119"</span><span class="op">)</span> <span class="op">|&gt;</span> <span class="fu">nrcadams</span><span class="fu">::</span><span class="fu">search_ml</span><span class="op">(</span><span class="op">)</span></span></span>
-<span class="r-msg co"><span class="r-pr">#&gt;</span> Searching with the following URL:</span>
-<span class="r-msg co"><span class="r-pr">#&gt;</span>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_any:!(!(AccessionNumber,starts,ML22179A346,''),!(AccessionNumber,starts,ML19211C119,''))))&amp;qn=New&amp;tab=content-search-pars&amp;z=0</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #949494;"># A tibble: 2 × 8</span></span>
-<span class="r-wrn co"><span class="r-pr">#&gt;</span> <span class="warning">Warning: </span>unknown timezone 'EDT'</span>
-<span class="r-wrn co"><span class="r-pr">#&gt;</span> <span class="warning">Warning: </span>unknown timezone 'EDT'</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span>   Title `Document Date` `Publish Date`      Type  Affiliation URL   DocketNumber</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span>   <span style="color: #949494; font-style: italic;">&lt;chr&gt;</span> <span style="color: #949494; font-style: italic;">&lt;date&gt;</span>          <span style="color: #949494; font-style: italic;">&lt;dttm&gt;</span>              <span style="color: #949494; font-style: italic;">&lt;chr&gt;</span> <span style="color: #949494; font-style: italic;">&lt;chr&gt;</span>       <span style="color: #949494; font-style: italic;">&lt;chr&gt;</span>        <span style="color: #949494; font-style: italic;">&lt;dbl&gt;</span></span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;">1</span> <span style="color: #949494;">"</span>NUR… 2022-06-30      2022-07-05 <span style="color: #949494;">08:26:00</span> NURE… NRC/NMSS    <span style="color: #949494;">"</span>htt…      5<span style="text-decoration: underline;">000</span>608</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;">2</span> <span style="color: #949494;">"</span>SHI… 2019-07-17      2019-08-13 <span style="color: #949494;">10:46:00</span> Fina… SHINE Medi… <span style="color: #949494;">"</span>htt…      5<span style="text-decoration: underline;">000</span>608</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #949494;"># ℹ 1 more variable: `ML Number` &lt;chr&gt;</span></span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> [1] "ML22179A346"</span>
+<span class="r-err co"><span class="r-pr">#&gt;</span> <span class="error">Error in httr2::req_perform(req):</span> HTTP 401 Unauthorized.</span>
 </code></pre></div>
     </div>
   </main><aside class="col-md-3"><nav id="toc" aria-label="Table of contents"><h2>On this page</h2>

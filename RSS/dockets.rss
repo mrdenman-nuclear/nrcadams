@@ -5,12 +5,47 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 19 Dec 2025 23:20:34 GMT</pubDate>
-		<lastBuildDate>Fri, 19 Dec 2025 23:20:34 GMT</lastBuildDate>
+		<pubDate>Sun, 28 Dec 2025 22:51:38 GMT</pubDate>
+		<lastBuildDate>Sun, 28 Dec 2025 22:51:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC Form 896 -A Topical Report Verification</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25329A340</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-12-23 07:59:00</pubDate>
+		</item>
+		<item>
+			<title>Email transmitting Form 896 -A TR Verification</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25329A343</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2025-12-23 07:59:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: Xe-100 Remotely Operated Special Tooling (Public)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25318A041</link>
+			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2025-12-22 13:40:00</pubDate>
+		</item>
+		<item>
+			<title>ML25345A481-SMR (Holtec) Draft Safety Evaluation of Licensing Topical Report HI-2241098, SMR Design Basis Radiological Consequences Analysis Methodology, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25345A481</link>
+			<description>Safety Evaluation Report, Draft</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2025-12-22 09:32:00</pubDate>
+		</item>
+		<item>
+			<title>US NRC Response For Withholding Proprietary Information Of The Submittal Of Audit Report And Draft SE For NDM Review Submitted On Nov 26 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25351A125</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2025-12-22 09:32:00</pubDate>
+		</item>
 		<item>
 			<title>SECY-25-0102: Staff's Statement in Support of the Uncontested Hearing for the Issuance of a Construction Permit for the USO Kemmerer Power Station, Unit 1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25324A372</link>
@@ -185,41 +220,6 @@
 			<description>Memoranda</description>
 			<author>NRC/NRR/DORL/LLPB</author>
 			<pubDate>2025-12-17 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>2025/12/03 Clinch River CP Saf Docs - Docket Request for A-12.3-1 - TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25337A021</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-12-17 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>2025/12/03 Clinch River CP Saf Docs - Docket Request for A-6.1-1, A-6.1-2, A-6.3-1, and A-6.6-1 - TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25337A363</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-12-17 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>2025/12/03 Clinch River CP Saf Docs - RE Docket Request for responses to A-3.6-2, A-3.6-3, A-3.6-4, A-3.6-5, A-3.8-4 & A-3.9.2-1, TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25337A402</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2025-12-17 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Supplemental Information to Support the Kemmerer Unit 1 Construction Permit Application Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25343A199</link>
-			<description>Letter</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-12-17 08:10:00</pubDate>
-		</item>
-		<item>
-			<title>12/18/2025 Pre-submittal Meeting with Kairos Power LLC on the Structural Building Design for Hermes 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25350C359</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-12-16 18:16:00</pubDate>
 		</item>
 	</channel>
 </rss>

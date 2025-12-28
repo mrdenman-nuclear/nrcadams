@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 19 Dec 2025 23:20:35 GMT</pubDate>
-		<lastBuildDate>Fri, 19 Dec 2025 23:20:35 GMT</lastBuildDate>
+		<pubDate>Sun, 28 Dec 2025 22:51:39 GMT</pubDate>
+		<lastBuildDate>Sun, 28 Dec 2025 22:51:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,41 +24,6 @@
 			<description>Meeting Minutes</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2025-12-19 08:37:00</pubDate>
-		</item>
-		<item>
-			<title>Summary Report for the 730th Meeting of the Advisory Committee on Reactor Safeguards for November 5 Through 6, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25342A445</link>
-			<description>ACRS Summary Report</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-12-12 10:18:00</pubDate>
-		</item>
-		<item>
-			<title>Documentation of Receipt of Applicable Official NRC Notices to the Advisory Committee on Reactor Safeguards for December 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25343A095</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-12-10 14:32:00</pubDate>
-		</item>
-		<item>
-			<title>December 2025 Advisory Committee on Reactor Safeguards (ACRS) Full Committee Meeting - Topical Reports</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25343A093</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-12-10 12:41:00</pubDate>
-		</item>
-		<item>
-			<title>731st ACRS Full Committee Regulatory Guide for December 3 through 4 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25343A090</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-12-10 12:41:00</pubDate>
-		</item>
-		<item>
-			<title>Consolidated Comments Palisades November 2025 - ACRS Full Committee</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25342A161</link>
-			<description>ACRS Summary Report, Meeting Summary</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2025-12-08 16:01:00</pubDate>
 		</item>
 	</channel>
 </rss>

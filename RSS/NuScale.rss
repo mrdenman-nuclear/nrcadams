@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 19 Dec 2025 23:20:39 GMT</pubDate>
-		<lastBuildDate>Fri, 19 Dec 2025 23:20:39 GMT</lastBuildDate>
+		<pubDate>Sun, 28 Dec 2025 22:51:43 GMT</pubDate>
+		<lastBuildDate>Sun, 28 Dec 2025 22:51:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,34 +24,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Hadron Energy, Inc</author>
 			<pubDate>2025-12-17 14:05:00</pubDate>
-		</item>
-		<item>
-			<title>DPO Case File: DPO-2024-002--Redacted-Public</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25160A235</link>
-			<description>Differing Professional Opinion Case File</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-12-12 11:53:00</pubDate>
-		</item>
-		<item>
-			<title>Meeting Summary of The September 18-19, 2025, U.S. Nuclear Regulatory Commission's Accident Tolerant Fuel Fragmentation, Relocation, and Dispersal Consequences Workshop</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25323A415</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DORL/LLPB</author>
-			<pubDate>2025-12-11 08:17:00</pubDate>
-		</item>
-		<item>
-			<title>IAEA EPR 2025_Modernizing EP Regulations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25343A206</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NSIR/DPR</author>
-			<pubDate>2025-12-09 14:30:00</pubDate>
-		</item>
-		<item>
-			<title>NEI - Request for NRC Endorsement of NEI 25-08, Revision A, "Graded Approach to Seismic Hazard Analysis and Corresponding Site Investigations for Licensing Nuclear Power Plants"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25335A211</link>
-			<description>Letter, Report, Technical</description>
-			<author>Nuclear Energy Institute (NEI)</author>
-			<pubDate>2025-12-09 08:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
