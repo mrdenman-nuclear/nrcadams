@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Sun, 28 Dec 2025 22:51:37 GMT</pubDate>
-		<lastBuildDate>Sun, 28 Dec 2025 22:51:37 GMT</lastBuildDate>
+		<pubDate>Mon, 29 Dec 2025 14:22:25 GMT</pubDate>
+		<lastBuildDate>Mon, 29 Dec 2025 14:22:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Westinghouse - Submittal of Westinghouse eVinci Microreactor 2025 Pre-Application Regulatory Engagement Plan</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25351A119</link>
+			<description>Letter</description>
+			<author>Westinghouse Electric Co, LLC</author>
+			<pubDate>2025-12-29 08:24:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1: Affidavit AW-25-076</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25351A120</link>
+			<description>Legal-Affidavit</description>
+			<author>Westinghouse Electric Co, LLC</author>
+			<pubDate>2025-12-29 08:24:00</pubDate>
+		</item>
 		<item>
 			<title>US NRC Response For Withholding Proprietary Information Of The Submittal Of Audit Report And Draft SE For NDM Review Submitted On Nov 26 2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25351A125</link>
@@ -24,20 +38,6 @@
 			<description>Audit Plan</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2025-12-17 08:12:00</pubDate>
-		</item>
-		<item>
-			<title>Cover Letter - Report For The Regulatory Audit Regarding Westinghouse Electric Company's Nuclear Design Methodology Topical Report (CAC/EPID NO. 00431/L-2024-TOP-0020)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25184A370</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-12-15 08:15:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 Report For The Regulatory Audit Regarding Westinghouse Electric Company's Nuclear Design Methodology Topical Report- Nonproprietary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25245A157</link>
-			<description>Audit Report</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2025-12-15 08:14:00</pubDate>
 		</item>
 	</channel>
 </rss>

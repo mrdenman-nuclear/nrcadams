@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Sun, 28 Dec 2025 22:51:43 GMT</pubDate>
-		<lastBuildDate>Sun, 28 Dec 2025 22:51:43 GMT</lastBuildDate>
+		<pubDate>Mon, 29 Dec 2025 14:22:31 GMT</pubDate>
+		<lastBuildDate>Mon, 29 Dec 2025 14:22:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Commission SECY Paper</description>
 			<author>NRC/EDO</author>
 			<pubDate>2025-12-19 16:22:00</pubDate>
-		</item>
-		<item>
-			<title>07/28/2022 - NRC Public Meeting Transcript on Part 53 - Framework B, Subparts N-U, including the Alternative Evaluation for Risk Insights</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML22221A005</link>
-			<description>Meeting Transcript</description>
-			<author>NRC/OCM</author>
-			<pubDate>2025-12-15 08:15:00</pubDate>
 		</item>
 	</channel>
 </rss>

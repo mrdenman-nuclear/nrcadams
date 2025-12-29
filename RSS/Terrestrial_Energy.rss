@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Sun, 28 Dec 2025 22:51:43 GMT</pubDate>
-		<lastBuildDate>Sun, 28 Dec 2025 22:51:43 GMT</lastBuildDate>
+		<pubDate>Mon, 29 Dec 2025 14:22:31 GMT</pubDate>
+		<lastBuildDate>Mon, 29 Dec 2025 14:22:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -136,48 +136,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/NRR/DNRL/NLRP</author>
 			<pubDate>2025-12-16 12:37:00</pubDate>
-		</item>
-		<item>
-			<title>Oyster Creek Nuclear Generating Station, Decommissioning Project License Termination Plan Revision 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25345A095</link>
-			<description>Report, Technical</description>
-			<author>Holtec Decommissioning International, LLC</author>
-			<pubDate>2025-12-15 12:18:00</pubDate>
-		</item>
-		<item>
-			<title>Oyster Creek Nuclear Generating Station, Historical Site Assessment (HSA) Revision 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25345A096</link>
-			<description>Report, Technical</description>
-			<author>Comprehensive Decommissioning International, Holtec Decommissioning International, LLC</author>
-			<pubDate>2025-12-15 12:18:00</pubDate>
-		</item>
-		<item>
-			<title>Oyster Creek Nuclear Generating Station, GHD Services, Inc., 100 Year Land Use Outlook - Categorization and Justification</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25345A128</link>
-			<description>Report, Technical</description>
-			<author>GHD Services, Inc, Holtec Decommissioning International, LLC</author>
-			<pubDate>2025-12-15 12:18:00</pubDate>
-		</item>
-		<item>
-			<title>Oyster Creek Nuclear Generating Station, Technical Support Document No. 24-103 Rev. 0, Distribution Coefficient (Kd) of Radionuclides in Soil Samples</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25345A136</link>
-			<description>Report, Technical</description>
-			<author>Holtec Decommissioning International, LLC, Radiation Safety and Control Services, Inc</author>
-			<pubDate>2025-12-15 12:18:00</pubDate>
-		</item>
-		<item>
-			<title>Edwin I. Hatch, Unit 1, Current Facility Operating License DPR-57, Tech Specs, Revised 12/25/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052930172</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-12-15 09:17:00</pubDate>
-		</item>
-		<item>
-			<title>Edwin I. Hatch, Unit 2, Current Facility Operating License NPF-5, Tech Specs, Revised 12/15/2025.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052930177</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-12-15 09:13:00</pubDate>
 		</item>
 	</channel>
 </rss>
