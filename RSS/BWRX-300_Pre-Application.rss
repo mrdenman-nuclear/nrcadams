@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 30 Dec 2025 23:19:29 GMT</pubDate>
-		<lastBuildDate>Tue, 30 Dec 2025 23:19:29 GMT</lastBuildDate>
+		<pubDate>Wed, 31 Dec 2025 14:22:57 GMT</pubDate>
+		<lastBuildDate>Wed, 31 Dec 2025 14:22:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,13 +52,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2025-12-18 09:56:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of Closed Pre-submittal Meeting between U. S. Nuclear Regulatory Commission and GE Vernova Hitachi Nuclear Energy Americas, LLC, for Ultra Plus Control Rod Topical Report (EPID L-2025-LRM-0145)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25338A046</link>
-			<description>Memoranda</description>
-			<author>NRC/NRR/DORL/LLPB</author>
-			<pubDate>2025-12-17 08:11:00</pubDate>
 		</item>
 	</channel>
 </rss>

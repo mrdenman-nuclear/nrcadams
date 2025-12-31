@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 30 Dec 2025 23:19:29 GMT</pubDate>
-		<lastBuildDate>Tue, 30 Dec 2025 23:19:29 GMT</lastBuildDate>
+		<pubDate>Wed, 31 Dec 2025 14:22:57 GMT</pubDate>
+		<lastBuildDate>Wed, 31 Dec 2025 14:22:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Safety Evaluation</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-12-18 17:09:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Supplemental Information to Support the Kemmerer Unit 1 Construction Permit Application Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25343A199</link>
-			<description>Letter</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2025-12-17 08:10:00</pubDate>
 		</item>
 	</channel>
 </rss>

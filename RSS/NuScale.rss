@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 30 Dec 2025 23:19:36 GMT</pubDate>
-		<lastBuildDate>Tue, 30 Dec 2025 23:19:36 GMT</lastBuildDate>
+		<pubDate>Wed, 31 Dec 2025 14:23:05 GMT</pubDate>
+		<lastBuildDate>Wed, 31 Dec 2025 14:23:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Commission SECY Paper</description>
 			<author>NRC/EDO</author>
 			<pubDate>2025-12-19 16:22:00</pubDate>
-		</item>
-		<item>
-			<title>Hadron Energy with the Nuclear Regulatory Commission Meeting on Principal Design Criteria (PDC)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25339A162</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Hadron Energy, Inc</author>
-			<pubDate>2025-12-17 14:05:00</pubDate>
 		</item>
 	</channel>
 </rss>
