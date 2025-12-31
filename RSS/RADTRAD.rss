@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Sun, 28 Dec 2025 22:51:45 GMT</pubDate>
-		<lastBuildDate>Sun, 28 Dec 2025 22:51:45 GMT</lastBuildDate>
+		<pubDate>Wed, 31 Dec 2025 19:16:34 GMT</pubDate>
+		<lastBuildDate>Wed, 31 Dec 2025 19:16:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>ML25345A481-SMR (Holtec) Draft Safety Evaluation of Licensing Topical Report HI-2241098, SMR Design Basis Radiological Consequences Analysis Methodology, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25345A481</link>
-			<description>Safety Evaluation Report, Draft</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2025-12-22 09:32:00</pubDate>
-		</item>
-		<item>
-			<title>Monticello - Rev. 42 to the Updated Final Safety Analysis Report, Chapter 14, Plant Safety Analysis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25105A262</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Northern States Power Company, Minnesota, Xcel Energy</author>
-			<pubDate>2025-12-22 08:12:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
