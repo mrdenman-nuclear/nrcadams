@@ -1,22 +1,19 @@
 # Last Week in Dockets
 
 This page is updated Monday through Friday, hourly between 9AM ET and 5
-PM ET. The last update was at 2026-01-01 18:20:41.28 ET.
+PM ET. The last update was at 2026-01-01 18:31:58.194587 ET.
 
 ``` r
-last_week_in_dockets = nrcadams::docket_codex |>
+last_week_in_dockets <- nrcadams::docket_codex |>
   dplyr::pull(DocketNumber) |>
-  nrcadams::search_docket(days_back = 7) |>
+  nrcadams::search_docket(days_back = 7, rest_api = TRUE) |>
   dplyr::left_join(nrcadams::docket_codex) |>
   dplyr::filter(!is.na(Project))
-#> Searching with the following URL:
-#>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_any:!(!(DocketNumber,eq,'99902088',''),!(DocketNumber,eq,'05000610',''),!(DocketNumber,eq,'05000608',''),!(DocketNumber,eq,'99902115',''),!(DocketNumber,eq,'99902071',''),!(DocketNumber,eq,'07007027',''),!(DocketNumber,eq,'99902117',''),!(DocketNumber,eq,'99902111',''),!(DocketNumber,eq,'99902100',''),!(DocketNumber,eq,'05000613',''),!(DocketNumber,eq,'99902150',''),!(DocketNumber,eq,'99902094',''),!(DocketNumber,eq,'99902079',''),!(DocketNumber,eq,'99902076',''),!(DocketNumber,eq,'99900003',''),!(DocketNumber,eq,'99902049',''),!(DocketNumber,eq,'05200048',''),!(DocketNumber,eq,'99902078',''),!(DocketNumber,eq,'05200050',''),!(DocketNumber,eq,'99902052',''),!(DocketNumber,eq,'99902069',''),!(DocketNumber,eq,'05007513',''),!(DocketNumber,eq,'05000611',''),!(DocketNumber,eq,'05000612',''),!(DocketNumber,eq,'99902095',''),!(DocketNumber,eq,'99902101',''),!(DocketNumber,eq,'05200049',''),!(DocketNumber,eq,'99902128',''),!(DocketNumber,eq,'99902136',''),!(DocketNumber,eq,'99902122',''),!(DocketNumber,eq,'99902056',''),!(DocketNumber,eq,'05000615','')),properties_search_all:!(!(PublishDatePARS,gt,'12/25/2025',''))))&qn=New&tab=advanced-search-pars&z=0 
-#> : 0.563 sec elapsed
 #> 
 #>  This search returned: 26 files.
 #> Joining with `by = join_by(DocketNumber)`
 
-build_html_table = function(docket_tbl, LWR) {
+build_html_table <- function(docket_tbl, LWR) {
   if (LWR) {
     docket_tbl = docket_tbl |> 
       dplyr::filter(!NLWR)
@@ -27,14 +24,14 @@ build_html_table = function(docket_tbl, LWR) {
     title = "The Last 7 Days of Posted NLWR Licensing Documents."
   }
     
-  docket_tbl |> 
-    nrcadams::hyperlink_file_to_name() |>
-    dplyr::select(-c(Company, DocketNumber, NLWR)) |>
-    DT::datatable(
-      caption = title,
-      filter = list(position = 'top', clear = TRUE, plain = FALSE),
-      escape = FALSE
-      )
+docket_tbl |> 
+  nrcadams::hyperlink_file_to_name() |>
+  dplyr::select(-c(Company, DocketNumber, NLWR)) |>
+  DT::datatable(
+    caption = title,
+    filter = list(position = 'top', clear = TRUE, plain = FALSE),
+    escape = FALSE
+    )
 }
 
 docket_count = last_week_in_dockets |>

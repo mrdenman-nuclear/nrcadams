@@ -39,17 +39,14 @@ search through both the pre-application and docketed information.
 nrcadams::docket_codex |>
   dplyr::filter(Company == "TerraPower") |>
   dplyr::pull(DocketNumber) |>
-  nrcadams::search_docket(days_back = 60) |>
+  nrcadams::search_docket(days_back = 60, rest_api = TRUE) |>
   dplyr::mutate(Title = paste0("<a href='", URL, "'>", Title, '</a>')) |>
-  dplyr::select(-URL) |>
+  dplyr::select(-c(URL, count)) |>
   DT::datatable(
-    caption = "The last 60 Days of the MSRR's Posted Licensing Documents.",
-    filter = list(position = 'top', clear = TRUE, plain = FALSE),
+    caption = "The last 60 Days of the TerraPower's Posted Licensing Documents.",
+    filter = list(position = "top", clear = TRUE, plain = FALSE),
     escape = FALSE
-    )
-#> Searching with the following URL:
-#>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_any:!(!(DocketNumber,eq,'99902100',''),!(DocketNumber,eq,'05000613',''),!(DocketNumber,eq,'99902150','')),properties_search_all:!(!(PublishDatePARS,gt,'11/02/2025',''))))&qn=New&tab=advanced-search-pars&z=0 
-#> : 0.588 sec elapsed
+  )
 #> 
 #>  This search returned: 34 files.
 ```
@@ -68,23 +65,18 @@ filter on the returned results.
 nrcadams::docket_codex |>
   dplyr::filter(Company == "X-Energy") |>
   dplyr::pull(DocketNumber) |>
-  nrcadams::search_docket() |>
+  nrcadams::search_docket(rest_api = TRUE, days_back = 100) |>
   dplyr::filter(
     !stringr::str_detect(Type, "E-Mail"),
     !stringr::str_detect(Type, "Letter")
-    )|>
+  )|>
   dplyr::mutate(Title = paste0("<a href='", URL, "'>", Title, '</a>')) |>
   dplyr::select(-URL) |>
   DT::datatable(
     caption = "X-Energy's Pre-Applicaion Docket without Letters and Emails.",
-    filter = list(position = 'top', clear = TRUE, plain = FALSE),
+    filter = list(position = "top", clear = TRUE, plain = FALSE),
     escape = FALSE
-    )
-#> Searching with the following URL:
-#>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_any:!(!(DocketNumber,eq,'99902071',''),!(DocketNumber,eq,'07007027',''),!(DocketNumber,eq,'99902117',''))))&qn=New&tab=advanced-search-pars&z=0 
-#> : 7.303 sec elapsed
+  )
 #> 
-#>  This search returned: 1000 files.
-#> Warning in nrcadams::search_docket(dplyr::pull(dplyr::filter(nrcadams::docket_codex, : 
-#> This search returned more than 1000 results and thus may be incomplete. As a result, the search should be refined.
+#>  This search returned: 148 files.
 ```

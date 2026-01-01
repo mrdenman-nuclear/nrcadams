@@ -51,40 +51,68 @@
 <span>  days_back <span class="op">=</span> <span class="cn">NA</span>,</span>
 <span>  start_date <span class="op">=</span> <span class="cn">NA</span>,</span>
 <span>  end_date <span class="op">=</span> <span class="cn">NA</span>,</span>
-<span>  document_type <span class="op">=</span> <span class="cn">NA</span></span>
+<span>  document_type <span class="op">=</span> <span class="cn">NA</span>,</span>
+<span>  rest_api <span class="op">=</span> <span class="cn">FALSE</span>,</span>
+<span>  skip_dbl <span class="op">=</span> <span class="fl">0</span>,</span>
+<span>  max_returns <span class="op">=</span> <span class="fl">1e+06</span>,</span>
+<span>  verbosity <span class="op">=</span> <span class="fl">0</span></span>
 <span><span class="op">)</span></span></code></pre></div>
     </div>
 
     <div class="section level2">
     <h2 id="source">Source<a class="anchor" aria-label="anchor" href="#source"></a></h2>
     <p><a href="https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf" class="external-link">https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf</a></p>
+<p><a href="https://adams-search.nrc.gov/assets/APS-API-Guide.pdf" class="external-link">https://adams-search.nrc.gov/assets/APS-API-Guide.pdf</a></p>
     </div>
     <div class="section level2">
     <h2 id="arguments">Arguments<a class="anchor" aria-label="anchor" href="#arguments"></a></h2>
 
 
 <dl><dt id="arg-docketnumber">DocketNumber<a class="anchor" aria-label="anchor" href="#arg-docketnumber"></a></dt>
-<dd><p>dbl/vector: Docket number (or numbers) to be searched on ADAMS</p></dd>
+<dd><p>dbl/vector: Docket number (or numbers)
+to be searched on ADAMS</p></dd>
 
 
 <dt id="arg-search-term">search_term<a class="anchor" aria-label="anchor" href="#arg-search-term"></a></dt>
-<dd><p>chr: Any search term desired. Default is nothing (i.e., NA)</p></dd>
+<dd><p>chr: Any search term desired. Default is nothing
+(i.e., NA)</p></dd>
 
 
 <dt id="arg-days-back">days_back<a class="anchor" aria-label="anchor" href="#arg-days-back"></a></dt>
-<dd><p>dbl: Length of time the search extends in days since the document was published on ADAMS? Default is all time (i.e, NA). Cannot be used with start_date or end_date.</p></dd>
+<dd><p>dbl: Length of time the search extends in days since
+the document was published on ADAMS? Default is all time (i.e, NA).
+Cannot be used with start_date or end_date.</p></dd>
 
 
 <dt id="arg-start-date">start_date<a class="anchor" aria-label="anchor" href="#arg-start-date"></a></dt>
-<dd><p>chr: The earliest date (ymd) search results should be returned. Cannot be used with days_back.</p></dd>
+<dd><p>chr: The earliest date (ymd) search results should
+be returned. Cannot be used with days_back.</p></dd>
 
 
 <dt id="arg-end-date">end_date<a class="anchor" aria-label="anchor" href="#arg-end-date"></a></dt>
-<dd><p>chr: The latest date (ymd) search results should be returned. Cannot be used with days_back.</p></dd>
+<dd><p>chr: The latest date (ymd) search results should be
+returned. Cannot be used with days_back.</p></dd>
 
 
 <dt id="arg-document-type">document_type<a class="anchor" aria-label="anchor" href="#arg-document-type"></a></dt>
-<dd><p>chr: Type of ADAMS document</p></dd>
+<dd><p>chr: Type of ADAMS document, currently unsupported</p></dd>
+
+
+<dt id="arg-rest-api">rest_api<a class="anchor" aria-label="anchor" href="#arg-rest-api"></a></dt>
+<dd><p>logical: If TRUE, use the REST API to conduct the search.</p></dd>
+
+
+<dt id="arg-max-returns">max_returns<a class="anchor" aria-label="anchor" href="#arg-max-returns"></a></dt>
+<dd><p>dbl: Maximum number of returns to pull when using REST
+API.</p></dd>
+
+
+<dt id="arg-verbosity">verbosity<a class="anchor" aria-label="anchor" href="#arg-verbosity"></a></dt>
+<dd><p>dbl: Level of verbosity for REST API requests.</p></dd>
+
+
+<dt id="arg-skip-dbl-">skip_dbl:<a class="anchor" aria-label="anchor" href="#arg-skip-dbl-"></a></dt>
+<dd><p>Number of records to skip in the search.</p></dd>
 
 </dl></div>
     <div class="section level2">
@@ -100,7 +128,7 @@
 <span class="r-in"><span>    <span class="fu">nrcadams</span><span class="fu">::</span><span class="fu">search_docket</span><span class="op">(</span><span class="op">)</span></span></span>
 <span class="r-out co"><span class="r-pr">#&gt;</span> Searching with the following URL:</span>
 <span class="r-out co"><span class="r-pr">#&gt;</span>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_any:!(!(DocketNumber,eq,'99902088',''),!(DocketNumber,eq,'05000610',''))))&amp;qn=New&amp;tab=advanced-search-pars&amp;z=0 </span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> : 1.493 sec elapsed</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> : 1.137 sec elapsed</span>
 <span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
 <span class="r-msg co"><span class="r-pr">#&gt;</span>  This search returned: 228 files.</span>
 <span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #949494;"># A tibble: 228 × 8</span></span>

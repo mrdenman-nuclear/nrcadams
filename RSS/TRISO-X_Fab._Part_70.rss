@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 01 Jan 2026 23:20:45 GMT</pubDate>
-		<lastBuildDate>Thu, 01 Jan 2026 23:20:45 GMT</lastBuildDate>
+		<pubDate>Thu, 01 Jan 2026 23:32:01 GMT</pubDate>
+		<lastBuildDate>Thu, 01 Jan 2026 23:32:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -15,15 +15,15 @@
 			<title>TRISO-X, LLC, Fuel Fabrication Facility Special Nuclear Material License Application Cover Page, Chapter Index, Abbreviations, and Acronyms, Revision 4</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25353A614</link>
 			<description>License-Application for Facility Operating License (Amend/Renewal) DKT 50, Report, Technical</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2025-12-30 10:24:00</pubDate>
+			<author>NRC/NMSS</author>
+			<pubDate>2025-12-30 14:24:00</pubDate>
 		</item>
 		<item>
 			<title>TRISO-X, LLC, Submittal of Revisions to License Application Chapters and Integrated Safety Analysis Summary</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25353A612</link>
 			<description>Legal-Affidavit, Letter, License-Application for (Amend/Renewal/New) for DKT 30, 40, 70</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2025-12-30 10:24:00</pubDate>
+			<author>NRC/NMSS, NRC/Document Control Desk</author>
+			<pubDate>2025-12-30 14:24:00</pubDate>
 		</item>
 	</channel>
 </rss>

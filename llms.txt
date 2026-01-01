@@ -56,6 +56,8 @@ The primary user fuctions for searching the ADAMS database.
   : Conduct a lengthy search on Docket Numbers
 - [`search_ml()`](https://mrdenman-nuclear.github.io/nrcadams/reference/search_ml.md)
   : Conduct ADAMS Search on ML numbers
+- [`search_public_ADAMS()`](https://mrdenman-nuclear.github.io/nrcadams/reference/search_public_ADAMS.md)
+  : Conducts a single ADAMS Search on Docket Numbers
 - [`search_undocketed()`](https://mrdenman-nuclear.github.io/nrcadams/reference/search_undocketed.md)
   : Why are my ears burning?
 
@@ -83,6 +85,8 @@ This set of functions helps work with the ADAMS search tibble results
   : Make URL from ML number
 - [`write_rss()`](https://mrdenman-nuclear.github.io/nrcadams/reference/write_rss.md)
   : Writes RSS Feeds
+- [`collapse_list()`](https://mrdenman-nuclear.github.io/nrcadams/reference/collapse_list.md)
+  : Collapse List
 
 ## Internal
 

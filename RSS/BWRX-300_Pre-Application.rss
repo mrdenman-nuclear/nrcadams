@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 01 Jan 2026 23:20:45 GMT</pubDate>
-		<lastBuildDate>Thu, 01 Jan 2026 23:20:45 GMT</lastBuildDate>
+		<pubDate>Thu, 01 Jan 2026 23:32:01 GMT</pubDate>
+		<lastBuildDate>Thu, 01 Jan 2026 23:32:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -15,36 +15,43 @@
 			<title>01/09/2026 Public Meeting with GE Vernova Hitachi (GVH) to Discuss BWRX-300 Expedited Construction and Manufacturing of Certain Structures, Systems, and Components (SSCs)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25364A319</link>
 			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-12-30 14:59:00</pubDate>
+			<author></author>
+			<pubDate>2025-12-30 18:59:00</pubDate>
 		</item>
 		<item>
 			<title>Audit Summary for the Regulatory Audit of GE-Vernova Topical Report, "BWRX-300 Steel Plate Composite Containment Vessel and Reactor Building Structural Design"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25273A021</link>
 			<description>Audit Report, Memoranda</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2025-12-30 11:42:00</pubDate>
-		</item>
-		<item>
-			<title>GE Vernova Hitachi Nuclear Energy Americas, LLC - Approved Version of NEDC-33926P-A/NEDO-33926-A, Revision 4, BWRX-300 Steel-Plate Composite Containment Vessel (SCCV) and Reactor Building (RB) Structural Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25351A086</link>
-			<description>Letter</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2025-12-29 14:43:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: NEDO-33926-A, Revision 4, BWRX-300 Steel-Plate Composite Containment Vessel (SCCV) and Reactor Building (RB) Structural Design, GVH - Non-Proprietary Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25351A088</link>
-			<description>Topical Report</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2025-12-29 14:43:00</pubDate>
+			<pubDate>2025-12-30 15:42:00</pubDate>
 		</item>
 		<item>
 			<title>Enclosure 3: Affidavit, GVH - Non-Proprietary Information</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25351A089</link>
 			<description>Legal-Affidavit</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2025-12-29 14:43:00</pubDate>
+			<author>NRC/NRR</author>
+			<pubDate>2025-12-29 18:43:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: NEDO-33926-A, Revision 4, BWRX-300 Steel-Plate Composite Containment Vessel (SCCV) and Reactor Building (RB) Structural Design, GVH - Non-Proprietary Information</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25351A088</link>
+			<description>Topical Report</description>
+			<author>NRC/NRR</author>
+			<pubDate>2025-12-29 18:43:00</pubDate>
+		</item>
+		<item>
+			<title>GE Vernova Hitachi Nuclear Energy Americas, LLC - Approved Version of NEDC-33926P-A/NEDO-33926-A, Revision 4, BWRX-300 Steel-Plate Composite Containment Vessel (SCCV) and Reactor Building (RB) Structural Design</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25351A086</link>
+			<description>Letter</description>
+			<author>NRC/NRR, NRC/Document Control Desk</author>
+			<pubDate>2025-12-29 18:43:00</pubDate>
+		</item>
+		<item>
+			<title>2025/12/04 GEH BWRX-300 SMR TR RAI - FW LTR NEDC-34270, Revision 0, BWRX-300 Stability Analysis - Request for Additional Information No. 001 (RAI-10910-R1))</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25338A039</link>
+			<description>E-Mail</description>
+			<author></author>
+			<pubDate>2025-12-18 13:56:00</pubDate>
 		</item>
 	</channel>
 </rss>

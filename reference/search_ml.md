@@ -10,7 +10,7 @@ search_ml(ML_number)
 
 ## Source
 
-<https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf>
+<https://adams-search.nrc.gov/assets/APS-API-Guide.pdf>
 
 ## Arguments
 
@@ -27,7 +27,12 @@ tibble of search results
 ## Examples
 
 ``` r
-c("ML22179A346", "ML19211C119") |> nrcadams::search_ml()
+nrcadams::search_ml(ML_number = c("ML19211C119", "ML20014E642", "ML22179A346"))
+#> [1] "ML19211C119"
+#> [1] "ML20014E642"
+#> Joining with `by = join_by(Title, `Document Date`, `Publish Date`, Type,
+#> Affiliation, URL, DocketNumber, `ML Number`)`
 #> [1] "ML22179A346"
-#> Error in httr2::req_perform(req): HTTP 401 Unauthorized.
+#> Joining with `by = join_by(Title, `Document Date`, `Publish Date`, Type,
+#> Affiliation, URL, DocketNumber, `ML Number`)`
 ```

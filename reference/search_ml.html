@@ -50,7 +50,7 @@
 
     <div class="section level2">
     <h2 id="source">Source<a class="anchor" aria-label="anchor" href="#source"></a></h2>
-    <p><a href="https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf" class="external-link">https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf</a></p>
+    <p><a href="https://adams-search.nrc.gov/assets/APS-API-Guide.pdf" class="external-link">https://adams-search.nrc.gov/assets/APS-API-Guide.pdf</a></p>
     </div>
     <div class="section level2">
     <h2 id="arguments">Arguments<a class="anchor" aria-label="anchor" href="#arguments"></a></h2>
@@ -69,9 +69,14 @@ in addition to full ML numbers.</p></dd>
 
     <div class="section level2">
     <h2 id="ref-examples">Examples<a class="anchor" aria-label="anchor" href="#ref-examples"></a></h2>
-    <div class="sourceCode"><pre class="sourceCode r"><code><span class="r-in"><span><span class="fu"><a href="https://rdrr.io/r/base/c.html" class="external-link">c</a></span><span class="op">(</span><span class="st">"ML22179A346"</span>, <span class="st">"ML19211C119"</span><span class="op">)</span> <span class="op">|&gt;</span> <span class="fu">nrcadams</span><span class="fu">::</span><span class="fu">search_ml</span><span class="op">(</span><span class="op">)</span></span></span>
+    <div class="sourceCode"><pre class="sourceCode r"><code><span class="r-in"><span><span class="fu">nrcadams</span><span class="fu">::</span><span class="fu">search_ml</span><span class="op">(</span>ML_number <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/c.html" class="external-link">c</a></span><span class="op">(</span><span class="st">"ML19211C119"</span>, <span class="st">"ML20014E642"</span>, <span class="st">"ML22179A346"</span><span class="op">)</span><span class="op">)</span></span></span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> [1] "ML19211C119"</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> [1] "ML20014E642"</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Joining with `by = join_by(Title, `Document Date`, `Publish Date`, Type,</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Affiliation, URL, DocketNumber, `ML Number`)`</span>
 <span class="r-out co"><span class="r-pr">#&gt;</span> [1] "ML22179A346"</span>
-<span class="r-err co"><span class="r-pr">#&gt;</span> <span class="error">Error in httr2::req_perform(req):</span> HTTP 401 Unauthorized.</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Joining with `by = join_by(Title, `Document Date`, `Publish Date`, Type,</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Affiliation, URL, DocketNumber, `ML Number`)`</span>
 </code></pre></div>
     </div>
   </main><aside class="col-md-3"><nav id="toc" aria-label="Table of contents"><h2>On this page</h2>

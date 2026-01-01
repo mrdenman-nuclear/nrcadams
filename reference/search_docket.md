@@ -11,13 +11,19 @@ search_docket(
   days_back = NA,
   start_date = NA,
   end_date = NA,
-  document_type = NA
+  document_type = NA,
+  rest_api = FALSE,
+  skip_dbl = 0,
+  max_returns = 1e+06,
+  verbosity = 0
 )
 ```
 
 ## Source
 
 <https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf>
+
+<https://adams-search.nrc.gov/assets/APS-API-Guide.pdf>
 
 ## Arguments
 
@@ -47,7 +53,23 @@ search_docket(
 
 - document_type:
 
-  chr: Type of ADAMS document
+  chr: Type of ADAMS document, currently unsupported
+
+- rest_api:
+
+  logical: If TRUE, use the REST API to conduct the search.
+
+- max_returns:
+
+  dbl: Maximum number of returns to pull when using REST API.
+
+- verbosity:
+
+  dbl: Level of verbosity for REST API requests.
+
+- skip_dbl::
+
+  Number of records to skip in the search.
 
 ## Value
 
@@ -62,7 +84,7 @@ tibble of search results
     nrcadams::search_docket()
 #> Searching with the following URL:
 #>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_any:!(!(DocketNumber,eq,'99902088',''),!(DocketNumber,eq,'05000610',''))))&qn=New&tab=advanced-search-pars&z=0 
-#> : 1.493 sec elapsed
+#> : 1.137 sec elapsed
 #> 
 #>  This search returned: 228 files.
 #> # A tibble: 228 × 8
