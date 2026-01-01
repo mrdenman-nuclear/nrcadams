@@ -26,22 +26,18 @@ The last update was at `r Sys.time() |> lubridate::ymd_hms() |> lubridate::with_
 
 # Pulling Advanced Reactor Docket Files
 
-Because the entire docket is being pulled for each project, the 1,000 document
-per search limit would be exceeded if all the dockets were pulled in one request. 
-To reduce the impact of this limit, the `nrcadams::search_long_docket` is used 
-to break the one long search into many smaller searches. 
 
 ```{r}
-combined_dockets = nrcadams::docket_codex |>
+combined_dockets <- nrcadams::docket_codex |>
   dplyr::pull(DocketNumber) |>
-  nrcadams::search_long_docket(number_of_intervals = 75) |>
+  nrcadams::search_docket(rest_api = TRUE) |>
   nrcadams::hyperlink_file_to_name() |>
   dplyr::left_join(nrcadams::docket_codex) |>
   dplyr::select(-c(Company, DocketNumber, `ML Number`)) |>
   dplyr::filter(!is.na(Project)) |>
   dplyr::mutate(Project = stringr::str_replace(Project, "Application", "App."))
 
-docket_count = combined_dockets |>
+docket_count <- combined_dockets |>
   dplyr::count(Project, sort = TRUE)
 
 docket_count |>

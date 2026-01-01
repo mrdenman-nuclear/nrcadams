@@ -18,13 +18,13 @@ This page is updated Monday through Friday, hourly between 9AM ET and 5 PM ET.
 The last update was at `r Sys.time() |> lubridate::ymd_hms() |> lubridate::with_tz("America/New_York")` ET.
 
 ```{r}
-last_week_in_dockets = nrcadams::docket_codex |>
+last_week_in_dockets <- nrcadams::docket_codex |>
   dplyr::pull(DocketNumber) |>
-  nrcadams::search_docket(days_back = 7) |>
+  nrcadams::search_docket(days_back = 7, rest_api = TRUE) |>
   dplyr::left_join(nrcadams::docket_codex) |>
   dplyr::filter(!is.na(Project))
 
-build_html_table = function(docket_tbl, LWR) {
+build_html_table <- function(docket_tbl, LWR) {
   if (LWR) {
     docket_tbl = docket_tbl |> 
       dplyr::filter(!NLWR)
@@ -35,14 +35,14 @@ build_html_table = function(docket_tbl, LWR) {
     title = "The Last 7 Days of Posted NLWR Licensing Documents."
   }
     
-  docket_tbl |> 
-    nrcadams::hyperlink_file_to_name() |>
-    dplyr::select(-c(Company, DocketNumber, NLWR)) |>
-    DT::datatable(
-      caption = title,
-      filter = list(position = 'top', clear = TRUE, plain = FALSE),
-      escape = FALSE
-      )
+docket_tbl |> 
+  nrcadams::hyperlink_file_to_name() |>
+  dplyr::select(-c(Company, DocketNumber, NLWR)) |>
+  DT::datatable(
+    caption = title,
+    filter = list(position = 'top', clear = TRUE, plain = FALSE),
+    escape = FALSE
+    )
 }
 
 docket_count = last_week_in_dockets |>
@@ -100,21 +100,4 @@ last_week_in_dockets |>
   build_html_table(LWR = TRUE)
 ```
 
-```{r, include = FALSE}
-here::here("docs", "RSS") |> dir.create(recursive = TRUE)
 
-nrcadams::docket_codex |>
-  dplyr::pull(Project) |>
-  purrr::walk(\(.x) {
-    file_name = .x |> stringr::str_replace_all(" ", "_")
-    
-    last_week_in_dockets |>
-      dplyr::filter(Project == .x) |>
-      nrcadams:::write_rss(
-        file = here::here("docs", "RSS", paste0(file_name, ".rss")),
-        title = .x
-        )
-  })
-  
-last_week_in_dockets |> nrcadams:::write_rss(file = here::here("docs", "dockets.rss"))
-```
