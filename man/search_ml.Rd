@@ -4,7 +4,7 @@
 \alias{search_ml}
 \title{Conduct ADAMS Search on ML numbers}
 \source{
-\url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
+\url{https://adams-search.nrc.gov/assets/APS-API-Guide.pdf}
 }
 \usage{
 search_ml(ML_number)
@@ -21,5 +21,5 @@ tibble of search results
 Conduct ADAMS Search on ML numbers
 }
 \examples{
-c("ML22179A346", "ML19211C119") |> nrcadams::search_ml()
+nrcadams::search_ml(ML_number = c("ML19211C119", "ML20014E642", "ML22179A346"))
 }

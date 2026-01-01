@@ -1,11 +1,23 @@
 #' Conduct ADAMS Search on Docket Numbers
 #'
-#' @param DocketNumber dbl/vector: Docket number (or numbers) to be searched on ADAMS
-#' @param search_term chr: Any search term desired. Default is nothing (i.e., NA)
-#' @param days_back dbl: Length of time the search extends in days since the document was published on ADAMS? Default is all time (i.e, NA). Cannot be used with start_date or end_date.
-#' @param start_date chr: The earliest date (ymd) search results should be returned. Cannot be used with days_back.
-#' @param end_date chr: The latest date (ymd) search results should be returned. Cannot be used with days_back.
+#' @param DocketNumber dbl/vector: Docket number (or numbers)
+#' to be searched on ADAMS
+#' @param search_term chr: Any search term desired. Default is nothing
+#' (i.e., NA)
+#' @param days_back dbl: Length of time the search extends in days since
+#' the document was published on ADAMS? Default is all time (i.e, NA).
+#' Cannot be used with start_date or end_date.
+#' @param start_date chr: The earliest date (ymd) search results should
+#' be returned. Cannot be used with days_back.
+#' @param end_date chr: The latest date (ymd) search results should be
+#' returned. Cannot be used with days_back.
 #' @param document_type chr: Type of ADAMS document, currently unsupported
+#' @param rest_api logical: If TRUE, use the REST API to conduct the search.
+#' @param skip_int: Number of records to skip in the search.
+#' @param max_returns dbl: Maximum number of returns to pull when using REST
+#' API.
+#' @param verbosity dbl: Level of verbosity for REST API requests. Integer 0-3, 
+#' with 0 being silent and 3 being most verbose.
 #'
 #' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
 #' @source \url{https://adams-search.nrc.gov/assets/APS-API-Guide.pdf}
@@ -25,8 +37,9 @@ search_docket <- function(
   end_date = NA,
   document_type = NA,
   rest_api = FALSE,
-  skip = 0,
-  max_returns = 1E6
+  skip_int = 0,
+  max_returns = 1E6,
+  verbosity = 0
 ) {
   # Error checking days_back input and adjustment of start_date and end_date
   if(!is.na(days_back)) {
@@ -45,23 +58,19 @@ search_docket <- function(
     )
   }
 
-  #  DocketNumber <- nrcadams::docket_codex |>
-  #    dplyr::filter(stringr::str_detect(Project, "Hermes")) |>
-  #    dplyr::pull(DocketNumber) 
-
   if (rest_api) {
     results <- tibble::tibble()
     more_searches <- TRUE
     count <- 0
 
     while (more_searches) {
-      current_tbl <- search_public_ADAMS(
+      current_tbl <- nrcadams::search_public_ADAMS(
         DocketNumber = DocketNumber,
         search_term = search_term,
-        days_back = days_back,
         start_date = start_date,
         end_date = end_date,
-        skip = skip
+        skip_int = skip_int,
+        verbosity = verbosity
       )
       records = list(
         max = current_tbl$count |> max(),
@@ -69,6 +78,7 @@ search_docket <- function(
       )
       count = count + 1
       if (records$max <= records$current) {
+        results <- dplyr::bind_rows(results, current_tbl)
         more_searches <- FALSE
       } else if (count == max_returns / 100) {
         results <- dplyr::bind_rows(results, current_tbl)
@@ -81,7 +91,7 @@ search_docket <- function(
           )
         )
       } else {
-        skip <- skip + 100
+        skip_int <- skip_int + 100
         results <- dplyr::bind_rows(results, current_tbl)
       }
     }
@@ -99,6 +109,12 @@ search_docket <- function(
       tictoc::tic()
     results <- nrcadams:::make_results_tibble(url)
     tictoc::toc()
+
+    if(results |> nrow() >= 1000) {
+      warning(
+        "\nThis search returned more than 1000 results and thus may be incomplete. As a result, the search should be refined.\n"
+      )
+    }
   }
 
   message(
@@ -112,9 +128,7 @@ search_docket <- function(
   if(results |> nrow() == 0) {
     warning("\nThe search return no results.\n")
   }
-  if(results |> nrow() >= 1000) {
-    warning("\nThis search returned more than 1000 results and thus may be incomplete. As a result, the search should be refined.\n")
-  }
+
   return(results)
 }
 
@@ -334,13 +348,35 @@ search_long_docket = function(
     dplyr::distinct()
 }
 
+
+
+#' Conducts a single ADAMS Search on Docket Numbers
+#' 
+#' Maximum of 100 results per search, so multiple searches may be needed.
+#' Please use search_docket() for most use cases.
+#'
+#' @param DocketNumber dbl/vector: Docket number (or numbers)
+#' to be searched on ADAMS
+#' @param search_term chr: Any search term desired. Default is nothing
+#' (i.e., NA)
+#' @param start_date chr: The earliest date (ymd) search results should
+#' be returned. Cannot be used with days_back.
+#' @param end_date chr: The latest date (ymd) search results should be
+#' returned. Cannot be used with days_back.
+#' @param rest_api logical: If TRUE, use the REST API to conduct the search.
+#' @param skip_int: Number of records to skip in the search.
+#' @param verbosity dbl: Level of verbosity for REST API requests.
+#'
+#' @source \url{https://adams-search.nrc.gov/assets/APS-API-Guide.pdf}
+#' @return tibble of search results
+#' @export
 search_public_ADAMS <- function(
   DocketNumber,
   search_term,
-  days_back,
   start_date,
   end_date,
-  skip
+  skip_int,
+  verbosity = 0
 ) {
   # Perp REST API request
   key <- Sys.getenv("ADAMS")
@@ -388,7 +424,7 @@ search_public_ADAMS <- function(
     mainLibFilter = TRUE,
     sort = "DateAddedTimestamp",
     sortDirection = 1,
-    skip = skip
+    skip = skip_int
   )
   if (!is.na(search_term)) {
     body$q <- search_term

@@ -5,6 +5,8 @@
 \title{Conduct ADAMS Search on Docket Numbers}
 \source{
 \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
+
+\url{https://adams-search.nrc.gov/assets/APS-API-Guide.pdf}
 }
 \usage{
 search_docket(
@@ -13,21 +15,40 @@ search_docket(
   days_back = NA,
   start_date = NA,
   end_date = NA,
-  document_type = NA
+  document_type = NA,
+  rest_api = FALSE,
+  skip_dbl = 0,
+  max_returns = 1e+06,
+  verbosity = 0
 )
 }
 \arguments{
-\item{DocketNumber}{dbl/vector: Docket number (or numbers) to be searched on ADAMS}
+\item{DocketNumber}{dbl/vector: Docket number (or numbers)
+to be searched on ADAMS}
 
-\item{search_term}{chr: Any search term desired. Default is nothing (i.e., NA)}
+\item{search_term}{chr: Any search term desired. Default is nothing
+(i.e., NA)}
 
-\item{days_back}{dbl: Length of time the search extends in days since the document was published on ADAMS? Default is all time (i.e, NA). Cannot be used with start_date or end_date.}
+\item{days_back}{dbl: Length of time the search extends in days since
+the document was published on ADAMS? Default is all time (i.e, NA).
+Cannot be used with start_date or end_date.}
 
-\item{start_date}{chr: The earliest date (ymd) search results should be returned. Cannot be used with days_back.}
+\item{start_date}{chr: The earliest date (ymd) search results should
+be returned. Cannot be used with days_back.}
 
-\item{end_date}{chr: The latest date (ymd) search results should be returned. Cannot be used with days_back.}
+\item{end_date}{chr: The latest date (ymd) search results should be
+returned. Cannot be used with days_back.}
 
-\item{document_type}{chr: Type of ADAMS document}
+\item{document_type}{chr: Type of ADAMS document, currently unsupported}
+
+\item{rest_api}{logical: If TRUE, use the REST API to conduct the search.}
+
+\item{max_returns}{dbl: Maximum number of returns to pull when using REST
+API.}
+
+\item{verbosity}{dbl: Level of verbosity for REST API requests.}
+
+\item{skip_dbl:}{Number of records to skip in the search.}
 }
 \value{
 tibble of search results
