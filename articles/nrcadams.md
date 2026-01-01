@@ -82,7 +82,7 @@ nrcadams::docket_codex |>
     )
 #> Searching with the following URL:
 #>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_any:!(!(DocketNumber,eq,'99902071',''),!(DocketNumber,eq,'07007027',''),!(DocketNumber,eq,'99902117',''))))&qn=New&tab=advanced-search-pars&z=0 
-#> : 2.654 sec elapsed
+#> : 2.657 sec elapsed
 #> 
 #>  This search returned: 1000 files.
 #> Warning in nrcadams::search_docket(dplyr::pull(dplyr::filter(nrcadams::docket_codex, : 
