@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 02 Jan 2026 18:26:36 GMT</pubDate>
-		<lastBuildDate>Fri, 02 Jan 2026 18:26:36 GMT</lastBuildDate>
+		<pubDate>Fri, 02 Jan 2026 19:13:59 GMT</pubDate>
+		<lastBuildDate>Fri, 02 Jan 2026 19:13:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>01/12/2026 Follow-up Meeting with SMR (Holtec) to Discuss two Licensing Topical Reports, "SMR-300 Concrete Strengthened Steel Structures Design and Analysis Methodology" and "SMR-300 Time-Domain LS-DYNA Soil Structure Interaction Analysis Methodology"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26002A015</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author></author>
+			<pubDate>2026-01-02 17:31:00</pubDate>
+		</item>
 		<item>
 			<title>2025/12/19 NuScale NPM-20 - NuScale - Request for Withholding Information from Public Disclosure</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25353A605</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25351A016</link>
 			<description>General FR Notice Comment Letter</description>
 			<author>NRC/ADM</author>
-			<pubDate>2025-12-29 12:23:00</pubDate>
-		</item>
-		<item>
-			<title>2025/12/12 Clinch River CP Saf Docs - Docket Request for A-11.3-1 and A-12.2-3 - TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25346A051</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DNRL</author>
 			<pubDate>2025-12-29 12:23:00</pubDate>
 		</item>
 	</channel>
