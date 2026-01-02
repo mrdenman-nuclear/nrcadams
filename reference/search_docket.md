@@ -84,7 +84,7 @@ tibble of search results
     nrcadams::search_docket()
 #> Searching with the following URL:
 #>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_any:!(!(DocketNumber,eq,'99902088',''),!(DocketNumber,eq,'05000610',''))))&qn=New&tab=advanced-search-pars&z=0 
-#> : 1.137 sec elapsed
+#> : 8.146 sec elapsed
 #> 
 #>  This search returned: 228 files.
 #> # A tibble: 228 × 8

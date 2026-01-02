@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 01 Jan 2026 23:32:08 GMT</pubDate>
-		<lastBuildDate>Thu, 01 Jan 2026 23:32:08 GMT</lastBuildDate>
+		<pubDate>Fri, 02 Jan 2026 14:20:34 GMT</pubDate>
+		<lastBuildDate>Fri, 02 Jan 2026 14:20:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -87,27 +87,6 @@
 			<description>Updated Final Safety Analysis Report (UFSAR)</description>
 			<author>Northern States Power Company, Minnesota, Xcel Energy</author>
 			<pubDate>2025-12-22 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>SECY-25-0102: Staff's Statement in Support of the Uncontested Hearing for the Issuance of a Construction Permit for the USO Kemmerer Power Station, Unit 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25324A372</link>
-			<description>Commission SECY Paper</description>
-			<author>NRC/EDO</author>
-			<pubDate>2025-12-19 16:22:00</pubDate>
-		</item>
-		<item>
-			<title>2025 Annual Site Inspection and Monitoring Report for Uranium Mill Tailings Radiation Control Act II Disposal Sites</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25349A181</link>
-			<description>Report, Technical</description>
-			<author>US Dept of Energy, Office of Legacy Management</author>
-			<pubDate>2025-12-19 13:56:00</pubDate>
-		</item>
-		<item>
-			<title>EIS for License Renewal of Nuclear Plants, Supplement 11, 2nd Renewal Re Subsequent License Renewal St. Lucie Plant, Units 1, 2, Draft Report for Comment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25349A162</link>
-			<description>Environmental Impact Statement</description>
-			<author>NRC/NMSS/DREFS/EPMB1</author>
-			<pubDate>2025-12-19 10:45:00</pubDate>
 		</item>
 	</channel>
 </rss>
