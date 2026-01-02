@@ -27,7 +27,6 @@ reference:
   - hyperlink_file_to_name
   - format_ML_link
   - write_rss
-  - collapse_list
 - title: "Internal"
   desc: "Internal functions and objects (use ::: to find) for developer use."
   contents:

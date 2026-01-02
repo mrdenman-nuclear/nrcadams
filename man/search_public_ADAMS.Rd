@@ -12,8 +12,9 @@ search_public_ADAMS(
   search_term,
   start_date,
   end_date,
-  skip_dbl,
-  verbosity = 0
+  skip_int,
+  verbosity = 0,
+  adams_key = Sys.getenv("ADAMS")
 )
 }
 \arguments{
@@ -33,7 +34,7 @@ returned. Cannot be used with days_back.}
 
 \item{rest_api}{logical: If TRUE, use the REST API to conduct the search.}
 
-\item{skip_dbl:}{Number of records to skip in the search.}
+\item{skip_int:}{Number of records to skip in the search.}
 }
 \value{
 tibble of search results

@@ -39,7 +39,8 @@ search_docket <- function(
   rest_api = FALSE,
   skip_int = 0,
   max_returns = 1E6,
-  verbosity = 0
+  verbosity = 0,
+  adams_key = Sys.getenv("ADAMS")
 ) {
   # Error checking days_back input and adjustment of start_date and end_date
   if(!is.na(days_back)) {
@@ -70,7 +71,8 @@ search_docket <- function(
         start_date = start_date,
         end_date = end_date,
         skip_int = skip_int,
-        verbosity = verbosity
+        verbosity = verbosity,
+        adams_key = adams_key
       )
       records = list(
         max = current_tbl$count |> max(),
@@ -144,50 +146,25 @@ search_docket <- function(
 #'
 #' @examples
 #' nrcadams::search_ml(ML_number = c("ML19211C119", "ML20014E642", "ML22179A346"))
-search_ml <- function(ML_number) {
-  rm(results) |> suppressWarnings()
+search_ml <- function(ML_number, adams_key = Sys.getenv("ADAMS")) {
   if (all(ML_number |> stringr::str_starts("ML"))) {
+    results <- tibble::tibble()
     for (ml in ML_number) {
-      print(ml)
-      key <- Sys.getenv("ADAMS")
       get <- paste0("https://adams-api.nrc.gov/aps/api/search/", ml)
       accept <- "application/json"
 
       req <- httr2::request(get) |>
         httr2::req_headers(
           "Accept" = accept,
-          "Ocp-Apim-Subscription-Key" = key
+          "Ocp-Apim-Subscription-Key" = adams_key
         )
 
       resp <- req |> httr2::req_perform() |> httr2::resp_body_json()
 
-      file <- resp$document
-
-      adams_tbl <- tibble::tibble(
-        Title = file$DocumentTitle,
-        `Document Date` = file$DocumentDate |>
-          lubridate::ymd(),
-        `Publish Date` = file$DateAddedTimestamp |>
-          lubridate::ymd_hm(tz = "EDT"),
-        Type = nrcadams:::collapse_list(file$DocumentType),
-        Affiliation = nrcadams:::collapse_list(file$AddresseeAffiliation),
-        URL = file$Url,
-        DocketNumber = nrcadams:::collapse_list(file$DocketNumber),
-        `ML Number` = file$AccessionNumber
-      ) |>
-        dplyr::mutate(DocketNumber = DocketNumber |> as.double()) |>
-        suppressWarnings()
-
-      if (!exists("results")) {
-        results <- adams_tbl
-      } else {
-        results <- results |>
-          dplyr::full_join(adams_tbl)
-      }
+      current_tbl <- nrcadams::decode_resp(resp)
+      results <- dplyr::bind_rows(results, current_tbl)
     }
-    results <- results |>
-      dplyr::arrange(dplyr::desc(`Publish Date`))
-
+    return(results)
   } else {
     stop("No ML number was entered.")
   }
@@ -207,20 +184,6 @@ extract_from_xml = function(xml_results, search_term) {
     unlist()
 }
 
-#' Collapse List
-#'
-#' @param list_to_collapse list to be compressed
-#'
-#' @return vector of listed object
-#' @keywords Internal
-collapse_list = function(list_to_collapse) {
-  if (length(list_to_collapse) == 0) {
-    result = "NA"
-  } else {
-    result = paste0(list_to_collapse, collapse = "; ")
-  }
-  return(result)
-}
 
 
 #' Makes a Formatted Tibble from ADAMS URL Search Results
@@ -287,69 +250,6 @@ make_results_tibble = function(adams_url, download = FALSE) {
 }
 
 
-
-
-
-
-#' Conduct a lengthy search on Docket Numbers
-#'
-#' Individual ADAMS searches are limited to 1000 results, which can make
-#' searches that are lengthy difficult. Additionally, long ADAMS searches can
-#' take over 10 seconds to complete which may trigger a connection timeout
-#' on some systems.
-#'
-#' To avoid these problems, this wrapper script conducts multiple searches from
-#' today back to a starting point in time. The number of searches is set by the
-#' num_interval. For example, if today is 2020/1/1 and the starting date is
-#' 2010/1/1 and number_of_intervals is set to 2, this script will conduct two
-#' searches, one from 2010 to 2015 and the other from 2015 to 2020. These
-#' search results are then combined and output to the user.
-#'
-#' @param DocketNumber dbl/vector: Docket number (or numbers) to be searched on ADAMS
-#' @param search_term chr: Any search term desired. Default is nothing (i.e., NA)
-#' @param number_of_intervals dbl: The maximum number of searches to be conducted
-#' @param start_date chr: The earliest date (ymd) search results should be returned.
-#' @param document_type chr: Type of ADAMS document
-#'
-#' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
-#' @return tibble of search results
-#' @export
-#'
-search_long_docket = function(
-  DocketNumber,
-  search_term = NA,
-  number_of_intervals = 5,
-  start_date = "2017-1-1",
-  document_type = NA
-  ) {
-
-  search_duration = lubridate::interval(start_date |> lubridate::ymd(), Sys.Date() |> lubridate::ymd()) |>
-    lubridate::as.duration() / number_of_intervals
-  message(
-    paste(
-      "With", number_of_intervals,
-      "starting on", start_date,
-      "the duration of each search will be", search_duration
-      )
-    )
-  start_date = start_date |> lubridate::ymd() + rep(0:(number_of_intervals-1)) * search_duration
-  end_date = dplyr::lead(start_date)
-
-  purrr::map2(start_date, end_date, ~nrcadams::search_docket(
-      DocketNumber = DocketNumber,
-      search_term = NA,
-      start_date = .x,
-      end_date = .y,
-      document_type = document_type
-    )) |>
-    # Need to remove empty search results
-    purrr::discard(\(z) nrow(z) == 0) |>
-    purrr::reduce(dplyr::full_join) |>
-    dplyr::distinct()
-}
-
-
-
 #' Conducts a single ADAMS Search on Docket Numbers
 #' 
 #' Maximum of 100 results per search, so multiple searches may be needed.
@@ -376,10 +276,10 @@ search_public_ADAMS <- function(
   start_date,
   end_date,
   skip_int,
-  verbosity = 0
+  verbosity = 0,
+  adams_key = Sys.getenv("ADAMS")
 ) {
   # Perp REST API request
-  key <- Sys.getenv("ADAMS")
   get <- "https://adams-api.nrc.gov/aps/api/search"
   accept <- "application/json"
 
@@ -433,7 +333,7 @@ search_public_ADAMS <- function(
   req <- httr2::request(get) |>
     httr2::req_headers(
       "Accept" = accept,
-      "Ocp-Apim-Subscription-Key" = key
+      "Ocp-Apim-Subscription-Key" = adams_key
     )  |>
     httr2::req_method("POST") |>
     httr2::req_body_json(body)
@@ -442,8 +342,24 @@ search_public_ADAMS <- function(
   resp <- req |>
     httr2::req_perform(verbosity = 0) |>
     httr2::resp_body_json()
+  
+  results <- nrcadams::decode_resp(resp)
+  # print(results)
+  # return(results)
+}
 
-  records <- if ("results" %in% names(resp)) resp$results else resp
+
+
+#' Decodes the REST API response from ADAMS
+#' 
+#' Takes the response from the REST API and converts it into a tidy tibble.
+#'
+#' @param resp response from REST API
+#'
+#' @source \url{https://adams-search.nrc.gov/assets/APS-API-Guide.pdf}
+#' @return tibble of search results
+#' @export
+decode_resp <- function(resp) {
 
   clean_record <- function(x) {
     lapply(x, function(v) {
@@ -455,16 +371,23 @@ search_public_ADAMS <- function(
     })
   }
 
-  if (length(records) == 0) {
-    tbl <- tibble::tibble()
-  } else {
-    tbl <- records |>
-      purrr::map_dfr(function(x) {
-        tibble::as_tibble(clean_record(x))
-      }) |>
-      dplyr::select(document) |>
-      tidyr::unnest_wider(document)
+  tbl <- if ("results" %in% names(resp)) {
+    records <- resp$results
+
+    if (length(records) == 0) {
+      tibble::tibble()
+    } else {
+      records |>
+        purrr::map_dfr(\(x) {
+          tibble::as_tibble(clean_record(x))
+        }) |>
+        dplyr::select(document) |>
+        tidyr::unnest_wider(document)
+    }
+  } else if ("document" %in% names(resp)) {
+    tibble::as_tibble(clean_record(resp$document))
   }
+
 
   results <- tbl |>
     dplyr::mutate(
@@ -477,7 +400,10 @@ search_public_ADAMS <- function(
       URL = Url,
       DocketNumber = DocketNumber,
       `ML Number` = AccessionNumber,
-      count = resp$count
+      count = dplyr::case_when(
+        is.null(resp$count) ~ 1,
+        .default = resp$count
+      )
     ) |>
     tidyr::separate_rows(DocketNumber) |>
     dplyr::select(
@@ -485,6 +411,4 @@ search_public_ADAMS <- function(
       Type, Affiliation, URL, count
     ) |>
     dplyr::mutate(DocketNumber = DocketNumber |> as.double())
-  # print(results)
-  # return(results)
 }
