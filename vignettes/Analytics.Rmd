@@ -30,7 +30,7 @@ The last update was at `r Sys.time() |> lubridate::ymd_hms() |> lubridate::with_
 ```{r}
 combined_dockets <- nrcadams::docket_codex |>
   dplyr::pull(DocketNumber) |>
-  nrcadams::search_docket(rest_api = TRUE) |>
+  nrcadams::search_docket() |>
   nrcadams::hyperlink_file_to_name() |>
   dplyr::left_join(nrcadams::docket_codex) |>
   dplyr::select(-c(Company, DocketNumber, `ML Number`)) |>

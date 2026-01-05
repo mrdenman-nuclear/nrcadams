@@ -18,3 +18,4 @@ tibble of search results
 \description{
 Takes the response from the REST API and converts it into a tidy tibble.
 }
+\keyword{Internal}

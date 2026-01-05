@@ -20,17 +20,17 @@ The last update was at `r Sys.time() |> lubridate::ymd_hms() |> lubridate::with_
 ```{r}
 last_week_in_dockets <- nrcadams::docket_codex |>
   dplyr::pull(DocketNumber) |>
-  nrcadams::search_docket(days_back = 7, rest_api = TRUE) |>
+  nrcadams::search_docket(days_back = 7) |>
   dplyr::left_join(nrcadams::docket_codex) |>
   dplyr::filter(!is.na(Project))
 
 build_html_table <- function(docket_tbl, LWR) {
   if (LWR) {
-    docket_tbl = docket_tbl |> 
+    docket_tbl = docket_tbl |>
       dplyr::filter(!NLWR)
     title = "The Last 7 Days of Posted LWR Licensing Documents."
   } else {
-    docket_tbl = docket_tbl |> 
+    docket_tbl = docket_tbl |>
       dplyr::filter(NLWR)
     title = "The Last 7 Days of Posted NLWR Licensing Documents."
   }

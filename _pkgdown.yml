@@ -30,7 +30,5 @@ reference:
 - title: "Internal"
   desc: "Internal functions and objects (use ::: to find) for developer use."
   contents:
-  - extract_from_xml
-  - starts_with("make_results_tibble")
-  - starts_with("adams_")
-  - lubridate_date
+  - decode_resp
+  - process_dates

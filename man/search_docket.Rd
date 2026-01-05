@@ -16,7 +16,6 @@ search_docket(
   start_date = NA,
   end_date = NA,
   document_type = NA,
-  rest_api = FALSE,
   skip_int = 0,
   max_returns = 1e+06,
   verbosity = 0,
@@ -41,8 +40,6 @@ be returned. Cannot be used with days_back.}
 returned. Cannot be used with days_back.}
 
 \item{document_type}{chr: Type of ADAMS document, currently unsupported}
-
-\item{rest_api}{logical: If TRUE, use the REST API to conduct the search.}
 
 \item{max_returns}{dbl: Maximum number of returns to pull when using REST
 API.}

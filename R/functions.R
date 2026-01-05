@@ -12,7 +12,6 @@
 #' @param end_date chr: The latest date (ymd) search results should be
 #' returned. Cannot be used with days_back.
 #' @param document_type chr: Type of ADAMS document, currently unsupported
-#' @param rest_api logical: If TRUE, use the REST API to conduct the search.
 #' @param skip_int: Number of records to skip in the search.
 #' @param max_returns dbl: Maximum number of returns to pull when using REST
 #' API.
@@ -36,19 +35,17 @@ search_docket <- function(
   start_date = NA,
   end_date = NA,
   document_type = NA,
-  rest_api = FALSE,
   skip_int = 0,
   max_returns = 1E6,
   verbosity = 0,
   adams_key = Sys.getenv("ADAMS")
 ) {
   # Error checking days_back input and adjustment of start_date and end_date
-  if(!is.na(days_back)) {
-    if(!is.na(start_date)) warning("days_back and start_date are both defined. days_back is used.")
-    if(!is.na(end_date)) warning("days_back and end_date are both defined. days_back is used.")
-    start_date = Sys.Date() |> lubridate::ymd() - days_back
-    end_date = Sys.Date() |> lubridate::ymd() + 1
-  }
+  date <- nrcadams:::process_dates(
+    start_date = start_date,
+    end_date = end_date,
+    days_back = days_back
+  )
   # Error Checking on docket number input
   if (!all(DocketNumber |> is.double() ||  DocketNumber |> is.character())) {
     stop(
@@ -59,63 +56,41 @@ search_docket <- function(
     )
   }
 
-  if (rest_api) {
-    results <- tibble::tibble()
-    more_searches <- TRUE
-    count <- 0
+  results <- tibble::tibble()
+  more_searches <- TRUE
+  count <- 0
 
-    while (more_searches) {
-      current_tbl <- nrcadams::search_public_ADAMS(
-        DocketNumber = DocketNumber,
-        search_term = search_term,
-        start_date = start_date,
-        end_date = end_date,
-        skip_int = skip_int,
-        verbosity = verbosity,
-        adams_key = adams_key
-      )
-      records = list(
-        max = current_tbl$count |> max(),
-        current = count * 100 + length(unique(current_tbl$`ML Number`))
-      )
-      count = count + 1
-      if (records$max <= records$current) {
-        results <- dplyr::bind_rows(results, current_tbl)
-        more_searches <- FALSE
-      } else if (count == max_returns / 100) {
-        results <- dplyr::bind_rows(results, current_tbl)
-        more_searches <- FALSE
-        warning(
-          paste(
-            "Results exceed the maximum number of returns:", max_returns,
-            ". The search yeilded the following number of results:",
-            records$max, ". Consider refining the search criteria."
-          )
-        )
-      } else {
-        skip_int <- skip_int + 100
-        results <- dplyr::bind_rows(results, current_tbl)
-      }
-    }
-  } else {
-
-    url = paste0(
-      nrcadams:::adams_search_head,
-      nrcadams:::adams_docket_numbers(DocketNumber),
-      nrcadams:::adams_all(document_type, start_date, end_date),
-      nrcadams:::adams_search_term(search_term),
-      nrcadams:::adams_search_tail(!is.na(search_term))
+  while (more_searches) {
+    current_tbl <- nrcadams::search_public_ADAMS(
+      DocketNumber = DocketNumber,
+      search_term = search_term,
+      start_date = date$start,
+      end_date = date$end,
+      skip_int = skip_int,
+      verbosity = verbosity,
+      adams_key = adams_key
     )
-
-    paste("Searching with the following URL:\n", url, "\n") |>
-      tictoc::tic()
-    results <- nrcadams:::make_results_tibble(url)
-    tictoc::toc()
-
-    if(results |> nrow() >= 1000) {
+    records = list(
+      max = current_tbl$count |> max(),
+      current = count * 100 + length(unique(current_tbl$`ML Number`))
+    )
+    count = count + 1
+    if (records$max <= records$current) {
+      results <- dplyr::bind_rows(results, current_tbl)
+      more_searches <- FALSE
+    } else if (count == max_returns / 100) {
+      results <- dplyr::bind_rows(results, current_tbl)
+      more_searches <- FALSE
       warning(
-        "\nThis search returned more than 1000 results and thus may be incomplete. As a result, the search should be refined.\n"
+        paste(
+          "Results exceed the maximum number of returns:", max_returns,
+          ". The search yeilded the following number of results:",
+          records$max, ". Consider refining the search criteria."
+        )
       )
+    } else {
+      skip_int <- skip_int + 100
+      results <- dplyr::bind_rows(results, current_tbl)
     }
   }
 
@@ -161,7 +136,7 @@ search_ml <- function(ML_number, adams_key = Sys.getenv("ADAMS")) {
 
       resp <- req |> httr2::req_perform() |> httr2::resp_body_json()
 
-      current_tbl <- nrcadams::decode_resp(resp)
+      current_tbl <- nrcadams:::decode_resp(resp)
       results <- dplyr::bind_rows(results, current_tbl)
     }
     return(results)
@@ -170,100 +145,47 @@ search_ml <- function(ML_number, adams_key = Sys.getenv("ADAMS")) {
   }
 }
 
-#' Extract search term from XML results
+#' Process first and last dates.
 #'
-#' @param xml_results XML query results from ADAMS
-#' @param search_term Search term
-#'
-#' @return vector of search term results
-#' @keywords Internal
-extract_from_xml = function(xml_results, search_term) {
-  xml_results |>
-    xml2::xml_find_all(paste0("//", search_term)) |>
-    xml2::as_list() |>
-    unlist()
-}
-
-
-
-#' Makes a Formatted Tibble from ADAMS URL Search Results
-#'
-#' @param adams_url ADAMS search URL
-#' @param download Logical, if set to true, the file is downloaded before it is processed
-#'
-#' @source \url{https://www.nrc.gov/site-help/developers/wba-api-developer-guide.pdf}
-#' @return vector of search term results
-#' @keywords Internal
-#' @examples
-#' "https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_any:!(!(DocketNumber,eq,'99902088','')),properties_search_all:!(!(PublishDatePARS,gt,'01/05/2023',''))))&qn=New&tab=advanced-search-pars&z=0" |>
-#' nrcadams:::make_results_tibble()
-make_results_tibble = function(adams_url, download = FALSE) {
-  if(download) {
-    temp = tempfile()
-    download.file(adams_url, temp, method = "curl")
-    results = xml2::read_xml(temp)
-  } else {
-    results = xml2::read_xml(adams_url)
-  }
-
-
-  if(results |> nrcadams:::extract_from_xml("count") |> as.integer() == 0) return(tibble::tibble())
- 
-  docket_number <- results |>
-      nrcadams:::extract_from_xml("DocketNumber")
-
-  if(is.null(docket_number)) docket_number <- 1
-
-  adams_tbl <- tibble::tibble(
-    Title = results |>
-      nrcadams:::extract_from_xml("DocumentTitle"),
-    `Document Date` = results |>
-      nrcadams:::extract_from_xml("DocumentDate") |>
-      lubridate::mdy(),
-    `Publish Date` = results |>
-      nrcadams:::extract_from_xml("PublishDatePARS") |>
-      lubridate::mdy_hm(tz = "EDT"),
-    Type = results|>
-      nrcadams:::extract_from_xml("DocumentType"),
-    Affiliation = results|>
-      nrcadams:::extract_from_xml("AuthorAffiliation"),
-    URL = results |>
-      nrcadams:::extract_from_xml("URI"),
-    DocketNumber = docket_number,
-    `ML Number` = results |>
-      nrcadams:::extract_from_xml("AccessionNumber")
-  ) |>
-    tidyr::separate_rows(DocketNumber) |>
-    dplyr::mutate(
-      `Publish Date` = `Publish Date` - 4 * 3600,
-      DocketNumber = DocketNumber |> as.double()
-    ) |>
-    dplyr::arrange(dplyr::desc(`Publish Date`)) |>
-    suppressWarnings()
-
-  if(adams_tbl |> dplyr::filter(is.na(DocketNumber)) |> nrow() == 0) {
-    return(adams_tbl)
-  } else {
-    message("Some docket numbers were returned as hybrid character and numeric strings (e.g., PROJ0792). These docket numbers were filtered out.")
-    return(adams_tbl |> dplyr::filter(!is.na(DocketNumber)))
-  }
-}
-
-
-#' Conducts a single ADAMS Search on Docket Numbers
-#' 
-#' Maximum of 100 results per search, so multiple searches may be needed.
-#' Please use search_docket() for most use cases.
-#'
-#' @param DocketNumber dbl/vector: Docket number (or numbers)
-#' to be searched on ADAMS
-#' @param search_term chr: Any search term desired. Default is nothing
-#' (i.e., NA)
+#' @param days_back dbl: Length of time the search extends in days since
+#' the document was published on ADAMS? Default is all time (i.e, NA).
+#' Cannot be used with start_date or end_date.
 #' @param start_date chr: The earliest date (ymd) search results should
 #' be returned. Cannot be used with days_back.
 #' @param end_date chr: The latest date (ymd) search results should be
 #' returned. Cannot be used with days_back.
-#' @param rest_api logical: If TRUE, use the REST API to conduct the search.
+#'
+#' @return list of start and end dates
+#' @keywords Internal
+process_dates = function(start_date = NA, end_date = NA, days_back = NA) {
+  if(!is.na(days_back)) {
+    if(!is.na(start_date)) warning("days_back and start_date are both defined. days_back is used.")
+    if(!is.na(end_date)) warning("days_back and end_date are both defined. days_back is used.")
+    date = list(
+      start = Sys.Date() |> lubridate::ymd() - days_back,
+      end = NA
+    )
+  } else {
+    date = list(
+      start = start_date,
+      end = end_date
+    )
+  }
+}
+
+#' Conducts a single ADAMS Search on Docket Numbers
+#'
+#' Maximum of 100 results per search, so multiple searches may be needed.
+#' Please use search_docket() for most use cases.
+#'
+#' @param search_term chr: Any search term desired. Default is nothing
+#' (i.e., NA)
+#' @param DocketNumber dbl/vector: Docket number (or numbers)
+#' to be searched on ADAMS
+#' @param start_date chr: The earliest date (ymd) search results should
+#' be returned. Cannot be used with days_back.
+#' @param end_date chr: The latest date (ymd) search results should be
+#' returned. Cannot be used with days_back.
 #' @param skip_int: Number of records to skip in the search.
 #' @param verbosity dbl: Level of verbosity for REST API requests.
 #'
@@ -271,11 +193,14 @@ make_results_tibble = function(adams_url, download = FALSE) {
 #' @return tibble of search results
 #' @export
 search_public_ADAMS <- function(
-  DocketNumber,
-  search_term,
-  start_date,
-  end_date,
-  skip_int,
+  search_term = NA,
+  DocketNumber = NA,
+  start_date = NA,
+  author_affiliation = NA,
+  document_type = NA,
+  results_tag = NA,
+  end_date = NA,
+  skip_int = 0,
   verbosity = 0,
   adams_key = Sys.getenv("ADAMS")
 ) {
@@ -285,14 +210,28 @@ search_public_ADAMS <- function(
 
   # Create docket requests
   dockets <- list()
-  i <- 1
-  for (number in DocketNumber) {
-    dockets[[i]] <- list(
-      field = "DocketNumber",
-      value = number |> as.character(),
-      operator = "contains"
-    )
-    i <- i + 1
+  antidockets <- list()
+  DocketNumber <- if (length(DocketNumber) == 0) NA
+  if (any(!is.na(DocketNumber))) {
+    i <- 1
+    j <- 1
+    for (number in DocketNumber) {
+      if (number >= 0) {
+        dockets[[i]] <- list(
+          field = "DocketNumber",
+          value = number |> as.character(),
+          operator = "contains"
+        )
+        i <- i + 1
+      } else {
+        antidockets[[j]] <- list(
+          field = "DocketNumber",
+          value = number |> as.character(),
+          operator = "notcontains"
+        )
+        j <- j + 1
+      }
+    }
   }
 
   # Create date requests
@@ -309,16 +248,29 @@ search_public_ADAMS <- function(
     )
   }
   if (is.na(start_date) && is.na(end_date)) {
-    dates <- list()
+    and_filters <- list()
   } else if (is.na(start_date)) {
-    dates <- list(end)
+    and_filters <- list(end)
+  } else if (is.na(end_date)) {
+    and_filters <- list(start)
   } else {
-    dates <- list(start)
+    and_filters <- list(start, end)
   }
-
+  if (!is.na(author_affiliation)) {
+    and_filters <- and_filters |> append(
+      list(list(
+        field = "AuthorAffiliation",
+        value = author_affiliation,
+        operator = "contains"
+      ))
+    )
+  }
+  if (length(antidockets) > 0) {
+    and_filters <- append(and_filters, antidockets)
+  }
   # Pull together all requests
   body <- list(
-    filters = dates, # AND gate
+    filters = and_filters, # AND gate
     anyFilters = dockets, # OR gate
     legacyLibFilter = TRUE,
     mainLibFilter = TRUE,
@@ -340,12 +292,12 @@ search_public_ADAMS <- function(
 
   # Submit request and parse response
   resp <- req |>
-    httr2::req_perform(verbosity = 0) |>
+    # httr2::req_perform(verbosity = 2) |>
+    httr2::req_perform(verbosity = verbosity) |>
     httr2::resp_body_json()
-  
-  results <- nrcadams::decode_resp(resp)
-  # print(results)
-  # return(results)
+
+  results <- nrcadams:::decode_resp(resp) |>
+    dplyr::mutate(tag = results_tag)
 }
 
 
@@ -358,7 +310,7 @@ search_public_ADAMS <- function(
 #'
 #' @source \url{https://adams-search.nrc.gov/assets/APS-API-Guide.pdf}
 #' @return tibble of search results
-#' @export
+#' @keywords Internal
 decode_resp <- function(resp) {
 
   clean_record <- function(x) {
@@ -388,27 +340,107 @@ decode_resp <- function(resp) {
     tibble::as_tibble(clean_record(resp$document))
   }
 
+  if(resp$count != 0) {
+    results <- tbl |>
+      dplyr::mutate(
+        dplyr::across(dplyr::where(is.list), ~ sapply(., toString)),
+        Title = DocumentTitle,
+        `Document Date` = lubridate::ymd(DocumentDate),
+        `Publish Date` = lubridate::ymd_hm(DateAddedTimestamp, tz = "EDT"),
+        Type = DocumentType,
+        Affiliation = AuthorAffiliation,
+        URL = Url,
+        DocketNumber = DocketNumber,
+        `ML Number` = AccessionNumber,
+        count = dplyr::case_when(
+          is.null(resp$count) ~ 1,
+          .default = resp$count
+        )
+      ) |>
+      tidyr::separate_rows(DocketNumber) |>
+      dplyr::select(
+        DocketNumber, `ML Number`, Title, `Document Date`, `Publish Date`,
+        Type, Affiliation, URL, count
+      ) |>
+      dplyr::mutate(DocketNumber = DocketNumber |> as.double())
+  } else {
+    warning("\nThe search return no results.\n")
+    results <- tibble::tibble(
+      DocketNumber = c(), `ML Number` = c(), Title = c(), `Document Date` = c(),
+      `Publish Date` = c(), Type = c(), Affiliation = c(), URL = c(), count = c()
+    )
+  }
+}
 
-  results <- tbl |>
-    dplyr::mutate(
-      dplyr::across(dplyr::where(is.list), ~ sapply(., toString)),
-      Title = DocumentTitle,
-      `Document Date` = lubridate::ymd(DocumentDate),
-      `Publish Date` = lubridate::ymd_hm(DateAddedTimestamp, tz = "EDT"),
-      Type = DocumentType,
-      Affiliation = AddresseeAffiliation,
-      URL = Url,
+
+
+#' Conduct ADAMS Search on Author Affliation and Search Terms
+#'
+#' @param search_term chr: string with the search query
+#' @param author_affiliation chr: string with the author affiliation
+#' @param DocketNumber chr: string with the docket number
+#' @param results_tag chr: string with the results tag
+#' @param days_back dbl: Length of time the search extends in days since
+#' the document was published on ADAMS? Default is 7 days.
+#' @param skip_int dbl: Number of results to skip
+#' @param max_returns dbl: Maximum number of results to return
+#' @param verbosity dbl: Level of verbosity for the httr2 request
+#' @param adams_key chr: ADAMS API key
+#'
+#' @source \url{https://adams-search.nrc.gov/assets/APS-API-Guide.pdf}
+#' @return tibble of search results
+#' @export
+#'
+search_values <- function(
+  search_term = NA,
+  author_affiliation = NA,
+  DocketNumber = NA,
+  results_tag = NA,
+  days_back = 7,
+  skip_int = 0,
+  max_returns = 1E6,
+  verbosity = 0,
+  adams_key = Sys.getenv("ADAMS")
+) {
+  date <- nrcadams:::process_dates(days_back = days_back)
+  results <- tibble::tibble()
+  more_searches <- TRUE
+  count <- 0
+
+  while (more_searches) {
+    current_tbl <- nrcadams::search_public_ADAMS(
+      search_term = search_term,
+      author_affiliation = author_affiliation,
       DocketNumber = DocketNumber,
-      `ML Number` = AccessionNumber,
-      count = dplyr::case_when(
-        is.null(resp$count) ~ 1,
-        .default = resp$count
+      results_tag = results_tag,
+      start_date = date$start,
+      end_date = date$end,
+      skip_int = skip_int,
+      verbosity = verbosity,
+      adams_key = adams_key
+    )
+    records = list(
+      max = current_tbl$count |> max(),
+      current = count * 100 + length(unique(current_tbl$`ML Number`))
+    )
+    count = count + 1
+    if (records$max <= records$current) {
+      results <- dplyr::bind_rows(results, current_tbl)
+      more_searches <- FALSE
+    } else if (count == max_returns / 100) {
+      results <- dplyr::bind_rows(results, current_tbl)
+      more_searches <- FALSE
+      warning(
+        paste(
+          "Results exceed the maximum number of returns:", max_returns,
+          ". The search yeilded the following number of results:",
+          records$max, ". Consider refining the search criteria."
+        )
       )
-    ) |>
-    tidyr::separate_rows(DocketNumber) |>
-    dplyr::select(
-      DocketNumber, `ML Number`, Title, `Document Date`, `Publish Date`,
-      Type, Affiliation, URL, count
-    ) |>
-    dplyr::mutate(DocketNumber = DocketNumber |> as.double())
+    } else {
+      skip_int <- skip_int + 100
+      results <- dplyr::bind_rows(results, current_tbl)
+    }
+  }
+  return(results)
 }

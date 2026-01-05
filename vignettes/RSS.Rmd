@@ -44,7 +44,7 @@ the URLs shown in the table below.
 ```{r adv-reactor-RSS}
 last_week_in_dockets = nrcadams::docket_codex |>
   dplyr::pull(DocketNumber) |>
-  nrcadams::search_docket(days_back = 14, rest_api = TRUE) |>
+  nrcadams::search_docket(days_back = 14) |>
   dplyr::left_join(nrcadams::docket_codex) |>
   dplyr::filter(!is.na(Project))
 
@@ -62,7 +62,8 @@ nrcadams::docket_codex |>
         )
   })
   
-last_week_in_dockets |> nrcadams::write_rss(file = here::here("docs", "RSS", "dockets.rss")) 
+last_week_in_dockets |> 
+  nrcadams::write_rss(file = here::here("docs", "RSS", "dockets.rss")) 
 
 
 nrcadams::docket_codex |>
@@ -89,13 +90,13 @@ And if you are more interested in tracking RTRs (no reason in particular), these
 ```{r}
 last_week_in_RTRs <- nrcadams::RTR_docket_codex |>
   dplyr::pull(DocketNumber) |>
-  nrcadams::search_docket(days_back = 14, rest_api = TRUE)
+  nrcadams::search_docket(days_back = 14)
 
 if (length(last_week_in_RTRs) != 0) {
   last_week_in_RTRs <- last_week_in_RTRs |>
     dplyr::left_join(nrcadams::RTR_docket_codex) |>
     dplyr::filter(!is.na(Project))
-    
+
   nrcadams::RTR_docket_codex |>
     dplyr::pull(Project) |>
     purrr::walk(\(.x) {
@@ -129,16 +130,20 @@ nrcadams::RTR_docket_codex |>
 # ACRS
 
 ```{r}
-ACRS <- nrcadams::search_ACRS(days_back = 14)
+ACRS <- nrcadams::search_values(
+  days_back = 30,
+  author_affiliation = "NRC/ACRS",
+  results_tag = "ACRS"
+  )
 
 if (length(ACRS) != 0) {
   ACRS |>
     nrcadams::write_rss(
       file = here::here("docs", "RSS", paste0(
         "ACRS", ".rss")
-        ),
+      ),
       title = "ACRS"
-      )  
+    )
 }
 
 tibble::tibble(Project = "ACRS") |>
@@ -164,14 +169,25 @@ docket number associated with that company.
 
 toobigtotrack <- c("Holtec", "GE", "Westinghouse")
 
-burning_ears = nrcadams::docket_codex |>
+date <- nrcadams:::process_dates(days_back = 14)
+
+burning_ears <- nrcadams::docket_codex |>
   dplyr::filter(!Company %in% toobigtotrack) |>
   dplyr::distinct(Company) |>
   dplyr::pull(Company) |>
   purrr::map_dfr(\(.x) {
-    nrcadams::search_undocketed(.x, days_back = 14) 
-    }
-  )
+    antidocket <- nrcadams::docket_codex |>
+      dplyr::filter(Company  == .x) |>
+      dplyr::mutate(DocketNumber = -DocketNumber) |>
+      dplyr::pull(DocketNumber)
+
+    nrcadams::search_public_ADAMS(
+      search_term = .x,
+      DocketNumber = antidocket,
+      start_date = date$start,
+      results_tag = .x
+    )
+  })
 
 nrcadams::docket_codex |>
   dplyr::filter(!Company %in% toobigtotrack) |>
@@ -179,13 +195,16 @@ nrcadams::docket_codex |>
   dplyr::pull(Company) |>
   purrr::walk(\(.x) {
     burning_ears |>
-      dplyr::filter(Tag == .x) |>
+      dplyr::filter(tag == .x) |>
       nrcadams::write_rss(
         file = here::here("docs", "RSS", paste0(
-          .x |> stringr::str_replace_all(" ", "_")|> stringr::str_replace_all("/", "_"), ".rss")
-          ),
-        title = .x 
-        )
+          .x |>
+            stringr::str_replace_all(" ", "_") |>
+            stringr::str_replace_all("/", "_"),
+          ".rss"
+        )),
+        title = .x
+      )
   })
 
 
@@ -197,7 +216,10 @@ nrcadams::docket_codex |>
     Company |> stringr::str_replace_all(" ", "_"),
     ".rss"
   )) |>
-  nrcadams::hyperlink_file_to_name(name_vct = `RSS File`, url_vct = `RSS File`)|>
+  nrcadams::hyperlink_file_to_name(
+    name_vct = `RSS File`,
+    url_vct = `RSS File`
+  )|>
   DT::datatable(escape = FALSE)
 ```
 
@@ -205,49 +227,51 @@ nrcadams::docket_codex |>
 
 ```{r extra-searches, echo = FALSE, results=FALSE}
 code_search <- tibble::tibble(
-  tag = c("MELCOR", "ARCON", "RADTRAD", "NRCDose3", "MACCS", "Sierra ATD", "GOTHIC")
+  tag = c(
+    "MELCOR", "ARCON", "RADTRAD", "NRCDose3",
+    "MACCS", "Sierra ATD", "GOTHIC"
+  )
 ) |>
   dplyr::mutate(
     search = dplyr::case_when(
       tag == "Sierra ATD" ~ "'%22SIERRA+ATD%22'",
       .default = tag
-    ) 
+    )
   )
 
 code_results <- code_search |>
   purrr::pmap(\(tag = tag, search = search) {
-    nrcadams::search_advanced(
-        search_field = paste0("single_content_search:", search),
-        results_tag = tag,
-        days_back = 7,
-        content_search = TRUE
+    nrcadams::search_values(
+      search_term = search,
+      results_tag = tag,
+      days_back = 7
     )
   }) |>
   # Need to remove empty search results
-  purrr::discard(\(z) nrow(z) == 0) 
+  purrr::discard(\(z) nrow(z) == 0)
 
 if(!length(code_results) == 0) {
   code_results <- code_results |>
-    purrr::reduce(dplyr::full_join) 
+    purrr::reduce(dplyr::full_join)
 
-    code_search|>
-      dplyr::pull(tag) |>
-      purrr::walk(\(.x) {
-        code_results |>
-          dplyr::filter(Tag == .x) |>
-          nrcadams::write_rss(
-            file = here::here("docs", "RSS", paste0(
-              .x |> stringr::str_replace_all(" ", "_"), ".rss")
-              ),
-            title = .x 
-            )
-      })
+  code_search |>
+    dplyr::pull(tag) |>
+    purrr::walk(\(.x) {
+      code_results |>
+        dplyr::filter(tag == .x) |>
+        nrcadams::write_rss(
+          file = here::here("docs", "RSS", paste0(
+            .x |> stringr::str_replace_all(" ", "_"), ".rss")
+          ),
+          title = .x
+        )
+    })
 
-    code_results |>
-      nrcadams::write_rss(
-        file = here::here("docs", "RSS", "SourceTermCodes.rss"),
-        title = "Source Term Code Reports"
-        )  
+  code_results |>
+    nrcadams::write_rss(
+      file = here::here("docs", "RSS", "SourceTermCodes.rss"),
+      title = "Source Term Code Reports"
+    )
 }
 
 # Search for Documents
@@ -264,69 +288,67 @@ document_search <- tibble::tibble(
 
 document_results <- document_search |>
   purrr::pmap(\(tag = tag, search = search) {
-    nrcadams::search_advanced(
-        search_field = paste0("single_content_search:", search),
-        results_tag = tag,
-        days_back = 30,
-        content_search = TRUE
+    nrcadams::search_values(
+      search_term = search,
+      results_tag = tag,
+      days_back = 30
     )
   }) |>
   # Need to remove empty search results
-  purrr::discard(\(z) nrow(z) == 0) 
+  purrr::discard(\(z) nrow(z) == 0)
 
 if(!length(document_results) == 0) {
   document_results <- document_results |>
-    purrr::reduce(dplyr::full_join) 
+    purrr::reduce(dplyr::full_join)
 
-    document_search|>
-      dplyr::pull(tag) |>
-      purrr::walk(\(.x) {
-        document_results |>
-          dplyr::filter(Tag == .x) |>
-          nrcadams::write_rss(
-            file = here::here("docs", "RSS", paste0(
-              .x |> stringr::str_replace_all(" ", "_"), ".rss")
-              ),
-            title = .x 
-            )
-      })
+  document_search |>
+    dplyr::pull(tag) |>
+    purrr::walk(\(.x) {
+      document_results |>
+        dplyr::filter(tag == .x) |>
+        nrcadams::write_rss(
+          file = here::here("docs", "RSS", paste0(
+            .x |> stringr::str_replace_all(" ", "_"), ".rss"
+          )),
+          title = .x
+        )
+    })
 }
 
 
 
 
-Inspections <- nrcadams::search_advanced(
-    search_field = "properties_search_all:!(!(DocumentType,eq,%27Inspection+Manual%27,%27%27),!(AuthorAffiliation,starts,NRC/NRR,%27%27),",
-    results_tag = "Inspections",
-    days_back = 7
-)
+# Inspections <- nrcadams::search_values(
+#     document_type = "Inspection Manual",
+#     author_affiliation = "NRC/NRR",
+#     results_tag = "Inspections",
+#     days_back = 7
+# )
 
-if (length(Inspections) != 0) {
-  Inspections |>
-    nrcadams::write_rss(
-      file = here::here("docs", "RSS", paste0(
-        "Inspections", ".rss")
-        ),
-      title = "Inspections"
-      )  
-}
+# if (length(Inspections) != 0) {
+#   Inspections |>
+#     nrcadams::write_rss(
+#       file = here::here("docs", "RSS", paste0(
+#         "Inspections", ".rss")
+#         ),
+#       title = "Inspections"
+#       )
+# }
 
-KP_meetings <- last_week_in_dockets |> 
+KP_meetings <- last_week_in_dockets |>
   dplyr::filter(
     Company == "Kairos Power",
     stringr::str_detect(Type, "Meeting Agenda")
-    ) 
-    
-    
+  )
 
 if (length(KP_meetings) != 0) {
   KP_meetings |>
     nrcadams::write_rss(
       file = here::here("docs", "RSS", paste0(
         "kp_meetings", ".rss")
-        ),
+      ),
       title = "Kairos Power Meetings"
-      )  
+    )
 }
 
 ```
@@ -343,7 +365,7 @@ code_search |>
   ) |>
   dplyr::add_row(
     tag = "All Codes",
-    search = "Or Gate", 
+    search = "Or Gate",
     `RSS File` = "https://mrdenman-nuclear.github.io/nrcadams/RSS/SourceTermCodes.rss"
     ) |>
   nrcadams::hyperlink_file_to_name(name_vct = `RSS File`, url_vct = `RSS File`) |>
