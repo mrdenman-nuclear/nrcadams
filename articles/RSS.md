@@ -2,7 +2,7 @@
 
 This page is updated Monday through Friday, hourly between 9AM ET and 5
 PM ET. It presents RSS files for the various dockets tracked by the
-`nrcadams` package. The last update was at 2026-01-05 16:19:41.196499
+`nrcadams` package. The last update was at 2026-01-05 17:19:56.639529
 ET.
 
 ## Using the RSS Feeds
@@ -200,7 +200,7 @@ nrcadams::RTR_docket_codex |>
 ACRS <- nrcadams::search_ACRS(days_back = 14)
 #> Searching with the following URL:
 #>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_all:!(!(AuthorAffiliation,starts,NRC/ACRS,''),!(PublishDatePARS,gt,'12/22/2025',''))))&qn=New&tab=advanced-search-pars&z=0 
-#> : 0.35 sec elapsed
+#> : 0.322 sec elapsed
 #> 
 #>  This search returned: 0 files.
 #> Warning in nrcadams::search_advanced(search_field = "properties_search_all:!(!(AuthorAffiliation,starts,NRC/ACRS,''),", : 
@@ -246,77 +246,77 @@ burning_ears = nrcadams::docket_codex |>
   )
 #> Searching with the following URL:
 #>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902088',''),!(DocketNumber,not,'05000610',''),!(PublishDatePARS,gt,'12/22/2025','')),single_content_search:'ACU'))&qn=New&tab=content-search-pars&z=0 
-#> : 0.526 sec elapsed
+#> : 0.463 sec elapsed
 #> 
 #>  This search returned: 1 files.
 #> Searching with the following URL:
 #>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'05000608',''),!(DocketNumber,not,'99902115',''),!(PublishDatePARS,gt,'12/22/2025','')),single_content_search:'SHINE+Medical+Technologies'))&qn=New&tab=content-search-pars&z=0 
-#> : 0.462 sec elapsed
+#> : 0.448 sec elapsed
 #> 
 #>  This search returned: 0 files.
 #> Warning in nrcadams::search_undocketed(.x, days_back = 14): 
 #> The search return no results.
 #> Searching with the following URL:
 #>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902071',''),!(DocketNumber,not,'07007027',''),!(DocketNumber,not,'99902117',''),!(PublishDatePARS,gt,'12/22/2025','')),single_content_search:'X-Energy'))&qn=New&tab=content-search-pars&z=0 
-#> : 0.462 sec elapsed
+#> : 0.476 sec elapsed
 #> 
 #>  This search returned: 5 files.
 #> Searching with the following URL:
 #>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902100',''),!(DocketNumber,not,'05000613',''),!(DocketNumber,not,'99902150',''),!(PublishDatePARS,gt,'12/22/2025','')),single_content_search:'TerraPower'))&qn=New&tab=content-search-pars&z=0 
-#> : 0.489 sec elapsed
+#> : 0.467 sec elapsed
 #> 
 #>  This search returned: 2 files.
 #> Searching with the following URL:
 #>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902094',''),!(PublishDatePARS,gt,'12/22/2025','')),single_content_search:'UCUI'))&qn=New&tab=content-search-pars&z=0 
-#> : 0.475 sec elapsed
+#> : 0.433 sec elapsed
 #> 
 #>  This search returned: 0 files.
 #> Warning in nrcadams::search_undocketed(.x, days_back = 14): 
 #> The search return no results.
 #> Searching with the following URL:
 #>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902076',''),!(PublishDatePARS,gt,'12/22/2025','')),single_content_search:'Terrestrial+Energy'))&qn=New&tab=content-search-pars&z=0 
-#> : 0.512 sec elapsed
+#> : 0.513 sec elapsed
 #> 
 #>  This search returned: 13 files.
 #> Searching with the following URL:
 #>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'05200048',''),!(DocketNumber,not,'99902078',''),!(DocketNumber,not,'05200050',''),!(DocketNumber,not,'99902052',''),!(PublishDatePARS,gt,'12/22/2025','')),single_content_search:'NuScale'))&qn=New&tab=content-search-pars&z=0 
-#> : 0.47 sec elapsed
+#> : 0.484 sec elapsed
 #> 
 #>  This search returned: 3 files.
 #> Searching with the following URL:
 #>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902069',''),!(DocketNumber,not,'05007513',''),!(DocketNumber,not,'05000611',''),!(DocketNumber,not,'05000612',''),!(PublishDatePARS,gt,'12/22/2025','')),single_content_search:'Kairos+Power'))&qn=New&tab=content-search-pars&z=0 
-#> : 0.499 sec elapsed
+#> : 0.59 sec elapsed
 #> 
 #>  This search returned: 2 files.
 #> Searching with the following URL:
 #>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902095',''),!(DocketNumber,not,'99902101',''),!(DocketNumber,not,'05200049',''),!(PublishDatePARS,gt,'12/22/2025','')),single_content_search:'Oklo'))&qn=New&tab=content-search-pars&z=0 
-#> : 0.445 sec elapsed
+#> : 0.483 sec elapsed
 #> 
 #>  This search returned: 2 files.
 #> Searching with the following URL:
 #>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902128',''),!(PublishDatePARS,gt,'12/22/2025','')),single_content_search:'Aalo'))&qn=New&tab=content-search-pars&z=0 
-#> : 0.438 sec elapsed
+#> : 0.448 sec elapsed
 #> 
 #>  This search returned: 0 files.
 #> Warning in nrcadams::search_undocketed(.x, days_back = 14): 
 #> The search return no results.
 #> Searching with the following URL:
 #>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902136',''),!(PublishDatePARS,gt,'12/22/2025','')),single_content_search:'TAMU'))&qn=New&tab=content-search-pars&z=0 
-#> : 0.437 sec elapsed
+#> : 0.452 sec elapsed
 #> 
 #>  This search returned: 0 files.
 #> Warning in nrcadams::search_undocketed(.x, days_back = 14): 
 #> The search return no results.
 #> Searching with the following URL:
 #>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902122',''),!(PublishDatePARS,gt,'12/22/2025','')),single_content_search:'Natura+Resources'))&qn=New&tab=content-search-pars&z=0 
-#> : 0.431 sec elapsed
+#> : 0.458 sec elapsed
 #> 
 #>  This search returned: 0 files.
 #> Warning in nrcadams::search_undocketed(.x, days_back = 14): 
 #> The search return no results.
 #> Searching with the following URL:
 #>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902056',''),!(DocketNumber,not,'05000615',''),!(PublishDatePARS,gt,'12/22/2025','')),single_content_search:'TVA'))&qn=New&tab=content-search-pars&z=0 
-#> : 0.537 sec elapsed
+#> : 0.572 sec elapsed
 #> 
 #>  This search returned: 16 files.
 
