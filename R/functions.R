@@ -22,12 +22,6 @@
 #' @source \url{https://adams-search.nrc.gov/assets/APS-API-Guide.pdf}
 #' @return tibble of search results
 #' @export
-#'
-#' @examples
-#'   nrcadams::docket_codex |>
-#'     dplyr::filter(Company == "ACU") |>
-#'     dplyr::pull(DocketNumber) |>
-#'     nrcadams::search_docket()
 search_docket <- function(
   DocketNumber,
   search_term = NA,
