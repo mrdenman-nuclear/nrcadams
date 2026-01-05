@@ -5,11 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 05 Jan 2026 19:21:29 GMT</pubDate>
-		<lastBuildDate>Mon, 05 Jan 2026 19:21:29 GMT</lastBuildDate>
+		<pubDate>Mon, 05 Jan 2026 20:23:41 GMT</pubDate>
+		<lastBuildDate>Mon, 05 Jan 2026 20:23:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Enclosure 2: Duke Energy Carolinas, LLC, Belews Creek, NC Site, Early Site Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25364A006</link>
+			<description>License-Application for Early Site Permit (ESP)</description>
+			<author>Duke Energy, Duke Energy Carolinas, LLC</author>
+			<pubDate>2026-01-05 14:23:00</pubDate>
+		</item>
+		<item>
+			<title>FOIA-2026-000018 - Resp 1 - Final</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26005A106</link>
+			<description>FOIA/Privacy Act Response to Requestor</description>
+			<author>NRC/OCIO/DIME/FLICB</author>
+			<pubDate>2026-01-05 14:23:00</pubDate>
+		</item>
+		<item>
+			<title>FOIA-2026-000019 - Resp 1 - Final</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26005A112</link>
+			<description>FOIA/Privacy Act Response to Requestor</description>
+			<author>NRC/OCIO/DIME/FLICB</author>
+			<pubDate>2026-01-05 14:23:00</pubDate>
+		</item>
+	</channel>
 </rss>
