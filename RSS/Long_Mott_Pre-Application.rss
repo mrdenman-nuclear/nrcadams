@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 02 Jan 2026 23:18:50 GMT</pubDate>
-		<lastBuildDate>Fri, 02 Jan 2026 23:18:50 GMT</lastBuildDate>
+		<pubDate>Mon, 05 Jan 2026 14:22:52 GMT</pubDate>
+		<lastBuildDate>Mon, 05 Jan 2026 14:22:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Supplement #5 to the Preliminary Safety Analysis Report for the Long Mott Generating Station Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25351A148</link>
-			<description>Letter</description>
-			<author>NRC/NRR, NRC/Document Control Desk</author>
-			<pubDate>2025-12-19 12:37:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Generating Station - Preliminary Safety Analysis Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25351A149</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-12-19 12:37:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

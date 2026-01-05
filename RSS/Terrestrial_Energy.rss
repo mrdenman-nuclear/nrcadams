@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 02 Jan 2026 23:18:56 GMT</pubDate>
-		<lastBuildDate>Fri, 02 Jan 2026 23:18:56 GMT</lastBuildDate>
+		<pubDate>Mon, 05 Jan 2026 14:22:58 GMT</pubDate>
+		<lastBuildDate>Mon, 05 Jan 2026 14:22:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Clinch River Project, TVA Comments on NRC’s Draft Supplemental Environmental Impact Statement</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25356A077</link>
+			<description>Graphics incl Charts and Tables, Letter, Report, Miscellaneous</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2026-01-05 08:24:00</pubDate>
+		</item>
 		<item>
 			<title>Env Reg Audit Re the Proposed Reauth of Power Operations for Crane Clean Energy Center</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25364A023</link>
@@ -59,41 +66,6 @@
 			<description>Technical Paper</description>
 			<author>US Dept of Energy, Idaho Operations Office</author>
 			<pubDate>2025-12-23 10:04:00</pubDate>
-		</item>
-		<item>
-			<title>Robinson DSEIS</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25344A144</link>
-			<description>Environmental Impact Statement</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2025-12-22 16:12:00</pubDate>
-		</item>
-		<item>
-			<title>Monticello - Rev. 42 to the Updated Final Safety Analysis Report, Chapter 1, Introduction and Summary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25107A222</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Northern States Power Company, Minnesota, Xcel Energy</author>
-			<pubDate>2025-12-22 09:32:00</pubDate>
-		</item>
-		<item>
-			<title>Monticello - Rev. 42 to the Updated Final Safety Analysis Report, Chapter 2, Site and Environs</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25107A223</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Northern States Power Company, Minnesota, Xcel Energy</author>
-			<pubDate>2025-12-22 09:32:00</pubDate>
-		</item>
-		<item>
-			<title>Monticello - Rev. 42 to the Updated Final Safety Analysis Report, Chapter 1, Introduction and Summary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25105A249</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Northern States Power Company, Minnesota, Xcel Energy</author>
-			<pubDate>2025-12-22 08:11:00</pubDate>
-		</item>
-		<item>
-			<title>Monticello - Rev. 42 to the Updated Final Safety Analysis Report, Chapter 2, Site and Environs</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25105A250</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Northern States Power Company, Minnesota, Xcel Energy</author>
-			<pubDate>2025-12-22 08:11:00</pubDate>
 		</item>
 	</channel>
 </rss>

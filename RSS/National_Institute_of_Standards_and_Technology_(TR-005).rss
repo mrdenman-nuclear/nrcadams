@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 02 Jan 2026 23:18:51 GMT</pubDate>
-		<lastBuildDate>Fri, 02 Jan 2026 23:18:51 GMT</lastBuildDate>
+		<pubDate>Mon, 05 Jan 2026 14:22:52 GMT</pubDate>
+		<lastBuildDate>Mon, 05 Jan 2026 14:22:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Policy and Program Guidance</description>
 			<author>NRC/NRR</author>
 			<pubDate>2025-12-23 11:59:00</pubDate>
-		</item>
-		<item>
-			<title>NIST Part 55 Exemption Extension Request</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25346A056</link>
-			<description>Letter</description>
-			<author>NRC/NRR</author>
-			<pubDate>2025-12-19 12:36:00</pubDate>
 		</item>
 	</channel>
 </rss>
