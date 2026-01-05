@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 05 Jan 2026 15:21:45 GMT</pubDate>
-		<lastBuildDate>Mon, 05 Jan 2026 15:21:45 GMT</lastBuildDate>
+		<pubDate>Mon, 05 Jan 2026 16:26:00 GMT</pubDate>
+		<lastBuildDate>Mon, 05 Jan 2026 16:26:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>NorthStar Vallecitos, LLC, NRC Inspection Report 05000070/2025002, 05000073/2025002, 05000183/2025002 and 07000754/2025002</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25350B746</link>
+			<description>Inspection Report, Letter</description>
+			<author>NorthStar Vallecitos, LLC</author>
+			<pubDate>2026-01-05 14:53:00</pubDate>
+		</item>
+	</channel>
 </rss>
