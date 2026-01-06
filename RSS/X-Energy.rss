@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Jan 2026 20:21:15 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Jan 2026 20:21:15 GMT</lastBuildDate>
+		<pubDate>Tue, 06 Jan 2026 21:20:44 GMT</pubDate>
+		<lastBuildDate>Tue, 06 Jan 2026 21:20:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Prohibited Securities List (2026 Update)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26006A105</link>
+			<description>- No Document Type Applies</description>
+			<author>NRC/OGC</author>
+			<pubDate>2026-01-06 20:09:00</pubDate>
+		</item>
 		<item>
 			<title>WWC to FWS, Request for Concurrence and Biological Assessment</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26006A054</link>
@@ -213,13 +220,6 @@
 			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation, Technical Specifications</description>
 			<author>NRC/NRR/DORL/LPL1</author>
 			<pubDate>2026-01-02 14:38:00</pubDate>
-		</item>
-		<item>
-			<title>Diablo Canyon, Units 1 and 2, License Amendment Request 25-06 to Update the Spent Fuel Pool and New Fuel Storage Vault Criticality Safety Analysis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25354A002</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>Pacific Gas and Electric Co</author>
-			<pubDate>2026-01-02 12:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
