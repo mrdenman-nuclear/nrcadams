@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Jan 2026 21:20:44 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Jan 2026 21:20:44 GMT</lastBuildDate>
+		<pubDate>Tue, 06 Jan 2026 22:20:05 GMT</pubDate>
+		<lastBuildDate>Tue, 06 Jan 2026 22:20:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -16,6 +16,20 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26006A105</link>
 			<description>- No Document Type Applies</description>
 			<author>NRC/OGC</author>
+			<pubDate>2026-01-06 20:09:00</pubDate>
+		</item>
+		<item>
+			<title>Letter to the EB Requesting Assurances for XCOM1376</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26006A136</link>
+			<description>Letter</description>
+			<author>NRC/OIP/ECNP</author>
+			<pubDate>2026-01-06 20:09:00</pubDate>
+		</item>
+		<item>
+			<title>Licensing Actions Received Year 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26006A196</link>
+			<description>Routine Status Report (Recurring Weekly/Monthly)</description>
+			<author>NRC/NMSS/DMSST/MSLB</author>
 			<pubDate>2026-01-06 20:09:00</pubDate>
 		</item>
 		<item>
@@ -206,20 +220,6 @@
 			<description>Audit Plan, Letter</description>
 			<author>NRC/NMSS/DREFS/EPMB1</author>
 			<pubDate>2026-01-02 20:17:00</pubDate>
-		</item>
-		<item>
-			<title>Limerick Generating Station, Units 1 and 2 - Issuance of Amendment Nos. 268 and 230 to Revise the Licensing and Design Basis Related to the Replacement of Safety-Related Analog Control Systems - Non-Proprietary (EPID L-2022-LLA-0140)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25325A355</link>
-			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation, Technical Specifications</description>
-			<author>NRC/NRR/DORL/LPL1</author>
-			<pubDate>2026-01-02 14:38:00</pubDate>
-		</item>
-		<item>
-			<title>Limerick Generating Station, Units 1 and 2 - Issuance of Amendment Nos. 268 and 230 to Revise the Licensing and Design Basis Related to the Replacement of Safety-Related Analog Control Systems - Non-Proprietary (EPID L-2022-LLA-0140)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25325A355</link>
-			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation, Technical Specifications</description>
-			<author>NRC/NRR/DORL/LPL1</author>
-			<pubDate>2026-01-02 14:38:00</pubDate>
 		</item>
 	</channel>
 </rss>
