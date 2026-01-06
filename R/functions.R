@@ -273,6 +273,7 @@ search_public_ADAMS <- function(
   body <- list(
     filters = and_filters, # AND gate
     anyFilters = dockets, # OR gate
+    content = FALSE,
     legacyLibFilter = TRUE,
     mainLibFilter = TRUE,
     sort = "DateAddedTimestamp",
