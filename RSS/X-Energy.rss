@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Jan 2026 14:22:27 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Jan 2026 14:22:27 GMT</lastBuildDate>
+		<pubDate>Tue, 06 Jan 2026 15:22:58 GMT</pubDate>
+		<lastBuildDate>Tue, 06 Jan 2026 15:22:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -19,17 +19,17 @@
 			<pubDate>2026-01-06 12:08:00</pubDate>
 		</item>
 		<item>
-			<title>LER 2025-004-00 for Waterford Steam Electric Station, Unit 3, Station Air Leak in Control Room Envelope Results in a Condition That Could have Prevented Fulfilment of a Safety Function</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25357A159</link>
-			<description>Letter, Licensee Event Report (LER)</description>
-			<author>Entergy Operations, Inc</author>
-			<pubDate>2026-01-06 12:08:00</pubDate>
-		</item>
-		<item>
 			<title>LER 2025-002-00 for Dresden Nuclear Power Station, Units 2 and 3, Valid Reactor Protection System Actuation While Shutdown</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25360A001</link>
 			<description>Letter, Licensee Event Report (LER)</description>
 			<author>Constellation Energy Generation, LLC</author>
+			<pubDate>2026-01-06 12:08:00</pubDate>
+		</item>
+		<item>
+			<title>LER 2025-004-00 for Waterford Steam Electric Station, Unit 3, Station Air Leak in Control Room Envelope Results in a Condition That Could have Prevented Fulfilment of a Safety Function</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25357A159</link>
+			<description>Letter, Licensee Event Report (LER)</description>
+			<author>Entergy Operations, Inc</author>
 			<pubDate>2026-01-06 12:08:00</pubDate>
 		</item>
 		<item>
