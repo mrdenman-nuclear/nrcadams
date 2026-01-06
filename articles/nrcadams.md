@@ -39,7 +39,7 @@ search through both the pre-application and docketed information.
 nrcadams::docket_codex |>
   dplyr::filter(Company == "TerraPower") |>
   dplyr::pull(DocketNumber) |>
-  nrcadams::search_docket(days_back = 60, rest_api = TRUE) |>
+  nrcadams::search_docket(days_back = 60) |>
   dplyr::mutate(Title = paste0("<a href='", URL, "'>", Title, '</a>')) |>
   dplyr::select(-c(URL, count)) |>
   DT::datatable(
@@ -65,11 +65,11 @@ filter on the returned results.
 nrcadams::docket_codex |>
   dplyr::filter(Company == "X-Energy") |>
   dplyr::pull(DocketNumber) |>
-  nrcadams::search_docket(rest_api = TRUE, days_back = 100) |>
+  nrcadams::search_docket(days_back = 30) |>
   dplyr::filter(
     !stringr::str_detect(Type, "E-Mail"),
     !stringr::str_detect(Type, "Letter")
-  )|>
+  ) |>
   dplyr::mutate(Title = paste0("<a href='", URL, "'>", Title, '</a>')) |>
   dplyr::select(-URL) |>
   DT::datatable(
@@ -78,5 +78,5 @@ nrcadams::docket_codex |>
     escape = FALSE
   )
 #> 
-#>  This search returned: 140 files.
+#>  This search returned: 62 files.
 ```

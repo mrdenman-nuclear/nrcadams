@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 05 Jan 2026 23:19:07 GMT</pubDate>
-		<lastBuildDate>Mon, 05 Jan 2026 23:19:07 GMT</lastBuildDate>
+		<pubDate>Tue, 06 Jan 2026 04:04:13 GMT</pubDate>
+		<lastBuildDate>Tue, 06 Jan 2026 04:04:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>12-17-25 Letter to the President and Congress, from Chairman Wright re: submits the NRCs Fiscal Year 2025 Agency Financial Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25337A131</link>
+			<description>Congressional Correspondence, Financial Assurance Document, Letter</description>
+			<author>NRC/Chairman</author>
+			<pubDate>2026-01-05 12:24:00</pubDate>
+		</item>
+	</channel>
 </rss>

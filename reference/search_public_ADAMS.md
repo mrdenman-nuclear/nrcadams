@@ -7,12 +7,16 @@ Please use search_docket() for most use cases.
 
 ``` r
 search_public_ADAMS(
-  DocketNumber,
-  search_term,
-  start_date,
-  end_date,
-  skip_dbl,
-  verbosity = 0
+  search_term = NA,
+  DocketNumber = NA,
+  start_date = NA,
+  author_affiliation = NA,
+  document_type = NA,
+  results_tag = NA,
+  end_date = NA,
+  skip_int = 0,
+  verbosity = 0,
+  adams_key = Sys.getenv("ADAMS")
 )
 ```
 
@@ -22,13 +26,13 @@ search_public_ADAMS(
 
 ## Arguments
 
-- DocketNumber:
-
-  dbl/vector: Docket number (or numbers) to be searched on ADAMS
-
 - search_term:
 
   chr: Any search term desired. Default is nothing (i.e., NA)
+
+- DocketNumber:
+
+  dbl/vector: Docket number (or numbers) to be searched on ADAMS
 
 - start_date:
 
@@ -44,11 +48,7 @@ search_public_ADAMS(
 
   dbl: Level of verbosity for REST API requests.
 
-- rest_api:
-
-  logical: If TRUE, use the REST API to conduct the search.
-
-- skip_dbl::
+- skip_int::
 
   Number of records to skip in the search.
 

@@ -22,7 +22,7 @@ tibble of docket numbers
 
 ``` r
 nrcadams::docket_codex
-#> # A tibble: 32 × 4
+#> # A tibble: 33 × 4
 #>    Project                         Company                    DocketNumber NLWR 
 #>    <chr>                           <chr>                             <dbl> <lgl>
 #>  1 MSRR Pre-Application            ACU                            99902088 TRUE 
@@ -32,8 +32,8 @@ nrcadams::docket_codex
 #>  5 Xe-100 Pre-Application          X-Energy                       99902071 TRUE 
 #>  6 TRISO-X Fab. Part 70            X-Energy                        7007027 TRUE 
 #>  7 Long Mott Pre-Application       X-Energy                       99902117 TRUE 
-#>  8 AP300                           Westinghouse                   99902111 FALSE
-#>  9 Natrium Pre-Application         TerraPower                     99902100 TRUE 
-#> 10 Natrium Part 50                 TerraPower                      5000613 TRUE 
-#> # ℹ 22 more rows
+#>  8 Long Mott Part 50               X-Energy                        5000614 TRUE 
+#>  9 AP300                           Westinghouse                   99902111 FALSE
+#> 10 Natrium Pre-Application         TerraPower                     99902100 TRUE 
+#> # ℹ 23 more rows
 ```

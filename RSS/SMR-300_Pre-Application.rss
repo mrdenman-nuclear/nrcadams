@@ -5,39 +5,39 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 05 Jan 2026 23:19:02 GMT</pubDate>
-		<lastBuildDate>Mon, 05 Jan 2026 23:19:02 GMT</lastBuildDate>
+		<pubDate>Tue, 06 Jan 2026 04:04:08 GMT</pubDate>
+		<lastBuildDate>Tue, 06 Jan 2026 04:04:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
+			<title>01/15/2026 Follow-up Meeting with SMR (Holtec) to Discuss the SMR-300 I&C Architecture Licensing Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26005A246</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2026-01-06 00:34:00</pubDate>
+		</item>
+		<item>
 			<title>Enclosure VIII: Redress Plan</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25365A993</link>
 			<description>Report, Technical</description>
-			<author>NRC/Document Control Desk</author>
+			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2026-01-02 20:17:00</pubDate>
 		</item>
 		<item>
 			<title>01/12/2026 Follow-up Meeting with SMR (Holtec) to Discuss two Licensing Topical Reports, "SMR-300 Concrete Strengthened Steel Structures Design and Analysis Methodology" and "SMR-300 Time-Domain LS-DYNA Soil Structure Interaction Analysis Methodology"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26002A015</link>
 			<description>Meeting Notice, Meeting Agenda</description>
-			<author></author>
+			<author>NRC/NRR</author>
 			<pubDate>2026-01-02 17:31:00</pubDate>
 		</item>
 		<item>
 			<title>Email to Phil Lashley subject "Draft Safety Evaluation for the SMR-300 Design Basis Accident Radiological Consequences Analysis Methodology Licensing Topical Report (EPID L-2025-TOP-0019)" dated December 22, 2025. 2) ML25345A481</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25357A039</link>
 			<description>E-Mail</description>
-			<author>Holtec International</author>
+			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2025-12-29 12:26:00</pubDate>
-		</item>
-		<item>
-			<title>ML25345A481-SMR (Holtec) Draft Safety Evaluation of Licensing Topical Report HI-2241098, SMR Design Basis Radiological Consequences Analysis Methodology, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25345A481</link>
-			<description>Safety Evaluation Report, Draft</description>
-			<author></author>
-			<pubDate>2025-12-22 13:32:00</pubDate>
 		</item>
 	</channel>
 </rss>

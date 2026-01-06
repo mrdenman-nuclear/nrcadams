@@ -52,10 +52,10 @@
 <span>  start_date <span class="op">=</span> <span class="cn">NA</span>,</span>
 <span>  end_date <span class="op">=</span> <span class="cn">NA</span>,</span>
 <span>  document_type <span class="op">=</span> <span class="cn">NA</span>,</span>
-<span>  rest_api <span class="op">=</span> <span class="cn">FALSE</span>,</span>
-<span>  skip_dbl <span class="op">=</span> <span class="fl">0</span>,</span>
+<span>  skip_int <span class="op">=</span> <span class="fl">0</span>,</span>
 <span>  max_returns <span class="op">=</span> <span class="fl">1e+06</span>,</span>
-<span>  verbosity <span class="op">=</span> <span class="fl">0</span></span>
+<span>  verbosity <span class="op">=</span> <span class="fl">0</span>,</span>
+<span>  adams_key <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/Sys.getenv.html" class="external-link">Sys.getenv</a></span><span class="op">(</span><span class="st">"ADAMS"</span><span class="op">)</span></span>
 <span><span class="op">)</span></span></code></pre></div>
     </div>
 
@@ -98,20 +98,17 @@ returned. Cannot be used with days_back.</p></dd>
 <dd><p>chr: Type of ADAMS document, currently unsupported</p></dd>
 
 
-<dt id="arg-rest-api">rest_api<a class="anchor" aria-label="anchor" href="#arg-rest-api"></a></dt>
-<dd><p>logical: If TRUE, use the REST API to conduct the search.</p></dd>
-
-
 <dt id="arg-max-returns">max_returns<a class="anchor" aria-label="anchor" href="#arg-max-returns"></a></dt>
 <dd><p>dbl: Maximum number of returns to pull when using REST
 API.</p></dd>
 
 
 <dt id="arg-verbosity">verbosity<a class="anchor" aria-label="anchor" href="#arg-verbosity"></a></dt>
-<dd><p>dbl: Level of verbosity for REST API requests.</p></dd>
+<dd><p>dbl: Level of verbosity for REST API requests. Integer 0-3,
+with 0 being silent and 3 being most verbose.</p></dd>
 
 
-<dt id="arg-skip-dbl-">skip_dbl:<a class="anchor" aria-label="anchor" href="#arg-skip-dbl-"></a></dt>
+<dt id="arg-skip-int-">skip_int:<a class="anchor" aria-label="anchor" href="#arg-skip-int-"></a></dt>
 <dd><p>Number of records to skip in the search.</p></dd>
 
 </dl></div>
@@ -120,36 +117,6 @@ API.</p></dd>
     <p>tibble of search results</p>
     </div>
 
-    <div class="section level2">
-    <h2 id="ref-examples">Examples<a class="anchor" aria-label="anchor" href="#ref-examples"></a></h2>
-    <div class="sourceCode"><pre class="sourceCode r"><code><span class="r-in"><span>  <span class="fu">nrcadams</span><span class="fu">::</span><span class="va"><a href="docket_codex.html">docket_codex</a></span> <span class="op">|&gt;</span></span></span>
-<span class="r-in"><span>    <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/filter.html" class="external-link">filter</a></span><span class="op">(</span><span class="va">Company</span> <span class="op">==</span> <span class="st">"ACU"</span><span class="op">)</span> <span class="op">|&gt;</span></span></span>
-<span class="r-in"><span>    <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/pull.html" class="external-link">pull</a></span><span class="op">(</span><span class="va">DocketNumber</span><span class="op">)</span> <span class="op">|&gt;</span></span></span>
-<span class="r-in"><span>    <span class="fu">nrcadams</span><span class="fu">::</span><span class="fu">search_docket</span><span class="op">(</span><span class="op">)</span></span></span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> Searching with the following URL:</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_any:!(!(DocketNumber,eq,'99902088',''),!(DocketNumber,eq,'05000610',''))))&amp;qn=New&amp;tab=advanced-search-pars&amp;z=0 </span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> : 1.146 sec elapsed</span>
-<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
-<span class="r-msg co"><span class="r-pr">#&gt;</span>  This search returned: 228 files.</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #949494;"># A tibble: 228 × 8</span></span>
-<span class="r-wrn co"><span class="r-pr">#&gt;</span> <span class="warning">Warning: </span>unknown timezone 'EDT'</span>
-<span class="r-wrn co"><span class="r-pr">#&gt;</span> <span class="warning">Warning: </span>unknown timezone 'EDT'</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span>    Title             `Document Date` `Publish Date`      Type  Affiliation URL  </span>
-<span class="r-out co"><span class="r-pr">#&gt;</span>    <span style="color: #949494; font-style: italic;">&lt;chr&gt;</span>             <span style="color: #949494; font-style: italic;">&lt;date&gt;</span>          <span style="color: #949494; font-style: italic;">&lt;dttm&gt;</span>              <span style="color: #949494; font-style: italic;">&lt;chr&gt;</span> <span style="color: #949494; font-style: italic;">&lt;chr&gt;</span>       <span style="color: #949494; font-style: italic;">&lt;chr&gt;</span></span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 1</span> Hadron Energy, I… 2025-10-14      2025-10-22 <span style="color: #949494;">08:08:00</span> Lett… Hadron Ene… <span style="color: #949494;">"</span>htt…</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 2</span> Hadron Energy, I… 2025-09-19      2025-09-29 <span style="color: #949494;">08:06:00</span> Lett… Hadron Ene… <span style="color: #949494;">"</span>htt…</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 3</span> Enclosure 3: Req… 2025-09-15      2025-09-23 <span style="color: #949494;">08:12:00</span> Prop… Natura Res… <span style="color: #949494;">"</span>htt…</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 4</span> Abilene Christia… 2025-09-15      2025-09-23 <span style="color: #949494;">08:12:00</span> Lett… Abilene Ch… <span style="color: #949494;">"</span>htt…</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 5</span> Enclosure 2: Deg… 2025-09-15      2025-09-23 <span style="color: #949494;">08:12:00</span> Repo… Abilene Ch… <span style="color: #949494;">"</span>htt…</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 6</span> Meeting Summary … 2025-07-24      2025-07-24 <span style="color: #949494;">15:07:00</span> Meet… NRC/NRR     <span style="color: #949494;">"</span>htt…</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 7</span> 05/28/2025 Publi… 2025-05-28      2025-05-28 <span style="color: #949494;">09:42:00</span> Meet… NRC/NRR     <span style="color: #949494;">"</span>htt…</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 8</span> ACU MSRR Fuel Qu… 2025-05-28      2025-05-28 <span style="color: #949494;">09:27:00</span> Slid… Abilene Ch… <span style="color: #949494;">"</span>htt…</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 9</span> Meeting Slides -… 2025-05-27      2025-05-27 <span style="color: #949494;">12:31:00</span> Meet… NRC/NRR     <span style="color: #949494;">"</span>htt…</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;">10</span> Request for With… 2025-05-13      2025-05-13 <span style="color: #949494;">11:32:00</span> Lett… NRC/NRR     <span style="color: #949494;">"</span>htt…</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #949494;"># ℹ 218 more rows</span></span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #949494;"># ℹ 2 more variables: DocketNumber &lt;dbl&gt;, `ML Number` &lt;chr&gt;</span></span>
-</code></pre></div>
-    </div>
   </main><aside class="col-md-3"><nav id="toc" aria-label="Table of contents"><h2>On this page</h2>
     </nav></aside></div>
 

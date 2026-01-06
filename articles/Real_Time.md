@@ -1,25 +1,25 @@
 # Last Week in Dockets
 
 This page is updated Monday through Friday, hourly between 9AM ET and 5
-PM ET. The last update was at 2026-01-05 18:18:58.570949 ET.
+PM ET. The last update was at 2026-01-05 23:04:04.388927 ET.
 
 ``` r
 last_week_in_dockets <- nrcadams::docket_codex |>
   dplyr::pull(DocketNumber) |>
-  nrcadams::search_docket(days_back = 7, rest_api = TRUE) |>
+  nrcadams::search_docket(days_back = 7) |>
   dplyr::left_join(nrcadams::docket_codex) |>
   dplyr::filter(!is.na(Project))
 #> 
-#>  This search returned: 35 files.
+#>  This search returned: 26 files.
 #> Joining with `by = join_by(DocketNumber)`
 
 build_html_table <- function(docket_tbl, LWR) {
   if (LWR) {
-    docket_tbl = docket_tbl |> 
+    docket_tbl = docket_tbl |>
       dplyr::filter(!NLWR)
     title = "The Last 7 Days of Posted LWR Licensing Documents."
   } else {
-    docket_tbl = docket_tbl |> 
+    docket_tbl = docket_tbl |>
       dplyr::filter(NLWR)
     title = "The Last 7 Days of Posted NLWR Licensing Documents."
   }
@@ -85,6 +85,7 @@ dockets:
 - Xe-100 Pre-Application
 - TRISO-X Fab. Part 70
 - Long Mott Pre-Application
+- Long Mott Part 50
 - Natrium Pre-Application
 - Natrium Part 50
 - USO SFR Owner Pre-Applicatoin

@@ -2,7 +2,7 @@
 
 This page is updated Monday through Friday, hourly between 9AM ET and 5
 PM ET. It presents RSS files for the various dockets tracked by the
-`nrcadams` package. The last update was at 2026-01-05 18:19:01.418985
+`nrcadams` package. The last update was at 2026-01-05 23:04:07.216844
 ET.
 
 ## Using the RSS Feeds
@@ -27,11 +27,11 @@ located at the URLs shown in the table below.
 ``` r
 last_week_in_dockets = nrcadams::docket_codex |>
   dplyr::pull(DocketNumber) |>
-  nrcadams::search_docket(days_back = 14, rest_api = TRUE) |>
+  nrcadams::search_docket(days_back = 14) |>
   dplyr::left_join(nrcadams::docket_codex) |>
   dplyr::filter(!is.na(Project))
 #> 
-#>  This search returned: 40 files.
+#>  This search returned: 44 files.
 #> Joining with `by = join_by(DocketNumber)`
 
 
@@ -50,12 +50,13 @@ nrcadams::docket_codex |>
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/MSRR_Pre-Application.rss 
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/MSRR_Part_50.rss 
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Shine_Part_50.rss 
-#> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Shine_Recycling_Pre-Application.rss
-#> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
+#> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Shine_Recycling_Pre-Application.rss 
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Xe-100_Pre-Application.rss
 #> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/TRISO-X_Fab._Part_70.rss 
-#> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Long_Mott_Pre-Application.rss 
+#> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Long_Mott_Pre-Application.rss
+#> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
+#> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Long_Mott_Part_50.rss 
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/AP300.rss 
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Natrium_Pre-Application.rss
 #> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
@@ -90,7 +91,8 @@ nrcadams::docket_codex |>
 #> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/BWRX-300_Clinch_River_Part_50.rss
   
-last_week_in_dockets |> nrcadams::write_rss(file = here::here("docs", "RSS", "dockets.rss")) 
+last_week_in_dockets |> 
+  nrcadams::write_rss(file = here::here("docs", "RSS", "dockets.rss")) 
 #> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/dockets.rss
 
@@ -119,15 +121,15 @@ particular), these RSS files might help.
 ``` r
 last_week_in_RTRs <- nrcadams::RTR_docket_codex |>
   dplyr::pull(DocketNumber) |>
-  nrcadams::search_docket(days_back = 14, rest_api = TRUE)
+  nrcadams::search_docket(days_back = 14)
 #> 
-#>  This search returned: 13 files.
+#>  This search returned: 12 files.
 
 if (length(last_week_in_RTRs) != 0) {
   last_week_in_RTRs <- last_week_in_RTRs |>
     dplyr::left_join(nrcadams::RTR_docket_codex) |>
     dplyr::filter(!is.na(Project))
-    
+
   nrcadams::RTR_docket_codex |>
     dplyr::pull(Project) |>
     purrr::walk(\(.x) {
@@ -163,8 +165,7 @@ if (length(last_week_in_RTRs) != 0) {
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Texas_A&M_University_AGN-201_(R-023).rss 
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Texas_A&M_University_TRIGA_(R-083).rss 
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/The_Ohio_State_University_(R-075).rss 
-#> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/U.S._Geological_Survey_(R-113).rss
-#> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
+#> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/U.S._Geological_Survey_(R-113).rss 
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/University_of_California-Davis_(R-130).rss
 #> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/University_of_California-Irvine_(R-116).rss 
@@ -197,24 +198,23 @@ nrcadams::RTR_docket_codex |>
 ## ACRS
 
 ``` r
-ACRS <- nrcadams::search_ACRS(days_back = 14)
-#> Searching with the following URL:
-#>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_all:!(!(AuthorAffiliation,starts,NRC/ACRS,''),!(PublishDatePARS,gt,'12/22/2025',''))))&qn=New&tab=advanced-search-pars&z=0 
-#> : 0.215 sec elapsed
-#> 
-#>  This search returned: 0 files.
-#> Warning in nrcadams::search_advanced(search_field = "properties_search_all:!(!(AuthorAffiliation,starts,NRC/ACRS,''),", : 
-#> The search return no results.
+ACRS <- nrcadams::search_values(
+  days_back = 30,
+  author_affiliation = "NRC/ACRS",
+  results_tag = "ACRS"
+  )
 
 if (length(ACRS) != 0) {
   ACRS |>
     nrcadams::write_rss(
       file = here::here("docs", "RSS", paste0(
         "ACRS", ".rss")
-        ),
+      ),
       title = "ACRS"
-      )  
+    )
 }
+#> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
+#> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/ACRS.rss
 
 tibble::tibble(Project = "ACRS") |>
   dplyr::mutate(`RSS File` = paste0(
@@ -236,89 +236,81 @@ also tagged with a docket number associated with that company.
 
 toobigtotrack <- c("Holtec", "GE", "Westinghouse")
 
-burning_ears = nrcadams::docket_codex |>
+date <- nrcadams:::process_dates(days_back = 14)
+
+burning_ears <- nrcadams::docket_codex |>
   dplyr::filter(!Company %in% toobigtotrack) |>
   dplyr::distinct(Company) |>
   dplyr::pull(Company) |>
   purrr::map_dfr(\(.x) {
-    nrcadams::search_undocketed(.x, days_back = 14) 
-    }
-  )
-#> Searching with the following URL:
-#>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902088',''),!(DocketNumber,not,'05000610',''),!(PublishDatePARS,gt,'12/22/2025','')),single_content_search:'ACU'))&qn=New&tab=content-search-pars&z=0 
-#> : 0.418 sec elapsed
-#> 
-#>  This search returned: 1 files.
-#> Searching with the following URL:
-#>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'05000608',''),!(DocketNumber,not,'99902115',''),!(PublishDatePARS,gt,'12/22/2025','')),single_content_search:'SHINE+Medical+Technologies'))&qn=New&tab=content-search-pars&z=0 
-#> : 0.369 sec elapsed
-#> 
-#>  This search returned: 0 files.
-#> Warning in nrcadams::search_undocketed(.x, days_back = 14): 
+    antidocket <- nrcadams::docket_codex |>
+      dplyr::filter(Company  == .x) |>
+      dplyr::mutate(DocketNumber = -DocketNumber) |>
+      dplyr::pull(DocketNumber)
+
+    nrcadams::search_public_ADAMS(
+      search_term = .x,
+      DocketNumber = antidocket,
+      start_date = date$start,
+      results_tag = .x
+    )
+  })
+#> Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =
+#> antidocket, : Negative docket numbers detected. These will be used to
+#> excludedocuments from the search results.
+#> Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =
+#> antidocket, : Negative docket numbers detected. These will be used to
+#> excludedocuments from the search results.
+#> Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =
+#> antidocket, : Negative docket numbers detected. These will be used to
+#> excludedocuments from the search results.
+#> Warning: There was 1 warning in `dplyr::mutate()`.
+#> ℹ In argument: `DocketNumber = as.double(DocketNumber)`.
+#> Caused by warning:
+#> ! NAs introduced by coercion
+#> Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =
+#> antidocket, : Negative docket numbers detected. These will be used to
+#> excludedocuments from the search results.
+#> Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =
+#> antidocket, : Negative docket numbers detected. These will be used to
+#> excludedocuments from the search results.
+#> Warning: Unknown or uninitialised column: `DocumentTitle`.
+#> Warning in nrcadams:::decode_resp(resp): 
 #> The search return no results.
-#> Searching with the following URL:
-#>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902071',''),!(DocketNumber,not,'07007027',''),!(DocketNumber,not,'99902117',''),!(PublishDatePARS,gt,'12/22/2025','')),single_content_search:'X-Energy'))&qn=New&tab=content-search-pars&z=0 
-#> : 0.385 sec elapsed
-#> 
-#>  This search returned: 5 files.
-#> Searching with the following URL:
-#>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902100',''),!(DocketNumber,not,'05000613',''),!(DocketNumber,not,'99902150',''),!(PublishDatePARS,gt,'12/22/2025','')),single_content_search:'TerraPower'))&qn=New&tab=content-search-pars&z=0 
-#> : 0.371 sec elapsed
-#> 
-#>  This search returned: 2 files.
-#> Searching with the following URL:
-#>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902094',''),!(PublishDatePARS,gt,'12/22/2025','')),single_content_search:'UCUI'))&qn=New&tab=content-search-pars&z=0 
-#> : 0.331 sec elapsed
-#> 
-#>  This search returned: 0 files.
-#> Warning in nrcadams::search_undocketed(.x, days_back = 14): 
+#> Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =
+#> antidocket, : Negative docket numbers detected. These will be used to
+#> excludedocuments from the search results.
+#> Warning: There was 1 warning in `dplyr::mutate()`.
+#> ℹ In argument: `DocketNumber = as.double(DocketNumber)`.
+#> Caused by warning:
+#> ! NAs introduced by coercion
+#> Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =
+#> antidocket, : Negative docket numbers detected. These will be used to
+#> excludedocuments from the search results.
+#> Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =
+#> antidocket, : Negative docket numbers detected. These will be used to
+#> excludedocuments from the search results.
+#> Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =
+#> antidocket, : Negative docket numbers detected. These will be used to
+#> excludedocuments from the search results.
+#> Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =
+#> antidocket, : Negative docket numbers detected. These will be used to
+#> excludedocuments from the search results.
+#> Warning: Unknown or uninitialised column: `DocumentTitle`.
+#> Warning in nrcadams:::decode_resp(resp): 
 #> The search return no results.
-#> Searching with the following URL:
-#>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902076',''),!(PublishDatePARS,gt,'12/22/2025','')),single_content_search:'Terrestrial+Energy'))&qn=New&tab=content-search-pars&z=0 
-#> : 0.402 sec elapsed
-#> 
-#>  This search returned: 13 files.
-#> Searching with the following URL:
-#>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'05200048',''),!(DocketNumber,not,'99902078',''),!(DocketNumber,not,'05200050',''),!(DocketNumber,not,'99902052',''),!(PublishDatePARS,gt,'12/22/2025','')),single_content_search:'NuScale'))&qn=New&tab=content-search-pars&z=0 
-#> : 0.389 sec elapsed
-#> 
-#>  This search returned: 3 files.
-#> Searching with the following URL:
-#>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902069',''),!(DocketNumber,not,'05007513',''),!(DocketNumber,not,'05000611',''),!(DocketNumber,not,'05000612',''),!(PublishDatePARS,gt,'12/22/2025','')),single_content_search:'Kairos+Power'))&qn=New&tab=content-search-pars&z=0 
-#> : 0.408 sec elapsed
-#> 
-#>  This search returned: 2 files.
-#> Searching with the following URL:
-#>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902095',''),!(DocketNumber,not,'99902101',''),!(DocketNumber,not,'05200049',''),!(PublishDatePARS,gt,'12/22/2025','')),single_content_search:'Oklo'))&qn=New&tab=content-search-pars&z=0 
-#> : 0.382 sec elapsed
-#> 
-#>  This search returned: 2 files.
-#> Searching with the following URL:
-#>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902128',''),!(PublishDatePARS,gt,'12/22/2025','')),single_content_search:'Aalo'))&qn=New&tab=content-search-pars&z=0 
-#> : 0.342 sec elapsed
-#> 
-#>  This search returned: 0 files.
-#> Warning in nrcadams::search_undocketed(.x, days_back = 14): 
+#> Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =
+#> antidocket, : Negative docket numbers detected. These will be used to
+#> excludedocuments from the search results.
+#> Warning: Unknown or uninitialised column: `DocumentTitle`.
+#> Warning in nrcadams:::decode_resp(resp): 
 #> The search return no results.
-#> Searching with the following URL:
-#>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902136',''),!(PublishDatePARS,gt,'12/22/2025','')),single_content_search:'TAMU'))&qn=New&tab=content-search-pars&z=0 
-#> : 0.34 sec elapsed
-#> 
-#>  This search returned: 0 files.
-#> Warning in nrcadams::search_undocketed(.x, days_back = 14): 
-#> The search return no results.
-#> Searching with the following URL:
-#>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902122',''),!(PublishDatePARS,gt,'12/22/2025','')),single_content_search:'Natura+Resources'))&qn=New&tab=content-search-pars&z=0 
-#> : 0.355 sec elapsed
-#> 
-#>  This search returned: 0 files.
-#> Warning in nrcadams::search_undocketed(.x, days_back = 14): 
-#> The search return no results.
-#> Searching with the following URL:
-#>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search:!(!(DocketNumber,not,'99902056',''),!(DocketNumber,not,'05000615',''),!(PublishDatePARS,gt,'12/22/2025','')),single_content_search:'TVA'))&qn=New&tab=content-search-pars&z=0 
-#> : 0.414 sec elapsed
-#> 
-#>  This search returned: 16 files.
+#> Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =
+#> antidocket, : Negative docket numbers detected. These will be used to
+#> excludedocuments from the search results.
+#> Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =
+#> antidocket, : Negative docket numbers detected. These will be used to
+#> excludedocuments from the search results.
 
 nrcadams::docket_codex |>
   dplyr::filter(!Company %in% toobigtotrack) |>
@@ -326,16 +318,20 @@ nrcadams::docket_codex |>
   dplyr::pull(Company) |>
   purrr::walk(\(.x) {
     burning_ears |>
-      dplyr::filter(Tag == .x) |>
+      dplyr::filter(tag == .x) |>
       nrcadams::write_rss(
         file = here::here("docs", "RSS", paste0(
-          .x |> stringr::str_replace_all(" ", "_")|> stringr::str_replace_all("/", "_"), ".rss")
-          ),
-        title = .x 
-        )
+          .x |>
+            stringr::str_replace_all(" ", "_") |>
+            stringr::str_replace_all("/", "_"),
+          ".rss"
+        )),
+        title = .x
+      )
   })
 #> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
-#> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/ACU.rss 
+#> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/ACU.rss
+#> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/SHINE_Medical_Technologies.rss
 #> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/X-Energy.rss
@@ -351,7 +347,8 @@ nrcadams::docket_codex |>
 #> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Oklo.rss 
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Aalo.rss 
-#> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/TAMU.rss 
+#> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/TAMU.rss
+#> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Natura_Resources.rss
 #> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/TVA.rss
@@ -365,48 +362,48 @@ nrcadams::docket_codex |>
     Company |> stringr::str_replace_all(" ", "_"),
     ".rss"
   )) |>
-  nrcadams::hyperlink_file_to_name(name_vct = `RSS File`, url_vct = `RSS File`)|>
+  nrcadams::hyperlink_file_to_name(
+    name_vct = `RSS File`,
+    url_vct = `RSS File`
+  )|>
   DT::datatable(escape = FALSE)
 ```
 
 ## NRC Source Term Codes
 
-    #> 
-    #>  This search returned: 0 files.
-    #> Warning in nrcadams::search_advanced(search_field = paste0("single_content_search:", : 
+    #> Warning: Unknown or uninitialised column: `DocumentTitle`.
+    #> Warning in nrcadams:::decode_resp(resp): 
     #> The search return no results.
-    #> 
-    #>  This search returned: 0 files.
-    #> Warning in nrcadams::search_advanced(search_field = paste0("single_content_search:", : 
+    #> Warning: Unknown or uninitialised column: `count`.
+    #> Warning in max(current_tbl$count): no non-missing arguments to max; returning
+    #> -Inf
+    #> Warning: Unknown or uninitialised column: `ML Number`.
+    #> Warning: Unknown or uninitialised column: `DocumentTitle`.
+    #> Warning in nrcadams:::decode_resp(resp): 
     #> The search return no results.
-    #> 
-    #>  This search returned: 1 files.
-    #> 
-    #>  This search returned: 0 files.
-    #> Warning in nrcadams::search_advanced(search_field = paste0("single_content_search:", : 
-    #> The search return no results.
-    #> 
-    #>  This search returned: 0 files.
-    #> Warning in nrcadams::search_advanced(search_field = paste0("single_content_search:", : 
-    #> The search return no results.
-    #> 
-    #>  This search returned: 0 files.
-    #> Warning in nrcadams::search_advanced(search_field = paste0("single_content_search:", : 
-    #> The search return no results.
-    #> 
-    #>  This search returned: 1 files.
-    #> Joining with `by = join_by(Title, `Document Date`, `Publish Date`, Type,
-    #> Affiliation, URL, `ML Number`, Tag)`
+    #> Warning: Unknown or uninitialised column: `count`.
+    #> Warning in max(current_tbl$count): no non-missing arguments to max; returning
+    #> -Inf
+    #> Warning: Unknown or uninitialised column: `ML Number`.
+    #> Joining with `by = join_by(DocketNumber, `ML Number`, Title, `Document Date`,
+    #> `Publish Date`, Type, Affiliation, URL, count, tag)`
+    #> Joining with `by = join_by(DocketNumber, `ML Number`, Title, `Document Date`,
+    #> `Publish Date`, Type, Affiliation, URL, count, tag)`
+    #> Joining with `by = join_by(DocketNumber, `ML Number`, Title, `Document Date`,
+    #> `Publish Date`, Type, Affiliation, URL, count, tag)`
+    #> Joining with `by = join_by(DocketNumber, `ML Number`, Title, `Document Date`,
+    #> `Publish Date`, Type, Affiliation, URL, count, tag)`
     #> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
     #> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
     #> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
-    #> 
-    #>  This search returned: 1 files.
     #> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
-    #> 
-    #>  This search returned: 0 files.
-    #> Warning in nrcadams::search_advanced(search_field = "properties_search_all:!(!(DocumentType,eq,%27Inspection+Manual%27,%27%27),!(AuthorAffiliation,starts,NRC/NRR,%27%27),", : 
-    #> The search return no results.
+    #> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
+    #> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
+    #> Warning: There was 1 warning in `dplyr::mutate()`.
+    #> ℹ In argument: `DocketNumber = as.double(DocketNumber)`.
+    #> Caused by warning:
+    #> ! NAs introduced by coercion
+    #> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
 
 ``` r
 code_search |>
@@ -419,7 +416,7 @@ code_search |>
   ) |>
   dplyr::add_row(
     tag = "All Codes",
-    search = "Or Gate", 
+    search = "Or Gate",
     `RSS File` = "https://mrdenman-nuclear.github.io/nrcadams/RSS/SourceTermCodes.rss"
     ) |>
   nrcadams::hyperlink_file_to_name(name_vct = `RSS File`, url_vct = `RSS File`) |>

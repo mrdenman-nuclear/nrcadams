@@ -6,14 +6,14 @@ some reports. The results presented here should be interpreted with
 these limitations.
 
 This page is updated Monday through Friday, hourly between 9AM ET and 5
-PM ET. The last update was at 2026-01-05 18:17:17.186006 ET.
+PM ET. The last update was at 2026-01-05 23:02:35.877445 ET.
 
 ## Pulling Advanced Reactor Docket Files
 
 ``` r
 combined_dockets <- nrcadams::docket_codex |>
   dplyr::pull(DocketNumber) |>
-  nrcadams::search_docket(rest_api = TRUE) |>
+  nrcadams::search_docket() |>
   nrcadams::hyperlink_file_to_name() |>
   dplyr::left_join(nrcadams::docket_codex) |>
   dplyr::select(-c(Company, DocketNumber, `ML Number`)) |>
@@ -346,8 +346,8 @@ smoothed_grouped_dockets |>
 
 This section is updated once a day and presents the Topical Reports,
 Technical Reports, Environmental Reports, and Safety Evaluations
-available on new reactor dockets. The last update was at 2026-01-05
-23:18:23.550039. The following dockets are searched:
+available on new reactor dockets. The last update was at 2026-01-06
+04:03:51.986367. The following dockets are searched:
 
 - MSRR Pre-Application
 - MSRR Part 50
@@ -356,6 +356,7 @@ available on new reactor dockets. The last update was at 2026-01-05
 - Xe-100 Pre-Application
 - TRISO-X Fab. Part 70
 - Long Mott Pre-Application
+- Long Mott Part 50
 - AP300
 - Natrium Pre-Application
 - Natrium Part 50

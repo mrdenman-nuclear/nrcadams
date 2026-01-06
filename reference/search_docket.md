@@ -12,10 +12,10 @@ search_docket(
   start_date = NA,
   end_date = NA,
   document_type = NA,
-  rest_api = FALSE,
-  skip_dbl = 0,
+  skip_int = 0,
   max_returns = 1e+06,
-  verbosity = 0
+  verbosity = 0,
+  adams_key = Sys.getenv("ADAMS")
 )
 ```
 
@@ -55,53 +55,19 @@ search_docket(
 
   chr: Type of ADAMS document, currently unsupported
 
-- rest_api:
-
-  logical: If TRUE, use the REST API to conduct the search.
-
 - max_returns:
 
   dbl: Maximum number of returns to pull when using REST API.
 
 - verbosity:
 
-  dbl: Level of verbosity for REST API requests.
+  dbl: Level of verbosity for REST API requests. Integer 0-3, with 0
+  being silent and 3 being most verbose.
 
-- skip_dbl::
+- skip_int::
 
   Number of records to skip in the search.
 
 ## Value
 
 tibble of search results
-
-## Examples
-
-``` r
-  nrcadams::docket_codex |>
-    dplyr::filter(Company == "ACU") |>
-    dplyr::pull(DocketNumber) |>
-    nrcadams::search_docket()
-#> Searching with the following URL:
-#>  https://adams.nrc.gov/wba/services/search/advanced/nrc?q=(mode:sections,sections:(filters:(public-library:!t),properties_search_any:!(!(DocketNumber,eq,'99902088',''),!(DocketNumber,eq,'05000610',''))))&qn=New&tab=advanced-search-pars&z=0 
-#> : 1.146 sec elapsed
-#> 
-#>  This search returned: 228 files.
-#> # A tibble: 228 × 8
-#> Warning: unknown timezone 'EDT'
-#> Warning: unknown timezone 'EDT'
-#>    Title             `Document Date` `Publish Date`      Type  Affiliation URL  
-#>    <chr>             <date>          <dttm>              <chr> <chr>       <chr>
-#>  1 Hadron Energy, I… 2025-10-14      2025-10-22 08:08:00 Lett… Hadron Ene… "htt…
-#>  2 Hadron Energy, I… 2025-09-19      2025-09-29 08:06:00 Lett… Hadron Ene… "htt…
-#>  3 Enclosure 3: Req… 2025-09-15      2025-09-23 08:12:00 Prop… Natura Res… "htt…
-#>  4 Abilene Christia… 2025-09-15      2025-09-23 08:12:00 Lett… Abilene Ch… "htt…
-#>  5 Enclosure 2: Deg… 2025-09-15      2025-09-23 08:12:00 Repo… Abilene Ch… "htt…
-#>  6 Meeting Summary … 2025-07-24      2025-07-24 15:07:00 Meet… NRC/NRR     "htt…
-#>  7 05/28/2025 Publi… 2025-05-28      2025-05-28 09:42:00 Meet… NRC/NRR     "htt…
-#>  8 ACU MSRR Fuel Qu… 2025-05-28      2025-05-28 09:27:00 Slid… Abilene Ch… "htt…
-#>  9 Meeting Slides -… 2025-05-27      2025-05-27 12:31:00 Meet… NRC/NRR     "htt…
-#> 10 Request for With… 2025-05-13      2025-05-13 11:32:00 Lett… NRC/NRR     "htt…
-#> # ℹ 218 more rows
-#> # ℹ 2 more variables: DocketNumber <dbl>, `ML Number` <chr>
-```
