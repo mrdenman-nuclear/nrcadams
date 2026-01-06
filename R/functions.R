@@ -279,7 +279,7 @@ search_public_ADAMS <- function(
     sortDirection = 1,
     skip = skip_int
   )
-  print(body)
+  
   if (!is.na(search_term)) {
     body$q <- search_term
   }
