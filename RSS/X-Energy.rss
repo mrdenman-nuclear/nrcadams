@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Jan 2026 15:22:58 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Jan 2026 15:22:58 GMT</lastBuildDate>
+		<pubDate>Tue, 06 Jan 2026 15:55:47 GMT</pubDate>
+		<lastBuildDate>Tue, 06 Jan 2026 15:55:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TAR 2019 ICI CYCLOTRON TAR Response</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML19329A086</link>
+			<description>License-Technical Assistance Request (TAR), Reply to, Report, Technical</description>
+			<author>NRC/NMSS/DDUWP</author>
+			<pubDate>2026-01-06 14:16:00</pubDate>
+		</item>
 		<item>
 			<title>Susquehanna, Unit 2, Technical Specifications Bases, Manual</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25356A489</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25354A002</link>
 			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
 			<author>Pacific Gas and Electric Co</author>
-			<pubDate>2026-01-02 12:06:00</pubDate>
-		</item>
-		<item>
-			<title>RO AS GIVEN Catawba 2024.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24309A046</link>
-			<description>License-Operator, Part 55 Historical Related Material</description>
-			<author>NRC/RGN-III/DRSS</author>
 			<pubDate>2026-01-02 12:06:00</pubDate>
 		</item>
 	</channel>
