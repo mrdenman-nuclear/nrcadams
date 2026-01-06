@@ -79,11 +79,11 @@ it is simpler to use the `dplyr::filter` to filter on the returned results.
 nrcadams::docket_codex |>
   dplyr::filter(Company == "X-Energy") |>
   dplyr::pull(DocketNumber) |>
-  nrcadams::search_docket(days_back = 100) |>
+  nrcadams::search_docket(days_back = 30) |>
   dplyr::filter(
     !stringr::str_detect(Type, "E-Mail"),
     !stringr::str_detect(Type, "Letter")
-  )|>
+  ) |>
   dplyr::mutate(Title = paste0("<a href='", URL, "'>", Title, '</a>')) |>
   dplyr::select(-URL) |>
   DT::datatable(

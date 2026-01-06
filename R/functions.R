@@ -205,8 +205,11 @@ search_public_ADAMS <- function(
   # Create docket requests
   dockets <- list()
   antidockets <- list()
-  DocketNumber <- if (length(DocketNumber) == 0) NA
-  if (any(!is.na(DocketNumber))) {
+  if (length(DocketNumber) == 0) {
+    DocketNumber <- NA
+  }
+
+  if (!any(is.na(DocketNumber))) {
     i <- 1
     j <- 1
     for (number in DocketNumber) {
@@ -260,6 +263,10 @@ search_public_ADAMS <- function(
     )
   }
   if (length(antidockets) > 0) {
+    warning(
+      "Negative docket numbers detected. These will be used to exclude",
+      "documents from the search results."
+    )
     and_filters <- append(and_filters, antidockets)
   }
   # Pull together all requests
@@ -272,6 +279,7 @@ search_public_ADAMS <- function(
     sortDirection = 1,
     skip = skip_int
   )
+  print(body)
   if (!is.na(search_term)) {
     body$q <- search_term
   }
@@ -334,7 +342,9 @@ decode_resp <- function(resp) {
     tibble::as_tibble(clean_record(resp$document))
   }
 
-  if(resp$count != 0) {
+
+
+  if (length(tbl$DocumentTitle) > 0) {
     results <- tbl |>
       dplyr::mutate(
         dplyr::across(dplyr::where(is.list), ~ sapply(., toString)),
