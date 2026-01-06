@@ -8,20 +8,24 @@
 }
 \usage{
 search_public_ADAMS(
-  DocketNumber,
-  search_term,
-  start_date,
-  end_date,
-  skip_dbl,
-  verbosity = 0
+  search_term = NA,
+  DocketNumber = NA,
+  start_date = NA,
+  author_affiliation = NA,
+  document_type = NA,
+  results_tag = NA,
+  end_date = NA,
+  skip_int = 0,
+  verbosity = 0,
+  adams_key = Sys.getenv("ADAMS")
 )
 }
 \arguments{
-\item{DocketNumber}{dbl/vector: Docket number (or numbers)
-to be searched on ADAMS}
-
 \item{search_term}{chr: Any search term desired. Default is nothing
 (i.e., NA)}
+
+\item{DocketNumber}{dbl/vector: Docket number (or numbers)
+to be searched on ADAMS}
 
 \item{start_date}{chr: The earliest date (ymd) search results should
 be returned. Cannot be used with days_back.}
@@ -31,9 +35,7 @@ returned. Cannot be used with days_back.}
 
 \item{verbosity}{dbl: Level of verbosity for REST API requests.}
 
-\item{rest_api}{logical: If TRUE, use the REST API to conduct the search.}
-
-\item{skip_dbl:}{Number of records to skip in the search.}
+\item{skip_int:}{Number of records to skip in the search.}
 }
 \value{
 tibble of search results

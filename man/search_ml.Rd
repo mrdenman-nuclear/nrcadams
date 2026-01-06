@@ -7,7 +7,7 @@
 \url{https://adams-search.nrc.gov/assets/APS-API-Guide.pdf}
 }
 \usage{
-search_ml(ML_number)
+search_ml(ML_number, adams_key = Sys.getenv("ADAMS"))
 }
 \arguments{
 \item{ML_number}{chr/vector: ML number (or numbers) to be searched on ADAMS.

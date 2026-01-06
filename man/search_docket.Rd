@@ -16,10 +16,10 @@ search_docket(
   start_date = NA,
   end_date = NA,
   document_type = NA,
-  rest_api = FALSE,
-  skip_dbl = 0,
+  skip_int = 0,
   max_returns = 1e+06,
-  verbosity = 0
+  verbosity = 0,
+  adams_key = Sys.getenv("ADAMS")
 )
 }
 \arguments{
@@ -41,24 +41,17 @@ returned. Cannot be used with days_back.}
 
 \item{document_type}{chr: Type of ADAMS document, currently unsupported}
 
-\item{rest_api}{logical: If TRUE, use the REST API to conduct the search.}
-
 \item{max_returns}{dbl: Maximum number of returns to pull when using REST
 API.}
 
-\item{verbosity}{dbl: Level of verbosity for REST API requests.}
+\item{verbosity}{dbl: Level of verbosity for REST API requests. Integer 0-3,
+with 0 being silent and 3 being most verbose.}
 
-\item{skip_dbl:}{Number of records to skip in the search.}
+\item{skip_int:}{Number of records to skip in the search.}
 }
 \value{
 tibble of search results
 }
 \description{
 Conduct ADAMS Search on Docket Numbers
-}
-\examples{
-  nrcadams::docket_codex |>
-    dplyr::filter(Company == "ACU") |>
-    dplyr::pull(DocketNumber) |>
-    nrcadams::search_docket()
 }

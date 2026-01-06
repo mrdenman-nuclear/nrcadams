@@ -41,11 +41,11 @@ simplify_type = function(search_tbl, type_vct = Type) {
 #' @export
 #'
 remove_noisy_files = function(
-    search_tbl,
-    target_chr,
-    type_vct = Type,
-    title_vct = Title
-    ) {
+  search_tbl,
+  target_chr,
+  type_vct = Type,
+  title_vct = Title
+  ) {
   search_tbl |>
     dplyr::filter(stringr::str_detect({{type_vct}}, target_chr)) |>
     nrcadams::simplify_type({{type_vct}}) |>
