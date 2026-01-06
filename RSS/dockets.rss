@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Jan 2026 04:04:08 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Jan 2026 04:04:08 GMT</lastBuildDate>
+		<pubDate>Tue, 06 Jan 2026 14:22:23 GMT</pubDate>
+		<lastBuildDate>Tue, 06 Jan 2026 14:22:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>San Antonio Bay Estuarine Waterkeeper's Reply in support of Motion to Amend Contention 4 Based on ER Supplement 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26005A251</link>
+			<description>Legal-Motion</description>
+			<author>Perales, Allmon and Ice, P.C., San Antonio Bay Estuarine Waterkeeper</author>
+			<pubDate>2026-01-06 12:09:00</pubDate>
+		</item>
 		<item>
 			<title>01/15/2026 Follow-up Meeting with SMR (Holtec) to Discuss the SMR-300 I&C Architecture Licensing Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26005A246</link>
@@ -213,13 +220,6 @@
 			<description>Letter</description>
 			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
 			<pubDate>2025-12-29 18:43:00</pubDate>
-		</item>
-		<item>
-			<title>Notice of Appearance of David E. Roth</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25363A107</link>
-			<description>Legal-Correspondence/Miscellaneous</description>
-			<author>NRC/OGC</author>
-			<pubDate>2025-12-29 17:19:00</pubDate>
 		</item>
 	</channel>
 </rss>

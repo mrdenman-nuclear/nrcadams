@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Jan 2026 04:04:13 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Jan 2026 04:04:13 GMT</lastBuildDate>
+		<pubDate>Tue, 06 Jan 2026 14:22:28 GMT</pubDate>
+		<lastBuildDate>Tue, 06 Jan 2026 14:22:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Watts Bar Nuclear Plant, Unit 2 - One-Time Exemption from the Requirement of 10 CFR 54.17(c) (EPID L-2025-LLE-0024) - Exemption</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25332A068</link>
+			<description>Exemption from NRC Requirements</description>
+			<author>NRC/NRR/DORL</author>
+			<pubDate>2026-01-06 12:08:00</pubDate>
+		</item>
+		<item>
+			<title>Final Safety Evaluation for Topical Report regarding the Quality Assurance Program for Energy Northwest New Nuclear Revision 2 (EPID: L-2024-TOP-0037)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25268A057</link>
+			<description>Letter, Safety Evaluation</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2026-01-06 12:08:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 2: Duke Energy Carolinas, LLC, Belews Creek, NC Site, Early Site Permit Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25364A006</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25336A118</link>
 			<description>Meeting Summary</description>
 			<author>NRC/NRR/DORL/LPLII-2</author>
-			<pubDate>2025-12-29 12:24:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3, Boiling Water Reactor Vessel Internals Project (BWRVIP) - Notification of Deviation from BWRVIP-190, Revision 2, BWR Water Chemistry Guidelines - Mandatory, Needed, and Good Practice Guidance</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25352A033</link>
-			<description>Letter</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2025-12-29 12:24:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3, Boiling Water Reactor Vessel Internals Project (BWRVIP) - Notification of Deviation from BWRVIP-190, Revision 2, BWR Water Chemistry Guidelines - Mandatory, Needed, and Good Practice Guidance</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25352A033</link>
-			<description>Letter</description>
-			<author>Tennessee Valley Authority</author>
 			<pubDate>2025-12-29 12:24:00</pubDate>
 		</item>
 	</channel>
