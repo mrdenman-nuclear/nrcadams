@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 07 Jan 2026 19:20:42 GMT</pubDate>
-		<lastBuildDate>Wed, 07 Jan 2026 19:20:42 GMT</lastBuildDate>
+		<pubDate>Wed, 07 Jan 2026 20:22:05 GMT</pubDate>
+		<lastBuildDate>Wed, 07 Jan 2026 20:22:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>St. Lucie, Unit 1, Corrected Amendment 33 to the Updated Final Safety Analysis Report, Chapter 6, Engineered Safety Features</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25363A123</link>
+			<description>Updated Final Safety Analysis Report (UFSAR)</description>
+			<author>Florida Power and Light Co</author>
+			<pubDate>2026-01-07 18:47:00</pubDate>
+		</item>
+		<item>
+			<title>St. Lucie, Unit 1, Corrected Amendment 33 to the Updated Final Safety Analysis Report, Chapter 12, Radiation Protection</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25363A137</link>
+			<description>Updated Final Safety Analysis Report (UFSAR)</description>
+			<author>Florida Power and Light Co</author>
+			<pubDate>2026-01-07 18:47:00</pubDate>
+		</item>
+		<item>
+			<title>St. Lucie, Unit 1, Corrected Amendment 33 to the Updated Final Safety Analysis Report, Chapter 9, Auxiliary Systems</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25363A130</link>
+			<description>Updated Final Safety Analysis Report (UFSAR)</description>
+			<author>Florida Power and Light Co</author>
+			<pubDate>2026-01-07 18:47:00</pubDate>
+		</item>
 		<item>
 			<title>St. Lucie, Unit 1 - Updated Final Safety Analysis Report, Amendment No. 33 - Chapter 12, Radiation Protection</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24291A211</link>
@@ -198,27 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24005A103</link>
 			<description>License-Operator, Part 55 Examination Related Material</description>
 			<author>NRC/RGN-II</author>
-			<pubDate>2026-01-05 12:24:00</pubDate>
-		</item>
-		<item>
-			<title>Hatch 2023-301 RO Written</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24005A103</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/RGN-II</author>
-			<pubDate>2026-01-05 12:24:00</pubDate>
-		</item>
-		<item>
-			<title>Catawba, Units 1 and 2, and McGuire, Units 1 and 2 - Revision 2 of DPC-NE-3001-P, "Multidimensional Reactor Transients and Safety Analysis Physics Parameters Methodology"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25356A517</link>
-			<description>Letter, Report, Technical</description>
-			<author>Duke Energy Carolinas, LLC</author>
-			<pubDate>2026-01-05 12:24:00</pubDate>
-		</item>
-		<item>
-			<title>Catawba, Units 1 and 2, and McGuire, Units 1 and 2 - Revision 2 of DPC-NE-3001-P, "Multidimensional Reactor Transients and Safety Analysis Physics Parameters Methodology"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25356A517</link>
-			<description>Letter, Report, Technical</description>
-			<author>Duke Energy Carolinas, LLC</author>
 			<pubDate>2026-01-05 12:24:00</pubDate>
 		</item>
 	</channel>

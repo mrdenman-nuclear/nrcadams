@@ -2,7 +2,7 @@
 
 This page is updated Monday through Friday, hourly between 9AM ET and 5
 PM ET. It presents RSS files for the various dockets tracked by the
-`nrcadams` package. The last update was at 2026-01-07 14:20:37.619512
+`nrcadams` package. The last update was at 2026-01-07 15:21:59.777294
 ET.
 
 ## Using the RSS Feeds
@@ -31,7 +31,7 @@ last_week_in_dockets = nrcadams::docket_codex |>
   dplyr::left_join(nrcadams::docket_codex) |>
   dplyr::filter(!is.na(Project))
 #> 
-#>  This search returned: 43 files.
+#>  This search returned: 44 files.
 #> Joining with `by = join_by(DocketNumber)`
 
 
@@ -75,7 +75,8 @@ nrcadams::docket_codex |>
 #> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/NuScale_77_MWe_Pre-Application.rss 
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/NuScale_77_MWe_Part_52.rss 
-#> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Carbon_Free_Power_Project.rss 
+#> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Carbon_Free_Power_Project.rss
+#> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/KP_Pre-Application.rss 
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Hermes_Part_50.rss 
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Hermes_2_Part_50.rss 
