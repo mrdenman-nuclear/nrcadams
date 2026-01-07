@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 07 Jan 2026 18:28:19 GMT</pubDate>
-		<lastBuildDate>Wed, 07 Jan 2026 18:28:19 GMT</lastBuildDate>
+		<pubDate>Wed, 07 Jan 2026 19:20:42 GMT</pubDate>
+		<lastBuildDate>Wed, 07 Jan 2026 19:20:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>St. Lucie, Unit 1 - Updated Final Safety Analysis Report, Amendment No. 33 - Chapter 12, Radiation Protection</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24291A211</link>
+			<description>Updated Final Safety Analysis Report (UFSAR)</description>
+			<author>Florida Power and Light Co</author>
+			<pubDate>2026-01-07 17:35:00</pubDate>
+		</item>
+		<item>
+			<title>St. Lucie, Unit 1 - Updated Final Safety Analysis Report, Amendment No. 33 - Chapter 9, Auxiliary Systems</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24291A214</link>
+			<description>Updated Final Safety Analysis Report (UFSAR)</description>
+			<author>Florida Power and Light Co</author>
+			<pubDate>2026-01-07 17:33:00</pubDate>
+		</item>
+		<item>
+			<title>St. Lucie, Unit 1 - Updated Final Safety Analysis Report, Amendment No. 33 - Chapter 6, Engineered Safety Features</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24291A197</link>
+			<description>Updated Final Safety Analysis Report (UFSAR)</description>
+			<author>Florida Power and Light Co</author>
+			<pubDate>2026-01-07 17:32:00</pubDate>
+		</item>
 		<item>
 			<title>LER 2025-002-00 for Shearon Harris Nuclear Power Plant, Unit 1, Incorrect Current Value Used During Power Range Nuclear Instrument Calibration</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25363A104</link>
@@ -198,27 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25356A517</link>
 			<description>Letter, Report, Technical</description>
 			<author>Duke Energy Carolinas, LLC</author>
-			<pubDate>2026-01-05 12:24:00</pubDate>
-		</item>
-		<item>
-			<title>Catawba, Units 1 and 2, and McGuire, Units 1 and 2 - Revision 2 of DPC-NE-3001-P, "Multidimensional Reactor Transients and Safety Analysis Physics Parameters Methodology"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25356A517</link>
-			<description>Letter, Report, Technical</description>
-			<author>Duke Energy Carolinas, LLC</author>
-			<pubDate>2026-01-05 12:24:00</pubDate>
-		</item>
-		<item>
-			<title>Catawba, Units 1 and 2, and McGuire, Units 1 and 2 - Revision 2 of DPC-NE-3001-P, "Multidimensional Reactor Transients and Safety Analysis Physics Parameters Methodology"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25356A517</link>
-			<description>Letter, Report, Technical</description>
-			<author>Duke Energy Carolinas, LLC</author>
-			<pubDate>2026-01-05 12:24:00</pubDate>
-		</item>
-		<item>
-			<title>Edwin I. Hatch Nuclear Plant, Units 1 and 2, Supplement 1 to Application for Subsequent Renewal of Operating Licenses</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25356A513</link>
-			<description>License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>Southern Nuclear Operating Co, Inc</author>
 			<pubDate>2026-01-05 12:24:00</pubDate>
 		</item>
 	</channel>
