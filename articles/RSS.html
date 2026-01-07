@@ -73,8 +73,8 @@
     
 <p>This page is updated Monday through Friday, hourly between 9AM ET and
 5 PM ET. It presents RSS files for the various dockets tracked by the
-<code>nrcadams</code> package. The last update was at 2026-01-06
-18:19:29.687278 ET.</p>
+<code>nrcadams</code> package. The last update was at 2026-01-07
+09:21:49.34542 ET.</p>
 <div class="section level2">
 <h2 id="using-the-rss-feeds">Using the RSS Feeds<a class="anchor" aria-label="anchor" href="#using-the-rss-feeds"></a>
 </h2>
@@ -102,7 +102,7 @@ located at the URLs shown in the table below.</p>
 <span>  <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/mutate-joins.html" class="external-link">left_join</a></span><span class="op">(</span><span class="fu">nrcadams</span><span class="fu">::</span><span class="va"><a href="../reference/docket_codex.html">docket_codex</a></span><span class="op">)</span> <span class="op">|&gt;</span></span>
 <span>  <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/filter.html" class="external-link">filter</a></span><span class="op">(</span><span class="op">!</span><span class="fu"><a href="https://rdrr.io/r/base/NA.html" class="external-link">is.na</a></span><span class="op">(</span><span class="va">Project</span><span class="op">)</span><span class="op">)</span></span>
 <span><span class="co">#&gt; </span></span>
-<span><span class="co">#&gt;  This search returned: 45 files.</span></span>
+<span><span class="co">#&gt;  This search returned: 43 files.</span></span>
 <span><span class="co">#&gt; Joining with `by = join_by(DocketNumber)`</span></span>
 <span></span>
 <span></span>
@@ -146,8 +146,7 @@ located at the URLs shown in the table below.</p>
 <span><span class="co">#&gt; Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'</span></span>
 <span><span class="co">#&gt; RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/NuScale_77_MWe_Pre-Application.rss </span></span>
 <span><span class="co">#&gt; RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/NuScale_77_MWe_Part_52.rss </span></span>
-<span><span class="co">#&gt; RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Carbon_Free_Power_Project.rss</span></span>
-<span><span class="co">#&gt; Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'</span></span>
+<span><span class="co">#&gt; RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Carbon_Free_Power_Project.rss </span></span>
 <span><span class="co">#&gt; RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/KP_Pre-Application.rss </span></span>
 <span><span class="co">#&gt; RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Hermes_Part_50.rss </span></span>
 <span><span class="co">#&gt; RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Hermes_2_Part_50.rss </span></span>
@@ -195,7 +194,7 @@ particular), these RSS files might help.</p>
 <span>  <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/pull.html" class="external-link">pull</a></span><span class="op">(</span><span class="va">DocketNumber</span><span class="op">)</span> <span class="op">|&gt;</span></span>
 <span>  <span class="fu">nrcadams</span><span class="fu">::</span><span class="fu"><a href="../reference/search_docket.html">search_docket</a></span><span class="op">(</span>days_back <span class="op">=</span> <span class="fl">14</span><span class="op">)</span></span>
 <span><span class="co">#&gt; </span></span>
-<span><span class="co">#&gt;  This search returned: 12 files.</span></span>
+<span><span class="co">#&gt;  This search returned: 10 files.</span></span>
 <span></span>
 <span><span class="kw">if</span> <span class="op">(</span><span class="fu"><a href="https://rdrr.io/r/base/length.html" class="external-link">length</a></span><span class="op">(</span><span class="va">last_week_in_RTRs</span><span class="op">)</span> <span class="op">!=</span> <span class="fl">0</span><span class="op">)</span> <span class="op">{</span></span>
 <span>  <span class="va">last_week_in_RTRs</span> <span class="op">&lt;-</span> <span class="va">last_week_in_RTRs</span> <span class="op">|&gt;</span></span>
@@ -339,10 +338,6 @@ also tagged with a docket number associated with that company.</p>
 <span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =</span></span>
 <span><span class="co">#&gt; antidocket, : Negative docket numbers detected. These will be used to</span></span>
 <span><span class="co">#&gt; excludedocuments from the search results.</span></span>
-<span><span class="co">#&gt; Warning: There was 1 warning in `dplyr::mutate()`.</span></span>
-<span><span class="co">#&gt; <span style="color: #00BBBB;">ℹ</span> In argument: `DocketNumber = as.double(DocketNumber)`.</span></span>
-<span><span class="co">#&gt; Caused by warning:</span></span>
-<span><span class="co">#&gt; <span style="color: #BBBB00;">!</span> NAs introduced by coercion</span></span>
 <span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =</span></span>
 <span><span class="co">#&gt; antidocket, : Negative docket numbers detected. These will be used to</span></span>
 <span><span class="co">#&gt; excludedocuments from the search results.</span></span>
@@ -355,10 +350,6 @@ also tagged with a docket number associated with that company.</p>
 <span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =</span></span>
 <span><span class="co">#&gt; antidocket, : Negative docket numbers detected. These will be used to</span></span>
 <span><span class="co">#&gt; excludedocuments from the search results.</span></span>
-<span><span class="co">#&gt; Warning: There was 1 warning in `dplyr::mutate()`.</span></span>
-<span><span class="co">#&gt; <span style="color: #00BBBB;">ℹ</span> In argument: `DocketNumber = as.double(DocketNumber)`.</span></span>
-<span><span class="co">#&gt; Caused by warning:</span></span>
-<span><span class="co">#&gt; <span style="color: #BBBB00;">!</span> NAs introduced by coercion</span></span>
 <span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =</span></span>
 <span><span class="co">#&gt; antidocket, : Negative docket numbers detected. These will be used to</span></span>
 <span><span class="co">#&gt; excludedocuments from the search results.</span></span>

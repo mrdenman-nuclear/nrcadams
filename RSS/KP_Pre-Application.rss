@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Jan 2026 23:19:30 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Jan 2026 23:19:30 GMT</lastBuildDate>
+		<pubDate>Wed, 07 Jan 2026 14:21:49 GMT</pubDate>
+		<lastBuildDate>Wed, 07 Jan 2026 14:21:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>NRC Form 896 -A Topical Report Verification</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25329A340</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-12-23 11:59:00</pubDate>
-		</item>
-		<item>
-			<title>Email transmitting Form 896 -A TR Verification</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25329A343</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2025-12-23 11:59:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

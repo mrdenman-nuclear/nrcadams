@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Jan 2026 23:19:35 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Jan 2026 23:19:35 GMT</lastBuildDate>
+		<pubDate>Wed, 07 Jan 2026 14:21:53 GMT</pubDate>
+		<lastBuildDate>Wed, 07 Jan 2026 14:21:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SNC to FWS, Request for Concurrence and Biological Assessment</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26006A164</link>
+			<description>Letter, Report, Technical</description>
+			<author>Southern Nuclear Operating Co, Inc</author>
+			<pubDate>2026-01-07 12:07:00</pubDate>
+		</item>
+		<item>
+			<title>SNC to FWS, Request for Concurrence and Biological Assessment</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26006A164</link>
+			<description>Letter, Report, Technical</description>
+			<author>Southern Nuclear Operating Co, Inc</author>
+			<pubDate>2026-01-07 12:07:00</pubDate>
+		</item>
 		<item>
 			<title>WWC to FWS, Request for Concurrence and Biological Assessment</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26006A054</link>
@@ -45,41 +59,6 @@
 			<description>Audit Plan, Letter</description>
 			<author>NRC/NMSS/DREFS/EPMB1</author>
 			<pubDate>2026-01-02 20:17:00</pubDate>
-		</item>
-		<item>
-			<title>NEI 22-01, Rev. 2, "License Termination Process"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25258A229</link>
-			<description>Report, Technical</description>
-			<author>Nuclear Energy Institute (NEI)</author>
-			<pubDate>2025-12-23 18:39:00</pubDate>
-		</item>
-		<item>
-			<title>NEI 22-01, Rev. 2, "License Termination Process" (Redline)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25258A230</link>
-			<description>Report, Technical</description>
-			<author>Nuclear Energy Institute (NEI)</author>
-			<pubDate>2025-12-23 18:39:00</pubDate>
-		</item>
-		<item>
-			<title>U.S. Department of Energy - Performance Assessment for the Idaho CERCLA Disposal Facility Landfill</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25156A193</link>
-			<description>Technical Paper</description>
-			<author>US Dept of Energy, Idaho Cleanup Project</author>
-			<pubDate>2025-12-23 14:04:00</pubDate>
-		</item>
-		<item>
-			<title>U.S. Department of Energy Performance Assessment for the Idaho National Laboratory Remote-Handled Low-Level Waste Disposal Facility</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25156A200</link>
-			<description>Technical Paper</description>
-			<author>US Dept of Energy, Idaho Operations Office</author>
-			<pubDate>2025-12-23 14:04:00</pubDate>
-		</item>
-		<item>
-			<title>U.S Department of Energy Groundwater Pathway Dose Assessment Calculations for the CSSF Performance Assessment at Idaho National Laboratory</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25160A025</link>
-			<description>Technical Paper</description>
-			<author>Fluor Idaho, LLC, US Dept of Energy, Idaho Cleanup Project</author>
-			<pubDate>2025-12-23 14:04:00</pubDate>
 		</item>
 	</channel>
 </rss>

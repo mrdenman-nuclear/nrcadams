@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Jan 2026 23:19:35 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Jan 2026 23:19:35 GMT</lastBuildDate>
+		<pubDate>Wed, 07 Jan 2026 14:21:53 GMT</pubDate>
+		<lastBuildDate>Wed, 07 Jan 2026 14:21:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>LER 2025-002-00 for Shearon Harris Nuclear Power Plant, Unit 1, Incorrect Current Value Used During Power Range Nuclear Instrument Calibration</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25363A104</link>
+			<description>Letter, Licensee Event Report (LER)</description>
+			<author>Duke Energy Progress, LLC</author>
+			<pubDate>2026-01-07 12:07:00</pubDate>
+		</item>
+		<item>
+			<title>LER 2025-002-00 for Comanche Peak Nuclear Power Plant, Unit 1, Pressure Transmitter Inoperable for a Duration Prohibited by TS</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25363A171</link>
+			<description>Letter, Licensee Event Report (LER)</description>
+			<author>Luminant Generation Co, LLC, Vistra Operations Company, LLC</author>
+			<pubDate>2026-01-07 12:07:00</pubDate>
+		</item>
 		<item>
 			<title>Prohibited Securities List (2026 Update)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26006A105</link>
@@ -206,20 +220,6 @@
 			<description>License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
 			<author>Southern Nuclear Operating Co, Inc</author>
 			<pubDate>2026-01-05 12:24:00</pubDate>
-		</item>
-		<item>
-			<title>Edwin I. Hatch Nuclear Plant, Units 1 and 2, Supplement 1 to Application for Subsequent Renewal of Operating Licenses</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25356A513</link>
-			<description>License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>Southern Nuclear Operating Co, Inc</author>
-			<pubDate>2026-01-05 12:24:00</pubDate>
-		</item>
-		<item>
-			<title>Env Reg Audit Re the Proposed Reauth of Power Operations for Crane Clean Energy Center</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25364A023</link>
-			<description>Audit Plan, Letter</description>
-			<author>NRC/NMSS/DREFS/EPMB1</author>
-			<pubDate>2026-01-02 20:17:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -2,8 +2,7 @@
 
 This page is updated Monday through Friday, hourly between 9AM ET and 5
 PM ET. It presents RSS files for the various dockets tracked by the
-`nrcadams` package. The last update was at 2026-01-06 18:19:29.687278
-ET.
+`nrcadams` package. The last update was at 2026-01-07 09:21:49.34542 ET.
 
 ## Using the RSS Feeds
 
@@ -31,7 +30,7 @@ last_week_in_dockets = nrcadams::docket_codex |>
   dplyr::left_join(nrcadams::docket_codex) |>
   dplyr::filter(!is.na(Project))
 #> 
-#>  This search returned: 45 files.
+#>  This search returned: 43 files.
 #> Joining with `by = join_by(DocketNumber)`
 
 
@@ -75,8 +74,7 @@ nrcadams::docket_codex |>
 #> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/NuScale_77_MWe_Pre-Application.rss 
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/NuScale_77_MWe_Part_52.rss 
-#> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Carbon_Free_Power_Project.rss
-#> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
+#> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Carbon_Free_Power_Project.rss 
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/KP_Pre-Application.rss 
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Hermes_Part_50.rss 
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/Hermes_2_Part_50.rss 
@@ -123,7 +121,7 @@ last_week_in_RTRs <- nrcadams::RTR_docket_codex |>
   dplyr::pull(DocketNumber) |>
   nrcadams::search_docket(days_back = 14)
 #> 
-#>  This search returned: 12 files.
+#>  This search returned: 10 files.
 
 if (length(last_week_in_RTRs) != 0) {
   last_week_in_RTRs <- last_week_in_RTRs |>
@@ -264,10 +262,6 @@ burning_ears <- nrcadams::docket_codex |>
 #> Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =
 #> antidocket, : Negative docket numbers detected. These will be used to
 #> excludedocuments from the search results.
-#> Warning: There was 1 warning in `dplyr::mutate()`.
-#> ℹ In argument: `DocketNumber = as.double(DocketNumber)`.
-#> Caused by warning:
-#> ! NAs introduced by coercion
 #> Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =
 #> antidocket, : Negative docket numbers detected. These will be used to
 #> excludedocuments from the search results.
@@ -280,10 +274,6 @@ burning_ears <- nrcadams::docket_codex |>
 #> Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =
 #> antidocket, : Negative docket numbers detected. These will be used to
 #> excludedocuments from the search results.
-#> Warning: There was 1 warning in `dplyr::mutate()`.
-#> ℹ In argument: `DocketNumber = as.double(DocketNumber)`.
-#> Caused by warning:
-#> ! NAs introduced by coercion
 #> Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =
 #> antidocket, : Negative docket numbers detected. These will be used to
 #> excludedocuments from the search results.

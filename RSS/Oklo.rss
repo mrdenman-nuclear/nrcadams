@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Jan 2026 23:19:35 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Jan 2026 23:19:35 GMT</lastBuildDate>
+		<pubDate>Wed, 07 Jan 2026 14:21:53 GMT</pubDate>
+		<lastBuildDate>Wed, 07 Jan 2026 14:21:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2025-12-29 12:25:00</pubDate>
-		</item>
-		<item>
-			<title>06/25/2025 Summary of Closed Material With Oklo, Inc., to Discuss Material Control & Accounting for the Planned Reprocessing Facility License Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25231A235</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2025-12-23 12:00:00</pubDate>
 		</item>
 	</channel>
 </rss>
