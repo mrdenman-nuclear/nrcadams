@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 07 Jan 2026 21:18:17 GMT</pubDate>
-		<lastBuildDate>Wed, 07 Jan 2026 21:18:17 GMT</lastBuildDate>
+		<pubDate>Wed, 07 Jan 2026 22:18:48 GMT</pubDate>
+		<lastBuildDate>Wed, 07 Jan 2026 22:18:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>3002033918, "Risk-Informed High Energy Line Break Evaluation Requirements, Rev. 0-A"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25283A053</link>
+			<description>Report, Technical</description>
+			<author>Electric Power Research Institute (EPRI)</author>
+			<pubDate>2026-01-07 20:12:00</pubDate>
+		</item>
 		<item>
 			<title>St. Lucie, Unit 1, Corrected Amendment 33 to the Updated Final Safety Analysis Report, Chapter 6, Engineered Safety Features</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25363A123</link>
@@ -210,13 +217,6 @@
 		<item>
 			<title>Hatch 2023- 301 SRO Written</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24005A106</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/RGN-II</author>
-			<pubDate>2026-01-05 12:24:00</pubDate>
-		</item>
-		<item>
-			<title>Hatch 2023-301 RO Written</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24005A103</link>
 			<description>License-Operator, Part 55 Examination Related Material</description>
 			<author>NRC/RGN-II</author>
 			<pubDate>2026-01-05 12:24:00</pubDate>
