@@ -2,7 +2,8 @@
 
 This page is updated Monday through Friday, hourly between 9AM ET and 5
 PM ET. It presents RSS files for the various dockets tracked by the
-`nrcadams` package. The last update was at 2026-01-07 09:21:49.34542 ET.
+`nrcadams` package. The last update was at 2026-01-07 10:23:03.411045
+ET.
 
 ## Using the RSS Feeds
 
@@ -121,7 +122,7 @@ last_week_in_RTRs <- nrcadams::RTR_docket_codex |>
   dplyr::pull(DocketNumber) |>
   nrcadams::search_docket(days_back = 14)
 #> 
-#>  This search returned: 10 files.
+#>  This search returned: 11 files.
 
 if (length(last_week_in_RTRs) != 0) {
   last_week_in_RTRs <- last_week_in_RTRs |>
@@ -168,7 +169,8 @@ if (length(last_week_in_RTRs) != 0) {
 #> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/University_of_California-Irvine_(R-116).rss 
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/University_of_Florida_(R-056).rss 
-#> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/University_of_Maryland_(R-070).rss 
+#> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/University_of_Maryland_(R-070).rss
+#> Warning in as.POSIXlt.POSIXct(x, tz): unknown timezone 'EDT'
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/University_of_Massachusetts_(R-125).rss 
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/University_of_Missouri_(R-103).rss 
 #> RSS feed created at: /Users/runner/work/nrcadams/nrcadams/docs/RSS/University_of_Missouri_(R-079).rss 
