@@ -3,10 +3,10 @@ pkgdown: 2.2.0
 pkgdown_sha: ~
 articles:
   Analytics: Analytics.html
-  nrcadams: nrcadams.html
-  Real_Time: Real_Time.html
   RSS: RSS.html
-last_built: 2026-01-07T23:17Z
+  Real_Time: Real_Time.html
+  nrcadams: nrcadams.html
+last_built: 2026-01-08T17:13Z
 urls:
   reference: https://mrdenman-nuclear.github.io/nrcadams/reference
   article: https://mrdenman-nuclear.github.io/nrcadams/articles
