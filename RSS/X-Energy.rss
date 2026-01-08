@@ -5,12 +5,47 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 08 Jan 2026 20:23:43 GMT</pubDate>
-		<lastBuildDate>Thu, 08 Jan 2026 20:23:43 GMT</lastBuildDate>
+		<pubDate>Thu, 08 Jan 2026 21:21:09 GMT</pubDate>
+		<lastBuildDate>Thu, 08 Jan 2026 21:21:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>01/26/2007 Email from G.Vinson to S.Moore Re: Illinois Regulation Submittal</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML070290298</link>
+			<description>E-Mail, License-Registry of Sealed Source or Device (New/Amend/Renewal)</description>
+			<author>State of IL, Emergency Management Agency, Division of Nuclear Safety</author>
+			<pubDate>2026-01-08 20:07:00</pubDate>
+		</item>
+		<item>
+			<title>01/24/2007 Letter from R.Owen to S.W. Moore Re: Ohio's Proposed Changes to Regulations Conforming with National Source Tracking System</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML070380488</link>
+			<description>Letter</description>
+			<author>State of OH, Dept of Health, Bureau of Radiation Protection</author>
+			<pubDate>2026-01-08 20:07:00</pubDate>
+		</item>
+		<item>
+			<title>01/25/2007 Email from T. Lickerman to S. Moore Re: New York City's Regulation Submittal</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML070290581</link>
+			<description>Agreement States-Regulations Review, E-Mail, Letter</description>
+			<author>State of NY, Office of Radiological Health</author>
+			<pubDate>2026-01-08 20:07:00</pubDate>
+		</item>
+		<item>
+			<title>01/28/2008 Letter from A. Gantt to R. Lewis Re: South Carolina's Final Revisions to Submitted Regulations</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML080300391</link>
+			<description>Agreement States-Regulations Review, E-Mail, Letter</description>
+			<author>State of SC</author>
+			<pubDate>2026-01-08 20:07:00</pubDate>
+		</item>
+		<item>
+			<title>01/25/2008 Letter from D. Finerfrock to R. Lewis Re: Final Revisions of Submitted Regulations</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML080370626</link>
+			<description>Agreement States-Regulations Review, E-Mail, Letter</description>
+			<author>State of UT, Dept of Health, Bureau of Radiation Control</author>
+			<pubDate>2026-01-08 20:07:00</pubDate>
+		</item>
 		<item>
 			<title>WCAP-16996-NP, Revision 1, Supplement 3, Extension of FULL SPECTRUM LOCA (FSLOCA) Evaluation Methodology to Perform Analysis of High Burnup Fuel (Non-Proprietary)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25363A150</link>
@@ -185,41 +220,6 @@
 			<description>Letter, Request for Code Relief or Alternative</description>
 			<author>Arizona Public Service Co</author>
 			<pubDate>2026-01-06 12:08:00</pubDate>
-		</item>
-		<item>
-			<title>Susquehanna, Unit 1, Technical Specification Bases, Manual</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25356A493</link>
-			<description>Manual, Technical Specification, Bases Change</description>
-			<author>PPL Susquehanna, LLC</author>
-			<pubDate>2026-01-06 12:08:00</pubDate>
-		</item>
-		<item>
-			<title>LER 2025-001-00 for Beaver Valley Power Station, Unit 1, Condition Prohibited by Technical Specifications and Event or Condition that could have Prevented Fulfillment of a Safety Function</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25357A047</link>
-			<description>Letter, Licensee Event Report (LER)</description>
-			<author>Vistra Operations Company, LLC</author>
-			<pubDate>2026-01-06 12:08:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Duke Energy Carolinas, LLC, Belews Creek, NC Site, Early Site Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25364A006</link>
-			<description>License-Application for Early Site Permit (ESP)</description>
-			<author>Duke Energy, Duke Energy Carolinas, LLC</author>
-			<pubDate>2026-01-05 18:23:00</pubDate>
-		</item>
-		<item>
-			<title>Appendix 1A: Duke Energy - Agency Consultation Letters</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25364A008</link>
-			<description>Letter</description>
-			<author>Duke Energy, Duke Energy Carolinas, LLC</author>
-			<pubDate>2026-01-05 18:23:00</pubDate>
-		</item>
-		<item>
-			<title>Catawba Nuclear Station - Integrated Inspection Report 05000413/2025003 and 05000414/2025003</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25345A070</link>
-			<description>Inspection Report, Letter</description>
-			<author>NRC/RGN-II/DORS</author>
-			<pubDate>2026-01-05 14:53:00</pubDate>
 		</item>
 	</channel>
 </rss>
