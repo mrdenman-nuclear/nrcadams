@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 08 Jan 2026 18:25:50 GMT</pubDate>
-		<lastBuildDate>Thu, 08 Jan 2026 18:25:50 GMT</lastBuildDate>
+		<pubDate>Thu, 08 Jan 2026 19:21:10 GMT</pubDate>
+		<lastBuildDate>Thu, 08 Jan 2026 19:21:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>ACRS Full Committee and Subcommittee Structure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26008A152</link>
+			<description>ACRS Status Report</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2026-01-08 17:14:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 2: LANCR02/PANAC12 Application Methodology Licensing Topical Report, NEDO-34392, Revision 0, December 2025 - Non-Proprietary Information</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25352A192</link>
@@ -213,13 +220,6 @@
 			<description>Inspection Report, Letter</description>
 			<author>NRC/RGN-II/DORS</author>
 			<pubDate>2026-01-05 14:53:00</pubDate>
-		</item>
-		<item>
-			<title>Oconee Nuclear Station - Integrated Inspection Report 05000269/2025003, 05000270/2025003 and 05000287/2025003</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25352A078</link>
-			<description>Inspection Report, Letter</description>
-			<author>NRC/RGN-II/DORS/PB1</author>
-			<pubDate>2026-01-05 12:25:00</pubDate>
 		</item>
 	</channel>
 </rss>
