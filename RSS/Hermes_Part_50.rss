@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 08 Jan 2026 22:20:55 GMT</pubDate>
-		<lastBuildDate>Thu, 08 Jan 2026 22:20:55 GMT</lastBuildDate>
+		<pubDate>Thu, 08 Jan 2026 23:19:26 GMT</pubDate>
+		<lastBuildDate>Thu, 08 Jan 2026 23:19:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>01/21/2026 Pre-submittal Meeting with Kairos Power LLC on the Structural Building Design for Hermes 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26008A303</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2026-01-08 21:48:00</pubDate>
+		</item>
+	</channel>
 </rss>
