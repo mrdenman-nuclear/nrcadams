@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 08 Jan 2026 23:19:31 GMT</pubDate>
-		<lastBuildDate>Thu, 08 Jan 2026 23:19:31 GMT</lastBuildDate>
+		<pubDate>Fri, 09 Jan 2026 14:25:00 GMT</pubDate>
+		<lastBuildDate>Fri, 09 Jan 2026 14:25:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure IV: Exemptions</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25365A989</link>
+			<description>Exemption from NRC Requirements</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2026-01-09 12:13:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 2: Presentation Slides for First Pre-Submittal Meeting for Application of SECY 25-0074 to BWRX-300 Expedited Construction and Manufacturing of Certain Structures, Systems, and Components - Non-Proprietary Information</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26006A228</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25352A187</link>
 			<description>E-Mail</description>
 			<author>NRC</author>
-			<pubDate>2026-01-02 12:06:00</pubDate>
-		</item>
-		<item>
-			<title>EPA Comments for the Clinch River Nuclear Site Construction Permit Draft SEIS</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25357A030</link>
-			<description>E-Mail</description>
-			<author>US Environmental Protection Agency, Region 4</author>
 			<pubDate>2026-01-02 12:06:00</pubDate>
 		</item>
 	</channel>
