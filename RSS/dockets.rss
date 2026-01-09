@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 09 Jan 2026 20:23:10 GMT</pubDate>
-		<lastBuildDate>Fri, 09 Jan 2026 20:23:10 GMT</lastBuildDate>
+		<pubDate>Fri, 09 Jan 2026 21:20:58 GMT</pubDate>
+		<lastBuildDate>Fri, 09 Jan 2026 21:20:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Clinch River Project, Submittal of Audit Responses in Support of the Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25303A103</link>
+			<description>Letter</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2026-01-09 20:12:00</pubDate>
+		</item>
 		<item>
 			<title>Summary Report For The Regulatory Audit Of Kairos Power, LLC - Safety Analysis Methodology For The Kairos Power Fluoride Salt-Cooled High-Temperature Test Reactor Topical Report October 2024-July 2025 - Non-Proprietary</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25344A109</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25352A187</link>
 			<description>E-Mail</description>
 			<author>NRC</author>
-			<pubDate>2026-01-02 12:06:00</pubDate>
-		</item>
-		<item>
-			<title>2025/12/17 - Comment (1) E-mail regarding Clinch River CP Draft EIS</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25356A372</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>Public Commenter</author>
 			<pubDate>2026-01-02 12:06:00</pubDate>
 		</item>
 	</channel>
