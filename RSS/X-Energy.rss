@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 09 Jan 2026 21:21:06 GMT</pubDate>
-		<lastBuildDate>Fri, 09 Jan 2026 21:21:06 GMT</lastBuildDate>
+		<pubDate>Fri, 09 Jan 2026 22:20:40 GMT</pubDate>
+		<lastBuildDate>Fri, 09 Jan 2026 22:20:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC-CNSC Joint Report on GEH BWRX-300 SCCV and RB Structural Design Topical Report signed</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25325A075</link>
+			<description>Topical Report</description>
+			<author>Govt of Canada, Nuclear Safety Commission, NRC/NRR</author>
+			<pubDate>2026-01-09 20:12:00</pubDate>
+		</item>
 		<item>
 			<title>Duke Energy Progress, LLC - H.B. Robinson, Unit 2, Subsequent License Renewal Request for Concurrence with Endangered Species Act Determinations</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26009A050</link>
@@ -213,13 +220,6 @@
 			<description>Updated Final Safety Analysis Report (UFSAR)</description>
 			<author>Florida Power and Light Co</author>
 			<pubDate>2026-01-07 17:32:00</pubDate>
-		</item>
-		<item>
-			<title>LER 2025-002-00 for Shearon Harris Nuclear Power Plant, Unit 1, Incorrect Current Value Used During Power Range Nuclear Instrument Calibration</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25363A104</link>
-			<description>Letter, Licensee Event Report (LER)</description>
-			<author>Duke Energy Progress, LLC</author>
-			<pubDate>2026-01-07 12:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
