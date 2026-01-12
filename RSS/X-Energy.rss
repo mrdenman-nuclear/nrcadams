@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 12 Jan 2026 16:26:12 GMT</pubDate>
-		<lastBuildDate>Mon, 12 Jan 2026 16:26:12 GMT</lastBuildDate>
+		<pubDate>Mon, 12 Jan 2026 17:24:48 GMT</pubDate>
+		<lastBuildDate>Mon, 12 Jan 2026 17:24:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Transcript of the Advisory Committee on Reactor Safeguards 731st Full Committee Meeting, December 3, 2025 Pages 1-19 (Open)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26012A013</link>
+			<description>Meeting Transcript</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2026-01-12 15:13:00</pubDate>
+		</item>
+		<item>
+			<title>Transcript of the Advisory Committee on Reactor Safeguards 731st Full Committee Meeting, December 4, 2025 Pages 1-156 (Open)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26012A015</link>
+			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2026-01-12 15:13:00</pubDate>
+		</item>
 		<item>
 			<title>Salem Nuclear Generating Station, Units 1 and 2 - License Amendment Request to Add Data Validation and Reconciliation Methodology as the Primary Means of Measurement Uncertainty Recapture</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26002A031</link>
@@ -206,20 +220,6 @@
 			<description>Updated Final Safety Analysis Report (UFSAR)</description>
 			<author>Florida Power and Light Co</author>
 			<pubDate>2026-01-07 18:47:00</pubDate>
-		</item>
-		<item>
-			<title>St. Lucie, Unit 1, Corrected Amendment 33 to the Updated Final Safety Analysis Report, Chapter 9, Auxiliary Systems</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25363A130</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Florida Power and Light Co</author>
-			<pubDate>2026-01-07 18:47:00</pubDate>
-		</item>
-		<item>
-			<title>St. Lucie, Unit 1 - Updated Final Safety Analysis Report, Amendment No. 33 - Chapter 12, Radiation Protection</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24291A211</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Florida Power and Light Co</author>
-			<pubDate>2026-01-07 17:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
