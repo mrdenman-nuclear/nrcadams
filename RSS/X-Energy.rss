@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 09 Jan 2026 23:21:50 GMT</pubDate>
-		<lastBuildDate>Fri, 09 Jan 2026 23:21:50 GMT</lastBuildDate>
+		<pubDate>Mon, 12 Jan 2026 14:26:11 GMT</pubDate>
+		<lastBuildDate>Mon, 12 Jan 2026 14:26:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Salem Nuclear Generating Station, Units 1 and 2 - License Amendment Request to Add Data Validation and Reconciliation Methodology as the Primary Means of Measurement Uncertainty Recapture</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26002A031</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50, Technical Specification, Amendment</description>
+			<author>PSEG Nuclear, LLC</author>
+			<pubDate>2026-01-12 12:19:00</pubDate>
+		</item>
+		<item>
+			<title>Salem Nuclear Generating Station, Units 1 and 2 - License Amendment Request to Add Data Validation and Reconciliation Methodology as the Primary Means of Measurement Uncertainty Recapture</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26002A031</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50, Technical Specification, Amendment</description>
+			<author>PSEG Nuclear, LLC</author>
+			<pubDate>2026-01-12 12:19:00</pubDate>
+		</item>
 		<item>
 			<title>NRC-CNSC Joint Report on GEH BWRX-300 SCCV and RB Structural Design Topical Report signed</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25325A075</link>
@@ -206,20 +220,6 @@
 			<description>Updated Final Safety Analysis Report (UFSAR)</description>
 			<author>Florida Power and Light Co</author>
 			<pubDate>2026-01-07 17:35:00</pubDate>
-		</item>
-		<item>
-			<title>St. Lucie, Unit 1 - Updated Final Safety Analysis Report, Amendment No. 33 - Chapter 9, Auxiliary Systems</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24291A214</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Florida Power and Light Co</author>
-			<pubDate>2026-01-07 17:33:00</pubDate>
-		</item>
-		<item>
-			<title>St. Lucie, Unit 1 - Updated Final Safety Analysis Report, Amendment No. 33 - Chapter 6, Engineered Safety Features</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24291A197</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Florida Power and Light Co</author>
-			<pubDate>2026-01-07 17:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
