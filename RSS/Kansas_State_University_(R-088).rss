@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 12 Jan 2026 18:30:16 GMT</pubDate>
-		<lastBuildDate>Mon, 12 Jan 2026 18:30:16 GMT</lastBuildDate>
+		<pubDate>Mon, 12 Jan 2026 19:22:27 GMT</pubDate>
+		<lastBuildDate>Mon, 12 Jan 2026 19:22:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Examination Confirmation Letter No. 50-188/OL-26-01, Kansas State University</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26007A118</link>
+			<description>Letter, License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2026-01-12 16:24:00</pubDate>
+		</item>
+	</channel>
 </rss>
