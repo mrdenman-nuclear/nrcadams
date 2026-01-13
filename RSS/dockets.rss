@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 13 Jan 2026 21:21:12 GMT</pubDate>
-		<lastBuildDate>Tue, 13 Jan 2026 21:21:12 GMT</lastBuildDate>
+		<pubDate>Tue, 13 Jan 2026 22:22:12 GMT</pubDate>
+		<lastBuildDate>Tue, 13 Jan 2026 22:22:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>01/21/2026 Meeting to discuss TRISO-X License Conditions</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26013A262</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2026-01-13 19:57:00</pubDate>
+		</item>
 		<item>
 			<title>December 1, 2025 Pre Construction Meeting Summary Cover Letter and Enclosure 1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25350C284</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26006A229</link>
 			<description>Legal-Affidavit</description>
 			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2026-01-08 17:14:00</pubDate>
-		</item>
-		<item>
-			<title>Presentation Slides for First Pre-Submittal Meeting for Application of SECY 25-0074 to BWRX-300 Expedited Construction and Manufacturing of Certain Structures, Systems, and Components</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26006A225</link>
-			<description>Letter</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA), GE Vernova Hitachi SMR Technologies Canada, Ltd</author>
 			<pubDate>2026-01-08 17:14:00</pubDate>
 		</item>
 	</channel>

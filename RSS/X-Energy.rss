@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 13 Jan 2026 21:21:18 GMT</pubDate>
-		<lastBuildDate>Tue, 13 Jan 2026 21:21:18 GMT</lastBuildDate>
+		<pubDate>Tue, 13 Jan 2026 22:22:17 GMT</pubDate>
+		<lastBuildDate>Tue, 13 Jan 2026 22:22:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 2 - Safety Evaluation Report for Revision No. 24 of CoC No. 5797</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25272A229</link>
+			<description>Safety Evaluation Report</description>
+			<author>NRC/NMSS/DFM/STLB</author>
+			<pubDate>2026-01-13 20:19:00</pubDate>
+		</item>
+		<item>
+			<title>01/21/2026 Meeting to discuss TRISO-X License Conditions</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26013A262</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2026-01-13 19:57:00</pubDate>
+		</item>
 		<item>
 			<title>Advanced Reactor Stakeholder Public Meeting 15 January 2026</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26013A048</link>
@@ -206,20 +220,6 @@
 			<description>Letter, Congressional Correspondence</description>
 			<author>US HR, Comm on Government Reform and Oversight</author>
 			<pubDate>2026-01-09 12:11:00</pubDate>
-		</item>
-		<item>
-			<title>01/26/2007 Email from G.Vinson to S.Moore Re: Illinois Regulation Submittal</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML070290298</link>
-			<description>E-Mail, License-Registry of Sealed Source or Device (New/Amend/Renewal)</description>
-			<author>State of IL, Emergency Management Agency, Division of Nuclear Safety</author>
-			<pubDate>2026-01-08 20:07:00</pubDate>
-		</item>
-		<item>
-			<title>01/24/2007 Letter from R.Owen to S.W. Moore Re: Ohio's Proposed Changes to Regulations Conforming with National Source Tracking System</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML070380488</link>
-			<description>Letter</description>
-			<author>State of OH, Dept of Health, Bureau of Radiation Protection</author>
-			<pubDate>2026-01-08 20:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
