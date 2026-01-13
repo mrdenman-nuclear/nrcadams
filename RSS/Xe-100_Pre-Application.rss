@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 12 Jan 2026 23:18:18 GMT</pubDate>
-		<lastBuildDate>Mon, 12 Jan 2026 23:18:18 GMT</lastBuildDate>
+		<pubDate>Tue, 13 Jan 2026 14:25:08 GMT</pubDate>
+		<lastBuildDate>Tue, 13 Jan 2026 14:25:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Email Transmittal of -A Topical Report Verification_ X-Energy, LLC Xe-100 100 Training Programs Methodology TR, Rev 4, -A Version</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26006A179</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2026-01-12 20:12:00</pubDate>
+		</item>
+		<item>
+			<title>X-Energy LLC - DRAFT NRC Form 896 -A Topical Report Verification for Xe-100 Training Programs Methodology Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26006A184</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2026-01-12 20:12:00</pubDate>
+		</item>
+	</channel>
 </rss>

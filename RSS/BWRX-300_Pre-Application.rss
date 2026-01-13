@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 12 Jan 2026 23:18:19 GMT</pubDate>
-		<lastBuildDate>Mon, 12 Jan 2026 23:18:19 GMT</lastBuildDate>
+		<pubDate>Tue, 13 Jan 2026 14:25:08 GMT</pubDate>
+		<lastBuildDate>Tue, 13 Jan 2026 14:25:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2025/12/30 GEH BWRX-300 SMR - GE Vernova Hitachi Request for Withholding Information from Public Disclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25364A087</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2026-01-13 12:11:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 3: Affidavit, GVH - Non-Proprietary Information</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26006A229</link>
@@ -52,27 +59,6 @@
 			<description>Audit Report, Memoranda</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2025-12-30 15:42:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Affidavit, GVH - Non-Proprietary Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25351A089</link>
-			<description>Legal-Affidavit</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2025-12-29 18:43:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: NEDO-33926-A, Revision 4, BWRX-300 Steel-Plate Composite Containment Vessel (SCCV) and Reactor Building (RB) Structural Design, GVH - Non-Proprietary Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25351A088</link>
-			<description>Topical Report</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2025-12-29 18:43:00</pubDate>
-		</item>
-		<item>
-			<title>GE Vernova Hitachi Nuclear Energy Americas, LLC - Approved Version of NEDC-33926P-A/NEDO-33926-A, Revision 4, BWRX-300 Steel-Plate Composite Containment Vessel (SCCV) and Reactor Building (RB) Structural Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25351A086</link>
-			<description>Letter</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2025-12-29 18:43:00</pubDate>
 		</item>
 	</channel>
 </rss>

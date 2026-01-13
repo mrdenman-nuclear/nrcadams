@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 12 Jan 2026 23:18:25 GMT</pubDate>
-		<lastBuildDate>Mon, 12 Jan 2026 23:18:25 GMT</lastBuildDate>
+		<pubDate>Tue, 13 Jan 2026 14:25:15 GMT</pubDate>
+		<lastBuildDate>Tue, 13 Jan 2026 14:25:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Safety Evaluation</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2026-01-09 12:13:00</pubDate>
-		</item>
-		<item>
-			<title>SOLO-TR-2025-10, Rev. 0, "Emergency Planning and EPZ Sizing"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25361A006</link>
-			<description>Topical Report</description>
-			<author>Terra Innovatum s.r.l</author>
-			<pubDate>2026-01-05 14:53:00</pubDate>
 		</item>
 	</channel>
 </rss>
