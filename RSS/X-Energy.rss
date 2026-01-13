@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 13 Jan 2026 15:23:51 GMT</pubDate>
-		<lastBuildDate>Tue, 13 Jan 2026 15:23:51 GMT</lastBuildDate>
+		<pubDate>Tue, 13 Jan 2026 16:31:20 GMT</pubDate>
+		<lastBuildDate>Tue, 13 Jan 2026 16:31:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Advanced Reactor Stakeholder Public Meeting 15 January 2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26013A048</link>
+			<description>Slides and Viewgraphs</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2026-01-13 14:45:00</pubDate>
+		</item>
+		<item>
+			<title>Human Factors Considerations for Anticipated Uses of Autonomy in Advanced Reactor Technologies.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26013A039</link>
+			<description>Report, Technical</description>
+			<author>Idaho National Lab, NRC/RES, US Dept of Energy, Office of Nuclear Energy</author>
+			<pubDate>2026-01-13 14:44:00</pubDate>
+		</item>
 		<item>
 			<title>MU Pickard Hall Surfaces DCGLs</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26005A180</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML070380488</link>
 			<description>Letter</description>
 			<author>State of OH, Dept of Health, Bureau of Radiation Protection</author>
-			<pubDate>2026-01-08 20:07:00</pubDate>
-		</item>
-		<item>
-			<title>01/25/2007 Email from T. Lickerman to S. Moore Re: New York City's Regulation Submittal</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML070290581</link>
-			<description>Agreement States-Regulations Review, E-Mail, Letter</description>
-			<author>State of NY, Office of Radiological Health</author>
-			<pubDate>2026-01-08 20:07:00</pubDate>
-		</item>
-		<item>
-			<title>01/28/2008 Letter from A. Gantt to R. Lewis Re: South Carolina's Final Revisions to Submitted Regulations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML080300391</link>
-			<description>Agreement States-Regulations Review, E-Mail, Letter</description>
-			<author>State of SC</author>
 			<pubDate>2026-01-08 20:07:00</pubDate>
 		</item>
 	</channel>
