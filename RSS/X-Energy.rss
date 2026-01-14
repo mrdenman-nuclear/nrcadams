@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 13 Jan 2026 23:21:15 GMT</pubDate>
-		<lastBuildDate>Tue, 13 Jan 2026 23:21:15 GMT</lastBuildDate>
+		<pubDate>Wed, 14 Jan 2026 14:25:14 GMT</pubDate>
+		<lastBuildDate>Wed, 14 Jan 2026 14:25:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards required Charter for the Advisory Panel for the Decontamination of Three Mile Island, Unit 2 in accordance with Section 9 of the Federal Advisory Committee Act</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26006A091</link>
+			<description>Charter, Congressional Correspondence</description>
+			<author>NRC/OCA</author>
+			<pubDate>2026-01-14 12:13:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 2 - Safety Evaluation Report for Revision No. 24 of CoC No. 5797</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25272A229</link>
@@ -213,13 +220,6 @@
 			<description>Letter, Congressional Correspondence</description>
 			<author>US HR  (House of Representatives)</author>
 			<pubDate>2026-01-09 12:12:00</pubDate>
-		</item>
-		<item>
-			<title>LTR-03-0445 - Ltr. Rep. John Tierney re: Request for Unredacted Copies of Documents Requested under FOIA Regarding Davis Besse Nuclear Power Plant.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML033280499</link>
-			<description>Letter, Congressional Correspondence</description>
-			<author>US HR, Comm on Government Reform and Oversight</author>
-			<pubDate>2026-01-09 12:11:00</pubDate>
 		</item>
 	</channel>
 </rss>

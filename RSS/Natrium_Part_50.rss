@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 13 Jan 2026 23:21:09 GMT</pubDate>
-		<lastBuildDate>Tue, 13 Jan 2026 23:21:09 GMT</lastBuildDate>
+		<pubDate>Wed, 14 Jan 2026 14:25:09 GMT</pubDate>
+		<lastBuildDate>Wed, 14 Jan 2026 14:25:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Letter</description>
 			<author>Lincoln County, WY, Board of Commissioners</author>
 			<pubDate>2026-01-12 12:19:00</pubDate>
-		</item>
-		<item>
-			<title>Federal Register Notice US SFR Owner, LLC; Construction Permit Application; Notice of Uncontested Hearing</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25353A001</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/SECY</author>
-			<pubDate>2025-12-30 12:16:00</pubDate>
 		</item>
 	</channel>
 </rss>

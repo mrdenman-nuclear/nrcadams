@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 13 Jan 2026 23:21:15 GMT</pubDate>
-		<lastBuildDate>Tue, 13 Jan 2026 23:21:15 GMT</lastBuildDate>
+		<pubDate>Wed, 14 Jan 2026 14:25:14 GMT</pubDate>
+		<lastBuildDate>Wed, 14 Jan 2026 14:25:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -101,13 +101,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR</author>
 			<pubDate>2026-01-02 16:34:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Staff'S Answer to San Antonio Bay Estuarine Waterkeeper's Amended Contention 4</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25363A180</link>
-			<description>Legal-Pleading</description>
-			<author>NRC/OGC</author>
-			<pubDate>2025-12-30 12:17:00</pubDate>
 		</item>
 	</channel>
 </rss>
