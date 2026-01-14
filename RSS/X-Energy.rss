@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 14 Jan 2026 21:21:51 GMT</pubDate>
-		<lastBuildDate>Wed, 14 Jan 2026 21:21:51 GMT</lastBuildDate>
+		<pubDate>Wed, 14 Jan 2026 22:23:37 GMT</pubDate>
+		<lastBuildDate>Wed, 14 Jan 2026 22:23:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -16,6 +16,27 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26014A236</link>
 			<description>Letter</description>
 			<author>NRC/OIP/ECNP</author>
+			<pubDate>2026-01-14 20:12:00</pubDate>
+		</item>
+		<item>
+			<title>Letter to the EB Requesting EB Views for XB1369-01.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26014A231</link>
+			<description>Letter</description>
+			<author>NRC/OIP/ECNP</author>
+			<pubDate>2026-01-14 20:12:00</pubDate>
+		</item>
+		<item>
+			<title>Letter to EB Requesting Assurances for XSNM3858.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26014A213</link>
+			<description>Letter</description>
+			<author>NRC/OIP/ECNP</author>
+			<pubDate>2026-01-14 20:12:00</pubDate>
+		</item>
+		<item>
+			<title>FOIA-2025-000394 - Responsive Records</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26014A152</link>
+			<description>- No Document Type Applies</description>
+			<author>NRC/OCIO</author>
 			<pubDate>2026-01-14 20:12:00</pubDate>
 		</item>
 		<item>
@@ -198,27 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML091960180</link>
 			<description>Congressional QAs, E-Mail</description>
 			<author>US Dept of Veterans Affairs (VA)</author>
-			<pubDate>2026-01-09 12:12:00</pubDate>
-		</item>
-		<item>
-			<title>LER 2025-001-00 for LaSalle County Station, Unit 1, Automatic Scram on Turbine Control Valves Fast Closure on Generator Lockout</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25365A962</link>
-			<description>Letter, Licensee Event Report (LER)</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2026-01-09 12:12:00</pubDate>
-		</item>
-		<item>
-			<title>01/30/2008 Letter from T. Conley to R. Lewis Re: Kansas" Proposed Revisions to Legislative Regulation Submittal</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML080300233</link>
-			<description>Agreement States-Regulations Review, E-Mail</description>
-			<author>State of KS</author>
-			<pubDate>2026-01-09 12:12:00</pubDate>
-		</item>
-		<item>
-			<title>Hope Creek Generating Station - License Amendment Request - Revise technical Specifications to Adopt Risk Informed Completion Times TSTF-505-A, Revision 2, "Provide Risk-Informed Extended Completion Times - RITSTF Initiative 4b".....</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25365A973</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50, Technical Specification, Amendment, Technical Specification, Bases Change</description>
-			<author>PSEG Nuclear, LLC</author>
 			<pubDate>2026-01-09 12:12:00</pubDate>
 		</item>
 	</channel>
