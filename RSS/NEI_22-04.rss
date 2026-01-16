@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 16 Jan 2026 17:26:38 GMT</pubDate>
-		<lastBuildDate>Fri, 16 Jan 2026 17:26:38 GMT</lastBuildDate>
+		<pubDate>Fri, 16 Jan 2026 18:31:30 GMT</pubDate>
+		<lastBuildDate>Fri, 16 Jan 2026 18:31:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Energy Northwest New Nuclear, LLC - Acceptability of Historical Information - Volcanic</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26015A527</link>
+			<description>Environmental Monitoring Report, Letter, Technical Paper</description>
+			<author>Energy Northwest New Nuclear, LLC</author>
+			<pubDate>2026-01-16 16:33:00</pubDate>
+		</item>
+		<item>
+			<title>Arkansas Nuclear One, Units 1 and 2 - 10 CFR 50.71 (e) Report Revision 24 of the ANO Fire Hazards Analysis</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24317A116</link>
+			<description>Fire Protection Plan, Letter</description>
+			<author>Entergy Operations, Inc</author>
+			<pubDate>2026-01-16 16:33:00</pubDate>
+		</item>
+		<item>
+			<title>Arkansas Nuclear One, Units 1 and 2 - 10 CFR 50.71 (e) Report Revision 24 of the ANO Fire Hazards Analysis</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24317A116</link>
+			<description>Fire Protection Plan, Letter</description>
+			<author>Entergy Operations, Inc</author>
+			<pubDate>2026-01-16 16:33:00</pubDate>
+		</item>
 		<item>
 			<title>Supplement to License Amendment Request to Revise Technical Specifications to Adopt TSTF-505-A, Revision 2, "Provide Risk-Informed Extended Completion Times - RITSTF Initiative 4b"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26008A311</link>
@@ -199,27 +220,6 @@
 			<description>Inspection Report, Letter</description>
 			<author>NRC/RGN-III/DORS/RPB1</author>
 			<pubDate>2026-01-02 12:07:00</pubDate>
-		</item>
-		<item>
-			<title>Dresden Nuclear Power Station, Units 2 and 3 - Integrated Inspection Report 05000237/2025003 and 05000249/2025003 and Exercise of Enforcement Discretion</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25364A360</link>
-			<description>Inspection Report, Letter</description>
-			<author>NRC/RGN-III/DORS/RPB1</author>
-			<pubDate>2026-01-02 12:07:00</pubDate>
-		</item>
-		<item>
-			<title>Diablo Canyon, Units 1 and 2, License Amendment Request 25-06 to Update the Spent Fuel Pool and New Fuel Storage Vault Criticality Safety Analysis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25354A002</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>Pacific Gas and Electric Co</author>
-			<pubDate>2026-01-02 12:06:00</pubDate>
-		</item>
-		<item>
-			<title>Diablo Canyon, Units 1 and 2, License Amendment Request 25-06 to Update the Spent Fuel Pool and New Fuel Storage Vault Criticality Safety Analysis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25354A002</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>Pacific Gas and Electric Co</author>
-			<pubDate>2026-01-02 12:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
