@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 15 Jan 2026 23:21:41 GMT</pubDate>
-		<lastBuildDate>Thu, 15 Jan 2026 23:21:41 GMT</lastBuildDate>
+		<pubDate>Fri, 16 Jan 2026 14:24:39 GMT</pubDate>
+		<lastBuildDate>Fri, 16 Jan 2026 14:24:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Safety Evaluation</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2026-01-09 12:13:00</pubDate>
-		</item>
-		<item>
-			<title>Initial NRC Comments on TIMaSC White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26007A324</link>
-			<description>E-Mail, Technical Paper</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2026-01-08 14:20:00</pubDate>
-		</item>
-		<item>
-			<title>Initial NRC Comments on TIMaSC White Paper</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26007A324</link>
-			<description>E-Mail, Technical Paper</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2026-01-08 14:20:00</pubDate>
 		</item>
 	</channel>
 </rss>

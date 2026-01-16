@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 15 Jan 2026 23:21:42 GMT</pubDate>
-		<lastBuildDate>Thu, 15 Jan 2026 23:21:42 GMT</lastBuildDate>
+		<pubDate>Fri, 16 Jan 2026 14:24:40 GMT</pubDate>
+		<lastBuildDate>Fri, 16 Jan 2026 14:24:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Supplement to License Amendment Request to Revise Technical Specifications to Adopt TSTF-505-A, Revision 2, "Provide Risk-Informed Extended Completion Times - RITSTF Initiative 4b"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26008A311</link>
+			<description>Letter, Response to Request for Additional Information (RAI)</description>
+			<author>Wolf Creek Nuclear Operating Corp</author>
+			<pubDate>2026-01-16 11:57:00</pubDate>
+		</item>
 		<item>
 			<title>25 - Advanced Reactors RIM and MANDE</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26015A232</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25354A002</link>
 			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
 			<author>Pacific Gas and Electric Co</author>
-			<pubDate>2026-01-02 12:06:00</pubDate>
-		</item>
-		<item>
-			<title>Clinton Power Station - Integrated Inspection Report 05000461/2025003 and 07201046/2025001</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25356A361</link>
-			<description>Inspection Report, Letter</description>
-			<author>NRC/RGN-III/DORS/RPB1</author>
 			<pubDate>2026-01-02 12:06:00</pubDate>
 		</item>
 	</channel>
