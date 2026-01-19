@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 16 Jan 2026 23:20:36 GMT</pubDate>
-		<lastBuildDate>Fri, 16 Jan 2026 23:20:36 GMT</lastBuildDate>
+		<pubDate>Mon, 19 Jan 2026 14:27:58 GMT</pubDate>
+		<lastBuildDate>Mon, 19 Jan 2026 14:27:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,41 +73,6 @@
 			<description>Graphics incl Charts and Tables, Letter, Report, Miscellaneous</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2026-01-05 12:24:00</pubDate>
-		</item>
-		<item>
-			<title>2025/12/18 Clinch River CP Saf Docs - Docket Request for A-15.5-15 - TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25352A266</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-01-02 12:06:00</pubDate>
-		</item>
-		<item>
-			<title>2025/12/18 Clinch River CP Saf Docs - RE Docket Request for response to A-3.8-3, TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25352A187</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-01-02 12:06:00</pubDate>
-		</item>
-		<item>
-			<title>2025/12/17 - Comment (1) E-mail regarding Clinch River CP Draft EIS</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25356A372</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>Public Commenter</author>
-			<pubDate>2026-01-02 12:06:00</pubDate>
-		</item>
-		<item>
-			<title>2025/12/19 Clinch River CP Saf Docs - Docket Request for A-9.2-9 - TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25353A447</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-01-02 12:06:00</pubDate>
-		</item>
-		<item>
-			<title>EPA Comments for the Clinch River Nuclear Site Construction Permit Draft SEIS</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25357A030</link>
-			<description>E-Mail</description>
-			<author>US Environmental Protection Agency, Region 4</author>
-			<pubDate>2026-01-02 12:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
