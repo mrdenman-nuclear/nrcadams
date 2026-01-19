@@ -1,7 +1,7 @@
 # Last Week in Dockets
 
 This page is updated Monday through Friday, hourly between 9AM ET and 5
-PM ET. The last update was at 2026-01-19 10:26:30.694427 ET.
+PM ET. The last update was at 2026-01-19 11:27:57.887488 ET.
 
 ``` r
 last_week_in_dockets <- nrcadams::docket_codex |>
