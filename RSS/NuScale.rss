@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 19 Jan 2026 23:21:20 GMT</pubDate>
-		<lastBuildDate>Mon, 19 Jan 2026 23:21:20 GMT</lastBuildDate>
+		<pubDate>Tue, 20 Jan 2026 14:32:23 GMT</pubDate>
+		<lastBuildDate>Tue, 20 Jan 2026 14:32:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Comment (5) of Aladar Csontos on Draft Interim Guidance: Treatment of Certain Loss-of-Coolant Accident Locations as Beyond-Design-Basis Accidents</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26013A095</link>
+			<description>General FR Notice Comment Letter</description>
+			<author>Nuclear Energy Institute (NEI)</author>
+			<pubDate>2026-01-20 12:03:00</pubDate>
+		</item>
 		<item>
 			<title>Summary of the September 4, 2025, Public Meeting with SMR LLC (a Holtec International Company) to Discuss SMR-300 Instrumentation and Control Architecture Licensing Topical Report Overview</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25364A091</link>
@@ -52,27 +59,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/OGC</author>
 			<pubDate>2026-01-06 20:09:00</pubDate>
-		</item>
-		<item>
-			<title>FOIA-2026-000019 - Resp 1 - Final</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26005A112</link>
-			<description>FOIA/Privacy Act Response to Requestor</description>
-			<author>NRC/OCIO/DIME/FLICB</author>
-			<pubDate>2026-01-05 18:23:00</pubDate>
-		</item>
-		<item>
-			<title>FOIA-2026-000018 - Resp 1 - Final</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26005A106</link>
-			<description>FOIA/Privacy Act Response to Requestor</description>
-			<author>NRC/OCIO/DIME/FLICB</author>
-			<pubDate>2026-01-05 18:23:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Duke Energy Carolinas, LLC, Belews Creek, NC Site, Early Site Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25364A006</link>
-			<description>License-Application for Early Site Permit (ESP)</description>
-			<author>Duke Energy, Duke Energy Carolinas, LLC</author>
-			<pubDate>2026-01-05 18:23:00</pubDate>
 		</item>
 	</channel>
 </rss>

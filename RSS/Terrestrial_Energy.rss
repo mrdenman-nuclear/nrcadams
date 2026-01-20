@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 19 Jan 2026 23:21:20 GMT</pubDate>
-		<lastBuildDate>Mon, 19 Jan 2026 23:21:20 GMT</lastBuildDate>
+		<pubDate>Tue, 20 Jan 2026 14:32:23 GMT</pubDate>
+		<lastBuildDate>Tue, 20 Jan 2026 14:32:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 1: Non-Proprietary Version of White Paper BE-ERWP-03-NP, "Strategic Environmental Report Framework," Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26008A307</link>
+			<description>Environmental Monitoring Report</description>
+			<author>Blue Energy Global, Inc</author>
+			<pubDate>2026-01-20 12:02:00</pubDate>
+		</item>
 		<item>
 			<title>Comment (9) of Yue Jiang on Tennessee Valley Authority; Clinch River Nuclear Site, Unit 1; Draft Supplemental Environmental Impact Statement</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26013A055</link>
@@ -94,27 +101,6 @@
 			<description>Letter, Report, Technical</description>
 			<author>WWC Engineering</author>
 			<pubDate>2026-01-06 14:46:00</pubDate>
-		</item>
-		<item>
-			<title>Appendix 1A: Duke Energy - Agency Consultation Letters</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25364A008</link>
-			<description>Letter</description>
-			<author>Duke Energy, Duke Energy Carolinas, LLC</author>
-			<pubDate>2026-01-05 18:23:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Duke Energy Carolinas, LLC, Belews Creek, NC Site, Early Site Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25364A006</link>
-			<description>License-Application for Early Site Permit (ESP)</description>
-			<author>Duke Energy, Duke Energy Carolinas, LLC</author>
-			<pubDate>2026-01-05 18:23:00</pubDate>
-		</item>
-		<item>
-			<title>Clinch River Project, TVA Comments on NRCs Draft Supplemental Environmental Impact Statement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25356A077</link>
-			<description>Graphics incl Charts and Tables, Letter, Report, Miscellaneous</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-01-05 12:24:00</pubDate>
 		</item>
 	</channel>
 </rss>

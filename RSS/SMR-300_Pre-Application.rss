@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 19 Jan 2026 23:21:14 GMT</pubDate>
-		<lastBuildDate>Mon, 19 Jan 2026 23:21:14 GMT</lastBuildDate>
+		<pubDate>Tue, 20 Jan 2026 14:32:18 GMT</pubDate>
+		<lastBuildDate>Tue, 20 Jan 2026 14:32:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -94,13 +94,6 @@
 			<description>Letter</description>
 			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2026-01-09 12:12:00</pubDate>
-		</item>
-		<item>
-			<title>01/15/2026 Follow-up Meeting with SMR (Holtec) to Discuss the SMR-300 I&C Architecture Licensing Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26005A246</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-01-06 00:34:00</pubDate>
 		</item>
 	</channel>
 </rss>

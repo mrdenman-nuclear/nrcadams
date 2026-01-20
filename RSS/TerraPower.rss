@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 19 Jan 2026 23:21:19 GMT</pubDate>
-		<lastBuildDate>Mon, 19 Jan 2026 23:21:19 GMT</lastBuildDate>
+		<pubDate>Tue, 20 Jan 2026 14:32:23 GMT</pubDate>
+		<lastBuildDate>Tue, 20 Jan 2026 14:32:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,13 +52,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/OGC</author>
 			<pubDate>2026-01-06 20:09:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Duke Energy Carolinas, LLC, Belews Creek, NC Site, Early Site Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25364A006</link>
-			<description>License-Application for Early Site Permit (ESP)</description>
-			<author>Duke Energy, Duke Energy Carolinas, LLC</author>
-			<pubDate>2026-01-05 18:23:00</pubDate>
 		</item>
 	</channel>
 </rss>
