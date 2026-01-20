@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 20 Jan 2026 18:35:51 GMT</pubDate>
-		<lastBuildDate>Tue, 20 Jan 2026 18:35:51 GMT</lastBuildDate>
+		<pubDate>Tue, 20 Jan 2026 20:14:36 GMT</pubDate>
+		<lastBuildDate>Tue, 20 Jan 2026 20:14:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 2: "Xe-100 Licensing Topical Report Plume Exposure Pathway Emergency Planning Zone Sizing Methodology," Revision 2 (Public)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25318A049</link>
+			<description>Topical Report</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2026-01-20 18:32:00</pubDate>
+		</item>
 		<item>
 			<title>Energy Northwest New Nuclear, LLC - Acceptability of Historical Information - Volcanic</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26015A527</link>
@@ -213,13 +220,6 @@
 			<description>Letter, Report, Technical</description>
 			<author>ARC Clean Energy, LLC</author>
 			<pubDate>2026-01-05 12:24:00</pubDate>
-		</item>
-		<item>
-			<title>Dresden Nuclear Power Station, Units 2 and 3 - Integrated Inspection Report 05000237/2025003 and 05000249/2025003 and Exercise of Enforcement Discretion</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25364A360</link>
-			<description>Inspection Report, Letter</description>
-			<author>NRC/RGN-III/DORS/RPB1</author>
-			<pubDate>2026-01-02 12:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
