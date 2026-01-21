@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 20 Jan 2026 23:21:51 GMT</pubDate>
-		<lastBuildDate>Tue, 20 Jan 2026 23:21:51 GMT</lastBuildDate>
+		<pubDate>Wed, 21 Jan 2026 14:31:16 GMT</pubDate>
+		<lastBuildDate>Wed, 21 Jan 2026 14:31:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -94,13 +94,6 @@
 			<description>Letter, Report, Technical</description>
 			<author>Southern Nuclear Operating Co, Inc</author>
 			<pubDate>2026-01-07 12:07:00</pubDate>
-		</item>
-		<item>
-			<title>WWC to FWS, Request for Concurrence and Biological Assessment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26006A054</link>
-			<description>Letter, Report, Technical</description>
-			<author>WWC Engineering</author>
-			<pubDate>2026-01-06 14:46:00</pubDate>
 		</item>
 	</channel>
 </rss>
