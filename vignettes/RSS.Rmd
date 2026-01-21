@@ -182,8 +182,8 @@ burning_ears <- nrcadams::docket_codex |>
       dplyr::pull(DocketNumber)
 
     nrcadams::search_public_ADAMS(
-      search_term = .x,
-      DocketNumber = antidocket,
+      search_term = paste0("'", .x, "'"),
+      DocketNumber = antidocket
       start_date = date$start,
       results_tag = .x
     )
