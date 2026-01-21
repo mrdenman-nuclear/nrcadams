@@ -74,7 +74,7 @@
 <p>This page is updated Monday through Friday, hourly between 9AM ET and
 5 PM ET. It presents RSS files for the various dockets tracked by the
 <code>nrcadams</code> package. The last update was at 2026-01-21
-17:24:07.6452 ET.</p>
+17:51:03.098273 ET.</p>
 <div class="section level2">
 <h2 id="using-the-rss-feeds">Using the RSS Feeds<a class="anchor" aria-label="anchor" href="#using-the-rss-feeds"></a>
 </h2>
@@ -308,65 +308,65 @@ also tagged with a docket number associated with that company.</p>
 <span>      <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/pull.html" class="external-link">pull</a></span><span class="op">(</span><span class="va">DocketNumber</span><span class="op">)</span></span>
 <span></span>
 <span>    <span class="fu">nrcadams</span><span class="fu">::</span><span class="fu"><a href="../reference/search_public_ADAMS.html">search_public_ADAMS</a></span><span class="op">(</span></span>
-<span>      search_term <span class="op">=</span> <span class="va">.x</span>,</span>
+<span>      search_term <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/paste.html" class="external-link">paste0</a></span><span class="op">(</span><span class="st">"'"</span>, <span class="va">.x</span>, <span class="st">"'"</span><span class="op">)</span>,</span>
 <span>      DocketNumber <span class="op">=</span> <span class="va">antidocket</span>,</span>
 <span>      start_date <span class="op">=</span> <span class="va">date</span><span class="op">$</span><span class="va">start</span>,</span>
 <span>      results_tag <span class="op">=</span> <span class="va">.x</span></span>
 <span>    <span class="op">)</span></span>
 <span>  <span class="op">}</span><span class="op">)</span></span>
-<span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =</span></span>
-<span><span class="co">#&gt; antidocket, : Negative docket numbers detected. These will be used to</span></span>
-<span><span class="co">#&gt; excludedocuments from the search results.</span></span>
-<span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =</span></span>
-<span><span class="co">#&gt; antidocket, : Negative docket numbers detected. These will be used to</span></span>
-<span><span class="co">#&gt; excludedocuments from the search results.</span></span>
-<span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =</span></span>
-<span><span class="co">#&gt; antidocket, : Negative docket numbers detected. These will be used to</span></span>
-<span><span class="co">#&gt; excludedocuments from the search results.</span></span>
+<span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = paste0("'", .x, "'"), :</span></span>
+<span><span class="co">#&gt; Negative docket numbers detected. These will be used to excludedocuments from</span></span>
+<span><span class="co">#&gt; the search results.</span></span>
+<span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = paste0("'", .x, "'"), :</span></span>
+<span><span class="co">#&gt; Negative docket numbers detected. These will be used to excludedocuments from</span></span>
+<span><span class="co">#&gt; the search results.</span></span>
+<span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = paste0("'", .x, "'"), :</span></span>
+<span><span class="co">#&gt; Negative docket numbers detected. These will be used to excludedocuments from</span></span>
+<span><span class="co">#&gt; the search results.</span></span>
 <span><span class="co">#&gt; Warning: There was 1 warning in `dplyr::mutate()`.</span></span>
 <span><span class="co">#&gt; <span style="color: #00BBBB;">i</span> In argument: `DocketNumber = as.double(DocketNumber)`.</span></span>
 <span><span class="co">#&gt; Caused by warning:</span></span>
 <span><span class="co">#&gt; <span style="color: #BBBB00;">!</span> NAs introduced by coercion</span></span>
-<span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =</span></span>
-<span><span class="co">#&gt; antidocket, : Negative docket numbers detected. These will be used to</span></span>
-<span><span class="co">#&gt; excludedocuments from the search results.</span></span>
-<span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =</span></span>
-<span><span class="co">#&gt; antidocket, : Negative docket numbers detected. These will be used to</span></span>
-<span><span class="co">#&gt; excludedocuments from the search results.</span></span>
+<span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = paste0("'", .x, "'"), :</span></span>
+<span><span class="co">#&gt; Negative docket numbers detected. These will be used to excludedocuments from</span></span>
+<span><span class="co">#&gt; the search results.</span></span>
+<span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = paste0("'", .x, "'"), :</span></span>
+<span><span class="co">#&gt; Negative docket numbers detected. These will be used to excludedocuments from</span></span>
+<span><span class="co">#&gt; the search results.</span></span>
 <span><span class="co">#&gt; Warning: Unknown or uninitialised column: `DocumentTitle`.</span></span>
 <span><span class="co">#&gt; Warning in nrcadams:::decode_resp(resp): </span></span>
 <span><span class="co">#&gt; The search return no results.</span></span>
-<span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =</span></span>
-<span><span class="co">#&gt; antidocket, : Negative docket numbers detected. These will be used to</span></span>
-<span><span class="co">#&gt; excludedocuments from the search results.</span></span>
-<span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =</span></span>
-<span><span class="co">#&gt; antidocket, : Negative docket numbers detected. These will be used to</span></span>
-<span><span class="co">#&gt; excludedocuments from the search results.</span></span>
+<span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = paste0("'", .x, "'"), :</span></span>
+<span><span class="co">#&gt; Negative docket numbers detected. These will be used to excludedocuments from</span></span>
+<span><span class="co">#&gt; the search results.</span></span>
+<span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = paste0("'", .x, "'"), :</span></span>
+<span><span class="co">#&gt; Negative docket numbers detected. These will be used to excludedocuments from</span></span>
+<span><span class="co">#&gt; the search results.</span></span>
 <span><span class="co">#&gt; Warning: There was 1 warning in `dplyr::mutate()`.</span></span>
 <span><span class="co">#&gt; <span style="color: #00BBBB;">i</span> In argument: `DocketNumber = as.double(DocketNumber)`.</span></span>
 <span><span class="co">#&gt; Caused by warning:</span></span>
 <span><span class="co">#&gt; <span style="color: #BBBB00;">!</span> NAs introduced by coercion</span></span>
-<span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =</span></span>
-<span><span class="co">#&gt; antidocket, : Negative docket numbers detected. These will be used to</span></span>
-<span><span class="co">#&gt; excludedocuments from the search results.</span></span>
-<span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =</span></span>
-<span><span class="co">#&gt; antidocket, : Negative docket numbers detected. These will be used to</span></span>
-<span><span class="co">#&gt; excludedocuments from the search results.</span></span>
-<span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =</span></span>
-<span><span class="co">#&gt; antidocket, : Negative docket numbers detected. These will be used to</span></span>
-<span><span class="co">#&gt; excludedocuments from the search results.</span></span>
-<span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =</span></span>
-<span><span class="co">#&gt; antidocket, : Negative docket numbers detected. These will be used to</span></span>
-<span><span class="co">#&gt; excludedocuments from the search results.</span></span>
+<span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = paste0("'", .x, "'"), :</span></span>
+<span><span class="co">#&gt; Negative docket numbers detected. These will be used to excludedocuments from</span></span>
+<span><span class="co">#&gt; the search results.</span></span>
+<span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = paste0("'", .x, "'"), :</span></span>
+<span><span class="co">#&gt; Negative docket numbers detected. These will be used to excludedocuments from</span></span>
+<span><span class="co">#&gt; the search results.</span></span>
+<span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = paste0("'", .x, "'"), :</span></span>
+<span><span class="co">#&gt; Negative docket numbers detected. These will be used to excludedocuments from</span></span>
+<span><span class="co">#&gt; the search results.</span></span>
+<span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = paste0("'", .x, "'"), :</span></span>
+<span><span class="co">#&gt; Negative docket numbers detected. These will be used to excludedocuments from</span></span>
+<span><span class="co">#&gt; the search results.</span></span>
 <span><span class="co">#&gt; Warning: Unknown or uninitialised column: `DocumentTitle`.</span></span>
 <span><span class="co">#&gt; Warning in nrcadams:::decode_resp(resp): </span></span>
 <span><span class="co">#&gt; The search return no results.</span></span>
-<span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =</span></span>
-<span><span class="co">#&gt; antidocket, : Negative docket numbers detected. These will be used to</span></span>
-<span><span class="co">#&gt; excludedocuments from the search results.</span></span>
-<span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = .x, DocketNumber =</span></span>
-<span><span class="co">#&gt; antidocket, : Negative docket numbers detected. These will be used to</span></span>
-<span><span class="co">#&gt; excludedocuments from the search results.</span></span>
+<span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = paste0("'", .x, "'"), :</span></span>
+<span><span class="co">#&gt; Negative docket numbers detected. These will be used to excludedocuments from</span></span>
+<span><span class="co">#&gt; the search results.</span></span>
+<span><span class="co">#&gt; Warning in nrcadams::search_public_ADAMS(search_term = paste0("'", .x, "'"), :</span></span>
+<span><span class="co">#&gt; Negative docket numbers detected. These will be used to excludedocuments from</span></span>
+<span><span class="co">#&gt; the search results.</span></span>
 <span><span class="co">#&gt; Warning: There was 1 warning in `dplyr::mutate()`.</span></span>
 <span><span class="co">#&gt; <span style="color: #00BBBB;">i</span> In argument: `DocketNumber = as.double(DocketNumber)`.</span></span>
 <span><span class="co">#&gt; Caused by warning:</span></span>
