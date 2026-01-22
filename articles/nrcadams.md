@@ -48,7 +48,7 @@ nrcadams::docket_codex |>
     escape = FALSE
   )
 #> 
-#>  This search returned: 15 files.
+#>  This search returned: 17 files.
 ```
 
 ## Filtering a Docket for Actual Information

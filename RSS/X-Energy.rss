@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 22 Jan 2026 14:30:07 GMT</pubDate>
-		<lastBuildDate>Thu, 22 Jan 2026 14:30:07 GMT</lastBuildDate>
+		<pubDate>Thu, 22 Jan 2026 15:29:44 GMT</pubDate>
+		<lastBuildDate>Thu, 22 Jan 2026 15:29:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Charleston Area Radiation Therapy Centers, LLC; Additional License Amendment Request Letter dated 12/05/2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25342A006</link>
+			<description>Letter</description>
+			<author>Charleston Area Radiation Therapy Centers, LLC</author>
+			<pubDate>2026-01-22 13:47:00</pubDate>
+		</item>
 		<item>
 			<title>2026/01/08 Project Long Mott Docs - RE The Ecological Resources Technical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26008A191</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26007A307</link>
 			<description>Report, Technical</description>
 			<author>Kairos Power, LLC</author>
-			<pubDate>2026-01-16 16:33:00</pubDate>
-		</item>
-		<item>
-			<title>Arkansas Nuclear One, Units 1 and 2 - 10 CFR 50.71 (e) Report Revision 24 of the ANO Fire Hazards Analysis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24317A116</link>
-			<description>Fire Protection Plan, Letter</description>
-			<author>Entergy Operations, Inc</author>
 			<pubDate>2026-01-16 16:33:00</pubDate>
 		</item>
 	</channel>

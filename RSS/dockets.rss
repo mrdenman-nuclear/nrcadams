@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 22 Jan 2026 14:30:03 GMT</pubDate>
-		<lastBuildDate>Thu, 22 Jan 2026 14:30:03 GMT</lastBuildDate>
+		<pubDate>Thu, 22 Jan 2026 15:29:39 GMT</pubDate>
+		<lastBuildDate>Thu, 22 Jan 2026 15:29:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Federal Register Notice - Pioneer Units 1 and 2 Limited Work Authorization Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26009A012</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2026-01-22 13:47:00</pubDate>
+		</item>
+		<item>
+			<title>US SFR Owner, LLC Responses to Commission Hearing Questions</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26021A186</link>
+			<description>Legal-Correspondence/Miscellaneous</description>
+			<author>Morgan, Lewis and Bockius, LLP, US SFR Owner, LLC</author>
+			<pubDate>2026-01-22 13:47:00</pubDate>
+		</item>
+		<item>
+			<title>Notices of Appearance of Ryan K. Lighty and Alex S. Polonsky</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26021A184</link>
+			<description>Legal-Correspondence/Miscellaneous</description>
+			<author>Morgan, Lewis and Bockius, LLP, US SFR Owner, LLC</author>
+			<pubDate>2026-01-22 13:47:00</pubDate>
+		</item>
 		<item>
 			<title>2026/01/08 Project Long Mott Docs - RE The Ecological Resources Technical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26008A191</link>
@@ -199,27 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2026-01-20 21:04:00</pubDate>
-		</item>
-		<item>
-			<title>01/28/2026 Pre-submittal Meeting with Kairos Power LLC on the Structural Building Design for Hermes 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26020A211</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-01-20 18:54:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: "Xe-100 Licensing Topical Report Plume Exposure Pathway Emergency Planning Zone Sizing Methodology," Revision 2 (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25318A049</link>
-			<description>Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2026-01-20 18:32:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy, LLC (X-energy), Submittal of Xe-100 Licensing Topical Report Plume Exposure Pathway Emergency Planning Zone Sizing Methodology, Revision 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25318A047</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2026-01-20 18:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
