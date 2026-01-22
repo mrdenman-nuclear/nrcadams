@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 22 Jan 2026 20:27:17 GMT</pubDate>
-		<lastBuildDate>Thu, 22 Jan 2026 20:27:17 GMT</lastBuildDate>
+		<pubDate>Thu, 22 Jan 2026 21:23:01 GMT</pubDate>
+		<lastBuildDate>Thu, 22 Jan 2026 21:23:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Memorandum and Order (Ruling on Intervention Petition) (LBP-26-01)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26022A317</link>
+			<description>Legal-Order</description>
+			<author>NRC/ASLBP</author>
+			<pubDate>2026-01-22 19:33:00</pubDate>
+		</item>
 		<item>
 			<title>US Dept of the Army, Installation Management Command - Radiation Monitoring Report Including Appendices Summary of Results for 2024 Sampling Events</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26008A194</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26014A253</link>
 			<description>Deficiency Correspondence (per 10CFR50.55e and Part 21), E-Mail</description>
 			<author>Marmon Industrial Energy and Infrastructure</author>
-			<pubDate>2026-01-16 16:33:00</pubDate>
-		</item>
-		<item>
-			<title>Energy Northwest New Nuclear, LLC - Acceptability of Historical Information - Geotechnical</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26013A121</link>
-			<description>Letter, Technical Paper</description>
-			<author>Energy Northwest New Nuclear, LLC</author>
 			<pubDate>2026-01-16 16:33:00</pubDate>
 		</item>
 	</channel>

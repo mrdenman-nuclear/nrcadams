@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 22 Jan 2026 20:27:13 GMT</pubDate>
-		<lastBuildDate>Thu, 22 Jan 2026 20:27:13 GMT</lastBuildDate>
+		<pubDate>Thu, 22 Jan 2026 21:22:57 GMT</pubDate>
+		<lastBuildDate>Thu, 22 Jan 2026 21:22:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Memorandum (Notice Regarding Issuance of Decision on Intervention Petition Supplement Containing Sensitive Unclassified Non-Safeguards Information (SUNSI))</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26022A331</link>
+			<description>Legal-Order</description>
+			<author>NRC/ASLBP</author>
+			<pubDate>2026-01-22 20:12:00</pubDate>
+		</item>
+		<item>
+			<title>Memorandum and Order (Ruling on Intervention Petition) (LBP-26-01)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26022A317</link>
+			<description>Legal-Order</description>
+			<author>NRC/ASLBP</author>
+			<pubDate>2026-01-22 19:33:00</pubDate>
+		</item>
+		<item>
+			<title>Waterkeeper Motion for One-Day Extension of Time to File Reply</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26022A311</link>
+			<description>Legal-Motion</description>
+			<author>Perales, Allmon and Ice, P.C., San Antonio Bay Estuarine Waterkeeper</author>
+			<pubDate>2026-01-22 19:33:00</pubDate>
+		</item>
 		<item>
 			<title>02/04/2026 Pre-Submittal Virtual Meeting for GE-Hitachi Nuclear Energy Americas LLC (GEHA) Quality Assurance Program Description Topical Report NEDO-11209-A, Revision 18</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26022A106</link>
@@ -199,27 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS/DREFS/ETRB1</author>
 			<pubDate>2026-01-21 13:38:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda Items Public Meeting 01.22.2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26020A280</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2026-01-21 12:06:00</pubDate>
-		</item>
-		<item>
-			<title>2026/01/07 Clinch River CP Saf Docs - Docket Request for A-15.2-4 - TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26007A147</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-01-21 12:05:00</pubDate>
-		</item>
-		<item>
-			<title>2026/01/07 Clinch River CP Saf Docs - Docket Request for A-15.1-1 - TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26007A297</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-01-21 12:05:00</pubDate>
 		</item>
 	</channel>
 </rss>
