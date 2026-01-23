@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 22 Jan 2026 23:20:35 GMT</pubDate>
-		<lastBuildDate>Thu, 22 Jan 2026 23:20:35 GMT</lastBuildDate>
+		<pubDate>Fri, 23 Jan 2026 14:24:45 GMT</pubDate>
+		<lastBuildDate>Fri, 23 Jan 2026 14:24:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>San Antonio Bay Estuarine Waterkeeper's Motion for Leave to File Out of Time</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26022A348</link>
+			<description>Legal-Motion</description>
+			<author>Perales, Allmon and Ice, P.C., San Antonio Bay Estuarine Waterkeeper</author>
+			<pubDate>2026-01-23 12:50:00</pubDate>
+		</item>
 		<item>
 			<title>Memorandum (Notice Regarding Issuance of Decision on Intervention Petition Supplement Containing Sensitive Unclassified Non-Safeguards Information (SUNSI))</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26022A331</link>
@@ -80,13 +87,6 @@
 			<description>Legal-Pleading</description>
 			<author>NRC/OGC</author>
 			<pubDate>2026-01-15 12:23:00</pubDate>
-		</item>
-		<item>
-			<title>Notice of Withdrawal for Nicolas Mertz - Long Mott Construction Permit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26008A037</link>
-			<description>Legal-Correspondence/Miscellaneous</description>
-			<author>NRC/OGC</author>
-			<pubDate>2026-01-08 14:20:00</pubDate>
 		</item>
 	</channel>
 </rss>

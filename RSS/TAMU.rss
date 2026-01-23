@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 22 Jan 2026 23:20:39 GMT</pubDate>
-		<lastBuildDate>Thu, 22 Jan 2026 23:20:39 GMT</lastBuildDate>
+		<pubDate>Fri, 23 Jan 2026 14:24:50 GMT</pubDate>
+		<lastBuildDate>Fri, 23 Jan 2026 14:24:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Texas A&M University; Amendment No. 32; Cover Letter; Mail Control No. 655000; License No. 42-09082-09</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26016A617</link>
+			<description>Letter</description>
+			<author>NRC/RGN-IV/DRSS/MLB</author>
+			<pubDate>2026-01-23 12:50:00</pubDate>
+		</item>
+		<item>
+			<title>Texas A&M University; Amendment No. 32; Mail Control No. 655000; License No. 42-09082-09</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26016A616</link>
+			<description>License-Approval for MATL Byproduct License (Amend/Renewal/New) DKT 30, 40, 70</description>
+			<author>NRC/RGN-IV/DRSS/MLB</author>
+			<pubDate>2026-01-23 12:50:00</pubDate>
+		</item>
+	</channel>
 </rss>
