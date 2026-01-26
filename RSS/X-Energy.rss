@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 26 Jan 2026 17:29:47 GMT</pubDate>
-		<lastBuildDate>Mon, 26 Jan 2026 17:29:47 GMT</lastBuildDate>
+		<pubDate>Mon, 26 Jan 2026 18:32:24 GMT</pubDate>
+		<lastBuildDate>Mon, 26 Jan 2026 18:32:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Bret Collier - Valves (CDTP)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26023A058</link>
+			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>GSE Performance Solutions Inc</author>
+			<pubDate>2026-01-26 16:19:00</pubDate>
+		</item>
 		<item>
 			<title>H. B. Robinson Steam Electric Plant, Integrated Inspection Report 05000261/2025004</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26016A662</link>
@@ -213,13 +220,6 @@
 			<description>Report, Technical, Technical Paper</description>
 			<author>Pacific Northwest National Lab</author>
 			<pubDate>2026-01-21 12:06:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy, LLC (X-energy), Submittal of Xe-100 Licensing Topical Report Plume Exposure Pathway Emergency Planning Zone Sizing Methodology, Revision 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25318A046</link>
-			<description></description>
-			<author></author>
-			<pubDate>2026-01-21 12:05:00</pubDate>
 		</item>
 	</channel>
 </rss>
