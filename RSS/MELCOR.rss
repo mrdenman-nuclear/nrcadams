@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 23 Jan 2026 23:20:30 GMT</pubDate>
-		<lastBuildDate>Fri, 23 Jan 2026 23:20:30 GMT</lastBuildDate>
+		<pubDate>Mon, 26 Jan 2026 14:27:27 GMT</pubDate>
+		<lastBuildDate>Mon, 26 Jan 2026 14:27:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Topical Report</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2026-01-20 18:32:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Approved Version of the Safety Analysis Methodology for the Kairos Power Fluoride Salt-Cooled High-Temperature Test Reactor Topical Report (Non-Proprietary)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26007A307</link>
-			<description>Report, Technical</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2026-01-16 16:33:00</pubDate>
 		</item>
 	</channel>
 </rss>

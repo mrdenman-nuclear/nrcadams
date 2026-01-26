@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 23 Jan 2026 23:20:24 GMT</pubDate>
-		<lastBuildDate>Fri, 23 Jan 2026 23:20:24 GMT</lastBuildDate>
+		<pubDate>Mon, 26 Jan 2026 14:27:22 GMT</pubDate>
+		<lastBuildDate>Mon, 26 Jan 2026 14:27:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2026/01/12 Clinch River CP Saf Docs - Docket Request for A-10.4-2 - TVA Clinch River CP Audit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26012A365</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2026-01-26 12:07:00</pubDate>
+		</item>
 		<item>
 			<title>Letter to TVA Completion of CP application review milestones Clinch River Nuclear Site Unit 1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26005A247</link>
@@ -68,15 +75,15 @@
 			<pubDate>2026-01-21 16:46:00</pubDate>
 		</item>
 		<item>
-			<title>Ltr to Michell Hicks Eastern Band of Cherokee Indians Re CRN CP DSEIS</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25289A323</link>
+			<title>Ltr to Deborah Dotson Delaware Nation Re CRN CP DSEIS</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25289A315</link>
 			<description>Letter</description>
 			<author>NRC/NMSS/DREFS/ETRB1</author>
 			<pubDate>2026-01-21 16:46:00</pubDate>
 		</item>
 		<item>
-			<title>Ltr to Deborah Dotson Delaware Nation Re CRN CP DSEIS</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25289A315</link>
+			<title>Ltr to Michell Hicks Eastern Band of Cherokee Indians Re CRN CP DSEIS</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25289A323</link>
 			<description>Letter</description>
 			<author>NRC/NMSS/DREFS/ETRB1</author>
 			<pubDate>2026-01-21 16:46:00</pubDate>
@@ -213,13 +220,6 @@
 			<description>General FR Notice Comment Letter</description>
 			<author>Breakthrough Institute</author>
 			<pubDate>2026-01-15 12:23:00</pubDate>
-		</item>
-		<item>
-			<title>2025/12/30 Clinch River CP Saf Docs - Docket Request for response to A-3.8-7, TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25364A293</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-01-13 12:11:00</pubDate>
 		</item>
 	</channel>
 </rss>

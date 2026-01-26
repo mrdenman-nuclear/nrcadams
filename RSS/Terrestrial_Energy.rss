@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 23 Jan 2026 23:20:28 GMT</pubDate>
-		<lastBuildDate>Fri, 23 Jan 2026 23:20:28 GMT</lastBuildDate>
+		<pubDate>Mon, 26 Jan 2026 14:27:26 GMT</pubDate>
+		<lastBuildDate>Mon, 26 Jan 2026 14:27:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,34 +59,6 @@
 			<description>Annual Operating Report, Letter</description>
 			<author>Diablo Canyon Independent Safety Committee</author>
 			<pubDate>2026-01-13 12:11:00</pubDate>
-		</item>
-		<item>
-			<title>Duke Energy Progress, LLC - H.B. Robinson, Unit 2, Subsequent License Renewal Request for Concurrence with Endangered Species Act Determinations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26009A050</link>
-			<description>Environmental Monitoring Report, Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>Duke Energy Progress, LLC</author>
-			<pubDate>2026-01-09 18:33:00</pubDate>
-		</item>
-		<item>
-			<title>SNC to NMFS, Request for Concurrence and Biological Assessment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26006A060</link>
-			<description>Environmental Assessment, Letter</description>
-			<author>Southern Nuclear Operating Co, Inc</author>
-			<pubDate>2026-01-09 12:13:00</pubDate>
-		</item>
-		<item>
-			<title>SNC to NMFS, Request for Concurrence and Biological Assessment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26006A060</link>
-			<description>Environmental Assessment, Letter</description>
-			<author>Southern Nuclear Operating Co, Inc</author>
-			<pubDate>2026-01-09 12:13:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure IV: Exemptions</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25365A989</link>
-			<description>Exemption from NRC Requirements</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2026-01-09 12:13:00</pubDate>
 		</item>
 	</channel>
 </rss>

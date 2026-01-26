@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 23 Jan 2026 23:20:28 GMT</pubDate>
-		<lastBuildDate>Fri, 23 Jan 2026 23:20:28 GMT</lastBuildDate>
+		<pubDate>Mon, 26 Jan 2026 14:27:26 GMT</pubDate>
+		<lastBuildDate>Mon, 26 Jan 2026 14:27:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TLR-RESDEREB-2026-02, "Technical Assessment of Chloride Molten Salt Reactor Waste"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26007A180</link>
+			<description>Report, Technical</description>
+			<author>Center for Nuclear Waste Regulatory Analyses (CNWRA), NRC/RES/DE, Southwest Research Institute</author>
+			<pubDate>2026-01-26 12:07:00</pubDate>
+		</item>
+		<item>
+			<title>TLR-RES/DE/REB-2026-01 - Properties of Molten Chloride Salts and MS Methods for Corrosion</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26006A159</link>
+			<description>Report, Technical, Technical Paper</description>
+			<author>Los Alamos National Lab (LANL)</author>
+			<pubDate>2026-01-26 12:07:00</pubDate>
+		</item>
+		<item>
+			<title>Davis-Besse 2024 Written Exam</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24045A065</link>
+			<description>License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/RGN-III/DORS/OB</author>
+			<pubDate>2026-01-26 12:07:00</pubDate>
+		</item>
 		<item>
 			<title>06/14/2007 Letter from R. Fletcher to S. Moore Re: Maryland's Final Revision to Regulations Submittal</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML071710580</link>
@@ -199,27 +220,6 @@
 			<description>Letter, Licensee Event Report (LER)</description>
 			<author>Dominion Energy, Dominion Energy South Carolina, Inc, South Carolina Electric and Gas Co</author>
 			<pubDate>2026-01-21 12:05:00</pubDate>
-		</item>
-		<item>
-			<title>Perry Nuclear Power Plant, Unit 1, Application to Revise Technical Specifications to Adopt TSTF-576, "Revise Safety/Relief Valve Requirements"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26012A004</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>Vistra Operations Company, LLC</author>
-			<pubDate>2026-01-21 12:05:00</pubDate>
-		</item>
-		<item>
-			<title>Nine Mile Point, Submittal of Revision 29 to the Final Safety Analysis Report (Updated), Fire Protection Design Criteria Document, 10 CFR 50.59 Evaluation Summary Report, 10 CFR 72.48 Evaluation Summary Report, 10 CFR 54.37(b) Aging Management Review...</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25279A148</link>
-			<description>Final Safety Analysis Report (FSAR), Letter</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2026-01-20 20:14:00</pubDate>
-		</item>
-		<item>
-			<title>OMB-3150-0018, Final 2025 Supporting Statement, 10 CFR Part 55, "Operators' Licenses"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25248A237</link>
-			<description>OMB Clearance Material</description>
-			<author>NRC/NRR/DRO</author>
-			<pubDate>2026-01-20 18:20:00</pubDate>
 		</item>
 	</channel>
 </rss>

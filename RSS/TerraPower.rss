@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 23 Jan 2026 23:20:28 GMT</pubDate>
-		<lastBuildDate>Fri, 23 Jan 2026 23:20:28 GMT</lastBuildDate>
+		<pubDate>Mon, 26 Jan 2026 14:27:26 GMT</pubDate>
+		<lastBuildDate>Mon, 26 Jan 2026 14:27:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TLR-RES/DE/REB-2026-01 - Properties of Molten Chloride Salts and MS Methods for Corrosion</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26006A159</link>
+			<description>Report, Technical, Technical Paper</description>
+			<author>Los Alamos National Lab (LANL)</author>
+			<pubDate>2026-01-26 12:07:00</pubDate>
+		</item>
 		<item>
 			<title>Task 2 Report, Advanced Reactor Spent Fuel Geologic Disposal Technical Issues</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25357A177</link>
@@ -38,20 +45,6 @@
 			<description>Report, Technical</description>
 			<author>Idaho National Lab, NRC/RES, US Dept of Energy, Office of Nuclear Energy</author>
 			<pubDate>2026-01-13 14:44:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure I: General and Financial Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25365A986</link>
-			<description>Report, Technical</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2026-01-09 12:13:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure IV: Exemptions</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25365A989</link>
-			<description>Exemption from NRC Requirements</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2026-01-09 12:13:00</pubDate>
 		</item>
 	</channel>
 </rss>
