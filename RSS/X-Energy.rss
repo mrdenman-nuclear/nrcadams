@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 26 Jan 2026 14:27:26 GMT</pubDate>
-		<lastBuildDate>Mon, 26 Jan 2026 14:27:26 GMT</lastBuildDate>
+		<pubDate>Mon, 26 Jan 2026 15:28:08 GMT</pubDate>
+		<lastBuildDate>Mon, 26 Jan 2026 15:28:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>H. B. Robinson Steam Electric Plant, Integrated Inspection Report 05000261/2025004</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26016A662</link>
+			<description>Inspection Report, Letter</description>
+			<author>NRC/RGN-II/DORS/PB2</author>
+			<pubDate>2026-01-26 14:00:00</pubDate>
+		</item>
 		<item>
 			<title>TLR-RESDEREB-2026-02, "Technical Assessment of Chloride Molten Salt Reactor Waste"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26007A180</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25318A046</link>
 			<description></description>
 			<author></author>
-			<pubDate>2026-01-21 12:05:00</pubDate>
-		</item>
-		<item>
-			<title>LER 2025-005-00 for V. C. Summer Nuclear Station, Unit 1, Condition Prohibited By Technical Specifications</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26012A368</link>
-			<description>Letter, Licensee Event Report (LER)</description>
-			<author>Dominion Energy, Dominion Energy South Carolina, Inc, South Carolina Electric and Gas Co</author>
 			<pubDate>2026-01-21 12:05:00</pubDate>
 		</item>
 	</channel>
