@@ -2,8 +2,7 @@
 
 This page is updated Monday through Friday, hourly between 9AM ET and 5
 PM ET. It presents RSS files for the various dockets tracked by the
-`nrcadams` package. The last update was at 2026-01-26 15:24:55.527107
-ET.
+`nrcadams` package. The last update was at 2026-01-26 16:22:25.90239 ET.
 
 ## Using the RSS Feeds
 
