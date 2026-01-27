@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 27 Jan 2026 18:36:22 GMT</pubDate>
-		<lastBuildDate>Tue, 27 Jan 2026 18:36:22 GMT</lastBuildDate>
+		<pubDate>Tue, 27 Jan 2026 19:26:47 GMT</pubDate>
+		<lastBuildDate>Tue, 27 Jan 2026 19:26:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Aalo Holdings, Inc., Submittal of Presentation, Aalo-1 Design Overview Closed Presentation</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25350C208</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>Aalo Holdings, Inc</author>
+			<pubDate>2026-01-27 17:46:00</pubDate>
+		</item>
+	</channel>
 </rss>
