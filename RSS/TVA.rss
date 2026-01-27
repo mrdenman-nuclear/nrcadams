@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 27 Jan 2026 15:30:31 GMT</pubDate>
-		<lastBuildDate>Tue, 27 Jan 2026 15:30:31 GMT</lastBuildDate>
+		<pubDate>Tue, 27 Jan 2026 16:28:22 GMT</pubDate>
+		<lastBuildDate>Tue, 27 Jan 2026 16:28:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Sherwood Hearing</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26026A292</link>
+			<description>Legal-Memorandum and Order</description>
+			<author>US Federal Judiciary, District Court for Eastern Distric of Tennessee, Knoxville</author>
+			<pubDate>2026-01-27 14:33:00</pubDate>
+		</item>
+		<item>
+			<title>NRC-003A - Safety Evaluation Related to the U.S. SFR Owner LLC Construction Permit Application for the Kemmerer Power Station Unit 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26026A333</link>
+			<description>Legal-Pre-Filed Exhibits</description>
+			<author>NRC/OGC</author>
+			<pubDate>2026-01-27 14:33:00</pubDate>
+		</item>
 		<item>
 			<title>2026/01/12 Clinch River CP Saf Docs - Docket Request for A-10.4-2 - TVA Clinch River CP Audit</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26012A365</link>
@@ -203,20 +217,6 @@
 		<item>
 			<title>Seabrook [50-443], Single Positive Test Form Collected on 04/07/2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26022A291</link>
-			<description>License-Fitness for Duty (FFD) Performance Report</description>
-			<author>NextEra Energy Seabrook, LLC</author>
-			<pubDate>2026-01-22 19:05:00</pubDate>
-		</item>
-		<item>
-			<title>Seabrook [50-443], Single Positive Test Form Collected on 04/16/2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26022A292</link>
-			<description>License-Fitness for Duty (FFD) Performance Report</description>
-			<author>NextEra Energy Seabrook, LLC</author>
-			<pubDate>2026-01-22 19:05:00</pubDate>
-		</item>
-		<item>
-			<title>Seabrook [50-443], Single Positive Test Form Collected on 10/08/2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26022A297</link>
 			<description>License-Fitness for Duty (FFD) Performance Report</description>
 			<author>NextEra Energy Seabrook, LLC</author>
 			<pubDate>2026-01-22 19:05:00</pubDate>
