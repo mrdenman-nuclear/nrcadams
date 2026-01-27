@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 26 Jan 2026 23:21:34 GMT</pubDate>
-		<lastBuildDate>Mon, 26 Jan 2026 23:21:34 GMT</lastBuildDate>
+		<pubDate>Tue, 27 Jan 2026 14:28:45 GMT</pubDate>
+		<lastBuildDate>Tue, 27 Jan 2026 14:28:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2026-01-13 19:57:00</pubDate>
-		</item>
-		<item>
-			<title>Memo - Summary of Call with TRISO-X, LLC. Held on September 15, 2025 to Discuss Supplements for Set 9, RAIs-4 and 5 for Human Factors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25322A413</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2026-01-12 12:19:00</pubDate>
 		</item>
 	</channel>
 </rss>

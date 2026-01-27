@@ -73,8 +73,8 @@
     
 <p>This page is updated Monday through Friday, hourly between 9AM ET and
 5 PM ET. It presents RSS files for the various dockets tracked by the
-<code>nrcadams</code> package. The last update was at 2026-01-26
-18:21:34.016644 ET.</p>
+<code>nrcadams</code> package. The last update was at 2026-01-27
+09:28:45.007192 ET.</p>
 <div class="section level2">
 <h2 id="using-the-rss-feeds">Using the RSS Feeds<a class="anchor" aria-label="anchor" href="#using-the-rss-feeds"></a>
 </h2>
@@ -102,7 +102,7 @@ located at the URLs shown in the table below.</p>
 <span>  <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/mutate-joins.html" class="external-link">left_join</a></span><span class="op">(</span><span class="fu">nrcadams</span><span class="fu">::</span><span class="va"><a href="../reference/docket_codex.html">docket_codex</a></span><span class="op">)</span> <span class="op">|&gt;</span></span>
 <span>  <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/filter.html" class="external-link">filter</a></span><span class="op">(</span><span class="op">!</span><span class="fu"><a href="https://rdrr.io/r/base/NA.html" class="external-link">is.na</a></span><span class="op">(</span><span class="va">Project</span><span class="op">)</span><span class="op">)</span></span>
 <span><span class="co">#&gt; </span></span>
-<span><span class="co">#&gt;  This search returned: 97 files.</span></span>
+<span><span class="co">#&gt;  This search returned: 89 files.</span></span>
 <span><span class="co">#&gt; Joining with `by = join_by(DocketNumber)`</span></span>
 <span></span>
 <span></span>
@@ -184,7 +184,7 @@ particular), these RSS files might help.</p>
 <span>  <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/pull.html" class="external-link">pull</a></span><span class="op">(</span><span class="va">DocketNumber</span><span class="op">)</span> <span class="op">|&gt;</span></span>
 <span>  <span class="fu">nrcadams</span><span class="fu">::</span><span class="fu"><a href="../reference/search_docket.html">search_docket</a></span><span class="op">(</span>days_back <span class="op">=</span> <span class="fl">14</span><span class="op">)</span></span>
 <span><span class="co">#&gt; </span></span>
-<span><span class="co">#&gt;  This search returned: 32 files.</span></span>
+<span><span class="co">#&gt;  This search returned: 30 files.</span></span>
 <span></span>
 <span><span class="kw">if</span> <span class="op">(</span><span class="fu"><a href="https://rdrr.io/r/base/length.html" class="external-link">length</a></span><span class="op">(</span><span class="va">last_week_in_RTRs</span><span class="op">)</span> <span class="op">!=</span> <span class="fl">0</span><span class="op">)</span> <span class="op">{</span></span>
 <span>  <span class="va">last_week_in_RTRs</span> <span class="op">&lt;-</span> <span class="va">last_week_in_RTRs</span> <span class="op">|&gt;</span></span>

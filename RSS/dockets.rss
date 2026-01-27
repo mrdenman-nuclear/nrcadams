@@ -5,18 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 26 Jan 2026 23:21:35 GMT</pubDate>
-		<lastBuildDate>Mon, 26 Jan 2026 23:21:35 GMT</lastBuildDate>
+		<pubDate>Tue, 27 Jan 2026 14:28:46 GMT</pubDate>
+		<lastBuildDate>Tue, 27 Jan 2026 14:28:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>ML26022A028- Email to SMR (Holtec) Subject "Topical Report Completeness Determination for Report Number HI-2251825 Revision 0"</title>
+			<title>Final Withholding Letter - Rev 3 of Kairos REP</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26007A168</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2026-01-27 12:32:00</pubDate>
+		</item>
+		<item>
+			<title>ML26022A028- Email to SMR (Holtec) Subject "Topical Report Completeness Determination for Report Number HI-2251837 Revision 0"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26022A028</link>
 			<description>E-Mail</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2026-01-26 20:24:00</pubDate>
+			<pubDate>2026-01-27 11:57:00</pubDate>
 		</item>
 		<item>
 			<title>ML26022A027 - NRC Form 898, "Topical Report Completeness Determination" for HI-2251837 Revision 0</title>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26021A026</link>
 			<description>E-Mail</description>
 			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2026-01-21 16:47:00</pubDate>
-		</item>
-		<item>
-			<title>Ltr to Ryan K. Morrow Thlopthlocco Tribal Town Re CRN CP DSEIS</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25289A325</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/ETRB1</author>
 			<pubDate>2026-01-21 16:47:00</pubDate>
 		</item>
 	</channel>

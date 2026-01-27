@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 26 Jan 2026 23:21:35 GMT</pubDate>
-		<lastBuildDate>Mon, 26 Jan 2026 23:21:35 GMT</lastBuildDate>
+		<pubDate>Tue, 27 Jan 2026 14:28:46 GMT</pubDate>
+		<lastBuildDate>Tue, 27 Jan 2026 14:28:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Final Withholding Letter - Rev 3 of Kairos REP</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26007A168</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2026-01-27 12:32:00</pubDate>
+		</item>
 		<item>
 			<title>Kairos Power LLC, Approved Version of the Safety Analysis Methodology for the Kairos Power Fluoride Salt-Cooled High-Temperature Test Reactor Topical Report (KP-TR-020, Revision 1)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26007A305</link>
@@ -38,20 +45,6 @@
 			<description>Topical Report Evaluation</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2026-01-16 11:58:00</pubDate>
-		</item>
-		<item>
-			<title>2025/12/10 Kairos Power Pre-App Doc - Kairos KP-FHR Safety Analysis Methodology Topical Report - Draft Audit Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26005A195</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-01-12 12:19:00</pubDate>
-		</item>
-		<item>
-			<title>2025/12/23 Kairos Power Pre-App Doc - [External_Sender] Kairos Power Electronic Reading Room Document Upload</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26005A196</link>
-			<description>E-Mail</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2026-01-12 12:19:00</pubDate>
 		</item>
 	</channel>
 </rss>
