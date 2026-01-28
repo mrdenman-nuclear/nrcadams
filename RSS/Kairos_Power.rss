@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 27 Jan 2026 23:26:02 GMT</pubDate>
-		<lastBuildDate>Tue, 27 Jan 2026 23:26:02 GMT</lastBuildDate>
+		<pubDate>Wed, 28 Jan 2026 14:29:35 GMT</pubDate>
+		<lastBuildDate>Wed, 28 Jan 2026 14:29:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Declaring a National Energy Emergency - Enclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25344A062</link>
+			<description>- No Document Type Applies</description>
+			<author>NRC/Chairman</author>
+			<pubDate>2026-01-28 12:04:00</pubDate>
+		</item>
 		<item>
 			<title>NRC-001A - SECY-25-0102 Staff Statement in Support of the Uncontested Hearing for the Issuance of a Construction Permit for the USO Kemmerer Power Station</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26026A330</link>
@@ -94,27 +101,6 @@
 			<description></description>
 			<author></author>
 			<pubDate>2026-01-16 11:57:00</pubDate>
-		</item>
-		<item>
-			<title>Human Factors Considerations for Anticipated Uses of Autonomy in Advanced Reactor Technologies.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26013A039</link>
-			<description>Report, Technical</description>
-			<author>Idaho National Lab, NRC/RES, US Dept of Energy, Office of Nuclear Energy</author>
-			<pubDate>2026-01-13 14:44:00</pubDate>
-		</item>
-		<item>
-			<title>Diablo Canyon Independent Safety Committee; Thirty-Fifth Annual Report on the Safety of Diablo Canyon Nuclear Power Plant Operations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26002A081</link>
-			<description>Annual Operating Report, Letter</description>
-			<author>Diablo Canyon Independent Safety Committee</author>
-			<pubDate>2026-01-13 12:11:00</pubDate>
-		</item>
-		<item>
-			<title>Diablo Canyon Independent Safety Committee; Thirty-Fifth Annual Report on the Safety of Diablo Canyon Nuclear Power Plant Operations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26002A081</link>
-			<description>Annual Operating Report, Letter</description>
-			<author>Diablo Canyon Independent Safety Committee</author>
-			<pubDate>2026-01-13 12:11:00</pubDate>
 		</item>
 	</channel>
 </rss>
