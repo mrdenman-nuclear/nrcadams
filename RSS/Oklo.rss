@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 28 Jan 2026 23:25:48 GMT</pubDate>
-		<lastBuildDate>Wed, 28 Jan 2026 23:25:48 GMT</lastBuildDate>
+		<pubDate>Thu, 29 Jan 2026 14:39:17 GMT</pubDate>
+		<lastBuildDate>Thu, 29 Jan 2026 14:39:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Oklo Inc. - Request for Audit - NRC Observation of Oklo's DOE Authorization Activities for the Aurora-INL Powerhouse</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26021A198</link>
+			<description></description>
+			<author></author>
+			<pubDate>2026-01-29 12:20:00</pubDate>
+		</item>
 		<item>
 			<title>Declaring a National Energy Emergency - Enclosure</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25344A062</link>
@@ -24,13 +31,6 @@
 			<description>Report, Technical, Technical Paper</description>
 			<author>Center for Nuclear Waste Regulatory Analyses (CNWRA), Southwest Research Institute</author>
 			<pubDate>2026-01-23 12:49:00</pubDate>
-		</item>
-		<item>
-			<title>01/22/2026 Oklo Pre-Licensing Meeting to Discuss Security Plan Concept for a Reprocessing Facility</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26014A278</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2026-01-15 01:10:00</pubDate>
 		</item>
 	</channel>
 </rss>
