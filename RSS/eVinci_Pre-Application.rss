@@ -5,18 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 29 Jan 2026 23:24:46 GMT</pubDate>
-		<lastBuildDate>Thu, 29 Jan 2026 23:24:46 GMT</lastBuildDate>
+		<pubDate>Fri, 30 Jan 2026 14:35:43 GMT</pubDate>
+		<lastBuildDate>Fri, 30 Jan 2026 14:35:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>Enclosure 1 - Safety Evaluation for the TRISO Fuel Design Methodology Topical Report for the eVinci Microreactor Non-Proprietary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25266A243</link>
-			<description>Safety Evaluation Report, Draft</description>
+			<title>Cover Letter for Safety Evaluation regarding eVinci Nuclear Design Methodology Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25351A004</link>
+			<description>Letter</description>
 			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2026-01-15 15:31:00</pubDate>
+			<pubDate>2026-01-30 12:09:00</pubDate>
+		</item>
+		<item>
+			<title>Non-Proprietary Final Safety Evaluation Nuclear Design Methodology Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25351A003</link>
+			<description>Safety Evaluation Report</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2026-01-30 12:09:00</pubDate>
 		</item>
 	</channel>
 </rss>
