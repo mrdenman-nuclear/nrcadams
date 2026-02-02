@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 02 Feb 2026 19:32:28 GMT</pubDate>
-		<lastBuildDate>Mon, 02 Feb 2026 19:32:28 GMT</lastBuildDate>
+		<pubDate>Mon, 02 Feb 2026 23:26:42 GMT</pubDate>
+		<lastBuildDate>Mon, 02 Feb 2026 23:26:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 2: Ultra Plus Control Rod Assembly Licensing Topical Report, NEDO-34416, Revision 0, January 2026 - Non-Proprietary Information</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26026A326</link>
+			<description>Topical Report</description>
+			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
+			<pubDate>2026-02-02 20:08:00</pubDate>
+		</item>
+		<item>
+			<title>Westinghouse 10 CFR 70.72 Facility Change Report For 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26029A388</link>
+			<description>Letter, Report, Miscellaneous</description>
+			<author>Westinghouse Electric Co, LLC</author>
+			<pubDate>2026-02-02 20:08:00</pubDate>
+		</item>
 		<item>
 			<title>V.C. Summer Unit 1 [50-395], Annual Report Form for Drug and Alcohol Tests for 2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26033A181</link>
@@ -206,20 +220,6 @@
 			<description>Technical Specification, Bases Change</description>
 			<author>Southern Nuclear Operating Co, Inc</author>
 			<pubDate>2026-01-29 16:35:00</pubDate>
-		</item>
-		<item>
-			<title>Joseph M. Farley, Units 1 & 2, Technical Specifications Bases Changes</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25311A105</link>
-			<description>Technical Specification, Bases Change</description>
-			<author>Southern Nuclear Operating Co, Inc</author>
-			<pubDate>2026-01-29 16:35:00</pubDate>
-		</item>
-		<item>
-			<title>WCAP-18850-NP-A, Revision 0, "Adaptation of the FULL SPECTRUM LOCA (FSLOCA) Evaluation Methodology to Perform Analysis of Cladding Rupture for High Burnup Fuel" (Non-Proprietary)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25363A155</link>
-			<description>Topical Report</description>
-			<author>Westinghouse Electric Co</author>
-			<pubDate>2026-01-29 16:00:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 02 Feb 2026 19:32:24 GMT</pubDate>
-		<lastBuildDate>Mon, 02 Feb 2026 19:32:24 GMT</lastBuildDate>
+		<pubDate>Mon, 02 Feb 2026 23:26:38 GMT</pubDate>
+		<lastBuildDate>Mon, 02 Feb 2026 23:26:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submittal of Revision 0 of Ultra Plus Control Rod Assembly Licensing Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26026A324</link>
+			<description>Letter</description>
+			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
+			<pubDate>2026-02-02 20:09:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Staff's Response to the Atomic Safety and Licensing Board's Order of January 22, 2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26033A186</link>
+			<description>Legal-Correspondence/Miscellaneous</description>
+			<author>NRC/OGC</author>
+			<pubDate>2026-02-02 20:09:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: Ultra Plus Control Rod Assembly Licensing Topical Report, NEDO-34416, Revision 0, January 2026 - Non-Proprietary Information</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26026A326</link>
+			<description>Topical Report</description>
+			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
+			<pubDate>2026-02-02 20:08:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 3: Affidavit for NEDC-34416P, Revision 0, dated December 9, 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26026A327</link>
+			<description>Legal-Affidavit</description>
+			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
+			<pubDate>2026-02-02 20:08:00</pubDate>
+		</item>
 		<item>
 			<title>Memorandum and Order (Scheduling Prehearing Conference and Oral Argument)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26033A100</link>
@@ -192,34 +220,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2026-01-28 12:03:00</pubDate>
-		</item>
-		<item>
-			<title>2026/01/14 Clinch River CP Saf Docs - Docket Request for response to A-3.8-8F, TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26014A268</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-01-28 12:03:00</pubDate>
-		</item>
-		<item>
-			<title>2026/01/14 Clinch River CP Saf Docs - Docket Request for response to A-3.5-4, TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26014A160</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-01-28 12:03:00</pubDate>
-		</item>
-		<item>
-			<title>Aalo Holdings, Inc., Submittal of Presentation, Aalo-1 Design Overview Closed Presentation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25350C208</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>Aalo Holdings, Inc</author>
-			<pubDate>2026-01-27 17:46:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Staff Exhibit List</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26026A364</link>
-			<description>Legal-Correspondence/Miscellaneous</description>
-			<author>NRC/OGC</author>
-			<pubDate>2026-01-27 17:46:00</pubDate>
 		</item>
 	</channel>
 </rss>
