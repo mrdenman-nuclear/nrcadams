@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 02 Feb 2026 16:37:25 GMT</pubDate>
-		<lastBuildDate>Mon, 02 Feb 2026 16:37:25 GMT</lastBuildDate>
+		<pubDate>Mon, 02 Feb 2026 17:38:00 GMT</pubDate>
+		<lastBuildDate>Mon, 02 Feb 2026 17:38:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>V.C. Summer Unit 1 [50-395], Annual Report Form for Drug and Alcohol Tests for 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26033A181</link>
+			<description>License-Fitness for Duty (FFD) Performance Report</description>
+			<author>South Carolina Electric and Gas Co</author>
+			<pubDate>2026-02-02 15:33:00</pubDate>
+		</item>
 		<item>
 			<title>X Energy, LLC, (X-energy) Submittal of Xe-100 Licensing White Paper Use of Remotely Operated Special Tooling as Part of the Spent Fuel Storage System, Revision 1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26023A101</link>
@@ -213,13 +220,6 @@
 			<description>Topical Report</description>
 			<author>Westinghouse Electric Co</author>
 			<pubDate>2026-01-29 16:00:00</pubDate>
-		</item>
-		<item>
-			<title>North Anna [50-338; 50-339], Annual Report Form for Drug and Alcohol Tests for 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26029A076</link>
-			<description>License-Fitness for Duty (FFD) Performance Report</description>
-			<author>Virginia Electric and Power Co (VEPCO)</author>
-			<pubDate>2026-01-29 14:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
