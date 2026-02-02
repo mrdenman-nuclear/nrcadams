@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 30 Jan 2026 23:26:23 GMT</pubDate>
-		<lastBuildDate>Fri, 30 Jan 2026 23:26:23 GMT</lastBuildDate>
+		<pubDate>Mon, 02 Feb 2026 14:43:13 GMT</pubDate>
+		<lastBuildDate>Mon, 02 Feb 2026 14:43:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Endangered Species Act Conservation Measures for the Long Mott Generating Station</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26023A032</link>
+			<description>Letter</description>
+			<author>Long Mott Energy, LLC</author>
+			<pubDate>2026-02-02 12:03:00</pubDate>
+		</item>
 		<item>
 			<title>Long Mott Energy LLC's Answer in Opposition to Waterkeeper's Motion for Retroactive Extension of Time to File a Reply</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26023A195</link>
@@ -66,20 +73,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2026-01-20 12:02:00</pubDate>
-		</item>
-		<item>
-			<title>Memorandum and Order (Granting Unopposed Motion for Leave to Exceed the Page Limit for Reply Pleading)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26016A638</link>
-			<description>Legal-Order</description>
-			<author>NRC/ASLBP</author>
-			<pubDate>2026-01-16 20:11:00</pubDate>
-		</item>
-		<item>
-			<title>Waterkeeper Motion for Leave to Exceed the Page Limit for Reply Pleading</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26015A530</link>
-			<description>Legal-Motion</description>
-			<author>Perales, Allmon and Ice, P.C., San Antonio Bay Estuarine Waterkeeper</author>
-			<pubDate>2026-01-16 13:14:00</pubDate>
 		</item>
 	</channel>
 </rss>

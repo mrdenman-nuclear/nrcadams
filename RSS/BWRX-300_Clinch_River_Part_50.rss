@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 30 Jan 2026 23:26:23 GMT</pubDate>
-		<lastBuildDate>Fri, 30 Jan 2026 23:26:23 GMT</lastBuildDate>
+		<pubDate>Mon, 02 Feb 2026 14:43:13 GMT</pubDate>
+		<lastBuildDate>Mon, 02 Feb 2026 14:43:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -19,15 +19,15 @@
 			<pubDate>2026-01-30 12:09:00</pubDate>
 		</item>
 		<item>
-			<title>2026/01/16 Clinch River CP Saf Docs - Docket Request for A-5.4-5 TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26016A572</link>
+			<title>2026/01/16 Clinch River CP Saf Docs - Docket Request for A-16.4-1 - TVA Clinch River CP Audit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26016A571</link>
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2026-01-30 12:09:00</pubDate>
 		</item>
 		<item>
-			<title>2026/01/16 Clinch River CP Saf Docs - Docket Request for A-16.4-1 - TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26016A571</link>
+			<title>2026/01/16 Clinch River CP Saf Docs - Docket Request for A-5.4-5 TVA Clinch River CP Audit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26016A572</link>
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2026-01-30 12:09:00</pubDate>
@@ -180,13 +180,6 @@
 			<pubDate>2026-01-21 16:46:00</pubDate>
 		</item>
 		<item>
-			<title>Ltr to Libby Rogers Jena Band of Choctaw Indians Re CRN CP DSEIS</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25289A321</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/ETRB1</author>
-			<pubDate>2026-01-21 16:46:00</pubDate>
-		</item>
-		<item>
 			<title>Ltr to Lewis J. Johnson Seminole Nation of Oklahoma Re CRN CP DSEIS</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25289A320</link>
 			<description>Letter</description>
@@ -196,6 +189,13 @@
 		<item>
 			<title>Ltr to David Sickey Coushatta Tribe of Louisiana Re CRN CP DSEIS</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25289A314</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DREFS/ETRB1</author>
+			<pubDate>2026-01-21 16:46:00</pubDate>
+		</item>
+		<item>
+			<title>Ltr to Libby Rogers Jena Band of Choctaw Indians Re CRN CP DSEIS</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25289A321</link>
 			<description>Letter</description>
 			<author>NRC/NMSS/DREFS/ETRB1</author>
 			<pubDate>2026-01-21 16:46:00</pubDate>

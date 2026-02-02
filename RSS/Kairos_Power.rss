@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 30 Jan 2026 23:26:28 GMT</pubDate>
-		<lastBuildDate>Fri, 30 Jan 2026 23:26:28 GMT</lastBuildDate>
+		<pubDate>Mon, 02 Feb 2026 14:43:18 GMT</pubDate>
+		<lastBuildDate>Mon, 02 Feb 2026 14:43:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -87,27 +87,6 @@
 			<description>Audit Plan</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2026-01-20 12:03:00</pubDate>
-		</item>
-		<item>
-			<title>Terra Innovatum, LTR-TINN-25-024, Revision 0, "Rock City Admiral Parkway (IL) Site Characteristics Preliminary Analysis"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25333A003</link>
-			<description>Technical Paper</description>
-			<author>Terra Innovatum s.r.l</author>
-			<pubDate>2026-01-16 20:11:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC, Approved Version of the Safety Analysis Methodology for the Kairos Power Fluoride Salt-Cooled High-Temperature Test Reactor Topical Report (KP-TR-020, Revision 1)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26007A304</link>
-			<description></description>
-			<author></author>
-			<pubDate>2026-01-16 16:33:00</pubDate>
-		</item>
-		<item>
-			<title>Topical Report Form 896 for Kairos Power Safety Analysis Methodology Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26013A115</link>
-			<description></description>
-			<author></author>
-			<pubDate>2026-01-16 11:57:00</pubDate>
 		</item>
 	</channel>
 </rss>
