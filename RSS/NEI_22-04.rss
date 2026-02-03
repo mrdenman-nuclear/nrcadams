@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 03 Feb 2026 20:34:44 GMT</pubDate>
-		<lastBuildDate>Tue, 03 Feb 2026 20:34:44 GMT</lastBuildDate>
+		<pubDate>Tue, 03 Feb 2026 21:40:08 GMT</pubDate>
+		<lastBuildDate>Tue, 03 Feb 2026 21:40:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 1: PSAR Subsection 2.4.12, Groundwater</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26033A254</link>
+			<description>Preliminary Safety Analysis Report (PSAR)</description>
+			<author>Long Mott Energy, LLC</author>
+			<pubDate>2026-02-03 20:13:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1: PSAR Subsection 2.4.12, Groundwater</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26033A254</link>
+			<description>Preliminary Safety Analysis Report (PSAR)</description>
+			<author>Long Mott Energy, LLC</author>
+			<pubDate>2026-02-03 20:13:00</pubDate>
+		</item>
 		<item>
 			<title>St. Lucie Plant, Unit No. 2 - Issuance of Amendment No. 214 to Revise Technical Specification 5.5.16 "Surveillance Frequency Control Program" to Increase Certain Surveillance Requirement Frequencies to Support a 24-Month Fuel Cycle (NON-PROPRIETARY)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26023A004</link>
@@ -206,20 +220,6 @@
 			<description>Guidance Document</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2026-01-23 12:50:00</pubDate>
-		</item>
-		<item>
-			<title>Wolf Creek Generating Station, Unit 1 Issuance Of Amendment No. 246 To Implement GSI-191 (EPID L-2024-LLA-0125)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25317A782</link>
-			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation, Technical Specifications</description>
-			<author>NRC/NRR/DORL/LPL4</author>
-			<pubDate>2026-01-23 12:49:00</pubDate>
-		</item>
-		<item>
-			<title>Nine Mile Point, Submittal of Revision 29 to the Final Safety Analysis Report (Updated), Fire Protection Design Criteria Document, 10 CFR 50.59 Evaluation Summary Report, 10 CFR 72.48 Evaluation Summary Report, 10 CFR 54.37(b) Aging Management Review...</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25279A148</link>
-			<description>Final Safety Analysis Report (FSAR), Letter</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2026-01-20 20:14:00</pubDate>
 		</item>
 	</channel>
 </rss>
