@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 02 Feb 2026 23:26:42 GMT</pubDate>
-		<lastBuildDate>Mon, 02 Feb 2026 23:26:42 GMT</lastBuildDate>
+		<pubDate>Tue, 03 Feb 2026 14:45:52 GMT</pubDate>
+		<lastBuildDate>Tue, 03 Feb 2026 14:45:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Calvert Cliffs Nuclear Power Plant, Unit 2, Response to Request for Additional Information Regarding Steam Generator Tube Inspection Report for Unit 2 (CC2R26)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26026A073</link>
+			<description>Response to Request for Additional Information (RAI)</description>
+			<author>Constellation Energy Generation, LLC</author>
+			<pubDate>2026-02-03 12:19:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 2: Ultra Plus Control Rod Assembly Licensing Topical Report, NEDO-34416, Revision 0, January 2026 - Non-Proprietary Information</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26026A326</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Blue Energy Global, Inc</author>
 			<pubDate>2026-01-29 16:36:00</pubDate>
-		</item>
-		<item>
-			<title>Joseph M. Farley, Units 1 & 2, Technical Specifications Bases Changes</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25311A105</link>
-			<description>Technical Specification, Bases Change</description>
-			<author>Southern Nuclear Operating Co, Inc</author>
-			<pubDate>2026-01-29 16:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
