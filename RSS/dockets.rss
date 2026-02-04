@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 04 Feb 2026 21:32:08 GMT</pubDate>
-		<lastBuildDate>Wed, 04 Feb 2026 21:32:08 GMT</lastBuildDate>
+		<pubDate>Wed, 04 Feb 2026 22:25:18 GMT</pubDate>
+		<lastBuildDate>Wed, 04 Feb 2026 22:25:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NMFS to NRC, Concurrence with EFH findings</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26035A118</link>
+			<description>E-Mail</description>
+			<author>US Dept of Commerce, National Marine Fisheries Service</author>
+			<pubDate>2026-02-04 20:07:00</pubDate>
+		</item>
 		<item>
 			<title>Termination of Possession Declaration</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26034C177</link>
@@ -213,13 +220,6 @@
 			<description>Technical Paper</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2026-02-02 12:03:00</pubDate>
-		</item>
-		<item>
-			<title>02/24/2026 Meeting Notice for Closed Virtual Post-submittal Meeting for Global Nuclear Fuels Topical Report NEDC-34392P, Revision 0, "LANCR02/PANAC12 Application Methodology"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26030A017</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-01-30 12:27:00</pubDate>
 		</item>
 	</channel>
 </rss>
