@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 03 Feb 2026 23:29:20 GMT</pubDate>
-		<lastBuildDate>Tue, 03 Feb 2026 23:29:20 GMT</lastBuildDate>
+		<pubDate>Wed, 04 Feb 2026 14:44:10 GMT</pubDate>
+		<lastBuildDate>Wed, 04 Feb 2026 14:44:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 3 - Meeting Summary - 12-11-25 - Dominion Energy ESP Renewal Approach</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26007A126</link>
+			<description>Meeting Summary</description>
+			<author>NRC/NRR</author>
+			<pubDate>2026-02-04 12:36:00</pubDate>
+		</item>
+		<item>
+			<title>Technical Evaluation Report for Draft Basis for Section 3116 Determination for Closure of the Calcined Solids Storage Facility at the Idaho National Laboratory Site</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25356A380</link>
+			<description>Report, Technical</description>
+			<author>Center for Nuclear Waste Regulatory Analyses (CNWRA), NRC/NMSS/DDUWP/LLWPB, NRC/NMSS/DDUWP/RTAB</author>
+			<pubDate>2026-02-04 12:35:00</pubDate>
+		</item>
 		<item>
 			<title>Declaring a National Energy Emergency - Enclosure</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25344A062</link>
@@ -52,13 +66,6 @@
 			<description>Report, Technical, Technical Paper</description>
 			<author>Center for Nuclear Waste Regulatory Analyses (CNWRA), Southwest Research Institute</author>
 			<pubDate>2026-01-23 12:49:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Non-Proprietary Version of White Paper BE-ERWP-03-NP, "Strategic Environmental Report Framework," Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26008A307</link>
-			<description>Environmental Monitoring Report</description>
-			<author>Blue Energy Global, Inc</author>
-			<pubDate>2026-01-20 12:02:00</pubDate>
 		</item>
 	</channel>
 </rss>
