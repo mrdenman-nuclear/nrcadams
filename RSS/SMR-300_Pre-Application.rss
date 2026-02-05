@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 04 Feb 2026 23:27:56 GMT</pubDate>
-		<lastBuildDate>Wed, 04 Feb 2026 23:27:56 GMT</lastBuildDate>
+		<pubDate>Thu, 05 Feb 2026 14:42:56 GMT</pubDate>
+		<lastBuildDate>Thu, 05 Feb 2026 14:42:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -87,27 +87,6 @@
 			<description>Federal Register Notice</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2026-01-22 13:47:00</pubDate>
-		</item>
-		<item>
-			<title>Email to SMR LLC - Staff Review of Request to Withhold Proprietary Information - SMR-300</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26021A026</link>
-			<description>E-Mail</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2026-01-21 16:47:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Information from Public Disclosure for SMR, LLC (A Holtec International Company) SMR-300 Structural Modularity Methodology Meeting Materials for August 12, 2025, Public Meeting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26005A042</link>
-			<description>E-Mail, Proprietary Information Review</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2026-01-21 13:39:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Withholding Information from Public Disclosure for SMR, LLC (A Holtec International Company) Preapplication Meeting Materials for August 27, 2025, Public Meeting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26005A245</link>
-			<description>E-Mail, Proprietary Information Review</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2026-01-21 13:39:00</pubDate>
 		</item>
 	</channel>
 </rss>
