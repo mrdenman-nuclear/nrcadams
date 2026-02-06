@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 06 Feb 2026 20:32:01 GMT</pubDate>
-		<lastBuildDate>Fri, 06 Feb 2026 20:32:01 GMT</lastBuildDate>
+		<pubDate>Fri, 06 Feb 2026 21:29:37 GMT</pubDate>
+		<lastBuildDate>Fri, 06 Feb 2026 21:29:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Notice of Appearance for Sherwin E. Turk</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26037A162</link>
+			<description>Legal-Pleading</description>
+			<author>NRC/OGC</author>
+			<pubDate>2026-02-06 20:09:00</pubDate>
+		</item>
 		<item>
 			<title>NRC Staff's Preliminary Questions on the NRC Assessment of Hadron Energy Quality Assurance Program Description Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26037A025</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26026A324</link>
 			<description>Letter</description>
 			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2026-02-02 20:09:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Staff's Response to the Atomic Safety and Licensing Board's Order of January 22, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26033A186</link>
-			<description>Legal-Correspondence/Miscellaneous</description>
-			<author>NRC/OGC</author>
 			<pubDate>2026-02-02 20:09:00</pubDate>
 		</item>
 	</channel>
