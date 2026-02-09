@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 06 Feb 2026 23:24:52 GMT</pubDate>
-		<lastBuildDate>Fri, 06 Feb 2026 23:24:52 GMT</lastBuildDate>
+		<pubDate>Mon, 09 Feb 2026 14:50:53 GMT</pubDate>
+		<lastBuildDate>Mon, 09 Feb 2026 14:50:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>E-Mail</description>
 			<author>NRC/RGN-III/DRSS</author>
 			<pubDate>2026-02-05 12:28:00</pubDate>
-		</item>
-		<item>
-			<title>Task 2 Report, Advanced Reactor Spent Fuel Geologic Disposal Technical Issues</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25357A177</link>
-			<description>Report, Technical, Technical Paper</description>
-			<author>Center for Nuclear Waste Regulatory Analyses (CNWRA), Southwest Research Institute</author>
-			<pubDate>2026-01-23 12:49:00</pubDate>
 		</item>
 	</channel>
 </rss>
