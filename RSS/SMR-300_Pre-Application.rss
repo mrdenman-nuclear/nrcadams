@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 09 Feb 2026 23:35:59 GMT</pubDate>
-		<lastBuildDate>Mon, 09 Feb 2026 23:35:59 GMT</lastBuildDate>
+		<pubDate>Tue, 10 Feb 2026 14:57:16 GMT</pubDate>
+		<lastBuildDate>Tue, 10 Feb 2026 14:57:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Audit Plan for the Regulatory Audit of "SMR-300 Time Domain LS-DYNA Soil Structure Interaction Analysis Methodology Licensing Topical Report"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26029A002</link>
+			<description>Audit Plan, Memoranda</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2026-02-10 12:42:00</pubDate>
+		</item>
 		<item>
 			<title>Transmittal Email - Completeness Determination for the SMR (Holtec), SMR-300 Instrumentation & Control Architecture Licensing Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26028A187</link>
@@ -52,27 +59,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2026-01-27 11:57:00</pubDate>
-		</item>
-		<item>
-			<title>ML26022A027 - NRC Form 898, "Topical Report Completeness Determination" for HI-2251837 Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26022A027</link>
-			<description>Topical Report</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2026-01-26 20:24:00</pubDate>
-		</item>
-		<item>
-			<title>Form 897, Topical Report Withholding Determination, for HI-2251825 Revision 0, "SMR-300 Concrete Strengthened Steel Structures Design and Analysis Methodology Licensing Topical Report"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26014A001</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2026-01-26 14:00:00</pubDate>
-		</item>
-		<item>
-			<title>Email to SMR (Holtec) Subject "Topical Report Withholding Determination for Report Number HI-2251825 Revision 0"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26016A641</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2026-01-26 14:00:00</pubDate>
 		</item>
 	</channel>
 </rss>
