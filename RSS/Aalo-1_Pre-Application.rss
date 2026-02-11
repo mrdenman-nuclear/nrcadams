@@ -5,25 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 10 Feb 2026 23:38:23 GMT</pubDate>
-		<lastBuildDate>Tue, 10 Feb 2026 23:38:23 GMT</lastBuildDate>
+		<pubDate>Wed, 11 Feb 2026 14:53:43 GMT</pubDate>
+		<lastBuildDate>Wed, 11 Feb 2026 14:53:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submittal of Revised Aalo Holdings, Inc. Topical Report, Quality Assurance Program for Aalo Atomics, Revision E</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26034C403</link>
+			<description>Letter, Quality Assurance Program</description>
+			<author>AALO Atomics</author>
+			<pubDate>2026-02-11 12:16:00</pubDate>
+		</item>
 		<item>
 			<title>NRC Participation in DOE Authorization Basis Reviews</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26029A443</link>
 			<description>Letter</description>
 			<author>AALO Atomics</author>
 			<pubDate>2026-02-06 11:57:00</pubDate>
-		</item>
-		<item>
-			<title>Aalo Holdings, Inc., Submittal of Presentation, Aalo-1 Design Overview Closed Presentation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25350C208</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>Aalo Holdings, Inc</author>
-			<pubDate>2026-01-27 17:46:00</pubDate>
 		</item>
 	</channel>
 </rss>
