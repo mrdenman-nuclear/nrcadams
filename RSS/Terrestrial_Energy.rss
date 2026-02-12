@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 11 Feb 2026 23:31:21 GMT</pubDate>
-		<lastBuildDate>Wed, 11 Feb 2026 23:31:21 GMT</lastBuildDate>
+		<pubDate>Thu, 12 Feb 2026 14:47:25 GMT</pubDate>
+		<lastBuildDate>Thu, 12 Feb 2026 14:47:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 4: Construction Permit No. CPMIF-001 (Changes)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26035A424</link>
+			<description>License-Application for Construction Permit DKT 50</description>
+			<author>SHINE Technologies, LLC</author>
+			<pubDate>2026-02-12 12:08:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 5: Construction Permit No. CPMIF-001 (Clean Pages)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26035A425</link>
+			<description>License-Application for Construction Permit DKT 50</description>
+			<author>SHINE Technologies, LLC</author>
+			<pubDate>2026-02-12 12:08:00</pubDate>
+		</item>
 		<item>
 			<title>Duane Arnold Energy Center - License Amendment Request (TSCR-195): Application to Revise the Emergency Plan to Support Resumption of Power Operation</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26033A048</link>
@@ -115,13 +129,6 @@
 			<description>Report, Technical</description>
 			<author>Center for Nuclear Waste Regulatory Analyses (CNWRA), NRC/NMSS/DDUWP/LLWPB, NRC/NMSS/DDUWP/RTAB</author>
 			<pubDate>2026-02-04 12:35:00</pubDate>
-		</item>
-		<item>
-			<title>Declaring a National Energy Emergency - Enclosure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25344A062</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/Chairman</author>
-			<pubDate>2026-01-28 12:04:00</pubDate>
 		</item>
 	</channel>
 </rss>
