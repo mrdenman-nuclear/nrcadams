@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 12 Feb 2026 17:58:15 GMT</pubDate>
-		<lastBuildDate>Thu, 12 Feb 2026 17:58:15 GMT</lastBuildDate>
+		<pubDate>Thu, 12 Feb 2026 18:59:57 GMT</pubDate>
+		<lastBuildDate>Thu, 12 Feb 2026 18:59:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>ARC Clean Technology, Update on Seismic Isolation Design</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26041A272</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>ARC Clean Technology, Ghiocel Predictive Technologies, Inc, Idaho National Lab</author>
+			<pubDate>2026-02-12 17:21:00</pubDate>
+		</item>
 		<item>
 			<title>Duane Arnold Energy Center - License Amendment Request (TSCR-195): Application to Revise the Emergency Plan to Support Resumption of Power Operation</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26033A048</link>
@@ -213,13 +220,6 @@
 			<description>Report, Miscellaneous, Request for Additional Information (RAI)</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2026-02-06 13:50:00</pubDate>
-		</item>
-		<item>
-			<title>Library of Congress Spreadsheet - ACRS Committee and Consultant Reports - 650 through 731 for years 2018 through 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26035A368</link>
-			<description>Spreadsheet File</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-02-06 11:58:00</pubDate>
 		</item>
 	</channel>
 </rss>
