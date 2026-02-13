@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 13 Feb 2026 17:40:43 GMT</pubDate>
-		<lastBuildDate>Fri, 13 Feb 2026 17:40:43 GMT</lastBuildDate>
+		<pubDate>Fri, 13 Feb 2026 18:44:29 GMT</pubDate>
+		<lastBuildDate>Fri, 13 Feb 2026 18:44:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Memorandum and Order (Denying Motion for Leave to File Out of Time)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26044A101</link>
+			<description>Legal-Order</description>
+			<author>NRC/ASLBP</author>
+			<pubDate>2026-02-13 17:25:00</pubDate>
+		</item>
+		<item>
+			<title>Cover Letter - NRC Issuance of License SNM-7007 for the TRISO-X, LLC. Fuel Fabrication Facility</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25289A030</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2026-02-13 17:25:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1 - NRC 374 License SNM-7007 for TRISO-X Fuel Fabrication Facility (Public)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25289A013</link>
+			<description>License-Application for License (Amend/Renewal/New) DKT 70</description>
+			<author>NRC/NMSS/DFM</author>
+			<pubDate>2026-02-13 17:25:00</pubDate>
+		</item>
 		<item>
 			<title>02/24/2026 Public Meeting with SMR, LLC, A Holtec International Company, on Use of COMPAR2 and CRAFT2 Software Tools</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26044A100</link>
@@ -199,27 +220,6 @@
 			<description>Report, Technical</description>
 			<author>Triso-X, LLC</author>
 			<pubDate>2026-02-11 12:17:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Revised Aalo Holdings, Inc. Topical Report, Quality Assurance Program for Aalo Atomics, Revision E</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26034C403</link>
-			<description>Letter, Quality Assurance Program</description>
-			<author>AALO Atomics</author>
-			<pubDate>2026-02-11 12:16:00</pubDate>
-		</item>
-		<item>
-			<title>2026/01/28 Clinch River CP Saf Docs - Docket Request for A-15.5-4 - TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26028A319</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-02-11 12:16:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Xe-100 Licensing Topical Report Graphite Core Assembly Material Qualification and Design Methodologies</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25262A204</link>
-			<description>Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2026-02-10 17:58:00</pubDate>
 		</item>
 	</channel>
 </rss>
