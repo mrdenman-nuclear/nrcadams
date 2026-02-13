@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 12 Feb 2026 23:28:08 GMT</pubDate>
-		<lastBuildDate>Thu, 12 Feb 2026 23:28:08 GMT</lastBuildDate>
+		<pubDate>Fri, 13 Feb 2026 14:41:24 GMT</pubDate>
+		<lastBuildDate>Fri, 13 Feb 2026 14:41:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>Topical Report</description>
 			<author>Oklo Inc</author>
 			<pubDate>2026-02-11 12:17:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo Inc. - Enclosure 1: Audit Topics for NRC Observation of Aurora-INL DOE Authorization</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26021A200</link>
-			<description>Letter</description>
-			<author>Oklo Inc</author>
-			<pubDate>2026-01-29 12:20:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo Inc. - Request for Audit - NRC Observation of Oklo's DOE Authorization Activities for the Aurora-INL Powerhouse</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26021A199</link>
-			<description>Letter</description>
-			<author>Oklo Inc</author>
-			<pubDate>2026-01-29 12:20:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 12 Feb 2026 23:28:12 GMT</pubDate>
-		<lastBuildDate>Thu, 12 Feb 2026 23:28:12 GMT</lastBuildDate>
+		<pubDate>Fri, 13 Feb 2026 14:41:29 GMT</pubDate>
+		<lastBuildDate>Fri, 13 Feb 2026 14:41:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,20 +66,6 @@
 			<description>Spreadsheet File</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2026-02-06 11:58:00</pubDate>
-		</item>
-		<item>
-			<title>02/05/2026 Blue Energy Meteorological Tower Public Meeting Slides, "Use of Regional Meteorological Date"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26028A304</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Blue Energy Global, Inc</author>
-			<pubDate>2026-01-29 16:36:00</pubDate>
-		</item>
-		<item>
-			<title>Commercial Non-Power Production or Utilization Facilities - Notification of Interpretation (ML26013A085) (clean).</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26013A085</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-01-29 12:20:00</pubDate>
 		</item>
 	</channel>
 </rss>
