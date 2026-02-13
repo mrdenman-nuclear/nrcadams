@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 13 Feb 2026 14:41:24 GMT</pubDate>
-		<lastBuildDate>Fri, 13 Feb 2026 14:41:24 GMT</lastBuildDate>
+		<pubDate>Fri, 13 Feb 2026 15:41:10 GMT</pubDate>
+		<lastBuildDate>Fri, 13 Feb 2026 15:41:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Federal Register Notice TRISO-X Fuel Fabrication Facility Final Environmental Impact Statement Issuance</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26037A109</link>
+			<description>Environmental Impact Statement, Federal Register Notice</description>
+			<author>NRC/NMSS/DREFS/EPMB2</author>
+			<pubDate>2026-02-13 13:50:00</pubDate>
+		</item>
 		<item>
 			<title>Audit Plan For The Regulatory Audit Of "SMR-300 Concrete Strengthened Steel Structures Design And Analysis Methodology Licensing Topical Report"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26033A013</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26035A129</link>
 			<description>Memoranda</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2026-02-10 12:43:00</pubDate>
-		</item>
-		<item>
-			<title>Memorandum and Order (Placing Unredacted Version of LBP-26-02 into the Public Record)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26040A289</link>
-			<description>Legal-Order</description>
-			<author>NRC/ASLBP</author>
 			<pubDate>2026-02-10 12:43:00</pubDate>
 		</item>
 	</channel>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 13 Feb 2026 14:41:29 GMT</pubDate>
-		<lastBuildDate>Fri, 13 Feb 2026 14:41:29 GMT</lastBuildDate>
+		<pubDate>Fri, 13 Feb 2026 15:41:14 GMT</pubDate>
+		<lastBuildDate>Fri, 13 Feb 2026 15:41:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -180,6 +180,13 @@
 			<pubDate>2026-02-03 17:08:00</pubDate>
 		</item>
 		<item>
+			<title>Fermi 2 [50-341], Single Positive Test Form Collected on 06/16/2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26034C094</link>
+			<description>License-Fitness for Duty (FFD) Performance Report</description>
+			<author>DTE Energy</author>
+			<pubDate>2026-02-03 17:08:00</pubDate>
+		</item>
+		<item>
 			<title>Fermi 2 [50-341], Single Positive Test Form Collected on 04/07/2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26034C092</link>
 			<description>License-Fitness for Duty (FFD) Performance Report</description>
@@ -189,13 +196,6 @@
 		<item>
 			<title>Fermi 2 [50-341], Single Positive Test Form Collected on 06/16/2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26034C093</link>
-			<description>License-Fitness for Duty (FFD) Performance Report</description>
-			<author>DTE Energy</author>
-			<pubDate>2026-02-03 17:08:00</pubDate>
-		</item>
-		<item>
-			<title>Fermi 2 [50-341], Single Positive Test Form Collected on 06/16/2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26034C094</link>
 			<description>License-Fitness for Duty (FFD) Performance Report</description>
 			<author>DTE Energy</author>
 			<pubDate>2026-02-03 17:08:00</pubDate>
