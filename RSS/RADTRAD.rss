@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 13 Feb 2026 23:30:06 GMT</pubDate>
-		<lastBuildDate>Fri, 13 Feb 2026 23:30:06 GMT</lastBuildDate>
+		<pubDate>Mon, 16 Feb 2026 14:42:53 GMT</pubDate>
+		<lastBuildDate>Mon, 16 Feb 2026 14:42:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -94,20 +94,6 @@
 			<description>Updated Final Safety Analysis Report (UFSAR)</description>
 			<author>Talen Energy, Susquehanna Nuclear, LLC</author>
 			<pubDate>2026-02-09 12:19:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 8: Evaluation of Changes for AST RE-Analysis for an Increase in Fuel Burnup</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26029A407</link>
-			<description>License-Application for Facility Operating License (Amend/Renewal) DKT 50, Report, Technical</description>
-			<author>Ameren Missouri, Numerical Advisory Solutions, LLC, Union Electric Co</author>
-			<pubDate>2026-02-06 11:57:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Kairos Power, LLC - KP-FHR Mechanisic Source Term Topical Report (KP-TR-012, Revision 4) (Non-Proprietary)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26029A417</link>
-			<description>Report, Technical</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2026-02-06 11:57:00</pubDate>
 		</item>
 	</channel>
 </rss>

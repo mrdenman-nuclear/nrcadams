@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 13 Feb 2026 23:30:04 GMT</pubDate>
-		<lastBuildDate>Fri, 13 Feb 2026 23:30:04 GMT</lastBuildDate>
+		<pubDate>Mon, 16 Feb 2026 14:42:51 GMT</pubDate>
+		<lastBuildDate>Mon, 16 Feb 2026 14:42:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Spreadsheet File</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2026-02-06 11:58:00</pubDate>
-		</item>
-		<item>
-			<title>Matt Laney - Overview of Natrium Demonstration Plant Implementation of ASME QME-1 and OM-2 Code</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26028A139</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2026-01-30 17:07:00</pubDate>
 		</item>
 	</channel>
 </rss>

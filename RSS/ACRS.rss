@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 13 Feb 2026 23:30:01 GMT</pubDate>
-		<lastBuildDate>Fri, 13 Feb 2026 23:30:01 GMT</lastBuildDate>
+		<pubDate>Mon, 16 Feb 2026 14:42:48 GMT</pubDate>
+		<lastBuildDate>Mon, 16 Feb 2026 14:42:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Federal Register Notice</description>
 			<author>NRC/ACRS, NRC/SECY</author>
 			<pubDate>2026-01-21 12:05:00</pubDate>
-		</item>
-		<item>
-			<title>Minutes of the 731st Meeting of the Advisory Committee on Reactor Safeguards (ACRS) for December 3 Through 4, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26014A056</link>
-			<description>Meeting Minutes, Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-01-15 12:23:00</pubDate>
 		</item>
 	</channel>
 </rss>

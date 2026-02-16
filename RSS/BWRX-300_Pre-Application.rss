@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 13 Feb 2026 23:29:59 GMT</pubDate>
-		<lastBuildDate>Fri, 13 Feb 2026 23:29:59 GMT</lastBuildDate>
+		<pubDate>Mon, 16 Feb 2026 14:42:47 GMT</pubDate>
+		<lastBuildDate>Mon, 16 Feb 2026 14:42:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,20 +52,6 @@
 			<description>Legal-Affidavit</description>
 			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
 			<pubDate>2026-02-02 20:08:00</pubDate>
-		</item>
-		<item>
-			<title>02/24/2026 Meeting Notice for Closed Virtual Post-submittal Meeting for Global Nuclear Fuels Topical Report NEDC-34392P, Revision 0, "LANCR02/PANAC12 Application Methodology"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26030A017</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-01-30 12:27:00</pubDate>
-		</item>
-		<item>
-			<title>U.S. Nuclear Regulatory Commission Verification Letter for General Electric Accepted Version of Topical Report NEDO-21231-A, Revision 1, "Banked Position Withdrawal Sequence" (EPID: L-2025-TOP-0031)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25351A145</link>
-			<description>Letter, Topical Report</description>
-			<author>NRC/NRR/DORL/LLPB</author>
-			<pubDate>2026-01-30 12:10:00</pubDate>
 		</item>
 	</channel>
 </rss>
