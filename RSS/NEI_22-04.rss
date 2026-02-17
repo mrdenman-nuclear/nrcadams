@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 17 Feb 2026 14:52:00 GMT</pubDate>
-		<lastBuildDate>Tue, 17 Feb 2026 14:52:00 GMT</lastBuildDate>
+		<pubDate>Tue, 17 Feb 2026 15:51:48 GMT</pubDate>
+		<lastBuildDate>Tue, 17 Feb 2026 15:51:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Risk-Informed Showcase Public Meeting Slides for February 19, 2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26048A054</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2026-02-17 14:35:00</pubDate>
+		</item>
 		<item>
 			<title>Cooper Nuclear Station - Relief Request Nos. RP-01, RP-02, RS 01, and RV-01 Through RV-05 Pump, Valve, and Snubber Inservice Testing Program Changes (EPID L-2025-LLR-0028 Through L-2025-LLR-0035)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26014A179</link>
@@ -213,13 +220,6 @@
 			<description>Letter, Technical Specification, Bases Change, Technical Specifications</description>
 			<author>Dominion Energy, Dominion Energy Nuclear Connecticut, Inc</author>
 			<pubDate>2026-02-09 12:20:00</pubDate>
-		</item>
-		<item>
-			<title>Susquehanna, Units 1 and 2 - Updated Final Safety Analysis Report, Rev. 72, Chapter 6, Section 6.2, Containment Systems</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25290A055</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Talen Energy, Susquehanna Nuclear, LLC</author>
-			<pubDate>2026-02-09 12:19:00</pubDate>
 		</item>
 	</channel>
 </rss>
