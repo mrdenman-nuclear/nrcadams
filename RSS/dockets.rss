@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 17 Feb 2026 20:35:38 GMT</pubDate>
-		<lastBuildDate>Tue, 17 Feb 2026 20:35:38 GMT</lastBuildDate>
+		<pubDate>Tue, 17 Feb 2026 21:35:00 GMT</pubDate>
+		<lastBuildDate>Tue, 17 Feb 2026 21:35:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>MEMORANDUM AND ORDER (Granting Joint Motion Regarding Mandatory Disclosures)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26048A334</link>
+			<description>Legal-Order</description>
+			<author>NRC/ASLBP</author>
+			<pubDate>2026-02-17 20:08:00</pubDate>
+		</item>
 		<item>
 			<title>Joint Unopposed Motion Regarding Mandatory Disclosures</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26044A256</link>
@@ -210,13 +217,6 @@
 		<item>
 			<title>Triso-X, LLC - Submittal of Revisions to License Application Chapters and ISA Summary</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26037A267</link>
-			<description>Letter</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2026-02-11 12:18:00</pubDate>
-		</item>
-		<item>
-			<title>TRISO-X, LLC, Submittal of License Application Update</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26041A191</link>
 			<description>Letter</description>
 			<author>Triso-X, LLC</author>
 			<pubDate>2026-02-11 12:18:00</pubDate>
