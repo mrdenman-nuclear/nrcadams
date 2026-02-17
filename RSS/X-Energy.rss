@@ -5,13 +5,34 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 16 Feb 2026 23:29:38 GMT</pubDate>
-		<lastBuildDate>Mon, 16 Feb 2026 23:29:38 GMT</lastBuildDate>
+		<pubDate>Tue, 17 Feb 2026 14:51:58 GMT</pubDate>
+		<lastBuildDate>Tue, 17 Feb 2026 14:51:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
+			<title>Virgil C. Summer Nuclear Plant - Integrated Inspection Report 05000395/2025004 and Apparent Violation</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26030A039</link>
+			<description>Inspection Report, Letter</description>
+			<author>NRC/RGN-II/DORS/PB2</author>
+			<pubDate>2026-02-09 12:22:00</pubDate>
+		</item>
+		<item>
+			<title>Virgil C. Summer - NRC Inspection Report 05000395/2026090 Preliminary White Finding</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26033A004</link>
+			<description>Inspection Report, Letter</description>
+			<author>NRC/RGN-II/DORS/PB2</author>
+			<pubDate>2026-02-09 12:22:00</pubDate>
+		</item>
+		<item>
+			<title>Task Order No. 31310026F0009 Under Contract No. 31310020D0011</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26034C159</link>
+			<description>ACQ-Contract Task Order</description>
+			<author>NRC/ADM/AMD</author>
+			<pubDate>2026-02-09 12:21:00</pubDate>
+		</item>
+		<item>
 			<title>Susquehanna, Units 1 and 2 - Updated Final Safety Analysis Report, Rev. 72, Questions 121</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25290A157</link>
 			<description>Updated Final Safety Analysis Report (UFSAR)</description>
@@ -199,27 +220,6 @@
 			<description>Updated Final Safety Analysis Report (UFSAR)</description>
 			<author>Talen Energy, Susquehanna Nuclear, LLC</author>
 			<pubDate>2026-02-09 12:20:00</pubDate>
-		</item>
-		<item>
-			<title>Susquehanna, Units 1 and 2 - Updated Final Safety Analysis Report, Rev. 72, Questions 032</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25290A155</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Talen Energy, Susquehanna Nuclear, LLC</author>
-			<pubDate>2026-02-09 12:20:00</pubDate>
-		</item>
-		<item>
-			<title>Susquehanna, Units 1 and 2 - Updated Final Safety Analysis Report, Rev. 72, Chapter 6, Section 6.2, Containment Systems</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25290A055</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Talen Energy, Susquehanna Nuclear, LLC</author>
-			<pubDate>2026-02-09 12:19:00</pubDate>
-		</item>
-		<item>
-			<title>Susquehanna, Units 1 and 2 - Updated Final Safety Analysis Report, Rev. 72, Chapter 6, Section 6.2, Containment Systems</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25290A055</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Talen Energy, Susquehanna Nuclear, LLC</author>
-			<pubDate>2026-02-09 12:19:00</pubDate>
 		</item>
 	</channel>
 </rss>
