@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 17 Feb 2026 23:30:07 GMT</pubDate>
-		<lastBuildDate>Tue, 17 Feb 2026 23:30:07 GMT</lastBuildDate>
+		<pubDate>Wed, 18 Feb 2026 14:44:56 GMT</pubDate>
+		<lastBuildDate>Wed, 18 Feb 2026 14:44:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Wolf Creek Generating Station - License Amendment Request to Revise Technical Specification 1.1 and add 5.5.20 to Use Online Monitoring Methodology</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26040A346</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50, Technical Specification, Amendment, Technical Specification, Bases Change</description>
+			<author>Wolf Creek Nuclear Operating Corp</author>
+			<pubDate>2026-02-18 12:16:00</pubDate>
+		</item>
 		<item>
 			<title>Monthly Federal Register Notice - Applications and Amendments to Facility Operating Licenses and Combined Licenses Involving No Significant Hazards Considerations - Publication Date: February 17, 2026.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26030A089</link>
@@ -213,13 +220,6 @@
 			<description>Letter, Manual, Quality Assurance Program</description>
 			<author>Vistra Operations Company, LLC</author>
 			<pubDate>2026-02-09 12:22:00</pubDate>
-		</item>
-		<item>
-			<title>Millstone Power Station, Units 2 & 3 - Technical Specification Bases Pages</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26030A046</link>
-			<description>Letter, Technical Specification, Bases Change, Technical Specifications</description>
-			<author>Dominion Energy, Dominion Energy Nuclear Connecticut, Inc</author>
-			<pubDate>2026-02-09 12:20:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 17 Feb 2026 23:30:00 GMT</pubDate>
-		<lastBuildDate>Tue, 17 Feb 2026 23:30:00 GMT</lastBuildDate>
+		<pubDate>Wed, 18 Feb 2026 14:44:49 GMT</pubDate>
+		<lastBuildDate>Wed, 18 Feb 2026 14:44:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Examination Result Letter No. 50-326/OL-26-01, University of California - Irvine</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25247A193</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2026-02-03 12:19:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Report Letter No. 50-326/OL-26-01, University of California - Irvine</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25247A192</link>
-			<description>Letter, License-Operator Examination Report (Non-Power Reactors Only), License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2026-02-03 12:19:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
