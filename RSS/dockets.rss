@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 18 Feb 2026 14:44:48 GMT</pubDate>
-		<lastBuildDate>Wed, 18 Feb 2026 14:44:48 GMT</lastBuildDate>
+		<pubDate>Wed, 18 Feb 2026 15:56:47 GMT</pubDate>
+		<lastBuildDate>Wed, 18 Feb 2026 15:56:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Long Mott Energy LLC's Notice of Appeal of LBP-26-1 and Brief in Support of Appeal of LBP-26-1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26048A655</link>
+			<description>Legal-Pleading</description>
+			<author>Long Mott Energy, LLC, Morgan, Lewis and Bockius, LLP</author>
+			<pubDate>2026-02-18 13:33:00</pubDate>
+		</item>
 		<item>
 			<title>2025/11/30 Project Long Mott Docs - NRCNOAA Staff Changes for ESAEFH Trip</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26035A324</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2026-02-13 15:42:00</pubDate>
-		</item>
-		<item>
-			<title>Federal Register Notice TRISO-X Fuel Fabrication Facility Final Environmental Impact Statement Issuance</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26037A109</link>
-			<description>Environmental Impact Statement, Federal Register Notice</description>
-			<author>NRC/NMSS/DREFS/EPMB2</author>
-			<pubDate>2026-02-13 13:50:00</pubDate>
 		</item>
 	</channel>
 </rss>
