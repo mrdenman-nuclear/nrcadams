@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 18 Feb 2026 22:36:32 GMT</pubDate>
-		<lastBuildDate>Wed, 18 Feb 2026 22:36:32 GMT</lastBuildDate>
+		<pubDate>Thu, 19 Feb 2026 14:47:01 GMT</pubDate>
+		<lastBuildDate>Thu, 19 Feb 2026 14:47:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -68,15 +68,15 @@
 			<pubDate>2026-02-12 14:49:00</pubDate>
 		</item>
 		<item>
-			<title>Enclosure 5: Construction Permit No. CPMIF-001 (Clean Pages)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26035A425</link>
+			<title>Enclosure 4: Construction Permit No. CPMIF-001 (Changes)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26035A424</link>
 			<description>License-Application for Construction Permit DKT 50</description>
 			<author>SHINE Technologies, LLC</author>
 			<pubDate>2026-02-12 12:08:00</pubDate>
 		</item>
 		<item>
-			<title>Enclosure 4: Construction Permit No. CPMIF-001 (Changes)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26035A424</link>
+			<title>Enclosure 5: Construction Permit No. CPMIF-001 (Clean Pages)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26035A425</link>
 			<description>License-Application for Construction Permit DKT 50</description>
 			<author>SHINE Technologies, LLC</author>
 			<pubDate>2026-02-12 12:08:00</pubDate>
@@ -171,20 +171,6 @@
 			<description>Letter</description>
 			<author>State of CA, Natural Resources Agency</author>
 			<pubDate>2026-02-05 12:27:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3 - Meeting Summary - 12-11-25 - Dominion Energy ESP Renewal Approach</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26007A126</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-02-04 12:36:00</pubDate>
-		</item>
-		<item>
-			<title>Technical Evaluation Report for Draft Basis for Section 3116 Determination for Closure of the Calcined Solids Storage Facility at the Idaho National Laboratory Site</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25356A380</link>
-			<description>Report, Technical</description>
-			<author>Center for Nuclear Waste Regulatory Analyses (CNWRA), NRC/NMSS/DDUWP/LLWPB, NRC/NMSS/DDUWP/RTAB</author>
-			<pubDate>2026-02-04 12:35:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 18 Feb 2026 22:36:27 GMT</pubDate>
-		<lastBuildDate>Wed, 18 Feb 2026 22:36:27 GMT</lastBuildDate>
+		<pubDate>Thu, 19 Feb 2026 14:46:55 GMT</pubDate>
+		<lastBuildDate>Thu, 19 Feb 2026 14:46:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SMR, LLC Preapplication Meeting Materials for February 24, 2026 (Project No. 99902049)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26041A114</link>
+			<description>Letter</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2026-02-19 12:20:00</pubDate>
+		</item>
 		<item>
 			<title>02/24/2026 Public Meeting with SMR, LLC, A Holtec International Company, on Use of COMPAR2 and CRAFT2 Software Tools</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26044A100</link>
@@ -52,20 +59,6 @@
 			<description>Topical Report</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2026-02-09 12:20:00</pubDate>
-		</item>
-		<item>
-			<title>Email to P. Lashley, Holtec Re: Topical Report Completeness Determination for Report Number HI-2251825 Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26027A004</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2026-02-04 12:35:00</pubDate>
-		</item>
-		<item>
-			<title>HI-2251825, Rev. 0, SMR-300 Concrete Strengthened Steel Structures Design and Analysis Methodology Licensing Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26027A005</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2026-02-04 12:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
