@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 19 Feb 2026 23:29:10 GMT</pubDate>
-		<lastBuildDate>Thu, 19 Feb 2026 23:29:10 GMT</lastBuildDate>
+		<pubDate>Fri, 20 Feb 2026 14:41:06 GMT</pubDate>
+		<lastBuildDate>Fri, 20 Feb 2026 14:41:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,20 +17,6 @@
 			<description>Inspection Report, Letter</description>
 			<author>NRC/RGN-III/DRSS/MIB</author>
 			<pubDate>2026-02-17 12:11:00</pubDate>
-		</item>
-		<item>
-			<title>Acuren Inspection, Inc. Licensee's Response to NOV IR 03038913/2025002 (DRSS)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26030A275</link>
-			<description>Letter, Licensee Response to Notice of Violation</description>
-			<author>Acuren Inspection, Inc</author>
-			<pubDate>2026-02-05 12:28:00</pubDate>
-		</item>
-		<item>
-			<title>Email to Acuren Inspection, Inc. Acknowledging Licensee's Response to NOV IR 03038913/2025002(DRSS)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26030A280</link>
-			<description>E-Mail</description>
-			<author>NRC/RGN-III/DRSS</author>
-			<pubDate>2026-02-05 12:28:00</pubDate>
 		</item>
 	</channel>
 </rss>

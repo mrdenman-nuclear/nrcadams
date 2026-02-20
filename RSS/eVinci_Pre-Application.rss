@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 19 Feb 2026 23:29:06 GMT</pubDate>
-		<lastBuildDate>Thu, 19 Feb 2026 23:29:06 GMT</lastBuildDate>
+		<pubDate>Fri, 20 Feb 2026 14:41:02 GMT</pubDate>
+		<lastBuildDate>Fri, 20 Feb 2026 14:41:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Submittal of Supporting Document for Review of Westinghouse Advanced Logic System (ALS) v2 Platform Elimination of Technical Specification Surveillance Requirements Topical Report (WCAP-18810)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26042A421</link>
+			<description>Letter</description>
+			<author>Westinghouse Electric Co, LLC</author>
+			<pubDate>2026-02-20 12:20:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1: Affidavit, AW-26-013</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26042A422</link>
+			<description>Legal-Affidavit</description>
+			<author>Westinghouse Electric Co, LLC</author>
+			<pubDate>2026-02-20 12:20:00</pubDate>
+		</item>
+	</channel>
 </rss>

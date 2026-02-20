@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 19 Feb 2026 23:29:06 GMT</pubDate>
-		<lastBuildDate>Thu, 19 Feb 2026 23:29:06 GMT</lastBuildDate>
+		<pubDate>Fri, 20 Feb 2026 14:41:02 GMT</pubDate>
+		<lastBuildDate>Fri, 20 Feb 2026 14:41:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Memorandum and Order (Providing Administrative Information and Topics for Prehearing Conference)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26050A257</link>
+			<description>Legal-Order</description>
+			<author>NRC/ASLBP</author>
+			<pubDate>2026-02-20 12:54:00</pubDate>
+		</item>
 		<item>
 			<title>2026/02/05 Project Long Mott Docs - Placeholder LMGS Information Needs Discussion for Accidents, Transportation and Radiological Waste</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26036A340</link>
@@ -213,13 +220,6 @@
 			<description>Legal-Order</description>
 			<author>NRC/ASLBP</author>
 			<pubDate>2026-02-13 17:25:00</pubDate>
-		</item>
-		<item>
-			<title>Project Long Mott Ecological Resources Technical Report, Rev. 1, August 20, 2024 - Non-Proprietary (Public) and be designated as a PUBLIC document for immediate release.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25297A167</link>
-			<description>Report, Technical</description>
-			<author>Long Mott Energy, LLC, Sargent and Lundy, LLC</author>
-			<pubDate>2026-02-11 12:18:00</pubDate>
 		</item>
 	</channel>
 </rss>
