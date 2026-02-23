@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 23 Feb 2026 19:07:50 GMT</pubDate>
-		<lastBuildDate>Mon, 23 Feb 2026 19:07:50 GMT</lastBuildDate>
+		<pubDate>Mon, 23 Feb 2026 20:43:16 GMT</pubDate>
+		<lastBuildDate>Mon, 23 Feb 2026 20:43:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Long Mott Energy, LLC's Motion for Expedited Consideration of Its Appeal of LBP-26-1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26054A243</link>
+			<description>Legal-Pleading</description>
+			<author>Long Mott Energy, LLC, Morgan, Lewis and Bockius, LLP</author>
+			<pubDate>2026-02-23 18:41:00</pubDate>
+		</item>
 		<item>
 			<title>NRC Staff Notification Regarding Disclosures and Participation</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26051A147</link>
@@ -213,13 +220,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2026-02-18 12:15:00</pubDate>
-		</item>
-		<item>
-			<title>Memorandum and Order (Granting Joint Motion Regarding Mandatory Disclosures)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26048A334</link>
-			<description>Legal-Order</description>
-			<author>NRC/ASLBP</author>
-			<pubDate>2026-02-17 20:08:00</pubDate>
 		</item>
 	</channel>
 </rss>
