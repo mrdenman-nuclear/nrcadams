@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 20 Feb 2026 23:28:11 GMT</pubDate>
-		<lastBuildDate>Fri, 20 Feb 2026 23:28:11 GMT</lastBuildDate>
+		<pubDate>Mon, 23 Feb 2026 15:03:57 GMT</pubDate>
+		<lastBuildDate>Mon, 23 Feb 2026 15:03:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Memoranda</description>
 			<author>NRC/RES/DSA</author>
 			<pubDate>2026-02-17 12:12:00</pubDate>
-		</item>
-		<item>
-			<title>Assessment Of Potential Variability In Dose Exceedance Distance Calculations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25205A073</link>
-			<description>Guidance Document, Memoranda</description>
-			<author>NRC/RES/DSA/AAB</author>
-			<pubDate>2026-02-13 16:09:00</pubDate>
-		</item>
-		<item>
-			<title>NSIR-2017-002 Task 1 Part C Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML19338E460</link>
-			<description>Report, Technical</description>
-			<author>NRC/RES/DSA</author>
-			<pubDate>2026-02-13 16:09:00</pubDate>
 		</item>
 	</channel>
 </rss>

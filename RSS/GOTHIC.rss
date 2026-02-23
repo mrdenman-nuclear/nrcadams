@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 20 Feb 2026 23:28:12 GMT</pubDate>
-		<lastBuildDate>Fri, 20 Feb 2026 23:28:12 GMT</lastBuildDate>
+		<pubDate>Mon, 23 Feb 2026 15:03:57 GMT</pubDate>
+		<lastBuildDate>Mon, 23 Feb 2026 15:03:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Updated Final Safety Analysis Report (UFSAR)</description>
 			<author>NRC/NRR/DORL/LPLIII</author>
 			<pubDate>2026-02-20 12:21:00</pubDate>
-		</item>
-		<item>
-			<title>Surry Power Station, Units 1 and 2, Updated Final Safety Analysis Report, Revision 57</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25275A662</link>
-			<description>Letter, Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Dominion Energy Virginia</author>
-			<pubDate>2026-02-13 12:09:00</pubDate>
-		</item>
-		<item>
-			<title>Surry Power Station, Units 1 and 2, Updated Final Safety Analysis Report, Revision 57</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25275A662</link>
-			<description>Letter, Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Dominion Energy Virginia</author>
-			<pubDate>2026-02-13 12:09:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 20 Feb 2026 23:28:10 GMT</pubDate>
-		<lastBuildDate>Fri, 20 Feb 2026 23:28:10 GMT</lastBuildDate>
+		<pubDate>Mon, 23 Feb 2026 15:03:56 GMT</pubDate>
+		<lastBuildDate>Mon, 23 Feb 2026 15:03:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -63,6 +63,41 @@
 		<item>
 			<title>Perry [50-440], Single Positive Test Form Collected on 03/10/2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26048A574</link>
+			<description>License-Fitness for Duty (FFD) Performance Report</description>
+			<author>FirstEnergy Nuclear Operating Co</author>
+			<pubDate>2026-02-18 12:17:00</pubDate>
+		</item>
+		<item>
+			<title>Perry [50-440], Single Positive Test Form Collected on 09/17/2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26048A588</link>
+			<description>License-Fitness for Duty (FFD) Performance Report</description>
+			<author>FirstEnergy Nuclear Operating Co</author>
+			<pubDate>2026-02-18 12:17:00</pubDate>
+		</item>
+		<item>
+			<title>Perry [50-440], Single Positive Test Form Collected on 03/13/2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26048A568</link>
+			<description>License-Fitness for Duty (FFD) Performance Report</description>
+			<author>FirstEnergy Nuclear Operating Co</author>
+			<pubDate>2026-02-18 12:17:00</pubDate>
+		</item>
+		<item>
+			<title>Perry [50-440], Single Positive Test Form Collected on 08/18/2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26048A587</link>
+			<description>License-Fitness for Duty (FFD) Performance Report</description>
+			<author>FirstEnergy Nuclear Operating Co</author>
+			<pubDate>2026-02-18 12:17:00</pubDate>
+		</item>
+		<item>
+			<title>Beaver Valley [50-334; 50-412], Single Positive Test Form Collected on 10/06/2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26048A516</link>
+			<description>License-Fitness for Duty (FFD) Performance Report</description>
+			<author>FirstEnergy Nuclear Operating Co</author>
+			<pubDate>2026-02-18 12:17:00</pubDate>
+		</item>
+		<item>
+			<title>Beaver Valley [50-334; 50-412], Single Positive Test Form Collected on 10/06/2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26048A516</link>
 			<description>License-Fitness for Duty (FFD) Performance Report</description>
 			<author>FirstEnergy Nuclear Operating Co</author>
 			<pubDate>2026-02-18 12:17:00</pubDate>
@@ -185,41 +220,6 @@
 			<description>License-Operator, Part 55 Examination Related Material</description>
 			<author>NRC/RGN-II/DORS/OB</author>
 			<pubDate>2026-02-17 12:11:00</pubDate>
-		</item>
-		<item>
-			<title>WB 2024-301 2B Exam Administrative Items (Normal Release)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26043A007</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/RGN-II/DORS/OB</author>
-			<pubDate>2026-02-17 12:11:00</pubDate>
-		</item>
-		<item>
-			<title>2026/02/02 Clinch River CP Saf Docs - Docket Request for A-15.5-31, 15.5-33 - TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26033A071</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-02-17 12:10:00</pubDate>
-		</item>
-		<item>
-			<title>Diablo Canyon [50-275; 50-323], Single Positive Test Form Collected on 01/22/2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26043A433</link>
-			<description>License-Fitness for Duty (FFD) Performance Report</description>
-			<author>Pacific Gas and Electric Co</author>
-			<pubDate>2026-02-13 12:10:00</pubDate>
-		</item>
-		<item>
-			<title>Diablo Canyon [50-275; 50-323], Single Positive Test Form Collected on 01/22/2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26043A433</link>
-			<description>License-Fitness for Duty (FFD) Performance Report</description>
-			<author>Pacific Gas and Electric Co</author>
-			<pubDate>2026-02-13 12:10:00</pubDate>
-		</item>
-		<item>
-			<title>Diablo Canyon [50-275; 50-323], Single Positive Test Form Collected on 03/24/2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26043A442</link>
-			<description>License-Fitness for Duty (FFD) Performance Report</description>
-			<author>Pacific Gas and Electric Co</author>
-			<pubDate>2026-02-13 12:10:00</pubDate>
 		</item>
 	</channel>
 </rss>
