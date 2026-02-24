@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 23 Feb 2026 23:34:45 GMT</pubDate>
-		<lastBuildDate>Mon, 23 Feb 2026 23:34:45 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Feb 2026 14:52:51 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Feb 2026 14:52:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure - FY 2025 Q3/Q4 Combined Quarterly Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26033A352</link>
+			<description>Congressional Correspondence, Status Report</description>
+			<author>NRC/OCM/HKN</author>
+			<pubDate>2026-02-24 12:11:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 3 - Safety Evaluation Report for the TRISO X LLC. Fuel Fabrication Facility License Application (Public)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25289A022</link>
@@ -213,13 +220,6 @@
 			<description>Letter, Quality Assurance Program</description>
 			<author>AALO Atomics</author>
 			<pubDate>2026-02-11 12:16:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Xe-100 Licensing Topical Report Graphite Core Assembly Material Qualification and Design Methodologies</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25262A204</link>
-			<description>Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2026-02-10 17:58:00</pubDate>
 		</item>
 	</channel>
 </rss>

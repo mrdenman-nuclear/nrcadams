@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 23 Feb 2026 23:34:43 GMT</pubDate>
-		<lastBuildDate>Mon, 23 Feb 2026 23:34:43 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Feb 2026 14:52:48 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Feb 2026 14:52:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure - FY 2025 Q3/Q4 Combined Quarterly Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26033A352</link>
+			<description>Congressional Correspondence, Status Report</description>
+			<author>NRC/OCM/HKN</author>
+			<pubDate>2026-02-24 12:11:00</pubDate>
+		</item>
 		<item>
 			<title>Crow Butte In-situ Recovery Project, Biological Assessment</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26050A427</link>
@@ -157,27 +164,6 @@
 			<description>Environmental Report</description>
 			<author>Orano Enrichment USA, LLC</author>
 			<pubDate>2026-02-10 16:57:00</pubDate>
-		</item>
-		<item>
-			<title>Duane Arnold Restart - Environmental Audit Plan</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26030A013</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/EPMB1</author>
-			<pubDate>2026-02-09 17:16:00</pubDate>
-		</item>
-		<item>
-			<title>Request For Concurrence With Endangered Species Act Determinations For The Long Mott Generating Station Proposed Construction Permit In Calhoun County, Texas (IPAC Project Code 2025-0115594) (Docket Number: 50-614)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26005A228</link>
-			<description>Letter</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2026-02-09 12:20:00</pubDate>
-		</item>
-		<item>
-			<title>Request For Concurrence With Endangered Species Act Determinations For The Long Mott Generating Station Proposed Construction Permit In Calhoun County, Texas</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26005A230</link>
-			<description>Letter</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2026-02-09 12:20:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 23 Feb 2026 23:34:43 GMT</pubDate>
-		<lastBuildDate>Mon, 23 Feb 2026 23:34:43 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Feb 2026 14:52:48 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Feb 2026 14:52:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure - FY 2025 Q3/Q4 Combined Quarterly Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26033A352</link>
+			<description>Congressional Correspondence, Status Report</description>
+			<author>NRC/OCM/HKN</author>
+			<pubDate>2026-02-24 12:11:00</pubDate>
+		</item>
 		<item>
 			<title>2025/04/07 Project Long Mott Docs - Long Mott, LLC Environmental Review Meeting</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26035A435</link>
@@ -31,13 +38,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2026-02-12 14:49:00</pubDate>
-		</item>
-		<item>
-			<title>The Vendor Times Newsletter - 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26040A111</link>
-			<description>Newsletter</description>
-			<author>NRC/NRR/DRO/IQVB</author>
-			<pubDate>2026-02-09 17:16:00</pubDate>
 		</item>
 	</channel>
 </rss>
