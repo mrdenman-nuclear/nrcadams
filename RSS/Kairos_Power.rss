@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 24 Feb 2026 23:34:10 GMT</pubDate>
-		<lastBuildDate>Tue, 24 Feb 2026 23:34:10 GMT</lastBuildDate>
+		<pubDate>Wed, 25 Feb 2026 14:49:26 GMT</pubDate>
+		<lastBuildDate>Wed, 25 Feb 2026 14:49:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,13 +66,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
 			<pubDate>2026-02-12 12:09:00</pubDate>
-		</item>
-		<item>
-			<title>Orano Enrichment USA LLC, IKE Enrichment Facility Environmental Report Rev. 0, January 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26030A237</link>
-			<description>Environmental Report</description>
-			<author>Orano Enrichment USA, LLC</author>
-			<pubDate>2026-02-10 16:57:00</pubDate>
 		</item>
 	</channel>
 </rss>

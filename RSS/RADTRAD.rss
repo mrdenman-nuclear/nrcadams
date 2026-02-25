@@ -5,32 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 24 Feb 2026 23:34:11 GMT</pubDate>
-		<lastBuildDate>Tue, 24 Feb 2026 23:34:11 GMT</lastBuildDate>
+		<pubDate>Wed, 25 Feb 2026 14:49:28 GMT</pubDate>
+		<lastBuildDate>Wed, 25 Feb 2026 14:49:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>PWR Removal Rate Memo</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26036A178</link>
-			<description>Memoranda</description>
-			<author>NRC/RES/DSA</author>
-			<pubDate>2026-02-17 12:12:00</pubDate>
-		</item>
-		<item>
-			<title>Susquehanna Steam Electric Station, Units 1 and 2 - Issuance of Amendment Nos. 290 and 274 Re: Modification to Technical Specification 3.6.1.3 and Main Steam Isolation Valve Leakage Requirements (EPID L-2025-LLA-0068)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25356A366</link>
-			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation</description>
-			<author>NRC/NRR/DORL/LPLI</author>
-			<pubDate>2026-02-17 12:11:00</pubDate>
-		</item>
-		<item>
-			<title>Susquehanna Steam Electric Station, Units 1 and 2 - Issuance of Amendment Nos. 290 and 274 Re: Modification to Technical Specification 3.6.1.3 and Main Steam Isolation Valve Leakage Requirements (EPID L-2025-LLA-0068)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25356A366</link>
-			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation</description>
-			<author>NRC/NRR/DORL/LPLI</author>
-			<pubDate>2026-02-17 12:11:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
