@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 25 Feb 2026 23:37:26 GMT</pubDate>
-		<lastBuildDate>Wed, 25 Feb 2026 23:37:26 GMT</lastBuildDate>
+		<pubDate>Thu, 26 Feb 2026 14:47:33 GMT</pubDate>
+		<lastBuildDate>Thu, 26 Feb 2026 14:47:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,34 +73,6 @@
 			<description>Environmental Impact Statement</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2026-02-12 14:49:00</pubDate>
-		</item>
-		<item>
-			<title>Triso-X, LLC - Submittal of Revisions to License Application Chapters and ISA Summary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26037A267</link>
-			<description>Letter</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2026-02-11 12:18:00</pubDate>
-		</item>
-		<item>
-			<title>TRISO-X, LLC, Submittal of License Application Update</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26041A191</link>
-			<description>Letter</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2026-02-11 12:18:00</pubDate>
-		</item>
-		<item>
-			<title>Triso-X, LLC, Special Nuclear Material, License Application Cover Page, Chapter Index, Abbreviations, and Acronyms, Revision 5</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26040A338</link>
-			<description>License-Application for (Amend/Renewal/New) for DKT 30, 40, 70, Report, Technical</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2026-02-11 12:17:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: License Application Chapters 1, 9 and 11 -</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26037A269</link>
-			<description>Report, Technical</description>
-			<author>Triso-X, LLC</author>
-			<pubDate>2026-02-11 12:17:00</pubDate>
 		</item>
 	</channel>
 </rss>
