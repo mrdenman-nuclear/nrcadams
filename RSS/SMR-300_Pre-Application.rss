@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 27 Feb 2026 23:26:26 GMT</pubDate>
-		<lastBuildDate>Fri, 27 Feb 2026 23:26:26 GMT</lastBuildDate>
+		<pubDate>Mon, 02 Mar 2026 14:43:58 GMT</pubDate>
+		<lastBuildDate>Mon, 02 Mar 2026 14:43:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,20 +38,6 @@
 			<description>Letter</description>
 			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2026-02-19 12:20:00</pubDate>
-		</item>
-		<item>
-			<title>02/24/2026 Public Meeting with SMR, LLC, A Holtec International Company, on Use of COMPAR2 and CRAFT2 Software Tools</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26044A100</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-02-13 15:42:00</pubDate>
-		</item>
-		<item>
-			<title>Audit Plan For The Regulatory Audit Of "SMR-300 Concrete Strengthened Steel Structures Design And Analysis Methodology Licensing Topical Report"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26033A013</link>
-			<description>Audit Plan, Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2026-02-13 12:10:00</pubDate>
 		</item>
 	</channel>
 </rss>
