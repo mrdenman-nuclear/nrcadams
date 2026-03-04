@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 03 Mar 2026 23:26:57 GMT</pubDate>
-		<lastBuildDate>Tue, 03 Mar 2026 23:26:57 GMT</lastBuildDate>
+		<pubDate>Wed, 04 Mar 2026 14:42:28 GMT</pubDate>
+		<lastBuildDate>Wed, 04 Mar 2026 14:42:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -122,13 +122,6 @@
 			<description>Safety Evaluation Report</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2026-02-26 12:17:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - FY 2025 Q3/Q4 Combined Quarterly Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26033A352</link>
-			<description>Congressional Correspondence, Status Report</description>
-			<author>NRC/OCM/HKN</author>
-			<pubDate>2026-02-24 12:11:00</pubDate>
 		</item>
 	</channel>
 </rss>

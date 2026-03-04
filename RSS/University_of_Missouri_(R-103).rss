@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 03 Mar 2026 23:26:49 GMT</pubDate>
-		<lastBuildDate>Tue, 03 Mar 2026 23:26:49 GMT</lastBuildDate>
+		<pubDate>Wed, 04 Mar 2026 14:42:19 GMT</pubDate>
+		<lastBuildDate>Wed, 04 Mar 2026 14:42:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Updated Final Safety Analysis Report (UFSAR)</description>
 			<author>Univ of Missouri - Columbia</author>
 			<pubDate>2026-02-18 19:13:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Result Letter No. 50-186/OL-26-01, University of Missouri - Columbia</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25338A343</link>
-			<description>Letter, License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2026-02-17 12:11:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Report Letter No. 50-186/OL-26-01, University of Missouri - Columbia</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25338A342</link>
-			<description>Letter, License-Operator Examination Report (Non-Power Reactors Only), License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2026-02-17 12:11:00</pubDate>
 		</item>
 	</channel>
 </rss>

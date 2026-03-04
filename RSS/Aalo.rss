@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 03 Mar 2026 23:26:56 GMT</pubDate>
-		<lastBuildDate>Tue, 03 Mar 2026 23:26:56 GMT</lastBuildDate>
+		<pubDate>Wed, 04 Mar 2026 14:42:25 GMT</pubDate>
+		<lastBuildDate>Wed, 04 Mar 2026 14:42:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>Report, Technical</description>
 			<author>Nuclear Energy Institute (NEI)</author>
 			<pubDate>2026-02-20 12:20:00</pubDate>
-		</item>
-		<item>
-			<title>Session 3 Presentation 4 - NQA Initiatives NRC standards discussion</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26034C020</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>AALO Atomics, NQA</author>
-			<pubDate>2026-02-17 12:12:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 03 Mar 2026 23:26:48 GMT</pubDate>
-		<lastBuildDate>Tue, 03 Mar 2026 23:26:48 GMT</lastBuildDate>
+		<pubDate>Wed, 04 Mar 2026 14:42:16 GMT</pubDate>
+		<lastBuildDate>Wed, 04 Mar 2026 14:42:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2026-02-19 12:20:00</pubDate>
-		</item>
-		<item>
-			<title>2026/02/03 GEH BWRX-300 SMR - GE Vernova Hitachi Request for Withholding Information from Public Disclosure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26034C366</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-02-17 12:10:00</pubDate>
-		</item>
-		<item>
-			<title>2026/02/03 GEH BWRX-300 SMR - GE Vernova Hitachi Request for Withholding Information from Public Disclosure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26034C365</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-02-17 12:10:00</pubDate>
 		</item>
 	</channel>
 </rss>

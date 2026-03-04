@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 03 Mar 2026 23:26:56 GMT</pubDate>
-		<lastBuildDate>Tue, 03 Mar 2026 23:26:56 GMT</lastBuildDate>
+		<pubDate>Wed, 04 Mar 2026 14:42:25 GMT</pubDate>
+		<lastBuildDate>Wed, 04 Mar 2026 14:42:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Technical Considerations Regarding Probable Approaches and Instrumentation to Liquid Fuel Molten Salt Reactor Material Control and Accounting</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26021A174</link>
+			<description>Technical Paper</description>
+			<author>Los Alamos National Lab (LANL), NRC/RES/DE</author>
+			<pubDate>2026-03-04 11:01:00</pubDate>
+		</item>
 		<item>
 			<title>Christopher M. Crane Clean Energy Center Environmental Audit Summary Report for the Proposed Reauthorization of Power Operations Under Renewed Facility Operating License Number DPR-50</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26055A068</link>
@@ -110,39 +117,11 @@
 			<pubDate>2026-02-20 12:20:00</pubDate>
 		</item>
 		<item>
-			<title>Guidance Regarding Probable Approaches and Instrumentation to Liquid Fuel Molten Salt Reactor Material Control and Accounting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26021A174</link>
-			<description>Technical Paper</description>
-			<author>Los Alamos National Lab (LANL), NRC/RES/DE</author>
-			<pubDate>2026-02-20 12:20:00</pubDate>
-		</item>
-		<item>
 			<title>Disa Technologies, Inc., License Condition 19, Revision 1 Pre-Mobilization Notification October Uranium Mine Waste Pile Remediation</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26044A176</link>
 			<description>Report, Technical</description>
 			<author>Disa Technologies, Inc</author>
 			<pubDate>2026-02-18 19:13:00</pubDate>
-		</item>
-		<item>
-			<title>Record of Decision TRISO-X Special Nuclear Material License Application for a Fuel Fabrication Facility</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26026A301</link>
-			<description>Letter, Report, Miscellaneous</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2026-02-17 14:16:00</pubDate>
-		</item>
-		<item>
-			<title>Dresden Nuclear Power Station, Units 2 & 3 - Environmental Assessment and Finding of no Significant Impact Related to Exemptions from Requirements of 10 CFR 50.82(a)(8)(i) and (ii), to Allow Use of Decommissioning Trust Funds (EPID L-2025-LLE-0006) - FRN</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26040A294</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NRR/DORL/LPL3</author>
-			<pubDate>2026-02-17 12:12:00</pubDate>
-		</item>
-		<item>
-			<title>Dresden Nuclear Power Station, Units 2 & 3 - Environmental Assessment and Finding of no Significant Impact Related to Exemptions from Requirements of 10 CFR 50.82(a)(8)(i) and (ii), to Allow Use of Decommissioning Trust Funds (EPID L-2025-LLE-0006) - FRN</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26040A294</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NRR/DORL/LPL3</author>
-			<pubDate>2026-02-17 12:12:00</pubDate>
 		</item>
 	</channel>
 </rss>

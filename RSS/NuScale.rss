@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 03 Mar 2026 23:26:56 GMT</pubDate>
-		<lastBuildDate>Tue, 03 Mar 2026 23:26:56 GMT</lastBuildDate>
+		<pubDate>Wed, 04 Mar 2026 14:42:25 GMT</pubDate>
+		<lastBuildDate>Wed, 04 Mar 2026 14:42:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,13 +73,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DRO/IOEB</author>
 			<pubDate>2026-02-18 12:16:00</pubDate>
-		</item>
-		<item>
-			<title>Session 4 Presentation 1 - PSD-1 for Jan 2026 NRC Standards Forum</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26034C079</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>American Society of Mechanical Engineers (ASME)</author>
-			<pubDate>2026-02-17 12:11:00</pubDate>
 		</item>
 	</channel>
 </rss>
