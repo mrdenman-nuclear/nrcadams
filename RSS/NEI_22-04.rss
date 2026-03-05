@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 05 Mar 2026 20:37:08 GMT</pubDate>
-		<lastBuildDate>Thu, 05 Mar 2026 20:37:08 GMT</lastBuildDate>
+		<pubDate>Thu, 05 Mar 2026 21:34:02 GMT</pubDate>
+		<lastBuildDate>Thu, 05 Mar 2026 21:34:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Technical Basis for Continued Applicability of GSI 187 Conclusions for Continued use of TID 14844 to Demonstrate Compliance with 10 CFR 50.49 with Updated Accident Source Terms Endorsed in Later Versions of Regulatory Guide 1.183</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26057A158</link>
+			<description>Memoranda, Report, Technical</description>
+			<author>NRC/NRR/DRA/ARCB</author>
+			<pubDate>2026-03-05 20:14:00</pubDate>
+		</item>
+		<item>
+			<title>Guidance Document for Development of the Request for Information (RFI) and Notification Letter for IP 71130.10 Cyber Security Inspection</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26062A236</link>
+			<description>Guidance Document</description>
+			<author>NRC/NSIR/DPCP/CSB</author>
+			<pubDate>2026-03-05 19:25:00</pubDate>
+		</item>
 		<item>
 			<title>Commission Memorandum and Order (CLI-26-5)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26063A399</link>
@@ -206,20 +220,6 @@
 			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation</description>
 			<author>NRC/NRR/DORL/LPL1</author>
 			<pubDate>2026-03-02 12:19:00</pubDate>
-		</item>
-		<item>
-			<title>2026/02/13 Project Long Mott Docs - [External_Sender] Comparison of NEI 21-07 Chapter 2 and 3 Titles to Xe-100 PSAR Chapter 3 Titles</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26046A091</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-03-02 12:19:00</pubDate>
-		</item>
-		<item>
-			<title>2025/02/09 Project Long Mott Docs - [External_Sender] X-energy PDC Licensing Topical Report - Accepted Version Replacement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26045A173</link>
-			<description>E-Mail</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2026-03-02 12:18:00</pubDate>
 		</item>
 	</channel>
 </rss>
