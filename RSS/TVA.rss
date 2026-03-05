@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 05 Mar 2026 22:30:48 GMT</pubDate>
-		<lastBuildDate>Thu, 05 Mar 2026 22:30:48 GMT</lastBuildDate>
+		<pubDate>Thu, 05 Mar 2026 23:51:55 GMT</pubDate>
+		<lastBuildDate>Thu, 05 Mar 2026 23:51:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -54,20 +54,6 @@
 			<pubDate>2026-02-19 19:00:00</pubDate>
 		</item>
 		<item>
-			<title>Byron [50-454; 50-455], Single Positive Test Form Collected on 09/20/2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26050A305</link>
-			<description>License-Fitness for Duty (FFD) Performance Report</description>
-			<author>Exelon Generation Co, LLC</author>
-			<pubDate>2026-02-19 19:00:00</pubDate>
-		</item>
-		<item>
-			<title>Byron [50-454; 50-455], Single Positive Test Form Collected on 09/20/2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26050A305</link>
-			<description>License-Fitness for Duty (FFD) Performance Report</description>
-			<author>Exelon Generation Co, LLC</author>
-			<pubDate>2026-02-19 19:00:00</pubDate>
-		</item>
-		<item>
 			<title>LaSalle [50-373; 50-374], Single Positive Test Form Collected on 02/13/2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26050A372</link>
 			<description>License-Fitness for Duty (FFD) Performance Report</description>
@@ -91,6 +77,20 @@
 		<item>
 			<title>LaSalle [50-373; 50-374], Single Positive Test Form Collected on 02/07/2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26050A382</link>
+			<description>License-Fitness for Duty (FFD) Performance Report</description>
+			<author>Exelon Generation Co, LLC</author>
+			<pubDate>2026-02-19 19:00:00</pubDate>
+		</item>
+		<item>
+			<title>Byron [50-454; 50-455], Single Positive Test Form Collected on 09/20/2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26050A305</link>
+			<description>License-Fitness for Duty (FFD) Performance Report</description>
+			<author>Exelon Generation Co, LLC</author>
+			<pubDate>2026-02-19 19:00:00</pubDate>
+		</item>
+		<item>
+			<title>Byron [50-454; 50-455], Single Positive Test Form Collected on 09/20/2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26050A305</link>
 			<description>License-Fitness for Duty (FFD) Performance Report</description>
 			<author>Exelon Generation Co, LLC</author>
 			<pubDate>2026-02-19 19:00:00</pubDate>
@@ -161,6 +161,34 @@
 		<item>
 			<title>LaSalle [50-373; 50-374], Single Positive Test Form Collected on 04/28/2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26050A363</link>
+			<description>License-Fitness for Duty (FFD) Performance Report</description>
+			<author>Exelon Generation Co, LLC</author>
+			<pubDate>2026-02-19 19:00:00</pubDate>
+		</item>
+		<item>
+			<title>Quad Cities [50-254; 50-265], Single Positive Test Form Collected on 02/05/2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26050A401</link>
+			<description>License-Fitness for Duty (FFD) Performance Report</description>
+			<author>Exelon Generation Co, LLC</author>
+			<pubDate>2026-02-19 19:00:00</pubDate>
+		</item>
+		<item>
+			<title>Quad Cities [50-254; 50-265], Single Positive Test Form Collected on 02/05/2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26050A401</link>
+			<description>License-Fitness for Duty (FFD) Performance Report</description>
+			<author>Exelon Generation Co, LLC</author>
+			<pubDate>2026-02-19 19:00:00</pubDate>
+		</item>
+		<item>
+			<title>Quad Cities [50-254; 50-265], Single Positive Test Form Collected on 09/05/2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26050A404</link>
+			<description>License-Fitness for Duty (FFD) Performance Report</description>
+			<author>Exelon Generation Co, LLC</author>
+			<pubDate>2026-02-19 19:00:00</pubDate>
+		</item>
+		<item>
+			<title>Quad Cities [50-254; 50-265], Single Positive Test Form Collected on 09/05/2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26050A404</link>
 			<description>License-Fitness for Duty (FFD) Performance Report</description>
 			<author>Exelon Generation Co, LLC</author>
 			<pubDate>2026-02-19 19:00:00</pubDate>
@@ -170,34 +198,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26050A439</link>
 			<description>License-Fitness for Duty (FFD) Performance Report</description>
 			<author>AmerGen Energy Co, LLC</author>
-			<pubDate>2026-02-19 19:00:00</pubDate>
-		</item>
-		<item>
-			<title>Quad Cities [50-254; 50-265], Single Positive Test Form Collected on 02/05/2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26050A401</link>
-			<description>License-Fitness for Duty (FFD) Performance Report</description>
-			<author>Exelon Generation Co, LLC</author>
-			<pubDate>2026-02-19 19:00:00</pubDate>
-		</item>
-		<item>
-			<title>Quad Cities [50-254; 50-265], Single Positive Test Form Collected on 02/05/2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26050A401</link>
-			<description>License-Fitness for Duty (FFD) Performance Report</description>
-			<author>Exelon Generation Co, LLC</author>
-			<pubDate>2026-02-19 19:00:00</pubDate>
-		</item>
-		<item>
-			<title>Quad Cities [50-254; 50-265], Single Positive Test Form Collected on 09/05/2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26050A404</link>
-			<description>License-Fitness for Duty (FFD) Performance Report</description>
-			<author>Exelon Generation Co, LLC</author>
-			<pubDate>2026-02-19 19:00:00</pubDate>
-		</item>
-		<item>
-			<title>Quad Cities [50-254; 50-265], Single Positive Test Form Collected on 09/05/2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26050A404</link>
-			<description>License-Fitness for Duty (FFD) Performance Report</description>
-			<author>Exelon Generation Co, LLC</author>
 			<pubDate>2026-02-19 19:00:00</pubDate>
 		</item>
 		<item>
