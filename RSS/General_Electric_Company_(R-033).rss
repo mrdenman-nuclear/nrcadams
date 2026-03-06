@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 05 Mar 2026 23:51:50 GMT</pubDate>
-		<lastBuildDate>Thu, 05 Mar 2026 23:51:50 GMT</lastBuildDate>
+		<pubDate>Fri, 06 Mar 2026 14:39:12 GMT</pubDate>
+		<lastBuildDate>Fri, 06 Mar 2026 14:39:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Quality Assurance Program Manual Acceptance Letter</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26055A133</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DDUWP/RDB</author>
+			<pubDate>2026-03-06 12:29:00</pubDate>
+		</item>
+	</channel>
 </rss>

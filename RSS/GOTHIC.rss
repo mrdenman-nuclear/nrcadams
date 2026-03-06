@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 05 Mar 2026 23:51:56 GMT</pubDate>
-		<lastBuildDate>Thu, 05 Mar 2026 23:51:56 GMT</lastBuildDate>
+		<pubDate>Fri, 06 Mar 2026 14:39:18 GMT</pubDate>
+		<lastBuildDate>Fri, 06 Mar 2026 14:39:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -115,13 +115,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2026-03-02 12:16:00</pubDate>
-		</item>
-		<item>
-			<title>Enc 2 - REDACTED VERSION - Final Safety Evaluation of TR Rev 2: Plume Exposure Pathway Emergency Planning Zone Sizing Methodology (EPID L-2024-TOP-0034)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26034C381</link>
-			<description>Safety Evaluation Report</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2026-02-26 12:17:00</pubDate>
 		</item>
 	</channel>
 </rss>

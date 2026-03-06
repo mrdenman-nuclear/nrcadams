@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 05 Mar 2026 23:51:50 GMT</pubDate>
-		<lastBuildDate>Thu, 05 Mar 2026 23:51:50 GMT</lastBuildDate>
+		<pubDate>Fri, 06 Mar 2026 14:39:12 GMT</pubDate>
+		<lastBuildDate>Fri, 06 Mar 2026 14:39:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2026/02/20 Clinch River CP Saf Docs - Docket Request for A-9.3-3 - TVA Clinch River CP Audit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26051A066</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2026-03-06 12:28:00</pubDate>
+		</item>
+		<item>
+			<title>2026/02/20 Clinch River CP Saf Docs - Docket Request for responses to A-2.5 questions, TVA Clinch River CP Audit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26051A197</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2026-03-06 12:28:00</pubDate>
+		</item>
 		<item>
 			<title>2026/02/13 Clinch River CP Saf Docs - RE Docket Request for responses to A-2.5 questions, TVA Clinch River CP Audit</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26044A110</link>
@@ -80,13 +94,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2026-02-20 12:20:00</pubDate>
-		</item>
-		<item>
-			<title>2026/02/05 Clinch River CP Saf Docs - Docket Request for Chapter 4  - TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26036A299</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-02-19 12:20:00</pubDate>
 		</item>
 	</channel>
 </rss>
