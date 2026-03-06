@@ -6,7 +6,7 @@ some reports. The results presented here should be interpreted with
 these limitations.
 
 This page is updated Monday through Friday, hourly between 9AM ET and 5
-PM ET. The last update was at 2026-03-06 17:25:34.022596 ET.
+PM ET. The last update was at 2026-03-06 18:26:29.302044 ET.
 
 ## Pulling Advanced Reactor Docket Files
 
@@ -347,7 +347,7 @@ smoothed_grouped_dockets |>
 This section is updated once a day and presents the Topical Reports,
 Technical Reports, Environmental Reports, and Safety Evaluations
 available on new reactor dockets. The last update was at 2026-03-06
-22:26:58.563752. The following dockets are searched:
+23:28:11.911922. The following dockets are searched:
 
 - MSRR Pre-Application
 - MSRR Part 50
