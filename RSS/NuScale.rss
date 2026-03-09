@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 06 Mar 2026 23:28:33 GMT</pubDate>
-		<lastBuildDate>Fri, 06 Mar 2026 23:28:33 GMT</lastBuildDate>
+		<pubDate>Mon, 09 Mar 2026 14:48:47 GMT</pubDate>
+		<lastBuildDate>Mon, 09 Mar 2026 14:48:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Topical Report SOLO-TR-2025-5, Revision 0, "SOLO I&C Architecture and Design Basis for Reactor Protection System (RPS)" (Non-Proprietary)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26060A004</link>
+			<description>Topical Report</description>
+			<author>Terra Innovatum s.r.l</author>
+			<pubDate>2026-03-09 12:04:00</pubDate>
+		</item>
 		<item>
 			<title>Technical Basis for Continued Applicability of GSI 187 Conclusions for Continued use of TID 14844 to Demonstrate Compliance with 10 CFR 50.49 with Updated Accident Source Terms Endorsed in Later Versions of Regulatory Guide 1.183</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26057A158</link>
@@ -52,34 +59,6 @@
 			<description>Congressional Correspondence, Status Report</description>
 			<author>NRC/OCM/HKN</author>
 			<pubDate>2026-02-24 12:11:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (003) from Wren Fowler on behalf of NuScale Power, LLC on PR-50 - Incorporating by Reference of Institute of Electrical and Electronics Engineers Standard 603-2018</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26050A123</link>
-			<description>Rulemaking-Comment</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2026-02-20 12:21:00</pubDate>
-		</item>
-		<item>
-			<title>Periodic Review (PR) for Regulatory Guide (RG) 1.70, Revision 3, Standard Format and Content of Safety Analysis Reports for Nuclear Power Plants (LWR Edition)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25234A141</link>
-			<description>Report, Miscellaneous</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2026-02-20 12:21:00</pubDate>
-		</item>
-		<item>
-			<title>Attachment 1: NEI 24-05 An Approach for Risk-Informed Performance-Based Emergency Planning, Rev. 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26040A209</link>
-			<description>Report, Technical</description>
-			<author>Nuclear Energy Institute (NEI)</author>
-			<pubDate>2026-02-20 12:20:00</pubDate>
-		</item>
-		<item>
-			<title>Attachment 1: NEI 24-05 An Approach for Risk-Informed Performance-Based Emergency Planning, Rev. 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26040A209</link>
-			<description>Report, Technical</description>
-			<author>Nuclear Energy Institute (NEI)</author>
-			<pubDate>2026-02-20 12:20:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 06 Mar 2026 23:28:29 GMT</pubDate>
-		<lastBuildDate>Fri, 06 Mar 2026 23:28:29 GMT</lastBuildDate>
+		<pubDate>Mon, 09 Mar 2026 14:48:43 GMT</pubDate>
+		<lastBuildDate>Mon, 09 Mar 2026 14:48:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Transmittal of the 2025 Annual Operating Report for the Kansas State University TRIGA Mark II Nuclear Reactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26059A002</link>
+			<description>Annual Operating Report, Letter</description>
+			<author>Kansas State Univ</author>
+			<pubDate>2026-03-09 12:04:00</pubDate>
+		</item>
+	</channel>
 </rss>

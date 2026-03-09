@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 06 Mar 2026 23:28:28 GMT</pubDate>
-		<lastBuildDate>Fri, 06 Mar 2026 23:28:28 GMT</lastBuildDate>
+		<pubDate>Mon, 09 Mar 2026 14:48:42 GMT</pubDate>
+		<lastBuildDate>Mon, 09 Mar 2026 14:48:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Memorandum - Summary of July 31 and August 1, 2025, Meetings to Provide Clarity on Draft ISA Summary RAI for the TRISO-X, LLC, LA</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25335A165</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2026-03-09 12:04:00</pubDate>
+		</item>
 		<item>
 			<title>Cover Letter - NRC Issuance of License SNM-7007 for the TRISO-X, LLC. Fuel Fabrication Facility</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25289A030</link>
@@ -31,20 +38,6 @@
 			<description>Safety Evaluation Report</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
 			<pubDate>2026-02-23 15:13:00</pubDate>
-		</item>
-		<item>
-			<title>TRISO-X Document Request - Construction and MM Inspection 3-9-26</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26043A425</link>
-			<description>E-Mail</description>
-			<author>NRC/RGN-II/DFRSS/FOB2</author>
-			<pubDate>2026-02-20 12:20:00</pubDate>
-		</item>
-		<item>
-			<title>2026-001 TRISO-X Structural Steel Inspection Document Request</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26043A429</link>
-			<description>Inspection Plan</description>
-			<author>NRC/RGN-II/DORS</author>
-			<pubDate>2026-02-20 12:20:00</pubDate>
 		</item>
 	</channel>
 </rss>
