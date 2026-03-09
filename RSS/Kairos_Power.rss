@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 09 Mar 2026 19:41:21 GMT</pubDate>
-		<lastBuildDate>Mon, 09 Mar 2026 19:41:21 GMT</lastBuildDate>
+		<pubDate>Mon, 09 Mar 2026 20:32:34 GMT</pubDate>
+		<lastBuildDate>Mon, 09 Mar 2026 20:32:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,6 +17,20 @@
 			<description>Legal-Hearing Transcript</description>
 			<author>NRC/OCM</author>
 			<pubDate>2026-03-09 17:38:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 4: Environmental Report - Radiant R-50 Site, Oak Ridge, Tennessee</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26058A379</link>
+			<description>Environmental Monitoring Report</description>
+			<author>Haley and Aldrich, Inc, Radiant Industries, LLC</author>
+			<pubDate>2026-03-09 17:37:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 4: Environmental Report - Radiant R-50 Site, Oak Ridge, Tennessee</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26058A379</link>
+			<description>Environmental Monitoring Report</description>
+			<author>Haley and Aldrich, Inc, Radiant Industries, LLC</author>
+			<pubDate>2026-03-09 17:37:00</pubDate>
 		</item>
 		<item>
 			<title>Commission Memorandum and Order (CLI-26-5)</title>

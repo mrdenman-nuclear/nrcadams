@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 09 Mar 2026 19:41:24 GMT</pubDate>
-		<lastBuildDate>Mon, 09 Mar 2026 19:41:24 GMT</lastBuildDate>
+		<pubDate>Mon, 09 Mar 2026 20:32:37 GMT</pubDate>
+		<lastBuildDate>Mon, 09 Mar 2026 20:32:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Diablo Canyon Power Plant, Units 1 and 2, Technical Specification Bases, Revision 16</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26064A117</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50, Technical Specification, Bases Change</description>
+			<author>Pacific Gas and Electric Co</author>
+			<pubDate>2026-03-09 17:37:00</pubDate>
+		</item>
+		<item>
+			<title>Diablo Canyon Power Plant, Units 1 and 2, Technical Specification Bases, Revision 16</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26064A117</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50, Technical Specification, Bases Change</description>
+			<author>Pacific Gas and Electric Co</author>
+			<pubDate>2026-03-09 17:37:00</pubDate>
+		</item>
 		<item>
 			<title>US SFR Owner LLC - Summary Record of Decision</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26034C169</link>
@@ -206,20 +220,6 @@
 			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation, Technical Specifications</description>
 			<author>NRC/NRR/DORL/LPLIV</author>
 			<pubDate>2026-03-03 12:27:00</pubDate>
-		</item>
-		<item>
-			<title>2026/02/17 Project Long Mott Docs - TRISO-X Pebble Fuel Qualification Methodology LTR</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26048A753</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-03-03 12:27:00</pubDate>
-		</item>
-		<item>
-			<title>2024/12/19 Project Long Mott Docs - Readiness Assessment Report Project Long Mott PSAR</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26048A706</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-03-03 12:26:00</pubDate>
 		</item>
 	</channel>
 </rss>
