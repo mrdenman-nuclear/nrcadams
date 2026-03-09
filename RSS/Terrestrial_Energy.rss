@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 09 Mar 2026 15:58:16 GMT</pubDate>
-		<lastBuildDate>Mon, 09 Mar 2026 15:58:16 GMT</lastBuildDate>
+		<pubDate>Mon, 09 Mar 2026 16:58:15 GMT</pubDate>
+		<lastBuildDate>Mon, 09 Mar 2026 16:58:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -14,6 +14,13 @@
 		<item>
 			<title>US SFR Owner LLC - Summary Record of Decision</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26034C169</link>
+			<description>License-Construction Permit (CP)(New/Extension/Amendment) DKT 50</description>
+			<author>NRC/NRR</author>
+			<pubDate>2026-03-09 14:41:00</pubDate>
+		</item>
+		<item>
+			<title>US SFR Owner LLC - Construction Permit for Kemmerer Power Station Unit 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26034B247</link>
 			<description>License-Construction Permit (CP)(New/Extension/Amendment) DKT 50</description>
 			<author>NRC/NRR</author>
 			<pubDate>2026-03-09 14:41:00</pubDate>
