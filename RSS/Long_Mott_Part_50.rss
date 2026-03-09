@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 09 Mar 2026 20:32:29 GMT</pubDate>
-		<lastBuildDate>Mon, 09 Mar 2026 20:32:29 GMT</lastBuildDate>
+		<pubDate>Mon, 09 Mar 2026 21:34:12 GMT</pubDate>
+		<lastBuildDate>Mon, 09 Mar 2026 21:34:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Memorandum and Order (Amended Protective Order Governing New Sensitive Unclassified Non-Safeguards Information)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26068A245</link>
+			<description>Legal-Order</description>
+			<author>NRC/ASLBP</author>
+			<pubDate>2026-03-09 20:08:00</pubDate>
+		</item>
 		<item>
 			<title>Joint Motion by Long Mott Energy, LLC, and San Antonio Bay Estuarine Waterkeeper for Amended Protective Order</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26065A276</link>
@@ -213,13 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS/DREFS/ETRB1</author>
 			<pubDate>2026-03-05 12:18:00</pubDate>
-		</item>
-		<item>
-			<title>Licensing Board Notification Regarding CPA Part I Supplement 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26062A866</link>
-			<description>Legal-Correspondence/Miscellaneous</description>
-			<author>Long Mott Energy, LLC, Morgan, Lewis and Bockius, LLP</author>
-			<pubDate>2026-03-04 13:33:00</pubDate>
 		</item>
 	</channel>
 </rss>
