@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 09 Mar 2026 23:27:33 GMT</pubDate>
-		<lastBuildDate>Mon, 09 Mar 2026 23:27:33 GMT</lastBuildDate>
+		<pubDate>Tue, 10 Mar 2026 14:47:55 GMT</pubDate>
+		<lastBuildDate>Tue, 10 Mar 2026 14:47:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,13 +52,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DRO/IQVB</author>
 			<pubDate>2026-02-27 17:53:00</pubDate>
-		</item>
-		<item>
-			<title>03/02/2026 Pre-application Meeting to Discuss Security and Nuclear Material Control and Accounting Related to the TerraPower Natrium Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26054A021</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-02-23 12:37:00</pubDate>
 		</item>
 	</channel>
 </rss>

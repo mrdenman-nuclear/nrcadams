@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 09 Mar 2026 23:27:33 GMT</pubDate>
-		<lastBuildDate>Mon, 09 Mar 2026 23:27:33 GMT</lastBuildDate>
+		<pubDate>Tue, 10 Mar 2026 14:47:55 GMT</pubDate>
+		<lastBuildDate>Tue, 10 Mar 2026 14:47:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2026/02/24 Clinch River CP Saf Docs - TVA Clinch River Construction Permit - RAI-11122-R1 - FINAL</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26055A428</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2026-03-10 12:04:00</pubDate>
+		</item>
 		<item>
 			<title>2026/02/23 Clinch River CP Saf Docs - Docket Request for Chapter 15 Audit Question Responses - TVA Clinch River CP Audit</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26054A315</link>
@@ -73,27 +80,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2026-02-24 12:10:00</pubDate>
-		</item>
-		<item>
-			<title>2026/02/09 Clinch River CP Saf Docs - Docket Request for A-9.3-5, A-9.3-6, A-9.3-7 - TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26040A117</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-02-23 12:04:00</pubDate>
-		</item>
-		<item>
-			<title>2026/02/09 Clinch River CP Saf Docs - Docket Request for A-15.2-7, 15.5-19 - TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26040A261</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-02-23 12:04:00</pubDate>
-		</item>
-		<item>
-			<title>2026/02/09 Clinch River CP Saf Docs - Docket Request for responses to A-2.5 questions, TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26040A288</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-02-23 12:04:00</pubDate>
 		</item>
 	</channel>
 </rss>

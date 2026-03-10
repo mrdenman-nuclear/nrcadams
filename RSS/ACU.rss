@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 09 Mar 2026 23:27:37 GMT</pubDate>
-		<lastBuildDate>Mon, 09 Mar 2026 23:27:37 GMT</lastBuildDate>
+		<pubDate>Tue, 10 Mar 2026 14:47:59 GMT</pubDate>
+		<lastBuildDate>Tue, 10 Mar 2026 14:47:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,20 +45,6 @@
 			<description>Report, Technical</description>
 			<author>Argonne National Lab (ANL)</author>
 			<pubDate>2026-03-03 19:42:00</pubDate>
-		</item>
-		<item>
-			<title>654351 Cover Letter for Acuren Inspection, Inc. to License No. 22-27593-01</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26048A180</link>
-			<description>Letter</description>
-			<author>NRC/RGN-III/DNMS/MLB</author>
-			<pubDate>2026-02-23 12:05:00</pubDate>
-		</item>
-		<item>
-			<title>654351 Amendment No. 22 for Acuren Inspection, Inc. to License No. 22-27593-01</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26048A187</link>
-			<description></description>
-			<author></author>
-			<pubDate>2026-02-23 12:05:00</pubDate>
 		</item>
 	</channel>
 </rss>

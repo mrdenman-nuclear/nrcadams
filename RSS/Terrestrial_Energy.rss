@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 09 Mar 2026 23:27:37 GMT</pubDate>
-		<lastBuildDate>Mon, 09 Mar 2026 23:27:37 GMT</lastBuildDate>
+		<pubDate>Tue, 10 Mar 2026 14:48:00 GMT</pubDate>
+		<lastBuildDate>Tue, 10 Mar 2026 14:48:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Fort Calhoun Station, Unit 1, License Amendment Request (LAR) To Revise License Termination Plan (LTP)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26061A204</link>
+			<description>Legal-Affidavit, Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>Omaha Public Power District</author>
+			<pubDate>2026-03-10 12:05:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 4: Environmental Report - Radiant R-50 Site, Oak Ridge, Tennessee</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26058A379</link>
@@ -150,13 +157,6 @@
 			<description>Congressional Correspondence, Status Report</description>
 			<author>NRC/OCM/HKN</author>
 			<pubDate>2026-02-24 12:11:00</pubDate>
-		</item>
-		<item>
-			<title>Crow Butte In-situ Recovery Project, Biological Assessment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26050A427</link>
-			<description>License-Application for (Amend/Renewal/New) for DKT 30, 40, 70, Report, Technical</description>
-			<author>WWC Engineering</author>
-			<pubDate>2026-02-23 15:13:00</pubDate>
 		</item>
 	</channel>
 </rss>
