@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 10 Mar 2026 14:48:02 GMT</pubDate>
-		<lastBuildDate>Tue, 10 Mar 2026 14:48:02 GMT</lastBuildDate>
+		<pubDate>Tue, 10 Mar 2026 16:01:11 GMT</pubDate>
+		<lastBuildDate>Tue, 10 Mar 2026 16:01:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Callaway Plant - EIP-ZZ-PRO20, Rev 059, "Activation and Operation of the Joint Information Center"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25317A769</link>
+			<description>Emergency Preparedness-Emergency Plan Implementing Procedures</description>
+			<author>Ameren Missouri, Union Electric Co</author>
+			<pubDate>2026-03-10 15:06:00</pubDate>
+		</item>
 		<item>
 			<title>Susquehanna, Emergency Plan, Revision 69</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25317A672</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26048A759</link>
 			<description>E-Mail</description>
 			<author>- No Known Affiliation</author>
-			<pubDate>2026-03-03 12:27:00</pubDate>
-		</item>
-		<item>
-			<title>Arkansas Nuclear One, Units 1 and 2, Grand Gulf Nuclear Station, Unit 1, River Bend Station, Unit 1, and Waterford Steam Electric Station, Unit 3 - Issuance of Amendments Related to Adoption of TSTF-596, Revision 2 (EPID L-2025-LLA-0077)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26016A620</link>
-			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation, Technical Specifications</description>
-			<author>NRC/NRR/DORL/LPLIV</author>
 			<pubDate>2026-03-03 12:27:00</pubDate>
 		</item>
 	</channel>
