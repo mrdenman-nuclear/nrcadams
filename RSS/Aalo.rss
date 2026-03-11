@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 10 Mar 2026 23:29:27 GMT</pubDate>
-		<lastBuildDate>Tue, 10 Mar 2026 23:29:27 GMT</lastBuildDate>
+		<pubDate>Wed, 11 Mar 2026 14:46:12 GMT</pubDate>
+		<lastBuildDate>Wed, 11 Mar 2026 14:46:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Report, Technical</description>
 			<author>Argonne National Lab (ANL)</author>
 			<pubDate>2026-03-03 19:42:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - FY 2025 Q3/Q4 Combined Quarterly Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26033A352</link>
-			<description>Congressional Correspondence, Status Report</description>
-			<author>NRC/OCM/HKN</author>
-			<pubDate>2026-02-24 12:11:00</pubDate>
 		</item>
 	</channel>
 </rss>

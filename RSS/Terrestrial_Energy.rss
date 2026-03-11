@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 10 Mar 2026 23:29:27 GMT</pubDate>
-		<lastBuildDate>Tue, 10 Mar 2026 23:29:27 GMT</lastBuildDate>
+		<pubDate>Wed, 11 Mar 2026 14:46:12 GMT</pubDate>
+		<lastBuildDate>Wed, 11 Mar 2026 14:46:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Federal Register Notice - UTA NETL TRIGA EA</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26033A479</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/NMSS/DREFS/EPMB1</author>
+			<pubDate>2026-03-11 12:07:00</pubDate>
+		</item>
+		<item>
+			<title>LMS/RFO/50974, Draft Groundwater Compliance Action Plan for the Old Rifle, Colorado, Processing Site"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26068A066</link>
+			<description>Environmental Report</description>
+			<author>US Dept of Energy, Office of Legacy Management</author>
+			<pubDate>2026-03-11 11:58:00</pubDate>
+		</item>
+		<item>
+			<title>LMS/RFO/50974, Draft Groundwater Compliance Action Plan for the Old Rifle, Colorado, Processing Site"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26068A066</link>
+			<description>Environmental Report</description>
+			<author>US Dept of Energy, Office of Legacy Management</author>
+			<pubDate>2026-03-11 11:58:00</pubDate>
+		</item>
 		<item>
 			<title>Fort Calhoun Station, Unit 1, License Amendment Request (LAR) To Revise License Termination Plan (LTP)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26061A204</link>
@@ -150,13 +171,6 @@
 			<description>Letter, Response to Request for Additional Information (RAI)</description>
 			<author>ADP CR3, LLC</author>
 			<pubDate>2026-02-25 17:42:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - FY 2025 Q3/Q4 Combined Quarterly Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26033A352</link>
-			<description>Congressional Correspondence, Status Report</description>
-			<author>NRC/OCM/HKN</author>
-			<pubDate>2026-02-24 12:11:00</pubDate>
 		</item>
 	</channel>
 </rss>

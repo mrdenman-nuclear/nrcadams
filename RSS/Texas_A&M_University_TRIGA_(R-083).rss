@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 10 Mar 2026 23:29:22 GMT</pubDate>
-		<lastBuildDate>Tue, 10 Mar 2026 23:29:22 GMT</lastBuildDate>
+		<pubDate>Wed, 11 Mar 2026 14:46:05 GMT</pubDate>
+		<lastBuildDate>Wed, 11 Mar 2026 14:46:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Texas A&M University System - NRC Safety Inspection Report No. 05000128/2026201</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26065A017</link>
+			<description>Inspection Report, Letter</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2026-03-11 11:58:00</pubDate>
+		</item>
+	</channel>
 </rss>
