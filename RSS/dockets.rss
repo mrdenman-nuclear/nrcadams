@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 12 Mar 2026 16:00:00 GMT</pubDate>
-		<lastBuildDate>Thu, 12 Mar 2026 16:00:00 GMT</lastBuildDate>
+		<pubDate>Thu, 12 Mar 2026 16:59:19 GMT</pubDate>
+		<lastBuildDate>Thu, 12 Mar 2026 16:59:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TRISO-X Fuel Fabrication Facility - Errata to the Final Environmental Impact Statement</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26071A140</link>
+			<description>Environmental Impact Statement</description>
+			<author>NRC/NMSS, US Dept of Energy (DOE)</author>
+			<pubDate>2026-03-12 16:08:00</pubDate>
+		</item>
 		<item>
 			<title>03/16/2026 Pre-application Meeting to Discuss TerraPower's Emergency Action Level Methodology Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26070A392</link>
@@ -213,13 +220,6 @@
 			<description>License-Construction Permit (CP)(New/Extension/Amendment) DKT 50</description>
 			<author>NRC/NRR</author>
 			<pubDate>2026-03-09 14:41:00</pubDate>
-		</item>
-		<item>
-			<title>WITHHOLDING DETERMINATION - SHINE Application for Order Approving Transfers of Construction Permit and Conforming Administrative Amendments (EPID NO. L-2026-LLM-0000)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26058A063</link>
-			<description>E-Mail, Letter</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2026-03-09 14:40:00</pubDate>
 		</item>
 	</channel>
 </rss>
