@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 12 Mar 2026 22:25:24 GMT</pubDate>
-		<lastBuildDate>Thu, 12 Mar 2026 22:25:24 GMT</lastBuildDate>
+		<pubDate>Thu, 12 Mar 2026 23:27:40 GMT</pubDate>
+		<lastBuildDate>Thu, 12 Mar 2026 23:27:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Robinson Final Environmental Impact Statement (FSEIS)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26062A118</link>
+			<description>Environmental Impact Statement, Report, Technical</description>
+			<author>NRC/NMSS/DREFS/EPMB1</author>
+			<pubDate>2026-03-12 20:12:00</pubDate>
+		</item>
 		<item>
 			<title>On the Application of a Risk Informed Graded Approach for Advanced Condition Monitoring Programs</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26056A138</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DANU/UARP</author>
 			<pubDate>2026-03-03 15:22:00</pubDate>
-		</item>
-		<item>
-			<title>2024/02/26 Project Long Mott Docs - [External_Sender] RE PUBLIC Xe-100 PDC Licensing Topical Report - Revision 3 - ML24047A310 Replacement File Request</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26048A747</link>
-			<description>E-Mail</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2026-03-03 12:27:00</pubDate>
 		</item>
 	</channel>
 </rss>
