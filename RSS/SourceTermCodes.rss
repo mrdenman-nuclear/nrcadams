@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 11 Mar 2026 23:24:47 GMT</pubDate>
-		<lastBuildDate>Wed, 11 Mar 2026 23:24:47 GMT</lastBuildDate>
+		<pubDate>Thu, 12 Mar 2026 14:47:57 GMT</pubDate>
+		<lastBuildDate>Thu, 12 Mar 2026 14:47:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Environmental Monitoring Report</description>
 			<author>Long Mott Energy, LLC</author>
 			<pubDate>2026-03-06 12:28:00</pubDate>
-		</item>
-		<item>
-			<title>OMB 3150-0240 2026 Final Supporting Statement for Codes NDA</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26036A021</link>
-			<description>OMB Clearance Material</description>
-			<author>NRC/RES/DSA/CRABI</author>
-			<pubDate>2026-03-04 16:57:00</pubDate>
 		</item>
 	</channel>
 </rss>
