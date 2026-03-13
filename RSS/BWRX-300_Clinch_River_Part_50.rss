@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 12 Mar 2026 23:27:34 GMT</pubDate>
-		<lastBuildDate>Thu, 12 Mar 2026 23:27:34 GMT</lastBuildDate>
+		<pubDate>Fri, 13 Mar 2026 14:43:58 GMT</pubDate>
+		<lastBuildDate>Fri, 13 Mar 2026 14:43:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,27 +45,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2026-02-27 12:23:00</pubDate>
-		</item>
-		<item>
-			<title>Clinch River Nuclear Site Section 401 Permit TDEC Waiver</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26057A149</link>
-			<description>Letter</description>
-			<author>State of TN, Dept of Environment and Conservation, Div of Water Resources</author>
-			<pubDate>2026-02-26 16:52:00</pubDate>
-		</item>
-		<item>
-			<title>2026/02/12 Clinch River CP Saf Docs - Docket Request for A-15.3-1, 15.5-12 - TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26043A410</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-02-26 12:16:00</pubDate>
-		</item>
-		<item>
-			<title>2026/02/12 Clinch River CP Saf Docs - Docket Request for Chapter 4  - TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26043A127</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-02-26 12:16:00</pubDate>
 		</item>
 	</channel>
 </rss>
