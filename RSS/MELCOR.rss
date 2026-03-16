@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 16 Mar 2026 19:09:01 GMT</pubDate>
-		<lastBuildDate>Mon, 16 Mar 2026 19:09:01 GMT</lastBuildDate>
+		<pubDate>Mon, 16 Mar 2026 19:57:03 GMT</pubDate>
+		<lastBuildDate>Mon, 16 Mar 2026 19:57:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>SWRI/CNWRA Report: Comparing Populating Dose and Economic Cost Information in NUREG/BR-0184 to Updated Level 3 PRA Results</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075A073</link>
+			<description>Report, Technical</description>
+			<author>Southwest Research Institute</author>
+			<pubDate>2026-03-16 19:45:00</pubDate>
+		</item>
+	</channel>
 </rss>
