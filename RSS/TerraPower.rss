@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 13 Mar 2026 23:28:08 GMT</pubDate>
-		<lastBuildDate>Fri, 13 Mar 2026 23:28:08 GMT</lastBuildDate>
+		<pubDate>Mon, 16 Mar 2026 14:58:58 GMT</pubDate>
+		<lastBuildDate>Mon, 16 Mar 2026 14:58:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -94,20 +94,6 @@
 			<description></description>
 			<author></author>
 			<pubDate>2026-03-02 13:45:00</pubDate>
-		</item>
-		<item>
-			<title>News Release-25-063: NRC Completes Safety Review of Construction Permit Application For Kemmerer Power Station in Wyoming</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26056A280</link>
-			<description>Press Release</description>
-			<author>NRC/OPA</author>
-			<pubDate>2026-02-27 12:24:00</pubDate>
-		</item>
-		<item>
-			<title>News Release-25-071: NRC Reflects on 2025 Successes</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26056A288</link>
-			<description>Press Release</description>
-			<author>NRC/OPA</author>
-			<pubDate>2026-02-27 12:24:00</pubDate>
 		</item>
 	</channel>
 </rss>

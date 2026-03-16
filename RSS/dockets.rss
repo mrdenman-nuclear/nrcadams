@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 13 Mar 2026 23:28:04 GMT</pubDate>
-		<lastBuildDate>Fri, 13 Mar 2026 23:28:04 GMT</lastBuildDate>
+		<pubDate>Mon, 16 Mar 2026 14:58:54 GMT</pubDate>
+		<lastBuildDate>Mon, 16 Mar 2026 14:58:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Long Mott Energy, LLC's Motion to Dismiss Contention 3B as Moot</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26072A328</link>
+			<description>Legal-Pleading</description>
+			<author>Long Mott Energy, LLC, Morgan, Lewis and Bockius, LLP</author>
+			<pubDate>2026-03-16 12:45:00</pubDate>
+		</item>
+		<item>
+			<title>San Antonio Bay Estuarine Waterkeeper's Notification Regarding Request to Long Mott Energy, LLC's Request to Extend Discovery Deadline</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26072A326</link>
+			<description>Legal-Motion</description>
+			<author>Perales, Allmon and Ice, P.C., San Antonio Bay Estuarine Waterkeeper</author>
+			<pubDate>2026-03-16 12:45:00</pubDate>
+		</item>
 		<item>
 			<title>Licensing Board Notification Regarding Provision of Access to SUNSI in CPA Part I Supplement # 1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26071A312</link>
@@ -206,20 +220,6 @@
 			<description>Letter</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2026-03-11 11:57:00</pubDate>
-		</item>
-		<item>
-			<title>Notice of Withdrawal of Samuel K. Stephens</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26069A360</link>
-			<description>Legal-Correspondence/Miscellaneous</description>
-			<author>NRC/OGC</author>
-			<pubDate>2026-03-10 18:47:00</pubDate>
-		</item>
-		<item>
-			<title>2026/02/24 Clinch River CP Saf Docs - TVA Clinch River Construction Permit - RAI-11122-R1 - FINAL</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26055A428</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-03-10 12:04:00</pubDate>
 		</item>
 	</channel>
 </rss>
