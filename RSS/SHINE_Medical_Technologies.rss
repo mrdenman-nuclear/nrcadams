@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 16 Mar 2026 21:39:17 GMT</pubDate>
-		<lastBuildDate>Mon, 16 Mar 2026 21:39:17 GMT</lastBuildDate>
+		<pubDate>Tue, 17 Mar 2026 14:57:24 GMT</pubDate>
+		<lastBuildDate>Tue, 17 Mar 2026 14:57:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>E-Mail</description>
 			<author>- No Known Affiliation</author>
 			<pubDate>2026-03-03 12:24:00</pubDate>
-		</item>
-		<item>
-			<title>Acceptance Review - Email, SHINE Technologies Application for Order Approving Transfers of Construction Permit CPMIF-001 and Conforming Administrative Amendments. (EPID-2026-LLM-0000)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26055A040</link>
-			<description>Acceptance Review Letter, E-Mail</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2026-03-02 12:20:00</pubDate>
-		</item>
-		<item>
-			<title>NEI - Supplemental Guidance for Application of 10 CFR 50.59 to Digital Modifications at Non-Power Production or Utilization Facilities</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26051A109</link>
-			<description>Report, Technical</description>
-			<author>Nuclear Energy Institute (NEI)</author>
-			<pubDate>2026-03-02 12:19:00</pubDate>
 		</item>
 	</channel>
 </rss>

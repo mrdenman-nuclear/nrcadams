@@ -5,22 +5,43 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 16 Mar 2026 21:39:12 GMT</pubDate>
-		<lastBuildDate>Mon, 16 Mar 2026 21:39:12 GMT</lastBuildDate>
+		<pubDate>Tue, 17 Mar 2026 14:57:19 GMT</pubDate>
+		<lastBuildDate>Tue, 17 Mar 2026 14:57:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>NRC Staff's Corrected Notification Regarding Its Filing of a Response to the Applicant's Appeal From LBP-26-1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075C885</link>
+			<title>San Antonio Bay Estuarine Waterkeeper's Brief in Response to Long Mott Energy, LLC's Appeal of LBP-26-1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075E910</link>
+			<description>Legal-Pleading</description>
+			<author>Perales, Allmon and Ice, P.C., San Antonio Bay Estuarine Waterkeeper</author>
+			<pubDate>2026-03-17 12:30:00</pubDate>
+		</item>
+		<item>
+			<title>Memorandum and Order (Establishing Schedule for Responses Associated with Applicants March 13, 2026 Motion Regarding Contention 3B)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075E867</link>
+			<description>Legal-Order</description>
+			<author>NRC/ASLBP</author>
+			<pubDate>2026-03-17 12:30:00</pubDate>
+		</item>
+		<item>
+			<title>San Antonio Bay Waterkeeper's Answer to Long Mott Energy, LLC's Motion to Dismiss Contention 3A as Moot</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075E909</link>
+			<description>Legal-Motion</description>
+			<author>Perales, Allmon and Ice, P.C., San Antonio Bay Estuarine Waterkeeper</author>
+			<pubDate>2026-03-17 12:30:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Staff's Notification Regarding Its Filing of a Response to the Applicant's Appeal From LBP-26-1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075C884</link>
 			<description>Legal-Pleading</description>
 			<author>NRC/OGC</author>
 			<pubDate>2026-03-16 19:45:00</pubDate>
 		</item>
 		<item>
-			<title>NRC Staff's Notification Regarding Its Filing of a Response to the Applicant's Appeal From LBP-26-1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075C884</link>
+			<title>NRC Staff's Corrected Notification Regarding Its Filing of a Response to the Applicant's Appeal From LBP-26-1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075C885</link>
 			<description>Legal-Pleading</description>
 			<author>NRC/OGC</author>
 			<pubDate>2026-03-16 19:45:00</pubDate>
@@ -199,27 +220,6 @@
 			<description>Letter</description>
 			<author>Long Mott Energy, LLC</author>
 			<pubDate>2026-03-06 12:28:00</pubDate>
-		</item>
-		<item>
-			<title>Ltr. to Michael McLane - Delaware Nation of Indians - Long Mott Draft EA Section</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26062A081</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/ETRB1</author>
-			<pubDate>2026-03-05 12:38:00</pubDate>
-		</item>
-		<item>
-			<title>Ltr. to Forrest Tahdooahnippah -Comanche Nation - Long Mott Draft EA Section</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26062A075</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/ETRB1</author>
-			<pubDate>2026-03-05 12:38:00</pubDate>
-		</item>
-		<item>
-			<title>Ltr. to Jeffery Wacoche - United Keetoowah Band Cherokee Indians - Long Mott Draft EA Section</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26062A077</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/ETRB1</author>
-			<pubDate>2026-03-05 12:38:00</pubDate>
 		</item>
 	</channel>
 </rss>

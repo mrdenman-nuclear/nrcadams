@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 16 Mar 2026 21:39:17 GMT</pubDate>
-		<lastBuildDate>Mon, 16 Mar 2026 21:39:17 GMT</lastBuildDate>
+		<pubDate>Tue, 17 Mar 2026 14:57:24 GMT</pubDate>
+		<lastBuildDate>Tue, 17 Mar 2026 14:57:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -150,20 +150,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS/DREFS/EPMB1</author>
 			<pubDate>2026-03-03 12:28:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: ANO-2 SAR Amendment 32 - Redacted Version</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25112A323</link>
-			<description>License-Application for Facility Operating License (Amend/Renewal) DKT 50, Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Entergy Operations, Inc</author>
-			<pubDate>2026-03-02 17:43:00</pubDate>
-		</item>
-		<item>
-			<title>2025/02/11 Project Long Mott Docs - U.S. NRC FINAL SAFETY EVALUATION FOR X-ENERGYS QUALITY ASSURANCE PROGRAM DESCRIPTION TOPICAL REPORT, REVISION 6 Jessica,</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26045A176</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-03-02 12:18:00</pubDate>
 		</item>
 	</channel>
 </rss>
