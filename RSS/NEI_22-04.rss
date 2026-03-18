@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 17 Mar 2026 23:32:49 GMT</pubDate>
-		<lastBuildDate>Tue, 17 Mar 2026 23:32:49 GMT</lastBuildDate>
+		<pubDate>Wed, 18 Mar 2026 15:02:04 GMT</pubDate>
+		<lastBuildDate>Wed, 18 Mar 2026 15:02:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Transmittal of TerraPower, LLC Topical Report, "Natrium Generic Dual Unit Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26072A301</link>
+			<description>Letter, Topical Report</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2026-03-17 15:19:00</pubDate>
+		</item>
 		<item>
 			<title>Christopher M. Crane Clean Energy Center - Transmittal of 2024-2025 Commitment Revision Summary Report, 2024-2025 Biennial 10 CFR 50.59 and 10 CFR 72.48 Summary Reports</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26068A038</link>
@@ -213,13 +220,6 @@
 			<description>Letter, License-Application for Combined License (COL) (Amend/Renewal) DKT 52</description>
 			<author>Southern Nuclear Operating Co, Inc</author>
 			<pubDate>2026-03-06 12:28:00</pubDate>
-		</item>
-		<item>
-			<title>Guidance Document for Development of the Request for Information (RFI) and Notification Letter for IP 71130.10 Cyber Security Inspection</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26062A236</link>
-			<description>Guidance Document</description>
-			<author>NRC/NSIR/DPCP/CSB</author>
-			<pubDate>2026-03-05 19:25:00</pubDate>
 		</item>
 	</channel>
 </rss>

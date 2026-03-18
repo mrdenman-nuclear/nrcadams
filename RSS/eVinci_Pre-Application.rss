@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 17 Mar 2026 23:32:42 GMT</pubDate>
-		<lastBuildDate>Tue, 17 Mar 2026 23:32:42 GMT</lastBuildDate>
+		<pubDate>Wed, 18 Mar 2026 15:01:56 GMT</pubDate>
+		<lastBuildDate>Wed, 18 Mar 2026 15:01:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Westinghouse Electric Company - Safety Evaluation for Topical Report Rev. 0 of WCAP-18810-P/NP, "Advanced Logic System v2 Platform Elimination of Technical Specification Surveillance Requirements Topical Report"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26044A202</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2026-03-03 12:28:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - Safety Evaluation for Topical Report "Advanced Logic System v2 Platform Elimination of Technical Specification Surveillance Requirements"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26044A204</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2026-03-03 12:28:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
