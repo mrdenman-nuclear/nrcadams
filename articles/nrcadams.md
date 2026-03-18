@@ -78,5 +78,5 @@ nrcadams::docket_codex |>
     escape = FALSE
   )
 #> 
-#>  This search returned: 697 files.
+#>  This search returned: 698 files.
 ```

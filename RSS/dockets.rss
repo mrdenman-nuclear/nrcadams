@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 18 Mar 2026 19:56:10 GMT</pubDate>
-		<lastBuildDate>Wed, 18 Mar 2026 19:56:10 GMT</lastBuildDate>
+		<pubDate>Wed, 18 Mar 2026 20:34:42 GMT</pubDate>
+		<lastBuildDate>Wed, 18 Mar 2026 20:34:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Memorandum and Order (Denying Intervenor's December 5, 2025 Motion to Amend Contention 1)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26077A214</link>
+			<description>Legal-Order</description>
+			<author>NRC/ASLBP</author>
+			<pubDate>2026-03-18 20:14:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 1: Affidavit and Request for Withholding</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26064A245</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26071A312</link>
 			<description>Legal-Correspondence/Miscellaneous</description>
 			<author>Long Mott Energy, LLC, Morgan, Lewis and Bockius, LLP</author>
-			<pubDate>2026-03-13 11:58:00</pubDate>
-		</item>
-		<item>
-			<title>U.S. Department of Interior, Fish and Wildlife Service to NRC, Concurrence with ESA findings</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26071A148</link>
-			<description>Letter</description>
-			<author>US Dept of Interior, Fish and Wildlife Service</author>
 			<pubDate>2026-03-13 11:58:00</pubDate>
 		</item>
 	</channel>
