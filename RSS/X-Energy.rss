@@ -5,17 +5,38 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 19 Mar 2026 23:38:20 GMT</pubDate>
-		<lastBuildDate>Thu, 19 Mar 2026 23:38:20 GMT</lastBuildDate>
+		<pubDate>Fri, 20 Mar 2026 14:43:20 GMT</pubDate>
+		<lastBuildDate>Fri, 20 Mar 2026 14:43:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
+			<title>Summary Report and Certified Minutes for the 732nd Meeting of the Advisory Committee on Reactor Safeguards for February 5, 2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26056A370</link>
+			<description>ACRS Summary Report, Letter, Meeting Minutes</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2026-03-18 20:14:00</pubDate>
+		</item>
+		<item>
+			<title>Memorandum and Order (Denying Intervenor's December 5, 2025 Motion to Amend Contention 1)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26077A214</link>
+			<description>Legal-Order</description>
+			<author>NRC/ASLBP</author>
+			<pubDate>2026-03-18 20:14:00</pubDate>
+		</item>
+		<item>
 			<title>OMB 3150-0204, Final Supporting Statement for NRC Form 754 "Armed Security Personnel Firearms Background Check"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26056A330</link>
 			<description>OMB Clearance Material</description>
 			<author>NRC/NSIR/DPCP/MSB</author>
+			<pubDate>2026-03-18 16:30:00</pubDate>
+		</item>
+		<item>
+			<title>Direct Final Rule List of Approved Spent Fuel Storage Casks TN Americas, LLC, NUHOMS EOS Dry Spent Fuel Storage System, Certificate of Compliance No. 1042, Amendment No. 5</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25261A198</link>
+			<description>Federal Register Notice, Rulemaking- Final Rule</description>
+			<author>NRC/EDO</author>
 			<pubDate>2026-03-18 16:30:00</pubDate>
 		</item>
 		<item>
@@ -198,27 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26065A182</link>
 			<description>Annual Operating Report, Letter</description>
 			<author>Univ of Texas - Austin</author>
-			<pubDate>2026-03-16 12:44:00</pubDate>
-		</item>
-		<item>
-			<title>655194 Request for Amendment to Radiopharmacy Incorporated, License No. 13-26246-01MD. Dated 01/13/2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26020A036</link>
-			<description>E-Mail, Letter, License-Application for (Amend/Renewal/New) for DKT 30, 40, 70</description>
-			<author>Radiopharmacy, Inc</author>
-			<pubDate>2026-03-16 12:44:00</pubDate>
-		</item>
-		<item>
-			<title>TLR-RES/DE/REB-2026-05, Aqueous and Pyrochemical Reprocessing Chemical Safety: Technical Descriptions to Air Regulatory Considerations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26061A064</link>
-			<description>Report, Technical, Technical Paper</description>
-			<author>Idaho National Lab, NRC/RES/DE</author>
-			<pubDate>2026-03-16 12:44:00</pubDate>
-		</item>
-		<item>
-			<title>NMEDFY25 Annual Report - Final January 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26069A021</link>
-			<description>Annual Operating Report</description>
-			<author>Idaho National Lab</author>
 			<pubDate>2026-03-16 12:44:00</pubDate>
 		</item>
 	</channel>

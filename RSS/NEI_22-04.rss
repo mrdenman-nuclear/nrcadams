@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 19 Mar 2026 23:38:22 GMT</pubDate>
-		<lastBuildDate>Thu, 19 Mar 2026 23:38:22 GMT</lastBuildDate>
+		<pubDate>Fri, 20 Mar 2026 14:43:23 GMT</pubDate>
+		<lastBuildDate>Fri, 20 Mar 2026 14:43:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Distribution A, PNNL Draft Scoping Study to Demonstrate Viability of a Risk Assessment Approach for Approval of a Transportation Package of a Transportable Nuclear Power Plant for Maritime Shipment (DOE/SCO), 3/16/26</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26078A348</link>
+			<description>Report, Technical</description>
+			<author>Pacific Northwest National Lab, US Dept of Defense (DOD), US Dept of Energy (DOE)</author>
+			<pubDate>2026-03-20 13:41:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 2: Approved Version of the KP-FHR Mechanistic Source Term Methodology Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075E846</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26057A104</link>
 			<description>Annual Operating Report, Letter</description>
 			<author>Univ of Missouri - Columbia</author>
-			<pubDate>2026-03-06 12:28:00</pubDate>
-		</item>
-		<item>
-			<title>Aging Management Audit Report - Edwin I. Hatch, Units 1 and 2 - Subsequent License Renewal Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26044A156</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NLRP</author>
 			<pubDate>2026-03-06 12:28:00</pubDate>
 		</item>
 	</channel>

@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 19 Mar 2026 23:38:16 GMT</pubDate>
-		<lastBuildDate>Thu, 19 Mar 2026 23:38:16 GMT</lastBuildDate>
+		<pubDate>Fri, 20 Mar 2026 14:43:16 GMT</pubDate>
+		<lastBuildDate>Fri, 20 Mar 2026 14:43:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Transmittal Letter for Form 895</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26061A291</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2026-03-20 12:04:00</pubDate>
+		</item>
+		<item>
+			<title>NRC 895 - Kairos MST TR Rev 4</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26061A290</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2026-03-20 12:04:00</pubDate>
+		</item>
 		<item>
 			<title>Kairos Power, LLC - Approved Version of the KP-FHR Mechanistic Source Term Methodology Topical Report (KP-TR-012, Revision 4)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075E844</link>
