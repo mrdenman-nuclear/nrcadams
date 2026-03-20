@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 20 Mar 2026 20:31:16 GMT</pubDate>
-		<lastBuildDate>Fri, 20 Mar 2026 20:31:16 GMT</lastBuildDate>
+		<pubDate>Fri, 20 Mar 2026 21:31:06 GMT</pubDate>
+		<lastBuildDate>Fri, 20 Mar 2026 21:31:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,6 +17,13 @@
 			<description>Legal-Order</description>
 			<author>NRC/ASLBP</author>
 			<pubDate>2026-03-20 20:05:00</pubDate>
+		</item>
+		<item>
+			<title>White Paper - Justification that Installation of Certain Structures, Systems, and Components for a BWRX-300 are Preconstruction Activities - Topic 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26063A918</link>
+			<description>Legal-Affidavit, Letter, Technical Paper</description>
+			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
+			<pubDate>2026-03-20 17:31:00</pubDate>
 		</item>
 		<item>
 			<title>03/31/2026 Public Meeting with SMR (Holtec) to Discuss the Approach for Addressing Generic Safety Issue (GSI) 191 for SMR-300 Design</title>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26063A279</link>
 			<description>E-Mail</description>
 			<author>- No Known Affiliation</author>
-			<pubDate>2026-03-18 12:08:00</pubDate>
-		</item>
-		<item>
-			<title>2026/03/04 Clinch River CP Env Docs - FW EPA has received your Clean Water Act Section 401(a)(2) Project Clinch River Nuclear Site Construction Permit in Oak Ridge, TN</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26063A280</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
 			<pubDate>2026-03-18 12:08:00</pubDate>
 		</item>
 	</channel>
