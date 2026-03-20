@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 20 Mar 2026 19:38:56 GMT</pubDate>
-		<lastBuildDate>Fri, 20 Mar 2026 19:38:56 GMT</lastBuildDate>
+		<pubDate>Fri, 20 Mar 2026 20:31:15 GMT</pubDate>
+		<lastBuildDate>Fri, 20 Mar 2026 20:31:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Memorandum and Order (Granting Applicants Motion to Dismiss Contention 3A as Moot)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26079A162</link>
+			<description>Legal-Order</description>
+			<author>NRC/ASLBP</author>
+			<pubDate>2026-03-20 20:05:00</pubDate>
+		</item>
 		<item>
 			<title>Order (Denying Applicant's Motion to File a Reply Brief)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26078A328</link>
@@ -213,13 +220,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2026-03-10 12:04:00</pubDate>
-		</item>
-		<item>
-			<title>Memorandum and Order (Amended Protective Order Governing New Sensitive Unclassified Non-Safeguards Information)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26068A245</link>
-			<description>Legal-Order</description>
-			<author>NRC/ASLBP</author>
-			<pubDate>2026-03-09 20:08:00</pubDate>
 		</item>
 	</channel>
 </rss>
