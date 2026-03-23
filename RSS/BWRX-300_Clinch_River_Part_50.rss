@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 20 Mar 2026 23:29:20 GMT</pubDate>
-		<lastBuildDate>Fri, 20 Mar 2026 23:29:20 GMT</lastBuildDate>
+		<pubDate>Mon, 23 Mar 2026 14:55:01 GMT</pubDate>
+		<lastBuildDate>Mon, 23 Mar 2026 14:55:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Agenda - Clinch River TVA - SC - April 7, 2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26079A346</link>
+			<description>Conference/Symposium/Workshop Paper, Meeting Agenda</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2026-03-23 12:24:00</pubDate>
+		</item>
 		<item>
 			<title>2026/03/03 Clinch River CP Env Docs - [External_Sender] EPA has received your Clean Water Act Section 401(a)(2) Project Clinch River Nuclear Site Construction Permit in Oak Ridge, TN</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26063A279</link>
@@ -52,20 +59,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2026-03-09 12:04:00</pubDate>
-		</item>
-		<item>
-			<title>2026/02/20 Clinch River CP Saf Docs - Docket Request for A-9.3-3 - TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26051A066</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-03-06 12:28:00</pubDate>
-		</item>
-		<item>
-			<title>2026/02/20 Clinch River CP Saf Docs - Docket Request for responses to A-2.5 questions, TVA Clinch River CP Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26051A197</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-03-06 12:28:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 20 Mar 2026 23:29:19 GMT</pubDate>
-		<lastBuildDate>Fri, 20 Mar 2026 23:29:19 GMT</lastBuildDate>
+		<pubDate>Mon, 23 Mar 2026 14:55:01 GMT</pubDate>
+		<lastBuildDate>Mon, 23 Mar 2026 14:55:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>License-Construction Permit (CP)(New/Extension/Amendment) DKT 50</description>
 			<author>NRC/NRR</author>
 			<pubDate>2026-03-09 14:41:00</pubDate>
-		</item>
-		<item>
-			<title>News Release-26-028: NRC Issues First Commercial Reactor Construction Approval in 10 Years For TerraPower in Wyoming</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26064A046</link>
-			<description>Press Release</description>
-			<author>NRC/OPA</author>
-			<pubDate>2026-03-06 12:29:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 20 Mar 2026 23:29:26 GMT</pubDate>
-		<lastBuildDate>Fri, 20 Mar 2026 23:29:26 GMT</lastBuildDate>
+		<pubDate>Mon, 23 Mar 2026 14:55:06 GMT</pubDate>
+		<lastBuildDate>Mon, 23 Mar 2026 14:55:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,20 +59,6 @@
 			<description>Topical Report</description>
 			<author>Terra Innovatum s.r.l</author>
 			<pubDate>2026-03-09 12:04:00</pubDate>
-		</item>
-		<item>
-			<title>Technical Basis for Continued Applicability of GSI 187 Conclusions for Continued use of TID 14844 to Demonstrate Compliance with 10 CFR 50.49 with Updated Accident Source Terms Endorsed in Later Versions of Regulatory Guide 1.183</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26057A158</link>
-			<description>Memoranda, Report, Technical</description>
-			<author>NRC/NRR/DRA/ARCB</author>
-			<pubDate>2026-03-06 15:44:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of February 11, 2026, Public Meeting with Rolls-Royce SMR Limited to Discuss Pre-Application Activities</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26058A192</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2026-03-06 12:29:00</pubDate>
 		</item>
 	</channel>
 </rss>

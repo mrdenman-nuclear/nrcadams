@@ -5,19 +5,12 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 20 Mar 2026 23:29:19 GMT</pubDate>
-		<lastBuildDate>Fri, 20 Mar 2026 23:29:19 GMT</lastBuildDate>
+		<pubDate>Mon, 23 Mar 2026 14:55:01 GMT</pubDate>
+		<lastBuildDate>Mon, 23 Mar 2026 14:55:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>[External_Sender] RE_ Feedback on Graphite Engagement #1 Slides_Redacted</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26076A021</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-03-18 12:08:00</pubDate>
-		</item>
 		<item>
 			<title>[External_Sender] RE_ RE_ PDC Scope_Redacted</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26076A020</link>
@@ -37,6 +30,13 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26076A294</link>
 			<description>E-Mail</description>
 			<author>X-Energy, LLC</author>
+			<pubDate>2026-03-18 12:08:00</pubDate>
+		</item>
+		<item>
+			<title>[External_Sender] RE_ Feedback on Graphite Engagement #1 Slides_Redacted</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26076A021</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR</author>
 			<pubDate>2026-03-18 12:08:00</pubDate>
 		</item>
 		<item>
@@ -66,20 +66,6 @@
 			<description>Letter</description>
 			<author>Long Mott Energy, LLC</author>
 			<pubDate>2026-03-11 11:57:00</pubDate>
-		</item>
-		<item>
-			<title>Supplement 4 Regarding the Environmental Report for the Long Mott Generating Station Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26056A160</link>
-			<description>Environmental Monitoring Report</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2026-03-06 12:28:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Supplement 4 Regarding the Environmental Report for the Long Mott Generating Station Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26056A159</link>
-			<description>Letter</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2026-03-06 12:28:00</pubDate>
 		</item>
 	</channel>
 </rss>
