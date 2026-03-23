@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 23 Mar 2026 14:55:01 GMT</pubDate>
-		<lastBuildDate>Mon, 23 Mar 2026 14:55:01 GMT</lastBuildDate>
+		<pubDate>Mon, 23 Mar 2026 16:01:16 GMT</pubDate>
+		<lastBuildDate>Mon, 23 Mar 2026 16:01:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Joint Motion to Correct the Transcript of the Prehearing Conference Held on February 26, 2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26079A344</link>
+			<description>Legal-Pleading</description>
+			<author>Long Mott Energy, LLC, Morgan, Lewis and Bockius, LLP, NRC/OGC, San Antonio Bay Estuarine Waterkeeper</author>
+			<pubDate>2026-03-23 14:31:00</pubDate>
+		</item>
 		<item>
 			<title>Memorandum and Order (Granting Applicants Motion to Dismiss Contention 3A as Moot)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26079A162</link>
@@ -138,15 +145,15 @@
 			<pubDate>2026-03-13 11:57:00</pubDate>
 		</item>
 		<item>
-			<title>2025/03/13 Project Long Mott Docs - [External_Sender] Long Lead Procurement Drop In</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26058A488</link>
+			<title>2025/03/14 Project Long Mott Docs - [External_Sender] RE Graphite Audit - eRR Access</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26058A487</link>
 			<description>E-Mail</description>
 			<author>- No Known Affiliation</author>
 			<pubDate>2026-03-13 11:57:00</pubDate>
 		</item>
 		<item>
-			<title>2025/03/14 Project Long Mott Docs - [External_Sender] RE Graphite Audit - eRR Access</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26058A487</link>
+			<title>2025/03/13 Project Long Mott Docs - [External_Sender] Long Lead Procurement Drop In</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26058A488</link>
 			<description>E-Mail</description>
 			<author>- No Known Affiliation</author>
 			<pubDate>2026-03-13 11:57:00</pubDate>
@@ -213,13 +220,6 @@
 			<description>Legal-Correspondence/Miscellaneous</description>
 			<author>NRC/OGC</author>
 			<pubDate>2026-03-10 18:47:00</pubDate>
-		</item>
-		<item>
-			<title>2026/02/24 Project Long Mott Docs - RE RE Change in Project Long Mott EA publication date to April 27, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26055A024</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-03-10 12:04:00</pubDate>
 		</item>
 	</channel>
 </rss>
