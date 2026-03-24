@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 24 Mar 2026 19:56:08 GMT</pubDate>
-		<lastBuildDate>Tue, 24 Mar 2026 19:56:08 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Mar 2026 20:45:54 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Mar 2026 20:45:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submittal of X Energy, LLC (X-energy) Xe-100 Presentation Materials: Xe-100 Licensing Topical Report: Plume Exposure Pathway Emergency Planning Zone Sizing Methodology</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24303A260</link>
+			<description>Letter</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2026-03-24 19:07:00</pubDate>
+		</item>
+		<item>
+			<title>Memorandum (Summarizing Rulings from March 23, 2026 Status Conference)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A163</link>
+			<description>Legal-Order</description>
+			<author>NRC/ASLBP</author>
+			<pubDate>2026-03-24 19:07:00</pubDate>
+		</item>
 		<item>
 			<title>ML26070A157-Summary of the December 9, 2025, Follow-Up Public Meeting with SMR (Holtec) to Discuss the SMR-300 Instrumentation and Control Architecture Licensing Topical Report.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26070A157</link>
@@ -206,20 +220,6 @@
 			<description>Topical Report</description>
 			<author>Oklo Inc</author>
 			<pubDate>2026-03-18 18:11:00</pubDate>
-		</item>
-		<item>
-			<title>Nonproprietary Safety Evaluation for NuScale Licensing Topical Report (TR) 147121-P (Revision 1) "Supplement 1 to TR-1015-18653-P-A, 'Design of the Highly Integrated Protection System Platform'"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26064A118</link>
-			<description>Safety Evaluation Report, Draft</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2026-03-18 13:43:00</pubDate>
-		</item>
-		<item>
-			<title>[External_Sender] Geotechnical Approach - Closed Engagement - Redacted</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26076A025</link>
-			<description>E-Mail</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2026-03-18 12:08:00</pubDate>
 		</item>
 	</channel>
 </rss>

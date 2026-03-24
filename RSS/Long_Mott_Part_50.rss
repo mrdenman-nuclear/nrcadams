@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 24 Mar 2026 19:56:08 GMT</pubDate>
-		<lastBuildDate>Tue, 24 Mar 2026 19:56:08 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Mar 2026 20:45:54 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Mar 2026 20:45:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Memorandum (Summarizing Rulings from March 23, 2026 Status Conference)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A163</link>
+			<description>Legal-Order</description>
+			<author>NRC/ASLBP</author>
+			<pubDate>2026-03-24 19:07:00</pubDate>
+		</item>
 		<item>
 			<title>Joint Motion to Correct the Transcript of the Prehearing Conference Held on February 26, 2026</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26079A344</link>
@@ -213,13 +220,6 @@
 			<description>Letter</description>
 			<author>Long Mott Energy, LLC</author>
 			<pubDate>2026-03-11 11:57:00</pubDate>
-		</item>
-		<item>
-			<title>Notice of Withdrawal of Samuel K. Stephens</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26069A360</link>
-			<description>Legal-Correspondence/Miscellaneous</description>
-			<author>NRC/OGC</author>
-			<pubDate>2026-03-10 18:47:00</pubDate>
 		</item>
 	</channel>
 </rss>

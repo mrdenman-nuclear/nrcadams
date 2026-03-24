@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 24 Mar 2026 19:56:15 GMT</pubDate>
-		<lastBuildDate>Tue, 24 Mar 2026 19:56:15 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Mar 2026 20:46:00 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Mar 2026 20:46:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>IP 71130.10 Cybersecurity</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25337A110</link>
+			<description>Inspection Manual</description>
+			<author>NRC/NSIR/DPCP/CSB</author>
+			<pubDate>2026-03-24 19:07:00</pubDate>
+		</item>
 		<item>
 			<title>Christopher M. Crane Clean Energy Center - Transmittal of 2024-2025 Commitment Revision Summary Report, 2024-2025 Biennial 10 CFR 50.59 and 10 CFR 72.48 Summary Reports</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26068A038</link>
@@ -213,13 +220,6 @@
 			<description>Letter, Quality Assurance Program, Topical Report</description>
 			<author>Hadron Energy, Inc</author>
 			<pubDate>2026-03-09 12:04:00</pubDate>
-		</item>
-		<item>
-			<title>Technical Basis for Continued Applicability of GSI 187 Conclusions for Continued use of TID 14844 to Demonstrate Compliance with 10 CFR 50.49 with Updated Accident Source Terms Endorsed in Later Versions of Regulatory Guide 1.183</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26057A158</link>
-			<description>Memoranda, Report, Technical</description>
-			<author>NRC/NRR/DRA/ARCB</author>
-			<pubDate>2026-03-06 15:44:00</pubDate>
 		</item>
 	</channel>
 </rss>

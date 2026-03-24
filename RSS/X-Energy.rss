@@ -5,17 +5,38 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 24 Mar 2026 19:56:12 GMT</pubDate>
-		<lastBuildDate>Tue, 24 Mar 2026 19:56:12 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Mar 2026 20:45:58 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Mar 2026 20:45:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>Proposed Rule-Federal Register Notice for the Regulatory Framework for Fusion Machines</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25168A337</link>
-			<description>Federal Register Notice, Rulemaking- Proposed Rule</description>
-			<author>NRC/SECY</author>
+			<title>Submittal of X Energy, LLC (X-energy) Xe-100 Presentation Materials: Xe-100 Licensing Topical Report: Plume Exposure Pathway Emergency Planning Zone Sizing Methodology</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24303A259</link>
+			<description></description>
+			<author></author>
+			<pubDate>2026-03-24 19:07:00</pubDate>
+		</item>
+		<item>
+			<title>Rolls-Royce SMR, Ltd - SMR0005223 Issue 3, Supplier Management System Requirements</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25332A053</link>
+			<description>Report, Technical</description>
+			<author>Rolls-Royce SMR, Ltd</author>
+			<pubDate>2026-03-24 19:07:00</pubDate>
+		</item>
+		<item>
+			<title>Rolls-Royce SMR, Ltd - SMR0004233 Issue 3, Health, Safety and Environment Manual</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25332A054</link>
+			<description>Report, Technical</description>
+			<author>Rolls-Royce SMR, Ltd</author>
+			<pubDate>2026-03-24 19:07:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2 - CoC No. 9233, Revision 19</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26055A265</link>
+			<description>License-Certificate of Compliance (Dkt 71)</description>
+			<author>NRC/NMSS/DFM/STLB</author>
 			<pubDate>2026-03-24 19:07:00</pubDate>
 		</item>
 		<item>
@@ -199,27 +220,6 @@
 			<description>OMB Clearance Material</description>
 			<author>NRC/NSIR/DPCP/MSB</author>
 			<pubDate>2026-03-18 16:30:00</pubDate>
-		</item>
-		<item>
-			<title>Direct Final Rule List of Approved Spent Fuel Storage Casks TN Americas, LLC, NUHOMS EOS Dry Spent Fuel Storage System, Certificate of Compliance No. 1042, Amendment No. 5</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25261A198</link>
-			<description>Federal Register Notice, Rulemaking- Final Rule</description>
-			<author>NRC/EDO</author>
-			<pubDate>2026-03-18 16:30:00</pubDate>
-		</item>
-		<item>
-			<title>Letter to James Martin, Energy Steel, from Nestor J. Feliz-Adorno, NRC/DRO, NRC Office of Investigations Report (OI-RIII-2024-0024) - Release of OI Synopsis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26071A058</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DRO</author>
-			<pubDate>2026-03-18 15:04:00</pubDate>
-		</item>
-		<item>
-			<title>2026/03/04 Project Long Mott Docs - X-Energy Slides 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26063A422</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-03-18 12:08:00</pubDate>
 		</item>
 	</channel>
 </rss>
