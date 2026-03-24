@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 23 Mar 2026 23:32:16 GMT</pubDate>
-		<lastBuildDate>Mon, 23 Mar 2026 23:32:16 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Mar 2026 14:58:53 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Mar 2026 14:58:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Draft Belews Creek, Environmental Information Needs, Attachment</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075A090</link>
+			<description>Report, Administrative</description>
+			<author>NRC/NMSS/DREFS/EPMB3</author>
+			<pubDate>2026-03-24 12:07:00</pubDate>
+		</item>
 		<item>
 			<title>RIC 2026 - Regulation, Innovation and Collaboration for a Safer Tomorrow - Rolling Into the Future of EP</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075A104</link>
@@ -38,13 +45,6 @@
 			<description>Report, Technical</description>
 			<author>NRC/RES/DSA/FSCB</author>
 			<pubDate>2026-03-19 19:07:00</pubDate>
-		</item>
-		<item>
-			<title>SWRI/CNWRA Report: Comparing Populating Dose and Economic Cost Information in NUREG/BR-0184 to Updated Level 3 PRA Results</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075A073</link>
-			<description>Report, Technical</description>
-			<author>Southwest Research Institute</author>
-			<pubDate>2026-03-16 19:45:00</pubDate>
 		</item>
 	</channel>
 </rss>

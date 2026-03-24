@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 23 Mar 2026 23:32:15 GMT</pubDate>
-		<lastBuildDate>Mon, 23 Mar 2026 23:32:15 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Mar 2026 14:58:52 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Mar 2026 14:58:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>LER 2025-002-01 for Wolf Creek Generation Station, Loss of Both Trains of Control Room Air Conditioning causes Condition that Could Have Prevented Fulfillment of a Safety Function</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075C887</link>
+			<description>Letter, Licensee Event Report (LER)</description>
+			<author>Wolf Creek Nuclear Operating Corp</author>
+			<pubDate>2026-03-24 12:07:00</pubDate>
+		</item>
 		<item>
 			<title>Abilene Christian University Molten Salt Research Reactor Degradation Management Program Semiannual Status Update</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26072A237</link>
@@ -24,13 +31,6 @@
 			<description>Report, Technical, Technical Paper</description>
 			<author>Idaho National Lab, NRC/RES/DE</author>
 			<pubDate>2026-03-16 12:44:00</pubDate>
-		</item>
-		<item>
-			<title>Acuren Inspection, Inc., Expiration Notification for License No. 22-27593-01</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26062A192</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DMSST/MSLB</author>
-			<pubDate>2026-03-09 12:05:00</pubDate>
 		</item>
 	</channel>
 </rss>

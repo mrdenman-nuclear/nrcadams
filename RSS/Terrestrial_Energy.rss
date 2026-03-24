@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 23 Mar 2026 23:32:15 GMT</pubDate>
-		<lastBuildDate>Mon, 23 Mar 2026 23:32:15 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Mar 2026 14:58:52 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Mar 2026 14:58:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Draft Belews Creek, Environmental Information Needs, Attachment</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075A090</link>
+			<description>Report, Administrative</description>
+			<author>NRC/NMSS/DREFS/EPMB3</author>
+			<pubDate>2026-03-24 12:07:00</pubDate>
+		</item>
 		<item>
 			<title>Global Laser Enrichment, LLC (GLE) Paducah Laser Enrichment Facility (PLEF) Environmental Impact Statement (EIS)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26061A085</link>
@@ -101,41 +108,6 @@
 			<description>Legal-Affidavit, Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
 			<author>Omaha Public Power District</author>
 			<pubDate>2026-03-10 12:05:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 4: Environmental Report - Radiant R-50 Site, Oak Ridge, Tennessee</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26058A379</link>
-			<description>Environmental Monitoring Report</description>
-			<author>Haley and Aldrich, Inc, Radiant Industries, LLC</author>
-			<pubDate>2026-03-09 17:37:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 4: Environmental Report - Radiant R-50 Site, Oak Ridge, Tennessee</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26058A379</link>
-			<description>Environmental Monitoring Report</description>
-			<author>Haley and Aldrich, Inc, Radiant Industries, LLC</author>
-			<pubDate>2026-03-09 17:37:00</pubDate>
-		</item>
-		<item>
-			<title>2nd Half 2025 Semi-Annual Environmental Monitoring Report for Period July-December 2025, in Accordance with Nuclear Commission Docket No. 40-8903, License SUA-1471, and New Mexico Environmental Department DP-200 Ground Water Discharge Plan</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26061A238</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Homestake Mining Co of California</author>
-			<pubDate>2026-03-09 17:37:00</pubDate>
-		</item>
-		<item>
-			<title>US SFR Owner LLC - Summary Record of Decision</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26034C169</link>
-			<description>License-Construction Permit (CP)(New/Extension/Amendment) DKT 50</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-03-09 14:41:00</pubDate>
-		</item>
-		<item>
-			<title>US SFR Owner LLC - Construction Permit for Kemmerer Power Station Unit 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26034B247</link>
-			<description>License-Construction Permit (CP)(New/Extension/Amendment) DKT 50</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-03-09 14:41:00</pubDate>
 		</item>
 	</channel>
 </rss>

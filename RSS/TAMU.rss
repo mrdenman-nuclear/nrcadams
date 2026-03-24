@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 23 Mar 2026 23:32:15 GMT</pubDate>
-		<lastBuildDate>Mon, 23 Mar 2026 23:32:15 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Mar 2026 14:58:52 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Mar 2026 14:58:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,20 +38,6 @@
 			<description>Inspection Report, Letter</description>
 			<author>NRC/NRR/DANU/UNPO</author>
 			<pubDate>2026-03-11 11:58:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure RAI-11114-R1-Final</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26061A225</link>
-			<description>Request for Additional Information (RAI)</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2026-03-09 12:05:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure: Request for Additional Information - Texas A&M University - AGN-201M # 106</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26061A089</link>
-			<description>Request for Additional Information (RAI)</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2026-03-09 12:05:00</pubDate>
 		</item>
 	</channel>
 </rss>

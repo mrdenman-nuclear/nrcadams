@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 23 Mar 2026 23:32:15 GMT</pubDate>
-		<lastBuildDate>Mon, 23 Mar 2026 23:32:15 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Mar 2026 14:58:52 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Mar 2026 14:58:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>ML26070A157-Summary of the December 9, 2025, Follow-Up Public Meeting with SMR (Holtec) to Discuss the SMR-300 Instrumentation and Control Architecture Licensing Topical Report.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26070A157</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2026-03-24 14:36:00</pubDate>
+		</item>
 		<item>
 			<title>Lessons Learned From ACRS Reviews Of New Reactor Applications</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26069A573</link>
@@ -87,27 +94,6 @@
 			<description>Letter, Quality Assurance Program</description>
 			<author>Energy Northwest New Nuclear, LLC</author>
 			<pubDate>2026-03-11 11:57:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of Long Mott Energy, Inc., Hearing, 26 February 26, 2026, Pages 250 - 350.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26068A104</link>
-			<description>Legal-Hearing Transcript</description>
-			<author>NRC/OCM</author>
-			<pubDate>2026-03-09 17:38:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 4: Environmental Report - Radiant R-50 Site, Oak Ridge, Tennessee</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26058A379</link>
-			<description>Environmental Monitoring Report</description>
-			<author>Haley and Aldrich, Inc, Radiant Industries, LLC</author>
-			<pubDate>2026-03-09 17:37:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 4: Environmental Report - Radiant R-50 Site, Oak Ridge, Tennessee</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26058A379</link>
-			<description>Environmental Monitoring Report</description>
-			<author>Haley and Aldrich, Inc, Radiant Industries, LLC</author>
-			<pubDate>2026-03-09 17:37:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 23 Mar 2026 23:32:15 GMT</pubDate>
-		<lastBuildDate>Mon, 23 Mar 2026 23:32:15 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Mar 2026 14:58:52 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Mar 2026 14:58:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>Memoranda</description>
 			<author>NRC/OE</author>
 			<pubDate>2026-03-10 17:01:00</pubDate>
-		</item>
-		<item>
-			<title>Information Access Agreement Between Oklo and NRC for Fuel Cycle Activities March 2, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26062A166</link>
-			<description>Legal-Memorandum of Agreement/Understanding, User Agreements</description>
-			<author>NRC/NMSS/DFM, Oklo Inc</author>
-			<pubDate>2026-03-09 12:05:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding determination for Staffing Plan Methodology topical report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26051A234</link>
-			<description></description>
-			<author></author>
-			<pubDate>2026-03-09 12:04:00</pubDate>
 		</item>
 	</channel>
 </rss>
