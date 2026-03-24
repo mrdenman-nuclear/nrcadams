@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 24 Mar 2026 14:58:52 GMT</pubDate>
-		<lastBuildDate>Tue, 24 Mar 2026 14:58:52 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Mar 2026 16:06:40 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Mar 2026 16:06:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -82,20 +82,6 @@
 			<pubDate>2026-03-20 16:15:00</pubDate>
 		</item>
 		<item>
-			<title>Turkey Point Units 3 and 4 [50-250; 50-251], Single Positive Test Form Collected on 06/17/2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26079A119</link>
-			<description>License-Fitness for Duty (FFD) Performance Report</description>
-			<author>Florida Power and Light Co</author>
-			<pubDate>2026-03-20 16:15:00</pubDate>
-		</item>
-		<item>
-			<title>Turkey Point Units 3 and 4 [50-250; 50-251], Single Positive Test Form Collected on 06/17/2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26079A119</link>
-			<description>License-Fitness for Duty (FFD) Performance Report</description>
-			<author>Florida Power and Light Co</author>
-			<pubDate>2026-03-20 16:15:00</pubDate>
-		</item>
-		<item>
 			<title>St. Lucie [50-335; 50-389], Single Positive Test Form Collected on 12/18/2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26079A099</link>
 			<description>License-Fitness for Duty (FFD) Performance Report</description>
@@ -105,6 +91,20 @@
 		<item>
 			<title>St. Lucie [50-335; 50-389], Single Positive Test Form Collected on 12/18/2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26079A099</link>
+			<description>License-Fitness for Duty (FFD) Performance Report</description>
+			<author>Florida Power and Light Co</author>
+			<pubDate>2026-03-20 16:15:00</pubDate>
+		</item>
+		<item>
+			<title>Turkey Point Units 3 and 4 [50-250; 50-251], Single Positive Test Form Collected on 06/17/2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26079A119</link>
+			<description>License-Fitness for Duty (FFD) Performance Report</description>
+			<author>Florida Power and Light Co</author>
+			<pubDate>2026-03-20 16:15:00</pubDate>
+		</item>
+		<item>
+			<title>Turkey Point Units 3 and 4 [50-250; 50-251], Single Positive Test Form Collected on 06/17/2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26079A119</link>
 			<description>License-Fitness for Duty (FFD) Performance Report</description>
 			<author>Florida Power and Light Co</author>
 			<pubDate>2026-03-20 16:15:00</pubDate>
