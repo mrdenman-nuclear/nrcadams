@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 25 Mar 2026 23:33:43 GMT</pubDate>
-		<lastBuildDate>Wed, 25 Mar 2026 23:33:43 GMT</lastBuildDate>
+		<pubDate>Thu, 26 Mar 2026 15:03:32 GMT</pubDate>
+		<lastBuildDate>Thu, 26 Mar 2026 15:03:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Rulemaking - Final Rule - Regulatory Guide RG 1.254, Revision 0, Technology-Inclusive Identification Of Licensing Events For Commercial Nuclear Plants</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25232A005</link>
+			<description>Regulatory Guide, Rulemaking- Final Rule</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2026-03-26 12:14:00</pubDate>
+		</item>
 		<item>
 			<title>SRM-M260325: Enclosure 1 - Federal Register Notice for Final Rule: Categorical Exclusions from Environmental Review</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26084A492</link>
@@ -101,27 +108,6 @@
 			<description>Environmental Impact Statement</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2026-03-12 18:59:00</pubDate>
-		</item>
-		<item>
-			<title>Federal Register Notice - UTA NETL TRIGA EA</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26033A479</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NMSS/DREFS/EPMB1</author>
-			<pubDate>2026-03-11 12:07:00</pubDate>
-		</item>
-		<item>
-			<title>LMS/RFO/50974, Draft Groundwater Compliance Action Plan for the Old Rifle, Colorado, Processing Site"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26068A066</link>
-			<description>Environmental Report</description>
-			<author>US Dept of Energy, Office of Legacy Management</author>
-			<pubDate>2026-03-11 11:58:00</pubDate>
-		</item>
-		<item>
-			<title>LMS/RFO/50974, Draft Groundwater Compliance Action Plan for the Old Rifle, Colorado, Processing Site"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26068A066</link>
-			<description>Environmental Report</description>
-			<author>US Dept of Energy, Office of Legacy Management</author>
-			<pubDate>2026-03-11 11:58:00</pubDate>
 		</item>
 	</channel>
 </rss>
