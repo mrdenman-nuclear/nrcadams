@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 26 Mar 2026 19:10:55 GMT</pubDate>
-		<lastBuildDate>Thu, 26 Mar 2026 19:10:55 GMT</lastBuildDate>
+		<pubDate>Thu, 26 Mar 2026 20:37:32 GMT</pubDate>
+		<lastBuildDate>Thu, 26 Mar 2026 20:37:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>RIC 2026 Presentation - Radiation Safety-by-Design Licensing Approach</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26076A123</link>
+			<description>Conference/Symposium/Workshop Paper</description>
+			<author>Type One Energy Group</author>
+			<pubDate>2026-03-26 19:32:00</pubDate>
+		</item>
 		<item>
 			<title>RIC 03/10/2026 - T4 - Bechtel Corp Presentation</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26077A305</link>
@@ -210,13 +217,6 @@
 		<item>
 			<title>Wolf Creek [50-482], Single Positive Test Form Collected on 07/21/2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A390</link>
-			<description>License-Fitness for Duty (FFD) Performance Report</description>
-			<author>Wolf Creek Nuclear Operating Corp</author>
-			<pubDate>2026-03-25 12:01:00</pubDate>
-		</item>
-		<item>
-			<title>Wolf Creek [50-482], Single Positive Test Form Collected on 10/07/2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A388</link>
 			<description>License-Fitness for Duty (FFD) Performance Report</description>
 			<author>Wolf Creek Nuclear Operating Corp</author>
 			<pubDate>2026-03-25 12:01:00</pubDate>
