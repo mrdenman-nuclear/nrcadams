@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 26 Mar 2026 23:31:13 GMT</pubDate>
-		<lastBuildDate>Thu, 26 Mar 2026 23:31:13 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Mar 2026 14:50:48 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Mar 2026 14:50:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>3-18-26 Comment Email from TX Historical Commission Regarding Draft Historic and Cultural Resource Sections for the Long Mott CP</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26082A042</link>
+			<description>E-Mail</description>
+			<author>State of TX, Texas Historical Commission</author>
+			<pubDate>2026-03-27 14:40:00</pubDate>
+		</item>
 		<item>
 			<title>Memorandum and Order (Regarding Proposed 10 C.F.R. Part 53)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26085A676</link>
@@ -178,20 +185,6 @@
 			<description>E-Mail</description>
 			<author>- No Known Affiliation</author>
 			<pubDate>2026-03-13 11:57:00</pubDate>
-		</item>
-		<item>
-			<title>San Antonio Bay Estuarine Waterkeeper's Amended Non-Disclosure Agreements</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26071A271</link>
-			<description>Legal-Correspondence/Miscellaneous</description>
-			<author>Perales, Allmon and Ice, P.C., San Antonio Bay Estuarine Waterkeeper</author>
-			<pubDate>2026-03-12 20:12:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Energy, LLC - Affidavit Supporting Request for Withholding from Public Disclosure per 10 CFR 2.390(a)(4)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26062A845</link>
-			<description>Legal-Affidavit</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2026-03-12 14:46:00</pubDate>
 		</item>
 	</channel>
 </rss>

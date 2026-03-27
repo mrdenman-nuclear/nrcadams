@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 26 Mar 2026 23:31:17 GMT</pubDate>
-		<lastBuildDate>Thu, 26 Mar 2026 23:31:17 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Mar 2026 14:50:52 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Mar 2026 14:50:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>U.S. Nuclear Regulatory Commission Feedback Regarding Rolls-Royce Small Modular Reactor (SMR) Quality Assurance White Paper For Pre-Application Engagement (SMR0025468)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26077A005</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2026-03-27 12:17:00</pubDate>
+		</item>
 		<item>
 			<title>RIC 03/10/2026 - T4 - Bechtel Corp Presentation</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26077A305</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26055A333</link>
 			<description>Letter</description>
 			<author>NRC/NMSS</author>
-			<pubDate>2026-03-25 19:51:00</pubDate>
-		</item>
-		<item>
-			<title>Honorable Jason Sheridan - Notice Of Issuance Of Construction Permit For Kemmerer Power Station Unit 1 Site In Lincoln County, Wyoming</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26084A115</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
 			<pubDate>2026-03-25 19:51:00</pubDate>
 		</item>
 	</channel>
