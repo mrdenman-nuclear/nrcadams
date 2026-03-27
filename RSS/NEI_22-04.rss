@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 27 Mar 2026 19:42:41 GMT</pubDate>
-		<lastBuildDate>Fri, 27 Mar 2026 19:42:41 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Mar 2026 20:38:15 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Mar 2026 20:38:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Guidance Document for Development of the Request for Information (RFI) and Notification Letter for IP 71130.10 Cyber Security Inspection</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26062A236</link>
+			<description>Guidance Document</description>
+			<author>NRC/NSIR/DPCP/CSB</author>
+			<pubDate>2026-03-27 19:09:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 3 - Licensing Basis and Safety Strategy for Newcleo's Lead-cooled Fast Reactor</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26082A021</link>
@@ -213,13 +220,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2026-03-13 11:57:00</pubDate>
-		</item>
-		<item>
-			<title>Robinson Final Environmental Impact Statement (FSEIS)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26062A118</link>
-			<description>Environmental Impact Statement, Report, Technical</description>
-			<author>NRC/NMSS/DREFS/EPMB1</author>
-			<pubDate>2026-03-12 20:12:00</pubDate>
 		</item>
 	</channel>
 </rss>
