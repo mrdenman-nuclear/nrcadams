@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 27 Mar 2026 23:31:50 GMT</pubDate>
-		<lastBuildDate>Fri, 27 Mar 2026 23:31:50 GMT</lastBuildDate>
+		<pubDate>Mon, 30 Mar 2026 15:05:07 GMT</pubDate>
+		<lastBuildDate>Mon, 30 Mar 2026 15:05:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Exception Withdrawal Letter</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26082A120</link>
+			<description>Letter</description>
+			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
+			<pubDate>2026-03-30 11:53:00</pubDate>
+		</item>
+		<item>
+			<title>Withdraw Acknowledgement for 10 CFR Part 55 Exemption Requests</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26082A216</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2026-03-30 11:53:00</pubDate>
+		</item>
+		<item>
+			<title>55-53e 55.59a2 Exemption Request Letter April 2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26082A119</link>
+			<description>Letter, Request for Code Relief or Alternative</description>
+			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
+			<pubDate>2026-03-30 11:53:00</pubDate>
+		</item>
+		<item>
+			<title>Summary of NRC Proposal for Path Forward - Formatted</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26082A121</link>
+			<description>Request for Code Relief or Alternative</description>
+			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
+			<pubDate>2026-03-30 11:53:00</pubDate>
+		</item>
 		<item>
 			<title>National Institute of Standards and Technology - Issuance of Amendment No. 17 to the Renewed Facility Operating License No. TR-5 For the National Bureau of Standards Test Reactor Re: Reclassification to A Research Reactor</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26049A031</link>
@@ -24,20 +52,6 @@
 			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specification, Amendment</description>
 			<author>NRC/NRR</author>
 			<pubDate>2026-03-23 11:15:00</pubDate>
-		</item>
-		<item>
-			<title>NIST - Request for Exemption Extension from 10 CFR 55.53(e) Requirements for the NIST TR-5 Test Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26065A180</link>
-			<description>Letter, Request for Code Relief or Alternative</description>
-			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
-			<pubDate>2026-03-13 11:58:00</pubDate>
-		</item>
-		<item>
-			<title>55-53e and 55.59a2 Exemption Request Letter March 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26065A181</link>
-			<description>Letter, Request for Code Relief or Alternative</description>
-			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
-			<pubDate>2026-03-13 11:58:00</pubDate>
 		</item>
 	</channel>
 </rss>
