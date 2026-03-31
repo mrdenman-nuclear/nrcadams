@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 30 Mar 2026 23:34:43 GMT</pubDate>
-		<lastBuildDate>Mon, 30 Mar 2026 23:34:43 GMT</lastBuildDate>
+		<pubDate>Tue, 31 Mar 2026 15:01:36 GMT</pubDate>
+		<lastBuildDate>Tue, 31 Mar 2026 15:01:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Transmittal of Additional Information Supporting the Acceptance Review of WCAP-19042-P/NP, Revision 0, "proTK Nuclear Instrumentation System Topical Report"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26082A093</link>
+			<description>Letter</description>
+			<author>Westinghouse Electric Co, LLC</author>
+			<pubDate>2026-03-31 12:06:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1: Affidavit, AW-26-018</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26082A094</link>
+			<description>Legal-Affidavit</description>
+			<author>Westinghouse Electric Co, LLC</author>
+			<pubDate>2026-03-31 12:06:00</pubDate>
+		</item>
+	</channel>
 </rss>

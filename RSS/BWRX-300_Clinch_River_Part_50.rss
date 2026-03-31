@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 30 Mar 2026 23:34:43 GMT</pubDate>
-		<lastBuildDate>Mon, 30 Mar 2026 23:34:43 GMT</lastBuildDate>
+		<pubDate>Tue, 31 Mar 2026 15:01:36 GMT</pubDate>
+		<lastBuildDate>Tue, 31 Mar 2026 15:01:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submittal of Tennessee Valley Authority Response to NRC Request for Additional Information No. 001 (RA-11122-RI) in Support of the Clinch River Nuclear Site Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26082A194</link>
+			<description>Letter, Response to Request for Additional Information (RAI)</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2026-03-31 12:06:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 3: Clinch River Nuclear Site Construction Permit Application, Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26082A197</link>
+			<description>Legal-Affidavit</description>
+			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA), Tennessee Valley Authority</author>
+			<pubDate>2026-03-31 12:06:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1: Clinch River Nuclear Site Construction Permit Application, NRC RAI No. 001 (RAI-11122-RI), TVA Response (Public Version) and PSAR Markups</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26082A195</link>
+			<description>Preliminary Safety Analysis Report (PSAR)</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2026-03-31 12:06:00</pubDate>
+		</item>
 		<item>
 			<title>FWS to TVA, FWS 2025-0079091, Final Biological Opinion for TVA Clinch River Nuclear Site in Roane County, Tennessee</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A159</link>
@@ -66,13 +87,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2026-03-17 12:01:00</pubDate>
-		</item>
-		<item>
-			<title>Clinch River Nuclear Site Unit 1 FWS Section 7 Concurrence Letter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075A726</link>
-			<description>Letter</description>
-			<author>US Dept of Interior, Fish and Wildlife Service, TN Ecological Services Field Office</author>
-			<pubDate>2026-03-16 19:45:00</pubDate>
 		</item>
 	</channel>
 </rss>
