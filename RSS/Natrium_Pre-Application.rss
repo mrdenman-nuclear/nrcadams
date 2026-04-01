@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 31 Mar 2026 23:34:16 GMT</pubDate>
-		<lastBuildDate>Tue, 31 Mar 2026 23:34:16 GMT</lastBuildDate>
+		<pubDate>Wed, 01 Apr 2026 15:04:55 GMT</pubDate>
+		<lastBuildDate>Wed, 01 Apr 2026 15:04:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,20 +17,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR</author>
 			<pubDate>2026-03-20 12:05:00</pubDate>
-		</item>
-		<item>
-			<title>03/23/2026 Pre-application Meeting to Discuss TerraPower's Emergency Action Level Methodology Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26076A183</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-03-17 16:54:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal of TerraPower, LLC Topical Report, "Natrium Generic Dual Unit Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26072A301</link>
-			<description>Letter, Topical Report</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2026-03-17 15:19:00</pubDate>
 		</item>
 	</channel>
 </rss>

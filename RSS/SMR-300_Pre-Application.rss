@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 31 Mar 2026 23:34:16 GMT</pubDate>
-		<lastBuildDate>Tue, 31 Mar 2026 23:34:16 GMT</lastBuildDate>
+		<pubDate>Wed, 01 Apr 2026 15:04:55 GMT</pubDate>
+		<lastBuildDate>Wed, 01 Apr 2026 15:04:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submittal of SMR, LLC, Regulatory Engagement Plan, HI-2240423, Revision 7</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A043</link>
+			<description>Letter</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2026-04-01 12:16:00</pubDate>
+		</item>
 		<item>
 			<title>NRC Staff's Preliminary Questions for the March 31, 2026 Public Meeting with SMR (Holtec) on SMR-300 GSI-191 Compliance Strategy</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26090A034</link>
@@ -59,13 +66,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2026-03-24 14:36:00</pubDate>
-		</item>
-		<item>
-			<title>Form 896, -A Topical Report Verification, for HI-2241098, Revision 1, "SMR-300 Design Basis Accident Radiological Consequences Analysis Methodology Licensing Topical Report"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26064A030</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2026-03-17 17:50:00</pubDate>
 		</item>
 	</channel>
 </rss>

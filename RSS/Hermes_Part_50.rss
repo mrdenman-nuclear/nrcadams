@@ -5,11 +5,39 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 31 Mar 2026 23:34:16 GMT</pubDate>
-		<lastBuildDate>Tue, 31 Mar 2026 23:34:16 GMT</lastBuildDate>
+		<pubDate>Wed, 01 Apr 2026 15:04:55 GMT</pubDate>
+		<lastBuildDate>Wed, 01 Apr 2026 15:04:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Kairos Power LLC - Hermes Test Reactor Construction Permit CPTR-6 Amendment Request</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A276</link>
+			<description>Letter, License-Application for Construction Permit DKT 50</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2026-04-01 12:16:00</pubDate>
+		</item>
+		<item>
+			<title>Kairos Power LLC - Request to Amend Hermes Test Reactor Construction Permit CPTR-6</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A277</link>
+			<description>License-Application for Construction Permit DKT 50</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2026-04-01 12:16:00</pubDate>
+		</item>
+		<item>
+			<title>Kairos Power LLC - Hermes Test Reactor Construction Permit CPTR-6 Proposed Changes (Mark-Up)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A278</link>
+			<description>License-Application for Construction Permit DKT 50</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2026-04-01 12:16:00</pubDate>
+		</item>
+		<item>
+			<title>Kairos Power, LLC - Hermes Test Reactor Construction Permit CPTR-6 Proposed Changes (Clean)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A279</link>
+			<description>License-Application for Construction Permit DKT 50</description>
+			<author>Kairos Power, LLC</author>
+			<pubDate>2026-04-01 12:16:00</pubDate>
+		</item>
+	</channel>
 </rss>

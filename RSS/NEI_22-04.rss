@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 31 Mar 2026 23:34:22 GMT</pubDate>
-		<lastBuildDate>Tue, 31 Mar 2026 23:34:22 GMT</lastBuildDate>
+		<pubDate>Wed, 01 Apr 2026 15:05:01 GMT</pubDate>
+		<lastBuildDate>Wed, 01 Apr 2026 15:05:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Seabrook Station, Unit 1 - Amendment No.179 Regarding Adoption of 10 CFR 50.69, "Risk-Informed Categorization and Treatment of Structures, Systems and Components..." (EPID L-2025-LLA-0058)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25345A178</link>
+			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation, Technical Specifications</description>
+			<author>NRC/NRR/DORL/LPLI</author>
+			<pubDate>2026-04-01 12:16:00</pubDate>
+		</item>
+		<item>
+			<title>Submittal of Revised Aalo Holdings, Inc., Topical Report, Quality Assurance Program for Aalo Atomics, Revision F</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A177</link>
+			<description>Letter, Quality Assurance Program</description>
+			<author>AALO Atomics</author>
+			<pubDate>2026-04-01 12:16:00</pubDate>
+		</item>
 		<item>
 			<title>Cooper Nuclear Station - Application to Adopt 10 CFR 50.69, "Risk-Informed Categorization and Treatment of Structures, Systems and Components for Nuclear Power Reactors"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26082A204</link>
@@ -206,20 +220,6 @@
 			<description>Letter, Report, Miscellaneous</description>
 			<author>Constellation Energy Generation, LLC</author>
 			<pubDate>2026-03-24 15:02:00</pubDate>
-		</item>
-		<item>
-			<title>Draft Belews Creek, Environmental Information Needs, Attachment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075A090</link>
-			<description>Report, Administrative</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2026-03-24 12:07:00</pubDate>
-		</item>
-		<item>
-			<title>Prairie Island Nuclear Generating Plant - Fire Protection Team Inspection Report 05000282/2026010 and 05000306/2026010</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26072A021</link>
-			<description>Inspection Report, Letter</description>
-			<author>NRC/RGN-III/DORS/EB2</author>
-			<pubDate>2026-03-23 12:07:00</pubDate>
 		</item>
 	</channel>
 </rss>

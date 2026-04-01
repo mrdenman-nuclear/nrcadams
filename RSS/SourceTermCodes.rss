@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 31 Mar 2026 23:34:21 GMT</pubDate>
-		<lastBuildDate>Tue, 31 Mar 2026 23:34:21 GMT</lastBuildDate>
+		<pubDate>Wed, 01 Apr 2026 15:05:00 GMT</pubDate>
+		<lastBuildDate>Wed, 01 Apr 2026 15:05:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SMR, LLC, Regulatory Engagement Plan, HI-2240423, Revision 7</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A044</link>
+			<description>Operating Plan, Report, Technical</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2026-04-01 12:16:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC, Regulatory Engagement Plan, HI-2240423, Revision 7</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A044</link>
+			<description>Operating Plan, Report, Technical</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2026-04-01 12:16:00</pubDate>
+		</item>
 		<item>
 			<title>Nine Mile Point Nuclear Station, Unit 2 - Issuance of Amendment No. 203, Technical Specification Change to Allow a One-Time Increase in Main Steam Isolation Valve Allowable Leakage Rate (EPID L-2026-LLA-0050)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26077A001</link>
@@ -38,27 +52,6 @@
 			<description>Rulemaking- Final Rule</description>
 			<author>NRC/NMSS, NRC/NRR, NRC/NSIR</author>
 			<pubDate>2026-03-26 12:14:00</pubDate>
-		</item>
-		<item>
-			<title>Draft Belews Creek, Environmental Information Needs, Attachment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075A090</link>
-			<description>Report, Administrative</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2026-03-24 12:07:00</pubDate>
-		</item>
-		<item>
-			<title>Nine Mile Point Nuclear Station, Unit 2, Emergency License Amendment Request - Changes to Surveillance Requirement 3.6.1.3.12</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075A037</link>
-			<description>Emergency Preparedness-Emergency Plan, Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50, Technical Specification, Amendment, Technical Specification, Bases Change</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2026-03-24 12:07:00</pubDate>
-		</item>
-		<item>
-			<title>Draft Belews Creek, Environmental Information Needs, Attachment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075A090</link>
-			<description>Report, Administrative</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2026-03-24 12:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
