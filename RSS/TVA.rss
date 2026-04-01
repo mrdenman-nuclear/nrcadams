@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 01 Apr 2026 20:01:27 GMT</pubDate>
-		<lastBuildDate>Wed, 01 Apr 2026 20:01:27 GMT</lastBuildDate>
+		<pubDate>Wed, 01 Apr 2026 20:44:04 GMT</pubDate>
+		<lastBuildDate>Wed, 01 Apr 2026 20:44:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Supplemental Environmental Impact Statement for a Construction Permit at the Clinch River Nuclear Site: Final Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26035A285</link>
+			<description>Environmental Impact Statement</description>
+			<author>NRC/NMSS/DREFS/EPMB3</author>
+			<pubDate>2026-04-01 20:13:00</pubDate>
+		</item>
 		<item>
 			<title>Notice of Violation Watts Bar EAI-RII-2026-0002</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26077A377</link>
@@ -213,13 +220,6 @@
 			<description>Legal-Affidavit</description>
 			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA), Tennessee Valley Authority</author>
 			<pubDate>2026-03-31 12:06:00</pubDate>
-		</item>
-		<item>
-			<title>Fermi 2 Power Plant, Application to Adopt 10 CFR 50.69, "Risk-informed categorization and treatment of structures, systems and components for nuclear power reactors"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26079A190</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>DTE Electric Company</author>
-			<pubDate>2026-03-30 11:53:00</pubDate>
 		</item>
 	</channel>
 </rss>

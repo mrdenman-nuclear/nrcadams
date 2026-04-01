@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 01 Apr 2026 20:01:29 GMT</pubDate>
-		<lastBuildDate>Wed, 01 Apr 2026 20:01:29 GMT</lastBuildDate>
+		<pubDate>Wed, 01 Apr 2026 20:44:06 GMT</pubDate>
+		<lastBuildDate>Wed, 01 Apr 2026 20:44:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Supplemental Environmental Impact Statement for a Construction Permit at the Clinch River Nuclear Site: Final Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26035A285</link>
+			<description>Environmental Impact Statement</description>
+			<author>NRC/NMSS/DREFS/EPMB3</author>
+			<pubDate>2026-04-01 20:13:00</pubDate>
+		</item>
 		<item>
 			<title>Seabrook Station, Unit 1 - Amendment No.179 Regarding Adoption of 10 CFR 50.69, "Risk-Informed Categorization and Treatment of Structures, Systems and Components..." (EPID L-2025-LLA-0058)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25345A178</link>
@@ -213,13 +220,6 @@
 			<description>Inspection Manual</description>
 			<author>NRC/NSIR/DPCP/CSB</author>
 			<pubDate>2026-03-24 19:07:00</pubDate>
-		</item>
-		<item>
-			<title>Christopher M. Crane Clean Energy Center - Transmittal of 2024-2025 Commitment Revision Summary Report, 2024-2025 Biennial 10 CFR 50.59 and 10 CFR 72.48 Summary Reports</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26068A038</link>
-			<description>Letter, Report, Miscellaneous</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2026-03-24 15:02:00</pubDate>
 		</item>
 	</channel>
 </rss>
