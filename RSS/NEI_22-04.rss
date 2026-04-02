@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 01 Apr 2026 23:37:49 GMT</pubDate>
-		<lastBuildDate>Wed, 01 Apr 2026 23:37:49 GMT</lastBuildDate>
+		<pubDate>Thu, 02 Apr 2026 14:58:32 GMT</pubDate>
+		<lastBuildDate>Thu, 02 Apr 2026 14:58:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Spreadsheet of ACRS Committee Reports Numbers 650 - 731 submitted to the Library of Congress</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26084A420</link>
+			<description>Spreadsheet File</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2026-04-02 12:05:00</pubDate>
+		</item>
+		<item>
+			<title>Nine Mile Point Nuclear Station, Unit 1, Subsequent Renewal Application Request</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26084A181</link>
+			<description>License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>Constellation Energy Generation, LLC</author>
+			<pubDate>2026-04-02 12:05:00</pubDate>
+		</item>
 		<item>
 			<title>Supplemental Environmental Impact Statement for a Construction Permit at the Clinch River Nuclear Site: Final Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26035A285</link>
@@ -206,20 +220,6 @@
 			<description>Rulemaking- Final Rule</description>
 			<author>NRC/NMSS, NRC/NRR, NRC/NSIR</author>
 			<pubDate>2026-03-26 12:14:00</pubDate>
-		</item>
-		<item>
-			<title>SRM-M260325: Enclosure 2 - Federal Register Notice for Final Rule: Risk-Informed, Technology-Inclusive Regulatory Framework for Advanced Reactors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26084A489</link>
-			<description>Commission Staff Requirements Memo (SRM)</description>
-			<author>NRC/SECY</author>
-			<pubDate>2026-03-25 22:06:00</pubDate>
-		</item>
-		<item>
-			<title>IP 71130.10 Cybersecurity</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25337A110</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NSIR/DPCP/CSB</author>
-			<pubDate>2026-03-24 19:07:00</pubDate>
 		</item>
 	</channel>
 </rss>

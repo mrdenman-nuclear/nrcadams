@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 01 Apr 2026 23:37:42 GMT</pubDate>
-		<lastBuildDate>Wed, 01 Apr 2026 23:37:42 GMT</lastBuildDate>
+		<pubDate>Thu, 02 Apr 2026 14:58:23 GMT</pubDate>
+		<lastBuildDate>Thu, 02 Apr 2026 14:58:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -101,41 +101,6 @@
 			<description>Legal-Pleading</description>
 			<author>Long Mott Energy, LLC, Morgan, Lewis and Bockius, LLP</author>
 			<pubDate>2026-03-19 12:43:00</pubDate>
-		</item>
-		<item>
-			<title>Memorandum and Order (Denying Intervenor's December 5, 2025 Motion to Amend Contention 1)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26077A214</link>
-			<description>Legal-Order</description>
-			<author>NRC/ASLBP</author>
-			<pubDate>2026-03-18 20:14:00</pubDate>
-		</item>
-		<item>
-			<title>2026/03/04 Project Long Mott Docs - X-energy slides July 5, 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26063A423</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-03-18 12:08:00</pubDate>
-		</item>
-		<item>
-			<title>2026/03/04 Project Long Mott Docs - X energy topics site overview and selection purpose and need</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26063A760</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-03-18 12:08:00</pubDate>
-		</item>
-		<item>
-			<title>2026/03/04 Project Long Mott Docs - X energy slide topics</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26063A761</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-03-18 12:08:00</pubDate>
-		</item>
-		<item>
-			<title>2026/03/04 Project Long Mott Docs - X-Energy Slides 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26063A422</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-03-18 12:08:00</pubDate>
 		</item>
 	</channel>
 </rss>
