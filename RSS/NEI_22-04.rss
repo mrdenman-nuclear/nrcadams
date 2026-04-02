@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 Apr 2026 16:01:21 GMT</pubDate>
-		<lastBuildDate>Thu, 02 Apr 2026 16:01:21 GMT</lastBuildDate>
+		<pubDate>Thu, 02 Apr 2026 16:59:08 GMT</pubDate>
+		<lastBuildDate>Thu, 02 Apr 2026 16:59:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Long Mott Generating Station Construction Permit Environmental Audit Summary Memo</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075A148</link>
+			<description>Environmental Assessment, Memoranda</description>
+			<author>NRC/NMSS/DREFS/EPMB3</author>
+			<pubDate>2026-04-02 16:16:00</pubDate>
+		</item>
 		<item>
 			<title>Spreadsheet of ACRS Committee Reports Numbers 650 - 731 submitted to the Library of Congress</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26084A420</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25232A011</link>
 			<description>Guidance Document, Rulemaking- Final Rule</description>
 			<author>NRC/NMSS</author>
-			<pubDate>2026-03-26 12:14:00</pubDate>
-		</item>
-		<item>
-			<title>Final Rule: Risk-Informed, Technology-Inclusive Regulatory Framework for Advanced Reactors (RIN 3150-AK31; NRC-2019-0062) NRC Response to Public Comments, Volume I</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26042A229</link>
-			<description>Rulemaking- Final Rule</description>
-			<author>NRC/NMSS, NRC/NRR, NRC/NSIR</author>
 			<pubDate>2026-03-26 12:14:00</pubDate>
 		</item>
 	</channel>
