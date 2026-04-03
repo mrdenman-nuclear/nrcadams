@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 Apr 2026 23:35:13 GMT</pubDate>
-		<lastBuildDate>Thu, 02 Apr 2026 23:35:13 GMT</lastBuildDate>
+		<pubDate>Fri, 03 Apr 2026 14:43:14 GMT</pubDate>
+		<lastBuildDate>Fri, 03 Apr 2026 14:43:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -101,13 +101,6 @@
 			<description>Legal-Order</description>
 			<author>NRC/ASLBP</author>
 			<pubDate>2026-03-20 12:05:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Energy, LLC's Motion for Leave to File a Limited Reply</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26077A394</link>
-			<description>Legal-Pleading</description>
-			<author>Long Mott Energy, LLC, Morgan, Lewis and Bockius, LLP</author>
-			<pubDate>2026-03-19 12:43:00</pubDate>
 		</item>
 	</channel>
 </rss>

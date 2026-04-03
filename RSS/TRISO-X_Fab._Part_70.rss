@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 Apr 2026 23:35:13 GMT</pubDate>
-		<lastBuildDate>Thu, 02 Apr 2026 23:35:13 GMT</lastBuildDate>
+		<pubDate>Fri, 03 Apr 2026 14:43:14 GMT</pubDate>
+		<lastBuildDate>Fri, 03 Apr 2026 14:43:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>Environmental Report, Graphics incl Charts and Tables</description>
 			<author>Triso-X, LLC</author>
 			<pubDate>2026-04-01 20:12:00</pubDate>
-		</item>
-		<item>
-			<title>Memorandum - Summary on August 19, 2025, Audit to Integrated Safety Analysis Summary and Structural Requests for Additional Information for the TRISO-X, LLC, License Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25343A212</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2026-03-19 12:13:00</pubDate>
-		</item>
-		<item>
-			<title>Memorandum - Summary of July 16, 24, and 29, 2025, Meetings to provide Clarity on Draft Management Measures Requests for Additional Information for the TRISO-X, LLC, License Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25328A239</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2026-03-19 12:13:00</pubDate>
 		</item>
 	</channel>
 </rss>

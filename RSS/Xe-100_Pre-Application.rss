@@ -5,25 +5,39 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 Apr 2026 23:35:13 GMT</pubDate>
-		<lastBuildDate>Thu, 02 Apr 2026 23:35:13 GMT</lastBuildDate>
+		<pubDate>Fri, 03 Apr 2026 14:43:14 GMT</pubDate>
+		<lastBuildDate>Fri, 03 Apr 2026 14:43:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Encl 2- PUBLIC - U.S. NRC Final Safety Evaluation for X-energy Xe-100  Graphite Core Assembly Material Qualification and Design Methodologies, TR Rev 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26090A451</link>
+			<description>Safety Evaluation Report</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2026-04-03 12:14:00</pubDate>
+		</item>
+		<item>
+			<title>Cover Letter_Final Safety Evaluation for X-energy Xe-100 Graphite Core Assembly Material Qualification and Design Methodologies TR, Rev 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26070A409</link>
+			<description>Letter</description>
+			<author>NRC/NRR</author>
+			<pubDate>2026-04-03 12:14:00</pubDate>
+		</item>
+		<item>
+			<title>Request For Withholding Information From Public Disclosure -Submittal of X Energy, LLC XE-100 Licensing White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26077A184</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2026-04-03 12:14:00</pubDate>
+		</item>
 		<item>
 			<title>Submittal of X Energy, LLC (X-energy) Xe-100 Presentation Materials: Xe-100 Licensing Topical Report: Plume Exposure Pathway Emergency Planning Zone Sizing Methodology</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24303A260</link>
 			<description>Letter</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2026-03-24 19:07:00</pubDate>
-		</item>
-		<item>
-			<title>Request For Withholding Information from Public Disclosure For X Energy LLC Preapplication Engagement Presentation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26020A262</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2026-03-19 12:13:00</pubDate>
 		</item>
 	</channel>
 </rss>

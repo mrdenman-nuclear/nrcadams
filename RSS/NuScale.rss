@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 Apr 2026 23:35:17 GMT</pubDate>
-		<lastBuildDate>Thu, 02 Apr 2026 23:35:17 GMT</lastBuildDate>
+		<pubDate>Fri, 03 Apr 2026 14:43:19 GMT</pubDate>
+		<lastBuildDate>Fri, 03 Apr 2026 14:43:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>03-27-26 - Letter to the Honorable Shelley Moore Capito, et al., from Chairman Nieh re: submits the NRC's semiannual status report on the Licensing Activities and Regulatory Duties from April 1, 2025, through September 30, 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26043A137</link>
+			<description>Congressional Correspondence, Letter</description>
+			<author>NRC/Chairman</author>
+			<pubDate>2026-04-03 12:14:00</pubDate>
+		</item>
+		<item>
+			<title>Semiannual Status Report on the Licensing Activities and Regulatory Duties of the U.S. Nuclear Regulatory Commission, April 1,2025 - September 30, 2025 Enclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26043A135</link>
+			<description>Routine Status Report (Recurring Weekly/Monthly)</description>
+			<author>NRC/Chairman</author>
+			<pubDate>2026-04-03 12:14:00</pubDate>
+		</item>
 		<item>
 			<title>Attachment - FY 2026 Proposed Fee Rule</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26071A088</link>
@@ -101,27 +115,6 @@
 			<description>Committee Letter Report, Letter</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2026-03-23 20:09:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Approved Version of the KP-FHR Mechanistic Source Term Methodology Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075E846</link>
-			<description>Topical Report</description>
-			<author>Kairos Power, LLC</author>
-			<pubDate>2026-03-19 20:16:00</pubDate>
-		</item>
-		<item>
-			<title>NRC ASME Management Meeting Minutes February 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26078A158</link>
-			<description>Meeting Summary, Slides and Viewgraphs</description>
-			<author>NRC/RES/DE</author>
-			<pubDate>2026-03-19 19:07:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG 2269, Protecting Against Hazards from Common Causes in Digital Instrumentation and Control Systems, Volume 1, Draft</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26036A264</link>
-			<description>NUREG, Draft</description>
-			<author>NRC/RES/DE</author>
-			<pubDate>2026-03-19 19:07:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 Apr 2026 23:35:17 GMT</pubDate>
-		<lastBuildDate>Thu, 02 Apr 2026 23:35:17 GMT</lastBuildDate>
+		<pubDate>Fri, 03 Apr 2026 14:43:19 GMT</pubDate>
+		<lastBuildDate>Fri, 03 Apr 2026 14:43:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Export License Application from RSB Logistic, Inc., for XSOU8798-12</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26091A371</link>
+			<description>License-Application for Export License</description>
+			<author>RSB Logistic, Inc</author>
+			<pubDate>2026-04-02 14:33:00</pubDate>
+		</item>
+		<item>
+			<title>Letter to the EB Requesting Assurances for XSNM3006-07 - DOE</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26091A351</link>
+			<description>Letter</description>
+			<author>NRC/OIP/ECNP</author>
+			<pubDate>2026-04-02 14:33:00</pubDate>
+		</item>
+		<item>
+			<title>Records Related to correspondence between the NRC and the City of Honolulu and Hawaii State Senate, regarding the former HSPA Keeaumoku Street Location (dated March 1976 - June 1977)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26077A141</link>
+			<description>Letter</description>
+			<author>NRC/RGN-IV</author>
+			<pubDate>2026-04-02 14:33:00</pubDate>
+		</item>
 		<item>
 			<title>Surry Power Station - NRC Inspection Report 05000280/2026090 And 05000281/2026090 Preliminary White Finding And Apparent Violation</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075C435</link>
@@ -198,27 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A340</link>
 			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
 			<author>Duke Energy Carolinas, LLC</author>
-			<pubDate>2026-04-01 12:16:00</pubDate>
-		</item>
-		<item>
-			<title>Catawba, Units 1 and 2, McGuire, Units 1 and 2, Oconee, Units 1, 2, and 3 - License Amendment Request to Address Updates to In-house Thermal-Hydraulic Methodology Reports to Consolidate VIPRE Models</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A340</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>Duke Energy Carolinas, LLC</author>
-			<pubDate>2026-04-01 12:16:00</pubDate>
-		</item>
-		<item>
-			<title>Seabrook Station, Unit 1 - Amendment No.179 Regarding Adoption of 10 CFR 50.69, "Risk-Informed Categorization and Treatment of Structures, Systems and Components..." (EPID L-2025-LLA-0058)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25345A178</link>
-			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation, Technical Specifications</description>
-			<author>NRC/NRR/DORL/LPLI</author>
-			<pubDate>2026-04-01 12:16:00</pubDate>
-		</item>
-		<item>
-			<title>Point Beach Nuclear Plant, Unit 2, Core Operating Limits Report (COLR) Unit 2 Cycle 42 (U2C42)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A076</link>
-			<description>Fuel Cycle Reload Report, Letter</description>
-			<author>NextEra Energy Point Beach, LLC</author>
 			<pubDate>2026-04-01 12:16:00</pubDate>
 		</item>
 	</channel>
