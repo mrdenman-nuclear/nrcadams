@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 03 Apr 2026 23:33:48 GMT</pubDate>
-		<lastBuildDate>Fri, 03 Apr 2026 23:33:48 GMT</lastBuildDate>
+		<pubDate>Mon, 06 Apr 2026 14:45:39 GMT</pubDate>
+		<lastBuildDate>Mon, 06 Apr 2026 14:45:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -87,13 +87,6 @@
 			<description>Legal-Hearing File</description>
 			<author>NRC/OCM/HKN, NRC/OGC</author>
 			<pubDate>2026-03-30 11:53:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: NEDO-33934, Rev. 2, BWRX-300 Safety Strategy</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26077A383</link>
-			<description>Topical Report</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2026-03-27 19:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

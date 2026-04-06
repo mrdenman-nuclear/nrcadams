@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 03 Apr 2026 23:33:41 GMT</pubDate>
-		<lastBuildDate>Fri, 03 Apr 2026 23:33:41 GMT</lastBuildDate>
+		<pubDate>Mon, 06 Apr 2026 14:45:34 GMT</pubDate>
+		<lastBuildDate>Mon, 06 Apr 2026 14:45:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2026-04-03 12:13:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Proprietary Information from Public Disclosure - TerraPower, LLC "[Nuclear Material Control and Accounting (MC&A)], Physical Security, and Cyber Security"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26072A103</link>
-			<description>Letter</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-03-20 12:05:00</pubDate>
 		</item>
 	</channel>
 </rss>
