@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 06 Apr 2026 18:55:35 GMT</pubDate>
-		<lastBuildDate>Mon, 06 Apr 2026 18:55:35 GMT</lastBuildDate>
+		<pubDate>Mon, 06 Apr 2026 19:54:42 GMT</pubDate>
+		<lastBuildDate>Mon, 06 Apr 2026 19:54:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Clinch River Nuclear Site Construction Permit Final SEIS Issuance Applicant Letter</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26056A088</link>
+			<description>Letter</description>
+			<author>NRC/NMSS/DREFS/EPMB3</author>
+			<pubDate>2026-04-06 18:18:00</pubDate>
+		</item>
 		<item>
 			<title>Clinch River Nuclear Site Construction Permit Final SEIS FRN Issuance</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26056A096</link>
@@ -40,17 +47,17 @@
 			<pubDate>2026-03-31 12:06:00</pubDate>
 		</item>
 		<item>
-			<title>Enclosure 3: Clinch River Nuclear Site Construction Permit Application, Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26082A197</link>
-			<description>Legal-Affidavit</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA), Tennessee Valley Authority</author>
-			<pubDate>2026-03-31 12:06:00</pubDate>
-		</item>
-		<item>
 			<title>Enclosure 1: Clinch River Nuclear Site Construction Permit Application, NRC RAI No. 001 (RAI-11122-RI), TVA Response (Public Version) and PSAR Markups</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26082A195</link>
 			<description>Preliminary Safety Analysis Report (PSAR)</description>
 			<author>Tennessee Valley Authority</author>
+			<pubDate>2026-03-31 12:06:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 3: Clinch River Nuclear Site Construction Permit Application, Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26082A197</link>
+			<description>Legal-Affidavit</description>
+			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA), Tennessee Valley Authority</author>
 			<pubDate>2026-03-31 12:06:00</pubDate>
 		</item>
 		<item>
