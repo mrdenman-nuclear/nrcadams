@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 06 Apr 2026 16:45:11 GMT</pubDate>
-		<lastBuildDate>Mon, 06 Apr 2026 16:45:11 GMT</lastBuildDate>
+		<pubDate>Mon, 06 Apr 2026 17:44:49 GMT</pubDate>
+		<lastBuildDate>Mon, 06 Apr 2026 17:44:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Clinch River Nuclear Site Construction Permit Final SEIS FRN Issuance</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26056A096</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/NMSS/DREFS/EPMB3</author>
+			<pubDate>2026-04-06 13:10:00</pubDate>
+		</item>
 		<item>
 			<title>NUREG-1100, Vol. 42, "U.S. NRC Congressional Budget Justification Fiscal Year 2027"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26093A123</link>
@@ -169,13 +176,6 @@
 			<title>Enclosure 1: Clinch River Nuclear Site Construction Permit Application, NRC RAI No. 001 (RAI-11122-RI), TVA Response (Public Version) and PSAR Markups</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26082A195</link>
 			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-03-31 12:06:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3, Sequoyah Nuclear Plant, Units 1 and 2, and Watts Bar Nuclear Plant, Units 1 and 2 - 10 CFR 50.46 Annual Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26082A189</link>
-			<description>Annual Operating Report, Letter</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2026-03-31 12:06:00</pubDate>
 		</item>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 06 Apr 2026 16:45:07 GMT</pubDate>
-		<lastBuildDate>Mon, 06 Apr 2026 16:45:07 GMT</lastBuildDate>
+		<pubDate>Mon, 06 Apr 2026 17:44:43 GMT</pubDate>
+		<lastBuildDate>Mon, 06 Apr 2026 17:44:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Clinch River Nuclear Site Construction Permit Final SEIS FRN Issuance</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26056A096</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/NMSS/DREFS/EPMB3</author>
+			<pubDate>2026-04-06 13:10:00</pubDate>
+		</item>
 		<item>
 			<title>GE-Hitachi Nuclear Energy Americas, LLC, NEDO-33910-A, Revision 2, "BWRX-300 Reactor Pressure Vessel (RPV) Isolation and Overpressure Protection Licensing Topical Report"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML21183A262</link>
@@ -19,16 +26,16 @@
 			<pubDate>2026-04-06 13:09:00</pubDate>
 		</item>
 		<item>
-			<title>Email - Request for Withholding from Public Disclosure - Oklo Topical Report, Oklo-2025-RX-R012-P, "Principle Design Criteria for the Aurora Powerhouse," Rev. 1 (EPID: L-2025-TOP-0028)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075E893</link>
-			<description>E-Mail</description>
+			<title>NRC Form 897 - Request for Withholding from Public Disclosure - Oklo Topical Report, Oklo-2025-RX-R012-P, "Principle Design Criteria for the Aurora Powerhouse," Rev. 1 (EPID: L-2025-TOP-0028)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075E892</link>
+			<description>Topical Report Evaluation</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2026-04-06 10:55:00</pubDate>
 		</item>
 		<item>
-			<title>NRC Form 897 - Request for Withholding from Public Disclosure - Oklo Topical Report, Oklo-2025-RX-R012-P, "Principle Design Criteria for the Aurora Powerhouse," Rev. 1 (EPID: L-2025-TOP-0028)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075E892</link>
-			<description>Topical Report Evaluation</description>
+			<title>Email - Request for Withholding from Public Disclosure - Oklo Topical Report, Oklo-2025-RX-R012-P, "Principle Design Criteria for the Aurora Powerhouse," Rev. 1 (EPID: L-2025-TOP-0028)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075E893</link>
+			<description>E-Mail</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2026-04-06 10:55:00</pubDate>
 		</item>
@@ -213,13 +220,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2026-04-01 12:16:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Staff's Preliminary Questions for the March 31, 2026 Public Meeting with SMR (Holtec) on SMR-300 GSI-191 Compliance Strategy</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26090A034</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2026-03-31 19:30:00</pubDate>
 		</item>
 	</channel>
 </rss>
