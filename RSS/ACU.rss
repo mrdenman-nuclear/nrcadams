@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 06 Apr 2026 23:35:18 GMT</pubDate>
-		<lastBuildDate>Mon, 06 Apr 2026 23:35:18 GMT</lastBuildDate>
+		<pubDate>Tue, 07 Apr 2026 15:07:45 GMT</pubDate>
+		<lastBuildDate>Tue, 07 Apr 2026 15:07:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Letter, Licensee Event Report (LER)</description>
 			<author>Wolf Creek Nuclear Operating Corp</author>
 			<pubDate>2026-03-24 12:07:00</pubDate>
-		</item>
-		<item>
-			<title>Abilene Christian University Molten Salt Research Reactor Degradation Management Program Semiannual Status Update</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26072A237</link>
-			<description>Letter, Status Report</description>
-			<author>Abilene Christian University</author>
-			<pubDate>2026-03-23 12:07:00</pubDate>
 		</item>
 	</channel>
 </rss>

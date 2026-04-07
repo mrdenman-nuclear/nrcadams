@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 06 Apr 2026 23:35:18 GMT</pubDate>
-		<lastBuildDate>Mon, 06 Apr 2026 23:35:18 GMT</lastBuildDate>
+		<pubDate>Tue, 07 Apr 2026 15:07:45 GMT</pubDate>
+		<lastBuildDate>Tue, 07 Apr 2026 15:07:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure - NRC's Status Report on Declaring a National Energy Emergency</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26056A156</link>
+			<description>Status Report</description>
+			<author>NRC/Chairman</author>
+			<pubDate>2026-04-07 12:01:00</pubDate>
+		</item>
 		<item>
 			<title>Audit Report Kairos Fuels TR Limitations and Conditions</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26058A464</link>
@@ -143,13 +150,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2026-03-24 14:36:00</pubDate>
-		</item>
-		<item>
-			<title>Lessons Learned From ACRS Reviews Of New Reactor Applications</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26069A573</link>
-			<description>Committee Letter Report, Letter</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-03-23 20:09:00</pubDate>
 		</item>
 	</channel>
 </rss>

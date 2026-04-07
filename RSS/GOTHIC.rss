@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 06 Apr 2026 23:35:19 GMT</pubDate>
-		<lastBuildDate>Mon, 06 Apr 2026 23:35:19 GMT</lastBuildDate>
+		<pubDate>Tue, 07 Apr 2026 15:07:46 GMT</pubDate>
+		<lastBuildDate>Tue, 07 Apr 2026 15:07:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Operating Plan, Report, Technical</description>
 			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2026-04-01 12:16:00</pubDate>
-		</item>
-		<item>
-			<title>Letter from K. Wilson dated March 27, 2026 to the Atomic Safety and Licensing Board transmitting the Hearing File for the Long Mott Energy Construction Permit Application Matter.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26086A376</link>
-			<description>Legal-Hearing File</description>
-			<author>NRC/OCM/HKN, NRC/OGC</author>
-			<pubDate>2026-03-30 11:53:00</pubDate>
 		</item>
 	</channel>
 </rss>

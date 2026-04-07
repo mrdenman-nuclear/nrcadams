@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 06 Apr 2026 23:35:13 GMT</pubDate>
-		<lastBuildDate>Mon, 06 Apr 2026 23:35:13 GMT</lastBuildDate>
+		<pubDate>Tue, 07 Apr 2026 15:07:39 GMT</pubDate>
+		<lastBuildDate>Tue, 07 Apr 2026 15:07:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Memorandum and Order (Denying Intervenor's December 12, 2025 Motion to Amend Contention 4) (LBP-26-3)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26096A411</link>
+			<description>Legal-Order</description>
+			<author>NRC/ASLBP</author>
+			<pubDate>2026-04-07 12:01:00</pubDate>
+		</item>
 		<item>
 			<title>Long Mott Generating Station Construction Permit Environmental Audit Summary Memo</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075A148</link>
@@ -80,13 +87,6 @@
 			<description>Legal-Order</description>
 			<author>NRC/ASLBP</author>
 			<pubDate>2026-03-24 19:07:00</pubDate>
-		</item>
-		<item>
-			<title>Joint Motion to Correct the Transcript of the Prehearing Conference Held on February 26, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26079A344</link>
-			<description>Legal-Pleading</description>
-			<author>Long Mott Energy, LLC, Morgan, Lewis and Bockius, LLP, NRC/OGC, San Antonio Bay Estuarine Waterkeeper</author>
-			<pubDate>2026-03-23 14:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

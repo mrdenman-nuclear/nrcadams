@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 06 Apr 2026 23:35:14 GMT</pubDate>
-		<lastBuildDate>Mon, 06 Apr 2026 23:35:14 GMT</lastBuildDate>
+		<pubDate>Tue, 07 Apr 2026 15:07:40 GMT</pubDate>
+		<lastBuildDate>Tue, 07 Apr 2026 15:07:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -16,7 +16,14 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26086A186</link>
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2026-04-03 12:13:00</pubDate>
+			<pubDate>2026-04-07 12:55:00</pubDate>
+		</item>
+		<item>
+			<title>National Institute of Standards and Technology Part 55 Exemption Approval Letter</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26086A084</link>
+			<description>Exemption from NRC Requirements, Letter</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2026-04-07 12:00:00</pubDate>
 		</item>
 		<item>
 			<title>Non-Availability of Fuel and Funding to Convert NBSR from HEU to LEU in 2026</title>
@@ -52,20 +59,6 @@
 			<description>Request for Code Relief or Alternative</description>
 			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
 			<pubDate>2026-03-30 11:53:00</pubDate>
-		</item>
-		<item>
-			<title>National Institute of Standards and Technology - Issuance of Amendment No. 17 to the Renewed Facility Operating License No. TR-5 For the National Bureau of Standards Test Reactor Re: Reclassification to A Research Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26049A031</link>
-			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation, Technical Specifications</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2026-03-23 12:07:00</pubDate>
-		</item>
-		<item>
-			<title>TSAF50-00184 - US Dept of Commerce, National Bureau Standards, Current Facility Operating License TR-005, Tech Specs, Revised 03/18/2026.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML14204A628</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specification, Amendment</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-03-23 11:15:00</pubDate>
 		</item>
 	</channel>
 </rss>
