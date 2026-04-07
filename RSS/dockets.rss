@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 07 Apr 2026 20:00:41 GMT</pubDate>
-		<lastBuildDate>Tue, 07 Apr 2026 20:00:41 GMT</lastBuildDate>
+		<pubDate>Tue, 07 Apr 2026 20:48:22 GMT</pubDate>
+		<lastBuildDate>Tue, 07 Apr 2026 20:48:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Ltr to J. Loichinger ACHP - CRN CP FSEIS and Conclusion of Section 106 Consultation</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26042A321</link>
+			<description>Letter</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2026-04-07 20:13:00</pubDate>
+		</item>
+		<item>
+			<title>Ltr to M. Montgomery TN SHPO - CRN CP FSEIS and Conclusion of Section 106 Consultation</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26042A322</link>
+			<description>Letter</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2026-04-07 20:13:00</pubDate>
+		</item>
 		<item>
 			<title>Letter - Aalo Holdings Online Portal Agreement</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26096A447</link>
@@ -40,17 +54,17 @@
 			<pubDate>2026-04-07 12:56:00</pubDate>
 		</item>
 		<item>
-			<title>March 2, 2026, Summary of Pre-Application Meeting With Terrapower, LLC (EPID L-2026-LRM-0012)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26071A162</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-04-07 12:55:00</pubDate>
-		</item>
-		<item>
 			<title>2026/03/20 GEH BWRX-300 SMR - GE Vernova Hitachi Request for Withholding Information from Public Disclosure</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26079A264</link>
 			<description>E-Mail</description>
 			<author>NRC</author>
+			<pubDate>2026-04-07 12:55:00</pubDate>
+		</item>
+		<item>
+			<title>March 2, 2026, Summary of Pre-Application Meeting With Terrapower, LLC (EPID L-2026-LRM-0012)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26071A162</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR</author>
 			<pubDate>2026-04-07 12:55:00</pubDate>
 		</item>
 		<item>
@@ -206,20 +220,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2026-04-01 12:17:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 (Public) - July 30, 2025, Pre-Sumbittal Meeting Summary Oklo PDC Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26077A292</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2026-04-01 12:17:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Revised Aalo Holdings, Inc., Topical Report, Quality Assurance Program for Aalo Atomics, Revision F</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A177</link>
-			<description>Letter, Quality Assurance Program</description>
-			<author>AALO Atomics</author>
-			<pubDate>2026-04-01 12:16:00</pubDate>
 		</item>
 	</channel>
 </rss>
