@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 07 Apr 2026 15:07:39 GMT</pubDate>
-		<lastBuildDate>Tue, 07 Apr 2026 15:07:39 GMT</lastBuildDate>
+		<pubDate>Tue, 07 Apr 2026 19:07:10 GMT</pubDate>
+		<lastBuildDate>Tue, 07 Apr 2026 19:07:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Letter - Aalo Holdings Online Portal Agreement</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26096A447</link>
+			<description>Letter</description>
+			<author>NRC/NRR</author>
+			<pubDate>2026-04-07 15:49:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure - Aalo Holdings Online Portal Agreement</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26096A456</link>
+			<description>Legal-Memorandum of Agreement/Understanding</description>
+			<author>Aalo Holdings, Inc, NRC/NRR</author>
+			<pubDate>2026-04-07 15:49:00</pubDate>
+		</item>
 		<item>
 			<title>Cover Letter_Final Safety Evaluation for X-energy Xe-100 Graphite Core Assembly Material Qualification and Design Methodologies TR, Rev 2</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26070A409</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A177</link>
 			<description>Letter, Quality Assurance Program</description>
 			<author>AALO Atomics</author>
-			<pubDate>2026-04-01 12:16:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of SMR, LLC, Regulatory Engagement Plan, HI-2240423, Revision 7</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A043</link>
-			<description>Letter</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2026-04-01 12:16:00</pubDate>
-		</item>
-		<item>
-			<title>Kairos Power LLC - Hermes Test Reactor Construction Permit CPTR-6 Amendment Request</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A276</link>
-			<description>Letter, License-Application for Construction Permit DKT 50</description>
-			<author>Kairos Power, LLC</author>
 			<pubDate>2026-04-01 12:16:00</pubDate>
 		</item>
 	</channel>
