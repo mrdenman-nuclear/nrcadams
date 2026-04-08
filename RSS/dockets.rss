@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 08 Apr 2026 18:08:29 GMT</pubDate>
-		<lastBuildDate>Wed, 08 Apr 2026 18:08:29 GMT</lastBuildDate>
+		<pubDate>Wed, 08 Apr 2026 20:44:20 GMT</pubDate>
+		<lastBuildDate>Wed, 08 Apr 2026 20:44:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Long Mott Energy, LLC's Supplemental Brief Regarding Its Dispositive Motion on Contention 3B (Public Version)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26098A330</link>
+			<description>Legal-Pleading</description>
+			<author>Long Mott Energy, LLC, Morgan, Lewis and Bockius, LLP</author>
+			<pubDate>2026-04-08 20:10:00</pubDate>
+		</item>
+		<item>
+			<title>E-mail - NRC Staff Observations regarding Final Design Review of Aalo Critical Assembly Facility</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26098A128</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR</author>
+			<pubDate>2026-04-08 20:09:00</pubDate>
+		</item>
 		<item>
 			<title>Submittal of the Preliminary Safety Analysis Report Supplement 3 in Support of the Clinch River Nuclear Site Construction Permit Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25324A234</link>
@@ -206,20 +220,6 @@
 			<description>Preliminary Safety Analysis Report (PSAR)</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2026-04-08 12:10:00</pubDate>
-		</item>
-		<item>
-			<title>Ltr to J. Loichinger ACHP - CRN CP FSEIS and Conclusion of Section 106 Consultation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26042A321</link>
-			<description>Letter</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2026-04-07 20:13:00</pubDate>
-		</item>
-		<item>
-			<title>Ltr to M. Montgomery TN SHPO - CRN CP FSEIS and Conclusion of Section 106 Consultation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26042A322</link>
-			<description>Letter</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2026-04-07 20:13:00</pubDate>
 		</item>
 	</channel>
 </rss>
