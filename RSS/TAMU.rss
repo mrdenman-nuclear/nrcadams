@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 07 Apr 2026 23:38:12 GMT</pubDate>
-		<lastBuildDate>Tue, 07 Apr 2026 23:38:12 GMT</lastBuildDate>
+		<pubDate>Wed, 08 Apr 2026 15:10:44 GMT</pubDate>
+		<lastBuildDate>Wed, 08 Apr 2026 15:10:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Texas A&M University (TAMU) R-23 - RAI Extension Request for Console LAR.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26090A391</link>
+			<description>Letter</description>
+			<author>Texas AandM Univ</author>
+			<pubDate>2026-04-08 12:10:00</pubDate>
+		</item>
+		<item>
+			<title>Texas A&M University (TAMU) R-23 - RAI Extension Request for TS Change LAR.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26090A378</link>
+			<description>Letter</description>
+			<author>Texas AandM Univ</author>
+			<pubDate>2026-04-08 12:10:00</pubDate>
+		</item>
+	</channel>
 </rss>

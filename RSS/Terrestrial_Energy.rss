@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 07 Apr 2026 23:38:12 GMT</pubDate>
-		<lastBuildDate>Tue, 07 Apr 2026 23:38:12 GMT</lastBuildDate>
+		<pubDate>Wed, 08 Apr 2026 15:10:44 GMT</pubDate>
+		<lastBuildDate>Wed, 08 Apr 2026 15:10:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure: Crane Clean Energy Center - Response to NRC RAI/RCI Environmental Review</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26090A134</link>
+			<description>Response to Request for Additional Information (RAI)</description>
+			<author>Constellation Energy Generation, LLC</author>
+			<pubDate>2026-04-08 12:10:00</pubDate>
+		</item>
+		<item>
+			<title>Clinch River Nuclear Site Construction Permit Application, Preliminary Safety Analysis Report Changes</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25303A105</link>
+			<description>Preliminary Safety Analysis Report (PSAR)</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2026-04-08 12:10:00</pubDate>
+		</item>
+		<item>
+			<title>Survey of Nuclear Graphite Waste Regulations- TLR-RES/DE/REB-2025-20</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26027A181</link>
+			<description>Technical Paper</description>
+			<author>NRC/RES/DE, Numark Associates, Inc</author>
+			<pubDate>2026-04-08 11:30:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure - NRC's Status Report on Declaring a National Energy Emergency</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26056A156</link>
@@ -150,13 +171,6 @@
 			<description>License-Application for (Amend/Renewal/New) for DKT 30, 40, 70, Report, Technical</description>
 			<author>US Dept of the Army, Installation Management Command</author>
 			<pubDate>2026-03-25 19:51:00</pubDate>
-		</item>
-		<item>
-			<title>Draft Belews Creek, Environmental Information Needs, Attachment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075A090</link>
-			<description>Report, Administrative</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2026-03-24 12:07:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 07 Apr 2026 23:38:07 GMT</pubDate>
-		<lastBuildDate>Tue, 07 Apr 2026 23:38:07 GMT</lastBuildDate>
+		<pubDate>Wed, 08 Apr 2026 15:10:39 GMT</pubDate>
+		<lastBuildDate>Wed, 08 Apr 2026 15:10:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DANU/UNPO</author>
 			<pubDate>2026-03-27 14:40:00</pubDate>
-		</item>
-		<item>
-			<title>Board of Regents of the University of California - U.S. Nuclear Regulatory Commission Routine Safety Inspection Report No. 05000326/2026201</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26073A003</link>
-			<description>Inspection Report, Letter</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2026-03-24 19:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
