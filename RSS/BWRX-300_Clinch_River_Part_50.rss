@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 08 Apr 2026 17:00:05 GMT</pubDate>
-		<lastBuildDate>Wed, 08 Apr 2026 17:00:05 GMT</lastBuildDate>
+		<pubDate>Wed, 08 Apr 2026 18:08:29 GMT</pubDate>
+		<lastBuildDate>Wed, 08 Apr 2026 18:08:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submittal of the Preliminary Safety Analysis Report Supplement 3 in Support of the Clinch River Nuclear Site Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25324A234</link>
+			<description>Letter</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2026-04-08 16:47:00</pubDate>
+		</item>
+		<item>
+			<title>Clinch River Nuclear Site Construction Permit Application, Preliminary Safety Analysis Report Section 1.5, Further Technical Information - 10 CFR 50.34(a)(1)(ii)(D) Evaluation (Public Version)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25324A235</link>
+			<description>Preliminary Safety Analysis Report (PSAR)</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2026-04-08 16:47:00</pubDate>
+		</item>
 		<item>
 			<title>Letter to Stephanie Yahola, Town King, Kialegee Tribal Town  - Clinch River Nuclear Construction Permit Final Supplemental Environmental Impact Statement</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26096A163</link>
@@ -206,20 +220,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2026-04-02 20:07:00</pubDate>
-		</item>
-		<item>
-			<title>Supplemental Environmental Impact Statement for a Construction Permit at the Clinch River Nuclear Site: Final Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26035A285</link>
-			<description>Environmental Impact Statement</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2026-04-01 20:13:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Tennessee Valley Authority Response to NRC Request for Additional Information No. 001 (RA-11122-RI) in Support of the Clinch River Nuclear Site Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26082A194</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-03-31 12:06:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 08 Apr 2026 17:00:10 GMT</pubDate>
-		<lastBuildDate>Wed, 08 Apr 2026 17:00:10 GMT</lastBuildDate>
+		<pubDate>Wed, 08 Apr 2026 18:08:34 GMT</pubDate>
+		<lastBuildDate>Wed, 08 Apr 2026 18:08:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submittal of the Preliminary Safety Analysis Report Supplement 3 in Support of the Clinch River Nuclear Site Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25324A234</link>
+			<description>Letter</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2026-04-08 16:47:00</pubDate>
+		</item>
+		<item>
+			<title>Clinch River Nuclear Site Construction Permit Application, Preliminary Safety Analysis Report Section 1.5, Further Technical Information - 10 CFR 50.34(a)(1)(ii)(D) Evaluation (Public Version)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25324A235</link>
+			<description>Preliminary Safety Analysis Report (PSAR)</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2026-04-08 16:47:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 1: Clinch River Nuclear Site Construction Permit Application, NRC Audit Questions and TVA Responses (Public Version)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25336A283</link>
@@ -206,20 +220,6 @@
 			<description>Report, Technical</description>
 			<author>Holtec International</author>
 			<pubDate>2026-04-07 14:36:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-1100, Vol. 42, "U.S. NRC Congressional Budget Justification Fiscal Year 2027"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26093A123</link>
-			<description>NUREG</description>
-			<author>NRC/OCFO/DB</author>
-			<pubDate>2026-04-07 13:01:00</pubDate>
-		</item>
-		<item>
-			<title>Semiannual Status Report on the Licensing Activities and Regulatory Duties of the U.S. Nuclear Regulatory Commission, April 1,2025 - September 30, 2025 Enclosure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26043A135</link>
-			<description>Routine Status Report (Recurring Weekly/Monthly)</description>
-			<author>NRC/Chairman</author>
-			<pubDate>2026-04-07 12:55:00</pubDate>
 		</item>
 	</channel>
 </rss>
