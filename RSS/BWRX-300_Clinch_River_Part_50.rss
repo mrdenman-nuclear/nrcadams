@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 08 Apr 2026 23:38:45 GMT</pubDate>
-		<lastBuildDate>Wed, 08 Apr 2026 23:38:45 GMT</lastBuildDate>
+		<pubDate>Thu, 09 Apr 2026 17:06:40 GMT</pubDate>
+		<lastBuildDate>Thu, 09 Apr 2026 17:06:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Clinch River - Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26091A340</link>
+			<description>Legal-Affidavit</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2026-04-09 12:12:00</pubDate>
+		</item>
+		<item>
+			<title>Amendment to the Programmatic Agreement Between the Tennessee Valley Authority and the Tennessee State Historic Preservation Officer in Support of the Clinch River Nuclear Site Construction Permit Application Environmental Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26091A337</link>
+			<description>Letter</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2026-04-09 12:12:00</pubDate>
+		</item>
+		<item>
+			<title>Amendment: Programmatic Agreement Between the Tennessee Valley Authority and the Tennessee State Historic Preservation Officer</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26091A339</link>
+			<description>Agreement States</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2026-04-09 12:12:00</pubDate>
+		</item>
 		<item>
 			<title>Submittal of the Preliminary Safety Analysis Report Supplement 3 in Support of the Clinch River Nuclear Site Construction Permit Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25324A234</link>
@@ -199,27 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2026-04-07 20:13:00</pubDate>
-		</item>
-		<item>
-			<title>Clinch River Nuclear Site Construction Permit Final SEIS Issuance Applicant Letter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26056A088</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2026-04-06 18:18:00</pubDate>
-		</item>
-		<item>
-			<title>Clinch River Nuclear Site Construction Permit Final SEIS FRN Issuance</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26056A096</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2026-04-06 13:10:00</pubDate>
-		</item>
-		<item>
-			<title>Slides - External - TVA - Clinch River Construction Permit Application - SC - April 7, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26092A321</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-04-02 20:07:00</pubDate>
 		</item>
 	</channel>
 </rss>

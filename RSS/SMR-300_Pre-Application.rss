@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 08 Apr 2026 23:38:45 GMT</pubDate>
-		<lastBuildDate>Wed, 08 Apr 2026 23:38:45 GMT</lastBuildDate>
+		<pubDate>Thu, 09 Apr 2026 17:06:40 GMT</pubDate>
+		<lastBuildDate>Thu, 09 Apr 2026 17:06:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,34 +31,6 @@
 			<description>Audit Report, Memoranda</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2026-03-27 12:17:00</pubDate>
-		</item>
-		<item>
-			<title>03/31/2026 Public Meeting with SMR (Holtec) to Discuss the Approach for Addressing Generic Safety Issue (GSI) 191 for SMR-300 Design</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26084A632</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-03-26 01:59:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: SMR-300 GSI-191 Compliance Strategy (Open Portion)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A374</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2026-03-25 19:51:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A375</link>
-			<description>Legal-Affidavit</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2026-03-25 19:51:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC Preapplication Meeting Materials for March 31, 2026 (Project No. 99902049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A372</link>
-			<description>Letter</description>
-			<author>SMR, LLC</author>
-			<pubDate>2026-03-25 19:51:00</pubDate>
 		</item>
 	</channel>
 </rss>

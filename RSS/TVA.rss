@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 08 Apr 2026 23:38:51 GMT</pubDate>
-		<lastBuildDate>Wed, 08 Apr 2026 23:38:51 GMT</lastBuildDate>
+		<pubDate>Thu, 09 Apr 2026 17:06:45 GMT</pubDate>
+		<lastBuildDate>Thu, 09 Apr 2026 17:06:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Amendment: Programmatic Agreement Between the Tennessee Valley Authority and the Tennessee State Historic Preservation Officer</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26091A339</link>
+			<description>Agreement States</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2026-04-09 12:12:00</pubDate>
+		</item>
+		<item>
+			<title>Clinch River - Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26091A340</link>
+			<description>Legal-Affidavit</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2026-04-09 12:12:00</pubDate>
+		</item>
+		<item>
+			<title>Amendment to the Programmatic Agreement Between the Tennessee Valley Authority and the Tennessee State Historic Preservation Officer in Support of the Clinch River Nuclear Site Construction Permit Application Environmental Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26091A337</link>
+			<description>Letter</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2026-04-09 12:12:00</pubDate>
+		</item>
+		<item>
+			<title>Part 21 Report on Browns Ferry Nuclear Plant, Unit 2, Final Evaluation of a Deviation or Failure to Comply Associated with a Contactor in the Unit 2 Reactor Core Isolation Cooling System</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26091A047</link>
+			<description>Deficiency Report (per 10CFR50.55e and Part 21), Letter</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2026-04-09 12:11:00</pubDate>
+		</item>
 		<item>
 			<title>Submittal of the Preliminary Safety Analysis Report Supplement 3 in Support of the Clinch River Nuclear Site Construction Permit Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25324A234</link>
@@ -192,34 +220,6 @@
 			<description>Preliminary Safety Analysis Report (PSAR)</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2026-04-08 12:10:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Clinch River Nuclear Site Construction Permit Application, Preliminary Safety Analysis Report Changes (Public Version)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25336A284</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-04-08 12:10:00</pubDate>
-		</item>
-		<item>
-			<title>Ltr to M. Montgomery TN SHPO - CRN CP FSEIS and Conclusion of Section 106 Consultation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26042A322</link>
-			<description>Letter</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2026-04-07 20:13:00</pubDate>
-		</item>
-		<item>
-			<title>Ltr to J. Loichinger ACHP - CRN CP FSEIS and Conclusion of Section 106 Consultation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26042A321</link>
-			<description>Letter</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2026-04-07 20:13:00</pubDate>
-		</item>
-		<item>
-			<title>Attachment 3: HI-951251, "Safety Analysis Report on the HI-STAR 100 Cask System", Revision 22 (Holtec Non-Proprietary Information)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26084A486</link>
-			<description>Report, Technical</description>
-			<author>Holtec International</author>
-			<pubDate>2026-04-07 14:36:00</pubDate>
 		</item>
 	</channel>
 </rss>
