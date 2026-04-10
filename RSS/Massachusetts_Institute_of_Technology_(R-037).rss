@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 Apr 2026 23:47:17 GMT</pubDate>
-		<lastBuildDate>Thu, 09 Apr 2026 23:47:17 GMT</lastBuildDate>
+		<pubDate>Fri, 10 Apr 2026 14:48:19 GMT</pubDate>
+		<lastBuildDate>Fri, 10 Apr 2026 14:48:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>MIT Nuclear Reactor Laboratory - Proposal for Conversion to Low Enriched Uranium (LEU)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26091A066</link>
+			<description>Letter</description>
+			<author>MIT Nuclear Reactor Laboratory</author>
+			<pubDate>2026-04-10 12:07:00</pubDate>
+		</item>
+	</channel>
 </rss>

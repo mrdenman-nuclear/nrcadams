@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 Apr 2026 23:47:24 GMT</pubDate>
-		<lastBuildDate>Thu, 09 Apr 2026 23:47:24 GMT</lastBuildDate>
+		<pubDate>Fri, 10 Apr 2026 14:48:25 GMT</pubDate>
+		<lastBuildDate>Fri, 10 Apr 2026 14:48:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 3: WCAP-18810-NP-A, Revision 0, "Advanced Logic System v2 Platform Elimination of Technical Specification Surveillance Requirements"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26092A393</link>
+			<description>Topical Report</description>
+			<author>Westinghouse Electric Co, LLC</author>
+			<pubDate>2026-04-10 12:08:00</pubDate>
+		</item>
 		<item>
 			<title>Information Relevant to Functional Containment (Slides)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26091A352</link>
@@ -213,13 +220,6 @@
 			<description>License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
 			<author>Constellation Energy Generation, LLC</author>
 			<pubDate>2026-04-02 12:05:00</pubDate>
-		</item>
-		<item>
-			<title>Supplemental Environmental Impact Statement for a Construction Permit at the Clinch River Nuclear Site: Final Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26035A285</link>
-			<description>Environmental Impact Statement</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2026-04-01 20:13:00</pubDate>
 		</item>
 	</channel>
 </rss>

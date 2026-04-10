@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 Apr 2026 23:47:21 GMT</pubDate>
-		<lastBuildDate>Thu, 09 Apr 2026 23:47:21 GMT</lastBuildDate>
+		<pubDate>Fri, 10 Apr 2026 14:48:23 GMT</pubDate>
+		<lastBuildDate>Fri, 10 Apr 2026 14:48:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>Status Report</description>
 			<author>NRC/Chairman</author>
 			<pubDate>2026-04-07 12:01:00</pubDate>
-		</item>
-		<item>
-			<title>2026 RIC T1 Aalos Integrated Regulatory & Deployment Roadmap</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26070A039</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>AALO Atomics</author>
-			<pubDate>2026-03-26 19:33:00</pubDate>
-		</item>
-		<item>
-			<title>2026 RIC T1 Opening Remarks</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26070A029</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-03-26 19:33:00</pubDate>
 		</item>
 	</channel>
 </rss>

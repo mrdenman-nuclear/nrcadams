@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 Apr 2026 23:47:21 GMT</pubDate>
-		<lastBuildDate>Thu, 09 Apr 2026 23:47:21 GMT</lastBuildDate>
+		<pubDate>Fri, 10 Apr 2026 14:48:23 GMT</pubDate>
+		<lastBuildDate>Fri, 10 Apr 2026 14:48:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -136,13 +136,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2026-03-27 12:17:00</pubDate>
-		</item>
-		<item>
-			<title>Final Rule: Risk-Informed, Technology-Inclusive Regulatory Framework for Advanced Reactors (RIN 3150-AK31; NRC-2019-0062) NRC Response to Public Comments, Volume I</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26042A229</link>
-			<description>Rulemaking- Final Rule</description>
-			<author>NRC/NMSS, NRC/NRR, NRC/NSIR</author>
-			<pubDate>2026-03-26 12:14:00</pubDate>
 		</item>
 	</channel>
 </rss>

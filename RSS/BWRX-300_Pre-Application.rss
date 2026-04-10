@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 Apr 2026 23:47:16 GMT</pubDate>
-		<lastBuildDate>Thu, 09 Apr 2026 23:47:16 GMT</lastBuildDate>
+		<pubDate>Fri, 10 Apr 2026 14:48:18 GMT</pubDate>
+		<lastBuildDate>Fri, 10 Apr 2026 14:48:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2026/03/27 GEH BWRX-300 SMR - GE Vernova Hitachi Request for Withholding Information from Public Disclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26086A356</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2026-04-10 12:07:00</pubDate>
+		</item>
 		<item>
 			<title>Withholding Determination Letter for GE Vernova Hitachi Nuclear Energy Americas, LLC, NEDC-34416P, Revision 0, "Ultra Plus Control Rod Assembly"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26085A446</link>
@@ -59,13 +66,6 @@
 			<description>Topical Report</description>
 			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
 			<pubDate>2026-03-27 19:31:00</pubDate>
-		</item>
-		<item>
-			<title>GE Vernova Hitachi Nuclear Energy Americans, LLC - Scope Update for Ultra Plus Control Rod Assembly Licensing Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26079A197</link>
-			<description>Letter</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2026-03-26 14:28:00</pubDate>
 		</item>
 	</channel>
 </rss>
