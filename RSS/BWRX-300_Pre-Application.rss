@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 10 Apr 2026 23:34:51 GMT</pubDate>
-		<lastBuildDate>Fri, 10 Apr 2026 23:34:51 GMT</lastBuildDate>
+		<pubDate>Mon, 13 Apr 2026 15:17:15 GMT</pubDate>
+		<lastBuildDate>Mon, 13 Apr 2026 15:17:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>March 10, 2026, Summary of Post-Submittal Meeting between U. S. Nuclear Regulatory Commission and GE Vernova Hitachi Nuclear Energy Americas, LLC, for TR NEDC-34416P, Revision 0, "Ultra Plus Control Rod Assembly" (EPID L 2026-TOP-0002)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26085A443</link>
+			<description>Memoranda</description>
+			<author>NRC/NRR/DORL/LLPB</author>
+			<pubDate>2026-04-13 12:10:00</pubDate>
+		</item>
 		<item>
 			<title>2026/03/27 GEH BWRX-300 SMR - GE Vernova Hitachi Request for Withholding Information from Public Disclosure</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26086A356</link>
@@ -45,27 +52,6 @@
 			<description>Legal-Affidavit, Letter, Topical Report</description>
 			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
 			<pubDate>2026-04-01 17:30:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26077A384</link>
-			<description>Legal-Affidavit</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2026-03-27 19:31:00</pubDate>
-		</item>
-		<item>
-			<title>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA) - Submittal of NEDC-33934P/NEDO-33934, Revision 2, BWRX-300 Safety Strategy</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26077A381</link>
-			<description>Letter</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2026-03-27 19:31:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: NEDO-33934, Rev. 2, BWRX-300 Safety Strategy</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26077A383</link>
-			<description>Topical Report</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2026-03-27 19:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

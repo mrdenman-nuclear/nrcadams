@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 10 Apr 2026 23:34:51 GMT</pubDate>
-		<lastBuildDate>Fri, 10 Apr 2026 23:34:51 GMT</lastBuildDate>
+		<pubDate>Mon, 13 Apr 2026 15:17:15 GMT</pubDate>
+		<lastBuildDate>Mon, 13 Apr 2026 15:17:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Meeting Agenda</description>
 			<author>NRC/NRR/DNRL</author>
 			<pubDate>2026-03-31 19:30:00</pubDate>
-		</item>
-		<item>
-			<title>Memo & Enclosure 1 - Audit Plan and Information Needs for the Regulatory Audit of SMR-300 Instrumentation and Control Architecture Licensing Topical Report.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26072A027</link>
-			<description>Audit Report, Memoranda</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2026-03-27 12:17:00</pubDate>
 		</item>
 	</channel>
 </rss>
