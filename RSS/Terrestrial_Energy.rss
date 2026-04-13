@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 Apr 2026 20:07:31 GMT</pubDate>
-		<lastBuildDate>Mon, 13 Apr 2026 20:07:31 GMT</lastBuildDate>
+		<pubDate>Mon, 13 Apr 2026 21:46:57 GMT</pubDate>
+		<lastBuildDate>Mon, 13 Apr 2026 21:46:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Energy and System Design Mitigation Alternatives White Paper</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25044A472</link>
+			<description>Technical Paper</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2026-04-13 20:21:00</pubDate>
+		</item>
+		<item>
+			<title>COL-ISG-030, "Environmental Considerations Associated with New Nuclear Reactor Applications that Reference the Generic Environmental Impact Statement (NUREG-2249)" (Final Rule - GEIS for Licensing New Nuclear Reactors)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25043A341</link>
+			<description>Environmental Impact Statement, Guidance Document</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2026-04-13 20:21:00</pubDate>
+		</item>
+		<item>
+			<title>Regulatory Analysis-Generic Environmental Impact Statement for Licensing of New Nuclear Reactors Final Rule (RIN 3150-AK55; NRC-2020-0101)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25323A459</link>
+			<description>Regulatory Analysis, Rulemaking- Final Rule</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2026-04-13 20:21:00</pubDate>
+		</item>
 		<item>
 			<title>SRM-M260413: Enclosure 2 - SECY-25-0085 - Final Rule: Generic Environmental Impact Statement For Licensing Of New Nuclear Reactors (RIN 3150-AK55; NRC-2020-0101)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26103A131</link>
@@ -199,27 +220,6 @@
 			<description>License-Application for (Amend/Renewal/New) for DKT 30, 40, 70</description>
 			<author>Cameco Resources, Crow Butte Resources, Inc</author>
 			<pubDate>2026-03-31 19:30:00</pubDate>
-		</item>
-		<item>
-			<title>Crow Butte Project and Marsland Expansion Area - Application for 2024 License Renewal</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26085A353</link>
-			<description>License-Application for (Amend/Renewal/New) for DKT 30, 40, 70</description>
-			<author>Cameco Resources, Crow Butte Resources, Inc</author>
-			<pubDate>2026-03-31 19:30:00</pubDate>
-		</item>
-		<item>
-			<title>Supplement to Homestake Grants Reclamation Project License Amendment Request: RSO-E Designation and Modification of Training and Qualifications for RST and Qualified Designee Positions in License Condition 32</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26084A627</link>
-			<description>Letter</description>
-			<author>Homestake Mining Co of California</author>
-			<pubDate>2026-03-30 18:05:00</pubDate>
-		</item>
-		<item>
-			<title>Categorical Exclusions from Environmental Review Final Rule - Federal Register Notice</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26064A135</link>
-			<description>Federal Register Notice, Rulemaking- Final Rule</description>
-			<author>NRC/SECY</author>
-			<pubDate>2026-03-30 13:58:00</pubDate>
 		</item>
 	</channel>
 </rss>
