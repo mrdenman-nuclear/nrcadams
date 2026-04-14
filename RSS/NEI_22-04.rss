@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 Apr 2026 23:44:15 GMT</pubDate>
-		<lastBuildDate>Mon, 13 Apr 2026 23:44:15 GMT</lastBuildDate>
+		<pubDate>Tue, 14 Apr 2026 15:13:56 GMT</pubDate>
+		<lastBuildDate>Tue, 14 Apr 2026 15:13:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NUREG-2249, "Generic Environmental Impact Statement for Licensing of New Nuclear Reactors" Final Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25324A130</link>
+			<description>Environmental Impact Statement, NUREG</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2026-04-14 13:38:00</pubDate>
+		</item>
+		<item>
+			<title>Transmittal of TSTF-608, Revision 0, "Relocate Main Steam Line (MSL) Area Temperature Automatic Isolation Functions"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26096A210</link>
+			<description>Letter, Report, Technical</description>
+			<author>Technical Specifications Task Force</author>
+			<pubDate>2026-04-14 12:15:00</pubDate>
+		</item>
+		<item>
+			<title>Transmittal of TSTF-608, Revision 0, "Relocate Main Steam Line (MSL) Area Temperature Automatic Isolation Functions"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26096A210</link>
+			<description>Letter, Report, Technical</description>
+			<author>Technical Specifications Task Force</author>
+			<pubDate>2026-04-14 12:15:00</pubDate>
+		</item>
 		<item>
 			<title>ARC-100 Revised Slides "Information Relevant To Functional Containment"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26103A234</link>
@@ -199,27 +220,6 @@
 			<description>Preliminary Safety Analysis Report (PSAR)</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2026-04-08 12:10:00</pubDate>
-		</item>
-		<item>
-			<title>Survey of Nuclear Graphite Waste Regulations- TLR-RES/DE/REB-2025-20</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26027A181</link>
-			<description>Technical Paper</description>
-			<author>NRC/RES/DE, Numark Associates, Inc</author>
-			<pubDate>2026-04-08 11:30:00</pubDate>
-		</item>
-		<item>
-			<title>Crystal River, Unit 3 - 2025 Annual Radioactive Effluent Release Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26096A145</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>ADP CR3, LLC</author>
-			<pubDate>2026-04-07 19:03:00</pubDate>
-		</item>
-		<item>
-			<title>Crystal River, Unit 3 - 2025 Annual Radioactive Effluent Release Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26096A145</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>ADP CR3, LLC</author>
-			<pubDate>2026-04-07 19:03:00</pubDate>
 		</item>
 	</channel>
 </rss>

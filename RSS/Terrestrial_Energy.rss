@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 Apr 2026 23:44:11 GMT</pubDate>
-		<lastBuildDate>Mon, 13 Apr 2026 23:44:11 GMT</lastBuildDate>
+		<pubDate>Tue, 14 Apr 2026 15:13:52 GMT</pubDate>
+		<lastBuildDate>Tue, 14 Apr 2026 15:13:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NUREG-2249, "Generic Environmental Impact Statement for Licensing of New Nuclear Reactors" Final Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25324A130</link>
+			<description>Environmental Impact Statement, NUREG</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2026-04-14 13:38:00</pubDate>
+		</item>
 		<item>
 			<title>Energy and System Design Mitigation Alternatives White Paper</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25044A472</link>
@@ -213,13 +220,6 @@
 			<description>Environmental Report</description>
 			<author>Disa Technologies, Inc</author>
 			<pubDate>2026-04-01 15:05:00</pubDate>
-		</item>
-		<item>
-			<title>Crow Butte Resources - License Renewal Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26085A354</link>
-			<description>License-Application for (Amend/Renewal/New) for DKT 30, 40, 70</description>
-			<author>Cameco Resources, Crow Butte Resources, Inc</author>
-			<pubDate>2026-03-31 19:30:00</pubDate>
 		</item>
 	</channel>
 </rss>
