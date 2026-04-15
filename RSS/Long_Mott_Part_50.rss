@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 14 Apr 2026 23:42:05 GMT</pubDate>
-		<lastBuildDate>Tue, 14 Apr 2026 23:42:05 GMT</lastBuildDate>
+		<pubDate>Wed, 15 Apr 2026 15:06:28 GMT</pubDate>
+		<lastBuildDate>Wed, 15 Apr 2026 15:06:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Long Mott Energy LLC's Answer Partially Opposing Waterkeeper's Motion to Permit Correction of Filing</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26104A371</link>
+			<description>Legal-Pleading</description>
+			<author>Long Mott Energy, LLC, Morgan, Lewis and Bockius, LLP</author>
+			<pubDate>2026-04-15 14:05:00</pubDate>
+		</item>
 		<item>
 			<title>San Antonio Bay Estuarine Waterkeeper's Motion to Permit Correction of Filing</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26104A224</link>
@@ -94,20 +101,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2026-04-01 12:16:00</pubDate>
-		</item>
-		<item>
-			<title>Order (Granting Petitioner's Motion to Exceed the Page Limit for New or Amended Contention)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26090A285</link>
-			<description>Legal-Order</description>
-			<author>NRC/ASLBP</author>
-			<pubDate>2026-03-31 19:30:00</pubDate>
-		</item>
-		<item>
-			<title>San Antonio Bay Estuarine Waterkeeper's Motion for Leave to Exceed the Page Limit for New or Amended Contention</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26089A299</link>
-			<description>Legal-Motion</description>
-			<author>Perales, Allmon and Ice, P.C., San Antonio Bay Estuarine Waterkeeper</author>
-			<pubDate>2026-03-31 12:06:00</pubDate>
 		</item>
 	</channel>
 </rss>

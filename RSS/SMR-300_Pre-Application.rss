@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 14 Apr 2026 23:42:05 GMT</pubDate>
-		<lastBuildDate>Tue, 14 Apr 2026 23:42:05 GMT</lastBuildDate>
+		<pubDate>Wed, 15 Apr 2026 15:06:28 GMT</pubDate>
+		<lastBuildDate>Wed, 15 Apr 2026 15:06:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SMR, LLC - Meeting Presentation Materials for April 23, 2026 (NP)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26103A196</link>
+			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2026-04-15 14:05:00</pubDate>
+		</item>
 		<item>
 			<title>04/23/2026 Planned Exemption Request and Proposed Preliminary Safety Analysis Report Chapters 15 and 6.2 Contents for Pioneer Units 1 and 2 Construction Permit Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26103A347</link>
@@ -24,13 +31,6 @@
 			<description>Letter</description>
 			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2026-04-01 12:16:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Staff's Preliminary Questions for the March 31, 2026 Public Meeting with SMR (Holtec) on SMR-300 GSI-191 Compliance Strategy</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26090A034</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2026-03-31 19:30:00</pubDate>
 		</item>
 	</channel>
 </rss>

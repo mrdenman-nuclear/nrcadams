@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 14 Apr 2026 23:42:11 GMT</pubDate>
-		<lastBuildDate>Tue, 14 Apr 2026 23:42:11 GMT</lastBuildDate>
+		<pubDate>Wed, 15 Apr 2026 15:06:35 GMT</pubDate>
+		<lastBuildDate>Wed, 15 Apr 2026 15:06:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 4: Univ of Illinois - Urbana - Champaign - Environmental Report, Rev. 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26090A468</link>
+			<description>Environmental Report, License-Application for Construction Permit DKT 50</description>
+			<author>NANO Nuclear Energy, Inc, Univ of Illinois - Urbana - Champaign</author>
+			<pubDate>2026-04-15 12:03:00</pubDate>
+		</item>
 		<item>
 			<title>Point Beach, Units 1 and 2 - Periodic Update of the Updated Final Safety Analysis Report, Chapter 2, Site and Environment (REDACTED)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26097A067</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26084A496</link>
 			<description></description>
 			<author></author>
-			<pubDate>2026-04-02 12:05:00</pubDate>
-		</item>
-		<item>
-			<title>Spreadsheet of ACRS Committee Reports Numbers 650 - 731 submitted to the Library of Congress</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26084A420</link>
-			<description>Spreadsheet File</description>
-			<author>NRC/ACRS</author>
 			<pubDate>2026-04-02 12:05:00</pubDate>
 		</item>
 	</channel>
