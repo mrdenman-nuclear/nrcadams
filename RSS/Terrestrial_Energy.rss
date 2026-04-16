@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 16 Apr 2026 19:09:50 GMT</pubDate>
-		<lastBuildDate>Thu, 16 Apr 2026 19:09:50 GMT</lastBuildDate>
+		<pubDate>Thu, 16 Apr 2026 20:46:29 GMT</pubDate>
+		<lastBuildDate>Thu, 16 Apr 2026 20:46:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>3-19-2026 Public Meeting--Contested Hearings - Proposed Rule (RIN 3150-AL58) - Meeting Summary</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26070A190</link>
+			<description>Meeting Summary, Rulemaking- Proposed Rule</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2026-04-16 19:04:00</pubDate>
+		</item>
 		<item>
 			<title>First Quarter Fiscal Year 2026 Report on Licensing Activities and Regulatory Duties for the Reporting Period of October 1, 2025, through December 31, 2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075E224</link>
@@ -213,13 +220,6 @@
 			<description>Status Report</description>
 			<author>NRC/Chairman</author>
 			<pubDate>2026-04-07 12:01:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: ASN Approval Certificate for Package Design F/381/AF-96(Fq)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26055A414</link>
-			<description>Report, Miscellaneous</description>
-			<author>Govt of France, Autorite De Surete Nucleaire (ASN)</author>
-			<pubDate>2026-04-06 13:09:00</pubDate>
 		</item>
 	</channel>
 </rss>
