@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 15 Apr 2026 22:02:47 GMT</pubDate>
-		<lastBuildDate>Wed, 15 Apr 2026 22:02:47 GMT</lastBuildDate>
+		<pubDate>Thu, 16 Apr 2026 15:33:09 GMT</pubDate>
+		<lastBuildDate>Thu, 16 Apr 2026 15:33:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>First Quarter Fiscal Year 2026 Report on Licensing Activities and Regulatory Duties for the Reporting Period of October 1, 2025, through December 31, 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075E224</link>
+			<description>Status Report</description>
+			<author>NRC/Chairman</author>
+			<pubDate>2026-04-16 12:15:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 1: CPNPP FSAR Certified Amendment 113 Text and Tables (Public)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25209A313</link>
@@ -213,13 +220,6 @@
 			<description>Report, Miscellaneous</description>
 			<author>Govt of France, Autorite De Surete Nucleaire (ASN)</author>
 			<pubDate>2026-04-06 13:09:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Generating Station Construction Permit Environmental Audit Summary Memo</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075A148</link>
-			<description>Environmental Assessment, Memoranda</description>
-			<author>NRC/NMSS/DREFS/EPMB3</author>
-			<pubDate>2026-04-02 16:16:00</pubDate>
 		</item>
 	</channel>
 </rss>
