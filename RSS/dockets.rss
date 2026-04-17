@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 17 Apr 2026 20:45:09 GMT</pubDate>
-		<lastBuildDate>Fri, 17 Apr 2026 20:45:09 GMT</lastBuildDate>
+		<pubDate>Fri, 17 Apr 2026 21:42:11 GMT</pubDate>
+		<lastBuildDate>Fri, 17 Apr 2026 21:42:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Memorandum and Order (Regarding Corrected April 15, 2026 Answer)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26107A249</link>
+			<description>Legal-Order</description>
+			<author>NRC/ASLBP</author>
+			<pubDate>2026-04-17 20:32:00</pubDate>
+		</item>
 		<item>
 			<title>San Antonio Bay Estuarine Waterkeeper's Redacted Motion for Leave to File New Contention 3C</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26106A364</link>
@@ -211,13 +218,6 @@
 			<title>Submittal of the Preliminary Safety Analysis Report Supplement 5 in Support of the Clinch River Nuclear Site Construction Permit Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26007A163</link>
 			<description>Letter</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-04-13 17:33:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Clinch River Nuclear Site Construction Permit Application, Preliminary Safety Analysis Report Changes (Public Version)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26091A347</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2026-04-13 17:33:00</pubDate>
 		</item>
