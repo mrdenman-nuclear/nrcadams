@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 16 Apr 2026 23:40:36 GMT</pubDate>
-		<lastBuildDate>Thu, 16 Apr 2026 23:40:36 GMT</lastBuildDate>
+		<pubDate>Fri, 17 Apr 2026 14:56:57 GMT</pubDate>
+		<lastBuildDate>Fri, 17 Apr 2026 14:56:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -101,13 +101,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2026-04-06 10:55:00</pubDate>
-		</item>
-		<item>
-			<title>Spreadsheet of ACRS Committee Reports Numbers 650 - 731 submitted to the Library of Congress</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26084A420</link>
-			<description>Spreadsheet File</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-04-02 12:05:00</pubDate>
 		</item>
 	</channel>
 </rss>

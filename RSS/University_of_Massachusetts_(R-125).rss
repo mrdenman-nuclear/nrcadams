@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 16 Apr 2026 23:40:29 GMT</pubDate>
-		<lastBuildDate>Thu, 16 Apr 2026 23:40:29 GMT</lastBuildDate>
+		<pubDate>Fri, 17 Apr 2026 14:56:51 GMT</pubDate>
+		<lastBuildDate>Fri, 17 Apr 2026 14:56:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>2026/02/13 UNIVERSITY OF MASSACHUSETTS LOWELL - CHANGE OF FACILITY BACKUP PROJECT MANAGER</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26098A143</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2026-04-17 12:17:00</pubDate>
+		</item>
+	</channel>
 </rss>
