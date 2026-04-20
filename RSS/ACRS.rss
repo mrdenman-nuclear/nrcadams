@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 17 Apr 2026 23:39:00 GMT</pubDate>
-		<lastBuildDate>Fri, 17 Apr 2026 23:39:00 GMT</lastBuildDate>
+		<pubDate>Mon, 20 Apr 2026 15:18:50 GMT</pubDate>
+		<lastBuildDate>Mon, 20 Apr 2026 15:18:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,20 +66,6 @@
 			<description>Conference/Symposium/Workshop Paper, Meeting Agenda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2026-03-23 12:24:00</pubDate>
-		</item>
-		<item>
-			<title>Summary Report and Certified Minutes for the 732nd Meeting of the Advisory Committee on Reactor Safeguards for February 5, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26056A370</link>
-			<description>ACRS Summary Report, Letter, Meeting Minutes</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-03-18 20:14:00</pubDate>
-		</item>
-		<item>
-			<title>734th Full Committee Meeting of the Advisory Committee on Reactor Safeguards, April 8-10, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26064A227</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/ACRS, NRC/SECY</author>
-			<pubDate>2026-03-18 12:08:00</pubDate>
 		</item>
 	</channel>
 </rss>

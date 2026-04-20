@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 17 Apr 2026 23:38:59 GMT</pubDate>
-		<lastBuildDate>Fri, 17 Apr 2026 23:38:59 GMT</lastBuildDate>
+		<pubDate>Mon, 20 Apr 2026 15:18:49 GMT</pubDate>
+		<lastBuildDate>Mon, 20 Apr 2026 15:18:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>05/07/2026 Pre-application meeting with Oklo to discuss development of thier inservice inspection program</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26107A065</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2026-04-20 14:25:00</pubDate>
+		</item>
+		<item>
+			<title>Long Mott Energy LLC Conditional Motion for Leave to File a Limited Reply</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26107A259</link>
+			<description>Legal-Motion</description>
+			<author>Morgan, Lewis and Bockius, LLP</author>
+			<pubDate>2026-04-20 12:55:00</pubDate>
+		</item>
+		<item>
+			<title>Memorandum and Order (Denying Motion to Correct Pleading and Addressing Other Administrative Matters)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26107A252</link>
+			<description>Legal-Order</description>
+			<author>NRC/ASLBP</author>
+			<pubDate>2026-04-20 12:54:00</pubDate>
+		</item>
 		<item>
 			<title>Memorandum and Order (Regarding Corrected April 15, 2026 Answer)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26107A249</link>
@@ -199,27 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2026-04-14 00:58:00</pubDate>
-		</item>
-		<item>
-			<title>Clinch River Nuclear Site Construction Permit Application, Preliminary Safety Analysis Report Changes (Public Version)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26007A164</link>
-			<description>License-Application for Construction Permit DKT 50, Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-04-13 17:33:00</pubDate>
-		</item>
-		<item>
-			<title>Clinch River Nuclear Site Construction Permit Application, Preliminary Safety Analysis Report Changes (Public Version)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26007A165</link>
-			<description>License-Application for Construction Permit DKT 50, Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-04-13 17:33:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of the Preliminary Safety Analysis Report Supplement 5 in Support of the Clinch River Nuclear Site Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26007A163</link>
-			<description>Letter</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-04-13 17:33:00</pubDate>
 		</item>
 	</channel>
 </rss>
