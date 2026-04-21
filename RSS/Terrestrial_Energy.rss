@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Apr 2026 16:59:46 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Apr 2026 16:59:46 GMT</lastBuildDate>
+		<pubDate>Tue, 21 Apr 2026 18:09:11 GMT</pubDate>
+		<lastBuildDate>Tue, 21 Apr 2026 18:09:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Regulatory Guide 4.2, Revision 4, Preparation of Environmental Reports for Nuclear Power Stations (Final Rule - GEIS for Licensing New Nuclear Reactors)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25043A345</link>
+			<description>Regulatory Guide, Rulemaking- Final Rule</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2026-04-21 17:24:00</pubDate>
+		</item>
 		<item>
 			<title>Braidwood, Units 1 and 2; Byron, Units 1 and 2; Lasalle, Units 1 and 2 - Environmental Assessment and Finding of No Significant Impact Related to Exemptions from the Requirements of 10 CFR 50.82(a)(8)(i) and (ii) (EPID L-2025-LLE-0028) - Letter</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26098A363</link>
@@ -213,13 +220,6 @@
 			<description>Site Safety Analysis Report (SSAR)</description>
 			<author>Duke Energy Carolinas, LLC</author>
 			<pubDate>2026-04-17 12:17:00</pubDate>
-		</item>
-		<item>
-			<title>3-19-2026 Public Meeting--Contested Hearings - Proposed Rule (RIN 3150-AL58) - Meeting Summary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26070A190</link>
-			<description>Meeting Summary, Rulemaking- Proposed Rule</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2026-04-16 19:04:00</pubDate>
 		</item>
 	</channel>
 </rss>

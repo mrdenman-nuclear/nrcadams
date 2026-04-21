@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Apr 2026 16:59:38 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Apr 2026 16:59:38 GMT</lastBuildDate>
+		<pubDate>Tue, 21 Apr 2026 18:09:04 GMT</pubDate>
+		<lastBuildDate>Tue, 21 Apr 2026 18:09:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC Form 898 - Completeness Determination - TerraPower, LLC, Natrium Generic Topical Report, Revision 0 (EPID L-2026-TOP-0010)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26078A128</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2026-04-21 17:24:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Form 897 - Request For Withholding Proprietary Information From Public Disclosure - TerraPower, LLC NAT-16856, CVAP Topical Report, Revision 1 (EPD L-2026-TOP-0006).pdf</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26078A060</link>
+			<description>Topical Report</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2026-04-21 17:24:00</pubDate>
+		</item>
 		<item>
 			<title>FRN: Notice of Issuance of EA and FONSI for Hermes 1 Construction Extension</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26085A071</link>
@@ -206,20 +220,6 @@
 			<description>Legal-Pleading</description>
 			<author>Long Mott Energy, LLC, Morgan, Lewis and Bockius, LLP</author>
 			<pubDate>2026-04-15 14:05:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Univ of Illinois - Urbana - Champaign - Preliminary Safety Analysis Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26090A467</link>
-			<description>License-Application for Construction Permit DKT 50, Preliminary Safety Analysis Report (PSAR)</description>
-			<author>NANO Nuclear Energy, Inc, Univ of Illinois - Urbana - Champaign</author>
-			<pubDate>2026-04-15 12:04:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 5: Univ of Illinois - Urbana - Champaign - Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26090A469</link>
-			<description>Legal-Affidavit</description>
-			<author>NANO Nuclear Energy, Inc, Univ of Illinois - Urbana - Champaign</author>
-			<pubDate>2026-04-15 12:03:00</pubDate>
 		</item>
 	</channel>
 </rss>

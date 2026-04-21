@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Apr 2026 16:59:48 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Apr 2026 16:59:48 GMT</lastBuildDate>
+		<pubDate>Tue, 21 Apr 2026 18:09:12 GMT</pubDate>
+		<lastBuildDate>Tue, 21 Apr 2026 18:09:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Regulatory Guide 4.2, Revision 4, Preparation of Environmental Reports for Nuclear Power Stations (Final Rule - GEIS for Licensing New Nuclear Reactors)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25043A345</link>
+			<description>Regulatory Guide, Rulemaking- Final Rule</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2026-04-21 17:24:00</pubDate>
+		</item>
+		<item>
+			<title>Regulatory Guide 4.2, Revision 4, Preparation of Environmental Reports for Nuclear Power Stations (Final Rule - GEIS for Licensing New Nuclear Reactors)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25043A345</link>
+			<description>Regulatory Guide, Rulemaking- Final Rule</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2026-04-21 17:24:00</pubDate>
+		</item>
 		<item>
 			<title>Application of Dominion Nuclear Connecticut, Inc., to Modify the Existing Millstone Power Station to Establish an ISFSI (Dry Storage) on Property Located Off Ferry Road in the Town of Waterford, Connecticut.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML073320382</link>
@@ -206,20 +220,6 @@
 			<description>Updated Final Safety Analysis Report (UFSAR)</description>
 			<author>NextEra Energy Point Beach, LLC</author>
 			<pubDate>2026-04-14 19:50:00</pubDate>
-		</item>
-		<item>
-			<title>Point Beach, Units 1 and 2 - Periodic Update of the Updated Final Safety Analysis Report, List of Effective Pages</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26097A063</link>
-			<description>Graphics incl Charts and Tables, Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>NextEra Energy Point Beach, LLC</author>
-			<pubDate>2026-04-14 19:49:00</pubDate>
-		</item>
-		<item>
-			<title>Point Beach, Units 1 and 2 - Periodic Update of the Updated Final Safety Analysis Report, List of Effective Pages</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26097A063</link>
-			<description>Graphics incl Charts and Tables, Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>NextEra Energy Point Beach, LLC</author>
-			<pubDate>2026-04-14 19:49:00</pubDate>
 		</item>
 	</channel>
 </rss>
