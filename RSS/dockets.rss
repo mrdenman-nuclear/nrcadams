@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Apr 2026 18:09:04 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Apr 2026 18:09:04 GMT</lastBuildDate>
+		<pubDate>Tue, 21 Apr 2026 19:13:03 GMT</pubDate>
+		<lastBuildDate>Tue, 21 Apr 2026 19:13:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>FRN: General Notice. University of Illinois Urbana-Champaign KRONOS MMR Receipt of Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26092A387</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2026-04-21 18:50:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Form 898 - Completeness Determination for the TerraPower, LLC  "Comprehensive Vibration Assessment Program Topical Report" Revision 1 (EPID L-2026-TOP-0006)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26078A043</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2026-04-21 18:50:00</pubDate>
+		</item>
 		<item>
 			<title>NRC Form 898 - Completeness Determination - TerraPower, LLC, Natrium Generic Topical Report, Revision 0 (EPID L-2026-TOP-0010)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26078A128</link>
@@ -206,20 +220,6 @@
 			<description>Letter</description>
 			<author>Terrestrial Energy USA</author>
 			<pubDate>2026-04-15 15:16:00</pubDate>
-		</item>
-		<item>
-			<title>SMR, LLC - Meeting Presentation Materials for April 23, 2026 (NP)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26103A196</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2026-04-15 14:05:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Energy LLC's Answer Partially Opposing Waterkeeper's Motion to Permit Correction of Filing</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26104A371</link>
-			<description>Legal-Pleading</description>
-			<author>Long Mott Energy, LLC, Morgan, Lewis and Bockius, LLP</author>
-			<pubDate>2026-04-15 14:05:00</pubDate>
 		</item>
 	</channel>
 </rss>
