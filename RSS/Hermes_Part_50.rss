@@ -5,32 +5,39 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 20 Apr 2026 23:43:34 GMT</pubDate>
-		<lastBuildDate>Mon, 20 Apr 2026 23:43:34 GMT</lastBuildDate>
+		<pubDate>Tue, 21 Apr 2026 15:15:51 GMT</pubDate>
+		<lastBuildDate>Tue, 21 Apr 2026 15:15:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>FRN: Notice of Issuance of EA and FONSI for Hermes 1 Construction Extension</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26085A071</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2026-04-21 12:49:00</pubDate>
+		</item>
+		<item>
+			<title>2026/04/14 Hermes CP Doc - Kairos Power LLC Environmental Assessment and Finding of no Significant Impact for Construction Permit Amendment for Hermes Test Reactor Facility</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26104A271</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2026-04-21 12:49:00</pubDate>
+		</item>
+		<item>
+			<title>2026/04/14 Hermes CP Doc - A E  FW Kairos Power LLC Environmental Assessment and Finding of no Significant Impact for Construction Permit Amendment for Hermes Test Reactor Facility</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26104A272</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2026-04-21 12:49:00</pubDate>
+		</item>
 		<item>
 			<title>Kairos Power LLC, Request for NRC to Designate Kairos Power Reviewing Official for 10 CFR Part 73</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26096A488</link>
 			<description>Letter</description>
 			<author>Kairos Power, LLC</author>
 			<pubDate>2026-04-14 12:15:00</pubDate>
-		</item>
-		<item>
-			<title>2026/03/30 Hermes CP Doc - ACCEPTANCE REVIEW OF KAIROS POWER LLCS HERMES TEST REACTOR CONSTRUCTION PERMIT CPTR-6 AMENDMENT REQUEST (EPID NO. L-2026-LLA-0059)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26089A169</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-04-06 10:55:00</pubDate>
-		</item>
-		<item>
-			<title>2026/03/30 Hermes CP Doc - FW ACCEPTANCE REVIEW OF KAIROS POWER LLCS HERMES TEST REACTOR CONSTRUCTION PERMIT CPTR-6 AMENDMENT REQUEST (EPID NO. L-2026-LLA-0059)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26089A170</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-04-06 10:55:00</pubDate>
 		</item>
 	</channel>
 </rss>

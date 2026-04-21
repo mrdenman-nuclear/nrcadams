@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 20 Apr 2026 23:43:42 GMT</pubDate>
-		<lastBuildDate>Mon, 20 Apr 2026 23:43:42 GMT</lastBuildDate>
+		<pubDate>Tue, 21 Apr 2026 15:16:01 GMT</pubDate>
+		<lastBuildDate>Tue, 21 Apr 2026 15:16:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Letter</description>
 			<author>NRC/RGN-III</author>
 			<pubDate>2026-04-13 12:11:00</pubDate>
-		</item>
-		<item>
-			<title>654951 Additional Information Request for Acutex, Inc. to License No. 21-12192-01</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26089A203</link>
-			<description>Letter, Request for Additional Information (RAI)</description>
-			<author>NRC/RGN-III/DRSS/MLB</author>
-			<pubDate>2026-04-06 10:55:00</pubDate>
 		</item>
 	</channel>
 </rss>
