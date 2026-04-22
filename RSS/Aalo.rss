@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Apr 2026 23:35:29 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Apr 2026 23:35:29 GMT</lastBuildDate>
+		<pubDate>Wed, 22 Apr 2026 15:12:13 GMT</pubDate>
+		<lastBuildDate>Wed, 22 Apr 2026 15:12:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,27 +17,6 @@
 			<description>Status Report</description>
 			<author>NRC/Chairman</author>
 			<pubDate>2026-04-16 12:15:00</pubDate>
-		</item>
-		<item>
-			<title>Aalo Holdings Online Portal Agreement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26096A445</link>
-			<description></description>
-			<author></author>
-			<pubDate>2026-04-07 15:49:00</pubDate>
-		</item>
-		<item>
-			<title>March 2, 2026, Summary of Pre-Application Meeting With Terrapower, LLC (EPID L-2026-LRM-0012)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26071A162</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-04-07 12:55:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - NRC's Status Report on Declaring a National Energy Emergency</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26056A156</link>
-			<description>Status Report</description>
-			<author>NRC/Chairman</author>
-			<pubDate>2026-04-07 12:01:00</pubDate>
 		</item>
 	</channel>
 </rss>

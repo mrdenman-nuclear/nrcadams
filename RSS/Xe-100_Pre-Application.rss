@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Apr 2026 23:35:22 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Apr 2026 23:35:22 GMT</lastBuildDate>
+		<pubDate>Wed, 22 Apr 2026 15:12:05 GMT</pubDate>
+		<lastBuildDate>Wed, 22 Apr 2026 15:12:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Cover Letter_Final Safety Evaluation for X-energy Xe-100 Graphite Core Assembly Material Qualification and Design Methodologies TR, Rev 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26070A409</link>
-			<description>Letter</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-04-07 13:01:00</pubDate>
-		</item>
-		<item>
-			<title>Encl 2- PUBLIC - U.S. NRC Final Safety Evaluation for X-energy Xe-100  Graphite Core Assembly Material Qualification and Design Methodologies, TR Rev 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26090A451</link>
-			<description>Safety Evaluation Report</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2026-04-07 12:56:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

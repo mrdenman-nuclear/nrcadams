@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Apr 2026 23:35:23 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Apr 2026 23:35:23 GMT</lastBuildDate>
+		<pubDate>Wed, 22 Apr 2026 15:12:06 GMT</pubDate>
+		<lastBuildDate>Wed, 22 Apr 2026 15:12:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>License-Operator Examination Report</description>
 			<author>NRC/NRR/DANU/UNPO</author>
 			<pubDate>2026-04-10 12:08:00</pubDate>
-		</item>
-		<item>
-			<title>Acceptance of 10 CFR Part 55 Exemption Request for 5 Operators</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26086A186</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2026-04-07 12:55:00</pubDate>
-		</item>
-		<item>
-			<title>National Institute of Standards and Technology Part 55 Exemption Approval Letter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26086A084</link>
-			<description>Exemption from NRC Requirements, Letter</description>
-			<author>NRC/NRR/DANU/UNPL</author>
-			<pubDate>2026-04-07 12:00:00</pubDate>
 		</item>
 	</channel>
 </rss>
