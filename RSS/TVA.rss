@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 23 Apr 2026 17:20:01 GMT</pubDate>
-		<lastBuildDate>Thu, 23 Apr 2026 17:20:01 GMT</lastBuildDate>
+		<pubDate>Thu, 23 Apr 2026 19:09:13 GMT</pubDate>
+		<lastBuildDate>Thu, 23 Apr 2026 19:09:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Cable Coating Public Meeting Summary</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26112A028</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/RES/DRA</author>
+			<pubDate>2026-04-23 17:02:00</pubDate>
+		</item>
 		<item>
 			<title>Emerson April 21 2026 Iterim Part 21 Report - Includes April 17 and March 6 Letters</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26112A070</link>
@@ -213,13 +220,6 @@
 			<description>License-Fitness for Duty (FFD) Performance Report</description>
 			<author>Arizona Public Service Co</author>
 			<pubDate>2026-04-16 12:17:00</pubDate>
-		</item>
-		<item>
-			<title>TVA Fleet - Authorization of Proposed Alternative Request 25-ISI-1 to Use ASME Code Case N-752, "Risk-Informed Categorization and Treatment for Repair/Replacement Activities in Class 2 and 3 Systems, Section XI, Division 1" (EPID L-2025-LLR-0077)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075A110</link>
-			<description>Letter, Safety Evaluation</description>
-			<author>NRC/NRR/DORL/LPL2-2</author>
-			<pubDate>2026-04-16 12:16:00</pubDate>
 		</item>
 	</channel>
 </rss>
