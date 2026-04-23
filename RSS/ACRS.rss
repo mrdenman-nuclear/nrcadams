@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 22 Apr 2026 23:45:12 GMT</pubDate>
-		<lastBuildDate>Wed, 22 Apr 2026 23:45:12 GMT</lastBuildDate>
+		<pubDate>Thu, 23 Apr 2026 15:52:23 GMT</pubDate>
+		<lastBuildDate>Thu, 23 Apr 2026 15:52:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -80,20 +80,6 @@
 			<description>Meeting Transcript</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2026-04-01 15:05:00</pubDate>
-		</item>
-		<item>
-			<title>Lessons Learned From ACRS Reviews Of New Reactor Applications</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26069A573</link>
-			<description>Committee Letter Report, Letter</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-03-23 20:09:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - Clinch River TVA - SC - April 7, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26079A346</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-03-23 12:24:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 22 Apr 2026 23:45:11 GMT</pubDate>
-		<lastBuildDate>Wed, 22 Apr 2026 23:45:11 GMT</lastBuildDate>
+		<pubDate>Thu, 23 Apr 2026 15:52:22 GMT</pubDate>
+		<lastBuildDate>Thu, 23 Apr 2026 15:52:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>2026/04/09 Notice of Schedule Change Byproduct Material License Transfer LAR</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26099A293</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UNPL</author>
+			<pubDate>2026-04-23 12:42:00</pubDate>
+		</item>
+	</channel>
 </rss>
