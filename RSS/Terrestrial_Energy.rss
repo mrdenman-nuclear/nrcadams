@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 23 Apr 2026 15:52:28 GMT</pubDate>
-		<lastBuildDate>Thu, 23 Apr 2026 15:52:28 GMT</lastBuildDate>
+		<pubDate>Thu, 23 Apr 2026 17:20:01 GMT</pubDate>
+		<lastBuildDate>Thu, 23 Apr 2026 17:20:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>US Dept. of the Army, Installation Command - Programmatic Approach for Preparation of Site-Specific Environmental Radiation Monitoring Plans</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26084A374</link>
+			<description>Environmental Monitoring Report</description>
+			<author>US Dept of the Army, Installation Management Command</author>
+			<pubDate>2026-04-23 16:02:00</pubDate>
+		</item>
+		<item>
+			<title>US Dept of the Army, Installation Command - Bounding Calculations Using Resrad 7.0 and Resrad-Office 3.1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26084A376</link>
+			<description>Calculation</description>
+			<author>US Dept of the Army, Installation Management Command</author>
+			<pubDate>2026-04-23 16:01:00</pubDate>
+		</item>
 		<item>
 			<title>Orano Enrichment USA LLC, Redacted License Application Chapters 1-13, Rev. 0</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26086A380</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26103A150</link>
 			<description>Environmental Monitoring Report, Letter</description>
 			<author>Dominion Energy Nuclear Connecticut, Inc</author>
-			<pubDate>2026-04-21 12:48:00</pubDate>
-		</item>
-		<item>
-			<title>Millstone Power Station Units 1, 2, and 3, 2025 Annual Radioactive Effluent Release Report (RERR)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26103A150</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Dominion Energy Nuclear Connecticut, Inc</author>
-			<pubDate>2026-04-21 12:48:00</pubDate>
-		</item>
-		<item>
-			<title>Duane Arnold Restart Environmental Audit Summary with RCIs RAIs</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26085A711</link>
-			<description>Audit Report, Letter</description>
-			<author>NRC/NMSS/DREFS/EPMB1</author>
 			<pubDate>2026-04-21 12:48:00</pubDate>
 		</item>
 	</channel>
