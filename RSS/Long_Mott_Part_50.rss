@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 23 Apr 2026 23:45:17 GMT</pubDate>
-		<lastBuildDate>Thu, 23 Apr 2026 23:45:17 GMT</lastBuildDate>
+		<pubDate>Fri, 24 Apr 2026 15:11:40 GMT</pubDate>
+		<lastBuildDate>Fri, 24 Apr 2026 15:11:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2026/04/10 Project Long Mott Docs - RE RE Request for a artist rendering of the proposed Long Mott Generating Station</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26100A088</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2026-04-24 12:38:00</pubDate>
+		</item>
+		<item>
+			<title>2026/04/10 Project Long Mott Docs - Request for a artist rendering of the proposed Long Mott Generating Station</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26100A027</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2026-04-24 12:38:00</pubDate>
+		</item>
 		<item>
 			<title>Letter to the Atomic Safety and Licensing Board transmitting the NRC Staff's Hearing File and Mandatory Disclosure Update 001.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26111A409</link>
@@ -115,27 +129,6 @@
 			<description>Legal-Correspondence/Miscellaneous</description>
 			<author>Perales, Allmon and Ice, P.C., San Antonio Bay Estuarine Waterkeeper</author>
 			<pubDate>2026-04-10 14:28:00</pubDate>
-		</item>
-		<item>
-			<title>Memorandum and Order (Granting Extension of Time and Amending Protective Order)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26099A225</link>
-			<description>Legal-Order</description>
-			<author>NRC/ASLBP</author>
-			<pubDate>2026-04-09 19:10:00</pubDate>
-		</item>
-		<item>
-			<title>San Antonio Bay Estuarine Waterkeeper's Motion for Extension of Time to File Response Brief</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26098A373</link>
-			<description>Legal-Motion</description>
-			<author>Perales, Allmon and Ice, P.C., San Antonio Bay Estuarine Waterkeeper</author>
-			<pubDate>2026-04-09 14:31:00</pubDate>
-		</item>
-		<item>
-			<title>Joint Motion by Long Mott Energy, LLC and San Antonio Bay Estuarine Waterkeeper for Amended Protective Order</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26098A335</link>
-			<description>Legal-Pleading</description>
-			<author>Long Mott Energy, LLC, Morgan, Lewis and Bockius, LLP</author>
-			<pubDate>2026-04-09 12:13:00</pubDate>
 		</item>
 	</channel>
 </rss>

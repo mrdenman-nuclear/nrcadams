@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 23 Apr 2026 23:45:17 GMT</pubDate>
-		<lastBuildDate>Thu, 23 Apr 2026 23:45:17 GMT</lastBuildDate>
+		<pubDate>Fri, 24 Apr 2026 15:11:40 GMT</pubDate>
+		<lastBuildDate>Fri, 24 Apr 2026 15:11:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -108,27 +108,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2026-04-10 12:07:00</pubDate>
-		</item>
-		<item>
-			<title>Clinch River - Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26091A340</link>
-			<description>Legal-Affidavit</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-04-09 12:12:00</pubDate>
-		</item>
-		<item>
-			<title>Amendment to the Programmatic Agreement Between the Tennessee Valley Authority and the Tennessee State Historic Preservation Officer in Support of the Clinch River Nuclear Site Construction Permit Application Environmental Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26091A337</link>
-			<description>Letter</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-04-09 12:12:00</pubDate>
-		</item>
-		<item>
-			<title>Amendment: Programmatic Agreement Between the Tennessee Valley Authority and the Tennessee State Historic Preservation Officer</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26091A339</link>
-			<description>Agreement States</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-04-09 12:12:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 23 Apr 2026 23:45:25 GMT</pubDate>
-		<lastBuildDate>Thu, 23 Apr 2026 23:45:25 GMT</lastBuildDate>
+		<pubDate>Fri, 24 Apr 2026 15:11:47 GMT</pubDate>
+		<lastBuildDate>Fri, 24 Apr 2026 15:11:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -143,13 +143,6 @@
 			<description>General FR Notice Comment Letter</description>
 			<author>Infoton</author>
 			<pubDate>2026-04-10 12:08:00</pubDate>
-		</item>
-		<item>
-			<title>Summary Report and Certified Minutes for the 733rd Meeting of the Advisory Committee on Reactor Safeguards for March 5 Through 6  2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26084A573</link>
-			<description>ACRS Summary Report, Letter, Meeting Minutes, Meeting Summary</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-04-09 18:09:00</pubDate>
 		</item>
 	</channel>
 </rss>
