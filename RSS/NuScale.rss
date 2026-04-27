@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 Apr 2026 23:40:37 GMT</pubDate>
-		<lastBuildDate>Fri, 24 Apr 2026 23:40:37 GMT</lastBuildDate>
+		<pubDate>Mon, 27 Apr 2026 15:48:15 GMT</pubDate>
+		<lastBuildDate>Mon, 27 Apr 2026 15:48:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -101,20 +101,6 @@
 			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts</description>
 			<author>NRC/RES/DRA/HFRB</author>
 			<pubDate>2026-04-13 12:11:00</pubDate>
-		</item>
-		<item>
-			<title>RIC 2026 - Advanced Reactor Progress and Lessons Learned</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26100A011</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2026-04-10 14:28:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (1) of January Walker on SMR, LLC Pioneer Units 1 and 2 Limited Work Authorization Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26093A192</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>Infoton</author>
-			<pubDate>2026-04-10 12:08:00</pubDate>
 		</item>
 	</channel>
 </rss>

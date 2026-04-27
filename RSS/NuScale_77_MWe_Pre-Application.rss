@@ -5,53 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 Apr 2026 23:40:30 GMT</pubDate>
-		<lastBuildDate>Fri, 24 Apr 2026 23:40:30 GMT</lastBuildDate>
+		<pubDate>Mon, 27 Apr 2026 15:48:08 GMT</pubDate>
+		<lastBuildDate>Mon, 27 Apr 2026 15:48:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Response to NuScale Topical Report Audit Question No. A-ERO.LTR-08</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26089A372</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2026-04-10 14:28:00</pubDate>
-		</item>
-		<item>
-			<title>Response to NuScale Topical Report Audit Question No. A-ERO.LTR-12</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26089A376</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2026-04-10 14:28:00</pubDate>
-		</item>
-		<item>
-			<title>Response to NuScale Topical Report Audit Question No. A-ERO.LTR-09</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26089A373</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2026-04-10 14:28:00</pubDate>
-		</item>
-		<item>
-			<title>Response to NuScale Topical Report Audit Question No. A-ERO.LTR-13</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26089A377</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2026-04-10 14:28:00</pubDate>
-		</item>
-		<item>
-			<title>Response to NuScale Topical Report Audit Question No. A-ERO.LTR-11</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26089A375</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2026-04-10 14:28:00</pubDate>
-		</item>
-		<item>
-			<title>Response to NuScale Topical Report Audit Question No. A-ERO.LTR-10</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26089A374</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2026-04-10 14:28:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

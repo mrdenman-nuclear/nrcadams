@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 Apr 2026 23:40:31 GMT</pubDate>
-		<lastBuildDate>Fri, 24 Apr 2026 23:40:31 GMT</lastBuildDate>
+		<pubDate>Mon, 27 Apr 2026 15:48:09 GMT</pubDate>
+		<lastBuildDate>Mon, 27 Apr 2026 15:48:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2026-04-20 22:19:00</pubDate>
-		</item>
-		<item>
-			<title>04/20/2026 Armed Forces Radiobiology Research Institute Closed Phase Zero Meeting to Discuss a License Amendment to Increase Possession Limits</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26100A099</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-04-10 14:49:00</pubDate>
 		</item>
 	</channel>
 </rss>

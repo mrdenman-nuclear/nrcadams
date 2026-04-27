@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 Apr 2026 23:40:31 GMT</pubDate>
-		<lastBuildDate>Fri, 24 Apr 2026 23:40:31 GMT</lastBuildDate>
+		<pubDate>Mon, 27 Apr 2026 15:48:09 GMT</pubDate>
+		<lastBuildDate>Mon, 27 Apr 2026 15:48:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Annual Operating Report, Letter</description>
 			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
 			<pubDate>2026-04-21 12:48:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Confirmation Letter No. 50-184/OL-26-01, National Institute of Standards and Technology</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A107</link>
-			<description>License-Operator Examination Report</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2026-04-10 12:08:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 24 Apr 2026 23:40:30 GMT</pubDate>
-		<lastBuildDate>Fri, 24 Apr 2026 23:40:30 GMT</lastBuildDate>
+		<pubDate>Mon, 27 Apr 2026 15:48:09 GMT</pubDate>
+		<lastBuildDate>Mon, 27 Apr 2026 15:48:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -94,20 +94,6 @@
 			<description>Letter</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2026-04-13 14:38:00</pubDate>
-		</item>
-		<item>
-			<title>2026/03/20 Clinch River CP Env Docs - [External_Sender] Amendment to the Programmatic Agreement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26086A405</link>
-			<description>E-Mail</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2026-04-10 12:07:00</pubDate>
-		</item>
-		<item>
-			<title>2026/03/27 Clinch River CP Env Docs - FW Clinch River Unit 1 Amendment to the Programmatic Agreement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26086A406</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-04-10 12:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
