@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 27 Apr 2026 23:54:21 GMT</pubDate>
-		<lastBuildDate>Mon, 27 Apr 2026 23:54:21 GMT</lastBuildDate>
+		<pubDate>Tue, 28 Apr 2026 16:12:07 GMT</pubDate>
+		<lastBuildDate>Tue, 28 Apr 2026 16:12:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>MACCS2 Uncertainty Analysis of Early Exposure Results</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26117A178</link>
+			<description>Technical Paper</description>
+			<author>Sandia National Labs (SNL)</author>
+			<pubDate>2026-04-28 14:17:00</pubDate>
+		</item>
 		<item>
 			<title>Belews Creek Final Environmental Audit Plan</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26107A019</link>
@@ -24,13 +31,6 @@
 			<description>Regulatory Guide, Rulemaking- Final Rule</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2026-04-21 17:24:00</pubDate>
-		</item>
-		<item>
-			<title>SAND2026-19267, Quantitative Evaluation of Potassium Iodide Implementation Strategies for Emergency Preparedness and Response</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26097A248</link>
-			<description>Emergency Preparedness-Emergency Plan, Report, Technical</description>
-			<author>Sandia National Labs (SNL)</author>
-			<pubDate>2026-04-20 12:54:00</pubDate>
 		</item>
 	</channel>
 </rss>

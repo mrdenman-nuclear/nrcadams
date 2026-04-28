@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 27 Apr 2026 23:54:20 GMT</pubDate>
-		<lastBuildDate>Mon, 27 Apr 2026 23:54:20 GMT</lastBuildDate>
+		<pubDate>Tue, 28 Apr 2026 16:12:05 GMT</pubDate>
+		<lastBuildDate>Tue, 28 Apr 2026 16:12:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -101,13 +101,6 @@
 			<description>General FR Notice Comment Letter</description>
 			<author>CPAC Foundation Center for Regulatory Freedom</author>
 			<pubDate>2026-04-16 12:16:00</pubDate>
-		</item>
-		<item>
-			<title>Clinch River Nuclear Site Construction Permit Application, Preliminary Safety Analysis Report Changes (Public Version)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26007A165</link>
-			<description>License-Application for Construction Permit DKT 50, Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-04-13 17:33:00</pubDate>
 		</item>
 	</channel>
 </rss>

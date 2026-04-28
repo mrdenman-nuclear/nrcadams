@@ -5,25 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 27 Apr 2026 23:54:20 GMT</pubDate>
-		<lastBuildDate>Mon, 27 Apr 2026 23:54:20 GMT</lastBuildDate>
+		<pubDate>Tue, 28 Apr 2026 16:12:05 GMT</pubDate>
+		<lastBuildDate>Tue, 28 Apr 2026 16:12:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>656004 Cover Letter for Acuren Inspection, Inc. to License No. 22-27593-01</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26113A026</link>
+			<description>Letter</description>
+			<author>NRC/RGN-III</author>
+			<pubDate>2026-04-28 13:00:00</pubDate>
+		</item>
 		<item>
 			<title>NUREG-2249, "Generic Environmental Impact Statement for Licensing of New Nuclear Reactors" Final Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25324A130</link>
 			<description>Environmental Impact Statement, NUREG</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2026-04-14 13:38:00</pubDate>
-		</item>
-		<item>
-			<title>658325 Deemed Timely Letter for Acuren Inspection, Inc., License No. 22-27593-01</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26097A409</link>
-			<description>Letter</description>
-			<author>NRC/RGN-III</author>
-			<pubDate>2026-04-13 12:11:00</pubDate>
 		</item>
 	</channel>
 </rss>
