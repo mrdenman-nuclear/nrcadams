@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 28 Apr 2026 23:55:00 GMT</pubDate>
-		<lastBuildDate>Tue, 28 Apr 2026 23:55:00 GMT</lastBuildDate>
+		<pubDate>Wed, 29 Apr 2026 15:57:49 GMT</pubDate>
+		<lastBuildDate>Wed, 29 Apr 2026 15:57:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Memorandum and Order (Establishing Deadline for Proposing Redactions)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26118B765</link>
+			<description>Legal-Order</description>
+			<author>NRC/ASLBP</author>
+			<pubDate>2026-04-29 13:16:00</pubDate>
+		</item>
+		<item>
+			<title>2026/03/13 Project Long Mott Docs - X-energy - Request for Withholding Information from Public Disclosure Regulatory Engagement Plan 2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26105A076</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2026-04-29 13:15:00</pubDate>
+		</item>
+		<item>
+			<title>2026/03/13 Project Long Mott Docs - Long Mott Energy - Request for Withholding Information from Public Disclosure - Supplement #1 to Part I of the LMGS CP Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26105A753</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2026-04-29 13:15:00</pubDate>
+		</item>
 		<item>
 			<title>Redacted Waterkeeper Motion for Leave to Amend Contention 3B</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26117A385</link>
@@ -115,34 +136,6 @@
 			<description>Legal-Pleading</description>
 			<author>Long Mott Energy, LLC, Morgan, Lewis and Bockius, LLP</author>
 			<pubDate>2026-04-15 14:05:00</pubDate>
-		</item>
-		<item>
-			<title>San Antonio Bay Estuarine Waterkeeper's Motion to Permit Correction of Filing</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26104A224</link>
-			<description>Legal-Motion</description>
-			<author>Perales, Allmon and Ice, P.C., San Antonio Bay Estuarine Waterkeeper</author>
-			<pubDate>2026-04-14 19:50:00</pubDate>
-		</item>
-		<item>
-			<title>Memorandum and Order (Correcting February 26, 2026, Prehearing Conference Transcript)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26104A152</link>
-			<description>Legal-Order</description>
-			<author>NRC/ASLBP</author>
-			<pubDate>2026-04-14 16:25:00</pubDate>
-		</item>
-		<item>
-			<title>Memorandum and Order (Denying Petitioner's December 31, 2025 Motion to Add a New Contention 6 and Amend Contention 4)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26103A283</link>
-			<description>Legal-Order</description>
-			<author>NRC/ASLBP</author>
-			<pubDate>2026-04-14 13:38:00</pubDate>
-		</item>
-		<item>
-			<title>2026/03/31 Project Long Mott Docs - RE FW Nearest resident Section 2.52.9 vs Chapter 5</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26090A056</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-04-14 12:14:00</pubDate>
 		</item>
 	</channel>
 </rss>

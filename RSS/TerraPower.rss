@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 28 Apr 2026 23:55:05 GMT</pubDate>
-		<lastBuildDate>Tue, 28 Apr 2026 23:55:05 GMT</lastBuildDate>
+		<pubDate>Wed, 29 Apr 2026 15:57:54 GMT</pubDate>
+		<lastBuildDate>Wed, 29 Apr 2026 15:57:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -157,13 +157,6 @@
 			<description>Graphics incl Charts and Tables, Report, Miscellaneous</description>
 			<author>NRC/OE</author>
 			<pubDate>2026-04-15 15:15:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-2249, "Generic Environmental Impact Statement for Licensing of New Nuclear Reactors" Final Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25324A130</link>
-			<description>Environmental Impact Statement, NUREG</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2026-04-14 13:38:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 28 Apr 2026 23:55:06 GMT</pubDate>
-		<lastBuildDate>Tue, 28 Apr 2026 23:55:06 GMT</lastBuildDate>
+		<pubDate>Wed, 29 Apr 2026 15:57:55 GMT</pubDate>
+		<lastBuildDate>Wed, 29 Apr 2026 15:57:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Grand Gulf Nuclear Station, Unit 1, Annual Radioactive Effluent Release Report (ARERR)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26111A110</link>
+			<description>Environmental Monitoring Report, Letter</description>
+			<author>Entergy Operations, Inc</author>
+			<pubDate>2026-04-29 13:15:00</pubDate>
+		</item>
+	</channel>
 </rss>
