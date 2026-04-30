@@ -6,11 +6,12 @@ some reports. The results presented here should be interpreted with
 these limitations.
 
 This page is updated Monday through Friday, hourly between 9AM ET and 5
-PM ET. The last update was at 2026-04-29 19:58:25.916386 ET.
+PM ET. The last update was at 2026-04-30 15:16:48.205161 ET.
 
 ## Pulling Advanced Reactor Docket Files
 
 ``` r
+
 combined_dockets <- nrcadams::docket_codex |>
   dplyr::pull(DocketNumber) |>
   nrcadams::search_docket() |>
@@ -36,6 +37,7 @@ a plot (i.e., \> 180). As a result, the Type field is binned to
 facilitate a bar plot of various reactor applications.
 
 ``` r
+
 library(ggplot2)
 docket_types = combined_dockets |>
   dplyr::mutate(
@@ -67,6 +69,7 @@ plt |> plotly::ggplotly(tooltip = c("Type", "count"))
 The same data can also be plotted with the bars unstacked.
 
 ``` r
+
 plt = docket_types |>
   dplyr::mutate(Type = factor(Type, levels = type_count |> dplyr::pull(Type))) |>
   ggplot() +
@@ -97,6 +100,7 @@ function.** By clicking on a project name in the legend, you can remove
 that project from the plot to better focus on the remaining projects.
 
 ``` r
+
 plot_min_date = "2020-01-01" |> lubridate::ymd()
 
 grouped_dockets = combined_dockets |>
@@ -138,12 +142,14 @@ plt = grouped_dockets |>
 The data in linear scale:
 
 ``` r
+
 plt |> plotly::ggplotly()
 ```
 
 The data in a y axis semi log scale:
 
 ``` r
+
 plt = plt + scale_y_log10() 
 plt |> plotly::ggplotly()
 ```
@@ -160,6 +166,7 @@ is happening in each docket, the y-axis is allowed to rescale to each
 docket. This can make comparing dockets difficult.**
 
 ``` r
+
 
 grouped_project_type <-  combined_dockets |>
   nrcadams::simplify_type() |>
@@ -206,6 +213,7 @@ By clicking on a project name in the legend, you can remove that project
 from the plot to better focus on the remaining projects.
 
 ``` r
+
 smoothed_grouped_dockets = combined_dockets |>
   dplyr::arrange(`Publish Date`) |>
   dplyr::mutate(
@@ -268,6 +276,7 @@ pinpoint the trend of any given docket. Facet plots can separate out any
 given docket to more easily decipher trends.
 
 ``` r
+
 facet_dockets =  smoothed_grouped_dockets |>
   dplyr::mutate(
     Project = dplyr::case_when(
@@ -329,6 +338,7 @@ summary statistics can be computed to compare the state of various
 dockets at a glance.
 
 ``` r
+
 seconds_per_year = 365 * 24 *60 *60
 smoothed_grouped_dockets |>
   dplyr::group_by(Project) |>
@@ -347,7 +357,7 @@ smoothed_grouped_dockets |>
 This section is updated once a day and presents the Topical Reports,
 Technical Reports, Environmental Reports, and Safety Evaluations
 available on new reactor dockets. The last update was at 2026-04-30
-00:00:04.641163. The following dockets are searched:
+19:18:28.938428. The following dockets are searched:
 
 - MSRR Pre-Application
 - MSRR Part 50
@@ -388,6 +398,7 @@ available on new reactor dockets. The last update was at 2026-04-30
 The following table summarizes tagged Topical Reports.
 
 ``` r
+
 Topicals = combined_dockets |>
   nrcadams::remove_noisy_files("Topical Report")
 
@@ -404,6 +415,7 @@ Topicals |>
 The following table summarizes tagged Technical Reports.
 
 ``` r
+
 Technicals = combined_dockets |>
   nrcadams::remove_noisy_files("Technical")
 
@@ -420,6 +432,7 @@ Technicals |>
 The following table summarizes tagged Environmental Reports.
 
 ``` r
+
 Environmental = combined_dockets |>
   nrcadams::remove_noisy_files("Environmental")
 
@@ -436,6 +449,7 @@ Environmental |>
 The following table summarizes tagged Safety Analysis Reports.
 
 ``` r
+
 Safety_Analysis = combined_dockets |>
   nrcadams::remove_noisy_files("Safety Analysis")
 
@@ -452,6 +466,7 @@ Safety_Analysis |>
 The following table summarizes tagged Safety Evaluations Reports.
 
 ``` r
+
 Safety_Evaluation = combined_dockets |>
   nrcadams::remove_noisy_files("Safety Evaluation")
 

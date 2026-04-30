@@ -2,7 +2,7 @@
 
 This page is updated Monday through Friday, hourly between 9AM ET and 5
 PM ET. It presents RSS files for the various dockets tracked by the
-`nrcadams` package. The last update was at 2026-04-29 20:00:17.744777
+`nrcadams` package. The last update was at 2026-04-30 15:19:00.468731
 ET.
 
 ## Using the RSS Feeds
@@ -25,13 +25,14 @@ The RSS files generated on this page and updated by this site are
 located at the URLs shown in the table below.
 
 ``` r
+
 last_week_in_dockets = nrcadams::docket_codex |>
   dplyr::pull(DocketNumber) |>
   nrcadams::search_docket(days_back = 14) |>
   dplyr::left_join(nrcadams::docket_codex) |>
   dplyr::filter(!is.na(Project))
 #> 
-#>  This search returned: 60 files.
+#>  This search returned: 68 files.
 #> Joining with `by = join_by(DocketNumber)`
 
 
@@ -108,6 +109,7 @@ And if you are more interested in tracking RTRs (no reason in
 particular), these RSS files might help.
 
 ``` r
+
 last_week_in_RTRs <- nrcadams::RTR_docket_codex |>
   dplyr::pull(DocketNumber) |>
   nrcadams::search_docket(days_back = 14)
@@ -183,6 +185,7 @@ nrcadams::RTR_docket_codex |>
 ## ACRS
 
 ``` r
+
 ACRS <- nrcadams::search_values(
   days_back = 30,
   author_affiliation = "NRC/ACRS",
@@ -217,6 +220,7 @@ docket? This list of RSS files searches for a company name that is not
 also tagged with a docket number associated with that company.
 
 ``` r
+
 
 toobigtotrack <- c("Holtec", "GE", "Westinghouse")
 
@@ -376,6 +380,7 @@ nrcadams::docket_codex |>
     #> ! NAs introduced by coercion
 
 ``` r
+
 code_search |>
   dplyr::mutate(
     `RSS File` = paste0(

@@ -1,16 +1,17 @@
 # Last Week in Dockets
 
 This page is updated Monday through Friday, hourly between 9AM ET and 5
-PM ET. The last update was at 2026-04-29 20:00:32.281358 ET.
+PM ET. The last update was at 2026-04-30 15:19:14.300992 ET.
 
 ``` r
+
 last_week_in_dockets <- nrcadams::docket_codex |>
   dplyr::pull(DocketNumber) |>
   nrcadams::search_docket(days_back = 7) |>
   dplyr::left_join(nrcadams::docket_codex) |>
   dplyr::filter(!is.na(Project))
 #> 
-#>  This search returned: 27 files.
+#>  This search returned: 35 files.
 #> Joining with `by = join_by(DocketNumber)`
 
 build_html_table <- function(docket_tbl, LWR) {
@@ -42,6 +43,7 @@ docket_count |>
 ```
 
 ``` r
+
 library(ggplot2)
 library(plotly)
 #> 
@@ -103,6 +105,7 @@ dockets:
 - Natura Pre-Application
 
 ``` r
+
 last_week_in_dockets |> 
   build_html_table(LWR = FALSE)
 ```
@@ -124,6 +127,7 @@ dockets:
 - BWRX-300 Clinch River Part 50
 
 ``` r
+
 last_week_in_dockets |> 
   build_html_table(LWR = TRUE)
 ```

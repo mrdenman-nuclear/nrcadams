@@ -16,6 +16,7 @@ to the pre-application docket if the information would support future
 licensing submittals.
 
 ``` r
+
 nrcadams::docket_codex |>
   DT::datatable(
     caption = "Exported Docket Numbers in the `nrcadams` Package.",
@@ -36,6 +37,7 @@ To keep up-to-date with TerraPower’s Natrium license, it is best to
 search through both the pre-application and docketed information.
 
 ``` r
+
 nrcadams::docket_codex |>
   dplyr::filter(Company == "TerraPower") |>
   dplyr::pull(DocketNumber) |>
@@ -48,7 +50,7 @@ nrcadams::docket_codex |>
     escape = FALSE
   )
 #> 
-#>  This search returned: 53 files.
+#>  This search returned: 55 files.
 ```
 
 ## Filtering a Docket for Actual Information
@@ -62,6 +64,7 @@ simpler to use the
 filter on the returned results.
 
 ``` r
+
 nrcadams::docket_codex |>
   dplyr::filter(Company == "X-Energy") |>
   dplyr::pull(DocketNumber) |>
@@ -78,5 +81,5 @@ nrcadams::docket_codex |>
     escape = FALSE
   )
 #> 
-#>  This search returned: 39 files.
+#>  This search returned: 44 files.
 ```

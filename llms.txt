@@ -17,6 +17,7 @@ using base R pipes, so versions of R greater than 4.1 are required.
 Please install this package using `remotes`:
 
 ``` r
+
 remotes::install_github("mrdenman-nuclear/nrcadams")
 ```
 
@@ -32,6 +33,7 @@ The function outputs a tibble of results including URLs to the
 documents.
 
 ``` r
+
 ACU_MSRR <- c(99902088, 05000610)
 ACU_MSRR |>
   nrcadams::search_docket(
