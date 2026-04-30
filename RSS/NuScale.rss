@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 29 Apr 2026 22:05:31 GMT</pubDate>
-		<lastBuildDate>Wed, 29 Apr 2026 22:05:31 GMT</lastBuildDate>
+		<pubDate>Thu, 30 Apr 2026 00:00:25 GMT</pubDate>
+		<lastBuildDate>Thu, 30 Apr 2026 00:00:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,13 +73,6 @@
 			<description>Status Report</description>
 			<author>NRC/Chairman</author>
 			<pubDate>2026-04-16 12:15:00</pubDate>
-		</item>
-		<item>
-			<title>Draft Interim Staff Guidance - DANU-ISG-2026-0X EO14300 5d - Concurrence Copy 030926</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25363A192</link>
-			<description>Guidance Document</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-04-15 18:54:00</pubDate>
 		</item>
 	</channel>
 </rss>

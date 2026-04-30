@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 29 Apr 2026 22:05:26 GMT</pubDate>
-		<lastBuildDate>Wed, 29 Apr 2026 22:05:26 GMT</lastBuildDate>
+		<pubDate>Thu, 30 Apr 2026 00:00:18 GMT</pubDate>
+		<lastBuildDate>Thu, 30 Apr 2026 00:00:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,41 +17,6 @@
 			<description>Federal Register Notice</description>
 			<author>NRC/NRR/DANU/UNPL</author>
 			<pubDate>2026-04-21 18:50:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Univ of Illinois - Urbana - Champaign - Preliminary Safety Analysis Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26090A467</link>
-			<description>License-Application for Construction Permit DKT 50, Preliminary Safety Analysis Report (PSAR)</description>
-			<author>NANO Nuclear Energy, Inc, Univ of Illinois - Urbana - Champaign</author>
-			<pubDate>2026-04-15 12:04:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 5: Univ of Illinois - Urbana - Champaign - Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26090A469</link>
-			<description>Legal-Affidavit</description>
-			<author>NANO Nuclear Energy, Inc, Univ of Illinois - Urbana - Champaign</author>
-			<pubDate>2026-04-15 12:03:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 4: Univ of Illinois - Urbana - Champaign - Environmental Report, Rev. 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26090A468</link>
-			<description>Environmental Report, License-Application for Construction Permit DKT 50</description>
-			<author>NANO Nuclear Energy, Inc, Univ of Illinois - Urbana - Champaign</author>
-			<pubDate>2026-04-15 12:03:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of a Construction Permit Application for the University of Illinois Urbana-Champaign Research Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26090A464</link>
-			<description>Letter, License-Application for Construction Permit DKT 50</description>
-			<author>Univ of Illinois - Urbana - Champaign</author>
-			<pubDate>2026-04-15 12:03:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: General Info - Univ of Illinois - Urbana - Champaign - Application for Construction Permit DKT 50</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26090A465</link>
-			<description>License-Application for Construction Permit DKT 50</description>
-			<author>Univ of Illinois - Urbana - Champaign</author>
-			<pubDate>2026-04-15 12:03:00</pubDate>
 		</item>
 	</channel>
 </rss>
