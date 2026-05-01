@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 01 May 2026 14:54:19 GMT</pubDate>
-		<lastBuildDate>Fri, 01 May 2026 14:54:19 GMT</lastBuildDate>
+		<pubDate>Fri, 01 May 2026 15:57:23 GMT</pubDate>
+		<lastBuildDate>Fri, 01 May 2026 15:57:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NUREG-2271 DFC, "Guidelines for Preparing and Reviewing Applications Under 10 CFR Part 57"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26111A077</link>
+			<description>NUREG, Rulemaking- Proposed Rule</description>
+			<author>NRC/NRR</author>
+			<pubDate>2026-05-01 15:22:00</pubDate>
+		</item>
 		<item>
 			<title>Peach Bottom Atomic Power Station, Units 1, 2 and 3, Annual Radiological Effluent Release Report 68 for 2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26119A021</link>
@@ -199,13 +206,6 @@
 			<description>Status Report</description>
 			<author>NRC/Chairman</author>
 			<pubDate>2026-04-28 15:37:00</pubDate>
-		</item>
-		<item>
-			<title>LaSalle County Station, Units 1 and 2 - 2025 Annual Radioactive Effluent Release Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26114A013</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2026-04-27 15:18:00</pubDate>
 		</item>
 		<item>
 			<title>LaSalle County Station, Units 1 and 2 - 2025 Annual Radioactive Effluent Release Report</title>
