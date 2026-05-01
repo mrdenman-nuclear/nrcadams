@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 30 Apr 2026 23:55:28 GMT</pubDate>
-		<lastBuildDate>Thu, 30 Apr 2026 23:55:28 GMT</lastBuildDate>
+		<pubDate>Fri, 01 May 2026 14:54:15 GMT</pubDate>
+		<lastBuildDate>Fri, 01 May 2026 14:54:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Purdue University - U.S. Nuclear Regulatory Commission Safety Inspection Report 05000182/2026201, and Notice of Violation</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26118B366</link>
+			<description>Inspection Report, Letter, Notice of Violation</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2026-05-01 12:54:00</pubDate>
+		</item>
+	</channel>
 </rss>

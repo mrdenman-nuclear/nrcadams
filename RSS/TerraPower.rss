@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 30 Apr 2026 23:55:32 GMT</pubDate>
-		<lastBuildDate>Thu, 30 Apr 2026 23:55:32 GMT</lastBuildDate>
+		<pubDate>Fri, 01 May 2026 14:54:19 GMT</pubDate>
+		<lastBuildDate>Fri, 01 May 2026 14:54:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2026/04/20 - Comment (3) E-mail regarding Fermi America EIS Scoping</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26111A007</link>
+			<description>General FR Notice Comment Letter</description>
+			<author>Public Commenter</author>
+			<pubDate>2026-05-01 12:53:00</pubDate>
+		</item>
 		<item>
 			<title>Nuclear Regulatory Commission Inspection Report of US SFR Owner, LLC, No. 05000613/2026201</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26106A057</link>
@@ -115,27 +122,6 @@
 			<description>Site Safety Analysis Report (SSAR)</description>
 			<author>Duke Energy Carolinas, LLC</author>
 			<pubDate>2026-04-17 12:17:00</pubDate>
-		</item>
-		<item>
-			<title>Regulatory Information Conference Commissioner David Wright-Transcript-2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26103A050</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Transcript</description>
-			<author>NRC/OCM/DAW</author>
-			<pubDate>2026-04-16 12:17:00</pubDate>
-		</item>
-		<item>
-			<title>Letter - Kemmerer Advanced Reactor Construction Oversight Program Plan</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26091A236</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UARP</author>
-			<pubDate>2026-04-16 12:16:00</pubDate>
-		</item>
-		<item>
-			<title>First Quarter Fiscal Year 2026 Report on Licensing Activities and Regulatory Duties for the Reporting Period of October 1, 2025, through December 31, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075E224</link>
-			<description>Status Report</description>
-			<author>NRC/Chairman</author>
-			<pubDate>2026-04-16 12:15:00</pubDate>
 		</item>
 	</channel>
 </rss>

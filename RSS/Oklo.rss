@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 30 Apr 2026 23:55:32 GMT</pubDate>
-		<lastBuildDate>Thu, 30 Apr 2026 23:55:32 GMT</lastBuildDate>
+		<pubDate>Fri, 01 May 2026 14:54:19 GMT</pubDate>
+		<lastBuildDate>Fri, 01 May 2026 14:54:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,41 +66,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2026-04-17 20:20:00</pubDate>
-		</item>
-		<item>
-			<title>01/22/2026 Summary Pre-Application Meeting With Oklo, Inc., to Discuss Physical Security of Special Nuclear Material at its Planned Reprocessing Facility in Oak Ridge Tennessee</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26070A133</link>
-			<description>Memoranda</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2026-04-16 12:17:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - List of Attendees</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26070A049</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2026-04-16 12:17:00</pubDate>
-		</item>
-		<item>
-			<title>SECY-26-0056: Weekly Information Report Week Ending April 10, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26105A075</link>
-			<description>Commission SECY Paper</description>
-			<author>NRC/EDO/AO</author>
-			<pubDate>2026-04-16 12:17:00</pubDate>
-		</item>
-		<item>
-			<title>Summary Of January 22, 2026, Pre-Licensing Meeting With Oklo, Inc.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26070A136</link>
-			<description></description>
-			<author></author>
-			<pubDate>2026-04-16 12:15:00</pubDate>
-		</item>
-		<item>
-			<title>First Quarter Fiscal Year 2026 Report on Licensing Activities and Regulatory Duties for the Reporting Period of October 1, 2025, through December 31, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075E224</link>
-			<description>Status Report</description>
-			<author>NRC/Chairman</author>
-			<pubDate>2026-04-16 12:15:00</pubDate>
 		</item>
 	</channel>
 </rss>
