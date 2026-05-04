@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 01 May 2026 23:50:23 GMT</pubDate>
-		<lastBuildDate>Fri, 01 May 2026 23:50:23 GMT</lastBuildDate>
+		<pubDate>Mon, 04 May 2026 16:02:19 GMT</pubDate>
+		<lastBuildDate>Mon, 04 May 2026 16:02:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -101,27 +101,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2026-04-21 17:24:00</pubDate>
-		</item>
-		<item>
-			<title>San Antonio Bay Estuarine Waterkeeper's Redacted Motion for Leave to File New Contention 3C</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26106A364</link>
-			<description>Legal-Motion</description>
-			<author>Perales, Allmon and Ice, P.C., San Antonio Bay Estuarine Waterkeeper</author>
-			<pubDate>2026-04-17 14:05:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Supplemental Information to Support the Maximum Hypothetical Accident Analysis in Support of an Early Site Permit Application for the Duke Energy Belews Creek, NC Site</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26099A321</link>
-			<description>Site Safety Analysis Report (SSAR)</description>
-			<author>Duke Energy Carolinas, LLC</author>
-			<pubDate>2026-04-17 12:17:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Supplemental Information to Support the Maximum Hypothetical Accident Analysis in Support of an Early Site Permit Application for the Duke Energy Belews Creek, NC Site</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26099A321</link>
-			<description>Site Safety Analysis Report (SSAR)</description>
-			<author>Duke Energy Carolinas, LLC</author>
-			<pubDate>2026-04-17 12:17:00</pubDate>
 		</item>
 	</channel>
 </rss>
