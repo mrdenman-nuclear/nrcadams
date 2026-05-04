@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 04 May 2026 16:02:23 GMT</pubDate>
-		<lastBuildDate>Mon, 04 May 2026 16:02:23 GMT</lastBuildDate>
+		<pubDate>Mon, 04 May 2026 17:38:04 GMT</pubDate>
+		<lastBuildDate>Mon, 04 May 2026 17:38:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>IMC 2515 App D, Plant Status</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25345A273</link>
+			<description>Inspection Manual</description>
+			<author>NRC/NRR/DRO/IRIB</author>
+			<pubDate>2026-05-04 16:59:00</pubDate>
+		</item>
 		<item>
 			<title>Quad Cities Nuclear Power Station, Units 1 and 2 - Radioactive Effluent Release Report for 2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26120A183</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26113A237</link>
 			<description>Letter, Occupational Exposure Record</description>
 			<author>Pacific Gas and Electric Co</author>
-			<pubDate>2026-05-01 12:54:00</pubDate>
-		</item>
-		<item>
-			<title>IP 71111.21T Engr Sfty Perf Inspection</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26097A434</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRIB</author>
 			<pubDate>2026-05-01 12:54:00</pubDate>
 		</item>
 	</channel>
