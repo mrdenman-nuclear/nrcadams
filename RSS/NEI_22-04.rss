@@ -5,12 +5,47 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 04 May 2026 23:53:41 GMT</pubDate>
-		<lastBuildDate>Mon, 04 May 2026 23:53:41 GMT</lastBuildDate>
+		<pubDate>Tue, 05 May 2026 19:20:24 GMT</pubDate>
+		<lastBuildDate>Tue, 05 May 2026 19:20:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SECY-26-0061: Weekly Information Report Week Ending April 24, 2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26120A261</link>
+			<description>Commission SECY Paper</description>
+			<author>NRC/EDO/AO</author>
+			<pubDate>2026-05-05 18:33:00</pubDate>
+		</item>
+		<item>
+			<title>TLR-RES-DE-REB-2026-09</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26120A199</link>
+			<description>Report, Technical</description>
+			<author>Idaho National Lab, NRC/RES/DE, Oak Ridge National Lab (ORNL)</author>
+			<pubDate>2026-05-05 16:12:00</pubDate>
+		</item>
+		<item>
+			<title>Oyster Creek Nuclear Generating Station - Annual Radiological Environmental Operating Report for 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26117A138</link>
+			<description>Environmental Monitoring Report, Letter</description>
+			<author>Holtec Decommissioning International, LLC, Holtec International</author>
+			<pubDate>2026-05-05 13:22:00</pubDate>
+		</item>
+		<item>
+			<title>South Texas Project, Units 1 and 2 - 2025 Annual Environment Operating Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26117A383</link>
+			<description>Environmental Monitoring Report, Letter</description>
+			<author>South Texas Project Nuclear Operating Co</author>
+			<pubDate>2026-05-05 13:22:00</pubDate>
+		</item>
+		<item>
+			<title>South Texas Project, Units 1 and 2 - 2025 Annual Environment Operating Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26117A383</link>
+			<description>Environmental Monitoring Report, Letter</description>
+			<author>South Texas Project Nuclear Operating Co</author>
+			<pubDate>2026-05-05 13:22:00</pubDate>
+		</item>
 		<item>
 			<title>IMC 2515 App D, Plant Status</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25345A273</link>
@@ -185,41 +220,6 @@
 			<description>Inspection Manual</description>
 			<author>NRC/NRR/DRO/IRIB</author>
 			<pubDate>2026-05-01 12:55:00</pubDate>
-		</item>
-		<item>
-			<title>IP 71111.13 Maintenance Risk Assessment & Emergent Work Control</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25357A217</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRIB</author>
-			<pubDate>2026-05-01 12:55:00</pubDate>
-		</item>
-		<item>
-			<title>IP 71111.05 Fire Protection</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25350C361</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRIB</author>
-			<pubDate>2026-05-01 12:55:00</pubDate>
-		</item>
-		<item>
-			<title>IP 71152 Problem Identification and Resolution (PI&R)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26035A438</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NRR/DRO/IRIB</author>
-			<pubDate>2026-05-01 12:55:00</pubDate>
-		</item>
-		<item>
-			<title>Diablo Canyon, Units 1 and 2 - Annual Report of Occupational Radiation Exposure for 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26113A237</link>
-			<description>Letter, Occupational Exposure Record</description>
-			<author>Pacific Gas and Electric Co</author>
-			<pubDate>2026-05-01 12:54:00</pubDate>
-		</item>
-		<item>
-			<title>Diablo Canyon, Units 1 and 2 - Annual Report of Occupational Radiation Exposure for 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26113A237</link>
-			<description>Letter, Occupational Exposure Record</description>
-			<author>Pacific Gas and Electric Co</author>
-			<pubDate>2026-05-01 12:54:00</pubDate>
 		</item>
 	</channel>
 </rss>

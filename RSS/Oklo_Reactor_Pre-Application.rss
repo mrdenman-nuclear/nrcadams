@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 04 May 2026 23:53:33 GMT</pubDate>
-		<lastBuildDate>Mon, 04 May 2026 23:53:33 GMT</lastBuildDate>
+		<pubDate>Tue, 05 May 2026 19:20:17 GMT</pubDate>
+		<lastBuildDate>Tue, 05 May 2026 19:20:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure - Oklo Inc. - Final Safety Evaluation for Topical Report Oklo-2025-RX-R012-P, "Principal Design Criteria for the Aurora Powerhouse," Revision 1 (EPID L-2025-TOP-0028)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26086A304</link>
+			<description>Safety Evaluation</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2026-05-05 13:22:00</pubDate>
+		</item>
+		<item>
+			<title>Letter - Oklo Inc. - Final Safety Evaluation for Topical Report Oklo-2025-RX-R012-P, "Principal Design Criteria for the Aurora Powerhouse," Revision 1 (EPID L-2025-TOP-0028)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26086A285</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2026-05-05 13:22:00</pubDate>
+		</item>
 		<item>
 			<title>Revised Resource Estimate for Review of Oklo Topical Report "Principal Design Criteria for the Aurora Powerhouse," Revision 0 (EPID L-2025-TOP-0028)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26114A387</link>
@@ -31,13 +45,6 @@
 			<description>Audit Report, Letter</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2026-04-27 12:39:00</pubDate>
-		</item>
-		<item>
-			<title>05/07/2026 Pre-application meeting with Oklo to discuss development of thier inservice inspection program</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26107A065</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-04-20 14:25:00</pubDate>
 		</item>
 	</channel>
 </rss>

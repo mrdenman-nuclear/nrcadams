@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 04 May 2026 23:53:33 GMT</pubDate>
-		<lastBuildDate>Mon, 04 May 2026 23:53:33 GMT</lastBuildDate>
+		<pubDate>Tue, 05 May 2026 19:20:16 GMT</pubDate>
+		<lastBuildDate>Tue, 05 May 2026 19:20:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2026/04/21 Project Long Mott Docs - Long Mott Energy, LLC, Long Mott Generating Station Site Audit Summary Report, dated March 30, 2026 ML26075A148</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26111A005</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2026-05-05 13:22:00</pubDate>
+		</item>
 		<item>
 			<title>Memorandum and Order (Scheduling Closed Prehearing Conference)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26120A530</link>
@@ -108,27 +115,6 @@
 			<description>Legal-Hearing File</description>
 			<author>NRC/OGC</author>
 			<pubDate>2026-04-22 16:25:00</pubDate>
-		</item>
-		<item>
-			<title>Agenda - Long Mott Generating Station Xe-100 Power Reactor Construction Permit Application - SC - May 5 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26110A312</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-04-20 20:40:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Energy LLC Conditional Motion for Leave to File a Limited Reply</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26107A259</link>
-			<description>Legal-Motion</description>
-			<author>Morgan, Lewis and Bockius, LLP</author>
-			<pubDate>2026-04-20 12:55:00</pubDate>
-		</item>
-		<item>
-			<title>Memorandum and Order (Denying Motion to Correct Pleading and Addressing Other Administrative Matters)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26107A252</link>
-			<description>Legal-Order</description>
-			<author>NRC/ASLBP</author>
-			<pubDate>2026-04-20 12:54:00</pubDate>
 		</item>
 	</channel>
 </rss>
