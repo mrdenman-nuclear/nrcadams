@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 06 May 2026 19:44:17 GMT</pubDate>
-		<lastBuildDate>Wed, 06 May 2026 19:44:17 GMT</lastBuildDate>
+		<pubDate>Wed, 06 May 2026 21:10:36 GMT</pubDate>
+		<lastBuildDate>Wed, 06 May 2026 21:10:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Comments on PR-50 and 53 - NRC Reviews of Reactor Designs Previously Authorized by U.S. Department of Energy or Department of War (NRC-2025-1503)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26126A298</link>
+			<description>Rulemaking-Comment</description>
+			<author>NRC/SECY</author>
+			<pubDate>2026-05-06 20:23:00</pubDate>
+		</item>
 		<item>
 			<title>Proposal to Establish Alternate Requirements for Components Commensurate with Safety and Risk - Code Case N-940 Conditions</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26126A042</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Constellation Energy Generation, LLC</author>
 			<pubDate>2026-05-04 11:46:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-2271 DFC, "Guidelines for Preparing and Reviewing Applications Under 10 CFR Part 57"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26111A077</link>
-			<description>NUREG, Rulemaking- Proposed Rule</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-05-01 15:22:00</pubDate>
 		</item>
 	</channel>
 </rss>
