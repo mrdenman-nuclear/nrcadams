@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 06 May 2026 17:51:34 GMT</pubDate>
-		<lastBuildDate>Wed, 06 May 2026 17:51:34 GMT</lastBuildDate>
+		<pubDate>Wed, 06 May 2026 19:44:09 GMT</pubDate>
+		<lastBuildDate>Wed, 06 May 2026 19:44:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Transcript of Long Mott Energy, LLC, Hearing, April 21, 2026, Pages 371-395</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26114A190</link>
+			<description>Legal-Hearing Transcript</description>
+			<author>NRC/ASLBP</author>
+			<pubDate>2026-05-06 19:02:00</pubDate>
+		</item>
 		<item>
 			<title>Memorandum and Order (Regarding Transcript for April 21, 2026 Status Conference)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26126A186</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26119A509</link>
 			<description>Letter</description>
 			<author>Long Mott Energy, LLC</author>
-			<pubDate>2026-04-30 14:11:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Energy, LLC (LME) - Long Mott Generating Station (LMGS) Project and Safety Case Overview</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26119A511</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Long Mott Energy, LLC, X-Energy</author>
 			<pubDate>2026-04-30 14:11:00</pubDate>
 		</item>
 	</channel>
