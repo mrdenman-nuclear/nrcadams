@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 07 May 2026 18:24:50 GMT</pubDate>
-		<lastBuildDate>Thu, 07 May 2026 18:24:50 GMT</lastBuildDate>
+		<pubDate>Thu, 07 May 2026 20:13:52 GMT</pubDate>
+		<lastBuildDate>Thu, 07 May 2026 20:13:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Seabrook Station, Unit 1 - Amendment No.179 Regarding Adoption of 10 CFR 50.69, "Risk-Informed Categorization and Treatment of Structures, Systems and Components..." (EPID L-2025-LLA-0058)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25345A178</link>
+			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation, Technical Specifications</description>
+			<author>NRC/NRR/DORL/LPLI</author>
+			<pubDate>2026-05-07 18:44:00</pubDate>
+		</item>
+		<item>
+			<title>Transcript of the Advisory Committee on Reactor Safeguards 734th Full Committee Meeting, April 08, 2026 Pages 1-44 (Open)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26127A299</link>
+			<description>Meeting Transcript</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2026-05-07 18:34:00</pubDate>
+		</item>
 		<item>
 			<title>Comments on PR-50 - Approval of the 2023 Edition of the American Society of Mechanical Engineers Boiler and Pressure Vessel Code and Code Cases, Revision 41 (NRC-2020-0029)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26127A210</link>
@@ -206,20 +220,6 @@
 			<description>Annual Report, Letter</description>
 			<author>Virginia Electric and Power Co (VEPCO)</author>
 			<pubDate>2026-05-04 15:32:00</pubDate>
-		</item>
-		<item>
-			<title>Surry Power Station, Units 1 And 2, 2025 Annual Radioactive Effluent Release Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26120A169</link>
-			<description>Annual Report, Letter</description>
-			<author>Virginia Electric and Power Co (VEPCO)</author>
-			<pubDate>2026-05-04 15:32:00</pubDate>
-		</item>
-		<item>
-			<title>Waterford Steam Electric Station, Unit 3 - Annual Radioactive Effluent Release Report (ARERR) 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26114A091</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Entergy Operations, Inc</author>
-			<pubDate>2026-05-04 12:51:00</pubDate>
 		</item>
 	</channel>
 </rss>
