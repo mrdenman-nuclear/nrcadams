@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 07 May 2026 23:57:09 GMT</pubDate>
-		<lastBuildDate>Thu, 07 May 2026 23:57:09 GMT</lastBuildDate>
+		<pubDate>Fri, 08 May 2026 15:21:34 GMT</pubDate>
+		<lastBuildDate>Fri, 08 May 2026 15:21:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -87,13 +87,6 @@
 			<description>ACRS Summary Report, Letter, Meeting Minutes, Meeting Summary</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2026-04-09 18:09:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of Advisory Committee on Reactor Safeguards - Reactor Safety Standards - ALS Subcommittee Meeting, March 17, 2026, Pages 1-190 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26097A368</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-04-07 19:03:00</pubDate>
 		</item>
 	</channel>
 </rss>

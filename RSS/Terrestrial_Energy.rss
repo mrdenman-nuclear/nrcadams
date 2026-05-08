@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 07 May 2026 23:57:13 GMT</pubDate>
-		<lastBuildDate>Thu, 07 May 2026 23:57:13 GMT</lastBuildDate>
+		<pubDate>Fri, 08 May 2026 15:21:38 GMT</pubDate>
+		<lastBuildDate>Fri, 08 May 2026 15:21:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>James A. FitzPatrick Nuclear Power Plant, 2025 Annual Radioactive Effluent Release Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26120A537</link>
+			<description>Letter, Periodic Monitoring Report (Radiological/Environmental)</description>
+			<author>Constellation Energy Company, LLC</author>
+			<pubDate>2026-05-08 12:33:00</pubDate>
+		</item>
+		<item>
+			<title>Perry, Annual Radiological Environmental Operating Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26120A068</link>
+			<description>Environmental Monitoring Report, Letter</description>
+			<author>Vistra Corp</author>
+			<pubDate>2026-05-08 12:33:00</pubDate>
+		</item>
 		<item>
 			<title>Clinton Power Station, Unit 1, 2025 Annual Radioactive Effluent Release Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26119A465</link>
@@ -206,20 +220,6 @@
 			<description>Federal Register Notice, Rulemaking- Final Rule</description>
 			<author>NRC/SECY</author>
 			<pubDate>2026-05-01 17:06:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-2271 DFC, "Guidelines for Preparing and Reviewing Applications Under 10 CFR Part 57"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26111A077</link>
-			<description>NUREG, Rulemaking- Proposed Rule</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-05-01 15:22:00</pubDate>
-		</item>
-		<item>
-			<title>Peach Bottom Atomic Power Station, Units 1, 2 and 3, Annual Radiological Effluent Release Report 68 for 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26119A021</link>
-			<description>Periodic Monitoring Report (Radiological/Environmental)</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2026-05-01 14:01:00</pubDate>
 		</item>
 	</channel>
 </rss>
