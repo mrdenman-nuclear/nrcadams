@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 11 May 2026 16:31:26 GMT</pubDate>
-		<lastBuildDate>Mon, 11 May 2026 16:31:26 GMT</lastBuildDate>
+		<pubDate>Mon, 11 May 2026 18:58:23 GMT</pubDate>
+		<lastBuildDate>Mon, 11 May 2026 18:58:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>E-mail - Aalo Holdings, Inc - Request to Withhold Information from Public Disclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26131A191</link>
+			<description>E-Mail, Proprietary Information Review</description>
+			<author>NRC/NRR</author>
+			<pubDate>2026-05-11 17:02:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 1: Affidavit Supporting Request for Withholding from Public Disclosure per 10 CFR 2.390(a)(4)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26121A161</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26117A087</link>
 			<description>E-Mail</description>
 			<author>NRC</author>
-			<pubDate>2026-05-04 12:51:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of X Energy, LLC (X-Energy) Xe-100 Licensing Topical Report Graphite Core Assembly Material Qualification and Design Methodologies, Revision 2 Accepted Version</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26114A163</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
 			<pubDate>2026-05-04 12:51:00</pubDate>
 		</item>
 	</channel>

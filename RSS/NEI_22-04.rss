@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 11 May 2026 16:31:32 GMT</pubDate>
-		<lastBuildDate>Mon, 11 May 2026 16:31:32 GMT</lastBuildDate>
+		<pubDate>Mon, 11 May 2026 18:58:31 GMT</pubDate>
+		<lastBuildDate>Mon, 11 May 2026 18:58:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>ACRS Guidelines and Best Practices</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26131A168</link>
+			<description>Guidance Document</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2026-05-11 17:02:00</pubDate>
+		</item>
 		<item>
 			<title>Arkansas Nuclear One, Unit 1 and Unit 2 - Radioactive Effluent Release Report for the 2025 Calendar Year</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26107A038</link>
@@ -205,13 +212,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26128A007</link>
 			<description>Environmental Report, Letter</description>
 			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2026-05-11 12:45:00</pubDate>
-		</item>
-		<item>
-			<title>Beaver Valley, Units 1 and 2 - Submittal of 2025 Annual Radioactive Effluent Release Report, 2025 Annual Radiological Environmental Operating Report, and 2025 Environmental Operating Report (Non-Radiological)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26121A128</link>
-			<description>Environmental Monitoring Report, Environmental Report, Letter</description>
-			<author>Vistra Operations Company, LLC</author>
 			<pubDate>2026-05-11 12:45:00</pubDate>
 		</item>
 		<item>
