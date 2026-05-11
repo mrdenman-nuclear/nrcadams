@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 08 May 2026 23:56:31 GMT</pubDate>
-		<lastBuildDate>Fri, 08 May 2026 23:56:31 GMT</lastBuildDate>
+		<pubDate>Mon, 11 May 2026 16:31:25 GMT</pubDate>
+		<lastBuildDate>Mon, 11 May 2026 16:31:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 1: Affidavit Supporting Request for Withholding from Public Disclosure per 10 CFR 2.390(a)(4)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26121A161</link>
+			<description>Legal-Affidavit</description>
+			<author>NRC/RGN-I</author>
+			<pubDate>2026-05-11 12:45:00</pubDate>
+		</item>
+		<item>
+			<title>Submittal of "Long Mott Generating Station (LMGS) Project and Safety Case Overview" Proprietary Presentation for the Advisory Committee on Reactor Safeguards (ACRS)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26121A160</link>
+			<description>Letter</description>
+			<author>Long Mott Energy, LLC</author>
+			<pubDate>2026-05-11 12:45:00</pubDate>
+		</item>
 		<item>
 			<title>Redacted San Antonio Bay Estuarine Waterkeeper's Reply in Support Motion for Leave to File New Contention 3C</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26127A493</link>
@@ -122,20 +136,6 @@
 			<description>Legal-Pleading</description>
 			<author>Long Mott Energy, LLC, Morgan, Lewis and Bockius, LLP</author>
 			<pubDate>2026-04-27 13:43:00</pubDate>
-		</item>
-		<item>
-			<title>2026/04/10 Project Long Mott Docs - RE RE Request for a artist rendering of the proposed Long Mott Generating Station</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26100A088</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-04-24 12:38:00</pubDate>
-		</item>
-		<item>
-			<title>2026/04/10 Project Long Mott Docs - Request for a artist rendering of the proposed Long Mott Generating Station</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26100A027</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-04-24 12:38:00</pubDate>
 		</item>
 	</channel>
 </rss>

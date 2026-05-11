@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 08 May 2026 23:56:36 GMT</pubDate>
-		<lastBuildDate>Fri, 08 May 2026 23:56:36 GMT</lastBuildDate>
+		<pubDate>Mon, 11 May 2026 16:31:30 GMT</pubDate>
+		<lastBuildDate>Mon, 11 May 2026 16:31:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Oklo Inc. - Transmittal of Meeting Materials for the May 7, 2026, Meeting Regarding Aurora Reliability and Integrity Management (RIM) Program Overview</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26121A003</link>
+			<description></description>
+			<author></author>
+			<pubDate>2026-05-11 12:44:00</pubDate>
+		</item>
 		<item>
 			<title>NRC Advance Reactor Overview NREP 2026- CRosalesCooper</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26119A746</link>
@@ -45,41 +52,6 @@
 			<description></description>
 			<author></author>
 			<pubDate>2026-04-27 12:39:00</pubDate>
-		</item>
-		<item>
-			<title>April 2026 Advisory Committee On Reactor Safeguards (ACRS) Full Committee Meeting - Topical Reports And Official Notices</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26112A071</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-04-24 20:32:00</pubDate>
-		</item>
-		<item>
-			<title>NRC-Oklo Signed Portal Agreement (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26110A104</link>
-			<description>User Agreements</description>
-			<author>NRC/NMSS, Oklo Inc</author>
-			<pubDate>2026-04-24 12:39:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Draft Observations on Draft Chapter 1 of Oklo Reprocessing Facility License Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26110A098</link>
-			<description></description>
-			<author></author>
-			<pubDate>2026-04-24 12:39:00</pubDate>
-		</item>
-		<item>
-			<title>E-mail Forwarding Draft Observations (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26110A103</link>
-			<description>E-Mail</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2026-04-24 12:39:00</pubDate>
-		</item>
-		<item>
-			<title>March 5, 2026, Summary of Pre-Application Meeting With Terrapower, LLC (EPID L-2026-LRM-0012)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26079A198</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-04-24 12:39:00</pubDate>
 		</item>
 	</channel>
 </rss>
