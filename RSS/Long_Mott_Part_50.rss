@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 12 May 2026 22:14:07 GMT</pubDate>
-		<lastBuildDate>Tue, 12 May 2026 22:14:07 GMT</lastBuildDate>
+		<pubDate>Wed, 13 May 2026 00:00:22 GMT</pubDate>
+		<lastBuildDate>Wed, 13 May 2026 00:00:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -122,20 +122,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2026-04-29 13:15:00</pubDate>
-		</item>
-		<item>
-			<title>Redacted Waterkeeper Motion for Leave to Amend Contention 3B</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26117A385</link>
-			<description>Legal-Motion</description>
-			<author>Perales, Allmon and Ice, P.C., San Antonio Bay Estuarine Waterkeeper</author>
-			<pubDate>2026-04-28 14:18:00</pubDate>
-		</item>
-		<item>
-			<title>4-16-26 Letter from S. Rogers - Comments from Alabama-Quassarte Tribal Town Regarding Draft Historic and Cultural Resource Sections for the Long Mott CP</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26111A088</link>
-			<description>Letter</description>
-			<author>Alabama Quassarte Tribal Town</author>
-			<pubDate>2026-04-28 12:59:00</pubDate>
 		</item>
 	</channel>
 </rss>
