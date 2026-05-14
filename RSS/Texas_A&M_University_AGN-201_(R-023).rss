@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 13 May 2026 22:11:47 GMT</pubDate>
-		<lastBuildDate>Wed, 13 May 2026 22:11:47 GMT</lastBuildDate>
+		<pubDate>Thu, 14 May 2026 16:11:24 GMT</pubDate>
+		<lastBuildDate>Thu, 14 May 2026 16:11:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Texas A&M Univ. - Withdrawal of License Amendment Requests for Facility Operating License No. R-23 (Docket No. 50-59) - Revisions to Technical Specification 3.5 and Technical Specification 6.4.3</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26126A362</link>
+			<description>Letter</description>
+			<author>Texas AandM Univ</author>
+			<pubDate>2026-05-14 13:59:00</pubDate>
+		</item>
+	</channel>
 </rss>

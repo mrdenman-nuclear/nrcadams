@@ -5,11 +5,53 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 13 May 2026 22:11:47 GMT</pubDate>
-		<lastBuildDate>Wed, 13 May 2026 22:11:47 GMT</lastBuildDate>
+		<pubDate>Thu, 14 May 2026 16:11:24 GMT</pubDate>
+		<lastBuildDate>Thu, 14 May 2026 16:11:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Examination Requalification Report Letter No. 50-184/OL-26-01, National Institute of Standards and Technology</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26113A439</link>
+			<description>Letter, License-Operator Examination Report (Non-Power Reactors Only)</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2026-05-14 13:58:00</pubDate>
+		</item>
+		<item>
+			<title>NIST Test Reactor (NBSR) Procedures AR 5.4, Rev. 3, AR 7.1, Rev. 1, AR 7.2.0, Rev. 1, AR 7.2.1, Rev. 1, AR 7.2.2, Rev. 2, AR 7.2.3, Rev. 1, Employee Concerns Program Policy, Draft, and Nuclear Safety Culture Monitoring Panel Charter</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26126A361</link>
+			<description>Charter, Operating Procedures, Policy and Program Guidance</description>
+			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
+			<pubDate>2026-05-14 13:58:00</pubDate>
+		</item>
+		<item>
+			<title>Examination Report Letter No. 50-184/OL-26-01, National Institute of Standards and Technology</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A108</link>
+			<description>Letter, License-Operator Examination Report (Non-Power Reactors Only)</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2026-05-14 13:58:00</pubDate>
+		</item>
+		<item>
+			<title>Examination Results Letter No. 50-184/OL-26-01, National Institute of Standards and Technology</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A109</link>
+			<description>Letter, License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2026-05-14 13:58:00</pubDate>
+		</item>
+		<item>
+			<title>National Institute of Standards and Technology, Submission of Documents for NRC Record via ADAMS System</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26126A360</link>
+			<description>Letter</description>
+			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
+			<pubDate>2026-05-14 13:58:00</pubDate>
+		</item>
+		<item>
+			<title>National Institute of Standards and Technology, Confirmation of Compliance with Confirmatory Order Commitments</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26126A358</link>
+			<description>Letter</description>
+			<author>US Dept of Commerce, National Institute of Standards and Technology (NIST)</author>
+			<pubDate>2026-05-14 13:58:00</pubDate>
+		</item>
+	</channel>
 </rss>
