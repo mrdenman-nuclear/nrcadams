@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 14 May 2026 20:30:29 GMT</pubDate>
-		<lastBuildDate>Thu, 14 May 2026 20:30:29 GMT</lastBuildDate>
+		<pubDate>Thu, 14 May 2026 22:11:28 GMT</pubDate>
+		<lastBuildDate>Thu, 14 May 2026 22:11:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Cover Letter U. S. NRC Regulatory Audit Plan for GVHA Topical Report NEDC-34416P, Revision 0, "Ultra Plus Control Rod Assembly"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26120A212</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DORL/LLPB</author>
+			<pubDate>2026-05-14 20:25:00</pubDate>
+		</item>
+		<item>
+			<title>Non-proprietary Enclosure 1 U. S. NRC Regulatory Audit Plan for GVHA Topical Report NEDC-34416P, Revision 0, "Ultra Plus Control Rod Assembly"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26120A213</link>
+			<description>Audit Plan</description>
+			<author>NRC/NRR/DORL/LLPB</author>
+			<pubDate>2026-05-14 20:25:00</pubDate>
+		</item>
 		<item>
 			<title>Attachment 1: Issuance of a Permit for the Construction of the Facility</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26085A142</link>
@@ -206,20 +220,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2026-05-06 12:55:00</pubDate>
-		</item>
-		<item>
-			<title>Audit Report Hermes Geologic Mapping</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26079A077</link>
-			<description>Audit Report</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-05-06 12:55:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - Oklo Inc. - Final Safety Evaluation for Topical Report Oklo-2025-RX-R012-P, "Principal Design Criteria for the Aurora Powerhouse," Revision 1 (EPID L-2025-TOP-0028)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26086A304</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2026-05-05 13:22:00</pubDate>
 		</item>
 	</channel>
 </rss>
