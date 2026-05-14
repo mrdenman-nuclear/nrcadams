@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 14 May 2026 18:55:11 GMT</pubDate>
-		<lastBuildDate>Thu, 14 May 2026 18:55:11 GMT</lastBuildDate>
+		<pubDate>Thu, 14 May 2026 20:30:34 GMT</pubDate>
+		<lastBuildDate>Thu, 14 May 2026 20:30:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Forwards Mar 1996 monthly rept on status of public petitions under 10CFR2.206.Portion of rept withheld.WITHDRAWN.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20108D918</link>
+			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
+			<author>NRC (Affiliation Not Assigned)</author>
+			<pubDate>2026-05-14 19:18:00</pubDate>
+		</item>
 		<item>
 			<title>Browns Ferry, Units 1, 2, and 3, Sequoyah, Units 1 and 2, Watts Bar, Units 1 and 2, Radiological Emergency Plan Procedure Revisions</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26005A241</link>
@@ -213,13 +220,6 @@
 			<description></description>
 			<author></author>
 			<pubDate>2026-05-13 12:38:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry Compliance Heat Load Exemption Decision.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26132A001</link>
-			<description>Exemption from NRC Requirements</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2026-05-12 13:43:00</pubDate>
 		</item>
 	</channel>
 </rss>
