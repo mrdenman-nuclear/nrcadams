@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 14 May 2026 23:56:50 GMT</pubDate>
-		<lastBuildDate>Thu, 14 May 2026 23:56:50 GMT</lastBuildDate>
+		<pubDate>Fri, 15 May 2026 16:06:59 GMT</pubDate>
+		<lastBuildDate>Fri, 15 May 2026 16:06:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure - Letter to the Honorable Mike Johnson, et al., submits the NRCs FY2025 "Recommended Best Practices Report for Environmental Reviews and Authorizations" (Best Practices Report)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26069A024</link>
+			<description>Report, Administrative</description>
+			<author>NRC/Chairman</author>
+			<pubDate>2026-05-15 11:59:00</pubDate>
+		</item>
 		<item>
 			<title>M260605: Slides - Meeting with the Advisory Committee on Reactor Safeguards</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26134A344</link>
@@ -87,13 +94,6 @@
 			<description>General FR Notice Comment Letter</description>
 			<author>Public Commenter</author>
 			<pubDate>2026-05-01 12:53:00</pubDate>
-		</item>
-		<item>
-			<title>Nuclear Regulatory Commission Inspection Report of US SFR Owner, LLC, No. 05000613/2026201</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26106A057</link>
-			<description>Inspection Report, Letter</description>
-			<author>NRC/NRR/DRO/IQVB</author>
-			<pubDate>2026-04-30 12:47:00</pubDate>
 		</item>
 	</channel>
 </rss>

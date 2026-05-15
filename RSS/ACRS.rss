@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 14 May 2026 23:56:46 GMT</pubDate>
-		<lastBuildDate>Thu, 14 May 2026 23:56:46 GMT</lastBuildDate>
+		<pubDate>Fri, 15 May 2026 16:06:56 GMT</pubDate>
+		<lastBuildDate>Fri, 15 May 2026 16:06:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -108,13 +108,6 @@
 			<description>Meeting Agenda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2026-04-20 20:40:00</pubDate>
-		</item>
-		<item>
-			<title>735th ACRS Full Committee Meeting Agenda for May 6 through 8, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26096A412</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-04-14 16:25:00</pubDate>
 		</item>
 	</channel>
 </rss>
