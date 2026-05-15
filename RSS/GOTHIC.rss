@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 15 May 2026 16:07:00 GMT</pubDate>
-		<lastBuildDate>Fri, 15 May 2026 16:07:00 GMT</lastBuildDate>
+		<pubDate>Fri, 15 May 2026 18:22:53 GMT</pubDate>
+		<lastBuildDate>Fri, 15 May 2026 18:22:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Safety Evaluation for GVH Licensing Topical Report, "NEDC-34270P/NEDO-34270, Revision 1, BWRX-300 Stability Analysis" - Public</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26078A299</link>
+			<description>Safety Evaluation Report</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2026-05-15 17:31:00</pubDate>
+		</item>
+	</channel>
 </rss>
