@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 15 May 2026 23:57:13 GMT</pubDate>
-		<lastBuildDate>Fri, 15 May 2026 23:57:13 GMT</lastBuildDate>
+		<pubDate>Mon, 18 May 2026 16:48:08 GMT</pubDate>
+		<lastBuildDate>Mon, 18 May 2026 16:48:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Redacted San Antonio Bay Estuarine Waterkeeper's Sur-Reply Regarding Dispositive Motion on Contention 3B</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26135A424</link>
+			<description>Legal-Motion</description>
+			<author>Perales, Allmon and Ice, P.C., San Antonio Bay Estuarine Waterkeeper</author>
+			<pubDate>2026-05-18 13:39:00</pubDate>
+		</item>
 		<item>
 			<title>Long Mott Energy, LLC's Answer to Waterkeeper's Motion for Leave to Amend Contention 3B (Public Version)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26131A297</link>
@@ -66,20 +73,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2026-05-05 13:22:00</pubDate>
-		</item>
-		<item>
-			<title>Memorandum and Order (Scheduling Closed Prehearing Conference)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26120A530</link>
-			<description>Legal-Order</description>
-			<author>NRC/ASLBP</author>
-			<pubDate>2026-05-01 20:34:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Energy LLC's Answer Opposing Waterkeeper's Motion for Leave to File New Contention 3C (Public Version)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26120A350</link>
-			<description>Legal-Pleading</description>
-			<author>Long Mott Energy, LLC, Morgan, Lewis and Bockius, LLP</author>
-			<pubDate>2026-05-01 17:05:00</pubDate>
 		</item>
 	</channel>
 </rss>

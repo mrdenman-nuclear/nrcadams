@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 15 May 2026 23:57:15 GMT</pubDate>
-		<lastBuildDate>Fri, 15 May 2026 23:57:15 GMT</lastBuildDate>
+		<pubDate>Mon, 18 May 2026 16:48:09 GMT</pubDate>
+		<lastBuildDate>Mon, 18 May 2026 16:48:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Inspection Report, Letter</description>
 			<author>NRC/NRR/DANU/UNPO</author>
 			<pubDate>2026-05-06 12:56:00</pubDate>
-		</item>
-		<item>
-			<title>Massachusetts Institute of Technology, License No. R-37, Docket No. 50-20, Reportable Occurrence 50-20/2025-2: Containment Integrity Not Maintained with Console Key Switch On; NRC OPS Center Log# EN 57824</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25225A056</link>
-			<description>Letter, Written Event Report (30 or 60 day)</description>
-			<author>Massachusetts Institute of Technology (MIT)</author>
-			<pubDate>2026-05-01 15:16:00</pubDate>
 		</item>
 	</channel>
 </rss>

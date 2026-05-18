@@ -7,8 +7,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <title>RSS Files • nrcadams</title>
 <script src="../deps/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link href="../deps/bootstrap-5.3.1/bootstrap.min.css" rel="stylesheet">
-<script src="../deps/bootstrap-5.3.1/bootstrap.bundle.min.js"></script><link href="../deps/font-awesome-6.5.2/css/all.min.css" rel="stylesheet">
+<link href="../deps/bootstrap-5.3.8/bootstrap.min.css" rel="stylesheet">
+<script src="../deps/bootstrap-5.3.8/bootstrap.bundle.min.js"></script><link href="../deps/font-awesome-6.5.2/css/all.min.css" rel="stylesheet">
 <link href="../deps/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet">
 <script src="../deps/headroom-0.11.0/headroom.min.js"></script><script src="../deps/headroom-0.11.0/jQuery.headroom.min.js"></script><script src="../deps/bootstrap-toc-1.0.1/bootstrap-toc.min.js"></script><script src="../deps/clipboard.js-2.0.11/clipboard.min.js"></script><script src="../deps/search-1.0.0/autocomplete.jquery.min.js"></script><script src="../deps/search-1.0.0/fuse.min.js"></script><script src="../deps/search-1.0.0/mark.min.js"></script><!-- pkgdown --><script src="../pkgdown.js"></script><meta property="og:title" content="RSS Files">
 </head>
@@ -73,8 +73,8 @@
     
 <p>This page is updated Monday through Friday, hourly between 9AM ET and
 5 PM ET. It presents RSS files for the various dockets tracked by the
-<code>nrcadams</code> package. The last update was at 2026-05-15
-19:57:12.395079 ET.</p>
+<code>nrcadams</code> package. The last update was at 2026-05-18
+12:48:07.675233 ET.</p>
 <div class="section level2">
 <h2 id="using-the-rss-feeds">Using the RSS Feeds<a class="anchor" aria-label="anchor" href="#using-the-rss-feeds"></a>
 </h2>
@@ -102,7 +102,7 @@ located at the URLs shown in the table below.</p>
 <span>  <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/mutate-joins.html" class="external-link">left_join</a></span><span class="op">(</span><span class="fu">nrcadams</span><span class="fu">::</span><span class="va"><a href="../reference/docket_codex.html">docket_codex</a></span><span class="op">)</span> <span class="op">|&gt;</span></span>
 <span>  <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/filter.html" class="external-link">filter</a></span><span class="op">(</span><span class="op">!</span><span class="fu"><a href="https://rdrr.io/r/base/NA.html" class="external-link">is.na</a></span><span class="op">(</span><span class="va">Project</span><span class="op">)</span><span class="op">)</span></span>
 <span><span class="co">#&gt; </span></span>
-<span><span class="co">#&gt;  This search returned: 49 files.</span></span>
+<span><span class="co">#&gt;  This search returned: 46 files.</span></span>
 <span><span class="co">#&gt; Joining with `by = join_by(DocketNumber)`</span></span>
 <span></span>
 <span></span>
@@ -184,7 +184,7 @@ particular), these RSS files might help.</p>
 <span>  <span class="fu">dplyr</span><span class="fu">::</span><span class="fu"><a href="https://dplyr.tidyverse.org/reference/pull.html" class="external-link">pull</a></span><span class="op">(</span><span class="va">DocketNumber</span><span class="op">)</span> <span class="op">|&gt;</span></span>
 <span>  <span class="fu">nrcadams</span><span class="fu">::</span><span class="fu"><a href="../reference/search_docket.html">search_docket</a></span><span class="op">(</span>days_back <span class="op">=</span> <span class="fl">14</span><span class="op">)</span></span>
 <span><span class="co">#&gt; </span></span>
-<span><span class="co">#&gt;  This search returned: 18 files.</span></span>
+<span><span class="co">#&gt;  This search returned: 17 files.</span></span>
 <span></span>
 <span><span class="kw">if</span> <span class="op">(</span><span class="fu"><a href="https://rdrr.io/r/base/length.html" class="external-link">length</a></span><span class="op">(</span><span class="va">last_week_in_RTRs</span><span class="op">)</span> <span class="op">!=</span> <span class="fl">0</span><span class="op">)</span> <span class="op">{</span></span>
 <span>  <span class="va">last_week_in_RTRs</span> <span class="op">&lt;-</span> <span class="va">last_week_in_RTRs</span> <span class="op">|&gt;</span></span>
@@ -440,13 +440,8 @@ also tagged with a docket number associated with that company.</p>
 <span><span class="co">#&gt; Warning in max(current_tbl$count): no non-missing arguments to max; returning</span></span>
 <span><span class="co">#&gt; -Inf</span></span>
 <span><span class="co">#&gt; Warning: Unknown or uninitialised column: `ML Number`.</span></span>
-<span><span class="co">#&gt; Warning: Unknown or uninitialised column: `DocumentTitle`.</span></span>
-<span><span class="co">#&gt; Warning in nrcadams:::decode_resp(resp): </span></span>
-<span><span class="co">#&gt; The search return no results.</span></span>
-<span><span class="co">#&gt; Warning: Unknown or uninitialised column: `count`.</span></span>
-<span><span class="co">#&gt; Warning in max(current_tbl$count): no non-missing arguments to max; returning</span></span>
-<span><span class="co">#&gt; -Inf</span></span>
-<span><span class="co">#&gt; Warning: Unknown or uninitialised column: `ML Number`.</span></span>
+<span><span class="co">#&gt; Joining with `by = join_by(DocketNumber, `ML Number`, Title, `Document Date`,</span></span>
+<span><span class="co">#&gt; `Publish Date`, Type, Affiliation, URL, count, tag)`</span></span>
 <span><span class="co">#&gt; Joining with `by = join_by(DocketNumber, `ML Number`, Title, `Document Date`,</span></span>
 <span><span class="co">#&gt; `Publish Date`, Type, Affiliation, URL, count, tag)`</span></span>
 <span><span class="co">#&gt; Warning: There was 1 warning in `dplyr::mutate()`.</span></span>

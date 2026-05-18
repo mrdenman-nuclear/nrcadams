@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 15 May 2026 23:57:21 GMT</pubDate>
-		<lastBuildDate>Fri, 15 May 2026 23:57:21 GMT</lastBuildDate>
+		<pubDate>Mon, 18 May 2026 16:48:13 GMT</pubDate>
+		<lastBuildDate>Mon, 18 May 2026 16:48:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Project Overview and NRC Fee Waiver Public Meeting to Discuss Licensing Requests to Implement 24-Month Fuel Cycles for Millstone Power Station Unit 3</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26128A010</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Dominion Energy</author>
+			<pubDate>2026-05-18 12:16:00</pubDate>
+		</item>
+	</channel>
 </rss>

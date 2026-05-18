@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 15 May 2026 23:57:20 GMT</pubDate>
-		<lastBuildDate>Fri, 15 May 2026 23:57:20 GMT</lastBuildDate>
+		<pubDate>Mon, 18 May 2026 16:48:12 GMT</pubDate>
+		<lastBuildDate>Mon, 18 May 2026 16:48:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -87,13 +87,6 @@
 			<description>Rulemaking-Comment</description>
 			<author>NRC/SECY</author>
 			<pubDate>2026-05-06 20:23:00</pubDate>
-		</item>
-		<item>
-			<title>2026/04/20 - Comment (3) E-mail regarding Fermi America EIS Scoping</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26111A007</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>Public Commenter</author>
-			<pubDate>2026-05-01 12:53:00</pubDate>
 		</item>
 	</channel>
 </rss>

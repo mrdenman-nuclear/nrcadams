@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 15 May 2026 23:57:20 GMT</pubDate>
-		<lastBuildDate>Fri, 15 May 2026 23:57:20 GMT</lastBuildDate>
+		<pubDate>Mon, 18 May 2026 16:48:12 GMT</pubDate>
+		<lastBuildDate>Mon, 18 May 2026 16:48:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,20 +66,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/NRR/DNRL/NLIB</author>
 			<pubDate>2026-05-04 16:59:00</pubDate>
-		</item>
-		<item>
-			<title>Licensing Requirements for Microreactors and Other Reactors with Comparable Risk Profiles; Proposed Rule; Guidance; and Request for Comment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26112A077</link>
-			<description>Federal Register Notice, Rulemaking- Proposed Rule</description>
-			<author>NRC/SECY</author>
-			<pubDate>2026-05-01 19:06:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-2271 DFC, "Guidelines for Preparing and Reviewing Applications Under 10 CFR Part 57"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26111A077</link>
-			<description>NUREG, Rulemaking- Proposed Rule</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-05-01 15:22:00</pubDate>
 		</item>
 	</channel>
 </rss>

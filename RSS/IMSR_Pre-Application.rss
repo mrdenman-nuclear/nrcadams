@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 15 May 2026 23:57:13 GMT</pubDate>
-		<lastBuildDate>Fri, 15 May 2026 23:57:13 GMT</lastBuildDate>
+		<pubDate>Mon, 18 May 2026 16:48:08 GMT</pubDate>
+		<lastBuildDate>Mon, 18 May 2026 16:48:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Letter, Proprietary Information Review</description>
 			<author>NRC/NRR/DANU/UAL2</author>
 			<pubDate>2026-05-15 12:01:00</pubDate>
-		</item>
-		<item>
-			<title>Topical Report TR 251024, "Strategy for Establishing Defense in Depth for IMSR Structures Systems, and Components," Revision A</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26113A374</link>
-			<description>Letter</description>
-			<author>Terrestrial Energy USA, Inc</author>
-			<pubDate>2026-05-01 12:54:00</pubDate>
 		</item>
 	</channel>
 </rss>
