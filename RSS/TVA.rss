@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 19 May 2026 19:04:18 GMT</pubDate>
-		<lastBuildDate>Tue, 19 May 2026 19:04:18 GMT</lastBuildDate>
+		<pubDate>Tue, 19 May 2026 20:31:51 GMT</pubDate>
+		<lastBuildDate>Tue, 19 May 2026 20:31:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Summary Report and Certified Minutes for the 734rd Meeting of the Advisory Committee on Reactor Safeguards for April 8 through 9 2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26120A521</link>
+			<description>Letter, Meeting Summary</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2026-05-19 19:45:00</pubDate>
+		</item>
 		<item>
 			<title>Part 21 Final Report from - Emerson_Fisher Controls International LLC</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26138A069</link>
@@ -213,13 +220,6 @@
 			<description>Letter, Request for Code Relief or Alternative</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2026-05-14 20:24:00</pubDate>
-		</item>
-		<item>
-			<title>Forwards Mar 1996 monthly rept on status of public petitions under 10CFR2.206.Portion of rept withheld.WITHDRAWN.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20108D918</link>
-			<description>INTERNAL OR EXTERNAL MEMORANDUM, MEMORANDUMS-CORRESPONDENCE</description>
-			<author>NRC (Affiliation Not Assigned)</author>
-			<pubDate>2026-05-14 19:18:00</pubDate>
 		</item>
 	</channel>
 </rss>
