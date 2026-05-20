@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 20 May 2026 00:03:37 GMT</pubDate>
-		<lastBuildDate>Wed, 20 May 2026 00:03:37 GMT</lastBuildDate>
+		<pubDate>Wed, 20 May 2026 16:56:04 GMT</pubDate>
+		<lastBuildDate>Wed, 20 May 2026 16:56:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Transmittal Email for - A Topical Report Verification for WEC - WCAP-18810-P/NP-A</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26121A064</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2026-05-20 12:54:00</pubDate>
+		</item>
+		<item>
+			<title>Westinghouse Electric Company - A Topical Report Verification 896 Form for WCAP-18810-P/NP-A "Advanced Logic System v2 Platform Elimination of Technical Specification Surveillance Requirements</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26121A066</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2026-05-20 12:54:00</pubDate>
+		</item>
+	</channel>
 </rss>
