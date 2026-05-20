@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 19 May 2026 22:16:01 GMT</pubDate>
-		<lastBuildDate>Tue, 19 May 2026 22:16:01 GMT</lastBuildDate>
+		<pubDate>Wed, 20 May 2026 00:03:37 GMT</pubDate>
+		<lastBuildDate>Wed, 20 May 2026 00:03:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -101,13 +101,6 @@
 			<description>Letter</description>
 			<author>US Dept of Commerce, National Marine Fisheries Service, US Dept of Commerce, National Oceanic and Atmospheric Admin (NOAA)</author>
 			<pubDate>2026-05-06 12:56:00</pubDate>
-		</item>
-		<item>
-			<title>2026/04/21 Project Long Mott Docs - Long Mott Energy, LLC, Long Mott Generating Station Site Audit Summary Report, dated March 30, 2026 ML26075A148</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26111A005</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-05-05 13:22:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 19 May 2026 22:16:06 GMT</pubDate>
-		<lastBuildDate>Tue, 19 May 2026 22:16:06 GMT</lastBuildDate>
+		<pubDate>Wed, 20 May 2026 00:03:42 GMT</pubDate>
+		<lastBuildDate>Wed, 20 May 2026 00:03:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NRC/NSIR/DPR/POB</author>
 			<pubDate>2026-05-07 12:42:00</pubDate>
-		</item>
-		<item>
-			<title>SECY-26-0061: Weekly Information Report Week Ending April 24, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26120A261</link>
-			<description>Commission SECY Paper</description>
-			<author>NRC/EDO/AO</author>
-			<pubDate>2026-05-05 18:33:00</pubDate>
 		</item>
 	</channel>
 </rss>
