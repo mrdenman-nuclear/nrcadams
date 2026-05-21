@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 20 May 2026 23:12:51 GMT</pubDate>
-		<lastBuildDate>Wed, 20 May 2026 23:12:51 GMT</lastBuildDate>
+		<pubDate>Thu, 21 May 2026 16:40:28 GMT</pubDate>
+		<lastBuildDate>Thu, 21 May 2026 16:40:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Oyster Creek Nuclear Generating Station - Annual Radioactive Effluent Release Report for 2025, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26140A251</link>
+			<description>Environmental Monitoring Report, Letter</description>
+			<author>Holtec Decommissioning International, LLC</author>
+			<pubDate>2026-05-21 13:53:00</pubDate>
+		</item>
+		<item>
+			<title>Oyster Creek Nuclear Generating Station - Annual Radioactive Effluent Release Report for 2025, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26140A251</link>
+			<description>Environmental Monitoring Report, Letter</description>
+			<author>Holtec Decommissioning International, LLC</author>
+			<pubDate>2026-05-21 13:53:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1: Monticello Nuclear Generating Plant - 2025 Annual Radioactive Effluent Release Report for January 1 - December 31, 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26133A140</link>
+			<description>Environmental Monitoring Report, Periodic Monitoring Report (Radiological/Environmental)</description>
+			<author>Xcel Energy Inc</author>
+			<pubDate>2026-05-21 12:46:00</pubDate>
+		</item>
 		<item>
 			<title>Prairie Island Nuclear Generating Plant, Units 1 and 2, 2025 Annual Radiological Environmental Monitoring Program Report for the period of January 1,2025 through December 31, 2025.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26134A168</link>
@@ -199,27 +220,6 @@
 			<description>Environmental Monitoring Report, Letter</description>
 			<author>Constellation Energy Generation, LLC</author>
 			<pubDate>2026-05-12 19:59:00</pubDate>
-		</item>
-		<item>
-			<title>Limerick Generating Station, Units 1 and 2 - Annual Radioactive Effluent Release Report No. 51</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26121A126</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2026-05-12 19:59:00</pubDate>
-		</item>
-		<item>
-			<title>Limerick Generating Station, Units 1 and 2 - Annual Radioactive Effluent Release Report No. 51</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26121A126</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2026-05-12 19:59:00</pubDate>
-		</item>
-		<item>
-			<title>Braidwood Station, Units 1 and 2, 2025 Annual Effluent Release Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26121A182</link>
-			<description>Annual Report</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2026-05-12 12:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

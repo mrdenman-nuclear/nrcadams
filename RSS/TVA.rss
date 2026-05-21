@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 20 May 2026 23:12:51 GMT</pubDate>
-		<lastBuildDate>Wed, 20 May 2026 23:12:51 GMT</lastBuildDate>
+		<pubDate>Thu, 21 May 2026 16:40:28 GMT</pubDate>
+		<lastBuildDate>Thu, 21 May 2026 16:40:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Summary of the Reactor Oversight Process Bimonthly Public Meeting Held on April 23, 2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26128A245</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NRR/DRO</author>
+			<pubDate>2026-05-21 12:46:00</pubDate>
+		</item>
+		<item>
+			<title>Watts Bar Nuclear Plant, Unit 1 - Unit 1 Cycle 21 Core Operating Limits Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26133A046</link>
+			<description>Fuel Cycle Reload Report, Letter</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2026-05-21 12:46:00</pubDate>
+		</item>
 		<item>
 			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3 - Issuance of Amendment Nos. 341, 364, and 324 Regarding the Revised Hydrologic Analysis (EPID L-2025-LLA-0034) - Public</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26100A225</link>
@@ -206,20 +220,6 @@
 			<description>Report, Administrative</description>
 			<author>NRC/Chairman</author>
 			<pubDate>2026-05-15 11:59:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3, Request for Exemption from Certificate of Compliance Heat Load Limits</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26130A001</link>
-			<description>Letter, Request for Code Relief or Alternative</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-05-14 20:24:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3, Request for Exemption from Certificate of Compliance Heat Load Limits</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26130A001</link>
-			<description>Letter, Request for Code Relief or Alternative</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-05-14 20:24:00</pubDate>
 		</item>
 	</channel>
 </rss>
