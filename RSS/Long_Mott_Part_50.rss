@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 22 May 2026 22:08:05 GMT</pubDate>
-		<lastBuildDate>Fri, 22 May 2026 22:08:05 GMT</lastBuildDate>
+		<pubDate>Sat, 23 May 2026 00:07:37 GMT</pubDate>
+		<lastBuildDate>Sat, 23 May 2026 00:07:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -108,13 +108,6 @@
 			<description>Letter</description>
 			<author>Long Mott Energy, LLC</author>
 			<pubDate>2026-05-11 12:45:00</pubDate>
-		</item>
-		<item>
-			<title>Redacted San Antonio Bay Estuarine Waterkeeper's Reply in Support Motion for Leave to File New Contention 3C</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26127A493</link>
-			<description>Legal-Motion</description>
-			<author>Perales, Allmon and Ice, P.C., San Antonio Bay Estuarine Waterkeeper</author>
-			<pubDate>2026-05-08 14:26:00</pubDate>
 		</item>
 	</channel>
 </rss>

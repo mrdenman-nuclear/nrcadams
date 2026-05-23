@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 22 May 2026 22:08:07 GMT</pubDate>
-		<lastBuildDate>Fri, 22 May 2026 22:08:07 GMT</lastBuildDate>
+		<pubDate>Sat, 23 May 2026 00:07:39 GMT</pubDate>
+		<lastBuildDate>Sat, 23 May 2026 00:07:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -94,27 +94,6 @@
 			<description>Commission Action Memoranda (COM)</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2026-04-24 12:39:00</pubDate>
-		</item>
-		<item>
-			<title>Library of Congress Memo - ACRS Committee and Consultant Reports - 732 through 733 for January through March 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26104A107</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-04-22 16:25:00</pubDate>
-		</item>
-		<item>
-			<title>Library of Congress Spreadsheet Report - 732 through 733 for January through March 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26104A179</link>
-			<description>Spreadsheet File</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-04-22 16:25:00</pubDate>
-		</item>
-		<item>
-			<title>735th Full Committee Meeting of the Advisory Committee on Reactor Safeguards, May 6-8, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26100A017</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/ACRS, NRC/SECY</author>
-			<pubDate>2026-04-22 13:10:00</pubDate>
 		</item>
 	</channel>
 </rss>

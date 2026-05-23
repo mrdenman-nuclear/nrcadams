@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 22 May 2026 22:08:06 GMT</pubDate>
-		<lastBuildDate>Fri, 22 May 2026 22:08:06 GMT</lastBuildDate>
+		<pubDate>Sat, 23 May 2026 00:07:38 GMT</pubDate>
+		<lastBuildDate>Sat, 23 May 2026 00:07:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Letter, License-Operator, Part 55 Examination Related Material</description>
 			<author>NRC/NRR/DANU/UNPO</author>
 			<pubDate>2026-05-12 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Report Letter No. 50-123/OL-26-01, The Curators of the University of Missouri</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25342A286</link>
-			<description>License-Operator Examination Report (Non-Power Reactors Only), License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2026-05-08 13:48:00</pubDate>
 		</item>
 	</channel>
 </rss>
