@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 26 May 2026 00:06:05 GMT</pubDate>
-		<lastBuildDate>Tue, 26 May 2026 00:06:05 GMT</lastBuildDate>
+		<pubDate>Tue, 26 May 2026 15:34:14 GMT</pubDate>
+		<lastBuildDate>Tue, 26 May 2026 15:34:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2025 Annual Radiological Environmental Operating Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26135A016</link>
+			<description>Periodic Monitoring Report (Radiological/Environmental)</description>
+			<author>Constellation Energy Generation, LLC</author>
+			<pubDate>2026-05-26 12:58:00</pubDate>
+		</item>
+		<item>
+			<title>2025 Annual Radiological Environmental Operating Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26135A016</link>
+			<description>Periodic Monitoring Report (Radiological/Environmental)</description>
+			<author>Constellation Energy Generation, LLC</author>
+			<pubDate>2026-05-26 12:58:00</pubDate>
+		</item>
+		<item>
+			<title>Attachment 1: Duane Arnold Energy Center - Annual Radiological Environmental Operating Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26135A231</link>
+			<description>Environmental Monitoring Report</description>
+			<author>Microbac Labs, Inc, NextEra Energy Duane Arnold, LLC</author>
+			<pubDate>2026-05-26 12:58:00</pubDate>
+		</item>
 		<item>
 			<title>Second Quarter Fiscal Year 2026 Report on Licensing Activities and Regulatory Duties for the Reporting Period of January 1, 2026, through March 31, 2026</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26111A112</link>
@@ -199,27 +220,6 @@
 			<description>Probabilistic Risk Assessment</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2026-05-20 12:55:00</pubDate>
-		</item>
-		<item>
-			<title>Indian Point Energy Center - 2025 Annual Radiological Environmental Operating Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26131A055</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Holtec Decommissioning International, LLC</author>
-			<pubDate>2026-05-20 12:54:00</pubDate>
-		</item>
-		<item>
-			<title>Indian Point Energy Center - 2025 Annual Radiological Environmental Operating Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26131A055</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Holtec Decommissioning International, LLC</author>
-			<pubDate>2026-05-20 12:54:00</pubDate>
-		</item>
-		<item>
-			<title>Indian Point Energy Center - 2025 Annual Radiological Environmental Operating Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26131A055</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Holtec Decommissioning International, LLC</author>
-			<pubDate>2026-05-20 12:54:00</pubDate>
 		</item>
 	</channel>
 </rss>

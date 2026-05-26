@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 26 May 2026 00:05:58 GMT</pubDate>
-		<lastBuildDate>Tue, 26 May 2026 00:05:58 GMT</lastBuildDate>
+		<pubDate>Tue, 26 May 2026 15:34:07 GMT</pubDate>
+		<lastBuildDate>Tue, 26 May 2026 15:34:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2026/05/11 Project Long Mott Docs - RE Status of issuance of EA</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26131A220</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2026-05-26 12:57:00</pubDate>
+		</item>
 		<item>
 			<title>Withholding Proprietary Information From Public Disclosure -OKLO INC. Licensing Project Plan 2Q2026 Update</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26085A724</link>
@@ -93,6 +100,13 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26131A070</link>
 			<description>Letter</description>
 			<author>X-Energy, LLC</author>
+			<pubDate>2026-05-19 12:34:00</pubDate>
+		</item>
+		<item>
+			<title>University Of Illinois Urbana-Champaign - Acceptance For Docketing Of Construction Permit Application (EPID L-2026-NFN-0001)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26120A548</link>
+			<description>Acceptance Review Letter, Letter</description>
+			<author>NRC/NRR/DANU/UNPL</author>
 			<pubDate>2026-05-19 12:34:00</pubDate>
 		</item>
 		<item>
@@ -206,20 +220,6 @@
 			<description>Safety Evaluation</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2026-05-13 14:04:00</pubDate>
-		</item>
-		<item>
-			<title>EPA Comments on the Final Supplemental Environmental Impact Statement for a Construction Permit at the Clinch River Nuclear Site, CEQ No. 20260036 dated May 5, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26125A411</link>
-			<description>Letter</description>
-			<author>US Environmental Protection Agency, Region 4</author>
-			<pubDate>2026-05-13 12:39:00</pubDate>
-		</item>
-		<item>
-			<title>Final Order Hermes 1 Extension of Construction Completion</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26085A080</link>
-			<description>Order</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2026-05-13 12:39:00</pubDate>
 		</item>
 	</channel>
 </rss>

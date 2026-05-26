@@ -1,7 +1,7 @@
 # Last Week in Dockets
 
 This page is updated Monday through Friday, hourly between 9AM ET and 5
-PM ET. The last update was at 2026-05-25 20:06:09.418709 ET.
+PM ET. The last update was at 2026-05-26 11:34:16.981007 ET.
 
 ``` r
 
@@ -11,7 +11,7 @@ last_week_in_dockets <- nrcadams::docket_codex |>
   dplyr::left_join(nrcadams::docket_codex) |>
   dplyr::filter(!is.na(Project))
 #> 
-#>  This search returned: 14 files.
+#>  This search returned: 16 files.
 #> Joining with `by = join_by(DocketNumber)`
 
 build_html_table <- function(docket_tbl, LWR) {
@@ -88,6 +88,7 @@ dockets:
 - TRISO-X Fab. Part 70
 - Long Mott Pre-Application
 - Long Mott Part 50
+- KRONOS
 - Natrium Pre-Application
 - Natrium Part 50
 - USO SFR Owner Pre-Applicatoin

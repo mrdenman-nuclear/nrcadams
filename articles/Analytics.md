@@ -6,7 +6,7 @@ some reports. The results presented here should be interpreted with
 these limitations.
 
 This page is updated Monday through Friday, hourly between 9AM ET and 5
-PM ET. The last update was at 2026-05-25 20:04:23.179811 ET.
+PM ET. The last update was at 2026-05-26 11:32:35.180696 ET.
 
 ## Pulling Advanced Reactor Docket Files
 
@@ -89,7 +89,7 @@ plt |> plotly::ggplotly(tooltip = c("Type", "count"))
 
 The plot below shows the number of documents submitted to a docket. Plot
 order is sorted from highest number of documents, NuScale 50 MWe Part 52
-to lowest number of documents, USO SFR Owner Pre-Applicatoin.
+to lowest number of documents, KRONOS, USO SFR Owner Pre-Applicatoin.
 
 #### Cumulative Plots
 
@@ -357,7 +357,7 @@ smoothed_grouped_dockets |>
 This section is updated once a day and presents the Topical Reports,
 Technical Reports, Environmental Reports, and Safety Evaluations
 available on new reactor dockets. The last update was at 2026-05-26
-00:05:45.119293. The following dockets are searched:
+15:33:54.698702. The following dockets are searched:
 
 - MSRR Pre-Application
 - MSRR Part 50
@@ -368,6 +368,7 @@ available on new reactor dockets. The last update was at 2026-05-26
 - Long Mott Pre-Application
 - Long Mott Part 50
 - AP300
+- KRONOS
 - Natrium Pre-Application
 - Natrium Part 50
 - USO SFR Owner Pre-Applicatoin
