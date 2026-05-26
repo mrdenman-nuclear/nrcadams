@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 26 May 2026 20:07:37 GMT</pubDate>
-		<lastBuildDate>Tue, 26 May 2026 20:07:37 GMT</lastBuildDate>
+		<pubDate>Tue, 26 May 2026 22:24:23 GMT</pubDate>
+		<lastBuildDate>Tue, 26 May 2026 22:24:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>FRN - University of Illinois Acceptance and Opportunity for Hearing</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26131A421</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2026-05-26 20:31:00</pubDate>
+		</item>
 		<item>
 			<title>2026/05/11 Project Long Mott Docs - RE Status of issuance of EA</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26131A220</link>
@@ -211,13 +218,6 @@
 			<title>Final Transmittal Letter to Amend Hermes 1 CP to Extend Construction Completion</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26085A108</link>
 			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2026-05-13 14:04:00</pubDate>
-		</item>
-		<item>
-			<title>Final Safety Evaluation to Amend Hermes 1 CP to Extend Construction Completion</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26085A103</link>
-			<description>Safety Evaluation</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2026-05-13 14:04:00</pubDate>
 		</item>
