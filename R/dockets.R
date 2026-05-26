@@ -20,6 +20,7 @@ docket_codex = tibble::tribble(
   "Long Mott Pre-Application", "X-Energy", 99902117, TRUE,
   "Long Mott Part 50", "X-Energy", 05000614, TRUE,
   "AP300", "Westinghouse", 99902111, FALSE,
+  "KRONOS", "UCUI", 05000618, TRUE,
 
   # # The following docket numbers were assigned to one prop withholding form...
   # "X-Energy", "Entergy",  5000313, FALSE,
