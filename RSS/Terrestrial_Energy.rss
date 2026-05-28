@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 28 May 2026 17:36:58 GMT</pubDate>
-		<lastBuildDate>Thu, 28 May 2026 17:36:58 GMT</lastBuildDate>
+		<pubDate>Thu, 28 May 2026 20:17:01 GMT</pubDate>
+		<lastBuildDate>Thu, 28 May 2026 20:17:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Environmental Assessment for Subsequent License Renewal for Edwin I. Hatch Nuclear Plant, Units 1 and 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26063A016</link>
+			<description>Environmental Impact Statement</description>
+			<author>NRC/NMSS/DREFS/EPMB1</author>
+			<pubDate>2026-05-28 19:26:00</pubDate>
+		</item>
+		<item>
+			<title>Environmental Assessment for Subsequent License Renewal for Edwin I. Hatch Nuclear Plant, Units 1 and 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26063A016</link>
+			<description>Environmental Impact Statement</description>
+			<author>NRC/NMSS/DREFS/EPMB1</author>
+			<pubDate>2026-05-28 19:26:00</pubDate>
+		</item>
 		<item>
 			<title>Nine Mile Point Nuclear Station, Units 1 and 2, and Independent Spent Fuel Storage Installation (ISFSI) - 2025 Radioactive Effluent Release Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26147A061</link>
@@ -206,20 +220,6 @@
 			<description>Letter, Periodic Monitoring Report (Radiological/Environmental)</description>
 			<author>Nebraska Public Power District (NPPD)</author>
 			<pubDate>2026-05-19 12:34:00</pubDate>
-		</item>
-		<item>
-			<title>Davis-Besse Nuclear Power Station, Unit 1 - Combined Annual Radiological Environmental Operating Report and Radioactive Effluent Release Report - 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26131A288</link>
-			<description>Environmental Monitoring Report, Letter, Periodic Monitoring Report (Radiological/Environmental)</description>
-			<author>Vistra Operations Company, LLC</author>
-			<pubDate>2026-05-19 12:34:00</pubDate>
-		</item>
-		<item>
-			<title>Pilgrim Nuclear Power Station, Annual Radiological Environmental Operating Report, January 1 through December 31, 2025, for Pilgrim Station</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26133A266</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Holtec Decommissioning International, LLC</author>
-			<pubDate>2026-05-15 15:02:00</pubDate>
 		</item>
 	</channel>
 </rss>
