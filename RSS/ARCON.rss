@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 29 May 2026 17:38:00 GMT</pubDate>
-		<lastBuildDate>Fri, 29 May 2026 17:38:00 GMT</lastBuildDate>
+		<pubDate>Fri, 29 May 2026 20:17:18 GMT</pubDate>
+		<lastBuildDate>Fri, 29 May 2026 20:17:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Enclosure 1: Clinch River Nuclear Site Construction Permit Application, NRC RAI No. 001 (RAI-11122-R1), TVA Response (Public Version) and PSAR Markup</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26111A161</link>
+			<description>Response to Request for Additional Information (RAI)</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2026-05-29 19:35:00</pubDate>
+		</item>
+	</channel>
 </rss>
