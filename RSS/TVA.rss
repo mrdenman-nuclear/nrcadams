@@ -5,12 +5,47 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 29 May 2026 20:17:17 GMT</pubDate>
-		<lastBuildDate>Fri, 29 May 2026 20:17:17 GMT</lastBuildDate>
+		<pubDate>Fri, 29 May 2026 22:30:03 GMT</pubDate>
+		<lastBuildDate>Fri, 29 May 2026 22:30:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>ASER Clinch River CPA - References by Chapter</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26149A217</link>
+			<description>- No Document Type Applies</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2026-05-29 20:30:00</pubDate>
+		</item>
+		<item>
+			<title>ASER - Clinch River CPA Chapter 2: Site Characteristics And Site Parameters - Redacted.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26148A320</link>
+			<description>Safety Evaluation Report</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2026-05-29 20:30:00</pubDate>
+		</item>
+		<item>
+			<title>PUBLIC - Clinch River CPA - ASER - Chapter 15: Safety Analyses - Redacted</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26149A322</link>
+			<description>Safety Evaluation Report</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2026-05-29 20:30:00</pubDate>
+		</item>
+		<item>
+			<title>Public-Clinch River CPA-ASER-Chapter 3, Design Of Structures Components Equipment and System - Redacted</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26149A275</link>
+			<description>Safety Evaluation Report</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2026-05-29 20:30:00</pubDate>
+		</item>
+		<item>
+			<title>Tennessee Valley Authority Clinch River Construction Permit Application Advanced Safety Evaluation Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25363A124</link>
+			<description></description>
+			<author></author>
+			<pubDate>2026-05-29 20:30:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 1: Clinch River Nuclear Site Construction Permit Application, NRC Audit Question and TVA Response</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26119A646</link>
@@ -185,41 +220,6 @@
 			<description>Letter, Licensee Event Report (LER)</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2026-05-29 12:43:00</pubDate>
-		</item>
-		<item>
-			<title>BF 2024-301 2A-3 Exam Administrative Items (delayed release)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24185A113</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/RGN-II</author>
-			<pubDate>2026-05-29 12:42:00</pubDate>
-		</item>
-		<item>
-			<title>BF 2024-301 2A-3 Exam Administrative Items (delayed release)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24185A113</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/RGN-II</author>
-			<pubDate>2026-05-29 12:42:00</pubDate>
-		</item>
-		<item>
-			<title>BF 2024-301 2A-3 Exam Administrative Items (delayed release)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24185A113</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/RGN-II</author>
-			<pubDate>2026-05-29 12:42:00</pubDate>
-		</item>
-		<item>
-			<title>BF 2024-301 2A-2 Exam Final Items (delayed release).</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24185A108</link>
-			<description>License-Operator Examination Report</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-05-29 12:42:00</pubDate>
-		</item>
-		<item>
-			<title>BF 2024-301 2A-2 Exam Final Items (delayed release).</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24185A108</link>
-			<description>License-Operator Examination Report</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-05-29 12:42:00</pubDate>
 		</item>
 	</channel>
 </rss>
