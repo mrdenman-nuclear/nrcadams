@@ -5,11 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 29 May 2026 00:11:33 GMT</pubDate>
-		<lastBuildDate>Fri, 29 May 2026 00:11:33 GMT</lastBuildDate>
+		<pubDate>Fri, 29 May 2026 17:37:54 GMT</pubDate>
+		<lastBuildDate>Fri, 29 May 2026 17:37:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Submittal of Revision 1 of the Preliminary Safety Analysis Report and Exemptions and Variances in Support of the Clinch River Nuclear Site Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26119A629</link>
+			<description>Letter</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2026-05-29 17:05:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: Clinch River Nuclear Site Construction Permit Application Exemptions and Variances</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26119A631</link>
+			<description>Report, Technical</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2026-05-29 17:05:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1: Clinch River Nuclear Site Construction Permit Application Preliminary Safety Analysis Report CPA Enclosure 3</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26119A630</link>
+			<description>Preliminary Safety Analysis Report (PSAR)</description>
+			<author>Tennessee Valley Authority</author>
+			<pubDate>2026-05-29 17:05:00</pubDate>
+		</item>
+	</channel>
 </rss>
