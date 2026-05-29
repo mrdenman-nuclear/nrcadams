@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 28 May 2026 22:45:10 GMT</pubDate>
-		<lastBuildDate>Thu, 28 May 2026 22:45:10 GMT</lastBuildDate>
+		<pubDate>Fri, 29 May 2026 00:11:38 GMT</pubDate>
+		<lastBuildDate>Fri, 29 May 2026 00:11:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,20 +66,6 @@
 			<description>Federal Register Notice</description>
 			<author>NRC/NRR/DANU/UAL1</author>
 			<pubDate>2026-05-18 12:16:00</pubDate>
-		</item>
-		<item>
-			<title>M260605: Slides - Meeting with the Advisory Committee on Reactor Safeguards</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26134A344</link>
-			<description>Commission Meeting Slides</description>
-			<author>NRC/OCM</author>
-			<pubDate>2026-05-14 20:25:00</pubDate>
-		</item>
-		<item>
-			<title>Orano Enrichment USA, LLC - Attachment: Biological Assessment Prepared for the NRC, DOE, and USACE</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26127A248</link>
-			<description>Report, Miscellaneous</description>
-			<author>Orano Enrichment USA, LLC</author>
-			<pubDate>2026-05-14 13:59:00</pubDate>
 		</item>
 	</channel>
 </rss>

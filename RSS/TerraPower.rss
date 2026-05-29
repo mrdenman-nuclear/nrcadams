@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 28 May 2026 22:45:10 GMT</pubDate>
-		<lastBuildDate>Thu, 28 May 2026 22:45:10 GMT</lastBuildDate>
+		<pubDate>Fri, 29 May 2026 00:11:38 GMT</pubDate>
+		<lastBuildDate>Fri, 29 May 2026 00:11:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -101,20 +101,6 @@
 			<description>Report, Administrative</description>
 			<author>NRC/Chairman</author>
 			<pubDate>2026-05-15 11:59:00</pubDate>
-		</item>
-		<item>
-			<title>M260605: Slides - Meeting with the Advisory Committee on Reactor Safeguards</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26134A344</link>
-			<description>Commission Meeting Slides</description>
-			<author>NRC/OCM</author>
-			<pubDate>2026-05-14 20:25:00</pubDate>
-		</item>
-		<item>
-			<title>Public Meeting on Digital Condition Monitoring for Nuclear Facilities 05/19/2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26134A081</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2026-05-14 15:55:00</pubDate>
 		</item>
 	</channel>
 </rss>
