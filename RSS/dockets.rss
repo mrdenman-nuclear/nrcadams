@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Sat, 30 May 2026 00:09:49 GMT</pubDate>
-		<lastBuildDate>Sat, 30 May 2026 00:09:49 GMT</lastBuildDate>
+		<pubDate>Mon, 01 Jun 2026 19:21:18 GMT</pubDate>
+		<lastBuildDate>Mon, 01 Jun 2026 19:21:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2026/05/18 Project Long Mott Docs - The Federal Register Notice ML26104A220 has been signed.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26138A116</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2026-06-01 12:44:00</pubDate>
+		</item>
 		<item>
 			<title>ASER - Clinch River CPA Chapter 2: Site Characteristics And Site Parameters - Redacted.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26148A320</link>
@@ -213,13 +220,6 @@
 			<description>Audit Plan</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2026-05-28 12:32:00</pubDate>
-		</item>
-		<item>
-			<title>Joint Motion to Correct the Transcript of the Prehearing Conference Held on May 12, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26146A268</link>
-			<description>Legal-Motion</description>
-			<author>Perales, Allmon and Ice, P.C., San Antonio Bay Estuarine Waterkeeper</author>
-			<pubDate>2026-05-27 13:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
