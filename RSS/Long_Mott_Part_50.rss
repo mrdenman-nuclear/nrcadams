@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 01 Jun 2026 22:35:29 GMT</pubDate>
-		<lastBuildDate>Mon, 01 Jun 2026 22:35:29 GMT</lastBuildDate>
+		<pubDate>Tue, 02 Jun 2026 00:12:44 GMT</pubDate>
+		<lastBuildDate>Tue, 02 Jun 2026 00:12:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -94,27 +94,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2026-05-19 12:34:00</pubDate>
-		</item>
-		<item>
-			<title>Notification of The Issuance of the EA And Finding of No Significant Impact for the CP Review for the LM Generating Station Reactor Facility and Exemptions from Certain Requirements</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26113A340</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2026-05-18 17:31:00</pubDate>
-		</item>
-		<item>
-			<title>Federal Register Notice - Long Mott Generating Station Construction Permit Environmental Assessment, Finding of No Significant Impact, and Exemptions</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26104A220</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-05-18 17:31:00</pubDate>
-		</item>
-		<item>
-			<title>Redacted San Antonio Bay Estuarine Waterkeeper's Sur-Reply Regarding Dispositive Motion on Contention 3B</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26135A424</link>
-			<description>Legal-Motion</description>
-			<author>Perales, Allmon and Ice, P.C., San Antonio Bay Estuarine Waterkeeper</author>
-			<pubDate>2026-05-18 13:39:00</pubDate>
 		</item>
 	</channel>
 </rss>
