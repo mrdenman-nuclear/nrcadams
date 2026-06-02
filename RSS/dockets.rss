@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 02 Jun 2026 00:12:45 GMT</pubDate>
-		<lastBuildDate>Tue, 02 Jun 2026 00:12:45 GMT</lastBuildDate>
+		<pubDate>Tue, 02 Jun 2026 18:05:44 GMT</pubDate>
+		<lastBuildDate>Tue, 02 Jun 2026 18:05:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2026/05/19 GEH BWRX-300 SMR TR RAI - RE Staff Safety Evaluation for GVH BWRX-300 Stability Analysis Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26139A342</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2026-06-02 12:37:00</pubDate>
+		</item>
+		<item>
+			<title>2026/05/19 GEH BWRX-300 SMR TR RAI - Staff Safety Evaluation for GVH BWRX-300 Stability Analysis Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26139A341</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2026-06-02 12:37:00</pubDate>
+		</item>
 		<item>
 			<title>2026/05/18 Project Long Mott Docs - The Federal Register Notice ML26104A220 has been signed.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26138A116</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26133A191</link>
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
-			<pubDate>2026-05-28 12:32:00</pubDate>
-		</item>
-		<item>
-			<title>University of Illinois Urbana-Champaign - Transmittal of Audit Plan for the U. of I. KRONOS MMR Key Technical Topics</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26140A395</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2026-05-28 12:32:00</pubDate>
-		</item>
-		<item>
-			<title>University of Illinois Urbana-Champaign - Audit Plan for the U. of I. KRONOS MMR Key Technical Topics</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26140A394</link>
-			<description>Audit Plan</description>
-			<author>NRC/NRR/DANU</author>
 			<pubDate>2026-05-28 12:32:00</pubDate>
 		</item>
 	</channel>
