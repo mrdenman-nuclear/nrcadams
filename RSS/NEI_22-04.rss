@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 03 Jun 2026 18:23:53 GMT</pubDate>
-		<lastBuildDate>Wed, 03 Jun 2026 18:23:53 GMT</lastBuildDate>
+		<pubDate>Wed, 03 Jun 2026 21:50:14 GMT</pubDate>
+		<lastBuildDate>Wed, 03 Jun 2026 21:50:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>IMC 2515 Light-Water Reactor Inspection Program--Operations Phase</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26084A508</link>
+			<description>Inspection Manual</description>
+			<author>NRC/NRR/DRO/IRIB</author>
+			<pubDate>2026-06-03 20:27:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Observations for TIMaSC Tabletop Exercises with X-energy</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26154A160</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2026-06-03 18:28:00</pubDate>
+		</item>
 		<item>
 			<title>Shearon Harris, Unit 1 - Submittal of Updated Final Safety Analysis Report (Amendment 67), Technical Specification Bases Revision, Report of Changes Pursuant to 10 CFR 50.59 and Summary of Commitment Changes</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26124A382</link>
@@ -206,20 +220,6 @@
 			<description>Periodic Monitoring Report (Radiological/Environmental)</description>
 			<author>Constellation Energy Generation, LLC</author>
 			<pubDate>2026-05-26 12:58:00</pubDate>
-		</item>
-		<item>
-			<title>Attachment 1: Duane Arnold Energy Center - Annual Radiological Environmental Operating Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26135A231</link>
-			<description>Environmental Monitoring Report</description>
-			<author>Microbac Labs, Inc, NextEra Energy Duane Arnold, LLC</author>
-			<pubDate>2026-05-26 12:58:00</pubDate>
-		</item>
-		<item>
-			<title>Second Quarter Fiscal Year 2026 Report on Licensing Activities and Regulatory Duties for the Reporting Period of January 1, 2026, through March 31, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26111A112</link>
-			<description>Congressional Correspondence, Report, Technical, Status Report</description>
-			<author>NRC/Chairman</author>
-			<pubDate>2026-05-22 12:47:00</pubDate>
 		</item>
 	</channel>
 </rss>
