@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 02 Jun 2026 23:46:11 GMT</pubDate>
-		<lastBuildDate>Tue, 02 Jun 2026 23:46:11 GMT</lastBuildDate>
+		<pubDate>Wed, 03 Jun 2026 18:23:53 GMT</pubDate>
+		<lastBuildDate>Wed, 03 Jun 2026 18:23:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Shearon Harris, Unit 1 - Submittal of Updated Final Safety Analysis Report (Amendment 67), Technical Specification Bases Revision, Report of Changes Pursuant to 10 CFR 50.59 and Summary of Commitment Changes</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26124A382</link>
+			<description>Letter, Technical Specification, Bases Change, Updated Final Safety Analysis Report (UFSAR)</description>
+			<author>Duke Energy Progress, LLC</author>
+			<pubDate>2026-06-03 15:21:00</pubDate>
+		</item>
+		<item>
+			<title>Beaver Valley Power Station, Unit 1, License Amendment Request for Technical Specification 3.5.2 Regarding One-Time Action for Pump Seal Repair</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26146A267</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>Vistra Operations Company, LLC</author>
+			<pubDate>2026-06-03 12:31:00</pubDate>
+		</item>
 		<item>
 			<title>Peach Bottom Units 1, 2 & 3 & Independent Spent Fuel Storage Installation Facility Annual Radiological Environmental Operating Report 83, January 1, 2025 through December 31, 2025</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26149A364</link>
@@ -206,20 +220,6 @@
 			<description>Congressional Correspondence, Report, Technical, Status Report</description>
 			<author>NRC/Chairman</author>
 			<pubDate>2026-05-22 12:47:00</pubDate>
-		</item>
-		<item>
-			<title>James A. FitzPatrick Nuclear Power Plant, 2025 Annual Radiological Environmental Operating Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26134A373</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2026-05-22 12:46:00</pubDate>
-		</item>
-		<item>
-			<title>Browns Ferry Nuclear Plant, Units 1, 2, and 3, 2025 Annual Radiological Environmental Operating Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26134A159</link>
-			<description>Letter, Periodic Monitoring Report (Radiological/Environmental)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-05-22 12:46:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 02 Jun 2026 23:46:08 GMT</pubDate>
-		<lastBuildDate>Tue, 02 Jun 2026 23:46:08 GMT</lastBuildDate>
+		<pubDate>Wed, 03 Jun 2026 18:23:50 GMT</pubDate>
+		<lastBuildDate>Wed, 03 Jun 2026 18:23:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>7-23-24 - Testimony before the House Committee on Energy and Commerce Subcommittee on Energy, Climate and Grid Security Presented by U.S. NRC Chairman Christopher T. Hanson re: FY25 Budget and Oversight on July 23, 2024</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26153A311</link>
+			<description>Congressional Testimony</description>
+			<author>NRC/Chairman</author>
+			<pubDate>2026-06-03 17:30:00</pubDate>
+		</item>
 		<item>
 			<title>M260605: Slides - Meeting with the Advisory Committee on Reactor Safeguards</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26134A344</link>
@@ -94,20 +101,6 @@
 			<description>NUREG</description>
 			<author>Institute of Nuclear Power Operations (INPO), NRC/NRR</author>
 			<pubDate>2026-05-21 12:47:00</pubDate>
-		</item>
-		<item>
-			<title>03/12/2026 - RIC 2026 -  Presentation - Session W8 GWilson TerraPower</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26070A400</link>
-			<description>Conference/Symposium/Workshop Paper</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2026-05-19 19:45:00</pubDate>
-		</item>
-		<item>
-			<title>03/12/2026 - RIC 2026 - W8- Building Smarter- Greives</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26070A403</link>
-			<description>Conference/Symposium/Workshop Paper</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-05-19 19:45:00</pubDate>
 		</item>
 	</channel>
 </rss>

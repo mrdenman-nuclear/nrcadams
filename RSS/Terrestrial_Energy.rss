@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 02 Jun 2026 23:46:08 GMT</pubDate>
-		<lastBuildDate>Tue, 02 Jun 2026 23:46:08 GMT</lastBuildDate>
+		<pubDate>Wed, 03 Jun 2026 18:23:50 GMT</pubDate>
+		<lastBuildDate>Wed, 03 Jun 2026 18:23:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Draft Environmental Assessment and Draft Finding of No Significant Impact for the Christopher M. Crane Clean Energy Center Reauthorization of Power Operations Project</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26120A058</link>
+			<description>Environmental Assessment, Finding of No Significant Impact</description>
+			<author>NRC/NMSS/DREFS/EPMB1</author>
+			<pubDate>2026-06-03 12:31:00</pubDate>
+		</item>
+		<item>
+			<title>Nine Mile Point Nuclear Station, Unit 1 - License Renewal Regulatory Audit Regarding the Environmental Review of the Subsequent License Renewal Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26134A235</link>
+			<description>Audit Plan, Letter</description>
+			<author>NRC/NMSS/DREFS/EPMB1</author>
+			<pubDate>2026-06-03 12:31:00</pubDate>
+		</item>
 		<item>
 			<title>M260605: Slides - Meeting with the Advisory Committee on Reactor Safeguards</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26134A344</link>
@@ -206,20 +220,6 @@
 			<description>Environmental Report, Letter</description>
 			<author>US Dept of Commerce, National Marine Fisheries Service</author>
 			<pubDate>2026-05-20 12:54:00</pubDate>
-		</item>
-		<item>
-			<title>Calvert Cliffs Nuclear Power Plant; Units 1 & 2, Independent Spent Fuel Storage Installation - Annual Radiological Environmental Operating Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26134A268</link>
-			<description>Environmental Monitoring Report</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2026-05-19 14:43:00</pubDate>
-		</item>
-		<item>
-			<title>Calvert Cliffs Nuclear Power Plant; Units 1 & 2, Independent Spent Fuel Storage Installation - Annual Radiological Environmental Operating Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26134A268</link>
-			<description>Environmental Monitoring Report</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2026-05-19 14:43:00</pubDate>
 		</item>
 	</channel>
 </rss>

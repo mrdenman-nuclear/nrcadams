@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 02 Jun 2026 23:46:09 GMT</pubDate>
-		<lastBuildDate>Tue, 02 Jun 2026 23:46:09 GMT</lastBuildDate>
+		<pubDate>Wed, 03 Jun 2026 18:23:52 GMT</pubDate>
+		<lastBuildDate>Wed, 03 Jun 2026 18:23:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -87,41 +87,6 @@
 			<description>Safety Evaluation Report</description>
 			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2026-05-29 19:35:00</pubDate>
-		</item>
-		<item>
-			<title>St. Lucie, Unit 1, Amendment 34 to Updated Final Safety Analysis Report, Chapter 15, Section 15.3, Postulated Accidents (Class 2 Accidents)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26119A698</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Florida Power and Light Co</author>
-			<pubDate>2026-05-26 18:48:00</pubDate>
-		</item>
-		<item>
-			<title>St. Lucie, Unit 1, Amendment 34 to Updated Final Safety Analysis Report, Chapter 15, Accident Analysis</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26119A693</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Florida Power and Light Co</author>
-			<pubDate>2026-05-26 18:48:00</pubDate>
-		</item>
-		<item>
-			<title>St. Lucie, Unit 1, Amendment 34 to Updated Final Safety Analysis Report, Chapter 6, Engineered Safety Features</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26119A657</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Florida Power and Light Co</author>
-			<pubDate>2026-05-26 18:48:00</pubDate>
-		</item>
-		<item>
-			<title>St. Lucie, Unit 1, Amendment 34 to Updated Final Safety Analysis Report, Chapter 11, Radioactive Waste Management System</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26119A687</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Florida Power and Light Co</author>
-			<pubDate>2026-05-26 18:48:00</pubDate>
-		</item>
-		<item>
-			<title>St. Lucie, Unit 1, Amendment 34 to Updated Final Safety Analysis Report, Chapter 15, Section 15.3, Postulated Accidents (Class 2 Accidents)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26119A698</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Florida Power and Light Co</author>
-			<pubDate>2026-05-26 18:48:00</pubDate>
 		</item>
 	</channel>
 </rss>
