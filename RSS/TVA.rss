@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 03 Jun 2026 23:34:44 GMT</pubDate>
-		<lastBuildDate>Wed, 03 Jun 2026 23:34:44 GMT</lastBuildDate>
+		<pubDate>Thu, 04 Jun 2026 16:56:03 GMT</pubDate>
+		<lastBuildDate>Thu, 04 Jun 2026 16:56:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Clinch River CPA - ASER - Chapter 6 Engineered Safety Features</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26112A090</link>
+			<description>Safety Evaluation Report</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2026-06-04 16:29:00</pubDate>
+		</item>
+		<item>
+			<title>Pre-Submittal Meeting with Tennessee Valley Authority Regarding Proposed Relief Request 06/09/2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26155A025</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2026-06-04 12:57:00</pubDate>
+		</item>
+		<item>
+			<title>Palisades Nuclear Plant, One-Time Request for Exemption from Requirements of 10 CFR 26.3(a), "Fitness For Duty Programs - Scope"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26147A163</link>
+			<description>Letter</description>
+			<author>Holtec Palisades, LLC</author>
+			<pubDate>2026-06-04 12:55:00</pubDate>
+		</item>
 		<item>
 			<title>Request for Additional Information - TVA LAR to Revise Sequoyah Nuclear Plant, Units 1 and 2, Technical Specification 5.5.3, "Radiological Effluent Controls Program," for Use of Potassium Hydroxide (EPID L-2026-LLA-0006)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26153A322</link>
@@ -198,27 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26111A160</link>
 			<description>Letter</description>
 			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-05-29 19:35:00</pubDate>
-		</item>
-		<item>
-			<title>Clinch River CPA - ASER - Chapter 13 Conduct of Operations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26100A178</link>
-			<description>Safety Evaluation Report</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2026-05-29 19:35:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Tennessee Valley Authority Response to NRC Request for Additional Information No. 001 (RAI-11122-R1) in Support of the Clinch River Nuclear Site Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26111A159</link>
-			<description></description>
-			<author></author>
-			<pubDate>2026-05-29 19:35:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Audit Response in Support of the Clinch River Nuclear Site Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26119A644</link>
-			<description></description>
-			<author></author>
 			<pubDate>2026-05-29 19:35:00</pubDate>
 		</item>
 	</channel>
