@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 04 Jun 2026 16:55:58 GMT</pubDate>
-		<lastBuildDate>Thu, 04 Jun 2026 16:55:58 GMT</lastBuildDate>
+		<pubDate>Thu, 04 Jun 2026 19:25:31 GMT</pubDate>
+		<lastBuildDate>Thu, 04 Jun 2026 19:25:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Clinch River CPA - ASER - Chapter 7 Instrumentation and Controls</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26111A189</link>
+			<description>Safety Evaluation Report</description>
+			<author>NRC/NRR/DNRL/NRLB</author>
+			<pubDate>2026-06-04 19:07:00</pubDate>
+		</item>
 		<item>
 			<title>Clinch River CPA - ASER - Chapter 6 Engineered Safety Features</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26112A090</link>
@@ -89,13 +96,6 @@
 			<pubDate>2026-05-29 19:35:00</pubDate>
 		</item>
 		<item>
-			<title>Clinch River CPA - ASER - Chapter 7 Instrumentation and Controls</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26111A189</link>
-			<description>Safety Evaluation Report</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2026-05-29 19:35:00</pubDate>
-		</item>
-		<item>
 			<title>Clinch River CPA - ASER - Chapter 9 Auxiliary Systems</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26127A176</link>
 			<description>Safety Evaluation Report</description>
@@ -110,6 +110,13 @@
 			<pubDate>2026-05-29 19:35:00</pubDate>
 		</item>
 		<item>
+			<title>Enclosure 3: GVH Affidavit and Request for Withholding from Public Disclosure (10 CFR 2.390(a)(3))</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26111A163</link>
+			<description>Legal-Affidavit</description>
+			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
+			<pubDate>2026-05-29 19:35:00</pubDate>
+		</item>
+		<item>
 			<title>Clinch River CPA - ASER - Chapter 11 Radioactive Waste Management</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26093A019</link>
 			<description>Report, Miscellaneous</description>
@@ -121,13 +128,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26119A645</link>
 			<description>Letter</description>
 			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-05-29 19:35:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: GVH Affidavit and Request for Withholding from Public Disclosure (10 CFR 2.390(a)(3))</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26111A163</link>
-			<description>Legal-Affidavit</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
 			<pubDate>2026-05-29 19:35:00</pubDate>
 		</item>
 		<item>
