@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 05 Jun 2026 22:17:02 GMT</pubDate>
-		<lastBuildDate>Fri, 05 Jun 2026 22:17:02 GMT</lastBuildDate>
+		<pubDate>Sat, 06 Jun 2026 00:06:35 GMT</pubDate>
+		<lastBuildDate>Sat, 06 Jun 2026 00:06:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,13 +52,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2026-05-29 12:43:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Proprietary Information From Public Disclosure -OKLO INC. Licensing Project Plan 2Q2026 Update</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26085A724</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2026-05-22 12:46:00</pubDate>
 		</item>
 	</channel>
 </rss>
