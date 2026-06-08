@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Sat, 06 Jun 2026 00:06:36 GMT</pubDate>
-		<lastBuildDate>Sat, 06 Jun 2026 00:06:36 GMT</lastBuildDate>
+		<pubDate>Mon, 08 Jun 2026 17:23:40 GMT</pubDate>
+		<lastBuildDate>Mon, 08 Jun 2026 17:23:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Letter Submitting 2025-2026 Annual Progress Report For Missouri University Of Science And Technology Reactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26150A002</link>
+			<description>Letter</description>
+			<author>Missouri Univ of Science and Technology</author>
+			<pubDate>2026-06-08 12:44:00</pubDate>
+		</item>
+		<item>
+			<title>Annual Progress Report for Missouri University of Science and Technology Reactor, April 1, 2025 to March 31, 2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26150A003</link>
+			<description>Annual Report</description>
+			<author>Missouri Univ of Science and Technology</author>
+			<pubDate>2026-06-08 12:44:00</pubDate>
+		</item>
+	</channel>
 </rss>

@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Sat, 06 Jun 2026 00:06:35 GMT</pubDate>
-		<lastBuildDate>Sat, 06 Jun 2026 00:06:35 GMT</lastBuildDate>
+		<pubDate>Mon, 08 Jun 2026 17:23:39 GMT</pubDate>
+		<lastBuildDate>Mon, 08 Jun 2026 17:23:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Email to SMR (Holtec) Subject "SMR-300 Time-Domain LS-DYNA Soil Structure Interaction Analysis Methodology LTR - Schedule Update"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26159A010</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DNRL/NLIB</author>
+			<pubDate>2026-06-08 13:44:00</pubDate>
+		</item>
+	</channel>
 </rss>
