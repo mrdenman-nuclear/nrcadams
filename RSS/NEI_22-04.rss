@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 09 Jun 2026 00:06:07 GMT</pubDate>
-		<lastBuildDate>Tue, 09 Jun 2026 00:06:07 GMT</lastBuildDate>
+		<pubDate>Tue, 09 Jun 2026 16:33:35 GMT</pubDate>
+		<lastBuildDate>Tue, 09 Jun 2026 16:33:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TerraPower, LLC - Transmits NAT-22075, Rev. 0, "Emergency Action Level Methodology Topical Report"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26149A292</link>
+			<description>Topical Report</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2026-06-09 15:05:00</pubDate>
+		</item>
 		<item>
 			<title>Public Comment Table for Regulatory Guide (RG) 1.261, Revision 0, Guidance for Technology-Inclusive Risk-Informed Change Evaluation</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26051A105</link>
@@ -213,13 +220,6 @@
 			<description>Environmental Impact Statement</description>
 			<author>NRC/NMSS/DREFS/EPMB1</author>
 			<pubDate>2026-05-28 19:26:00</pubDate>
-		</item>
-		<item>
-			<title>Nine Mile Point Nuclear Station, Units 1 and 2, and Independent Spent Fuel Storage Installation (ISFSI) - 2025 Radioactive Effluent Release Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26147A061</link>
-			<description>Environmental Monitoring Report, Letter</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2026-05-28 12:33:00</pubDate>
 		</item>
 	</channel>
 </rss>
