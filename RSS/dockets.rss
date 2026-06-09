@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 09 Jun 2026 19:14:39 GMT</pubDate>
-		<lastBuildDate>Tue, 09 Jun 2026 19:14:39 GMT</lastBuildDate>
+		<pubDate>Tue, 09 Jun 2026 21:48:39 GMT</pubDate>
+		<lastBuildDate>Tue, 09 Jun 2026 21:48:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Memorandum and Order (Addressing May 12, 2026, Transcript Redactions)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26160A283</link>
+			<description>Legal-Order</description>
+			<author>NRC/ASLBP</author>
+			<pubDate>2026-06-09 19:03:00</pubDate>
+		</item>
 		<item>
 			<title>TerraPower, LLC - Transmits NAT-22075, Rev. 0, "Emergency Action Level Methodology Topical Report"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26149A292</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26100A046</link>
 			<description>Safety Evaluation Report</description>
 			<author>NRC/NRR/DNRL/NLIB, NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2026-05-29 19:35:00</pubDate>
-		</item>
-		<item>
-			<title>Clinch River CPA - ASER - Chapter 12 Radiation Protection</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26106A015</link>
-			<description>Safety Evaluation Report</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2026-05-29 19:35:00</pubDate>
 		</item>
 	</channel>
