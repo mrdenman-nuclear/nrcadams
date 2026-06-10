@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 09 Jun 2026 23:19:23 GMT</pubDate>
-		<lastBuildDate>Tue, 09 Jun 2026 23:19:23 GMT</lastBuildDate>
+		<pubDate>Wed, 10 Jun 2026 16:58:32 GMT</pubDate>
+		<lastBuildDate>Wed, 10 Jun 2026 16:58:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>WEC - Withholding Determination For Proprietary Information Supporting Document Rev 4 for ALS V2 Review</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26141A367</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2026-06-10 12:44:00</pubDate>
+		</item>
 		<item>
 			<title>Memorandum and Order (Addressing May 12, 2026, Transcript Redactions)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26160A283</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26119A646</link>
 			<description>Response to Request for Additional Information (RAI)</description>
 			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-05-29 19:35:00</pubDate>
-		</item>
-		<item>
-			<title>Clinch River CPA - ASER - Chapter 10 Steam and Power Conversion Systems</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26100A046</link>
-			<description>Safety Evaluation Report</description>
-			<author>NRC/NRR/DNRL/NLIB, NRC/NRR/DNRL/NRLB</author>
 			<pubDate>2026-05-29 19:35:00</pubDate>
 		</item>
 	</channel>
