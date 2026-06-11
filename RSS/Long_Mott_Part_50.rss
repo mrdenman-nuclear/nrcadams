@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 10 Jun 2026 23:26:13 GMT</pubDate>
-		<lastBuildDate>Wed, 10 Jun 2026 23:26:13 GMT</lastBuildDate>
+		<pubDate>Thu, 11 Jun 2026 17:37:36 GMT</pubDate>
+		<lastBuildDate>Thu, 11 Jun 2026 17:37:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2026-06-01 12:44:00</pubDate>
-		</item>
-		<item>
-			<title>Joint Motion to Correct the Transcript of the Prehearing Conference Held on May 12, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26146A268</link>
-			<description>Legal-Motion</description>
-			<author>Perales, Allmon and Ice, P.C., San Antonio Bay Estuarine Waterkeeper</author>
-			<pubDate>2026-05-27 13:35:00</pubDate>
-		</item>
-		<item>
-			<title>2026/05/08 Project Long Mott Docs - LME - Request for Withholding Information from Public Disclosure Regulatory Engagement Plan 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26133A068</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-05-27 12:36:00</pubDate>
 		</item>
 	</channel>
 </rss>

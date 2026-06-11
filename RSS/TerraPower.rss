@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 10 Jun 2026 23:26:17 GMT</pubDate>
-		<lastBuildDate>Wed, 10 Jun 2026 23:26:17 GMT</lastBuildDate>
+		<pubDate>Thu, 11 Jun 2026 17:37:41 GMT</pubDate>
+		<lastBuildDate>Thu, 11 Jun 2026 17:37:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Letter to George Wilson, from Mehdi Reisi Fard, Division of Advanced Reactors and Non-Power Production and Utilization Facilities, NRC Office of Investigations Report No. OI-RII-2025-0060 Release of OI Synopsis</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26160A300</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2026-06-11 12:51:00</pubDate>
+		</item>
 		<item>
 			<title>Summary of May 13 Meeting on NEI 24-11, Rev 1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26160A315</link>
@@ -73,27 +80,6 @@
 			<description>Graphics incl Charts and Tables</description>
 			<author>NRC/OE</author>
 			<pubDate>2026-05-28 12:33:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - LTR to the Honorable Shelley Moore Capito, et al., submits the NRCs semiannual status report on the Licensing Activities and Regulatory Duties from 10-1-2025 - 3-31-2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26106A254</link>
-			<description>Status Report</description>
-			<author>NRC/Chairman</author>
-			<pubDate>2026-05-27 14:52:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Overview: Presentation to 2026 Nuclear Nonoperating Owners Group Conference</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26139A211</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DNRL</author>
-			<pubDate>2026-05-27 12:36:00</pubDate>
-		</item>
-		<item>
-			<title>National Energy Emergency - Enclosure April 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26111A080</link>
-			<description>Congressional Correspondence, Status Report</description>
-			<author>NRC/Chairman</author>
-			<pubDate>2026-05-27 12:36:00</pubDate>
 		</item>
 	</channel>
 </rss>
