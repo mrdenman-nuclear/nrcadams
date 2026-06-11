@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 11 Jun 2026 17:37:41 GMT</pubDate>
-		<lastBuildDate>Thu, 11 Jun 2026 17:37:41 GMT</lastBuildDate>
+		<pubDate>Thu, 11 Jun 2026 20:17:51 GMT</pubDate>
+		<lastBuildDate>Thu, 11 Jun 2026 20:17:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SECY-26-0062 Recommendation Regarding the Future of the Replenishment of Potassium Iodide</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26097A416</link>
+			<description>Commission SECY Paper</description>
+			<author>NRC/EDO</author>
+			<pubDate>2026-06-11 18:30:00</pubDate>
+		</item>
 		<item>
 			<title>SCALE UG 2026 - Current and Emerging SCALE Capabilities for the NRC - Modernizing Decision-making and Regulations</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26156A058</link>
