@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 12 Jun 2026 00:21:16 GMT</pubDate>
-		<lastBuildDate>Fri, 12 Jun 2026 00:21:16 GMT</lastBuildDate>
+		<pubDate>Fri, 12 Jun 2026 16:44:40 GMT</pubDate>
+		<lastBuildDate>Fri, 12 Jun 2026 16:44:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>TRISO-X, LLC - NRC Inspection Report 07007027/2026006 And Apparent Violation</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26152A036</link>
+			<description>Inspection Report, Letter</description>
+			<author>NRC/RGN-II/DFRSS/FOB2</author>
+			<pubDate>2026-06-12 12:57:00</pubDate>
+		</item>
+	</channel>
 </rss>

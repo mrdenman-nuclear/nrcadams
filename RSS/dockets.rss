@@ -5,12 +5,47 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 12 Jun 2026 00:21:17 GMT</pubDate>
-		<lastBuildDate>Fri, 12 Jun 2026 00:21:17 GMT</lastBuildDate>
+		<pubDate>Fri, 12 Jun 2026 16:44:40 GMT</pubDate>
+		<lastBuildDate>Fri, 12 Jun 2026 16:44:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>University of Illinois Urbana-Champaign, Transmittal of Key Technical Topics Audit Questions Gen-1 through Gen-14</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26163A205</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR</author>
+			<pubDate>2026-06-12 16:00:00</pubDate>
+		</item>
+		<item>
+			<title>University of Illinois Urbana-Champaign, Key Technical Topics Audit Questions Gen-1 through Gen-14</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26163A204</link>
+			<description>- No Document Type Applies</description>
+			<author>NRC/NRR</author>
+			<pubDate>2026-06-12 16:00:00</pubDate>
+		</item>
+		<item>
+			<title>TRISO-X, LLC - NRC Inspection Report 07007027/2026006 And Apparent Violation</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26152A036</link>
+			<description>Inspection Report, Letter</description>
+			<author>NRC/RGN-II/DFRSS/FOB2</author>
+			<pubDate>2026-06-12 12:57:00</pubDate>
+		</item>
+		<item>
+			<title>2026/05/29 Clinch River CP Saf Docs - Availability of Advance Safety Evaluation Report (ASER) Chapters, Clinch River Construction Permit Application review and slide deck in support of the ACRS Full Committee Meeting - June 3, 2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26149A490</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2026-06-12 12:56:00</pubDate>
+		</item>
+		<item>
+			<title>Non-Proprietary RAI-11212-R1 Requests for Additional Information NEDC-34416P, Revision 0, "Ultra Plus Control Rod Assembly"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26162A361</link>
+			<description>Request for Additional Information (RAI)</description>
+			<author>NRC/NRR/DORL/LLPB</author>
+			<pubDate>2026-06-12 11:59:00</pubDate>
+		</item>
 		<item>
 			<title>GVH BWX-300 Stability Analysis Topical Report -A TR Verification NRC 896</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26161A130</link>
@@ -185,41 +220,6 @@
 			<description>Legal-Affidavit</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2026-06-03 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>X-Energy, LLC - Xe-100 TRISO Pebble Fuel Qualification Topical Report Rev-4 Post Submittal Walkthrough</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26148A277</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2026-06-03 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>2026/05/19 GEH BWRX-300 SMR TR RAI - RE Staff Safety Evaluation for GVH BWRX-300 Stability Analysis Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26139A342</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-06-02 12:37:00</pubDate>
-		</item>
-		<item>
-			<title>2026/05/19 GEH BWRX-300 SMR TR RAI - Staff Safety Evaluation for GVH BWRX-300 Stability Analysis Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26139A341</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-06-02 12:37:00</pubDate>
-		</item>
-		<item>
-			<title>2026/05/18 Project Long Mott Docs - The Federal Register Notice ML26104A220 has been signed.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26138A116</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-06-01 12:44:00</pubDate>
-		</item>
-		<item>
-			<title>ASER - Clinch River CPA Chapter 2: Site Characteristics And Site Parameters - Redacted.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26148A320</link>
-			<description>Safety Evaluation Report</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2026-05-29 20:30:00</pubDate>
 		</item>
 	</channel>
 </rss>

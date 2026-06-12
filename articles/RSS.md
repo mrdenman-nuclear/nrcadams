@@ -2,7 +2,7 @@
 
 This page is updated Monday through Friday, hourly between 9AM ET and 5
 PM ET. It presents RSS files for the various dockets tracked by the
-`nrcadams` package. The last update was at 2026-06-11 20:21:15.730825
+`nrcadams` package. The last update was at 2026-06-12 12:44:39.503264
 ET.
 
 ## Using the RSS Feeds
@@ -32,7 +32,7 @@ last_week_in_dockets = nrcadams::docket_codex |>
   dplyr::left_join(nrcadams::docket_codex) |>
   dplyr::filter(!is.na(Project))
 #> 
-#>  This search returned: 53 files.
+#>  This search returned: 58 files.
 #> Joining with `by = join_by(DocketNumber)`
 
 
@@ -115,7 +115,7 @@ last_week_in_RTRs <- nrcadams::RTR_docket_codex |>
   dplyr::pull(DocketNumber) |>
   nrcadams::search_docket(days_back = 14)
 #> 
-#>  This search returned: 18 files.
+#>  This search returned: 19 files.
 
 if (length(last_week_in_RTRs) != 0) {
   last_week_in_RTRs <- last_week_in_RTRs |>
@@ -371,13 +371,8 @@ nrcadams::docket_codex |>
     #> Warning in max(current_tbl$count): no non-missing arguments to max; returning
     #> -Inf
     #> Warning: Unknown or uninitialised column: `ML Number`.
-    #> Warning: Unknown or uninitialised column: `DocumentTitle`.
-    #> Warning in nrcadams:::decode_resp(resp): 
-    #> The search return no results.
-    #> Warning: Unknown or uninitialised column: `count`.
-    #> Warning in max(current_tbl$count): no non-missing arguments to max; returning
-    #> -Inf
-    #> Warning: Unknown or uninitialised column: `ML Number`.
+    #> Joining with `by = join_by(DocketNumber, `ML Number`, Title, `Document Date`,
+    #> `Publish Date`, Type, Affiliation, URL, count, tag)`
     #> Joining with `by = join_by(DocketNumber, `ML Number`, Title, `Document Date`,
     #> `Publish Date`, Type, Affiliation, URL, count, tag)`
 

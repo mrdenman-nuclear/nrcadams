@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 12 Jun 2026 00:21:16 GMT</pubDate>
-		<lastBuildDate>Fri, 12 Jun 2026 00:21:16 GMT</lastBuildDate>
+		<pubDate>Fri, 12 Jun 2026 16:44:40 GMT</pubDate>
+		<lastBuildDate>Fri, 12 Jun 2026 16:44:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>University of Illinois Urbana-Champaign, Transmittal of Key Technical Topics Audit Questions Gen-1 through Gen-14</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26163A205</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR</author>
+			<pubDate>2026-06-12 16:00:00</pubDate>
+		</item>
+		<item>
+			<title>University of Illinois Urbana-Champaign, Key Technical Topics Audit Questions Gen-1 through Gen-14</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26163A204</link>
+			<description>- No Document Type Applies</description>
+			<author>NRC/NRR</author>
+			<pubDate>2026-06-12 16:00:00</pubDate>
+		</item>
+	</channel>
 </rss>
