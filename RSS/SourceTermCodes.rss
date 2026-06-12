@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 11 Jun 2026 22:52:38 GMT</pubDate>
-		<lastBuildDate>Thu, 11 Jun 2026 22:52:38 GMT</lastBuildDate>
+		<pubDate>Fri, 12 Jun 2026 00:21:22 GMT</pubDate>
+		<lastBuildDate>Fri, 12 Jun 2026 00:21:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,34 +52,6 @@
 			<description>Meeting Briefing Package/Handouts, Organization Chart, Slides and Viewgraphs</description>
 			<author>NRC/RES/DSA/FSCB</author>
 			<pubDate>2026-06-05 14:11:00</pubDate>
-		</item>
-		<item>
-			<title>Clinch River CPA - ASER - Chapter 6 Engineered Safety Features</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26112A090</link>
-			<description>Safety Evaluation Report</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2026-06-04 16:29:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy LLC Audit Report of Xe-100 Licensing Topical Reports; Reactor Core Design Methods and Analysis, Transient and Safety Analysis Methodology, Mechanistic Source Term Approach, and GOTHIC and Flownex Analysis Codes Qualification</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25295A314</link>
-			<description>Audit Report</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-06-04 12:56:00</pubDate>
-		</item>
-		<item>
-			<title>Letter to X Energy LLC Report-Regulatory Audit Xe-100 Licensing Topical Reports; Reactor Core Design Methods and Analysis, Transient and Safety Analysis Methodology, Mechanistic Source Term Approach, GOTHIC & Flownex Analysis Codes Qual</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25295A313</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2026-06-04 12:56:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy LLC Report on the Regulatory Audit of Xe-100 Licensing Topical Reports; Reactor Core Design Methods and Analysis, Transient and Safety Analysis Methodology, Mechanistic Source Term Approach, and GOTHIC and Flownex Analysis Codes Qualification</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25295A311</link>
-			<description></description>
-			<author></author>
-			<pubDate>2026-06-04 12:55:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 11 Jun 2026 22:52:38 GMT</pubDate>
-		<lastBuildDate>Thu, 11 Jun 2026 22:52:38 GMT</lastBuildDate>
+		<pubDate>Fri, 12 Jun 2026 00:21:21 GMT</pubDate>
+		<lastBuildDate>Fri, 12 Jun 2026 00:21:21 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,34 +52,6 @@
 			<description>Meeting Summary</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2026-05-29 12:43:00</pubDate>
-		</item>
-		<item>
-			<title>Allegations Open-April 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26141A288</link>
-			<description>Graphics incl Charts and Tables</description>
-			<author>NRC/OE</author>
-			<pubDate>2026-05-28 12:33:00</pubDate>
-		</item>
-		<item>
-			<title>Discrimination Allegations Received</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26141A286</link>
-			<description>Graphics incl Charts and Tables</description>
-			<author>NRC/OE</author>
-			<pubDate>2026-05-28 12:33:00</pubDate>
-		</item>
-		<item>
-			<title>Allegations From Onsite Sources</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26141A287</link>
-			<description>Graphics incl Charts and Tables</description>
-			<author>NRC/OE</author>
-			<pubDate>2026-05-28 12:33:00</pubDate>
-		</item>
-		<item>
-			<title>Allegations Received From All Sources External to the NRC</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26141A283</link>
-			<description>Graphics incl Charts and Tables</description>
-			<author>NRC/OE</author>
-			<pubDate>2026-05-28 12:33:00</pubDate>
 		</item>
 	</channel>
 </rss>
