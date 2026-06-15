@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 12 Jun 2026 23:16:23 GMT</pubDate>
-		<lastBuildDate>Fri, 12 Jun 2026 23:16:23 GMT</lastBuildDate>
+		<pubDate>Mon, 15 Jun 2026 18:28:10 GMT</pubDate>
+		<lastBuildDate>Mon, 15 Jun 2026 18:28:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Letter - Oklo, Inc. - U.S. Nuclear Regulatory Commission (NRC) Staff Preliminary Feedback on Transition to NRC License Following U.S. Department of Energy Authorization Activities for the Aurora Powerhouse at Idaho National Laboratory</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26147A372</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DANU/UAL1</author>
+			<pubDate>2026-06-15 12:46:00</pubDate>
+		</item>
 		<item>
 			<title>Cover Letter - OKLO, Inc., Summary Report on Pre-Phase 2 Combined License Application Submittal Regulatory Audit</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26058A394</link>
@@ -45,13 +52,6 @@
 			<description>Topical Report</description>
 			<author>Oklo Inc</author>
 			<pubDate>2026-06-04 12:55:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo PBOL TR Extension of Completion Date May 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26142A071</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2026-05-29 12:43:00</pubDate>
 		</item>
 	</channel>
 </rss>

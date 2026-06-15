@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 12 Jun 2026 23:16:27 GMT</pubDate>
-		<lastBuildDate>Fri, 12 Jun 2026 23:16:27 GMT</lastBuildDate>
+		<pubDate>Mon, 15 Jun 2026 18:28:15 GMT</pubDate>
+		<lastBuildDate>Mon, 15 Jun 2026 18:28:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Allegation Program Annual Trends Report CY2025 - Final</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26161A394</link>
+			<description>Annual Report</description>
+			<author>NRC/OE</author>
+			<pubDate>2026-06-15 16:56:00</pubDate>
+		</item>
 		<item>
 			<title>2026/05/19 NRC Public Meeting Summary Final</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26160A263</link>
@@ -59,13 +66,6 @@
 			<description>Commission Meeting Slides</description>
 			<author>NRC/OCM</author>
 			<pubDate>2026-06-02 18:18:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of March 23, 2026 Emergency Action Level Meeting with Terrapower, LLC</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26125A039</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2026-05-29 12:43:00</pubDate>
 		</item>
 	</channel>
 </rss>

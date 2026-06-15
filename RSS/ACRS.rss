@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 12 Jun 2026 23:16:24 GMT</pubDate>
-		<lastBuildDate>Fri, 12 Jun 2026 23:16:24 GMT</lastBuildDate>
+		<pubDate>Mon, 15 Jun 2026 18:28:12 GMT</pubDate>
+		<lastBuildDate>Mon, 15 Jun 2026 18:28:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,20 +52,6 @@
 			<description>Committee Letter Report, Letter</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2026-05-19 12:35:00</pubDate>
-		</item>
-		<item>
-			<title>736th ACRS Full Committee Meeting Agenda for June 3 through 5, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26126A327</link>
-			<description>Meeting Agenda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-05-14 20:24:00</pubDate>
-		</item>
-		<item>
-			<title>May 2026 ACRS Full Committee Meeting - Topical Reports- Interim Staff Guidance - Regulatory Guides - And Official Notices</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26132A352</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-05-14 13:59:00</pubDate>
 		</item>
 	</channel>
 </rss>

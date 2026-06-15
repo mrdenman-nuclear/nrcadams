@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 12 Jun 2026 23:16:27 GMT</pubDate>
-		<lastBuildDate>Fri, 12 Jun 2026 23:16:27 GMT</lastBuildDate>
+		<pubDate>Mon, 15 Jun 2026 18:28:15 GMT</pubDate>
+		<lastBuildDate>Mon, 15 Jun 2026 18:28:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Emergency Preparedness-Emergency Plan, Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
 			<author>American Electric Power</author>
 			<pubDate>2026-06-12 15:59:00</pubDate>
-		</item>
-		<item>
-			<title>Comments on Regulatory Framework for Fusion Machines (NRC-2023-0071)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26149A370</link>
-			<description>Rulemaking-Comment</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2026-05-29 20:30:00</pubDate>
-		</item>
-		<item>
-			<title>ASER - Clinch River CPA Chapter 2: Site Characteristics And Site Parameters - Redacted.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26148A320</link>
-			<description>Safety Evaluation Report</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2026-05-29 20:30:00</pubDate>
 		</item>
 	</channel>
 </rss>

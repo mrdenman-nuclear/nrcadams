@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 12 Jun 2026 23:16:28 GMT</pubDate>
-		<lastBuildDate>Fri, 12 Jun 2026 23:16:28 GMT</lastBuildDate>
+		<pubDate>Mon, 15 Jun 2026 18:28:17 GMT</pubDate>
+		<lastBuildDate>Mon, 15 Jun 2026 18:28:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Modeling of Sodium Fires: Sodium fires code validation and possible modeling issues</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26166A134</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>ARC Clean Technology</author>
+			<pubDate>2026-06-15 15:35:00</pubDate>
+		</item>
 		<item>
 			<title>Deployable Energy - June 2026 Meeting</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26161A464</link>
@@ -52,20 +59,6 @@
 			<description>Technical Paper</description>
 			<author>Pacific Gas and Electric Co</author>
 			<pubDate>2026-06-09 19:03:00</pubDate>
-		</item>
-		<item>
-			<title>Clinch River CP - NRC ACRS FC Meeting Presentation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26149A186</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2026-06-05 15:43:00</pubDate>
-		</item>
-		<item>
-			<title>SCALE UG 2026 - Current and Emerging SCALE Capabilities for the NRC - Modernizing Decision-making and Regulations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26156A058</link>
-			<description>Meeting Briefing Package/Handouts, Organization Chart, Slides and Viewgraphs</description>
-			<author>NRC/RES/DSA/FSCB</author>
-			<pubDate>2026-06-05 14:11:00</pubDate>
 		</item>
 	</channel>
 </rss>
