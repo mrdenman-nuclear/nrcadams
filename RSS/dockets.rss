@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 16 Jun 2026 23:25:43 GMT</pubDate>
-		<lastBuildDate>Tue, 16 Jun 2026 23:25:43 GMT</lastBuildDate>
+		<pubDate>Wed, 17 Jun 2026 16:58:07 GMT</pubDate>
+		<lastBuildDate>Wed, 17 Jun 2026 16:58:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Terrapower, LLC - Audit Plan for the Topical Report Nat-16856, "Comprehensive Vibration Assessment Program," Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26140A305</link>
+			<description>Audit Plan</description>
+			<author>NRC/NRR</author>
+			<pubDate>2026-06-17 15:45:00</pubDate>
+		</item>
+		<item>
+			<title>Letter to the Atomic Safety and Licensing Board transmitting the NRC staff's Hearing File and Mandatory Disclosure Update 003.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26167A305</link>
+			<description>Legal-Hearing File</description>
+			<author>NRC/OGC</author>
+			<pubDate>2026-06-17 14:43:00</pubDate>
+		</item>
+		<item>
+			<title>University of Illinois - Construction Permit Application Review Schedule and Resource Estimate Docket NO. 50-618</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26155A078</link>
+			<description>Project Plans and Schedules</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
+			<pubDate>2026-06-17 12:55:00</pubDate>
+		</item>
 		<item>
 			<title>Letter - Oklo, Inc. - U.S. Nuclear Regulatory Commission (NRC) Staff Preliminary Feedback on Transition to NRC License Following U.S. Department of Energy Authorization Activities for the Aurora Powerhouse at Idaho National Laboratory</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26147A372</link>
@@ -199,27 +220,6 @@
 			<description>Letter</description>
 			<author>Oklo Inc</author>
 			<pubDate>2026-06-04 12:55:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo, Inc., Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26137A002</link>
-			<description>Legal-Affidavit</description>
-			<author>Oklo Inc</author>
-			<pubDate>2026-06-04 12:55:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo, Inc., "Product-Based Operator Licensing Framework," Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26144A004</link>
-			<description>Topical Report</description>
-			<author>Oklo Inc</author>
-			<pubDate>2026-06-04 12:55:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of X Energy, LLC (X-energy) Presentation Materials for Xe-100 Topical Report, Xe-100 TRISO Pebble Fuel Qualification Methodology, Revision 4</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26146A259</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2026-06-03 12:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

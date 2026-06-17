@@ -5,32 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 16 Jun 2026 23:25:47 GMT</pubDate>
-		<lastBuildDate>Tue, 16 Jun 2026 23:25:47 GMT</lastBuildDate>
+		<pubDate>Wed, 17 Jun 2026 16:58:12 GMT</pubDate>
+		<lastBuildDate>Wed, 17 Jun 2026 16:58:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Letter to the Atomic Safety and Licensing Board transmitting the NRC staff's Hearing File and Mandatory Disclosure Update 003.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26167A305</link>
+			<description>Legal-Hearing File</description>
+			<author>NRC/OGC</author>
+			<pubDate>2026-06-17 14:43:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 2: M260033 - Licensing Topical Report NEDO-34270-A, Revision 2, BWRX-300 Stability Analysis - GVH Non-Proprietary Information</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26159A164</link>
 			<description>Topical Report</description>
 			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
 			<pubDate>2026-06-10 19:44:00</pubDate>
-		</item>
-		<item>
-			<title>DCPP White Paper - New Technical Specification Action for Exceeding Ultimate Heat Sink Temperature (White Paper)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26160A226</link>
-			<description>Technical Paper</description>
-			<author>Pacific Gas and Electric Co</author>
-			<pubDate>2026-06-09 19:03:00</pubDate>
-		</item>
-		<item>
-			<title>DCPP White Paper - New Technical Specification Action for Exceeding Ultimate Heat Sink Temperature (White Paper)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26160A226</link>
-			<description>Technical Paper</description>
-			<author>Pacific Gas and Electric Co</author>
-			<pubDate>2026-06-09 19:03:00</pubDate>
 		</item>
 	</channel>
 </rss>
