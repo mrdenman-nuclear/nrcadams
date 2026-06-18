@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 17 Jun 2026 23:29:24 GMT</pubDate>
-		<lastBuildDate>Wed, 17 Jun 2026 23:29:24 GMT</lastBuildDate>
+		<pubDate>Thu, 18 Jun 2026 22:09:28 GMT</pubDate>
+		<lastBuildDate>Thu, 18 Jun 2026 22:09:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2026/06/04 - Comment (1) E-mail regarding Belews Creek ESP EIS Scoping</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26159A237</link>
+			<description>General FR Notice Comment Letter</description>
+			<author>Public Commenter</author>
+			<pubDate>2026-06-18 12:35:00</pubDate>
+		</item>
 		<item>
 			<title>Comments on Licensing Requirements for Microreactors and Other Reactors With Comparable Risk Profiles (NRC-2025-0379)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26168A468</link>
@@ -59,13 +66,6 @@
 			<description>Topical Report</description>
 			<author>Oklo Inc</author>
 			<pubDate>2026-06-04 12:55:00</pubDate>
-		</item>
-		<item>
-			<title>8-29-2025 - Testimony before Senate Environment and Public Works Presented by U.S. NRC Chairman David A. Wright re: Oversight of the Nuclear Regulatory Commission on September 3, 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26153A305</link>
-			<description>Congressional Testimony</description>
-			<author>NRC/OCM/DAW</author>
-			<pubDate>2026-06-03 12:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

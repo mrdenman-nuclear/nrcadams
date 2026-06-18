@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 17 Jun 2026 23:29:24 GMT</pubDate>
-		<lastBuildDate>Wed, 17 Jun 2026 23:29:24 GMT</lastBuildDate>
+		<pubDate>Thu, 18 Jun 2026 22:09:28 GMT</pubDate>
+		<lastBuildDate>Thu, 18 Jun 2026 22:09:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -143,20 +143,6 @@
 			<description>Environmental Assessment</description>
 			<author>NRC/NMSS/DREFS/EPMB2</author>
 			<pubDate>2026-06-04 20:28:00</pubDate>
-		</item>
-		<item>
-			<title>Draft Environmental Assessment and Draft Finding of No Significant Impact for the Christopher M. Crane Clean Energy Center Reauthorization of Power Operations Project</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26120A058</link>
-			<description>Environmental Assessment, Finding of No Significant Impact</description>
-			<author>NRC/NMSS/DREFS/EPMB1</author>
-			<pubDate>2026-06-03 12:31:00</pubDate>
-		</item>
-		<item>
-			<title>Nine Mile Point Nuclear Station, Unit 1 - License Renewal Regulatory Audit Regarding the Environmental Review of the Subsequent License Renewal Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26134A235</link>
-			<description>Audit Plan, Letter</description>
-			<author>NRC/NMSS/DREFS/EPMB1</author>
-			<pubDate>2026-06-03 12:31:00</pubDate>
 		</item>
 	</channel>
 </rss>

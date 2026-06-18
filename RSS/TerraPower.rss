@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 17 Jun 2026 23:29:24 GMT</pubDate>
-		<lastBuildDate>Wed, 17 Jun 2026 23:29:24 GMT</lastBuildDate>
+		<pubDate>Thu, 18 Jun 2026 22:09:28 GMT</pubDate>
+		<lastBuildDate>Thu, 18 Jun 2026 22:09:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2026/06/04 - Comment (1) E-mail regarding Belews Creek ESP EIS Scoping</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26159A237</link>
+			<description>General FR Notice Comment Letter</description>
+			<author>Public Commenter</author>
+			<pubDate>2026-06-18 12:35:00</pubDate>
+		</item>
 		<item>
 			<title>Comments on Licensing Requirements for Microreactors and Other Reactors With Comparable Risk Profiles (NRC-2025-0379)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26168A468</link>
@@ -40,15 +47,15 @@
 			<pubDate>2026-06-16 12:52:00</pubDate>
 		</item>
 		<item>
-			<title>Allegations Received from All Sources External to the NRC-May 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26166A005</link>
+			<title>Allegations From Onsite Sources-May 2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26166A126</link>
 			<description>Graphics incl Charts and Tables</description>
 			<author>NRC/OE</author>
 			<pubDate>2026-06-16 12:52:00</pubDate>
 		</item>
 		<item>
-			<title>Allegations From Onsite Sources-May 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26166A126</link>
+			<title>Allegations Received from All Sources External to the NRC-May 2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26166A005</link>
 			<description>Graphics incl Charts and Tables</description>
 			<author>NRC/OE</author>
 			<pubDate>2026-06-16 12:52:00</pubDate>
@@ -94,13 +101,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2026-06-08 17:32:00</pubDate>
-		</item>
-		<item>
-			<title>7-23-24 - Testimony before the House Committee on Energy and Commerce Subcommittee on Energy, Climate and Grid Security Presented by U.S. NRC Chairman Christopher T. Hanson re: FY25 Budget and Oversight on July 23, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26153A311</link>
-			<description>Congressional Testimony</description>
-			<author>NRC/Chairman</author>
-			<pubDate>2026-06-03 17:30:00</pubDate>
 		</item>
 	</channel>
 </rss>
