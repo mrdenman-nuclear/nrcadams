@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 18 Jun 2026 22:09:30 GMT</pubDate>
-		<lastBuildDate>Thu, 18 Jun 2026 22:09:30 GMT</lastBuildDate>
+		<pubDate>Fri, 19 Jun 2026 00:26:26 GMT</pubDate>
+		<lastBuildDate>Fri, 19 Jun 2026 00:26:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Deployable Energy</author>
 			<pubDate>2026-06-12 15:59:00</pubDate>
-		</item>
-		<item>
-			<title>SECY-26-0062 Recommendation Regarding the Future of the Replenishment of Potassium Iodide</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26097A416</link>
-			<description>Commission SECY Paper</description>
-			<author>NRC/EDO</author>
-			<pubDate>2026-06-11 18:30:00</pubDate>
 		</item>
 	</channel>
 </rss>

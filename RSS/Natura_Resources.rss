@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 18 Jun 2026 22:09:28 GMT</pubDate>
-		<lastBuildDate>Thu, 18 Jun 2026 22:09:28 GMT</lastBuildDate>
+		<pubDate>Fri, 19 Jun 2026 00:26:25 GMT</pubDate>
+		<lastBuildDate>Fri, 19 Jun 2026 00:26:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Letter</description>
 			<author>NRC/OAR/DDLP/DARP/ARERB</author>
 			<pubDate>2026-06-16 12:52:00</pubDate>
-		</item>
-		<item>
-			<title>February 4, 2025 Email from S. Kropp, South Dakota Department of Agriculture and Natural Resources, RE: Waste Management</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25063A148</link>
-			<description>E-Mail</description>
-			<author>State of SD, Dept of Agriculture and Natural Resources</author>
-			<pubDate>2026-06-04 12:55:00</pubDate>
 		</item>
 	</channel>
 </rss>
