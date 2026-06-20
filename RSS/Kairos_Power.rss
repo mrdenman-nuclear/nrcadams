@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 19 Jun 2026 22:05:42 GMT</pubDate>
-		<lastBuildDate>Fri, 19 Jun 2026 22:05:42 GMT</lastBuildDate>
+		<pubDate>Sat, 20 Jun 2026 00:09:04 GMT</pubDate>
+		<lastBuildDate>Sat, 20 Jun 2026 00:09:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,20 +38,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2026-06-08 17:32:00</pubDate>
-		</item>
-		<item>
-			<title>SECY-26-0070: Weekly Information Report Week Ending May 29, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26155A275</link>
-			<description>Commission SECY Paper</description>
-			<author>NRC/EDO/AO</author>
-			<pubDate>2026-06-05 20:28:00</pubDate>
-		</item>
-		<item>
-			<title>SCALE UG 2026 - Current and Emerging SCALE Capabilities for the NRC - Modernizing Decision-making and Regulations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26156A058</link>
-			<description>Meeting Briefing Package/Handouts, Organization Chart, Slides and Viewgraphs</description>
-			<author>NRC/RES/DSA/FSCB</author>
-			<pubDate>2026-06-05 14:11:00</pubDate>
 		</item>
 	</channel>
 </rss>

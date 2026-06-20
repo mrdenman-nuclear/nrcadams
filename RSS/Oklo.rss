@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 19 Jun 2026 22:05:42 GMT</pubDate>
-		<lastBuildDate>Fri, 19 Jun 2026 22:05:42 GMT</lastBuildDate>
+		<pubDate>Sat, 20 Jun 2026 00:09:04 GMT</pubDate>
+		<lastBuildDate>Sat, 20 Jun 2026 00:09:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,13 +31,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2026-06-08 17:32:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo, Inc. Summary Report on Pre-Phase 2 Combined License Application Submittal Regulatory Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26058A398</link>
-			<description></description>
-			<author></author>
-			<pubDate>2026-06-05 12:47:00</pubDate>
 		</item>
 	</channel>
 </rss>

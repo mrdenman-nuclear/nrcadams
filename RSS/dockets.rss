@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 19 Jun 2026 22:05:37 GMT</pubDate>
-		<lastBuildDate>Fri, 19 Jun 2026 22:05:37 GMT</lastBuildDate>
+		<pubDate>Sat, 20 Jun 2026 00:08:59 GMT</pubDate>
+		<lastBuildDate>Sat, 20 Jun 2026 00:08:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -150,41 +150,6 @@
 			<description>E-Mail</description>
 			<author>State of TX, Historical Commission</author>
 			<pubDate>2026-06-08 12:44:00</pubDate>
-		</item>
-		<item>
-			<title>Federal Register Notice, Docketing and Opportunity for Hearing, Tennessee Valley Authority's CP application (Clinch River Nuclear Site)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25175A059</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/SECY</author>
-			<pubDate>2026-06-05 15:46:00</pubDate>
-		</item>
-		<item>
-			<title>Federal Register Notice, Docketing and Opportunity for Hearing, Tennessee Valley Authority's CP application (Clinch River Nuclear Site)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25175A059</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/SECY</author>
-			<pubDate>2026-06-05 15:46:00</pubDate>
-		</item>
-		<item>
-			<title>Cover Letter - OKLO, Inc., Summary Report on Pre-Phase 2 Combined License Application Submittal Regulatory Audit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26058A394</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2026-06-05 12:48:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - Oklo Pre-phase 2 Submittal Audit Summary and Feedback</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26058A393</link>
-			<description>Audit Report</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2026-06-05 12:48:00</pubDate>
-		</item>
-		<item>
-			<title>2026/05/22 NuScale NPM-20 - NuScale - Request for Withholding Information from Public Disclosure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26142A075</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-06-05 12:47:00</pubDate>
 		</item>
 	</channel>
 </rss>

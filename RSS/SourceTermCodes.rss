@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 19 Jun 2026 22:05:43 GMT</pubDate>
-		<lastBuildDate>Fri, 19 Jun 2026 22:05:43 GMT</lastBuildDate>
+		<pubDate>Sat, 20 Jun 2026 00:09:05 GMT</pubDate>
+		<lastBuildDate>Sat, 20 Jun 2026 00:09:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,20 +45,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>ARC Clean Technology</author>
 			<pubDate>2026-06-15 15:35:00</pubDate>
-		</item>
-		<item>
-			<title>Deployable Energy - June 2026 Meeting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26161A464</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Deployable Energy</author>
-			<pubDate>2026-06-12 15:59:00</pubDate>
-		</item>
-		<item>
-			<title>Deployable Energy - June 2026 Meeting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26161A464</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Deployable Energy</author>
-			<pubDate>2026-06-12 15:59:00</pubDate>
 		</item>
 	</channel>
 </rss>
