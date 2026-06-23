@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 22 Jun 2026 23:20:11 GMT</pubDate>
-		<lastBuildDate>Mon, 22 Jun 2026 23:20:11 GMT</lastBuildDate>
+		<pubDate>Tue, 23 Jun 2026 16:35:01 GMT</pubDate>
+		<lastBuildDate>Tue, 23 Jun 2026 16:35:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,13 +59,6 @@
 			<description>Legal-Hearing File</description>
 			<author>NRC/OGC</author>
 			<pubDate>2026-06-17 14:43:00</pubDate>
-		</item>
-		<item>
-			<title>Modeling of Sodium Fires: Sodium fires code validation and possible modeling issues</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26166A134</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>ARC Clean Technology</author>
-			<pubDate>2026-06-15 15:35:00</pubDate>
 		</item>
 	</channel>
 </rss>

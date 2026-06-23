@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 22 Jun 2026 23:20:09 GMT</pubDate>
-		<lastBuildDate>Mon, 22 Jun 2026 23:20:09 GMT</lastBuildDate>
+		<pubDate>Tue, 23 Jun 2026 16:34:57 GMT</pubDate>
+		<lastBuildDate>Tue, 23 Jun 2026 16:34:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -108,20 +108,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2026-06-09 17:08:00</pubDate>
-		</item>
-		<item>
-			<title>North Anna, Unit 2, Current Facility Operating License NPF-7, Revised 06/08/2026.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML052990147</link>
-			<description>License-Operating (New/Renewal/Amendments) DKT 50</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-06-08 18:18:00</pubDate>
-		</item>
-		<item>
-			<title>FRN - Constellation Energy Generation, LLC; Christopher M. Crane Clean Energy Center; Draft EA and Draft FONSI</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26149A334</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NMSS/DREFS/EPMB1</author>
-			<pubDate>2026-06-08 12:44:00</pubDate>
 		</item>
 	</channel>
 </rss>
