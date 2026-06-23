@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 23 Jun 2026 19:12:03 GMT</pubDate>
-		<lastBuildDate>Tue, 23 Jun 2026 19:12:03 GMT</lastBuildDate>
+		<pubDate>Tue, 23 Jun 2026 21:32:58 GMT</pubDate>
+		<lastBuildDate>Tue, 23 Jun 2026 21:32:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Rulemaking - Proposed Rule - Draft NRC Form 891, Annual Reporting Form for Drug and Alcohol Tests RE: Modernizing Security Requirements</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26020A116</link>
+			<description>NRC Forms (Blank), OMB Clearance Material, Rulemaking- Proposed Rule</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2026-06-23 19:41:00</pubDate>
+		</item>
+		<item>
+			<title>Church Rock Sentinel Well Installation and Monitoring Report Addendum</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26169A240</link>
+			<description>Environmental Monitoring Report</description>
+			<author>WSP USA</author>
+			<pubDate>2026-06-23 19:41:00</pubDate>
+		</item>
 		<item>
 			<title>Draft Regulatory Guide DG-5102, (RG 5.79, Rev. 1), Protection of Safeguards Information</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25234A198</link>
@@ -206,20 +220,6 @@
 			<description>NUREG</description>
 			<author>NRC/NRR</author>
 			<pubDate>2026-06-18 16:22:00</pubDate>
-		</item>
-		<item>
-			<title>Letter to the EB Requesting EB Views for XSNM3846-01 DOE</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26168A545</link>
-			<description>Letter</description>
-			<author>NRC/OIP/ECNP</author>
-			<pubDate>2026-06-18 13:46:00</pubDate>
-		</item>
-		<item>
-			<title>Callaway Plant, Unit No. 1 - Request for Regulatory Audit Items in Support of License Amendment Request and Exemption Request for Fuel Transition To Westinghouse Fuel (EPID L-2026-LLA-0018 and EPID L-2026-LLE-0006) - Non-Proprietary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26153A242</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DORL/LPL4</author>
-			<pubDate>2026-06-18 12:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
