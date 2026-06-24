@@ -5,12 +5,47 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 24 Jun 2026 16:26:46 GMT</pubDate>
-		<lastBuildDate>Wed, 24 Jun 2026 16:26:46 GMT</lastBuildDate>
+		<pubDate>Wed, 24 Jun 2026 18:56:28 GMT</pubDate>
+		<lastBuildDate>Wed, 24 Jun 2026 18:56:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submittal of the Regulatory Engagement Plan - Westinghouse AP300TM SMR (Proprietary)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26166A114</link>
+			<description>Legal-Affidavit, Letter</description>
+			<author>Westinghouse Electric Co, LLC</author>
+			<pubDate>2026-06-24 17:28:00</pubDate>
+		</item>
+		<item>
+			<title>GE Vernova - Presentation for the Stability Licensing Topical Report Meeting</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26170A003</link>
+			<description>Letter</description>
+			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
+			<pubDate>2026-06-24 17:28:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: Presentation Material for Pre-Submittal Meeting - Non-Proprietary Information</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26170A005</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
+			<pubDate>2026-06-24 17:28:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 3: GVH Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26170A006</link>
+			<description>Legal-Affidavit</description>
+			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
+			<pubDate>2026-06-24 17:28:00</pubDate>
+		</item>
+		<item>
+			<title>Meeting with Aalo on Thermal Spectrum Material Challenges 06/24/2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26175A267</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2026-06-24 16:54:00</pubDate>
+		</item>
 		<item>
 			<title>Natura Resources - Letter Transmitting Quality Assurance Program Description</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26166A407</link>
@@ -185,41 +220,6 @@
 			<description>Request for Additional Information (RAI)</description>
 			<author>NRC/NRR/DORL/LLPB</author>
 			<pubDate>2026-06-12 11:59:00</pubDate>
-		</item>
-		<item>
-			<title>GVH BWX-300 Stability Analysis Topical Report -A TR Verification NRC 896</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26161A130</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2026-06-11 17:38:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal Email for GVH BWX-300 Stability Analysis Topical Report -A TR Verification NRC 896</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26161A131</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2026-06-11 17:38:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: M260033 - Licensing Topical Report NEDO-34270-A, Revision 2, BWRX-300 Stability Analysis - GVH Non-Proprietary Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26159A164</link>
-			<description>Topical Report</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2026-06-10 19:44:00</pubDate>
-		</item>
-		<item>
-			<title>Meeting with Aalo on Thermal Spectrum Material Challenges 06/24/2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26161A356</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-06-10 18:35:00</pubDate>
-		</item>
-		<item>
-			<title>WEC - Withholding Determination For Proprietary Information Supporting Document Rev 4 for ALS V2 Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26141A367</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL2</author>
-			<pubDate>2026-06-10 12:44:00</pubDate>
 		</item>
 	</channel>
 </rss>
