@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 23 Jun 2026 23:09:41 GMT</pubDate>
-		<lastBuildDate>Tue, 23 Jun 2026 23:09:41 GMT</lastBuildDate>
+		<pubDate>Wed, 24 Jun 2026 16:26:53 GMT</pubDate>
+		<lastBuildDate>Wed, 24 Jun 2026 16:26:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Re: Submittal of X Energy, LLC Comments on the Part 57 Proposed Rule, "Licensing Requirements for Microreactors and Other Reactors with Comparable Risk Profiles"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26166A432</link>
+			<description>Letter</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2026-06-24 12:58:00</pubDate>
+		</item>
 		<item>
 			<title>Draft Regulatory Guide DG-5104, (RG 5.95, Rev. 1), Access Authorization Program for Commercial Nuclear Plants</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25318A144</link>
@@ -47,7 +54,7 @@
 			<pubDate>2026-06-23 17:32:00</pubDate>
 		</item>
 		<item>
-			<title>Transcript of state utility hearing on Duane Arnold</title>
+			<title>Transcript of Proceedings, Iowa Utilities Commission, Docket No. GCU-2025-0013, 4/21/2026</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26173A208</link>
 			<description>Legal-Petition To Intervene/Request for Hearing</description>
 			<author>Physicians for Social Responsibility - Iowa</author>
@@ -213,13 +220,6 @@
 			<description>Technical Specification, Bases Change</description>
 			<author>Constellation Energy Generation, LLC</author>
 			<pubDate>2026-06-10 14:51:00</pubDate>
-		</item>
-		<item>
-			<title>Calvert Cliffs Nuclear Power Plant, Unit Nos. 1 and 2 & Independent Spent Fuel Storage Installation 2025 Annual Radioactive Effluent Release Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26160A018</link>
-			<description>Environmental Monitoring Report</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2026-06-09 19:03:00</pubDate>
 		</item>
 	</channel>
 </rss>

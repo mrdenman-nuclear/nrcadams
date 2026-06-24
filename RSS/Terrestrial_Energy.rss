@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 23 Jun 2026 23:09:39 GMT</pubDate>
-		<lastBuildDate>Tue, 23 Jun 2026 23:09:39 GMT</lastBuildDate>
+		<pubDate>Wed, 24 Jun 2026 16:26:51 GMT</pubDate>
+		<lastBuildDate>Wed, 24 Jun 2026 16:26:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Declaring a National Energy Emergency - Enclosure 31 May 2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26139A193</link>
+			<description>Letter, Report, Administrative</description>
+			<author>NRC/Chairman</author>
+			<pubDate>2026-06-24 13:00:00</pubDate>
+		</item>
 		<item>
 			<title>Church Rock Sentinel Well Installation and Monitoring Report Addendum</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26169A240</link>
@@ -87,34 +94,6 @@
 			<description>License-Operator, Part 55 Examination Related Material</description>
 			<author>Constellation Energy Generation, LLC</author>
 			<pubDate>2026-06-12 12:56:00</pubDate>
-		</item>
-		<item>
-			<title>Calvert Cliffs Nuclear Power Plant, Unit Nos. 1 and 2 & Independent Spent Fuel Storage Installation 2025 Annual Radioactive Effluent Release Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26160A018</link>
-			<description>Environmental Monitoring Report</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2026-06-09 19:03:00</pubDate>
-		</item>
-		<item>
-			<title>Calvert Cliffs Nuclear Power Plant, Unit Nos. 1 and 2 & Independent Spent Fuel Storage Installation 2025 Annual Radioactive Effluent Release Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26160A018</link>
-			<description>Environmental Monitoring Report</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2026-06-09 19:03:00</pubDate>
-		</item>
-		<item>
-			<title>Calvert Cliffs Nuclear Power Plant, Unit Nos. 1 and 2 & Independent Spent Fuel Storage Installation 2025 Annual Radioactive Effluent Release Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26160A018</link>
-			<description>Environmental Monitoring Report</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2026-06-09 19:03:00</pubDate>
-		</item>
-		<item>
-			<title>Email sent to PA EP Rad Health Pennsylvania Review of the draft EA for TMI-2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24192A363</link>
-			<description>E-Mail</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2026-06-09 17:08:00</pubDate>
 		</item>
 	</channel>
 </rss>
