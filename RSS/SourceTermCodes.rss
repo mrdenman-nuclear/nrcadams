@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 24 Jun 2026 22:23:21 GMT</pubDate>
-		<lastBuildDate>Wed, 24 Jun 2026 22:23:21 GMT</lastBuildDate>
+		<pubDate>Thu, 25 Jun 2026 00:09:56 GMT</pubDate>
+		<lastBuildDate>Thu, 25 Jun 2026 00:09:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -94,20 +94,6 @@
 			<description>Letter</description>
 			<author>NRC/NRR/DORL/LPL4</author>
 			<pubDate>2026-06-18 12:35:00</pubDate>
-		</item>
-		<item>
-			<title>Comments on Licensing Requirements for Microreactors and Other Reactors With Comparable Risk Profiles (NRC-2025-0379)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26168A468</link>
-			<description>Rulemaking-Comment</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2026-06-17 20:09:00</pubDate>
-		</item>
-		<item>
-			<title>Letter to the Atomic Safety and Licensing Board transmitting the NRC staff's Hearing File and Mandatory Disclosure Update 003.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26167A305</link>
-			<description>Legal-Hearing File</description>
-			<author>NRC/OGC</author>
-			<pubDate>2026-06-17 14:43:00</pubDate>
 		</item>
 	</channel>
 </rss>
