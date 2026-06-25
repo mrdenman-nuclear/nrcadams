@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 25 Jun 2026 00:09:57 GMT</pubDate>
-		<lastBuildDate>Thu, 25 Jun 2026 00:09:57 GMT</lastBuildDate>
+		<pubDate>Thu, 25 Jun 2026 16:26:03 GMT</pubDate>
+		<lastBuildDate>Thu, 25 Jun 2026 16:26:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NUREG/CR-7313, "Operating Experience Data Analysis for Digital Instrumentation and Control System Reliability and Risk Assessment"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26175A375</link>
+			<description>NUREG</description>
+			<author>Idaho National Lab, NRC/RES</author>
+			<pubDate>2026-06-25 14:04:00</pubDate>
+		</item>
 		<item>
 			<title>FSER, TVA Construction Permit Application (Clinch River Nuclear Site, Unit 1) [Public]</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26168A505</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26051A196</link>
 			<description>Federal Register Notice</description>
 			<author>NRC/RES/DE</author>
-			<pubDate>2026-06-12 12:57:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Observations for TIMaSC Tabletop Exercises - Natrium</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26162A465</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DANU/UARP</author>
 			<pubDate>2026-06-12 12:57:00</pubDate>
 		</item>
 	</channel>
