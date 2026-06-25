@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 25 Jun 2026 16:25:54 GMT</pubDate>
-		<lastBuildDate>Thu, 25 Jun 2026 16:25:54 GMT</lastBuildDate>
+		<pubDate>Thu, 25 Jun 2026 19:07:59 GMT</pubDate>
+		<lastBuildDate>Thu, 25 Jun 2026 19:07:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Memorandum and Order (Correcting May 12, 2026, Prehearing Conference Transcript)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26176A349</link>
+			<description>Legal-Order</description>
+			<author>NRC/ASLBP</author>
+			<pubDate>2026-06-25 18:42:00</pubDate>
+		</item>
+		<item>
+			<title>Transcript of Long Mott Energy, LLC, Hearing, May 12, 2026 Hearing, Pages 396-492 (Redacted)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26176A352</link>
+			<description>Legal-Hearing Transcript</description>
+			<author>NRC/ASLBP</author>
+			<pubDate>2026-06-25 18:42:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Form 897 Topical Report Withholding Determination - Xe-100 Graphite Core Assembly Material Qualification and Design Methodologies TR, Rev 2, -A version</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26141A199</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2026-06-25 16:13:00</pubDate>
+		</item>
+		<item>
+			<title>Email Transmitting NRC Form 897 Withholding Determination- X Energy, LLC Xe-100 Graphite Core Assembly Material Qualification and Design Methodologies Topical Report, Rev 2, -A Version</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26141A189</link>
+			<description>E-Mail</description>
+			<author>NRC/NRR/DANU/UAL2</author>
+			<pubDate>2026-06-25 16:13:00</pubDate>
+		</item>
 		<item>
 			<title>NRC Form 896 -A Topical Report Verification for X Energy, LLC Xe-100 Graphite Core Assembly Material Qualification and Design Methodologies, Rev 2</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26148A416</link>
@@ -192,34 +220,6 @@
 			<description>Legal-Hearing File</description>
 			<author>NRC/OGC</author>
 			<pubDate>2026-06-17 14:43:00</pubDate>
-		</item>
-		<item>
-			<title>University of Illinois - Construction Permit Application Review Schedule and Resource Estimate Docket NO. 50-618</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26155A078</link>
-			<description>Project Plans and Schedules</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
-			<pubDate>2026-06-17 12:55:00</pubDate>
-		</item>
-		<item>
-			<title>Letter - Oklo, Inc. - U.S. Nuclear Regulatory Commission (NRC) Staff Preliminary Feedback on Transition to NRC License Following U.S. Department of Energy Authorization Activities for the Aurora Powerhouse at Idaho National Laboratory</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26147A372</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2026-06-15 12:46:00</pubDate>
-		</item>
-		<item>
-			<title>Meeting with Aalo on Thermal Spectrum Material Challenges 06/24/2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26166A042</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-06-15 12:45:00</pubDate>
-		</item>
-		<item>
-			<title>University of Illinois Urbana-Champaign, Key Technical Topics Audit Questions Gen-1 through Gen-14</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26163A204</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-06-12 16:00:00</pubDate>
 		</item>
 	</channel>
 </rss>
