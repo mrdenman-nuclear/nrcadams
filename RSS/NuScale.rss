@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 25 Jun 2026 23:19:28 GMT</pubDate>
-		<lastBuildDate>Thu, 25 Jun 2026 23:19:28 GMT</lastBuildDate>
+		<pubDate>Fri, 26 Jun 2026 16:18:37 GMT</pubDate>
+		<lastBuildDate>Fri, 26 Jun 2026 16:18:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,13 +52,6 @@
 			<description>Meeting Summary</description>
 			<author>NRC/RES</author>
 			<pubDate>2026-06-12 12:57:00</pubDate>
-		</item>
-		<item>
-			<title>05-28-26 Summary of Meeting with Question and Answer Session to Discuss Pre-Publication draft DANU-ISG-2026-XX</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26160A319</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DANU/UARP</author>
-			<pubDate>2026-06-11 12:51:00</pubDate>
 		</item>
 	</channel>
 </rss>

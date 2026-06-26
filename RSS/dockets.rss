@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 25 Jun 2026 23:19:22 GMT</pubDate>
-		<lastBuildDate>Thu, 25 Jun 2026 23:19:22 GMT</lastBuildDate>
+		<pubDate>Fri, 26 Jun 2026 16:18:25 GMT</pubDate>
+		<lastBuildDate>Fri, 26 Jun 2026 16:18:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Memorandum (Notice Regarding Issuance of Decisions on Intervenor's Motion to Amend Contention 3B, Applicant's Motion to Dismiss Contention 3B, and Intervenor's Motion to Add Contention 3C)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26176A482</link>
+			<description>Legal-Order</description>
+			<author>NRC/ASLBP</author>
+			<pubDate>2026-06-26 14:01:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Form 898 - Completeness Determination for the TerraPower, LLC  "Emergency Action Level Methodology Topical Report" Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26149A339</link>
+			<description>Administrative Form, NRC</description>
+			<author>NRC/NRR</author>
+			<pubDate>2026-06-26 12:40:00</pubDate>
+		</item>
+		<item>
+			<title>04/13/2026 Summary Of Public Meeting With Holtec International Company To Discuss Planned Exemption Request For Pioneer Units 1 And 2 Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26169A312</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/OAR</author>
+			<pubDate>2026-06-26 12:40:00</pubDate>
+		</item>
 		<item>
 			<title>FSER, TVA Construction Permit Application (Clinch River Nuclear Site, Unit 1) [Public]</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26168A505</link>
@@ -199,27 +220,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2026-06-22 13:21:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal Email RAI-11212-R1 Requests for Additional Information NEDC-34416P, Revision 0, "Ultra Plus Control Rod Assembly"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26162A351</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DORL/LLPB</author>
-			<pubDate>2026-06-22 13:21:00</pubDate>
-		</item>
-		<item>
-			<title>Terrapower, LLC - Audit Plan for the Topical Report Nat-16856, "Comprehensive Vibration Assessment Program," Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26140A305</link>
-			<description>Audit Plan</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-06-17 15:45:00</pubDate>
-		</item>
-		<item>
-			<title>Letter to the Atomic Safety and Licensing Board transmitting the NRC staff's Hearing File and Mandatory Disclosure Update 003.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26167A305</link>
-			<description>Legal-Hearing File</description>
-			<author>NRC/OGC</author>
-			<pubDate>2026-06-17 14:43:00</pubDate>
 		</item>
 	</channel>
 </rss>
