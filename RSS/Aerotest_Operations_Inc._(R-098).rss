@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 26 Jun 2026 22:12:13 GMT</pubDate>
-		<lastBuildDate>Fri, 26 Jun 2026 22:12:13 GMT</lastBuildDate>
+		<pubDate>Sat, 27 Jun 2026 00:07:11 GMT</pubDate>
+		<lastBuildDate>Sat, 27 Jun 2026 00:07:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Letter, Licensee Response to Notice of Violation</description>
 			<author>Aerotest Operations, Inc, Nuclear Labyrinth LLC</author>
 			<pubDate>2026-06-26 14:01:00</pubDate>
-		</item>
-		<item>
-			<title>Aerotest Operations, Inc. - NRC Report 05000228/2026001 and Notice of Violation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26152A173</link>
-			<description>Inspection Report, Letter</description>
-			<author>NRC/RGN-IV/DRSS/DIOR</author>
-			<pubDate>2026-06-12 12:57:00</pubDate>
 		</item>
 	</channel>
 </rss>

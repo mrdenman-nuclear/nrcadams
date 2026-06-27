@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 26 Jun 2026 22:12:17 GMT</pubDate>
-		<lastBuildDate>Fri, 26 Jun 2026 22:12:17 GMT</lastBuildDate>
+		<pubDate>Sat, 27 Jun 2026 00:07:16 GMT</pubDate>
+		<lastBuildDate>Sat, 27 Jun 2026 00:07:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Rulemaking-Comment</description>
 			<author>- No Known Affiliation</author>
 			<pubDate>2026-06-17 20:09:00</pubDate>
-		</item>
-		<item>
-			<title>2026/05/19 NRC Public Meeting Summary Final</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26160A263</link>
-			<description>Meeting Summary</description>
-			<author>NRC/RES</author>
-			<pubDate>2026-06-12 12:57:00</pubDate>
 		</item>
 	</channel>
 </rss>
