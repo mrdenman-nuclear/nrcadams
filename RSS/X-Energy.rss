@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 29 Jun 2026 19:05:57 GMT</pubDate>
-		<lastBuildDate>Mon, 29 Jun 2026 19:05:57 GMT</lastBuildDate>
+		<pubDate>Mon, 29 Jun 2026 21:29:21 GMT</pubDate>
+		<lastBuildDate>Mon, 29 Jun 2026 21:29:21 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 1 - Safety Evaluation Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26155A310</link>
+			<description>Safety Evaluation Report</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2026-06-29 19:47:00</pubDate>
+		</item>
 		<item>
 			<title>Final Rule - Fee Schedules; Fee Recovery for Fiscal Year 2026</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26114A058</link>
@@ -213,13 +220,6 @@
 			<description>ACRS Summary Report, Meeting Minutes</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2026-06-24 18:42:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: R.E. Ginna Nuclear Power Plant - Subsequent License Renewal Application, Sections 1 through 4 and Appendices A through D</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26168A224</link>
-			<description>License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2026-06-24 17:28:00</pubDate>
 		</item>
 	</channel>
 </rss>
