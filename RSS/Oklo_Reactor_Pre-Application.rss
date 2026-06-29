@@ -5,23 +5,37 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 29 Jun 2026 16:55:20 GMT</pubDate>
-		<lastBuildDate>Mon, 29 Jun 2026 16:55:20 GMT</lastBuildDate>
+		<pubDate>Mon, 29 Jun 2026 19:05:51 GMT</pubDate>
+		<lastBuildDate>Mon, 29 Jun 2026 19:05:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>Oklo, Inc., Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26132A432</link>
+			<title>Enclosure 1: Affidavit Pursuant to 10 CFR 2.390</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26178A003</link>
 			<description>Legal-Affidavit</description>
 			<author>Oklo Inc</author>
-			<pubDate>2026-06-23 15:54:00</pubDate>
+			<pubDate>2026-06-29 17:02:00</pubDate>
+		</item>
+		<item>
+			<title>Oklo, Inc., Letter Submitting Licensing Project Plan for Aurora Powerhouse: Q3 CY2026 Update</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26178A002</link>
+			<description>Letter</description>
+			<author>Oklo Inc</author>
+			<pubDate>2026-06-29 17:02:00</pubDate>
 		</item>
 		<item>
 			<title>Oklo, Inc., Principal Design Criteria for the Aurora Powerhouse, Topical Report, Revision 1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26132A434</link>
 			<description>Topical Report</description>
+			<author>Oklo Inc</author>
+			<pubDate>2026-06-23 15:54:00</pubDate>
+		</item>
+		<item>
+			<title>Oklo, Inc., Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26132A432</link>
+			<description>Legal-Affidavit</description>
 			<author>Oklo Inc</author>
 			<pubDate>2026-06-23 15:54:00</pubDate>
 		</item>

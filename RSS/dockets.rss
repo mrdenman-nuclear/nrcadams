@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 29 Jun 2026 16:55:20 GMT</pubDate>
-		<lastBuildDate>Mon, 29 Jun 2026 16:55:20 GMT</lastBuildDate>
+		<pubDate>Mon, 29 Jun 2026 19:05:52 GMT</pubDate>
+		<lastBuildDate>Mon, 29 Jun 2026 19:05:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 1: Affidavit Pursuant to 10 CFR 2.390</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26178A003</link>
+			<description>Legal-Affidavit</description>
+			<author>Oklo Inc</author>
+			<pubDate>2026-06-29 17:02:00</pubDate>
+		</item>
+		<item>
+			<title>Oklo, Inc., Letter Submitting Licensing Project Plan for Aurora Powerhouse: Q3 CY2026 Update</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26178A002</link>
+			<description>Letter</description>
+			<author>Oklo Inc</author>
+			<pubDate>2026-06-29 17:02:00</pubDate>
+		</item>
 		<item>
 			<title>Memorandum (Notice Regarding Issuance of Decisions on Intervenor's Motion to Amend Contention 3B, Applicant's Motion to Dismiss Contention 3B, and Intervenor's Motion to Add Contention 3C)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26176A482</link>
@@ -173,16 +187,16 @@
 			<pubDate>2026-06-24 12:58:00</pubDate>
 		</item>
 		<item>
-			<title>Oklo, Inc., Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26132A432</link>
-			<description>Legal-Affidavit</description>
+			<title>Oklo, Inc., Principal Design Criteria for the Aurora Powerhouse, Topical Report, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26132A434</link>
+			<description>Topical Report</description>
 			<author>Oklo Inc</author>
 			<pubDate>2026-06-23 15:54:00</pubDate>
 		</item>
 		<item>
-			<title>Oklo, Inc., Principal Design Criteria for the Aurora Powerhouse, Topical Report, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26132A434</link>
-			<description>Topical Report</description>
+			<title>Oklo, Inc., Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26132A432</link>
+			<description>Legal-Affidavit</description>
 			<author>Oklo Inc</author>
 			<pubDate>2026-06-23 15:54:00</pubDate>
 		</item>
@@ -206,20 +220,6 @@
 			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>AALO Atomics</author>
 			<pubDate>2026-06-23 13:37:00</pubDate>
-		</item>
-		<item>
-			<title>Clinch River Nuclear Site, Unit 1, Construction Permit Application Review Status</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26160A308</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2026-06-22 13:22:00</pubDate>
-		</item>
-		<item>
-			<title>2026/06/05 GEH BWRX-300 SMR - Revised Schedule for GVH Topical Report NEDC-33934P, BWRX-300 Safety Strategy</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26156A219</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-06-22 13:21:00</pubDate>
 		</item>
 	</channel>
 </rss>
