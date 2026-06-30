@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 30 Jun 2026 00:04:41 GMT</pubDate>
-		<lastBuildDate>Tue, 30 Jun 2026 00:04:41 GMT</lastBuildDate>
+		<pubDate>Tue, 30 Jun 2026 16:26:52 GMT</pubDate>
+		<lastBuildDate>Tue, 30 Jun 2026 16:26:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>IMC 2690 Inspection Program for Storage of Spent Reactor Fuel and ReactorRelated Greater-Than-Class C Waste at Independent Spent Fuel Storage Installations and for 10 CFR Part 71 Transportation Packagings</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26106A049</link>
+			<description>Inspection Manual</description>
+			<author>NRC/NMSS/DFM/IOB</author>
+			<pubDate>2026-06-30 12:57:00</pubDate>
+		</item>
+		<item>
+			<title>Diablo Canyon, Unit 1 - Reactor Vessel Material Surveillance Program Capsule B Technical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26180A296</link>
+			<description>Letter, Report, Technical</description>
+			<author>Pacific Gas and Electric Co</author>
+			<pubDate>2026-06-30 12:57:00</pubDate>
+		</item>
 		<item>
 			<title>Susquehanna Steam Electric Station Proposed Amendment to Licenses NPF-14 and NPF-22: Application to Revise Technical Specifications to Adopt TSTF-596, "Expand the Applicability of the Surveillance Frequency Control Program (SFCP)"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26168A346</link>
@@ -206,20 +220,6 @@
 			<description>Environmental Monitoring Report, Letter, Periodic Monitoring Report (Radiological/Environmental)</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2026-06-15 16:56:00</pubDate>
-		</item>
-		<item>
-			<title>Sequoyah Nuclear Plant, Units 1 and 2 - Annual Radiological Environmental Operating Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26133A100</link>
-			<description>Environmental Monitoring Report, Letter, Periodic Monitoring Report (Radiological/Environmental)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-06-15 16:56:00</pubDate>
-		</item>
-		<item>
-			<title>Fermi 2024 Retake Exam SRO Admin JPMs - Proposed</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24173A088</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/RGN-III/DORS/OB</author>
-			<pubDate>2026-06-15 12:46:00</pubDate>
 		</item>
 	</channel>
 </rss>

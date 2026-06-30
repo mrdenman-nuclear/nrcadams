@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 30 Jun 2026 00:04:39 GMT</pubDate>
-		<lastBuildDate>Tue, 30 Jun 2026 00:04:39 GMT</lastBuildDate>
+		<pubDate>Tue, 30 Jun 2026 16:26:49 GMT</pubDate>
+		<lastBuildDate>Tue, 30 Jun 2026 16:26:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Diablo Canyon, Unit 1 - Reactor Vessel Material Surveillance Program Capsule B Technical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26180A296</link>
+			<description>Letter, Report, Technical</description>
+			<author>Pacific Gas and Electric Co</author>
+			<pubDate>2026-06-30 12:57:00</pubDate>
+		</item>
+		<item>
+			<title>NAC International, Inc. - Supporting Calculations for NAC MAGNATRAN SAR Revision 26C</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26170A028</link>
+			<description>Calculation, Report, Technical</description>
+			<author>NAC International, Inc</author>
+			<pubDate>2026-06-30 12:39:00</pubDate>
+		</item>
+		<item>
+			<title>Nuclear Regulatory Commission Inspection Report Of Marmon Industrial Energy Infrastructure Group No. 99901443/2026201</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26167A046</link>
+			<description>Inspection Report, Letter</description>
+			<author>NRC/CNRI</author>
+			<pubDate>2026-06-30 12:38:00</pubDate>
+		</item>
+		<item>
+			<title>North Anna, Unit 3 - Submission of Periodic Reports First Half 2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26173A126</link>
+			<description>Letter</description>
+			<author>Virginia Electric and Power Co (VEPCO)</author>
+			<pubDate>2026-06-30 12:38:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 1 - Safety Evaluation Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26155A310</link>
@@ -192,34 +220,6 @@
 			<description>Privacy Impact Assessment, System Documentation</description>
 			<author>NRC/OCIO, NRC/ADM</author>
 			<pubDate>2026-06-25 14:04:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG/CR-7313, "Operating Experience Data Analysis for Digital Instrumentation and Control System Reliability and Risk Assessment"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26175A375</link>
-			<description>NUREG</description>
-			<author>Idaho National Lab, NRC/RES</author>
-			<pubDate>2026-06-25 14:04:00</pubDate>
-		</item>
-		<item>
-			<title>-A Topical Report Verification NRC Form 896 for X-Energy, LLC Topical Report, "Xe-100 Graphite Core Assembly Material Qualification and Design Methodologies," Rev 2, -A Version</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26148A380</link>
-			<description></description>
-			<author></author>
-			<pubDate>2026-06-25 14:03:00</pubDate>
-		</item>
-		<item>
-			<title>Unofficial Redline Rule Language for the Proposed Rule - Modernizing Security Requirements (RIN 3150-AL53) (Rule No. W1-7).</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25267A040</link>
-			<description>Rulemaking- Proposed Rule</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2026-06-24 19:55:00</pubDate>
-		</item>
-		<item>
-			<title>Summary Report and Certified Minutes - 735th Meeting of the Advisory Committee on Reactor Safeguards, May 06 Through 7, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26140A353</link>
-			<description>ACRS Summary Report, Meeting Minutes</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-06-24 18:42:00</pubDate>
 		</item>
 	</channel>
 </rss>
