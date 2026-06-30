@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 29 Jun 2026 22:55:15 GMT</pubDate>
-		<lastBuildDate>Mon, 29 Jun 2026 22:55:15 GMT</lastBuildDate>
+		<pubDate>Tue, 30 Jun 2026 00:04:40 GMT</pubDate>
+		<lastBuildDate>Tue, 30 Jun 2026 00:04:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Final Safety Evaluation Report (FSER)</description>
 			<author>NRC/OAR/DDLP/DARL</author>
 			<pubDate>2026-06-25 19:27:00</pubDate>
-		</item>
-		<item>
-			<title>Report on the Safety Aspects of the Construction Permit Application for a BWRX-300 Reactor at the Clinch River Site</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26058A279</link>
-			<description>Letter</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-06-22 16:21:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 29 Jun 2026 22:55:14 GMT</pubDate>
-		<lastBuildDate>Mon, 29 Jun 2026 22:55:14 GMT</lastBuildDate>
+		<pubDate>Tue, 30 Jun 2026 00:04:39 GMT</pubDate>
+		<lastBuildDate>Tue, 30 Jun 2026 00:04:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -108,13 +108,6 @@
 			<description>Graphics incl Charts and Tables</description>
 			<author>NRC/OE</author>
 			<pubDate>2026-06-16 12:52:00</pubDate>
-		</item>
-		<item>
-			<title>Allegation Program Annual Trends Report CY2025 - Final</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26161A394</link>
-			<description>Annual Report</description>
-			<author>NRC/OE</author>
-			<pubDate>2026-06-15 16:56:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 29 Jun 2026 22:55:15 GMT</pubDate>
-		<lastBuildDate>Mon, 29 Jun 2026 22:55:15 GMT</lastBuildDate>
+		<pubDate>Tue, 30 Jun 2026 00:04:40 GMT</pubDate>
+		<lastBuildDate>Tue, 30 Jun 2026 00:04:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>ARC Clean Technology</author>
 			<pubDate>2026-06-24 12:58:00</pubDate>
-		</item>
-		<item>
-			<title>VR-SECY-26-0062: Recommendation Regarding the Future of the Replenishment of Potassium Iodide (Marzano)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26155A107</link>
-			<description>Commission Voting Record (CVR)</description>
-			<author>NRC/OCM</author>
-			<pubDate>2026-06-22 12:09:00</pubDate>
 		</item>
 	</channel>
 </rss>

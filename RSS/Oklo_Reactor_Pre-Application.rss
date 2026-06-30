@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 29 Jun 2026 22:55:09 GMT</pubDate>
-		<lastBuildDate>Mon, 29 Jun 2026 22:55:09 GMT</lastBuildDate>
+		<pubDate>Tue, 30 Jun 2026 00:04:33 GMT</pubDate>
+		<lastBuildDate>Tue, 30 Jun 2026 00:04:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,13 +45,6 @@
 			<description>Letter</description>
 			<author>Oklo Inc</author>
 			<pubDate>2026-06-23 15:54:00</pubDate>
-		</item>
-		<item>
-			<title>Letter - Oklo, Inc. - U.S. Nuclear Regulatory Commission (NRC) Staff Preliminary Feedback on Transition to NRC License Following U.S. Department of Energy Authorization Activities for the Aurora Powerhouse at Idaho National Laboratory</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26147A372</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DANU/UAL1</author>
-			<pubDate>2026-06-15 12:46:00</pubDate>
 		</item>
 	</channel>
 </rss>
