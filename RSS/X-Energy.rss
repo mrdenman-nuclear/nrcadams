@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 30 Jun 2026 22:17:41 GMT</pubDate>
-		<lastBuildDate>Tue, 30 Jun 2026 22:17:41 GMT</lastBuildDate>
+		<pubDate>Wed, 01 Jul 2026 16:29:12 GMT</pubDate>
+		<lastBuildDate>Wed, 01 Jul 2026 16:29:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Direct Final Rule - Federal Register Notice - NAC MAGNASTOR Amds. 16, 17,  Revisions to A0-16 - CoC 1031</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26120A389</link>
+			<description>Federal Register Notice, Rulemaking- Final Rule</description>
+			<author>NRC/EDO</author>
+			<pubDate>2026-07-01 14:54:00</pubDate>
+		</item>
+		<item>
+			<title>Request for Additional Information for the Materials Evaluation Related to the Scoping Demonstrations for a Maritime Transportable Nuclear Power Plant, EPID No. L-2025-LRM-0090</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26181A283</link>
+			<description>Request for Additional Information (RAI)</description>
+			<author>NRC/NMSS/DFM</author>
+			<pubDate>2026-07-01 12:36:00</pubDate>
+		</item>
+		<item>
+			<title>Integrated Low-Level Radioactive Waste Disposal - Proposed Rule - Unofficial Redline of the NRC's Proposed Rule Language</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26174A243</link>
+			<description>Rulemaking- Proposed Rule</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2026-07-01 12:21:00</pubDate>
+		</item>
 		<item>
 			<title>Diablo Canyon, Unit 1 - Reactor Vessel Material Surveillance Program Capsule B Technical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26180A296</link>
@@ -166,13 +187,6 @@
 			<pubDate>2026-06-25 19:28:00</pubDate>
 		</item>
 		<item>
-			<title>Integrated Low-Level Radioactive Waste Disposal - Proposed Rule - Unofficial Redline of the NRC's Proposed Rule Language</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26174A243</link>
-			<description>Rulemaking- Proposed Rule</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2026-06-25 19:28:00</pubDate>
-		</item>
-		<item>
 			<title>FSER, TVA Construction Permit Application (Clinch River Nuclear Site, Unit 1) [Public]</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26168A505</link>
 			<description>Final Safety Evaluation Report (FSER)</description>
@@ -206,20 +220,6 @@
 			<description></description>
 			<author></author>
 			<pubDate>2026-06-25 16:13:00</pubDate>
-		</item>
-		<item>
-			<title>Impact of Greater-Than-Class C (GTCC) Radioactive Waste Disposal in a Specialized Land Disposal Facility</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A006</link>
-			<description>Report, Technical</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2026-06-25 14:04:00</pubDate>
-		</item>
-		<item>
-			<title>Space and Property Management System (SPMS) Visitor Access Request System (VARS)- PIA</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26114A191</link>
-			<description>Privacy Impact Assessment, System Documentation</description>
-			<author>NRC/OCIO, NRC/ADM</author>
-			<pubDate>2026-06-25 14:04:00</pubDate>
 		</item>
 	</channel>
 </rss>
