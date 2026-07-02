@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 Jul 2026 00:11:28 GMT</pubDate>
-		<lastBuildDate>Thu, 02 Jul 2026 00:11:28 GMT</lastBuildDate>
+		<pubDate>Thu, 02 Jul 2026 16:06:39 GMT</pubDate>
+		<lastBuildDate>Thu, 02 Jul 2026 16:06:39 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Columbia Generating Station - License Amendment Request to Revise the 10 CFR 50.69 Categorization Process to Adopt the Enhanced Risk-Informed Categorization Methodology for Pressure Boundary Components</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26175A325</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>Energy Northwest</author>
+			<pubDate>2026-07-02 12:53:00</pubDate>
+		</item>
 		<item>
 			<title>IP 71114.08, Exercise Evaluation Scenario Review</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24290A121</link>
@@ -213,13 +220,6 @@
 			<description>Letter, Report, Technical</description>
 			<author>Holtec Decommissioning International, LLC</author>
 			<pubDate>2026-06-17 12:55:00</pubDate>
-		</item>
-		<item>
-			<title>Commission Memorandum and Order (CLI-26-9)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26166A393</link>
-			<description>Legal-Order</description>
-			<author>NRC/SECY</author>
-			<pubDate>2026-06-15 20:26:00</pubDate>
 		</item>
 	</channel>
 </rss>
