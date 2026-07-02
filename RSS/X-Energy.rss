@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 Jul 2026 16:06:36 GMT</pubDate>
-		<lastBuildDate>Thu, 02 Jul 2026 16:06:36 GMT</lastBuildDate>
+		<pubDate>Thu, 02 Jul 2026 18:31:33 GMT</pubDate>
+		<lastBuildDate>Thu, 02 Jul 2026 18:31:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NUREG-2270, DFC, "Environmental Review Guidance for U.S. Nuclear Regulatory Commission Licensing Actions"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25269A176</link>
+			<description>NUREG</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2026-07-02 16:06:00</pubDate>
+		</item>
 		<item>
 			<title>Early Release: Federal Register Notice - Implementation of the National Environmental Policy Act</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26176A437</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26169A334</link>
 			<description>Letter, Licensee Event Report (LER)</description>
 			<author>Duke Energy Carolinas, LLC</author>
-			<pubDate>2026-06-29 12:44:00</pubDate>
-		</item>
-		<item>
-			<title>M260605: Transcript - Meeting with the Advisory Committee on Reactor Safeguards</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26180A017</link>
-			<description>Commission Meeting Transcript</description>
-			<author>NRC/OCM</author>
 			<pubDate>2026-06-29 12:44:00</pubDate>
 		</item>
 	</channel>

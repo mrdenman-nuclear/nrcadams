@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 02 Jul 2026 16:06:39 GMT</pubDate>
-		<lastBuildDate>Thu, 02 Jul 2026 16:06:39 GMT</lastBuildDate>
+		<pubDate>Thu, 02 Jul 2026 18:31:40 GMT</pubDate>
+		<lastBuildDate>Thu, 02 Jul 2026 18:31:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NUREG-2270, DFC, "Environmental Review Guidance for U.S. Nuclear Regulatory Commission Licensing Actions"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25269A176</link>
+			<description>NUREG</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2026-07-02 16:06:00</pubDate>
+		</item>
 		<item>
 			<title>Columbia Generating Station - License Amendment Request to Revise the 10 CFR 50.69 Categorization Process to Adopt the Enhanced Risk-Informed Categorization Methodology for Pressure Boundary Components</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26175A325</link>
@@ -206,13 +213,6 @@
 			<description>Rulemaking-Comment</description>
 			<author>- No Known Affiliation</author>
 			<pubDate>2026-06-17 20:09:00</pubDate>
-		</item>
-		<item>
-			<title>Big Rock Point Updated Final Hazards Summary Report, Revision 20</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26167A196</link>
-			<description>Letter, Report, Technical</description>
-			<author>Holtec Decommissioning International, LLC</author>
-			<pubDate>2026-06-17 12:55:00</pubDate>
 		</item>
 		<item>
 			<title>Big Rock Point Updated Final Hazards Summary Report, Revision 20</title>

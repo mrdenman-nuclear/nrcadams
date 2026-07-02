@@ -2,7 +2,7 @@
 
 This page is updated Monday through Friday, hourly between 9AM ET and 5
 PM ET. It presents RSS files for the various dockets tracked by the
-`nrcadams` package. The last update was at 2026-07-02 12:06:30.184783
+`nrcadams` package. The last update was at 2026-07-02 14:31:14.108951
 ET.
 
 ## Using the RSS Feeds
@@ -357,13 +357,8 @@ nrcadams::docket_codex |>
     #> Warning in max(current_tbl$count): no non-missing arguments to max; returning
     #> -Inf
     #> Warning: Unknown or uninitialised column: `ML Number`.
-    #> Warning: Unknown or uninitialised column: `DocumentTitle`.
-    #> Warning in nrcadams:::decode_resp(resp): 
-    #> The search return no results.
-    #> Warning: Unknown or uninitialised column: `count`.
-    #> Warning in max(current_tbl$count): no non-missing arguments to max; returning
-    #> -Inf
-    #> Warning: Unknown or uninitialised column: `ML Number`.
+    #> Joining with `by = join_by(DocketNumber, `ML Number`, Title, `Document Date`,
+    #> `Publish Date`, Type, Affiliation, URL, count, tag)`
     #> Joining with `by = join_by(DocketNumber, `ML Number`, Title, `Document Date`,
     #> `Publish Date`, Type, Affiliation, URL, count, tag)`
     #> Joining with `by = join_by(DocketNumber, `ML Number`, Title, `Document Date`,
