@@ -5,12 +5,47 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Sat, 04 Jul 2026 00:05:37 GMT</pubDate>
-		<lastBuildDate>Sat, 04 Jul 2026 00:05:37 GMT</lastBuildDate>
+		<pubDate>Mon, 06 Jul 2026 16:54:41 GMT</pubDate>
+		<lastBuildDate>Mon, 06 Jul 2026 16:54:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Literature Review: Evaluation of Implementation Strategies for Potassium Iodide</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25160A272</link>
+			<description>Report, Technical</description>
+			<author>NRC/RES/DSA/AAB</author>
+			<pubDate>2026-07-06 16:22:00</pubDate>
+		</item>
+		<item>
+			<title>FWS to NRC, Crow Butte ISR License Renewal Conference Opinion</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26187A013</link>
+			<description>Letter</description>
+			<author>US Dept of Interior, Fish and Wildlife Service</author>
+			<pubDate>2026-07-06 12:36:00</pubDate>
+		</item>
+		<item>
+			<title>Byron Station, Unit 1 - 120-Day Inservice Inspection Report for Interval 4, Period 3 and Interval 5, Period 1 (B1R27)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26176A114</link>
+			<description>Inservice/Preservice Inspection and Test Report, Letter</description>
+			<author>Constellation Energy Generation, LLC</author>
+			<pubDate>2026-07-06 12:35:00</pubDate>
+		</item>
+		<item>
+			<title>Byron Station, Unit 1 - Startup Report for the Installation of Framatome GAIA Fuel Assemblies in Byron Unit 1 Cycle 28.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26176A225</link>
+			<description>Letter</description>
+			<author>Exelon Generation Co, LLC</author>
+			<pubDate>2026-07-06 12:35:00</pubDate>
+		</item>
+		<item>
+			<title>Palo Verde Nuclear Generating Station, Unit 1 - Relief Request 75, Alternative for Implementation of Extended Reactor Vessel Inservice Inspection Interval (EPID L-2025-LLR-0087)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26162A346</link>
+			<description>Letter, Safety Evaluation</description>
+			<author>NRC/NRR/DORL/LPL4</author>
+			<pubDate>2026-07-06 12:35:00</pubDate>
+		</item>
 		<item>
 			<title>NUREG-2270, DFC, "Environmental Review Guidance for U.S. Nuclear Regulatory Commission Licensing Actions"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25269A176</link>
@@ -185,41 +220,6 @@
 			<description>Inspection Report, Letter</description>
 			<author>NRC/CNRI</author>
 			<pubDate>2026-06-30 12:38:00</pubDate>
-		</item>
-		<item>
-			<title>North Anna, Unit 3 - Submission of Periodic Reports First Half 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26173A126</link>
-			<description>Letter</description>
-			<author>Virginia Electric and Power Co (VEPCO)</author>
-			<pubDate>2026-06-30 12:38:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - Safety Evaluation Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26155A310</link>
-			<description>Safety Evaluation Report</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2026-06-29 19:47:00</pubDate>
-		</item>
-		<item>
-			<title>Final Rule - Fee Schedules; Fee Recovery for Fiscal Year 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26114A058</link>
-			<description>Rulemaking- Final Rule</description>
-			<author>NRC/OCFO</author>
-			<pubDate>2026-06-29 14:51:00</pubDate>
-		</item>
-		<item>
-			<title>M260609: Transcript - Meeting with the Organization of Agreement States (OAS) and the Conference of Radiation Control Program Directors (CRCPD)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26180A018</link>
-			<description>Commission Meeting Transcript</description>
-			<author>NRC/OCM</author>
-			<pubDate>2026-06-29 12:45:00</pubDate>
-		</item>
-		<item>
-			<title>LER 2026-001-00 for Catawba Nuclear Station, Unit 2, 2B Steam Generator Tube Leak</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26169A334</link>
-			<description>Letter, Licensee Event Report (LER)</description>
-			<author>Duke Energy Carolinas, LLC</author>
-			<pubDate>2026-06-29 12:44:00</pubDate>
 		</item>
 	</channel>
 </rss>
