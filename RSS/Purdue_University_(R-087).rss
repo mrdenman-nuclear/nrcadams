@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 06 Jul 2026 22:13:48 GMT</pubDate>
-		<lastBuildDate>Mon, 06 Jul 2026 22:13:48 GMT</lastBuildDate>
+		<pubDate>Tue, 07 Jul 2026 00:09:36 GMT</pubDate>
+		<lastBuildDate>Tue, 07 Jul 2026 00:09:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Notification of Change in Operator Status for OP-505669 at Purdue University</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26162A287</link>
-			<description>Letter</description>
-			<author>Purdue Univ</author>
-			<pubDate>2026-06-22 13:21:00</pubDate>
-		</item>
-		<item>
-			<title>Notification of change in operator status for OP-505668 at Purdue University</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26162A242</link>
-			<description>Letter</description>
-			<author>Purdue Univ</author>
-			<pubDate>2026-06-22 13:21:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

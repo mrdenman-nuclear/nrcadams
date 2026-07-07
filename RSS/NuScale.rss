@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 06 Jul 2026 22:13:51 GMT</pubDate>
-		<lastBuildDate>Mon, 06 Jul 2026 22:13:51 GMT</lastBuildDate>
+		<pubDate>Tue, 07 Jul 2026 00:09:41 GMT</pubDate>
+		<lastBuildDate>Tue, 07 Jul 2026 00:09:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -80,13 +80,6 @@
 			<description>Letter</description>
 			<author>X-Energy, LLC</author>
 			<pubDate>2026-06-24 12:58:00</pubDate>
-		</item>
-		<item>
-			<title>RIC 2026 TH16 - 4 USTDA Support for U.S. Nuclear Power Sector Leadership Around the Globe</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26169A380</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>US Trade and Development Agency</author>
-			<pubDate>2026-06-22 17:38:00</pubDate>
 		</item>
 	</channel>
 </rss>

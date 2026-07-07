@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 06 Jul 2026 22:13:48 GMT</pubDate>
-		<lastBuildDate>Mon, 06 Jul 2026 22:13:48 GMT</lastBuildDate>
+		<pubDate>Tue, 07 Jul 2026 00:09:36 GMT</pubDate>
+		<lastBuildDate>Tue, 07 Jul 2026 00:09:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Inspection Report, Letter</description>
 			<author>NRC/NRR</author>
 			<pubDate>2026-06-24 12:58:00</pubDate>
-		</item>
-		<item>
-			<title>Kansas State University - U.S. Nuclear Regulatory Commission Safety Inspection Report No. 05000188/2026201</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26152A250</link>
-			<description>Inspection Report</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2026-06-22 15:29:00</pubDate>
 		</item>
 	</channel>
 </rss>

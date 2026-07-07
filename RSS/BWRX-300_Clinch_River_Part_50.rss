@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 06 Jul 2026 22:13:48 GMT</pubDate>
-		<lastBuildDate>Mon, 06 Jul 2026 22:13:48 GMT</lastBuildDate>
+		<pubDate>Tue, 07 Jul 2026 00:09:36 GMT</pubDate>
+		<lastBuildDate>Tue, 07 Jul 2026 00:09:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Final Safety Evaluation Report (FSER)</description>
 			<author>NRC/OAR/DDLP/DARL</author>
 			<pubDate>2026-06-25 19:27:00</pubDate>
-		</item>
-		<item>
-			<title>Clinch River Nuclear Site, Unit 1, Construction Permit Application Review Status</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26160A308</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DNRL/NRLB</author>
-			<pubDate>2026-06-22 13:22:00</pubDate>
 		</item>
 	</channel>
 </rss>
