@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 07 Jul 2026 19:02:30 GMT</pubDate>
-		<lastBuildDate>Tue, 07 Jul 2026 19:02:30 GMT</lastBuildDate>
+		<pubDate>Tue, 07 Jul 2026 20:56:20 GMT</pubDate>
+		<lastBuildDate>Tue, 07 Jul 2026 20:56:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>IMC 0308 Attachment 6, Basis Document for Security Cornerstone of the Reactor Oversight Process</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25253A415</link>
+			<description>Inspection Manual</description>
+			<author>NRC/CNRI/DDII/DOCP/RIB, NRC/NSIR/DSO/SOSB</author>
+			<pubDate>2026-07-07 20:25:00</pubDate>
+		</item>
 		<item>
 			<title>Proposed Rule: Implementation of the National Environmental Policy Act (RIN 3150-AL38)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26176A425</link>
@@ -213,13 +220,6 @@
 			<description>Federal Register Notice, Rulemaking- Proposed Rule</description>
 			<author>NRC/SECY</author>
 			<pubDate>2026-07-01 16:58:00</pubDate>
-		</item>
-		<item>
-			<title>19740701-19750118 - AEC-R - Vol. 8 Atomic Energy Commission Opinions and Decisions of the Atomic Energy Commission with Selected Orders, Part 7 of 14</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML21243A131</link>
-			<description>Legal-Panel/Board Issuance, Legal-Decision (Partial or Initial)</description>
-			<author>US Atomic Energy Commission (AEC)</author>
-			<pubDate>2026-07-01 16:36:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 07 Jul 2026 19:02:33 GMT</pubDate>
-		<lastBuildDate>Tue, 07 Jul 2026 19:02:33 GMT</lastBuildDate>
+		<pubDate>Tue, 07 Jul 2026 20:56:23 GMT</pubDate>
+		<lastBuildDate>Tue, 07 Jul 2026 20:56:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>IMC 0308 Attachment 6, Basis Document for Security Cornerstone of the Reactor Oversight Process</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25253A415</link>
+			<description>Inspection Manual</description>
+			<author>NRC/CNRI/DDII/DOCP/RIB, NRC/NSIR/DSO/SOSB</author>
+			<pubDate>2026-07-07 20:25:00</pubDate>
+		</item>
 		<item>
 			<title>Hadron Energy, Inc. Submittal of the Accepted Version of the Topical Report, "Hadron Energy, Inc. Quality Assurance Program Description," QAPD-A, Rev. 3</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26177A216</link>
@@ -213,13 +220,6 @@
 			<description>Audit Report</description>
 			<author>Holtec Decommissioning International, LLC</author>
 			<pubDate>2026-06-22 13:21:00</pubDate>
-		</item>
-		<item>
-			<title>North Anna 2020301, 2A-1 Exam Draft Items.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML21011A013</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>Virginia Electric and Power Co (VEPCO)</author>
-			<pubDate>2026-06-17 20:34:00</pubDate>
 		</item>
 	</channel>
 </rss>
