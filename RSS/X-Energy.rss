@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 07 Jul 2026 16:30:40 GMT</pubDate>
-		<lastBuildDate>Tue, 07 Jul 2026 16:30:40 GMT</lastBuildDate>
+		<pubDate>Tue, 07 Jul 2026 19:02:30 GMT</pubDate>
+		<lastBuildDate>Tue, 07 Jul 2026 19:02:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Proposed Rule: Implementation of the National Environmental Policy Act (RIN 3150-AL38)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26176A425</link>
+			<description>Federal Register Notice, Rulemaking- Proposed Rule</description>
+			<author>NRC/SECY</author>
+			<pubDate>2026-07-07 18:34:00</pubDate>
+		</item>
+		<item>
+			<title>Impact of Greater-Than-Class C (GTCC) Radioactive Waste Disposal in a Specialized Land Disposal Facility</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A006</link>
+			<description>Report, Technical</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2026-07-07 17:56:00</pubDate>
+		</item>
+		<item>
+			<title>US DOT Validation Request of Sweden Competent Authority Certification for the Embrace Package Identification No. S/50/AF Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26180A300</link>
+			<description>Letter, License-Application for Certificate of Compliance (Amend/Renewal/Rev) DKT 71 QA Program, Photograph</description>
+			<author>Westinghouse Electric Co, LLC</author>
+			<pubDate>2026-07-07 17:31:00</pubDate>
+		</item>
+		<item>
+			<title>US DOT Validation Request of Sweden Competent Authority Certification for the Embrace Package Identification No. S/50/AF Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26180A300</link>
+			<description>Letter, License-Application for Certificate of Compliance (Amend/Renewal/Rev) DKT 71 QA Program, Photograph</description>
+			<author>Westinghouse Electric Co, LLC</author>
+			<pubDate>2026-07-07 17:31:00</pubDate>
+		</item>
 		<item>
 			<title>Letter to EB Requesting Assurances for XSOU8868-02 DOS - Argentina</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26188A101</link>
@@ -192,34 +220,6 @@
 			<description>Legal-Panel/Board Issuance, Legal-Decision (Partial or Initial)</description>
 			<author>US Atomic Energy Commission (AEC)</author>
 			<pubDate>2026-07-01 16:36:00</pubDate>
-		</item>
-		<item>
-			<title>19740701-19750118 - AEC-R - Vol. 8 Atomic Energy Commission Opinions and Decisions of the Atomic Energy Commission with Selected Orders, Part 3 of 14</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML21243A129</link>
-			<description>Legal-Panel/Board Issuance, Legal-Decision (Partial or Initial)</description>
-			<author>US Atomic Energy Commission (AEC)</author>
-			<pubDate>2026-07-01 16:35:00</pubDate>
-		</item>
-		<item>
-			<title>19740701-19750118 - AEC-R - Vol. 8 Atomic Energy Commission Opinions and Decisions of the Atomic Energy Commission with Selected Orders, Part 1 of 14</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML21243A148</link>
-			<description>Legal-Panel/Board Issuance, Legal-Decision (Partial or Initial)</description>
-			<author>US Atomic Energy Commission (AEC)</author>
-			<pubDate>2026-07-01 16:35:00</pubDate>
-		</item>
-		<item>
-			<title>19740101-0630 - AEC-R - Vol. 7 - Atomic Energy Commission Reports, Opinions and Decisions of the Atomic Energy Commission with Selected Orders, Part 14 of 16</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML21243A115</link>
-			<description>Legal-Panel/Board Issuance, Legal-Decision (Partial or Initial)</description>
-			<author>US Atomic Energy Commission (AEC)</author>
-			<pubDate>2026-07-01 16:35:00</pubDate>
-		</item>
-		<item>
-			<title>19611231 - AECR-Vol.1 - Atomic Energy Commission with Selected Orders October 8, 1956 to December 31, 1961, Part 11 of 11</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML21242A412</link>
-			<description>Legal-Panel/Board Issuance, Legal-Decision (Partial or Initial)</description>
-			<author>US Atomic Energy Commission (AEC)</author>
-			<pubDate>2026-07-01 16:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
