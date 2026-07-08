@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 07 Jul 2026 23:58:07 GMT</pubDate>
-		<lastBuildDate>Tue, 07 Jul 2026 23:58:07 GMT</lastBuildDate>
+		<pubDate>Wed, 08 Jul 2026 16:03:08 GMT</pubDate>
+		<lastBuildDate>Wed, 08 Jul 2026 16:03:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Draft SRP 14.3, Revision 1, "Inspections, Tests, Analyses, and Acceptance Criteria"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25276A087</link>
+			<description>Standard Review Plan</description>
+			<author>NRC/NRR/DANU</author>
+			<pubDate>2026-07-08 12:40:00</pubDate>
+		</item>
 		<item>
 			<title>IMC 0308 Attachment 6, Basis Document for Security Cornerstone of the Reactor Oversight Process</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25253A415</link>
@@ -213,13 +220,6 @@
 			<description>Federal Register Notice, Rulemaking- Proposed Rule</description>
 			<author>NRC/SECY</author>
 			<pubDate>2026-07-01 17:18:00</pubDate>
-		</item>
-		<item>
-			<title>Early Release: Federal Register Notice - Proposed Rule - Modernizing Reactor Licensing, Safety Oversight, and Siting Practices</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26176A438</link>
-			<description>Federal Register Notice, Rulemaking- Proposed Rule</description>
-			<author>NRC/SECY</author>
-			<pubDate>2026-07-01 16:58:00</pubDate>
 		</item>
 	</channel>
 </rss>

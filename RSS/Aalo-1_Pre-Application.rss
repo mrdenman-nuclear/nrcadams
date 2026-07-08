@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 07 Jul 2026 23:58:04 GMT</pubDate>
-		<lastBuildDate>Tue, 07 Jul 2026 23:58:04 GMT</lastBuildDate>
+		<pubDate>Wed, 08 Jul 2026 16:03:04 GMT</pubDate>
+		<lastBuildDate>Wed, 08 Jul 2026 16:03:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2026-06-24 16:54:00</pubDate>
-		</item>
-		<item>
-			<title>Aalo-1 Thermal Spectrum Materials Challenges- Public</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26174A022</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>AALO Atomics</author>
-			<pubDate>2026-06-23 13:37:00</pubDate>
 		</item>
 	</channel>
 </rss>

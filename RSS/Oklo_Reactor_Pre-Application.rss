@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 07 Jul 2026 23:58:03 GMT</pubDate>
-		<lastBuildDate>Tue, 07 Jul 2026 23:58:03 GMT</lastBuildDate>
+		<pubDate>Wed, 08 Jul 2026 16:03:04 GMT</pubDate>
+		<lastBuildDate>Wed, 08 Jul 2026 16:03:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Withholding Proprietary Information From Public Disclosure - Oklo, Inc. Slides For The May 7, 2026, Meeting On Oklo's Aurora Reliability And Integrity Management (RIM) Program Overview</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26176A496</link>
+			<description>Letter, Proprietary Information Review</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
+			<pubDate>2026-07-08 12:40:00</pubDate>
+		</item>
 		<item>
 			<title>NRC Form 896 -A Topical Report Verification of Oklo Inc. Topical Report, Oklo-2025-RX-R012-A, "Principal Design Criteria for the Aurora Powerhouse," Rev. 1 (EPID: L-2025-TOP-0028)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26173A195</link>
@@ -59,27 +66,6 @@
 			<description>Letter</description>
 			<author>Oklo Inc</author>
 			<pubDate>2026-06-29 17:02:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo, Inc., Principal Design Criteria for the Aurora Powerhouse, Topical Report, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26132A434</link>
-			<description>Topical Report</description>
-			<author>Oklo Inc</author>
-			<pubDate>2026-06-23 15:54:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo, Inc., Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26132A432</link>
-			<description>Legal-Affidavit</description>
-			<author>Oklo Inc</author>
-			<pubDate>2026-06-23 15:54:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo, Inc., Submittal of Approved Oklo Inc. "Principal Design Criteria for the Aurora Powerhouse" Topical Report, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26132A431</link>
-			<description>Letter</description>
-			<author>Oklo Inc</author>
-			<pubDate>2026-06-23 15:54:00</pubDate>
 		</item>
 	</channel>
 </rss>

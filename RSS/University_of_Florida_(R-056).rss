@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 07 Jul 2026 23:58:04 GMT</pubDate>
-		<lastBuildDate>Tue, 07 Jul 2026 23:58:04 GMT</lastBuildDate>
+		<pubDate>Wed, 08 Jul 2026 16:03:05 GMT</pubDate>
+		<lastBuildDate>Wed, 08 Jul 2026 16:03:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>University of Florida Training Reactor Annual Report for Calendar Year 2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26181A181</link>
+			<description>Annual Operating Report, Letter</description>
+			<author>Univ Of Florida, Gainesville</author>
+			<pubDate>2026-07-08 12:39:00</pubDate>
+		</item>
+	</channel>
 </rss>
