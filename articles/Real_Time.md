@@ -1,7 +1,7 @@
 # Last Week in Dockets
 
 This page is updated Monday through Friday, hourly between 9AM ET and 5
-PM ET. The last update was at 2026-07-08 20:24:56.840999 ET.
+PM ET. The last update was at 2026-07-09 12:27:58.899282 ET.
 
 ``` r
 

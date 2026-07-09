@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 Jul 2026 00:24:48 GMT</pubDate>
-		<lastBuildDate>Thu, 09 Jul 2026 00:24:48 GMT</lastBuildDate>
+		<pubDate>Thu, 09 Jul 2026 16:27:54 GMT</pubDate>
+		<lastBuildDate>Thu, 09 Jul 2026 16:27:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NUREG-0750, "Indexes To Nuclear Regulatory Commission Issuances,  January 1, 2001 through December 31, 2005."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20044C838</link>
+			<description>NUREG</description>
+			<author>NRC/ADM</author>
+			<pubDate>2026-07-09 13:24:00</pubDate>
+		</item>
+		<item>
+			<title>NUREG-0750, "Indexes To Nuclear Regulatory Commission Issuances,  January 1, 1996 Through December 31, 2000."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20042E404</link>
+			<description>NUREG, Report, Technical</description>
+			<author>NRC/OGC</author>
+			<pubDate>2026-07-09 13:24:00</pubDate>
+		</item>
 		<item>
 			<title>Watts Bar Nuclear Plant, Units 1 and 2, Enforcement Action EAF-Rll-2025-0184 Inspection Readiness Notification</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26131A346</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26174A247</link>
 			<description>Audit Report, Exemption from NRC Requirements, Letter</description>
 			<author>NRC/NRR/DDLP/DLP1/ORLB4</author>
-			<pubDate>2026-07-06 12:35:00</pubDate>
-		</item>
-		<item>
-			<title>Watts Bar Nuclear Plant, Units 1 and 2 - Issuance of Amendment Nos. 181 and 86 Regarding Rebaseline of Technical Specification Sections 3.4 and 3.9 (EPID L-2025-LLA-0138)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26155A167</link>
-			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation, Technical Specifications</description>
-			<author>NRC/NRR/DORL/LPLII-2</author>
-			<pubDate>2026-07-06 12:35:00</pubDate>
-		</item>
-		<item>
-			<title>Watts Bar Nuclear Plant, Units 1 and 2 - Issuance of Amendment Nos. 181 and 86 Regarding Rebaseline of Technical Specification Sections 3.4 and 3.9 (EPID L-2025-LLA-0138)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26155A167</link>
-			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation, Technical Specifications</description>
-			<author>NRC/NRR/DORL/LPLII-2</author>
 			<pubDate>2026-07-06 12:35:00</pubDate>
 		</item>
 	</channel>
