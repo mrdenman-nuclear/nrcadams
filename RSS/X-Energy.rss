@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 Jul 2026 18:52:20 GMT</pubDate>
-		<lastBuildDate>Thu, 09 Jul 2026 18:52:20 GMT</lastBuildDate>
+		<pubDate>Thu, 09 Jul 2026 20:48:41 GMT</pubDate>
+		<lastBuildDate>Thu, 09 Jul 2026 20:48:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Draft Regulatory Guide DG-8063, (RG 8.18 Rev 3), Information Relevant to Radiation Dose Management at Medical Institutions</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25294A723</link>
+			<description>Regulatory Guide, Draft</description>
+			<author>NRC/NMSS/DMSST/MSEB</author>
+			<pubDate>2026-07-09 20:30:00</pubDate>
+		</item>
 		<item>
 			<title>GNF-A - Enclosure 2 - RAJ-II SAR, NEDO-33869 Revision 12, July 2026</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26189A133</link>
@@ -206,13 +213,6 @@
 			<description>Report, Technical</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2026-07-07 17:56:00</pubDate>
-		</item>
-		<item>
-			<title>US DOT Validation Request of Sweden Competent Authority Certification for the Embrace Package Identification No. S/50/AF Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26180A300</link>
-			<description>Letter, License-Application for Certificate of Compliance (Amend/Renewal/Rev) DKT 71 QA Program, Photograph</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2026-07-07 17:31:00</pubDate>
 		</item>
 		<item>
 			<title>US DOT Validation Request of Sweden Competent Authority Certification for the Embrace Package Identification No. S/50/AF Revision 0</title>
