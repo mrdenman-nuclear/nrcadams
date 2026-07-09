@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 Jul 2026 16:27:53 GMT</pubDate>
-		<lastBuildDate>Thu, 09 Jul 2026 16:27:53 GMT</lastBuildDate>
+		<pubDate>Thu, 09 Jul 2026 18:52:20 GMT</pubDate>
+		<lastBuildDate>Thu, 09 Jul 2026 18:52:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>GNF-A - Enclosure 2 - RAJ-II SAR, NEDO-33869 Revision 12, July 2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26189A133</link>
+			<description>Report, Technical</description>
+			<author>Global Nuclear Fuel - Americas, LLC</author>
+			<pubDate>2026-07-09 18:37:00</pubDate>
+		</item>
+		<item>
+			<title>Attachment 2: HI-2115090, Revision 9, "Final Safety Analysis Report on the HI-STORM UMAX Canister Storage System" (Non-Proprietary Version)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26182A303</link>
+			<description>Final Safety Analysis Report (FSAR)</description>
+			<author>Holtec International</author>
+			<pubDate>2026-07-09 18:37:00</pubDate>
+		</item>
 		<item>
 			<title>License Condition 19, Revision 1, Pre-Mobilization Notification Mary Ann Uranium Mine Waste Pile Remediation</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26183A289</link>
@@ -206,20 +220,6 @@
 			<description>Letter, License-Application for Certificate of Compliance (Amend/Renewal/Rev) DKT 71 QA Program, Photograph</description>
 			<author>Westinghouse Electric Co, LLC</author>
 			<pubDate>2026-07-07 17:31:00</pubDate>
-		</item>
-		<item>
-			<title>Letter to EB Requesting Assurances for XSOU8868-02 DOS - Argentina</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26188A101</link>
-			<description>Letter</description>
-			<author>NRC/OIP/ECNP</author>
-			<pubDate>2026-07-07 16:04:00</pubDate>
-		</item>
-		<item>
-			<title>Letter to EB Requesting EB Views & Assurances for XSNM3864 DOS - China</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26188A022</link>
-			<description>Letter</description>
-			<author>NRC/OIP/ECNP</author>
-			<pubDate>2026-07-07 14:55:00</pubDate>
 		</item>
 	</channel>
 </rss>
