@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 10 Jul 2026 00:06:38 GMT</pubDate>
-		<lastBuildDate>Fri, 10 Jul 2026 00:06:38 GMT</lastBuildDate>
+		<pubDate>Fri, 10 Jul 2026 16:24:59 GMT</pubDate>
+		<lastBuildDate>Fri, 10 Jul 2026 16:24:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC Staff Literature Review and Technical Assessment-Environmental Considerations for the Use of Anionic Polyacrylamide Flocculant During High-Pressure Slurry Ablation (HPSA)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26177A214</link>
+			<description>Memoranda, Technical Paper</description>
+			<author>NRC/NMSS/DDNMUDFR/DECAF/URMDB</author>
+			<pubDate>2026-07-10 12:52:00</pubDate>
+		</item>
+		<item>
+			<title>Susquehanna Steam Electric Station - Technical Specification Bases Unit 1 Manual</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26182A056</link>
+			<description>Manual</description>
+			<author>Susquehanna Nuclear, LLC</author>
+			<pubDate>2026-07-10 12:52:00</pubDate>
+		</item>
+		<item>
+			<title>Susquehanna Steam Electric Station - Technical Specifications Bases, Unit 2 Manual</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26182A055</link>
+			<description>Manual</description>
+			<author>Susquehanna Nuclear, LLC</author>
+			<pubDate>2026-07-10 12:52:00</pubDate>
+		</item>
 		<item>
 			<title>Draft Regulatory Guide DG-8063, (RG 8.18 Rev 3), Information Relevant to Radiation Dose Management at Medical Institutions</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25294A723</link>
@@ -199,27 +220,6 @@
 			<description>Inspection Manual</description>
 			<author>NRC/CNRI/DDII/DOCP/RIB, NRC/NSIR/DSO/SOSB</author>
 			<pubDate>2026-07-07 20:25:00</pubDate>
-		</item>
-		<item>
-			<title>Proposed Rule: Implementation of the National Environmental Policy Act (RIN 3150-AL38)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26176A425</link>
-			<description>Federal Register Notice, Rulemaking- Proposed Rule</description>
-			<author>NRC/SECY</author>
-			<pubDate>2026-07-07 18:34:00</pubDate>
-		</item>
-		<item>
-			<title>Impact of Greater-Than-Class C (GTCC) Radioactive Waste Disposal in a Specialized Land Disposal Facility</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26083A006</link>
-			<description>Report, Technical</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2026-07-07 17:56:00</pubDate>
-		</item>
-		<item>
-			<title>US DOT Validation Request of Sweden Competent Authority Certification for the Embrace Package Identification No. S/50/AF Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26180A300</link>
-			<description>Letter, License-Application for Certificate of Compliance (Amend/Renewal/Rev) DKT 71 QA Program, Photograph</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2026-07-07 17:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
