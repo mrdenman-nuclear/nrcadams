@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 09 Jul 2026 22:26:16 GMT</pubDate>
-		<lastBuildDate>Thu, 09 Jul 2026 22:26:16 GMT</lastBuildDate>
+		<pubDate>Fri, 10 Jul 2026 00:06:38 GMT</pubDate>
+		<lastBuildDate>Fri, 10 Jul 2026 00:06:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -108,20 +108,6 @@
 			<description>Legal-Panel/Board Issuance, Legal-Decision (Partial or Initial)</description>
 			<author>US Atomic Energy Commission (AEC)</author>
 			<pubDate>2026-07-01 16:35:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG-2175 DFC, Revision 1, "Guidance for Conducting Technical Analyses for 10 CFR Part 61"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML23255A282</link>
-			<description>NUREG, Draft, Report, Miscellaneous, Rulemaking- Proposed Rule</description>
-			<author>NRC/NMSS/DREFS/MRPB</author>
-			<pubDate>2026-06-25 19:35:00</pubDate>
-		</item>
-		<item>
-			<title>Biological Assessment, Official Species List #2025-0086007, Non-Federal Representative Designation Letter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26173A067</link>
-			<description>Environmental Report, License-Application for (Amend/Renewal/New) for DKT 30, 40, 70</description>
-			<author>NuFuels, Inc, WWC Engineering</author>
-			<pubDate>2026-06-25 18:42:00</pubDate>
 		</item>
 	</channel>
 </rss>
