@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 10 Jul 2026 18:25:02 GMT</pubDate>
-		<lastBuildDate>Fri, 10 Jul 2026 18:25:02 GMT</lastBuildDate>
+		<pubDate>Fri, 10 Jul 2026 20:22:43 GMT</pubDate>
+		<lastBuildDate>Fri, 10 Jul 2026 20:22:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Application for Approval of the TN Eagle DPC Spent Fuel Storage System - Response to Request for Supplemental Information</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26174A400</link>
+			<description>Legal-Affidavit, Letter, License-Application for Dry Cask ISFSI DKT 72, Response to Request for Additional Information (RAI)</description>
+			<author>Orano TN Americas, LLC, TN Americas LLC</author>
+			<pubDate>2026-07-10 18:32:00</pubDate>
+		</item>
 		<item>
 			<title>NRC Staff Literature Review and Technical Assessment-Environmental Considerations for the Use of Anionic Polyacrylamide Flocculant During High-Pressure Slurry Ablation (HPSA)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26177A214</link>
@@ -213,13 +220,6 @@
 			<description>Standard Review Plan</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2026-07-08 12:40:00</pubDate>
-		</item>
-		<item>
-			<title>IMC 0308 Attachment 6, Basis Document for Security Cornerstone of the Reactor Oversight Process</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25253A415</link>
-			<description>Inspection Manual</description>
-			<author>NRC/CNRI/DDII/DOCP/RIB, NRC/NSIR/DSO/SOSB</author>
-			<pubDate>2026-07-07 20:25:00</pubDate>
 		</item>
 	</channel>
 </rss>
