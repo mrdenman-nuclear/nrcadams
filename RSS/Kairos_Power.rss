@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 Jul 2026 23:53:45 GMT</pubDate>
-		<lastBuildDate>Mon, 13 Jul 2026 23:53:45 GMT</lastBuildDate>
+		<pubDate>Tue, 14 Jul 2026 15:28:08 GMT</pubDate>
+		<lastBuildDate>Tue, 14 Jul 2026 15:28:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,20 +45,6 @@
 			<description>Environmental Report</description>
 			<author>Haley and Aldrich, Inc</author>
 			<pubDate>2026-07-01 19:44:00</pubDate>
-		</item>
-		<item>
-			<title>M260609: Transcript - Meeting with the Organization of Agreement States (OAS) and the Conference of Radiation Control Program Directors (CRCPD)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26180A018</link>
-			<description>Commission Meeting Transcript</description>
-			<author>NRC/OCM</author>
-			<pubDate>2026-06-29 12:45:00</pubDate>
-		</item>
-		<item>
-			<title>M260605: Transcript - Meeting with the Advisory Committee on Reactor Safeguards</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26180A017</link>
-			<description>Commission Meeting Transcript</description>
-			<author>NRC/OCM</author>
-			<pubDate>2026-06-29 12:44:00</pubDate>
 		</item>
 	</channel>
 </rss>

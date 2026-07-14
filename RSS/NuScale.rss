@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 Jul 2026 23:53:45 GMT</pubDate>
-		<lastBuildDate>Mon, 13 Jul 2026 23:53:45 GMT</lastBuildDate>
+		<pubDate>Tue, 14 Jul 2026 15:28:08 GMT</pubDate>
+		<lastBuildDate>Tue, 14 Jul 2026 15:28:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Draft Regulatory Guide DG-1460 (RG 1.206, Rev. 2), Applications for Nuclear Power Plants</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25255A088</link>
+			<description>Regulatory Guide, Draft</description>
+			<author>NRC/NRR/DNRL/NVIB, NRC/NRR/DANU/UAL1, NRC/NRR/DANU/UARP</author>
+			<pubDate>2026-07-14 12:52:00</pubDate>
+		</item>
+		<item>
+			<title>Unofficial Redline Rule Language for the Proposed Rule - Modernizing Reactor Licensing, Safety Oversight, and Siting Practices</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26029A079</link>
+			<description>Rulemaking- Proposed Rule</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2026-07-14 12:50:00</pubDate>
+		</item>
+		<item>
+			<title>Supporting Statement for Information Collections - Modernizing Reactor Licensing, Safety Oversight, and Siting Practices Proposed Rule</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25328A182</link>
+			<description>OMB Clearance Material, Rulemaking- Proposed Rule</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2026-07-14 12:50:00</pubDate>
+		</item>
 		<item>
 			<title>Draft SRP 14.3, Revision 1, "Inspections, Tests, Analyses, and Acceptance Criteria"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25276A087</link>
@@ -59,20 +80,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/RES, NRC/RES/DERA</author>
 			<pubDate>2026-07-01 12:36:00</pubDate>
-		</item>
-		<item>
-			<title>Final Rule - Fee Schedules; Fee Recovery for Fiscal Year 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26114A058</link>
-			<description>Rulemaking- Final Rule</description>
-			<author>NRC/OCFO</author>
-			<pubDate>2026-06-29 14:51:00</pubDate>
-		</item>
-		<item>
-			<title>M260605: Transcript - Meeting with the Advisory Committee on Reactor Safeguards</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26180A017</link>
-			<description>Commission Meeting Transcript</description>
-			<author>NRC/OCM</author>
-			<pubDate>2026-06-29 12:44:00</pubDate>
 		</item>
 	</channel>
 </rss>

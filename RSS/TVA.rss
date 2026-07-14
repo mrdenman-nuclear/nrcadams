@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 13 Jul 2026 23:53:46 GMT</pubDate>
-		<lastBuildDate>Mon, 13 Jul 2026 23:53:46 GMT</lastBuildDate>
+		<pubDate>Tue, 14 Jul 2026 15:28:08 GMT</pubDate>
+		<lastBuildDate>Tue, 14 Jul 2026 15:28:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>2026 May 28 ROP Bimonthly Public Meeting Summary</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26160A219</link>
+			<description>Memoranda</description>
+			<author>NRC/NRR/DRO/IOEB</author>
+			<pubDate>2026-07-14 12:50:00</pubDate>
+		</item>
 		<item>
 			<title>Nuclear Regulatory Commission Inspection Report Of Tennessee Valley Authority No. 05000615/2026201</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26187A365</link>
@@ -213,13 +220,6 @@
 			<description>Drawing, License-Application for Certificate of Compliance (Amend/Renewal/Rev) DKT 71 QA Program</description>
 			<author>Govt of Sweden, Radiation Safety Authority</author>
 			<pubDate>2026-07-07 17:31:00</pubDate>
-		</item>
-		<item>
-			<title>Acceptance Review Results for SQN and WBN LAR to Adopt TSTF-471 re Elimination of the Term "CORE ALTERATIONS" (EPID L-2026-LLA-0110)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26188A026</link>
-			<description>Acceptance Review Letter, E-Mail</description>
-			<author>NRC/NRR/DDLP/DLP1/ORLB4</author>
-			<pubDate>2026-07-07 14:55:00</pubDate>
 		</item>
 	</channel>
 </rss>
