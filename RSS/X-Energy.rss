@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 15 Jul 2026 15:27:18 GMT</pubDate>
-		<lastBuildDate>Wed, 15 Jul 2026 15:27:18 GMT</lastBuildDate>
+		<pubDate>Wed, 15 Jul 2026 17:16:34 GMT</pubDate>
+		<lastBuildDate>Wed, 15 Jul 2026 17:16:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Examination Report Letter No. 50-156/OL-26-01, University of Wisconsin</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26078A135</link>
+			<description>License-Operator Examination Report (Non-Power Reactors Only), License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/NRR/DDLP/DLP2/NPUFB</author>
+			<pubDate>2026-07-15 16:06:00</pubDate>
+		</item>
+		<item>
+			<title>RIC 2026 Opening Plenary Transcript</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26111A420</link>
+			<description>Conference/Symposium/Workshop Paper, Transcript</description>
+			<author>NRC/OCM</author>
+			<pubDate>2026-07-15 15:14:00</pubDate>
+		</item>
 		<item>
 			<title>Vallecitos Nuclear Center, Safety Evaluation on Quality Assurance Program Manual Review</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26161A392</link>
@@ -206,20 +220,6 @@
 			<description>Legal-Affidavit, Letter, License-Application for Dry Cask ISFSI DKT 72, Response to Request for Additional Information (RAI)</description>
 			<author>Orano TN Americas, LLC, TN Americas LLC</author>
 			<pubDate>2026-07-10 18:32:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Staff Literature Review and Technical Assessment-Environmental Considerations for the Use of Anionic Polyacrylamide Flocculant During High-Pressure Slurry Ablation (HPSA)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26177A214</link>
-			<description>Memoranda, Technical Paper</description>
-			<author>NRC/NMSS/DDNMUDFR/DECAF/URMDB</author>
-			<pubDate>2026-07-10 12:52:00</pubDate>
-		</item>
-		<item>
-			<title>Susquehanna Steam Electric Station - Technical Specification Bases Unit 1 Manual</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26182A056</link>
-			<description>Manual</description>
-			<author>Susquehanna Nuclear, LLC</author>
-			<pubDate>2026-07-10 12:52:00</pubDate>
 		</item>
 	</channel>
 </rss>
