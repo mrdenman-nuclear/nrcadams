@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 16 Jul 2026 17:14:07 GMT</pubDate>
-		<lastBuildDate>Thu, 16 Jul 2026 17:14:07 GMT</lastBuildDate>
+		<pubDate>Thu, 16 Jul 2026 19:06:57 GMT</pubDate>
+		<lastBuildDate>Thu, 16 Jul 2026 19:06:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NUREG-1220, DFC, Rev. 2, "Training Review Criteria and Procedures"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26195A017</link>
+			<description>NUREG</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB2</author>
+			<pubDate>2026-07-16 18:18:00</pubDate>
+		</item>
 		<item>
 			<title>Regulatory Analysis - Reforming and Modernizing the NRC's Radiation Protection Framework - Proposed Rule</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26180A025</link>
@@ -213,13 +220,6 @@
 			<description>Guidance Document</description>
 			<author>NRC/NRR/DNRL</author>
 			<pubDate>2026-07-15 12:09:00</pubDate>
-		</item>
-		<item>
-			<title>Homestake Mining Co. of California - Grants Reclamation Project - 2026 Environmental Report for Alternate Concentration Limits</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26188A279</link>
-			<description>Environmental Report, License-Application for (Amend/Renewal/New) for DKT 30, 40, 70</description>
-			<author>Homestake Mining Co of California</author>
-			<pubDate>2026-07-14 14:15:00</pubDate>
 		</item>
 	</channel>
 </rss>
