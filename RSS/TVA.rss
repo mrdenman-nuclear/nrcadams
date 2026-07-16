@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 16 Jul 2026 19:06:57 GMT</pubDate>
-		<lastBuildDate>Thu, 16 Jul 2026 19:06:57 GMT</lastBuildDate>
+		<pubDate>Thu, 16 Jul 2026 20:55:52 GMT</pubDate>
+		<lastBuildDate>Thu, 16 Jul 2026 20:55:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -37,13 +37,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26194A109</link>
 			<description>License-Operator, Part 55 Examination Related Material</description>
 			<author>NRC/CNRI/ORAR2/R2DRS/OLB</author>
-			<pubDate>2026-07-16 12:14:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure: Orano Enrichment Facility Environmental Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26191A483</link>
-			<description>Environmental Monitoring Report</description>
-			<author>Orano Enrichment USA, LLC</author>
 			<pubDate>2026-07-16 12:14:00</pubDate>
 		</item>
 		<item>
@@ -220,6 +213,13 @@
 			<description>Letter</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2026-07-08 16:29:00</pubDate>
+		</item>
+		<item>
+			<title>Watts Bar Nuclear Plant, Units 1 and 2 - Proposed Alternative Request RR-10 Regarding Deferral of Inservice Testing of Specific Pumps and Valves (EPID L-2026-LLR-0037) (Relief Request)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26181A020</link>
+			<description>Code Relief or Alternative, Letter, Safety Evaluation</description>
+			<author>NRC/NRR/DDLP/DLP1/ORLB4</author>
+			<pubDate>2026-07-08 12:39:00</pubDate>
 		</item>
 	</channel>
 </rss>
