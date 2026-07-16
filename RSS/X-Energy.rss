@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 16 Jul 2026 15:33:07 GMT</pubDate>
-		<lastBuildDate>Thu, 16 Jul 2026 15:33:07 GMT</lastBuildDate>
+		<pubDate>Thu, 16 Jul 2026 17:14:07 GMT</pubDate>
+		<lastBuildDate>Thu, 16 Jul 2026 17:14:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Regulatory Analysis - Reforming and Modernizing the NRC's Radiation Protection Framework - Proposed Rule</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26180A025</link>
+			<description>Regulatory Analysis, Rulemaking- Proposed Rule</description>
+			<author>NRC/NMSS/DDNMUDFR/GREAT/RPB1</author>
+			<pubDate>2026-07-16 16:03:00</pubDate>
+		</item>
 		<item>
 			<title>Orano NCS And Rohrer Industries Services - 10 CFR Part 71 Design, Fabrication, And Testing NRC Inspection Report 07100951/2025201</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26196A303</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26188A279</link>
 			<description>Environmental Report, License-Application for (Amend/Renewal/New) for DKT 30, 40, 70</description>
 			<author>Homestake Mining Co of California</author>
-			<pubDate>2026-07-14 14:15:00</pubDate>
-		</item>
-		<item>
-			<title>Draft Regulatory Guide DG-4037 (RG 4.2, Rev. 5), Preparation of Environmental Reports for Nuclear Power Stations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25268A122</link>
-			<description>Regulatory Guide, Draft</description>
-			<author>NRC/OAR/DDLP/DARP/ARIB</author>
 			<pubDate>2026-07-14 14:15:00</pubDate>
 		</item>
 	</channel>
