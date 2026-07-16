@@ -5,11 +5,39 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 15 Jul 2026 23:59:07 GMT</pubDate>
-		<lastBuildDate>Wed, 15 Jul 2026 23:59:07 GMT</lastBuildDate>
+		<pubDate>Thu, 16 Jul 2026 15:33:03 GMT</pubDate>
+		<lastBuildDate>Thu, 16 Jul 2026 15:33:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>License Amendment Request - Transfer of Facility Operating License No. R-23 (Docket No. 50-059) for the AGN-201M Reactor from Texas A&M University to the Texas A&M Engineering Experiment Station; Administrative Revision to Texas A&M Engineering .....</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26189A418</link>
+			<description>Letter</description>
+			<author>Texas AandM Univ</author>
+			<pubDate>2026-07-16 12:14:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1: AGN-R23-LAR-2026-01, "Evaluation of the Proposed Change"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26189A419</link>
+			<description>License-Application for Facility Operating License (Amend/Renewal) DKT 50, Technical Specification, Amendment</description>
+			<author>Texas AandM Univ</author>
+			<pubDate>2026-07-16 12:14:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: Consent Letter from the President of Texas A&M University</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26189A420</link>
+			<description>Letter</description>
+			<author>Texas AandM Univ</author>
+			<pubDate>2026-07-16 12:14:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 3: Acceptance Letter from the Director of the TEES</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26189A421</link>
+			<description>Letter</description>
+			<author>Texas AandM Univ</author>
+			<pubDate>2026-07-16 12:14:00</pubDate>
+		</item>
+	</channel>
 </rss>
