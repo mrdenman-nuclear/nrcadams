@@ -2,7 +2,7 @@
 
 This page is updated Monday through Friday, hourly between 9AM ET and 5
 PM ET. It presents RSS files for the various dockets tracked by the
-`nrcadams` package. The last update was at 2026-07-17 13:10:53.894973
+`nrcadams` package. The last update was at 2026-07-17 15:04:59.291893
 ET.
 
 ## Using the RSS Feeds
@@ -280,18 +280,12 @@ burning_ears <- nrcadams::docket_codex |>
 #> Warning in nrcadams::search_public_ADAMS(search_term = paste0("'", .x, "'"), :
 #> Negative docket numbers detected. These will be used to excludedocuments from
 #> the search results.
-#> Warning: Unknown or uninitialised column: `DocumentTitle`.
-#> Warning in nrcadams:::decode_resp(resp): 
-#> The search return no results.
 #> Warning in nrcadams::search_public_ADAMS(search_term = paste0("'", .x, "'"), :
 #> Negative docket numbers detected. These will be used to excludedocuments from
 #> the search results.
 #> Warning in nrcadams::search_public_ADAMS(search_term = paste0("'", .x, "'"), :
 #> Negative docket numbers detected. These will be used to excludedocuments from
 #> the search results.
-#> Warning: Unknown or uninitialised column: `DocumentTitle`.
-#> Warning in nrcadams:::decode_resp(resp): 
-#> The search return no results.
 #> Warning in nrcadams::search_public_ADAMS(search_term = paste0("'", .x, "'"), :
 #> Negative docket numbers detected. These will be used to excludedocuments from
 #> the search results.

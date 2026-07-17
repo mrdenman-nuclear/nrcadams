@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 17 Jul 2026 17:11:01 GMT</pubDate>
-		<lastBuildDate>Fri, 17 Jul 2026 17:11:01 GMT</lastBuildDate>
+		<pubDate>Fri, 17 Jul 2026 19:05:04 GMT</pubDate>
+		<lastBuildDate>Fri, 17 Jul 2026 19:05:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>M260721: Slides - T. Garrish - Advanced Reactor Landscape: Current Status and Moving Forward</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26198A212</link>
+			<description>Commission Meeting Slides</description>
+			<author>NRC/OCM</author>
+			<pubDate>2026-07-17 17:03:00</pubDate>
+		</item>
+		<item>
+			<title>Federal Register Notice for Proposed Rule: Modernizing Reactor Licensing, Safety Oversight, and Siting Practices</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26181A098</link>
+			<description>Federal Register Notice, Rulemaking- Proposed Rule</description>
+			<author>NRC/SECY</author>
+			<pubDate>2026-07-17 17:03:00</pubDate>
+		</item>
 		<item>
 			<title>Examination Report Letter No. 50-243/OL-26-01, Oregon State University</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26049A153</link>
@@ -206,20 +220,6 @@
 			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50, Report, Technical, Technical Specification, Bases Change</description>
 			<author>Duke Energy Carolinas, LLC</author>
 			<pubDate>2026-07-15 18:26:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Report Letter No. 50-156/OL-26-01, University of Wisconsin</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26078A135</link>
-			<description>License-Operator Examination Report (Non-Power Reactors Only), License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/NRR/DDLP/DLP2/NPUFB</author>
-			<pubDate>2026-07-15 16:06:00</pubDate>
-		</item>
-		<item>
-			<title>RIC 2026 Opening Plenary Transcript</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26111A420</link>
-			<description>Conference/Symposium/Workshop Paper, Transcript</description>
-			<author>NRC/OCM</author>
-			<pubDate>2026-07-15 15:14:00</pubDate>
 		</item>
 	</channel>
 </rss>
