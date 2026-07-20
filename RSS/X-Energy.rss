@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 20 Jul 2026 19:42:15 GMT</pubDate>
-		<lastBuildDate>Mon, 20 Jul 2026 19:42:15 GMT</lastBuildDate>
+		<pubDate>Mon, 20 Jul 2026 21:13:01 GMT</pubDate>
+		<lastBuildDate>Mon, 20 Jul 2026 21:13:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>M260721: Slides - NRC Staff - Advanced Reactor Landscape: Current Status and Moving Forward</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26201A331</link>
+			<description>Commission Meeting Slides</description>
+			<author>NRC/OCM</author>
+			<pubDate>2026-07-20 20:37:00</pubDate>
+		</item>
 		<item>
 			<title>Federal Register Notice - Reforming and Modernizing the NRC's Radiation Protection Framework - Proposed Rule</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26180A024</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26189A297</link>
 			<description>Topical Report</description>
 			<author>Terrestrial Energy Development, Inc</author>
-			<pubDate>2026-07-16 12:14:00</pubDate>
-		</item>
-		<item>
-			<title>License Amendment Request to Revise Technical Specifications to Adopt Risk-Informed Completion Times TSTF-505, Revision 2, "Provide Risk-Informed Extended Completion Times - RITSTF Initiative 4b," TSTF-439, Revision 2, "Eliminate Second .....</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26189A402</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50, Technical Specification, Amendment, Technical Specification, Bases Change</description>
-			<author>Nebraska Public Power District (NPPD)</author>
 			<pubDate>2026-07-16 12:14:00</pubDate>
 		</item>
 	</channel>
