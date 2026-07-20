@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 17 Jul 2026 23:51:11 GMT</pubDate>
-		<lastBuildDate>Fri, 17 Jul 2026 23:51:11 GMT</lastBuildDate>
+		<pubDate>Mon, 20 Jul 2026 15:50:37 GMT</pubDate>
+		<lastBuildDate>Mon, 20 Jul 2026 15:50:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,20 +73,6 @@
 			<description>Letter</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2026-06-22 16:21:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of the Advisory Committee on Reactor Safeguards 736th Full Committee Meeting, June 03, 2026 Pages 1-150 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26169A343</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-06-18 18:12:00</pubDate>
-		</item>
-		<item>
-			<title>737th ACRS Full Committee Meeting Agenda for July 8 through 10, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26159A281</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-06-17 14:44:00</pubDate>
 		</item>
 	</channel>
 </rss>
