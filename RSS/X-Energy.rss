@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Jul 2026 17:16:46 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Jul 2026 17:16:46 GMT</lastBuildDate>
+		<pubDate>Tue, 21 Jul 2026 19:18:16 GMT</pubDate>
+		<lastBuildDate>Tue, 21 Jul 2026 19:18:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Proposed Rule Supporting Statement - Reducing Barriers to Med Use Licensing</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25349A079</link>
+			<description>OMB Clearance Material, Rulemaking- Proposed Rule</description>
+			<author>NRC/NMSS/DDNMUDFR/GREAT/RPB1</author>
+			<pubDate>2026-07-21 17:34:00</pubDate>
+		</item>
+		<item>
+			<title>Proposed Rule: Reducing Barriers to Medical Use Licensing (W2-4) Redline Strikeout</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25349A081</link>
+			<description>Federal Register Notice, Rulemaking- Proposed Rule</description>
+			<author>NRC/NMSS/DDNMUDFR/GREAT/RPB1, NRC/SECY</author>
+			<pubDate>2026-07-21 17:34:00</pubDate>
+		</item>
 		<item>
 			<title>Diablo Canyon, Units 1 and 2 - Supplement to License Amendment Request 26-05 Revision to Diablo Canyon Power Plant Emergency Plan</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26166A264</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26196A356</link>
 			<description>Commission Meeting Slides</description>
 			<author>NRC/OCM</author>
-			<pubDate>2026-07-16 12:14:00</pubDate>
-		</item>
-		<item>
-			<title>M260721: Agenda - Advanced Reactor Landscape: Current Status and Moving Forward</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26196A330</link>
-			<description>Commission Meeting Agenda</description>
-			<author>NRC/OCM</author>
-			<pubDate>2026-07-16 12:14:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Oconee Nuclear Station UFSAR 2025 Update - Rev. 31 (Publicly Available Information)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26181A287</link>
-			<description>License-Application for Facility Operating License (Amend/Renewal) DKT 50, Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Duke Energy Carolinas, LLC</author>
 			<pubDate>2026-07-16 12:14:00</pubDate>
 		</item>
 	</channel>
