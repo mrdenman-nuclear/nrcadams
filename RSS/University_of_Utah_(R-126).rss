@@ -5,11 +5,53 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 20 Jul 2026 23:58:10 GMT</pubDate>
-		<lastBuildDate>Mon, 20 Jul 2026 23:58:10 GMT</lastBuildDate>
+		<pubDate>Tue, 21 Jul 2026 15:45:09 GMT</pubDate>
+		<lastBuildDate>Tue, 21 Jul 2026 15:45:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>University of Utah - Administrative License Amendment Request for License Number R-126, Docket Number 50-407</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26194A156</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>Univ of Utah, Salt Lake City</author>
+			<pubDate>2026-07-21 12:15:00</pubDate>
+		</item>
+		<item>
+			<title>Appendix A to Facility License No. R-126, Docket 50-407 Technical Specifications and Bases for the University of Utah</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26194A153</link>
+			<description>Technical Specification, Amendment, Technical Specification, Bases Change</description>
+			<author>Univ of Utah</author>
+			<pubDate>2026-07-21 12:14:00</pubDate>
+		</item>
+		<item>
+			<title>2026 UUTR License Amendment Request Supporting Documentation for Changing</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26194A152</link>
+			<description>License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>Univ of Utah</author>
+			<pubDate>2026-07-21 12:14:00</pubDate>
+		</item>
+		<item>
+			<title>University of Utah - 2026 UUTR License Amendment Request Supporting Documentation for Changing Periodicity of Fuel Inspection</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26194A157</link>
+			<description>License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>Univ of Utah, Salt Lake City</author>
+			<pubDate>2026-07-21 12:14:00</pubDate>
+		</item>
+		<item>
+			<title>LCO License Amendment Request for License Number R-126, Docket Number 50-407</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26194A151</link>
+			<description>Letter</description>
+			<author>Univ of Utah</author>
+			<pubDate>2026-07-21 12:14:00</pubDate>
+		</item>
+		<item>
+			<title>University of Utah - Appendix A to Facility License No. R-126, Docket No. 50-407 Technical Specifications and Bases</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26194A158</link>
+			<description>Technical Specifications</description>
+			<author>Univ of Utah, Salt Lake City</author>
+			<pubDate>2026-07-21 12:14:00</pubDate>
+		</item>
+	</channel>
 </rss>
