@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Jul 2026 19:18:16 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Jul 2026 19:18:16 GMT</lastBuildDate>
+		<pubDate>Tue, 21 Jul 2026 21:05:58 GMT</pubDate>
+		<lastBuildDate>Tue, 21 Jul 2026 21:05:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Early Release - Federal Register Notice - Proposed Rule: Reducing Barriers to Medical Use Licensing (W2-4) RIN 3150-AL50</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26202A271</link>
+			<description>Federal Register Notice, Rulemaking- Proposed Rule</description>
+			<author>NRC/SECY</author>
+			<pubDate>2026-07-21 19:27:00</pubDate>
+		</item>
 		<item>
 			<title>Proposed Rule Supporting Statement - Reducing Barriers to Med Use Licensing</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25349A079</link>
@@ -213,13 +220,6 @@
 			<description>ACRS Summary Report, Letter</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2026-07-16 12:44:00</pubDate>
-		</item>
-		<item>
-			<title>M260721: Slides - J. Wheeler - Advanced Reactor Landscape: Current Status and Moving Forward</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26196A356</link>
-			<description>Commission Meeting Slides</description>
-			<author>NRC/OCM</author>
-			<pubDate>2026-07-16 12:14:00</pubDate>
 		</item>
 	</channel>
 </rss>
