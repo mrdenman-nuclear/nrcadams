@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Jul 2026 23:58:31 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Jul 2026 23:58:31 GMT</lastBuildDate>
+		<pubDate>Wed, 22 Jul 2026 15:34:22 GMT</pubDate>
+		<lastBuildDate>Wed, 22 Jul 2026 15:34:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Nine Mile Point Nuclear Station Unit 1, Summary of Environmental Audit Related to the Environmental Review</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26189A128</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DDLP/DLP2/LREB</author>
+			<pubDate>2026-07-22 12:17:00</pubDate>
+		</item>
 		<item>
 			<title>New and Amended Contentions of the Oglala Sioux Tribe, NDN Collective, and Black Hills Clean Water Alliance Based on the NRC Staff's Final Assessment, Finding of No Significant Impact, and Executed Section 106 Programmatic Agreement</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26198A325</link>
@@ -115,34 +122,6 @@
 			<description>License-Application for (Amend/Renewal/New) for DKT 30, 40, 70</description>
 			<author>Disa Technologies, Inc</author>
 			<pubDate>2026-07-09 14:29:00</pubDate>
-		</item>
-		<item>
-			<title>Proposed Rule: Implementation of the National Environmental Policy Act (RIN 3150-AL38)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26176A425</link>
-			<description>Federal Register Notice, Rulemaking- Proposed Rule</description>
-			<author>NRC/SECY</author>
-			<pubDate>2026-07-07 18:34:00</pubDate>
-		</item>
-		<item>
-			<title>Response Letter to Acknowledgement of Interest in Applicant-Prepared National Environmental Policy Act Document Pilot Project for American Electric Power Company, Inc., Advanced Nuclear Project Two</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26177A167</link>
-			<description>Letter</description>
-			<author>American Electric Power Company, Inc</author>
-			<pubDate>2026-07-07 12:36:00</pubDate>
-		</item>
-		<item>
-			<title>License Amendment Request (LAR) 26-01; Revise Kewaunee Power Station License to Add License Condition 2.C(18) to include License Termination Plan Requirements for Partial Site Release</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26181A302</link>
-			<description>Legal-Affidavit, Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>Kewaunee Solutions, LLC</author>
-			<pubDate>2026-07-07 12:36:00</pubDate>
-		</item>
-		<item>
-			<title>License Amendment Request (LAR) 26-01; Revise Kewaunee Power Station License to Add License Condition 2.C(18) to include License Termination Plan Requirements for Partial Site Release</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26181A302</link>
-			<description>Legal-Affidavit, Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>Kewaunee Solutions, LLC</author>
-			<pubDate>2026-07-07 12:36:00</pubDate>
 		</item>
 	</channel>
 </rss>

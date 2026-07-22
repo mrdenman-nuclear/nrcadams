@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Jul 2026 23:58:31 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Jul 2026 23:58:31 GMT</lastBuildDate>
+		<pubDate>Wed, 22 Jul 2026 15:34:22 GMT</pubDate>
+		<lastBuildDate>Wed, 22 Jul 2026 15:34:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>20260311 Marzano RIC 2026 Transcript_Final</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26089A356</link>
+			<description>Transcript</description>
+			<author>NRC/OCM/MJM</author>
+			<pubDate>2026-07-22 15:05:00</pubDate>
+		</item>
+		<item>
+			<title>Early Release: Federal Register Notice - Modernizing Package Certification Requirements Proposed Rule</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26197A157</link>
+			<description>Federal Register Notice, Rulemaking- Proposed Rule</description>
+			<author>NRC/SECY</author>
+			<pubDate>2026-07-22 13:20:00</pubDate>
+		</item>
+		<item>
+			<title>Comanche Peak Nuclear Power Plant, Unit Nos. 1 and 2 - Issuance of Amendment Nos. 196 and 196, Respectively Re: Adoption of TSTF-585 "Revise LCO 3.0.3 to Require Managing Risk" (EPID L-2026-LLA-0065) (Amendment)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26148A199</link>
+			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation</description>
+			<author>NRC/NRR/DORL/LPL3</author>
+			<pubDate>2026-07-22 12:17:00</pubDate>
+		</item>
+		<item>
+			<title>Comanche Peak Nuclear Power Plant, Unit Nos. 1 and 2 - Issuance of Amendment Nos. 196 and 196, Respectively Re: Adoption of TSTF-585 "Revise LCO 3.0.3 to Require Managing Risk" (EPID L-2026-LLA-0065) (Amendment)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26148A199</link>
+			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation</description>
+			<author>NRC/NRR/DORL/LPL3</author>
+			<pubDate>2026-07-22 12:17:00</pubDate>
+		</item>
 		<item>
 			<title>Early Release - Federal Register Notice - Proposed Rule: Reducing Barriers to Medical Use Licensing (W2-4) RIN 3150-AL50</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26202A271</link>
@@ -26,7 +54,7 @@
 			<pubDate>2026-07-21 17:34:00</pubDate>
 		</item>
 		<item>
-			<title>Proposed Rule: Reducing Barriers to Medical Use Licensing (W2-4) Redline Strikeout</title>
+			<title>Unofficial Redline of the NRC's Proposed Rule: Reducing Barriers to Medical Use Licensing</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25349A081</link>
 			<description>Federal Register Notice, Rulemaking- Proposed Rule</description>
 			<author>NRC/NMSS/DDNMUDFR/GREAT/RPB1, NRC/SECY</author>
@@ -192,34 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS/DDCNMI/DFCMO/SFSOB</author>
 			<pubDate>2026-07-16 15:03:00</pubDate>
-		</item>
-		<item>
-			<title>Orano NCS And Rohrer Industries Services - 10 CFR Part 71 Design, Fabrication, And Testing NRC Inspection Report 07100951/2025201</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26196A303</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DDCNMI/DFCMO/SFSOB</author>
-			<pubDate>2026-07-16 15:03:00</pubDate>
-		</item>
-		<item>
-			<title>Integrated Materials Performance Evaluation Program Questionnaire</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26197A090</link>
-			<description>OMB Clearance Material</description>
-			<author>NRC/NMSS/DDNMUDFR/DMSSS/SLPB</author>
-			<pubDate>2026-07-16 15:03:00</pubDate>
-		</item>
-		<item>
-			<title>IMC 0609 Appendix E Part IV, Cybersecurity Significance Determination Process for Power Reactors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25328A204</link>
-			<description>Inspection Manual</description>
-			<author>NRC/NSIR/DPCP/CSB</author>
-			<pubDate>2026-07-16 13:23:00</pubDate>
-		</item>
-		<item>
-			<title>Summary Report And Certified Minutes For The 736th Meeting Of The Advisory Committee On Reactor Safeguards For June 3 Through 4 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26181A034</link>
-			<description>ACRS Summary Report, Letter</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-07-16 12:44:00</pubDate>
 		</item>
 	</channel>
 </rss>

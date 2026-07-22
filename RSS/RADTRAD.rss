@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 21 Jul 2026 23:58:33 GMT</pubDate>
-		<lastBuildDate>Tue, 21 Jul 2026 23:58:33 GMT</lastBuildDate>
+		<pubDate>Wed, 22 Jul 2026 15:34:23 GMT</pubDate>
+		<lastBuildDate>Wed, 22 Jul 2026 15:34:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Letter, License-Application for Combined License (COL) (Amend/Renewal) DKT 52</description>
 			<author>Southern Nuclear Operating Co, Inc</author>
 			<pubDate>2026-07-20 12:18:00</pubDate>
-		</item>
-		<item>
-			<title>Draft Regulatory Guide DG-4036 (RG 4.29, Rev. 0), Graded Approach to Site Characterization for New Reactor Applications</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25272A272</link>
-			<description>Regulatory Guide, Draft</description>
-			<author>NRC/NRR/DEX/EXHB</author>
-			<pubDate>2026-07-14 12:52:00</pubDate>
-		</item>
-		<item>
-			<title>Draft Regulatory Guide DG-1425 (RG 1.183, Rev. 2), Alternative Radiological Source Terms for Evaluating Design-Basis Accidents at Nuclear Power Reactors</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24185A179</link>
-			<description>Regulatory Guide, Draft</description>
-			<author>NRC/RES, NRC/NRR/DRA/ARCB, NRC/NRR/DSS, NRC/NRR/DSS/SFNB</author>
-			<pubDate>2026-07-14 12:51:00</pubDate>
 		</item>
 	</channel>
 </rss>
