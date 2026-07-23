@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 23 Jul 2026 17:19:38 GMT</pubDate>
-		<lastBuildDate>Thu, 23 Jul 2026 17:19:38 GMT</lastBuildDate>
+		<pubDate>Thu, 23 Jul 2026 19:11:01 GMT</pubDate>
+		<lastBuildDate>Thu, 23 Jul 2026 19:11:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Direct Final Rule - HI STORM FW 1032 AMD 10 - List of Approved Spent Fuel Storage Casks: Holtec International HI-STORM FW System, Certificate of Compliance No. 1032, Amendment No. 10</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26148A309</link>
+			<description>Federal Register Notice, Rulemaking- Final Rule</description>
+			<author>NRC/EDO</author>
+			<pubDate>2026-07-23 17:36:00</pubDate>
+		</item>
 		<item>
 			<title>Unofficial Redline of the NRC's Proposed Rule: Reducing Barriers to Medical Use Licensing</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25349A081</link>
@@ -213,13 +220,6 @@
 			<description>Regulatory Analysis, Rulemaking- Proposed Rule</description>
 			<author>NRC/NMSS/DDNMUDFR/GREAT/RPB1</author>
 			<pubDate>2026-07-16 16:03:00</pubDate>
-		</item>
-		<item>
-			<title>Orano NCS And Rohrer Industries Services - 10 CFR Part 71 Design, Fabrication, And Testing NRC Inspection Report 07100951/2025201</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26196A303</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DDCNMI/DFCMO/SFSOB</author>
-			<pubDate>2026-07-16 15:03:00</pubDate>
 		</item>
 	</channel>
 </rss>
