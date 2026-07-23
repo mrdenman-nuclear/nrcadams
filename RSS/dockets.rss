@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 22 Jul 2026 22:14:10 GMT</pubDate>
-		<lastBuildDate>Wed, 22 Jul 2026 22:14:10 GMT</lastBuildDate>
+		<pubDate>Thu, 23 Jul 2026 00:06:43 GMT</pubDate>
+		<lastBuildDate>Thu, 23 Jul 2026 00:06:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -171,13 +171,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2026-07-10 12:51:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Proprietary Information From Public Disclosure - Oklo, Inc. Slides For The May 7, 2026, Meeting On Oklo's Aurora Reliability And Integrity Management (RIM) Program Overview</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26176A496</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
-			<pubDate>2026-07-08 12:40:00</pubDate>
 		</item>
 	</channel>
 </rss>
