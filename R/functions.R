@@ -283,6 +283,8 @@ search_public_ADAMS <- function(
   
   if (!is.na(search_term)) {
     body$q <- search_term
+  } else {
+    body$q <- ''
   }
 
   req <- httr2::request(get) |>
