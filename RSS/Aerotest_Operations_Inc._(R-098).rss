@@ -5,18 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 23 Jul 2026 21:01:34 GMT</pubDate>
-		<lastBuildDate>Thu, 23 Jul 2026 21:01:34 GMT</lastBuildDate>
+		<pubDate>Thu, 06 Aug 2026 17:37:49 GMT</pubDate>
+		<lastBuildDate>Thu, 06 Aug 2026 17:37:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>Aerotest Operations, Inc. - Acknowledgement of Response to NRC Inspection Report 050-00228/2026-001 and Notice of Violation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26194A188</link>
+			<title>Aerotest Operations, Inc. - July 1, 2025 thru June 30, 2026 Summary of Changes, Tests, and Experiments</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26212A363</link>
+			<description>Letter, Operating Report</description>
+			<author>Aerotest Operations, Inc</author>
+			<pubDate>2026-08-03 14:58:00</pubDate>
+		</item>
+		<item>
+			<title>Aerotest Operations, Inc. - Request a Meeting with NRC Chairman</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26212A300</link>
 			<description>Letter</description>
-			<author>NRC/NMSS/DDCNMI/DFCMO/SFSOB</author>
-			<pubDate>2026-07-14 12:50:00</pubDate>
+			<author>Aerotest Operations, Inc, Nuclear Labyrinth LLC</author>
+			<pubDate>2026-08-03 14:58:00</pubDate>
 		</item>
 	</channel>
 </rss>

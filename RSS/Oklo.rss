@@ -5,60 +5,46 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 23 Jul 2026 21:01:37 GMT</pubDate>
-		<lastBuildDate>Thu, 23 Jul 2026 21:01:37 GMT</lastBuildDate>
+		<pubDate>Thu, 06 Aug 2026 17:37:53 GMT</pubDate>
+		<lastBuildDate>Thu, 06 Aug 2026 17:37:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SECY-26-0094: Weekly Information Report Week Ending July 3, 2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26210A393</link>
+			<description>Commission SECY Paper</description>
+			<author>NRC/EDO/AO</author>
+			<pubDate>2026-07-31 12:21:00</pubDate>
+		</item>
+		<item>
+			<title>Completeness Determination - Oklo Inc. Topical Report AUR-PDD-001, "Nuclear Quality Assurance Program (N-QAP) for Aurora Powerhouses," Revision 0 (L-2026-TOP-0024)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26204A296</link>
+			<description></description>
+			<author></author>
+			<pubDate>2026-07-31 12:20:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Form 897 - Request for Withholding from Public Disclosure - Oklo Inc. Topical Report, AUR-PDD-001, "Nuclear Quality Assurance Program (N-QAP) for Aurora Powerhouses," Rev. 0 (L-2026-TOP-0024)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26197A289</link>
+			<description></description>
+			<author></author>
+			<pubDate>2026-07-29 12:11:00</pubDate>
+		</item>
+		<item>
+			<title>Summary of May 13, 2026 Fuel Facility Stakeholders Meeting</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26147A203</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/NMSS/DFM/FFLB</author>
+			<pubDate>2026-07-24 14:14:00</pubDate>
+		</item>
 		<item>
 			<title>Oklo Pre-Licensing Engagement to Discuss Siting Requirements for a Reprocessing Facility 07/29/2026</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26204A329</link>
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2026-07-23 19:05:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Oklo, Inc. - "Nuclear Quality Assurance Program (N-QAP) for Aurora Power houses" Topical Report, Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26179A002</link>
-			<description></description>
-			<author></author>
-			<pubDate>2026-07-20 18:23:00</pubDate>
-		</item>
-		<item>
-			<title>M260721: Slides - T. Garrish - Advanced Reactor Landscape: Current Status and Moving Forward</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26198A212</link>
-			<description>Commission Meeting Slides</description>
-			<author>NRC/OCM</author>
-			<pubDate>2026-07-17 17:03:00</pubDate>
-		</item>
-		<item>
-			<title>Meeting with Oklo to discuss a planned topical report on fuel qualification 07/30/2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26196A367</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-07-15 20:33:00</pubDate>
-		</item>
-		<item>
-			<title>FOIA-2026-000310 - Response 1 - Final</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26194A100</link>
-			<description>FOIA/Privacy Act Response to Requestor</description>
-			<author>NRC/OCIO/DIME/FLICB</author>
-			<pubDate>2026-07-13 16:27:00</pubDate>
-		</item>
-		<item>
-			<title>FOIA-2026-000310 - Incoming Request - Redacted</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26194A102</link>
-			<description>FOIA/Privacy Act Request</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2026-07-13 16:27:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo Pre-Licensing Engagement to Discuss Siting Requirements for a Reprocessing Facility 07/29/2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26190A383</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2026-07-10 12:51:00</pubDate>
 		</item>
 	</channel>
 </rss>

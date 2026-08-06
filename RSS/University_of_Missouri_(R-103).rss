@@ -5,18 +5,39 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 23 Jul 2026 21:01:34 GMT</pubDate>
-		<lastBuildDate>Thu, 23 Jul 2026 21:01:34 GMT</lastBuildDate>
+		<pubDate>Thu, 06 Aug 2026 17:37:49 GMT</pubDate>
+		<lastBuildDate>Thu, 06 Aug 2026 17:37:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>The Curators Of The University Of Missouri - U.S. Nuclear Regulatory Commission Safety Inspection Report No. 05000186/2026201</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26181A028</link>
-			<description>Inspection Report, Letter</description>
+			<title>Univ. of Missouri - Correction to the Supplement to License Amendment Request to Revise the Technical Specifications for the Addition of Ancillary Exhaust Systems</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26205A095</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>Univ of Missouri</author>
+			<pubDate>2026-08-03 12:01:00</pubDate>
+		</item>
+		<item>
+			<title>Examination Results Letter No. 50-186/OL-26-02, The Curators of the University of Missouri</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26049A122</link>
+			<description>License-Operator, Part 55 Examination Related Material</description>
 			<author>NRC/NRR/DDLP/DLP2/NPUFB</author>
-			<pubDate>2026-07-10 12:52:00</pubDate>
+			<pubDate>2026-07-28 12:14:00</pubDate>
+		</item>
+		<item>
+			<title>Examination Report Letter No. 50-186/OL-26-02, The Curators of the University of Missouri</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26049A121</link>
+			<description>License-Operator Examination Report (Non-Power Reactors Only), License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/NRR/DDLP/DLP2/NPUFB</author>
+			<pubDate>2026-07-28 12:14:00</pubDate>
+		</item>
+		<item>
+			<title>Supplement to License Amendment Request to Revise the Technical Specifications for the Addition of Ancillary Exhaust Systems</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26196A186</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50, Response to Request for Additional Information (RAI), Technical Specification, Amendment</description>
+			<author>Univ of Missouri - Columbia</author>
+			<pubDate>2026-07-23 12:26:00</pubDate>
 		</item>
 	</channel>
 </rss>

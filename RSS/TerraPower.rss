@@ -5,60 +5,46 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 23 Jul 2026 21:01:37 GMT</pubDate>
-		<lastBuildDate>Thu, 23 Jul 2026 21:01:37 GMT</lastBuildDate>
+		<pubDate>Thu, 06 Aug 2026 17:37:53 GMT</pubDate>
+		<lastBuildDate>Thu, 06 Aug 2026 17:37:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>M260721: Slides - NRC Staff - Advanced Reactor Landscape: Current Status and Moving Forward</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26201A331</link>
-			<description>Commission Meeting Slides</description>
+			<title>Enclosure - NRC Request for Additional Information/Confirmatory Information</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26210A005</link>
+			<description>Request for Additional Information (RAI)</description>
+			<author>NRC/OAR/DDLP/DARP/ARERB</author>
+			<pubDate>2026-08-04 14:19:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure - NRC Request for Additional Information/Confirmatory Information</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26210A005</link>
+			<description>Request for Additional Information (RAI)</description>
+			<author>NRC/OAR/DDLP/DARP/ARERB</author>
+			<pubDate>2026-08-04 14:19:00</pubDate>
+		</item>
+		<item>
+			<title>Research Information Letter RIL 2026-05, "Function Allocation: Human Factors Engineering Technical Basis and Recommendations for Guidance"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26202A282</link>
+			<description>Research Information Letter (RIL)</description>
+			<author>NRC/RES/DERA, NRC/RES/DERA/ISEB</author>
+			<pubDate>2026-07-31 14:12:00</pubDate>
+		</item>
+		<item>
+			<title>SRM-M260721: Advanced Reactor Landscape: Current Status and Moving Forward</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26208A035</link>
+			<description>Commission Staff Requirements Memo (SRM)</description>
+			<author>NRC/SECY</author>
+			<pubDate>2026-07-27 14:03:00</pubDate>
+		</item>
+		<item>
+			<title>M260721: Transcript - Advanced Reactor Landscape: Current Status and Moving Forward</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26205A198</link>
+			<description>Commission Meeting Transcript</description>
 			<author>NRC/OCM</author>
-			<pubDate>2026-07-20 20:37:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of June 18 Meeting on NEI 23-01, Rev 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26190A172</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
-			<pubDate>2026-07-20 19:07:00</pubDate>
-		</item>
-		<item>
-			<title>M260721: Slides - G. Wilson - Advanced Reactor Landscape: Current Status and Moving Forward</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26196A353</link>
-			<description>Commission Meeting Slides</description>
-			<author>NRC/OCM</author>
-			<pubDate>2026-07-16 12:14:00</pubDate>
-		</item>
-		<item>
-			<title>M260721: Agenda - Advanced Reactor Landscape: Current Status and Moving Forward</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26196A330</link>
-			<description>Commission Meeting Agenda</description>
-			<author>NRC/OCM</author>
-			<pubDate>2026-07-16 12:14:00</pubDate>
-		</item>
-		<item>
-			<title>Reactor Open Allegations by CY Received: January 2022 - June 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26196A002</link>
-			<description>Graphics incl Charts and Tables</description>
-			<author>NRC/CNRI/DDII/DOCP/AEB</author>
-			<pubDate>2026-07-15 19:02:00</pubDate>
-		</item>
-		<item>
-			<title>Reactor Allegations By CY Received: January 2022 - June 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26196A003</link>
-			<description>Graphics incl Charts and Tables</description>
-			<author>NRC/CNRI/DDII/DOCP/AEB</author>
-			<pubDate>2026-07-15 19:02:00</pubDate>
-		</item>
-		<item>
-			<title>Reactor Allegations From Onsite Sources by CY Received: January 2022 - June 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26196A004</link>
-			<description>Graphics incl Charts and Tables</description>
-			<author>NRC/CNRI/DDII/DOCP/AEB</author>
-			<pubDate>2026-07-15 19:02:00</pubDate>
+			<pubDate>2026-07-27 13:03:00</pubDate>
 		</item>
 	</channel>
 </rss>

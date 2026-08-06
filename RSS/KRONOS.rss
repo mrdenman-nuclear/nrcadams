@@ -5,18 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 23 Jul 2026 21:01:33 GMT</pubDate>
-		<lastBuildDate>Thu, 23 Jul 2026 21:01:33 GMT</lastBuildDate>
+		<pubDate>Thu, 06 Aug 2026 17:37:48 GMT</pubDate>
+		<lastBuildDate>Thu, 06 Aug 2026 17:37:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>Email June 9, 2026, NRC Staff Review of U. of I. Request to Withhold Information for Kronos MMR CP PSAR.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26195A273</link>
+			<title>University of Illinois - Safety Review General Audit Questions - Related to Chapter 8</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26209A291</link>
+			<description>Request for Additional Information (RAI)</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
+			<pubDate>2026-08-05 12:03:00</pubDate>
+		</item>
+		<item>
+			<title>University of Illinois Urbana-Champaign - Transmittal of General Audit Questions for PSAR Chapter 8</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26209A292</link>
 			<description>E-Mail</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
-			<pubDate>2026-07-16 12:14:00</pubDate>
+			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
+			<pubDate>2026-08-05 12:03:00</pubDate>
+		</item>
+		<item>
+			<title>University of Illinois Urbana-Champaign, Response to Request for Guidance Document on NPUF Security Requirements for U. of I. Research Reactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26197A161</link>
+			<description>E-Mail</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
+			<pubDate>2026-07-23 12:27:00</pubDate>
 		</item>
 	</channel>
 </rss>

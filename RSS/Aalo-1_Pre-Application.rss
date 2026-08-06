@@ -5,18 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 23 Jul 2026 21:01:33 GMT</pubDate>
-		<lastBuildDate>Thu, 23 Jul 2026 21:01:33 GMT</lastBuildDate>
+		<pubDate>Thu, 06 Aug 2026 17:37:48 GMT</pubDate>
+		<lastBuildDate>Thu, 06 Aug 2026 17:37:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>Letter of Intent to Pursue an Early Site Permit for an Aalo Reactor at the Texas A&M RELLIS Campus</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26190A374</link>
-			<description>Letter</description>
+			<title>AALO Submittal of "ESP Methodology White Paper," WP-AALO-2026-002, Revision A</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26210A323</link>
+			<description>Legal-Affidavit, Letter, Technical Paper</description>
 			<author>Aalo Holdings, Inc</author>
-			<pubDate>2026-07-17 12:24:00</pubDate>
+			<pubDate>2026-08-06 12:25:00</pubDate>
+		</item>
+		<item>
+			<title>Pre-submittal Meeting with Aalo Atomics to discuss PPE Topical Report 08/18/2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26217A260</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2026-08-06 12:22:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Public Meeting with Aalo Atomics to discuss PPE Topical Report Pre-submittal 08/06/2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26208A255</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2026-07-27 20:08:00</pubDate>
 		</item>
 	</channel>
 </rss>

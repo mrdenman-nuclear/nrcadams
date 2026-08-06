@@ -5,46 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 23 Jul 2026 21:01:37 GMT</pubDate>
-		<lastBuildDate>Thu, 23 Jul 2026 21:01:37 GMT</lastBuildDate>
+		<pubDate>Thu, 06 Aug 2026 17:37:53 GMT</pubDate>
+		<lastBuildDate>Thu, 06 Aug 2026 17:37:53 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Export License Issued to Edlow International Company XSNM3860</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26216A265</link>
+			<description>License-Export License Amendment</description>
+			<author>NRC/OIP</author>
+			<pubDate>2026-08-05 15:17:00</pubDate>
+		</item>
+		<item>
+			<title>Letter of Notification of ANSI Approved Standards for NRC Review, Endorsement, and/or Awareness</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26205A115</link>
+			<description>Letter</description>
+			<author>American Nuclear Society (ANS), American Nuclear Society Standards Committee</author>
+			<pubDate>2026-07-27 12:33:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure: Orano Enrichment Facility Environmental Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26191A483</link>
 			<description>Environmental Monitoring Report</description>
 			<author>Orano Enrichment USA, LLC</author>
 			<pubDate>2026-07-23 19:05:00</pubDate>
-		</item>
-		<item>
-			<title>20260311 Marzano RIC 2026 Transcript_Final</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26089A356</link>
-			<description>Transcript</description>
-			<author>NRC/OCM/MJM</author>
-			<pubDate>2026-07-22 15:05:00</pubDate>
-		</item>
-		<item>
-			<title>Request for NRC Review and Endorsement of NEI-26-03, Revision ), "Approach for the Assessment of Low Frequency Seismic Events as Part of a Risk-Informed Performance-Based Licensing Pathway"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26195A253</link>
-			<description>Letter, Report, Technical</description>
-			<author>Nuclear Energy Institute (NEI)</author>
-			<pubDate>2026-07-22 12:16:00</pubDate>
-		</item>
-		<item>
-			<title>Radiant R-50 Special Nuclear Material License Application - DRAFT Historic and Cultural Evaluation for Public Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26188A258</link>
-			<description>Report, Technical</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2026-07-14 20:54:00</pubDate>
-		</item>
-		<item>
-			<title>12/18/2025 Summary Of Pre-Submittal Meeting With Kairos On Hermes External Event Design Criteria</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26190A376</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
-			<pubDate>2026-07-13 12:36:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,32 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 23 Jul 2026 21:01:34 GMT</pubDate>
-		<lastBuildDate>Thu, 23 Jul 2026 21:01:34 GMT</lastBuildDate>
+		<pubDate>Thu, 06 Aug 2026 17:37:49 GMT</pubDate>
+		<lastBuildDate>Thu, 06 Aug 2026 17:37:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Pennsylvania State University - U.S. Nuclear Regulatory Commission Safety Inspection Report No. 05000005/2026201 (Letter & Enclosure)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26190A104</link>
-			<description>Inspection Report, Letter</description>
-			<author>NRC/NRR/DDLP/DLP2/NPUFB</author>
-			<pubDate>2026-07-20 12:18:00</pubDate>
-		</item>
-		<item>
-			<title>Pennsylvania State University Breazeale Reactor, Quality Assurance Plan for the Shipment of Spent Nuclear Fuel, Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26191A038</link>
-			<description>Quality Assurance Program</description>
-			<author>Penn State College of Engineering</author>
-			<pubDate>2026-07-20 12:17:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Confirmation Letter No. 50-005/OL-26-01, Pennsylvania State University</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26154A285</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/NRR/DANU/UNPO</author>
-			<pubDate>2026-07-14 16:19:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>
