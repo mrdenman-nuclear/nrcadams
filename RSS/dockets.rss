@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 07 Aug 2026 18:52:55 GMT</pubDate>
-		<lastBuildDate>Fri, 07 Aug 2026 18:52:55 GMT</lastBuildDate>
+		<pubDate>Fri, 07 Aug 2026 19:55:47 GMT</pubDate>
+		<lastBuildDate>Fri, 07 Aug 2026 19:55:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NuScale Power, LLC - Submittal of the Approved Version of NuScale Topical Report, "Emergency Event Classification Scheme for a NuScale Power Plant," TR-182845-A, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26210A346</link>
+			<description>Letter, Topical Report</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2026-08-07 18:56:00</pubDate>
+		</item>
+		<item>
+			<title>NuScale Power, LLC - Submittal of the Approved Version of NuScale Topical Report, "Emergency Response Organization for a NuScale Power Plant," TR-183101-A, Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26211A382</link>
+			<description>Letter, Topical Report</description>
+			<author>NuScale Power, LLC</author>
+			<pubDate>2026-08-07 18:56:00</pubDate>
+		</item>
+		<item>
+			<title>Commission Memorandum and Order (CLI-26-10)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26219A174</link>
+			<description>Legal-Order</description>
+			<author>NRC/SECY</author>
+			<pubDate>2026-08-07 18:56:00</pubDate>
+		</item>
 		<item>
 			<title>Meeting Summary of the June 24 2026 Meeting with Aalo on Thermal Spectrum Material Challenges</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26212A185</link>
@@ -199,27 +220,6 @@
 			<description>E-Mail</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB3</author>
 			<pubDate>2026-07-27 12:33:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Determination for X Energy, LLC (X-energy) Xe-100 TRISO Pebble Fuel Qualification Methodology, Revision 4, Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26181A327</link>
-			<description>E-Mail</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB3</author>
-			<pubDate>2026-07-27 12:33:00</pubDate>
-		</item>
-		<item>
-			<title>000633, "Xe-100 TRISO Pebble Fuel Qualification Methodology, Revision 4"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26181A334</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB3</author>
-			<pubDate>2026-07-27 12:33:00</pubDate>
-		</item>
-		<item>
-			<title>000633, "Xe-100 TRISO Pebble Fuel Qualification Methodology, Revision 4"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26181A299</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB3</author>
-			<pubDate>2026-07-27 12:32:00</pubDate>
 		</item>
 	</channel>
 </rss>
