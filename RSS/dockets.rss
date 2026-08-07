@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 07 Aug 2026 00:43:03 GMT</pubDate>
-		<lastBuildDate>Fri, 07 Aug 2026 00:43:03 GMT</lastBuildDate>
+		<pubDate>Fri, 07 Aug 2026 14:54:02 GMT</pubDate>
+		<lastBuildDate>Fri, 07 Aug 2026 14:54:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Meeting Summary of the June 24 2026 Meeting with Aalo on Thermal Spectrum Material Challenges</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26212A185</link>
+			<description>Meeting Summary</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
+			<pubDate>2026-08-07 12:00:00</pubDate>
+		</item>
 		<item>
 			<title>Pre-submittal Meeting with Aalo Atomics to discuss PPE Topical Report 08/18/2026</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26218A199</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26181A299</link>
 			<description>Topical Report Evaluation</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB3</author>
-			<pubDate>2026-07-27 12:32:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Affidavit Supporting Request for Withholding from Public Disclosure (10 CFR 2.390)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26198A157</link>
-			<description>Legal-Affidavit</description>
-			<author>X-Energy, LLC</author>
 			<pubDate>2026-07-27 12:32:00</pubDate>
 		</item>
 	</channel>
