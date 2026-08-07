@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 06 Aug 2026 17:37:48 GMT</pubDate>
-		<lastBuildDate>Thu, 06 Aug 2026 17:37:48 GMT</lastBuildDate>
+		<pubDate>Fri, 07 Aug 2026 00:43:03 GMT</pubDate>
+		<lastBuildDate>Fri, 07 Aug 2026 00:43:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>University of Illinois Urbana-Champaign - Transmittal of General Audit Questions for PSAR Section 9.3</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26217A262</link>
+			<description>E-Mail</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
+			<pubDate>2026-08-06 17:31:00</pubDate>
+		</item>
+		<item>
+			<title>U. of I. CP Safety Review General Audit Questions - Section 9.3</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26217A263</link>
+			<description>Meeting Briefing Package/Handouts</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
+			<pubDate>2026-08-06 17:31:00</pubDate>
+		</item>
 		<item>
 			<title>University of Illinois - Safety Review General Audit Questions - Related to Chapter 8</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26209A291</link>
@@ -24,13 +38,6 @@
 			<description>E-Mail</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
 			<pubDate>2026-08-05 12:03:00</pubDate>
-		</item>
-		<item>
-			<title>University of Illinois Urbana-Champaign, Response to Request for Guidance Document on NPUF Security Requirements for U. of I. Research Reactor</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26197A161</link>
-			<description>E-Mail</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
-			<pubDate>2026-07-23 12:27:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 06 Aug 2026 17:37:53 GMT</pubDate>
-		<lastBuildDate>Thu, 06 Aug 2026 17:37:53 GMT</lastBuildDate>
+		<pubDate>Fri, 07 Aug 2026 00:43:06 GMT</pubDate>
+		<lastBuildDate>Fri, 07 Aug 2026 00:43:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>OMB 3150-0214, Draft Supporting Statement, 10 CFR Part 37 - Physical Protection of Byproduct Material</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26152A111</link>
+			<description>OMB Clearance Material</description>
+			<author>NRC/NMSS/DMSST/SMPB</author>
+			<pubDate>2026-08-06 20:16:00</pubDate>
+		</item>
+		<item>
+			<title>Request for Additional Information for the Scoping Study of a Risk Assessment Approach Applied to the Transportation Package of a Transportable Nuclear Power Plant for a Maritime Shipment (CAC/EPID 002240/L-2025-LRM-0090)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26217A221</link>
+			<description>Letter, Request for Additional Information (RAI)</description>
+			<author>NRC/NMSS/DFM</author>
+			<pubDate>2026-08-06 17:31:00</pubDate>
+		</item>
+		<item>
+			<title>Millstone Power Station Unit 3, Updated Final Safety Analysis Report, Revision 39, Technical Requirements Manual (Redacted)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26188A252</link>
+			<description>Manual, Report, Technical, Updated Final Safety Analysis Report (UFSAR)</description>
+			<author>Dominion Energy Nuclear Connecticut, Inc</author>
+			<pubDate>2026-08-06 17:31:00</pubDate>
+		</item>
 		<item>
 			<title>Import Waste License Application from EnergySolutions LLC IW035.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26204A205</link>
@@ -199,27 +220,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
 			<pubDate>2026-07-31 12:21:00</pubDate>
-		</item>
-		<item>
-			<title>White Paper-Regulatory Analysis Regarding Proposed Licensing Strategy for In-Situ Uranium Recovery Activities at the Shirley Basin South UMTRCA Title II Disposal Site</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26204A028</link>
-			<description>Letter, Regulatory Analysis, Technical Paper</description>
-			<author>Ur Energy USA</author>
-			<pubDate>2026-07-31 12:20:00</pubDate>
-		</item>
-		<item>
-			<title>Catawba Nuclear Station, Unit Nos. 1 and 2; Shearon Harris Nuclear Power Plant, Unit 1; Mcguire Nuclear Station, Units 1 and 2; Oconee Nuclear Station, Units 1, 2, and 3; and H. B. Robinson Steam Electric Plant, Unit No. 2 - Amendments (L-2026-LLA-0031)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26189A347</link>
-			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation, Technical Specifications</description>
-			<author>NRC/NRR/DDLP/DLP1/ORLB3</author>
-			<pubDate>2026-07-31 12:20:00</pubDate>
-		</item>
-		<item>
-			<title>Catawba Nuclear Station, Unit Nos. 1 and 2; Shearon Harris Nuclear Power Plant, Unit 1; Mcguire Nuclear Station, Units 1 and 2; Oconee Nuclear Station, Units 1, 2, and 3; and H. B. Robinson Steam Electric Plant, Unit No. 2 - Amendments (L-2026-LLA-0031)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26189A347</link>
-			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation, Technical Specifications</description>
-			<author>NRC/NRR/DDLP/DLP1/ORLB3</author>
-			<pubDate>2026-07-31 12:20:00</pubDate>
 		</item>
 	</channel>
 </rss>

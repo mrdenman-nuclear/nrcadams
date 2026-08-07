@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 06 Aug 2026 17:37:53 GMT</pubDate>
-		<lastBuildDate>Thu, 06 Aug 2026 17:37:53 GMT</lastBuildDate>
+		<pubDate>Fri, 07 Aug 2026 00:43:06 GMT</pubDate>
+		<lastBuildDate>Fri, 07 Aug 2026 00:43:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Letter</description>
 			<author>American Nuclear Society (ANS), American Nuclear Society Standards Committee</author>
 			<pubDate>2026-07-27 12:33:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure: Orano Enrichment Facility Environmental Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26191A483</link>
-			<description>Environmental Monitoring Report</description>
-			<author>Orano Enrichment USA, LLC</author>
-			<pubDate>2026-07-23 19:05:00</pubDate>
 		</item>
 	</channel>
 </rss>

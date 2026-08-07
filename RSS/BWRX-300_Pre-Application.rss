@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 06 Aug 2026 17:37:48 GMT</pubDate>
-		<lastBuildDate>Thu, 06 Aug 2026 17:37:48 GMT</lastBuildDate>
+		<pubDate>Fri, 07 Aug 2026 00:43:03 GMT</pubDate>
+		<lastBuildDate>Fri, 07 Aug 2026 00:43:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2026-07-27 12:32:00</pubDate>
-		</item>
-		<item>
-			<title>GVH meeting to discuss NRC staff white paper feedback regarding BWRX300 Damping Values for Diaphragm Plate Steel-Plate Composite Structures 08/05/2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26204A119</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-07-23 14:11:00</pubDate>
 		</item>
 	</channel>
 </rss>

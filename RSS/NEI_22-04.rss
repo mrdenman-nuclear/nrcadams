@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 06 Aug 2026 17:37:55 GMT</pubDate>
-		<lastBuildDate>Thu, 06 Aug 2026 17:37:55 GMT</lastBuildDate>
+		<pubDate>Fri, 07 Aug 2026 00:43:08 GMT</pubDate>
+		<lastBuildDate>Fri, 07 Aug 2026 00:43:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Millstone Power Station Unit 3, Updated Final Safety Analysis Report, Revision 39, Technical Requirements Manual (Redacted)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26188A252</link>
+			<description>Manual, Report, Technical, Updated Final Safety Analysis Report (UFSAR)</description>
+			<author>Dominion Energy Nuclear Connecticut, Inc</author>
+			<pubDate>2026-08-06 17:31:00</pubDate>
+		</item>
 		<item>
 			<title>Diablo Canyon, Units 1 and 2 - Issuance of Amendment Nos. 260 and 262 Re: Revision to Technical Specifications to Adopt TSTF-596, "Expand the Applicability of the Surveillance Frequency Control Program (SFCP)" (EPID: L-2025-LLA-0200)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26183A083</link>
@@ -213,13 +220,6 @@
 			<description>Rulemaking-Comment</description>
 			<author>- No Known Affiliation</author>
 			<pubDate>2026-07-27 20:28:00</pubDate>
-		</item>
-		<item>
-			<title>Enforcement Manual Revision 13</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26204A367</link>
-			<description>Manual, Policy and Program Guidance</description>
-			<author>NRC/CNRI/DDII/DOCP/AEB</author>
-			<pubDate>2026-07-27 17:43:00</pubDate>
 		</item>
 	</channel>
 </rss>
