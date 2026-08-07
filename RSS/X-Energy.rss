@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 07 Aug 2026 16:53:00 GMT</pubDate>
-		<lastBuildDate>Fri, 07 Aug 2026 16:53:00 GMT</lastBuildDate>
+		<pubDate>Fri, 07 Aug 2026 17:47:20 GMT</pubDate>
+		<lastBuildDate>Fri, 07 Aug 2026 17:47:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Unofficial Redline Strikeout - Proposed Rule - Implementation of the National Environmental Policy Act (RIN 3150-AL38)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26218A280</link>
+			<description>Rulemaking- Proposed Rule</description>
+			<author>NRC/NMSS/DDNMUDFR/GREAT/RPB1</author>
+			<pubDate>2026-08-07 17:27:00</pubDate>
+		</item>
+		<item>
+			<title>STS-9, "NS Savannah Technical Specifications"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML21231A061</link>
+			<description>Report, Technical</description>
+			<author>US Dept of Commerce (DOC)</author>
+			<pubDate>2026-08-07 17:26:00</pubDate>
+		</item>
+		<item>
+			<title>August 5, 2026 Texas FINAL IMPEP Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26156A230</link>
+			<description>Integrated Material Performance Evaluation Program (IMPEP)-Agreement States</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2026-08-07 17:26:00</pubDate>
+		</item>
 		<item>
 			<title>Orano TN - Response to Request for Additional Information - Application for Amendment 19 to Standardized Nuhoms Certificate of Compliance No. 1004 for Spent Fuel Storage Casks, Revision 3</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25238A033</link>
@@ -199,27 +220,6 @@
 			<description>Final Safety Analysis Report (FSAR)</description>
 			<author>Vistra Operating Co., LLC (VistraOpCo)</author>
 			<pubDate>2026-08-03 20:10:00</pubDate>
-		</item>
-		<item>
-			<title>Beaver Valley Power Station, Unit No. 1 Licensing Requirements Manual, Revision 120</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26147A294</link>
-			<description>Report, Technical</description>
-			<author>Vistra Operating Co., LLC (VistraOpCo)</author>
-			<pubDate>2026-08-03 20:10:00</pubDate>
-		</item>
-		<item>
-			<title>Beaver Valley Power Station, Unit No. 1 Technical Specification Bases, Revision 55</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26147A295</link>
-			<description>Technical Specification, Bases Change</description>
-			<author>Vistra Operating Co., LLC (VistraOpCo)</author>
-			<pubDate>2026-08-03 20:10:00</pubDate>
-		</item>
-		<item>
-			<title>Limerick Generating Station, Unit 2, License Amendment and Alternative Request Related to One-Time Exception of Primary Containment Isolation Valve Testing</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26205A107</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50, Request for Code Relief or Alternative</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2026-08-03 12:01:00</pubDate>
 		</item>
 	</channel>
 </rss>
