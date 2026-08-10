@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 10 Aug 2026 16:53:22 GMT</pubDate>
-		<lastBuildDate>Mon, 10 Aug 2026 16:53:22 GMT</lastBuildDate>
+		<pubDate>Mon, 10 Aug 2026 17:51:33 GMT</pubDate>
+		<lastBuildDate>Mon, 10 Aug 2026 17:51:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Letter to EB Requesting EB Views for XB1379 DOS Iraq</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26222A158</link>
+			<description>Letter</description>
+			<author>NRC/OIP/ECNP</author>
+			<pubDate>2026-08-10 17:23:00</pubDate>
+		</item>
 		<item>
 			<title>Letter to EB Requesting EB Views for XB1380 DOS Pakistan</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26222A097</link>
@@ -213,13 +220,6 @@
 			<description>Letter</description>
 			<author>Holtec International</author>
 			<pubDate>2026-08-05 13:28:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3 - ACO Curtiss Wright SPPP Amendment 33 - License (PUBLIC)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26162A271</link>
-			<description>Letter</description>
-			<author>NRC/NMSS/DFM/FFLB</author>
-			<pubDate>2026-08-05 12:04:00</pubDate>
 		</item>
 	</channel>
 </rss>
