@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 10 Aug 2026 15:59:22 GMT</pubDate>
-		<lastBuildDate>Mon, 10 Aug 2026 15:59:22 GMT</lastBuildDate>
+		<pubDate>Mon, 10 Aug 2026 16:53:22 GMT</pubDate>
+		<lastBuildDate>Mon, 10 Aug 2026 16:53:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Letter to EB Requesting EB Views for XB1380 DOS Pakistan</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26222A097</link>
+			<description>Letter</description>
+			<author>NRC/OIP/ECNP</author>
+			<pubDate>2026-08-10 16:34:00</pubDate>
+		</item>
+		<item>
+			<title>Letter to EB Requesting EB Views and Assurances for XCOM1384</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26222A068</link>
+			<description>Letter</description>
+			<author>NRC/OIP/ECNP</author>
+			<pubDate>2026-08-10 16:34:00</pubDate>
+		</item>
 		<item>
 			<title>Offshore Power Systems - "Plant Design Report."</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20204A720</link>
@@ -206,20 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS/DFM/FFLB</author>
 			<pubDate>2026-08-05 12:04:00</pubDate>
-		</item>
-		<item>
-			<title>LER 2026-001-00 for Millstone Power Station, Unit 2, Technical Specification Required Shutdown Due To Dropped Control Element Assembly</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26209A173</link>
-			<description>Letter, Licensee Event Report (LER)</description>
-			<author>Dominion Nuclear Connecticut, Inc</author>
-			<pubDate>2026-08-05 12:03:00</pubDate>
-		</item>
-		<item>
-			<title>LER 2026-002-00 for Millstone, Unit 2, Manual Reactor Trip Due to a Dropped Control Element Assembly</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26209A176</link>
-			<description>Letter, Licensee Event Report (LER)</description>
-			<author>Dominion Energy Nuclear Connecticut, Inc</author>
-			<pubDate>2026-08-05 12:03:00</pubDate>
 		</item>
 	</channel>
 </rss>
