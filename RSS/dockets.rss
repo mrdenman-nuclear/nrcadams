@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 10 Aug 2026 18:54:54 GMT</pubDate>
-		<lastBuildDate>Mon, 10 Aug 2026 18:54:54 GMT</lastBuildDate>
+		<pubDate>Mon, 10 Aug 2026 19:56:44 GMT</pubDate>
+		<lastBuildDate>Mon, 10 Aug 2026 19:56:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Summary of the May 7, 2026, Partially Closed Meeting with Oklo Inc. to Discuss Development of an Inservice Inspection Program for the Aurora Powerhouse (EPID L-2025-LRM-0152) - Cover Letter and Enclosure 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26180A379</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>Wagner Electric Corporation</author>
+			<pubDate>2026-08-10 19:37:00</pubDate>
+		</item>
 		<item>
 			<title>NRC Form 896 for -A Version Verification of NuScale Topical Report TR-182845, Revision 1, "Emergency Event Classification Scheme for a NuScale Power Plant"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26215A009</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2026-07-27 20:08:00</pubDate>
-		</item>
-		<item>
-			<title>05/19/2026 Summary of Partially Closed Meeting with Oklo to Discuss a Proposed Topical Report on the Quality Assurance Program (EPID L-2025-LRM-0152) - Cover Letter and Enclosure 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26181A395</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
-			<pubDate>2026-07-27 12:33:00</pubDate>
 		</item>
 	</channel>
 </rss>
