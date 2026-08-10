@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 07 Aug 2026 23:33:07 GMT</pubDate>
-		<lastBuildDate>Fri, 07 Aug 2026 23:33:07 GMT</lastBuildDate>
+		<pubDate>Mon, 10 Aug 2026 14:59:42 GMT</pubDate>
+		<lastBuildDate>Mon, 10 Aug 2026 14:59:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,13 +59,6 @@
 			<description>ACRS Summary Report, Letter</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2026-07-16 12:44:00</pubDate>
-		</item>
-		<item>
-			<title>Slides - W1-6 Modernizing Reactor Licensing Safety Oversight and Siting Practices - ACRS FC - July 8, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26187A176</link>
-			<description>Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-07-08 15:16:00</pubDate>
 		</item>
 	</channel>
 </rss>
