@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 10 Aug 2026 23:33:59 GMT</pubDate>
-		<lastBuildDate>Mon, 10 Aug 2026 23:33:59 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Aug 2026 15:03:23 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Aug 2026 15:03:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,20 +38,6 @@
 			<description>Research Information Letter (RIL)</description>
 			<author>NRC/RES/DERA, NRC/RES/DERA/ISEB</author>
 			<pubDate>2026-07-31 14:12:00</pubDate>
-		</item>
-		<item>
-			<title>SRM-M260721: Advanced Reactor Landscape: Current Status and Moving Forward</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26208A035</link>
-			<description>Commission Staff Requirements Memo (SRM)</description>
-			<author>NRC/SECY</author>
-			<pubDate>2026-07-27 14:03:00</pubDate>
-		</item>
-		<item>
-			<title>M260721: Transcript - Advanced Reactor Landscape: Current Status and Moving Forward</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26205A198</link>
-			<description>Commission Meeting Transcript</description>
-			<author>NRC/OCM</author>
-			<pubDate>2026-07-27 13:03:00</pubDate>
 		</item>
 	</channel>
 </rss>

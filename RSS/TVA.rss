@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 10 Aug 2026 23:33:59 GMT</pubDate>
-		<lastBuildDate>Mon, 10 Aug 2026 23:33:59 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Aug 2026 15:03:23 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Aug 2026 15:03:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Davis-Besse, Unit 1 - Application to Adopt 10 CFR 50.59, "Risk-Informed Categorization and Treatment of Structures, Systems, and Components for Nuclear Power Reactors"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26215A326</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>Vistra Operations Company, LLC</author>
+			<pubDate>2026-08-11 12:06:00</pubDate>
+		</item>
 		<item>
 			<title>Sequoyah Nuclear Plant, Pre-Submittal Meeting for Proposed License Amendment Request to Adopt TSTF-601-A, Revision 1, "Extend Shield Building Completion Time After Refueling" (Presentation Slides)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26222A279</link>
@@ -213,13 +220,6 @@
 			<description>Letter, Response to Request for Additional Information (RAI)</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2026-07-29 12:11:00</pubDate>
-		</item>
-		<item>
-			<title>Acceptance Review Results for Browns Ferry Nuclear Plant, Units 1, 2, and 3 LAR to Revise TS 3.3.8.2 Re Reactor Protection System Monitoring (EPID L-2026-LLA-0116)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26204A029</link>
-			<description>Acceptance Review Letter, E-Mail, Letter</description>
-			<author>NRC/NRR/DDLP/DLP1/ORLB4</author>
-			<pubDate>2026-07-28 12:14:00</pubDate>
 		</item>
 	</channel>
 </rss>

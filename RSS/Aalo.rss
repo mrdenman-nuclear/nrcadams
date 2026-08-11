@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 10 Aug 2026 23:33:59 GMT</pubDate>
-		<lastBuildDate>Mon, 10 Aug 2026 23:33:59 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Aug 2026 15:03:23 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Aug 2026 15:03:23 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Commission SECY Paper</description>
 			<author>NRC/EDO/AO</author>
 			<pubDate>2026-07-31 16:09:00</pubDate>
-		</item>
-		<item>
-			<title>Comments on Draft Interim Staff Guidance - NRC Application Pathway for Reactor Designs Previously Authorized by U.S. Department of Energy and Department of War</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26208A269</link>
-			<description>Rulemaking-Comment</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2026-07-27 20:28:00</pubDate>
-		</item>
-		<item>
-			<title>M260721: Transcript - Advanced Reactor Landscape: Current Status and Moving Forward</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26205A198</link>
-			<description>Commission Meeting Transcript</description>
-			<author>NRC/OCM</author>
-			<pubDate>2026-07-27 13:03:00</pubDate>
 		</item>
 	</channel>
 </rss>
