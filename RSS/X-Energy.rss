@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Aug 2026 15:03:23 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Aug 2026 15:03:23 GMT</lastBuildDate>
+		<pubDate>Tue, 11 Aug 2026 16:00:30 GMT</pubDate>
+		<lastBuildDate>Tue, 11 Aug 2026 16:00:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Observational Site Visit at American Nuclear Corporation's Gas Hills Facility Final</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26223A044</link>
+			<description>Memoranda, Trip Report</description>
+			<author>NRC/CNRI/ORAR1/R1DRP/RPBB</author>
+			<pubDate>2026-08-11 15:15:00</pubDate>
+		</item>
 		<item>
 			<title>2016 Internal Commission Procedures-with 10-08-19 Rev. Ch. V - Pg. 2.1.d</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML19296A025</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26204A205</link>
 			<description>Letter, License-Application for Import License</description>
 			<author>EnergySolutions, LLC</author>
-			<pubDate>2026-08-06 12:23:00</pubDate>
-		</item>
-		<item>
-			<title>Connecticut Orientation Meeting Summary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26211A369</link>
-			<description>Letter, Meeting Summary</description>
-			<author>NRC/NMSS/DDNMUDFR/DMSSS/SLPB</author>
 			<pubDate>2026-08-06 12:23:00</pubDate>
 		</item>
 	</channel>
