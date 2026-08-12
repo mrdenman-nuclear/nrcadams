@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Aug 2026 23:44:39 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Aug 2026 23:44:39 GMT</lastBuildDate>
+		<pubDate>Wed, 12 Aug 2026 14:56:47 GMT</pubDate>
+		<lastBuildDate>Wed, 12 Aug 2026 14:56:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Exhibit 3 - BLM Final EA</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26223A537</link>
+			<description>Legal-Pre-Filed Exhibits</description>
+			<author>Black Hills Clean Energy Alliance, Energy and Conservation Law, NDN Collective, Oglala Sioux Tribe, Western Mining Action Project</author>
+			<pubDate>2026-08-12 14:12:00</pubDate>
+		</item>
 		<item>
 			<title>Clinch River CP_Mandatory Hearing Slides</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26223A486</link>
@@ -101,34 +108,6 @@
 			<description>Regulatory Guide, Draft</description>
 			<author>NRC/OAR/DDLP/DARP/ARIB</author>
 			<pubDate>2026-07-30 10:17:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 5: Belews Creek, NC Site Ecological Resources Technical Report, March 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26201A312</link>
-			<description>Environmental Report</description>
-			<author>WSP USA</author>
-			<pubDate>2026-07-28 12:14:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 5: Belews Creek, NC Site Ecological Resources Technical Report, March 2025</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26201A312</link>
-			<description>Environmental Report</description>
-			<author>WSP USA</author>
-			<pubDate>2026-07-28 12:14:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Belews Creek Expansion Site Acoustic Survey Results, January 17, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26201A308</link>
-			<description>Letter</description>
-			<author>WSP USA Environment and Infrastructure, Inc</author>
-			<pubDate>2026-07-28 12:14:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Belews Creek Expansion Site Acoustic Survey Results, January 17, 2024</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26201A308</link>
-			<description>Letter</description>
-			<author>WSP USA Environment and Infrastructure, Inc</author>
-			<pubDate>2026-07-28 12:14:00</pubDate>
 		</item>
 	</channel>
 </rss>

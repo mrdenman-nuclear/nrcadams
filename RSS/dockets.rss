@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Aug 2026 23:44:35 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Aug 2026 23:44:35 GMT</lastBuildDate>
+		<pubDate>Wed, 12 Aug 2026 14:56:43 GMT</pubDate>
+		<lastBuildDate>Wed, 12 Aug 2026 14:56:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Audit Plan for X-energy Topical Report Xe-100 TRISO Pebble Fuel Qualification Methodology Revision 4</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26211A411</link>
+			<description>Audit Plan</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB3</author>
+			<pubDate>2026-08-12 12:11:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Staff's Answer in Opposition to Waterkeeper's Petition for Review</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26223A499</link>
+			<description>Legal-Pleading</description>
+			<author>NRC/OGC</author>
+			<pubDate>2026-08-12 12:11:00</pubDate>
+		</item>
 		<item>
 			<title>Clinch River CP_Mandatory Hearing Slides</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26223A486</link>
@@ -206,20 +220,6 @@
 			<description>Letter</description>
 			<author>TerraPower, LLC</author>
 			<pubDate>2026-07-30 12:11:00</pubDate>
-		</item>
-		<item>
-			<title>Email - NRC Form 897 - Request for Withholding from Public Disclosure - Oklo Inc. Topical Report, AUR-PDD-001, "Nuclear Quality Assurance Program (N-QAP) for Aurora Powerhouses," Rev. 0 (L-2026-TOP-0024)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26197A290</link>
-			<description>E-Mail</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
-			<pubDate>2026-07-29 12:12:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Form 897 - Request for Withholding from Public Disclosure - Oklo Inc. Topical Report, AUR-PDD-001, "Nuclear Quality Assurance Program (N-QAP) for Aurora Powerhouses," Rev. 0 (L-2026-TOP-0024)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26197A291</link>
-			<description>Proprietary Information Review</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
-			<pubDate>2026-07-29 12:11:00</pubDate>
 		</item>
 	</channel>
 </rss>

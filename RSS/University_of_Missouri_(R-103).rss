@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Aug 2026 23:44:36 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Aug 2026 23:44:36 GMT</lastBuildDate>
+		<pubDate>Wed, 12 Aug 2026 14:56:44 GMT</pubDate>
+		<lastBuildDate>Wed, 12 Aug 2026 14:56:44 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,20 +17,6 @@
 			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
 			<author>Univ of Missouri</author>
 			<pubDate>2026-08-03 12:01:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Results Letter No. 50-186/OL-26-02, The Curators of the University of Missouri</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26049A122</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/NRR/DDLP/DLP2/NPUFB</author>
-			<pubDate>2026-07-28 12:14:00</pubDate>
-		</item>
-		<item>
-			<title>Examination Report Letter No. 50-186/OL-26-02, The Curators of the University of Missouri</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26049A121</link>
-			<description>License-Operator Examination Report (Non-Power Reactors Only), License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/NRR/DDLP/DLP2/NPUFB</author>
-			<pubDate>2026-07-28 12:14:00</pubDate>
 		</item>
 	</channel>
 </rss>

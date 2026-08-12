@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 11 Aug 2026 23:44:41 GMT</pubDate>
-		<lastBuildDate>Tue, 11 Aug 2026 23:44:41 GMT</lastBuildDate>
+		<pubDate>Wed, 12 Aug 2026 14:56:49 GMT</pubDate>
+		<lastBuildDate>Wed, 12 Aug 2026 14:56:49 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>TLR-RES-DE-REB-2026-09</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26120A199</link>
+			<description>Report, Technical</description>
+			<author>Idaho National Lab, NRC/RES/DE, Oak Ridge National Lab (ORNL)</author>
+			<pubDate>2026-08-12 12:03:00</pubDate>
+		</item>
 		<item>
 			<title>Diablo Canyon Units 1 and 2 - Supplement to License Amendment Request 25-06, Request to Adopt Emergency Action Level Scheme Pursuant to NEI 99-01, Revision 7, "Development of Emergency Action Levels for Non-Passive Reactors"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26222A351</link>
@@ -213,13 +220,6 @@
 			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation, Technical Specifications</description>
 			<author>NRC/NRR/DORL/LLPB</author>
 			<pubDate>2026-07-30 12:11:00</pubDate>
-		</item>
-		<item>
-			<title>Vogtle, Units 3 and 4 - Response to Request for Additional Information: License Amendment Request to Revise Technical Specifications to Include a Surveillance Frequency Control Program</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26202A388</link>
-			<description>Letter, Response to Request for Additional Information (RAI)</description>
-			<author>Southern Nuclear Operating Co, Inc</author>
-			<pubDate>2026-07-29 12:12:00</pubDate>
 		</item>
 	</channel>
 </rss>
