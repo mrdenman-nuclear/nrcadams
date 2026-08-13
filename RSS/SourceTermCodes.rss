@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 12 Aug 2026 23:39:29 GMT</pubDate>
-		<lastBuildDate>Wed, 12 Aug 2026 23:39:29 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Aug 2026 14:57:42 GMT</pubDate>
+		<lastBuildDate>Thu, 13 Aug 2026 14:57:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,20 +24,6 @@
 			<description>Letter</description>
 			<author>Nuclear Energy Institute (NEI)</author>
 			<pubDate>2026-08-07 12:00:00</pubDate>
-		</item>
-		<item>
-			<title>NRC-RES: Sitewide, All Hazards Level 3 PRA Project: Integrated Site Risk for Two-Unit Site (paper)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26215A446</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs, Technical Paper</description>
-			<author>NRC/RES, NRC/RES/DERA, NRC/RES/DERA/ISEB</author>
-			<pubDate>2026-08-05 15:17:00</pubDate>
-		</item>
-		<item>
-			<title>NRC-RES: Sitewide, All Hazards Level 3 PRA Project: Integrated Site Risk for Two-Unit Site (paper)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26215A446</link>
-			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs, Technical Paper</description>
-			<author>NRC/RES, NRC/RES/DERA, NRC/RES/DERA/ISEB</author>
-			<pubDate>2026-08-05 15:17:00</pubDate>
 		</item>
 	</channel>
 </rss>
