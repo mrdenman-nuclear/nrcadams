@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 14 Aug 2026 14:57:40 GMT</pubDate>
-		<lastBuildDate>Fri, 14 Aug 2026 14:57:40 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Aug 2026 15:49:42 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Aug 2026 15:49:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Revision 1 to Trial Regulatory Guide 1.247, Trial Acceptability of Probabilistic Risk Assessment</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26132A266</link>
+			<description>Regulatory Guide</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
+			<pubDate>2026-08-14 15:01:00</pubDate>
+		</item>
 		<item>
 			<title>Vogtle - Security Baseline Inspection Report, 05000424/2026401, 05000425/2026401, 05200025/2026401, And 05200026/2026401</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26225A288</link>
@@ -213,13 +220,6 @@
 			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50, Response to Request for Additional Information (RAI), Technical Specification, Amendment, Technical Specification, Bases Change</description>
 			<author>Southern Nuclear Operating Co, Inc</author>
 			<pubDate>2026-08-04 11:56:00</pubDate>
-		</item>
-		<item>
-			<title>Beaver Valley Power Station, Unit No. 1 Updated Final Safety Analysis Report, Revision 36 (Public Version)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26147A293</link>
-			<description>Final Safety Analysis Report (FSAR)</description>
-			<author>Vistra Operating Co., LLC (VistraOpCo)</author>
-			<pubDate>2026-08-03 20:10:00</pubDate>
 		</item>
 	</channel>
 </rss>
