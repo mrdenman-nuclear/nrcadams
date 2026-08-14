@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 13 Aug 2026 23:41:54 GMT</pubDate>
-		<lastBuildDate>Thu, 13 Aug 2026 23:41:54 GMT</lastBuildDate>
+		<pubDate>Fri, 14 Aug 2026 14:57:36 GMT</pubDate>
+		<lastBuildDate>Fri, 14 Aug 2026 14:57:36 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Letter</description>
 			<author>State of NC, Dept. of Natural and Cultural Resources</author>
 			<pubDate>2026-07-31 16:08:00</pubDate>
-		</item>
-		<item>
-			<title>Meeting Summary of Public Meeting Regarding ASME Code Case N-940. Alternate Rules for Non-Destructive Examination and Testing of ASME Section III Nuclear Items (May 7, 2026)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26175A381</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/OAR/DDES/DARE/AREB5</author>
-			<pubDate>2026-07-30 12:11:00</pubDate>
 		</item>
 	</channel>
 </rss>
