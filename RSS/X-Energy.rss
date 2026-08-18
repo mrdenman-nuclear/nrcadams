@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 18 Aug 2026 14:31:54 GMT</pubDate>
-		<lastBuildDate>Tue, 18 Aug 2026 14:31:54 GMT</lastBuildDate>
+		<pubDate>Tue, 18 Aug 2026 15:35:58 GMT</pubDate>
+		<lastBuildDate>Tue, 18 Aug 2026 15:35:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 3: JAEA White Paper - Validation and Verification of Seismic Analysis Methodology for FSIS-R Plant</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26226A013</link>
+			<description>Report, Technical</description>
+			<author>IHI Corp, JGC Corp, Japan Atomic Energy Agency (JAEA)</author>
+			<pubDate>2026-08-18 15:32:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1: JAEA White Paper - Seismic Design Methodology for Floating Seismic Isolation System (FSIS)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26226A223</link>
+			<description>Report, Technical</description>
+			<author>IHI Corp, JGC Corp, Japan Atomic Energy Agency (JAEA)</author>
+			<pubDate>2026-08-18 15:32:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: JAEA White Paper - FSIS-R Plant Preliminary Standard Design Information</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26226A012</link>
+			<description>Report, Technical</description>
+			<author>IHI Corp, JGC Corp, Japan Atomic Energy Agency (JAEA)</author>
+			<pubDate>2026-08-18 15:32:00</pubDate>
+		</item>
 		<item>
 			<title>E-mail Transmitting Audit Plan for Topical Report "Xe-100 TRISO Pebble Fuel Qualification Methodology," Revision 4</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26226A417</link>
@@ -199,27 +220,6 @@
 			<description>Rulemaking-Comment</description>
 			<author>- No Known Affiliation, Abu Dhabi Future Energy Co (ADFEC)</author>
 			<pubDate>2026-08-12 19:14:00</pubDate>
-		</item>
-		<item>
-			<title>Letter to the EB Requesting EB Views for XW025-01.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26224A268</link>
-			<description>Letter</description>
-			<author>NRC/OIP/ECNP</author>
-			<pubDate>2026-08-12 17:08:00</pubDate>
-		</item>
-		<item>
-			<title>Letter to the EB Requesting EB Views for XMAT457 DOS</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26224A194</link>
-			<description>Letter</description>
-			<author>NRC/OIP/ECNP</author>
-			<pubDate>2026-08-12 15:58:00</pubDate>
-		</item>
-		<item>
-			<title>Organizational Intervenors' Reply to the Responses of the NRC Staff and Powertech (USA) Inc. to the New and Amended Contentions</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26223A536</link>
-			<description>Legal-Pleading</description>
-			<author>Black Hills Clean Water Alliance, Energy and Conservation Law, NDN Collective, Oglala Sioux Tribe, Western Mining Action Project</author>
-			<pubDate>2026-08-12 15:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
