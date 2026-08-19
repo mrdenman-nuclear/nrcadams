@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 18 Aug 2026 23:20:26 GMT</pubDate>
-		<lastBuildDate>Tue, 18 Aug 2026 23:20:26 GMT</lastBuildDate>
+		<pubDate>Wed, 19 Aug 2026 17:25:45 GMT</pubDate>
+		<lastBuildDate>Wed, 19 Aug 2026 17:25:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,20 +45,6 @@
 			<description>Legal-Order</description>
 			<author>NRC/SECY</author>
 			<pubDate>2026-08-07 18:56:00</pubDate>
-		</item>
-		<item>
-			<title>Redacted San Antonio Bay Estuarine Waterkeeper's Petition for Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26215A495</link>
-			<description>Legal-Pleading</description>
-			<author>Perales, Allmon and Ice, P.C., San Antonio Bay Estuarine Waterkeeper</author>
-			<pubDate>2026-08-04 18:42:00</pubDate>
-		</item>
-		<item>
-			<title>Notice of Appearance for Amanda K. Leatherman</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26215A403</link>
-			<description>Legal-Pleading</description>
-			<author>NRC/OGC</author>
-			<pubDate>2026-08-04 16:17:00</pubDate>
 		</item>
 	</channel>
 </rss>

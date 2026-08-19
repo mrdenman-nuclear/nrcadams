@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 18 Aug 2026 23:20:30 GMT</pubDate>
-		<lastBuildDate>Tue, 18 Aug 2026 23:20:30 GMT</lastBuildDate>
+		<pubDate>Wed, 19 Aug 2026 17:25:50 GMT</pubDate>
+		<lastBuildDate>Wed, 19 Aug 2026 17:25:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -80,20 +80,6 @@
 			<description>Audit Plan</description>
 			<author>NRC/NRR/DDLP/DLP2/LREB</author>
 			<pubDate>2026-08-07 12:00:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - NRC Request for Additional Information/Confirmatory Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26210A005</link>
-			<description>Request for Additional Information (RAI)</description>
-			<author>NRC/OAR/DDLP/DARP/ARERB</author>
-			<pubDate>2026-08-04 14:19:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - NRC Request for Additional Information/Confirmatory Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26210A005</link>
-			<description>Request for Additional Information (RAI)</description>
-			<author>NRC/OAR/DDLP/DARP/ARERB</author>
-			<pubDate>2026-08-04 14:19:00</pubDate>
 		</item>
 	</channel>
 </rss>
