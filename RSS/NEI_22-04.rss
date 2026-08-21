@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 20 Aug 2026 23:25:54 GMT</pubDate>
-		<lastBuildDate>Thu, 20 Aug 2026 23:25:54 GMT</lastBuildDate>
+		<pubDate>Fri, 21 Aug 2026 14:36:47 GMT</pubDate>
+		<lastBuildDate>Fri, 21 Aug 2026 14:36:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Wolf Creek Generating Station, Unit 1 - Issuance of Amendment No. 248 Re: Adoption of 10 CFR 50.69, "Risk-Informed Categorization And Treatment of Structures, Systems and Components For Nuclear Power Reactors" (EPID L 2025 LLA 0017)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26196A262</link>
+			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation</description>
+			<author>NRC/NRR/DORL/LPLIV</author>
+			<pubDate>2026-08-21 12:07:00</pubDate>
+		</item>
 		<item>
 			<title>Point Beach Nuclear Plant - Integrated Inspection Report 05000266/2026002 And 05000301/2026002</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26224A217</link>
@@ -213,13 +220,6 @@
 			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation</description>
 			<author>NRC/NRR/DDLP/DLP1/ORLB4</author>
 			<pubDate>2026-08-05 12:04:00</pubDate>
-		</item>
-		<item>
-			<title>Diablo Canyon Independent Spent Fuel Storage Installation - Emergency Plan Update</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26211A264</link>
-			<description>Emergency Preparedness-Emergency Plan, Letter</description>
-			<author>Pacific Gas and Electric Co</author>
-			<pubDate>2026-08-04 16:17:00</pubDate>
 		</item>
 	</channel>
 </rss>

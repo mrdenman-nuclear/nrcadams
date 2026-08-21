@@ -5,32 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 20 Aug 2026 23:25:47 GMT</pubDate>
-		<lastBuildDate>Thu, 20 Aug 2026 23:25:47 GMT</lastBuildDate>
+		<pubDate>Fri, 21 Aug 2026 14:36:40 GMT</pubDate>
+		<lastBuildDate>Fri, 21 Aug 2026 14:36:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Letter Response to Request for Additional Information for NEDC-34416P, Revision 0, Ultra Plus Control Rod Assembly</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26210A385</link>
-			<description>Letter</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2026-08-06 12:23:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26210A388</link>
-			<description>Legal-Affidavit</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2026-08-06 12:23:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Response to Requests for Additional Information - Non-Proprietary Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26210A387</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2026-08-06 12:23:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

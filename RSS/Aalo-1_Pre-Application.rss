@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 20 Aug 2026 23:25:47 GMT</pubDate>
-		<lastBuildDate>Thu, 20 Aug 2026 23:25:47 GMT</lastBuildDate>
+		<pubDate>Fri, 21 Aug 2026 14:36:40 GMT</pubDate>
+		<lastBuildDate>Fri, 21 Aug 2026 14:36:40 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,27 +24,6 @@
 			<description>Meeting Summary</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
 			<pubDate>2026-08-07 12:00:00</pubDate>
-		</item>
-		<item>
-			<title>Pre-submittal Meeting with Aalo Atomics to discuss PPE Topical Report 08/18/2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26218A199</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-08-06 20:16:00</pubDate>
-		</item>
-		<item>
-			<title>AALO Submittal of "ESP Methodology White Paper," WP-AALO-2026-002, Revision A</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26210A323</link>
-			<description>Legal-Affidavit, Letter, Technical Paper</description>
-			<author>Aalo Holdings, Inc</author>
-			<pubDate>2026-08-06 12:25:00</pubDate>
-		</item>
-		<item>
-			<title>Pre-submittal Meeting with Aalo Atomics to discuss PPE Topical Report 08/18/2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26217A260</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-08-06 12:22:00</pubDate>
 		</item>
 	</channel>
 </rss>
