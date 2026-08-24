@@ -5,18 +5,46 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 21 Aug 2026 23:22:05 GMT</pubDate>
-		<lastBuildDate>Fri, 21 Aug 2026 23:22:05 GMT</lastBuildDate>
+		<pubDate>Mon, 24 Aug 2026 14:45:04 GMT</pubDate>
+		<lastBuildDate>Mon, 24 Aug 2026 14:45:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>Federal Register Notice: Long Mott Generating Station; Notice of Hearing</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26223A267</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
-			<pubDate>2026-08-20 14:23:00</pubDate>
+			<title>Reply to NRC Staff's Answer to San Antonio Bay Estuarine Waterkeeper's Petition for Review</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26233A183</link>
+			<description>Legal-Pleading</description>
+			<author>Perales, Allmon and Ice, P.C., San Antonio Bay Estuarine Waterkeeper</author>
+			<pubDate>2026-08-24 13:20:00</pubDate>
+		</item>
+		<item>
+			<title>Submittal of Aalo Holdings, Inc., Public Presentation on the Plant Parameter Envelope Framework</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26228A000</link>
+			<description>Letter, Slides and Viewgraphs</description>
+			<author>Aalo Holdings, Inc</author>
+			<pubDate>2026-08-24 12:11:00</pubDate>
+		</item>
+		<item>
+			<title>Holtec International - Enclosure 1: HI-2251395, Rev. 2, SMR-300 Instrumentation and Control Architecture Licensing Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26227A004</link>
+			<description>Topical Report</description>
+			<author>Holtec International, SMR, LLC</author>
+			<pubDate>2026-08-24 12:11:00</pubDate>
+		</item>
+		<item>
+			<title>Holtec International - Enclosure 3: Affidavit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26227A005</link>
+			<description>Legal-Affidavit</description>
+			<author>Holtec International</author>
+			<pubDate>2026-08-24 12:11:00</pubDate>
+		</item>
+		<item>
+			<title>Holtec International - Submittal of SMR300 Instrumentation and Control Architecture Licensing Topical Report, Revision 2 (Project No. 99902049)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26227A002</link>
+			<description>Letter</description>
+			<author>Holtec International</author>
+			<pubDate>2026-08-24 12:11:00</pubDate>
 		</item>
 		<item>
 			<title>Submittal of Aalo Holdings, Inc. Presentation, Aalo XMR Thermal Spectrum Material Challenges Proprietary Presentation</title>
@@ -192,34 +220,6 @@
 			<description>Letter</description>
 			<author>NRC/OAR/DDLP/DARP/ARERB</author>
 			<pubDate>2026-08-18 15:32:00</pubDate>
-		</item>
-		<item>
-			<title>U of I Kronos Section 106 Letter to Catherine J. Chavers - Bois Forte Band (Nett Lake) of the Minnesota Chippewa Tribe</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26225A144</link>
-			<description>Letter</description>
-			<author>NRC/OAR/DDLP/DARP/ARERB</author>
-			<pubDate>2026-08-18 15:32:00</pubDate>
-		</item>
-		<item>
-			<title>U of I Kronos Section 106 Letter to Estavio Elizondo, Sr. Menikapah - Kickapoo Traditional Tribe of Texas</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26225A156</link>
-			<description>Letter</description>
-			<author>NRC/OAR/DDLP/DARP/ARERB</author>
-			<pubDate>2026-08-18 15:32:00</pubDate>
-		</item>
-		<item>
-			<title>U of I Kronos Section 106 Letter to Harlan Baker - Chippewa Cree Indians of the Rocky Boys Reservation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26225A159</link>
-			<description>Letter</description>
-			<author>NRC/OAR/DDLP/DARP/ARERB</author>
-			<pubDate>2026-08-18 15:32:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure - University of Illinois, Urbana-Champaign - Topographic Map / Area of Potential Effect Map</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26223A143</link>
-			<description>Map</description>
-			<author>Univ of Illinois - Urbana - Champaign</author>
-			<pubDate>2026-08-18 14:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
