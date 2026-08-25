@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 24 Aug 2026 22:23:45 GMT</pubDate>
-		<lastBuildDate>Mon, 24 Aug 2026 22:23:45 GMT</lastBuildDate>
+		<pubDate>Tue, 25 Aug 2026 14:45:20 GMT</pubDate>
+		<lastBuildDate>Tue, 25 Aug 2026 14:45:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Crownpoint Uranium Project - Consolidated Operations Plan</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26233A171</link>
+			<description>Operating Plan</description>
+			<author>NuFuels, Inc</author>
+			<pubDate>2026-08-25 12:14:00</pubDate>
+		</item>
+		<item>
+			<title>Crownpoint Uranium Project - Environmental Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26233A169</link>
+			<description>Environmental Report</description>
+			<author>NuFuels, Inc</author>
+			<pubDate>2026-08-25 12:13:00</pubDate>
+		</item>
 		<item>
 			<title>Browns Ferry Nuclear Plant - Cyber Security Inspection Report 05000259/2026403 And 05000260/2026403 And 05000296/2026403</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26229A014</link>
@@ -157,20 +171,6 @@
 			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
 			<author>Vistra Operations Company, LLC</author>
 			<pubDate>2026-08-11 12:06:00</pubDate>
-		</item>
-		<item>
-			<title>Sequoyah Nuclear Plant, Pre-Submittal Meeting for Proposed License Amendment Request to Adopt TSTF-601-A, Revision 1, "Extend Shield Building Completion Time After Refueling" (Presentation Slides)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26222A279</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-08-10 20:13:00</pubDate>
-		</item>
-		<item>
-			<title>Sequoyah Nuclear Plant, Pre-Submittal Meeting for Proposed License Amendment Request to Adopt TSTF-601-A, Revision 1, "Extend Shield Building Completion Time After Refueling" (Presentation Slides)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26222A279</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-08-10 20:13:00</pubDate>
 		</item>
 	</channel>
 </rss>
