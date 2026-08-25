@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 25 Aug 2026 18:36:46 GMT</pubDate>
-		<lastBuildDate>Tue, 25 Aug 2026 18:36:46 GMT</lastBuildDate>
+		<pubDate>Tue, 25 Aug 2026 19:31:17 GMT</pubDate>
+		<lastBuildDate>Tue, 25 Aug 2026 19:31:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Targeted Alpha Therapies Radioisotope Licensing and Oversight Memorandum</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26237A162</link>
+			<description>Memoranda</description>
+			<author>NRC/NMSS/DDNMUDFR/DMSSS/MSEB</author>
+			<pubDate>2026-08-25 19:14:00</pubDate>
+		</item>
 		<item>
 			<title>San Antonio Bay Estuarine Waterkeeper's Reply to Long Mott Energy, LLC's Answer to San Antonio Bay Estuarine Waterkeeper's Petition for Review</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26236A352</link>
@@ -213,13 +220,6 @@
 			<description>License-Application for (Amend/Renewal/New) for DKT 30, 40, 70</description>
 			<author>Abundantia Isotopes, LLC</author>
 			<pubDate>2026-08-20 13:33:00</pubDate>
-		</item>
-		<item>
-			<title>Quad Nuclear Power Station - Integrated Integrated Inspection Report 05000254/2026002 and 05000265/2026002</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26225A422</link>
-			<description>Inspection Report, Letter</description>
-			<author>NRC/CNRI/ORAR3/R3DRP/RPBA</author>
-			<pubDate>2026-08-20 12:14:00</pubDate>
 		</item>
 	</channel>
 </rss>
