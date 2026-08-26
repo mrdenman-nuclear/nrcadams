@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 25 Aug 2026 23:25:38 GMT</pubDate>
-		<lastBuildDate>Tue, 25 Aug 2026 23:25:38 GMT</lastBuildDate>
+		<pubDate>Wed, 26 Aug 2026 14:45:32 GMT</pubDate>
+		<lastBuildDate>Wed, 26 Aug 2026 14:45:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Regulatory Engagement Meeting August 27 2026 - Probabilistic Safety Assessment Closed Session Redacted</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26231A294</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>ARC Clean Technology</author>
+			<pubDate>2026-08-26 12:17:00</pubDate>
+		</item>
+		<item>
+			<title>N.S. Savannah Safety Assessment Volume V Part 1 - Test and Sea Trial Reports</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26236A234</link>
+			<description>Safety Evaluation</description>
+			<author>New York Shipbuilding Corp</author>
+			<pubDate>2026-08-26 12:17:00</pubDate>
+		</item>
+		<item>
+			<title>Deterministic Safety Analyses (DSA) Presentation_Aug 27 2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26230A324</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>ARC Clean Technology</author>
+			<pubDate>2026-08-26 12:16:00</pubDate>
+		</item>
 		<item>
 			<title>Endorsement request transmittal email for NEI 25-11, Revision 0, "Advanced Reactor Risk Metrics"</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26236A292</link>
@@ -199,27 +220,6 @@
 			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation</description>
 			<author>NRC/NRR/DDLP/DLP1/ORLB3</author>
 			<pubDate>2026-08-07 12:00:00</pubDate>
-		</item>
-		<item>
-			<title>Prairie Island Nuclear Generating Plant, Units 1 and 2 - Issuance of Amendment Nos. 251 and 239 Re: Adopt TSTF-366, "Elimination of Requirements for a Post-Accident Sampling System" (EPID L-2026-LLA-0060)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26167A165</link>
-			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation</description>
-			<author>NRC/NRR/DDLP/DLP1/ORLB3</author>
-			<pubDate>2026-08-07 12:00:00</pubDate>
-		</item>
-		<item>
-			<title>Millstone Power Station Unit 3, Updated Final Safety Analysis Report, Revision 39, Technical Requirements Manual (Redacted)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26188A252</link>
-			<description>Manual, Report, Technical, Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Dominion Energy Nuclear Connecticut, Inc</author>
-			<pubDate>2026-08-06 17:31:00</pubDate>
-		</item>
-		<item>
-			<title>Diablo Canyon, Units 1 and 2 - Issuance of Amendment Nos. 260 and 262 Re: Revision to Technical Specifications to Adopt TSTF-596, "Expand the Applicability of the Surveillance Frequency Control Program (SFCP)" (EPID: L-2025-LLA-0200)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26183A083</link>
-			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation</description>
-			<author>NRC/NRR/DDLP/DLP1/ORLB4</author>
-			<pubDate>2026-08-05 12:04:00</pubDate>
 		</item>
 	</channel>
 </rss>

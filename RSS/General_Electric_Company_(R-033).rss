@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 25 Aug 2026 23:25:31 GMT</pubDate>
-		<lastBuildDate>Tue, 25 Aug 2026 23:25:31 GMT</lastBuildDate>
+		<pubDate>Wed, 26 Aug 2026 14:45:24 GMT</pubDate>
+		<lastBuildDate>Wed, 26 Aug 2026 14:45:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS/DDCNMI/DFCMO/DCOB</author>
 			<pubDate>2026-08-20 12:13:00</pubDate>
-		</item>
-		<item>
-			<title>Vermont Yankee Nuclear Power Station - Annual Financial Report and Certified Financial Statement</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26222A263</link>
-			<description>Legal-Affidavit, Letter</description>
-			<author>NorthStar Vermont Yankee, LLC</author>
-			<pubDate>2026-08-11 17:43:00</pubDate>
 		</item>
 	</channel>
 </rss>
