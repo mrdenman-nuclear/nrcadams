@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 26 Aug 2026 21:40:26 GMT</pubDate>
-		<lastBuildDate>Wed, 26 Aug 2026 21:40:26 GMT</lastBuildDate>
+		<pubDate>Thu, 27 Aug 2026 02:54:38 GMT</pubDate>
+		<lastBuildDate>Thu, 27 Aug 2026 02:54:38 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -101,13 +101,6 @@
 			<description>Response to Request for Additional Information (RAI)</description>
 			<author>Constellation Energy Generation, LLC</author>
 			<pubDate>2026-08-14 12:18:00</pubDate>
-		</item>
-		<item>
-			<title>Exhibit 3 - BLM Final EA</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26223A537</link>
-			<description>Legal-Pre-Filed Exhibits</description>
-			<author>Black Hills Clean Energy Alliance, Energy and Conservation Law, NDN Collective, Oglala Sioux Tribe, Western Mining Action Project</author>
-			<pubDate>2026-08-12 14:12:00</pubDate>
 		</item>
 	</channel>
 </rss>
