@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 27 Aug 2026 23:35:10 GMT</pubDate>
-		<lastBuildDate>Thu, 27 Aug 2026 23:35:10 GMT</lastBuildDate>
+		<pubDate>Fri, 28 Aug 2026 23:27:30 GMT</pubDate>
+		<lastBuildDate>Fri, 28 Aug 2026 23:27:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SECY-26-0109: Weekly Information Report Week Ending August 7, 2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26231A420</link>
+			<description>Commission SECY Paper</description>
+			<author>NRC/EDO</author>
+			<pubDate>2026-08-28 16:25:00</pubDate>
+		</item>
 		<item>
 			<title>Direct Final Rule - List of Approved Spent Fuel Storage Casks: TN Americas LLC Standardized NUHOMS Horizontal Modular Storage System for Irradiated Nuclear Fuel,  Certificate of Compliance No. 1004, Renewed Amendment No.19</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26155A510</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24262A210</link>
 			<description>License-Operator, Part 55 Examination Related Material</description>
 			<author>NRC/RGN-III/DRSS</author>
-			<pubDate>2026-08-24 12:11:00</pubDate>
-		</item>
-		<item>
-			<title>Written Exam RO-SRO Prairie Island 2024 - INITIAL.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24262A205</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>Northern States Power Company, Minnesota, Xcel Energy</author>
 			<pubDate>2026-08-24 12:11:00</pubDate>
 		</item>
 	</channel>
