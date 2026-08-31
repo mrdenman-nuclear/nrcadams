@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 28 Aug 2026 23:27:31 GMT</pubDate>
-		<lastBuildDate>Fri, 28 Aug 2026 23:27:31 GMT</lastBuildDate>
+		<pubDate>Mon, 31 Aug 2026 19:55:04 GMT</pubDate>
+		<lastBuildDate>Mon, 31 Aug 2026 19:55:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"ACRS Sub-committee Meeting for the Long Mott Generating Station Construction Permit Application Review," September 1-2, 2026 - Public</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26243A248</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Long Mott Energy, LLC, X-Energy, LLC</author>
+			<pubDate>2026-08-31 18:43:00</pubDate>
+		</item>
 		<item>
 			<title>Third Quarter of Fiscal Year 2026 on the Licensing Activities and Regulatory Duties of the NRC for the reporting period of April 1, 2026 - June 30, 2026 - Enclosure</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26198A284</link>
@@ -31,13 +38,6 @@
 			<description>E-Mail, Report, Technical</description>
 			<author>NEI Nuclear Systems Ltd</author>
 			<pubDate>2026-08-24 20:11:00</pubDate>
-		</item>
-		<item>
-			<title>ARC Clean Technology, Inc. - ARC 20 Regulatory Engagement Plan</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26225A376</link>
-			<description>Report, Technical</description>
-			<author>ARC Clean Technology</author>
-			<pubDate>2026-08-21 12:07:00</pubDate>
 		</item>
 	</channel>
 </rss>

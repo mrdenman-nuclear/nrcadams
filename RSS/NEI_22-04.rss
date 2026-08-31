@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 28 Aug 2026 23:27:32 GMT</pubDate>
-		<lastBuildDate>Fri, 28 Aug 2026 23:27:32 GMT</lastBuildDate>
+		<pubDate>Mon, 31 Aug 2026 19:55:05 GMT</pubDate>
+		<lastBuildDate>Mon, 31 Aug 2026 19:55:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>"ACRS Sub-committee Meeting for the Long Mott Generating Station Construction Permit Application Review," September 1-2, 2026 - Public</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26243A248</link>
+			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>Long Mott Energy, LLC, X-Energy, LLC</author>
+			<pubDate>2026-08-31 18:43:00</pubDate>
+		</item>
+		<item>
+			<title>License Amendment Request to Revise Technical Specifications to Adopt TSTF-432-A, Revision 1, "Change in Technical Specifications End States (WCAP-16294)"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26234A001</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50, Technical Specification, Amendment</description>
+			<author>Wolf Creek Nuclear Operating Corp</author>
+			<pubDate>2026-08-31 12:00:00</pubDate>
+		</item>
 		<item>
 			<title>Trip Report by the NRC of The Electric Power Research Institute - Procurement Engineering and Related Topics Symposium (PEARTS) Meeting August 2026</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26238A255</link>
@@ -206,20 +220,6 @@
 			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
 			<author>Vistra Operations Company, LLC</author>
 			<pubDate>2026-08-11 12:06:00</pubDate>
-		</item>
-		<item>
-			<title>NuScale Power, LLC - Submittal of the Approved Version of NuScale Topical Report, "Emergency Response Organization for a NuScale Power Plant," TR-183101-A, Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26211A382</link>
-			<description>Letter, Topical Report</description>
-			<author>NuScale Power, LLC</author>
-			<pubDate>2026-08-07 18:56:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Errata Pages for APP-GW-GL-702, Revision 2 (Non-Proprietary)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26218A284</link>
-			<description>Report, Technical</description>
-			<author>Westinghouse Electric Co, LLC</author>
-			<pubDate>2026-08-07 18:56:00</pubDate>
 		</item>
 	</channel>
 </rss>
