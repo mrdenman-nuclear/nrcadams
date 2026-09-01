@@ -5,11 +5,32 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 31 Aug 2026 23:39:28 GMT</pubDate>
-		<lastBuildDate>Mon, 31 Aug 2026 23:39:28 GMT</lastBuildDate>
+		<pubDate>Tue, 01 Sep 2026 20:32:29 GMT</pubDate>
+		<lastBuildDate>Tue, 01 Sep 2026 20:32:29 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>License Amendment Request 28 for the Armed Forces Radiobiology Research Institute TRIGA Reactor</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26236A014</link>
+			<description>License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>Uniformed Services Univ. of the Health Sciences</author>
+			<pubDate>2026-09-01 12:14:00</pubDate>
+		</item>
+		<item>
+			<title>Armed Forces Radiobiology Research Institute (AFRRI) - License Amendment Request for Facility Operating License No. R-84</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26236A013</link>
+			<description>Letter</description>
+			<author>Uniformed Services Univ. of the Health Sciences</author>
+			<pubDate>2026-09-01 12:14:00</pubDate>
+		</item>
+		<item>
+			<title>Armed Forces Radiobiology Research Institute - Renewed Facility Operating License</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26236A015</link>
+			<description>License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>Uniformed Services Univ. of the Health Sciences</author>
+			<pubDate>2026-09-01 12:14:00</pubDate>
+		</item>
+	</channel>
 </rss>

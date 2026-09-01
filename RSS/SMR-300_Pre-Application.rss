@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 31 Aug 2026 23:39:28 GMT</pubDate>
-		<lastBuildDate>Mon, 31 Aug 2026 23:39:28 GMT</lastBuildDate>
+		<pubDate>Tue, 01 Sep 2026 20:32:28 GMT</pubDate>
+		<lastBuildDate>Tue, 01 Sep 2026 20:32:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,27 +31,6 @@
 			<description>Letter</description>
 			<author>Holtec International</author>
 			<pubDate>2026-08-24 12:11:00</pubDate>
-		</item>
-		<item>
-			<title>Holtec International - Submittal of SMR-300 Instrumentation and Control Architecture Licensing Topical Report, Revision 1 (Project No. 99902049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26223A510</link>
-			<description>Letter</description>
-			<author>Holtec International</author>
-			<pubDate>2026-08-17 12:25:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Affidavit Pursuant to 10 CFR 2.390 to Withhold Information from Public Disclosure (NP)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26223A511</link>
-			<description>Legal-Affidavit</description>
-			<author>Holtec International</author>
-			<pubDate>2026-08-17 12:25:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: "SMR-300 Instrumentation and Control Architecture Licensing Topical Report," HI-2251395 R1 (NP)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26219A182</link>
-			<description>Topical Report</description>
-			<author>Holtec International</author>
-			<pubDate>2026-08-17 12:24:00</pubDate>
 		</item>
 	</channel>
 </rss>
