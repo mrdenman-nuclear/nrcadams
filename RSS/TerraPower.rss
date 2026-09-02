@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 01 Sep 2026 23:04:36 GMT</pubDate>
-		<lastBuildDate>Tue, 01 Sep 2026 23:04:36 GMT</lastBuildDate>
+		<pubDate>Wed, 02 Sep 2026 00:54:06 GMT</pubDate>
+		<lastBuildDate>Wed, 02 Sep 2026 00:54:06 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -87,13 +87,6 @@
 			<description>Graphics incl Charts and Tables</description>
 			<author>NRC/CNRI/DDII/DOCP/AEB</author>
 			<pubDate>2026-08-19 17:03:00</pubDate>
-		</item>
-		<item>
-			<title>Raven-Flint Nuclear Corporation - Application for an NRC 10 CFR Part 40 license, publicly available version</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26230A232</link>
-			<description>License-Application for (Amend/Renewal/New) for DKT 30, 40, 70</description>
-			<author>Raven-Flint Nuclear Corp</author>
-			<pubDate>2026-08-18 18:25:00</pubDate>
 		</item>
 	</channel>
 </rss>
