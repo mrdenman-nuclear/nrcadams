@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 02 Sep 2026 17:40:04 GMT</pubDate>
-		<lastBuildDate>Wed, 02 Sep 2026 17:40:04 GMT</lastBuildDate>
+		<pubDate>Wed, 02 Sep 2026 23:05:45 GMT</pubDate>
+		<lastBuildDate>Wed, 02 Sep 2026 23:05:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Comments on Modernizing Package Certification Requirements (NRC-2025-1667)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26245A045</link>
+			<description>Rulemaking-Comment</description>
+			<author>NRC/SECY</author>
+			<pubDate>2026-09-02 19:35:00</pubDate>
+		</item>
 		<item>
 			<title>IP 71111.13 Maintenance Risk Assessments and Emergent Work Control.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26231A348</link>
@@ -213,13 +220,6 @@
 			<description>Request for Additional Information (RAI)</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
 			<pubDate>2026-08-18 19:03:00</pubDate>
-		</item>
-		<item>
-			<title>OAR-DARP-ISG-2026-XX.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26162A452</link>
-			<description>Guidance Document</description>
-			<author>NRC/NRR/DANU</author>
-			<pubDate>2026-08-18 17:36:00</pubDate>
 		</item>
 	</channel>
 </rss>
