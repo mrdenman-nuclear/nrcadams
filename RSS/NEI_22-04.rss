@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 02 Sep 2026 00:54:08 GMT</pubDate>
-		<lastBuildDate>Wed, 02 Sep 2026 00:54:08 GMT</lastBuildDate>
+		<pubDate>Wed, 02 Sep 2026 17:40:04 GMT</pubDate>
+		<lastBuildDate>Wed, 02 Sep 2026 17:40:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>IP 71111.13 Maintenance Risk Assessments and Emergent Work Control.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26231A348</link>
+			<description>Inspection Manual</description>
+			<author>NRC/CNRI/DDII/DRIS</author>
+			<pubDate>2026-09-02 16:35:00</pubDate>
+		</item>
+		<item>
+			<title>IP 71152, Problem Identification and Resolution (PI&R)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26231A398</link>
+			<description>Inspection Manual</description>
+			<author>NRC/CNRI/DDII/DOCP/RIB</author>
+			<pubDate>2026-09-02 16:35:00</pubDate>
+		</item>
+		<item>
+			<title>Submittal of Approved Aalo Holdings, Inc. Topical Report, Quality Assurance Program for Aalo Atomics, Revision A</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26237A205</link>
+			<description>Letter, Quality Assurance Program</description>
+			<author>Aalo Holdings, Inc</author>
+			<pubDate>2026-09-02 12:18:00</pubDate>
+		</item>
 		<item>
 			<title>Virgil C. Summer Nuclear Station, Units 2 & 3, Revision 5 to Updated Final Safety Analysis Report, Chapter 11, Radioactive Waste Management.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML17206A307</link>
@@ -199,27 +220,6 @@
 			<description>Guidance Document</description>
 			<author>NRC/NRR/DANU</author>
 			<pubDate>2026-08-18 17:36:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: JAEA White Paper - Seismic Design Methodology for Floating Seismic Isolation System (FSIS)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26226A223</link>
-			<description>Report, Technical</description>
-			<author>IHI Corp, JGC Corp, Japan Atomic Energy Agency (JAEA)</author>
-			<pubDate>2026-08-18 15:32:00</pubDate>
-		</item>
-		<item>
-			<title>Hope Creek Generating Station - Supplement to License Amendment Request to Adopt TSTF-505 and TSTF-591</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26222A353</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>PSEG Nuclear, LLC</author>
-			<pubDate>2026-08-18 12:19:00</pubDate>
-		</item>
-		<item>
-			<title>SC-SND8932-001 Rev1_Seismic Base Isolation in Advanced Nuclear Reactors Guidelines Topical</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26229A037</link>
-			<description>Drawing, Graphics incl Charts and Tables, Photograph, Topical Report</description>
-			<author>Southern Company Services, Inc</author>
-			<pubDate>2026-08-17 15:11:00</pubDate>
 		</item>
 	</channel>
 </rss>

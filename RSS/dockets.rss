@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 02 Sep 2026 00:54:02 GMT</pubDate>
-		<lastBuildDate>Wed, 02 Sep 2026 00:54:02 GMT</lastBuildDate>
+		<pubDate>Wed, 02 Sep 2026 17:39:56 GMT</pubDate>
+		<lastBuildDate>Wed, 02 Sep 2026 17:39:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Submittal of Approved Aalo Holdings, Inc. Topical Report, Quality Assurance Program for Aalo Atomics, Revision A</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26237A205</link>
+			<description>Letter, Quality Assurance Program</description>
+			<author>Aalo Holdings, Inc</author>
+			<pubDate>2026-09-02 12:18:00</pubDate>
+		</item>
+		<item>
+			<title>IMSR Graphite Qualification Methodology Topical Report Revision A (TR-26-01)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26237A148</link>
+			<description>Letter</description>
+			<author>Terrestrial Energy, Inc</author>
+			<pubDate>2026-09-02 12:18:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: TR-26-01, Revision A, "IMSR Graphite Qualification Methodology Topical Report" - Non-Proprietary</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26237A145</link>
+			<description>Topical Report</description>
+			<author>Terrestrial Energy, Inc</author>
+			<pubDate>2026-09-02 12:18:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 3: Affidavit Supporting Request for Withholding from Public Disclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26237A147</link>
+			<description>Legal-Affidavit</description>
+			<author>Terrestrial Energy, Inc</author>
+			<pubDate>2026-09-02 12:18:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 3: Affidavit and Request for Withholding</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26232A227</link>
@@ -192,34 +220,6 @@
 			<description>Letter, Slides and Viewgraphs</description>
 			<author>Aalo Holdings, Inc</author>
 			<pubDate>2026-08-24 12:11:00</pubDate>
-		</item>
-		<item>
-			<title>Holtec International - Enclosure 1: HI-2251395, Rev. 2, SMR-300 Instrumentation and Control Architecture Licensing Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26227A004</link>
-			<description>Topical Report</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2026-08-24 12:11:00</pubDate>
-		</item>
-		<item>
-			<title>Holtec International - Enclosure 3: Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26227A005</link>
-			<description>Legal-Affidavit</description>
-			<author>Holtec International</author>
-			<pubDate>2026-08-24 12:11:00</pubDate>
-		</item>
-		<item>
-			<title>Holtec International - Submittal of SMR300 Instrumentation and Control Architecture Licensing Topical Report, Revision 2 (Project No. 99902049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26227A002</link>
-			<description>Letter</description>
-			<author>Holtec International</author>
-			<pubDate>2026-08-24 12:11:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Aalo Holdings, Inc. Presentation, Aalo XMR Thermal Spectrum Material Challenges Proprietary Presentation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26224A503</link>
-			<description>Letter</description>
-			<author>Aalo Holdings, Inc</author>
-			<pubDate>2026-08-20 12:13:00</pubDate>
 		</item>
 	</channel>
 </rss>
