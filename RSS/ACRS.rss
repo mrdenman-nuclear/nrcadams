@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 02 Sep 2026 23:05:38 GMT</pubDate>
-		<lastBuildDate>Wed, 02 Sep 2026 23:05:38 GMT</lastBuildDate>
+		<pubDate>Thu, 03 Sep 2026 01:06:31 GMT</pubDate>
+		<lastBuildDate>Thu, 03 Sep 2026 01:06:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,20 +45,6 @@
 			<description>ACRS Status Report</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2026-08-12 20:00:00</pubDate>
-		</item>
-		<item>
-			<title>Salem Nuclear Generating Station, Unit Nos. 1 And 2 - License Amendment Request To Use Data Validation And Reconciliation For Measurement Uncertainty Recapture</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26215A256</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-08-03 16:18:00</pubDate>
-		</item>
-		<item>
-			<title>Salem Nuclear Generating Station, Unit Nos. 1 And 2 - License Amendment Request To Use Data Validation And Reconciliation For Measurement Uncertainty Recapture</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26215A256</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-08-03 16:18:00</pubDate>
 		</item>
 	</channel>
 </rss>
