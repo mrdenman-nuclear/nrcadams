@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 03 Sep 2026 01:06:29 GMT</pubDate>
-		<lastBuildDate>Thu, 03 Sep 2026 01:06:29 GMT</lastBuildDate>
+		<pubDate>Thu, 03 Sep 2026 17:41:43 GMT</pubDate>
+		<lastBuildDate>Thu, 03 Sep 2026 17:41:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Closed Meeting Summary - Discussion of GE Vernova Hitachi GVH White Paper on Recommended Damping Values for Diaphragm Plate Steel-Plate Composite Structures in BWRX-300</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26238A006</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB3</author>
+			<pubDate>2026-09-03 11:57:00</pubDate>
+		</item>
 		<item>
 			<title>Transcript of Uncontested Hearing for the Clinch River Nuclear Site Construction Permit - Mandatory Hearing, Pages 1-80</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26238A328</link>
@@ -213,13 +220,6 @@
 			<description>Legal-Pleading</description>
 			<author>Perales, Allmon and Ice, P.C., San Antonio Bay Estuarine Waterkeeper</author>
 			<pubDate>2026-08-25 13:12:00</pubDate>
-		</item>
-		<item>
-			<title>CPAF50-00608 - SHINE Medical Technologies, Isotope Production Facility - CPMIF-001</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML24030A846</link>
-			<description>License-Construction Permit (CP)(New/Extension/Amendment) DKT 50</description>
-			<author>NRC/NRR</author>
-			<pubDate>2026-08-24 15:00:00</pubDate>
 		</item>
 	</channel>
 </rss>
