@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 04 Sep 2026 00:51:32 GMT</pubDate>
-		<lastBuildDate>Fri, 04 Sep 2026 00:51:32 GMT</lastBuildDate>
+		<pubDate>Fri, 04 Sep 2026 17:27:12 GMT</pubDate>
+		<lastBuildDate>Fri, 04 Sep 2026 17:27:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Summary Report for the Regulatory Audit of the SMR-300 Instrumentation & Control Architecture Licensing Topical Report (EPID No. L-2025-TOP-0043)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26236A004</link>
+			<description>Audit Report</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB2</author>
+			<pubDate>2026-09-04 11:50:00</pubDate>
+		</item>
+		<item>
+			<title>Confirmatory Information Regarding the Environmental Report for the Long Mott Generating Station Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26239A157</link>
+			<description>Letter</description>
+			<author>Long Mott Energy, LLC</author>
+			<pubDate>2026-09-04 11:50:00</pubDate>
+		</item>
+		<item>
+			<title>2026/08/21 Project Long Mott Docs - Objectives for our meeting on Tuesday August 25th at 1 p.m.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26233A101</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2026-09-04 11:49:00</pubDate>
+		</item>
 		<item>
 			<title>Closed Meeting Summary - Discussion of GE Vernova Hitachi GVH White Paper on Recommended Damping Values for Diaphragm Plate Steel-Plate Composite Structures in BWRX-300</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26238A006</link>
@@ -199,27 +220,6 @@
 			<description>Legal-Affidavit</description>
 			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
 			<pubDate>2026-08-25 18:41:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: M260078 - GVH Response to USNRC Request for Additional Information (RAI) No. 001 (RAI-11251-R1) for GVH Licensing Topical Report (LTR), NEDC-33934P, "BWRX-300 Safety Strategy" - Non-Proprietary Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26236A349</link>
-			<description>Response to Request for Additional Information (RAI), Topical Report</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2026-08-25 18:41:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of the May 7, 2026, Partially Closed Meeting with Oklo Inc. to Discuss Development of an Inservice Inspection Program for the Aurora Powerhouse (EPID L-2025-LRM-0152) - Cover Letter and Enclosure 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26180A379</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>Wagner Electric Corporation</author>
-			<pubDate>2026-08-25 17:41:00</pubDate>
-		</item>
-		<item>
-			<title>San Antonio Bay Estuarine Waterkeeper's Reply to Long Mott Energy, LLC's Answer to San Antonio Bay Estuarine Waterkeeper's Petition for Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26236A352</link>
-			<description>Legal-Pleading</description>
-			<author>Perales, Allmon and Ice, P.C., San Antonio Bay Estuarine Waterkeeper</author>
-			<pubDate>2026-08-25 13:12:00</pubDate>
 		</item>
 	</channel>
 </rss>
