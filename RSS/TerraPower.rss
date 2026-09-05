@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 04 Sep 2026 22:51:11 GMT</pubDate>
-		<lastBuildDate>Fri, 04 Sep 2026 22:51:11 GMT</lastBuildDate>
+		<pubDate>Sat, 05 Sep 2026 00:39:58 GMT</pubDate>
+		<lastBuildDate>Sat, 05 Sep 2026 00:39:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,20 +52,6 @@
 			<description>E-Mail, Report, Technical</description>
 			<author>NEI Nuclear Systems Ltd</author>
 			<pubDate>2026-08-24 20:11:00</pubDate>
-		</item>
-		<item>
-			<title>Meeting Summary Memo NFFP Pre-Application April 28,2026 (2nd Meeting)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26140A194</link>
-			<description>Memoranda</description>
-			<author>NRC/NMSS/DFM/STLB</author>
-			<pubDate>2026-08-21 19:18:00</pubDate>
-		</item>
-		<item>
-			<title>Meeting Attendees List NFFP Pre-Application April 28, 2026 Enclosure 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26140A130</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/NMSS/DDFSTE/DSFST/STMLB</author>
-			<pubDate>2026-08-21 19:18:00</pubDate>
 		</item>
 	</channel>
 </rss>
