@@ -2,7 +2,8 @@
 
 This page is updated Monday through Friday, hourly between 9AM ET and 5
 PM ET. It presents RSS files for the various dockets tracked by the
-`nrcadams` package. The last update was at 2026-09-09 16:24:29.24293 ET.
+`nrcadams` package. The last update was at 2026-09-09 19:00:37.377795
+ET.
 
 ## Using the RSS Feeds
 
@@ -31,7 +32,7 @@ last_week_in_dockets = nrcadams::docket_codex |>
   dplyr::left_join(nrcadams::docket_codex) |>
   dplyr::filter(!is.na(Project))
 #> 
-#>  This search returned: 37 files.
+#>  This search returned: 38 files.
 #> Joining with `by = join_by(DocketNumber)`
 
 
