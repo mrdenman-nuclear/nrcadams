@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 08 Sep 2026 23:13:23 GMT</pubDate>
-		<lastBuildDate>Tue, 08 Sep 2026 23:13:23 GMT</lastBuildDate>
+		<pubDate>Wed, 09 Sep 2026 17:39:02 GMT</pubDate>
+		<lastBuildDate>Wed, 09 Sep 2026 17:39:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Rulemaking-Comment</description>
 			<author>- No Known Affiliation</author>
 			<pubDate>2026-09-08 17:16:00</pubDate>
-		</item>
-		<item>
-			<title>Crownpoint Uranium Project - Environmental Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26233A169</link>
-			<description>Environmental Report</description>
-			<author>NuFuels, Inc</author>
-			<pubDate>2026-08-25 12:13:00</pubDate>
 		</item>
 	</channel>
 </rss>

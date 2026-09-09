@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 08 Sep 2026 23:13:25 GMT</pubDate>
-		<lastBuildDate>Tue, 08 Sep 2026 23:13:25 GMT</lastBuildDate>
+		<pubDate>Wed, 09 Sep 2026 17:39:04 GMT</pubDate>
+		<lastBuildDate>Wed, 09 Sep 2026 17:39:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
 			<pubDate>2026-09-04 11:50:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Generation Station - ACRS Subcommittee Meeting September 1, 2026 - Open Session</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26243A348</link>
-			<description>Drawing, Slides and Viewgraphs</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
-			<pubDate>2026-09-01 18:16:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 08 Sep 2026 23:13:17 GMT</pubDate>
-		<lastBuildDate>Tue, 08 Sep 2026 23:13:17 GMT</lastBuildDate>
+		<pubDate>Wed, 09 Sep 2026 17:38:56 GMT</pubDate>
+		<lastBuildDate>Wed, 09 Sep 2026 17:38:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Federal Register Notice: Long Mott Generating Station; Notice of Hearing</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26223A267</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
+			<pubDate>2026-09-09 16:30:00</pubDate>
+		</item>
 		<item>
 			<title>Confirmatory Information Regarding the Environmental Report for the Long Mott Generating Station Construction Permit Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26239A157</link>
@@ -45,13 +52,6 @@
 			<description>Legal-Affidavit</description>
 			<author>Long Mott Energy, LLC, X-Energy, LLC</author>
 			<pubDate>2026-08-31 18:43:00</pubDate>
-		</item>
-		<item>
-			<title>San Antonio Bay Estuarine Waterkeeper's Reply to Long Mott Energy, LLC's Answer to San Antonio Bay Estuarine Waterkeeper's Petition for Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26236A352</link>
-			<description>Legal-Pleading</description>
-			<author>Perales, Allmon and Ice, P.C., San Antonio Bay Estuarine Waterkeeper</author>
-			<pubDate>2026-08-25 13:12:00</pubDate>
 		</item>
 	</channel>
 </rss>

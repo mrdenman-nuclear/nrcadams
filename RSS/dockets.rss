@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 08 Sep 2026 23:13:17 GMT</pubDate>
-		<lastBuildDate>Tue, 08 Sep 2026 23:13:17 GMT</lastBuildDate>
+		<pubDate>Wed, 09 Sep 2026 17:38:56 GMT</pubDate>
+		<lastBuildDate>Wed, 09 Sep 2026 17:38:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Federal Register Notice: Long Mott Generating Station; Notice of Hearing</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26223A267</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
+			<pubDate>2026-09-09 16:30:00</pubDate>
+		</item>
+		<item>
+			<title>2026/08/26 GEH BWRX-300 SMR - GE Vernova Hitachi Request for Withholding Information from Public Disclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26238A139</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2026-09-09 12:12:00</pubDate>
+		</item>
+		<item>
+			<title>2026/08/26 GEH BWRX-300 SMR - GE Vernova Hitachi Request for Withholding Information from Public Disclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26238A138</link>
+			<description>E-Mail</description>
+			<author>NRC</author>
+			<pubDate>2026-09-09 12:12:00</pubDate>
+		</item>
 		<item>
 			<title>08/13/2026 Meeting Summary of Mandatory Hearing for Tennessee Valley Authority's Construction Permit Application for the Clinch River Nuclear Site</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26247A158</link>
@@ -199,27 +220,6 @@
 			<description>Audit Report, Memoranda</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB3</author>
 			<pubDate>2026-08-27 12:29:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: M260065 - Presentation Slides for Post-Submittal Meeting on Licensing White Paper NEDC-34449P - Recommended Damping Values for Diaphragm Plate Steel-Plate Composite (DP-SC) Structures - Non-Proprietary Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26216A278</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2026-08-26 14:14:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: M260065 - Affidavit, GVH - Non-Proprietary Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26216A279</link>
-			<description>Legal-Affidavit</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2026-08-26 14:14:00</pubDate>
-		</item>
-		<item>
-			<title>Presentation Slides for Post-Submittal Meeting on Licensing White Paper NEDC-34449P - Recommended Damping Values for Diaphragm Plate Steel-Plate Composite (DPP-SC) Structures)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26216A276</link>
-			<description>Letter</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2026-08-26 14:14:00</pubDate>
 		</item>
 	</channel>
 </rss>
