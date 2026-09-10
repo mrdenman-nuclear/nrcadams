@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 09 Sep 2026 23:00:40 GMT</pubDate>
-		<lastBuildDate>Wed, 09 Sep 2026 23:00:40 GMT</lastBuildDate>
+		<pubDate>Thu, 10 Sep 2026 00:51:12 GMT</pubDate>
+		<lastBuildDate>Thu, 10 Sep 2026 00:51:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,27 +52,6 @@
 			<description>Letter</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB3</author>
 			<pubDate>2026-08-31 12:01:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: M260065 - Presentation Slides for Post-Submittal Meeting on Licensing White Paper NEDC-34449P - Recommended Damping Values for Diaphragm Plate Steel-Plate Composite (DP-SC) Structures - Non-Proprietary Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26216A278</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2026-08-26 14:14:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: M260065 - Affidavit, GVH - Non-Proprietary Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26216A279</link>
-			<description>Legal-Affidavit</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2026-08-26 14:14:00</pubDate>
-		</item>
-		<item>
-			<title>Presentation Slides for Post-Submittal Meeting on Licensing White Paper NEDC-34449P - Recommended Damping Values for Diaphragm Plate Steel-Plate Composite (DPP-SC) Structures)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26216A276</link>
-			<description>Letter</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2026-08-26 14:14:00</pubDate>
 		</item>
 	</channel>
 </rss>
