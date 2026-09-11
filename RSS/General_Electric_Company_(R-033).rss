@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 10 Sep 2026 22:59:51 GMT</pubDate>
-		<lastBuildDate>Thu, 10 Sep 2026 22:59:51 GMT</lastBuildDate>
+		<pubDate>Fri, 11 Sep 2026 00:56:46 GMT</pubDate>
+		<lastBuildDate>Fri, 11 Sep 2026 00:56:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS/DDNMUDFR/DECAF/RDB</author>
 			<pubDate>2026-09-04 11:50:00</pubDate>
-		</item>
-		<item>
-			<title>LTR - Constellation - Audit Plan - Request to Adopt NEI 99-01, Revision 7 (L-2026-LLA-0138) (1)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26223A386</link>
-			<description>Audit Plan, Letter</description>
-			<author>NRC/NRR/DDLP/DLP1/ORLB3</author>
-			<pubDate>2026-08-27 12:29:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 10 Sep 2026 22:59:50 GMT</pubDate>
-		<lastBuildDate>Thu, 10 Sep 2026 22:59:50 GMT</lastBuildDate>
+		<pubDate>Fri, 11 Sep 2026 00:56:46 GMT</pubDate>
+		<lastBuildDate>Fri, 11 Sep 2026 00:56:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -213,13 +213,6 @@
 			<description>Legal-Affidavit, Letter</description>
 			<author>Aalo Holdings, Inc</author>
 			<pubDate>2026-08-31 12:00:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Generating Station Construction Permit Application Mandatory Hearing Resource Estimate</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26233A163</link>
-			<description>E-Mail</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
-			<pubDate>2026-08-27 12:29:00</pubDate>
 		</item>
 	</channel>
 </rss>
