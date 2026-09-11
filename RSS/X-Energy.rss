@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 11 Sep 2026 00:56:52 GMT</pubDate>
-		<lastBuildDate>Fri, 11 Sep 2026 00:56:52 GMT</lastBuildDate>
+		<pubDate>Fri, 11 Sep 2026 17:35:37 GMT</pubDate>
+		<lastBuildDate>Fri, 11 Sep 2026 17:35:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>U.S. Navy Former Brunswick Naval Air Station Final Radiological Assessment Report for Site 1 and Site 9</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26246A959</link>
+			<description>Report, Technical</description>
+			<author>Resolution Consultants</author>
+			<pubDate>2026-09-11 12:35:00</pubDate>
+		</item>
 		<item>
 			<title>Early Release: Federal Register Notice - Proposed Rule: Regulatory Enhancements for Reactor Licensing, Decommissioning, and Operational Oversight</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26233A008</link>
@@ -213,13 +220,6 @@
 			<description>Report, Technical</description>
 			<author>US Dept of Energy, Office of Legacy Management</author>
 			<pubDate>2026-09-08 12:14:00</pubDate>
-		</item>
-		<item>
-			<title>08/20/2026 Summary of Public Meeting - NRC's Fuel Cycle Facility Operational Safety Safeguards Inspection Program Rebaseline</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26243A081</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/NMSS/DDCNMI/DFMP/PSB</author>
-			<pubDate>2026-09-08 11:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
