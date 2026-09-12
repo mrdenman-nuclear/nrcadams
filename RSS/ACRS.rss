@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 11 Sep 2026 23:05:20 GMT</pubDate>
-		<lastBuildDate>Fri, 11 Sep 2026 23:05:20 GMT</lastBuildDate>
+		<pubDate>Sat, 12 Sep 2026 00:57:18 GMT</pubDate>
+		<lastBuildDate>Sat, 12 Sep 2026 00:57:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -45,20 +45,6 @@
 			<description>Meeting Agenda</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2026-08-17 13:32:00</pubDate>
-		</item>
-		<item>
-			<title>Library of Congress Memo - ACRS Committee and Consultant Reports - 734 through 736 for April through June 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26224A057</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-08-12 20:00:00</pubDate>
-		</item>
-		<item>
-			<title>Library of Congress Spreadsheet Report - 734 through 736 for April through June 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26224A187</link>
-			<description>ACRS Status Report</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-08-12 20:00:00</pubDate>
 		</item>
 	</channel>
 </rss>
