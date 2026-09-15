@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 15 Sep 2026 01:19:04 GMT</pubDate>
-		<lastBuildDate>Tue, 15 Sep 2026 01:19:04 GMT</lastBuildDate>
+		<pubDate>Tue, 15 Sep 2026 20:57:50 GMT</pubDate>
+		<lastBuildDate>Tue, 15 Sep 2026 20:57:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Aerotest Operations, Inc. - NRC Inspection Report 050-00228/2026- 001, Disputed Cited Violations Upheld And Violation Revised</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26252A283</link>
+			<description>Enforcement Action, Inspection Report Correspondence, Letter</description>
+			<author>NRC/NMSS/DDCNMI/DFCMO</author>
+			<pubDate>2026-09-15 12:19:00</pubDate>
+		</item>
+	</channel>
 </rss>
