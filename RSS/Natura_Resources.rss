@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 15 Sep 2026 23:30:21 GMT</pubDate>
-		<lastBuildDate>Tue, 15 Sep 2026 23:30:21 GMT</lastBuildDate>
+		<pubDate>Wed, 16 Sep 2026 18:00:28 GMT</pubDate>
+		<lastBuildDate>Wed, 16 Sep 2026 18:00:28 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>General FR Notice Comment Letter</description>
 			<author>Natural Resources Defense Council, Inc</author>
 			<pubDate>2026-09-10 12:26:00</pubDate>
-		</item>
-		<item>
-			<title>Response to NRDC regarding extension request for NEPA Rule Public Comment Period</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26233A133</link>
-			<description>E-Mail</description>
-			<author>NRC/NMSS/DDNMUDFR/GREAT</author>
-			<pubDate>2026-09-01 12:14:00</pubDate>
 		</item>
 	</channel>
 </rss>

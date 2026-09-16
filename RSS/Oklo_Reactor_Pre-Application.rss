@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 15 Sep 2026 23:30:13 GMT</pubDate>
-		<lastBuildDate>Tue, 15 Sep 2026 23:30:13 GMT</lastBuildDate>
+		<pubDate>Wed, 16 Sep 2026 18:00:22 GMT</pubDate>
+		<lastBuildDate>Wed, 16 Sep 2026 18:00:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,27 +17,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
 			<pubDate>2026-09-15 12:19:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Affidavit and Request for Withholding</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26232A227</link>
-			<description>Legal-Affidavit</description>
-			<author>Oklo Inc</author>
-			<pubDate>2026-09-01 15:44:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo, Inc. - Transmittal of Meeting Materials for the July 30, 2026, Pre-Submittal Meeting Regarding Fuel Qualification Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26232A224</link>
-			<description>Letter</description>
-			<author>Oklo Inc</author>
-			<pubDate>2026-09-01 15:44:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Aurora Fuel Qualification Slides (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26232A226</link>
-			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Oklo Inc</author>
-			<pubDate>2026-09-01 15:44:00</pubDate>
 		</item>
 	</channel>
 </rss>
