@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 16 Sep 2026 23:40:40 GMT</pubDate>
-		<lastBuildDate>Wed, 16 Sep 2026 23:40:40 GMT</lastBuildDate>
+		<pubDate>Thu, 17 Sep 2026 17:59:26 GMT</pubDate>
+		<lastBuildDate>Thu, 17 Sep 2026 17:59:26 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,27 +31,6 @@
 			<description>ACRS Summary Report, Letter</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2026-09-11 13:11:00</pubDate>
-		</item>
-		<item>
-			<title>Public Meeting - 9-17-26 - Slides (3)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26251A343</link>
-			<description>Slides and Viewgraphs</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2026-09-09 12:13:00</pubDate>
-		</item>
-		<item>
-			<title>Salem Nuclear Generating Station, Units 1 and 2 - Supplement 2 to License Amendment Request to Modify Salem Generating Station Renewed Facility Operating Licenses in Support of Cobalt-60 Production Reference</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26243A375</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>PSEG Nuclear, LLC</author>
-			<pubDate>2026-09-09 12:12:00</pubDate>
-		</item>
-		<item>
-			<title>Salem Nuclear Generating Station, Units 1 and 2 - Supplement 2 to License Amendment Request to Modify Salem Generating Station Renewed Facility Operating Licenses in Support of Cobalt-60 Production Reference</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26243A375</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>PSEG Nuclear, LLC</author>
-			<pubDate>2026-09-09 12:12:00</pubDate>
 		</item>
 	</channel>
 </rss>

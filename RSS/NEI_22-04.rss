@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 16 Sep 2026 23:40:41 GMT</pubDate>
-		<lastBuildDate>Wed, 16 Sep 2026 23:40:41 GMT</lastBuildDate>
+		<pubDate>Thu, 17 Sep 2026 17:59:27 GMT</pubDate>
+		<lastBuildDate>Thu, 17 Sep 2026 17:59:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Regulatory Guide (RG) 1.59, Revision 3, Design Basis Floods for Nuclear Power Plants</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26246A466</link>
+			<description>Regulatory Guide</description>
+			<author>NRC/RES/DE</author>
+			<pubDate>2026-09-17 16:18:00</pubDate>
+		</item>
 		<item>
 			<title>DG-1290 (RG 1.59 Rev 3) Public Comment Response Table Final</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26246A471</link>
@@ -203,13 +210,6 @@
 		<item>
 			<title>Virgil C. Summer Nuclear Station, Units 2 & 3, Revision 5 to Updated Final Safety Analysis Report, Chapter 11, Radioactive Waste Management.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML17206A307</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>South Carolina Electric and Gas Co</author>
-			<pubDate>2026-09-01 17:34:00</pubDate>
-		</item>
-		<item>
-			<title>Virgil C. Summer Nuclear Station, Units 2 & 3, Revision 5 to Updated Final Safety Analysis Report, Chapter 6, Engineered Safety Features.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML17206A302</link>
 			<description>Updated Final Safety Analysis Report (UFSAR)</description>
 			<author>South Carolina Electric and Gas Co</author>
 			<pubDate>2026-09-01 17:34:00</pubDate>
