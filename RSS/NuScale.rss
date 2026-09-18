@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 17 Sep 2026 23:25:41 GMT</pubDate>
-		<lastBuildDate>Thu, 17 Sep 2026 23:25:41 GMT</lastBuildDate>
+		<pubDate>Fri, 18 Sep 2026 17:32:54 GMT</pubDate>
+		<lastBuildDate>Fri, 18 Sep 2026 17:32:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SECY-26-0116: Weekly Information Report Week Ending September 4, 2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26259A345</link>
+			<description>Commission SECY Paper</description>
+			<author>NRC/EDO</author>
+			<pubDate>2026-09-18 17:12:00</pubDate>
+		</item>
 		<item>
 			<title>Transcript of the Advisory Committee on Reactor Safeguards - Long Mott Generating Station Xe-100 Power Reactor Construction Permit Application Subcommittee Meeting, September 2, 2026, Pages 1-186 (Open)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26260A325</link>
@@ -80,13 +87,6 @@
 			<description>Letter, Report, Miscellaneous</description>
 			<author>Hadron Energy, Inc</author>
 			<pubDate>2026-09-08 12:14:00</pubDate>
-		</item>
-		<item>
-			<title>SECY-26-0112: Weekly Information Report Week Ending August 21, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26243A402</link>
-			<description>Commission SECY Paper</description>
-			<author>NRC/EDO</author>
-			<pubDate>2026-09-03 11:58:00</pubDate>
 		</item>
 	</channel>
 </rss>
