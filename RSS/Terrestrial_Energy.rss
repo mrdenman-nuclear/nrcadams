@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 18 Sep 2026 23:06:30 GMT</pubDate>
-		<lastBuildDate>Fri, 18 Sep 2026 23:06:30 GMT</lastBuildDate>
+		<pubDate>Sat, 19 Sep 2026 01:06:46 GMT</pubDate>
+		<lastBuildDate>Sat, 19 Sep 2026 01:06:46 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -94,20 +94,6 @@
 			<description>License-Operating (New/Renewal/Amendments) DKT 50</description>
 			<author>NRC/NRR</author>
 			<pubDate>2026-09-08 16:46:00</pubDate>
-		</item>
-		<item>
-			<title>Requests for Additional Information and Requests for Confirmatory Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26232A171</link>
-			<description>Graphics incl Charts and Tables, Response to Request for Additional Information (RAI)</description>
-			<author>Holtec International</author>
-			<pubDate>2026-09-04 19:04:00</pubDate>
-		</item>
-		<item>
-			<title>Requests for Additional Information and Requests for Confirmatory Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26232A171</link>
-			<description>Graphics incl Charts and Tables, Response to Request for Additional Information (RAI)</description>
-			<author>Holtec International</author>
-			<pubDate>2026-09-04 19:04:00</pubDate>
 		</item>
 	</channel>
 </rss>

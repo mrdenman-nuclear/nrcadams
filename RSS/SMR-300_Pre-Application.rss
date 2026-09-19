@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 18 Sep 2026 23:06:22 GMT</pubDate>
-		<lastBuildDate>Fri, 18 Sep 2026 23:06:22 GMT</lastBuildDate>
+		<pubDate>Sat, 19 Sep 2026 01:06:37 GMT</pubDate>
+		<lastBuildDate>Sat, 19 Sep 2026 01:06:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>E-Mail</description>
 			<author>Holtec International</author>
 			<pubDate>2026-09-18 15:05:00</pubDate>
-		</item>
-		<item>
-			<title>Summary Report for the Regulatory Audit of the SMR-300 Instrumentation & Control Architecture Licensing Topical Report (EPID No. L-2025-TOP-0043)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26236A004</link>
-			<description>Audit Report</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB2</author>
-			<pubDate>2026-09-04 11:50:00</pubDate>
 		</item>
 	</channel>
 </rss>
