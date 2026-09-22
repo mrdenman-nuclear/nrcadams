@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 22 Sep 2026 18:02:32 GMT</pubDate>
-		<lastBuildDate>Tue, 22 Sep 2026 18:02:32 GMT</lastBuildDate>
+		<pubDate>Tue, 22 Sep 2026 20:53:18 GMT</pubDate>
+		<lastBuildDate>Tue, 22 Sep 2026 20:53:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Long Mott Energy, LLC, Rev. 1, Construction Permit Application, Part VI, Supplemental Information</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26261A428</link>
+			<description>Report, Technical</description>
+			<author>Long Mott Energy, LLC</author>
+			<pubDate>2026-09-22 19:08:00</pubDate>
+		</item>
+	</channel>
 </rss>
