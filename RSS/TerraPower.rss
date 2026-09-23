@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 22 Sep 2026 23:32:29 GMT</pubDate>
-		<lastBuildDate>Tue, 22 Sep 2026 23:32:29 GMT</lastBuildDate>
+		<pubDate>Wed, 23 Sep 2026 22:04:30 GMT</pubDate>
+		<lastBuildDate>Wed, 23 Sep 2026 22:04:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Understanding Functional Containment Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26265A234</link>
+			<description>Report, Technical</description>
+			<author>NRC/ACRS</author>
+			<pubDate>2026-09-23 19:25:00</pubDate>
+		</item>
+		<item>
+			<title>Blue Energy - Enclosure 2, BE-POV-LCNRG-LIC-5009, Rev. 0, Construction Permit Application Part 1 Blue Energy Center - Port of Victoria Nuclear, Unit 1: Preliminary Safety Analysis Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26259A138</link>
+			<description>Preliminary Safety Analysis Report (PSAR)</description>
+			<author>Blue Energy</author>
+			<pubDate>2026-09-23 12:11:00</pubDate>
+		</item>
+		<item>
+			<title>Blue Energy - BE-POV-LCNRG-LIC-5004-NP, Rev. 0, "Exemption Request from Activities Defined as Construction in 10 CFR 50.10(a)(1)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26258A357</link>
+			<description>Report, Technical</description>
+			<author>Blue Energy</author>
+			<pubDate>2026-09-23 12:10:00</pubDate>
+		</item>
+		<item>
+			<title>Blue Energy - Enclosure 9, BE-POV-LCNRG-LIC-5001-NP, Rev. 0, Limited Work Authorization Request and General and Financial Information</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26258A347</link>
+			<description>Financial Assurance Document</description>
+			<author>Blue Energy</author>
+			<pubDate>2026-09-23 12:10:00</pubDate>
+		</item>
 		<item>
 			<title>17 Michael Castillo TerraPower NRC AI Workshop 2026.09.15</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26260A232</link>
@@ -52,13 +80,6 @@
 			<description>Meeting Summary, Memoranda</description>
 			<author>NRC/OAR/DDES/DARE/AREB3</author>
 			<pubDate>2026-09-09 16:30:00</pubDate>
-		</item>
-		<item>
-			<title>Comments for the Proposed Rule on Modernizing Reactor Licensing Safety Oversight and Siting Practices (NRC-2025-0975)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26251A361</link>
-			<description>Rulemaking-Comment</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2026-09-08 20:28:00</pubDate>
 		</item>
 	</channel>
 </rss>

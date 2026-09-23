@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 22 Sep 2026 23:32:22 GMT</pubDate>
-		<lastBuildDate>Tue, 22 Sep 2026 23:32:22 GMT</lastBuildDate>
+		<pubDate>Wed, 23 Sep 2026 22:04:25 GMT</pubDate>
+		<lastBuildDate>Wed, 23 Sep 2026 22:04:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,20 +17,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DDLP/DLP2/NPUFB</author>
 			<pubDate>2026-09-15 12:19:00</pubDate>
-		</item>
-		<item>
-			<title>Univ. of Missouri Research Reactor, Written Communication Within 60 Days of A Telephonic Notification to the NRC Required by 10 CFR 73.1200(g)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26240A137</link>
-			<description>Letter</description>
-			<author>Univ of Missouri - Columbia</author>
-			<pubDate>2026-09-08 12:14:00</pubDate>
-		</item>
-		<item>
-			<title>The Curators of The University of Missouri - U.S. Nuclear Regulatory Commission Security Inspection Report No. 05000186/2026410 (Inspection Report - Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26237A140</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DDLP/DLP2/NPUFB</author>
-			<pubDate>2026-09-08 12:14:00</pubDate>
 		</item>
 	</channel>
 </rss>

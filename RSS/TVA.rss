@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 22 Sep 2026 23:32:29 GMT</pubDate>
-		<lastBuildDate>Tue, 22 Sep 2026 23:32:29 GMT</lastBuildDate>
+		<pubDate>Wed, 23 Sep 2026 22:04:30 GMT</pubDate>
+		<lastBuildDate>Wed, 23 Sep 2026 22:04:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Meeting with Tennessee Valley Authority Regarding Startup with Inoperable Instruments 09/28/2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26266A122</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC/NRR</author>
+			<pubDate>2026-09-23 16:23:00</pubDate>
+		</item>
+		<item>
+			<title>Blue Energy - Enclosure 10, BE-POV-LCNRG-LIC-5006-NP, Rev. 0, Exemption Request to Allow Installation of Permanent In-Ground Support Structures Required for Safe Reactor Building Shaft Excavation</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26258A348</link>
+			<description>Report, Technical</description>
+			<author>Blue Energy</author>
+			<pubDate>2026-09-23 12:11:00</pubDate>
+		</item>
 		<item>
 			<title>By-Product Materials License Number 41-08165-18 for Tennessee Valley Authority Central Laboratories Services Building and Norris Engineering Laboratory -- Response to NRC RAI Regarding TVA License Renewal Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26257A380</link>
@@ -206,20 +220,6 @@
 			<description>License-Fitness for Duty (FFD) Performance Report</description>
 			<author>Arizona Public Service Co</author>
 			<pubDate>2026-09-16 20:34:00</pubDate>
-		</item>
-		<item>
-			<title>U.S. Nuclear Regulatory Commission Summary of Public Meeting on Path forward for the Potential Endorsement of ASME Code Case N-883-2 and Issuance of Associated Interim Staff Guidance - July 23, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26225A252</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB3</author>
-			<pubDate>2026-09-16 12:18:00</pubDate>
-		</item>
-		<item>
-			<title>Rev 48 to FSAR,incorporating Amend 78 to license application.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20150B306</link>
-			<description>TEXT-SAFETY REPORT, Final Safety Analysis Report (FSAR)</description>
-			<author>CINCINNATI GAS and ELECTRIC CO.</author>
-			<pubDate>2026-09-15 15:27:00</pubDate>
 		</item>
 	</channel>
 </rss>
