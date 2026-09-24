@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 24 Sep 2026 00:22:44 GMT</pubDate>
-		<lastBuildDate>Thu, 24 Sep 2026 00:22:44 GMT</lastBuildDate>
+		<pubDate>Thu, 24 Sep 2026 18:11:48 GMT</pubDate>
+		<lastBuildDate>Thu, 24 Sep 2026 18:11:48 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Arkansas Nuclear One, Unit 2 - License Amendment Request to Revise Technical Specification 3.5.1 "Safety Injection Tanks" Using Risk-Informed Process for Evaluations</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26259A317</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>Entergy Operations, Inc</author>
+			<pubDate>2026-09-24 12:14:00</pubDate>
+		</item>
+		<item>
+			<title>Comment (6) of Fred Schofer on Draft Interim Staff Guidance Evaluations of Risk Assessments for Risk-Informed Decision-Making for Regulatory Applications</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26260A162</link>
+			<description>General FR Notice Comment Letter</description>
+			<author>- No Known Affiliation</author>
+			<pubDate>2026-09-24 12:14:00</pubDate>
+		</item>
 		<item>
 			<title>Understanding Functional Containment Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26265A234</link>
@@ -206,20 +220,6 @@
 			<description>Rulemaking-Comment</description>
 			<author>- No Known Affiliation</author>
 			<pubDate>2026-09-15 17:40:00</pubDate>
-		</item>
-		<item>
-			<title>FSAR Volume 10 Conformance to Regulatory Guides High Energy Breaks Outside Containment Soil Structure Interactions Emergency Plan</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26251A430</link>
-			<description>Final Safety Analysis Report (FSAR)</description>
-			<author>Cincinnati Gas and Electric Co</author>
-			<pubDate>2026-09-15 17:08:00</pubDate>
-		</item>
-		<item>
-			<title>Revision 86 to FSAR.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20071K997</link>
-			<description>TEXT-SAFETY REPORT, Final Safety Analysis Report (FSAR)</description>
-			<author>CINCINNATI GAS and ELECTRIC CO.</author>
-			<pubDate>2026-09-15 15:27:00</pubDate>
 		</item>
 	</channel>
 </rss>
