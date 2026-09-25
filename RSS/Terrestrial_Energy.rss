@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 24 Sep 2026 22:01:27 GMT</pubDate>
-		<lastBuildDate>Thu, 24 Sep 2026 22:01:27 GMT</lastBuildDate>
+		<pubDate>Fri, 25 Sep 2026 00:18:37 GMT</pubDate>
+		<lastBuildDate>Fri, 25 Sep 2026 00:18:37 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -101,13 +101,6 @@
 			<description>License-Operating (New/Renewal/Amendments) DKT 50, Technical Specifications</description>
 			<author>NRC/NRR</author>
 			<pubDate>2026-09-15 11:05:00</pubDate>
-		</item>
-		<item>
-			<title>Memorandum and Order (Granting in Part and Denying in Part Organizational Intervenors' Motion for Leave to File New and Amended Contentions) (LBP-26-8)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26253A144</link>
-			<description>Legal-Order</description>
-			<author>NRC/ASLBP</author>
-			<pubDate>2026-09-10 20:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
