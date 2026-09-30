@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 30 Sep 2026 18:54:22 GMT</pubDate>
-		<lastBuildDate>Wed, 30 Sep 2026 18:54:22 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Sep 2026 22:56:16 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Sep 2026 22:56:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Environmental Impact Statement for the Combined License Application for the Project Matador Advanced Energy and Intelligence Campus AP1000 Units 1-4 - Draft for Comment</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26261A417</link>
+			<description>Environmental Impact Statement</description>
+			<author>NRC/OAR/DDLP/DARP/ARERB</author>
+			<pubDate>2026-09-30 20:32:00</pubDate>
+		</item>
 		<item>
 			<title>Blue Energy, Enclosure 2, Blue Energy Center - Port of Victoria Nuclear Unit 1: Preliminary Safety Analysis Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26265A372</link>
@@ -213,13 +220,6 @@
 			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
 			<author>Southern Nuclear Operating Co, Inc</author>
 			<pubDate>2026-09-21 12:16:00</pubDate>
-		</item>
-		<item>
-			<title>Diablo Canyon Units 1 and 2, Supplement to License Amendment Request 25-06 to Update the Spent Fuel Pool and New Fuel Storage Vault Criticality Safety Analysis, Enc. 1 & 2</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26253A260</link>
-			<description>Legal-Affidavit, Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>Pacific Gas and Electric Co</author>
-			<pubDate>2026-09-18 12:26:00</pubDate>
 		</item>
 	</channel>
 </rss>
