@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 30 Sep 2026 22:56:12 GMT</pubDate>
-		<lastBuildDate>Wed, 30 Sep 2026 22:56:12 GMT</lastBuildDate>
+		<pubDate>Thu, 01 Oct 2026 01:52:25 GMT</pubDate>
+		<lastBuildDate>Thu, 01 Oct 2026 01:52:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -87,13 +87,6 @@
 			<description>Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Nuclearn</author>
 			<pubDate>2026-09-17 20:02:00</pubDate>
-		</item>
-		<item>
-			<title>U.S. Nuclear Regulatory Commission Summary of Public Meeting on Path forward for the Potential Endorsement of ASME Code Case N-883-2 and Issuance of Associated Interim Staff Guidance - July 23, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26225A252</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB3</author>
-			<pubDate>2026-09-16 12:18:00</pubDate>
 		</item>
 	</channel>
 </rss>
