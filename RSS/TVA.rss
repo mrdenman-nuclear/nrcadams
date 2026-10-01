@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 01 Oct 2026 01:52:25 GMT</pubDate>
-		<lastBuildDate>Thu, 01 Oct 2026 01:52:25 GMT</lastBuildDate>
+		<pubDate>Thu, 01 Oct 2026 19:17:24 GMT</pubDate>
+		<lastBuildDate>Thu, 01 Oct 2026 19:17:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NUREG/CP-0152, Vol.12, "Proceedings of the Fifteenth NRC/ASME OM Code Symposium, July 28-30, 2025"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26273A321</link>
+			<description>NUREG</description>
+			<author>American Society of Mechanical Engineers (ASME), NRC/NRR</author>
+			<pubDate>2026-10-01 12:20:00</pubDate>
+		</item>
 		<item>
 			<title>Clinch River Nuclear Site Unit 1 Construction Permit Record of Decision</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26245A346</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26222A260</link>
 			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation</description>
 			<author>NRC/NRR/DDLP/DLP1/ORLB4</author>
-			<pubDate>2026-09-18 12:26:00</pubDate>
-		</item>
-		<item>
-			<title>Acceptance Review Results for Sequoyah Nuclear Plant, Units 1 and 2, and Watts Bar Nuclear Plant, Units 1 and 2, Alternative Requests for the Subsequent Inservice Testing Intervals (EPIDs L-2026-LLR-0058 and L-2026-LLR-0059)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26253A247</link>
-			<description>Acceptance Review Letter, E-Mail</description>
-			<author>NRC/NRR/DORL/LPLII-2</author>
 			<pubDate>2026-09-18 12:26:00</pubDate>
 		</item>
 	</channel>
