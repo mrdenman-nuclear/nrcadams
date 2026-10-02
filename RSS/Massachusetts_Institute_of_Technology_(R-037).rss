@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 01 Oct 2026 23:42:37 GMT</pubDate>
-		<lastBuildDate>Thu, 01 Oct 2026 23:42:37 GMT</lastBuildDate>
+		<pubDate>Fri, 02 Oct 2026 18:59:08 GMT</pubDate>
+		<lastBuildDate>Fri, 02 Oct 2026 18:59:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Incoming Letter - Massachusetts Institute of Technology Self-Guarantee Submission Letter</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26274A447</link>
+			<description>Financial Assurance Document, Letter</description>
+			<author>Massachusetts Institute of Technology (MIT)</author>
+			<pubDate>2026-10-02 17:02:00</pubDate>
+		</item>
+	</channel>
 </rss>
