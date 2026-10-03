@@ -5,12 +5,47 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 02 Oct 2026 18:59:15 GMT</pubDate>
-		<lastBuildDate>Fri, 02 Oct 2026 18:59:15 GMT</lastBuildDate>
+		<pubDate>Sat, 03 Oct 2026 01:44:41 GMT</pubDate>
+		<lastBuildDate>Sat, 03 Oct 2026 01:44:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Examination Report Letter No. 50-005/OL-26-01, Pennsylvania State University</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26154A288</link>
+			<description>License-Operator Examination Report (Non-Power Reactors Only)</description>
+			<author>NRC/NRR/DDLP/DLP2/NPUFB</author>
+			<pubDate>2026-10-02 19:04:00</pubDate>
+		</item>
+		<item>
+			<title>Nine Mile Point Nuclear Station, Unit 1, License Amendment Request to Eliminate Technical Specification for Automatic MSIV Closure on High Temperature and Add New Technical Specification, Main Steam Line (MSL) Area Temperature.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26267A208</link>
+			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50, Technical Specification, Amendment, Technical Specification, Bases Change</description>
+			<author>Constellation Energy Generation, LLC</author>
+			<pubDate>2026-10-02 12:14:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2 - LES Amendment 116 - LAR 25-04 ISSP (Public)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26267A243</link>
+			<description>License-Special Nuclear Material Amendment DKT 70</description>
+			<author>NRC/NMSS/DDCNMI/DFMP/ILB1</author>
+			<pubDate>2026-10-02 12:14:00</pubDate>
+		</item>
+		<item>
+			<title>Vogtle Electric Generating Plant, Unit 1 - Refueling Outage 1R26 Steam Generator Tube Inspection Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26267A252</link>
+			<description>Inservice/Preservice Inspection and Test Report, Letter</description>
+			<author>Southern Nuclear Operating Co, Inc</author>
+			<pubDate>2026-10-02 12:14:00</pubDate>
+		</item>
+		<item>
+			<title>Sunset Rule Information Collection - Supporting Statement</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26266A265</link>
+			<description>OMB Clearance Material, Rulemaking- Proposed Rule</description>
+			<author>NRC/OCIO/DATAD/IRMB</author>
+			<pubDate>2026-10-01 17:15:00</pubDate>
+		</item>
 		<item>
 			<title>Beaver Valley Power Station, Unit Nos. 1 and 2 - Independent Spent Fuel Storage Installation Changes, Tests and Experiments</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26273A349</link>
@@ -185,41 +220,6 @@
 			<description>Letter, Licensee Event Report (LER)</description>
 			<author>Vistra Operations Company, LLC</author>
 			<pubDate>2026-10-01 12:19:00</pubDate>
-		</item>
-		<item>
-			<title>Environmental Impact Statement for the Combined License Application for the Project Matador Advanced Energy and Intelligence Campus AP1000 Units 1-4 - Draft for Comment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26261A417</link>
-			<description>Environmental Impact Statement</description>
-			<author>NRC/OAR/DDLP/DARP/ARERB</author>
-			<pubDate>2026-09-30 20:32:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of 2027 Annual Surety Estimate for Crow Butte Resources</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26267A037</link>
-			<description>Environmental Report, Letter</description>
-			<author>Cameco Resources, Crow Butte Resources, Inc</author>
-			<pubDate>2026-09-30 15:19:00</pubDate>
-		</item>
-		<item>
-			<title>Resumption of X-Energy, LLC, XENITHtm Microreactor Licensing Topical Report Reviews</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26265A317</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2026-09-30 12:13:00</pubDate>
-		</item>
-		<item>
-			<title>H. B. Robinson Steam Electric Plant, Unit No. 2 - Authorization of Alternative Repair for Main Steam Line PORV RV1-1 (EPID L-2026-LLR-0050)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26257A344</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/NRR/DDLP/DLP1/ORLB2</author>
-			<pubDate>2026-09-30 12:13:00</pubDate>
-		</item>
-		<item>
-			<title>Supplement to Responses to the NRC Request for Supplemental Information for the NAC International Inc. OPTIMUS-H Transportation Package, Certificate of Compliance No. 9392</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26265A222</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>NAC International, Inc</author>
-			<pubDate>2026-09-29 16:03:00</pubDate>
 		</item>
 	</channel>
 </rss>
