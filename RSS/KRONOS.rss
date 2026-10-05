@@ -5,11 +5,39 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Sat, 03 Oct 2026 01:44:34 GMT</pubDate>
-		<lastBuildDate>Sat, 03 Oct 2026 01:44:34 GMT</lastBuildDate>
+		<pubDate>Mon, 05 Oct 2026 21:25:15 GMT</pubDate>
+		<lastBuildDate>Mon, 05 Oct 2026 21:25:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>University of Illinois Urbana-Champaign - Transmittal of General Audit Question for PSAR Section 4.4.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26276A006</link>
+			<description>E-Mail</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
+			<pubDate>2026-10-05 15:24:00</pubDate>
+		</item>
+		<item>
+			<title>University of Illinois Urbana-Champaign - Transmittal of General Audit Questions for PSAR Sections 9.1, 9.3, and 9.7</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26276A009</link>
+			<description>E-Mail</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
+			<pubDate>2026-10-05 15:24:00</pubDate>
+		</item>
+		<item>
+			<title>U. of I. CP Safety Review General Audit Questions - Section 4.4</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26276A005</link>
+			<description>Audit Plan</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
+			<pubDate>2026-10-05 15:24:00</pubDate>
+		</item>
+		<item>
+			<title>U. of I. CP Safety Review General Audit Questions - Sections 9.1, 9.3, 9.7.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26276A008</link>
+			<description>- No Document Type Applies, Audit Plan</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
+			<pubDate>2026-10-05 15:24:00</pubDate>
+		</item>
+	</channel>
 </rss>

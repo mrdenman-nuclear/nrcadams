@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Sat, 03 Oct 2026 01:44:35 GMT</pubDate>
-		<lastBuildDate>Sat, 03 Oct 2026 01:44:35 GMT</lastBuildDate>
+		<pubDate>Mon, 05 Oct 2026 21:25:16 GMT</pubDate>
+		<lastBuildDate>Mon, 05 Oct 2026 21:25:16 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Exam Rescheduling Email No. 50/083-26-01, University of Florida (Redacted PII)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26048A053</link>
+			<description>E-Mail, License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/NRR/DANU/UNPO</author>
+			<pubDate>2026-10-05 12:16:00</pubDate>
+		</item>
+	</channel>
 </rss>
