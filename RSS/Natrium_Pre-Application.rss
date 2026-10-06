@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Oct 2026 02:06:04 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Oct 2026 02:06:04 GMT</lastBuildDate>
+		<pubDate>Tue, 06 Oct 2026 19:22:31 GMT</pubDate>
+		<lastBuildDate>Tue, 06 Oct 2026 19:22:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Fee Exemption Request from TerraPower for NRC activities associated with the Kemmerer Unit 1 Operating License Application review</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26278A328</link>
+			<description>Exemption from NRC Requirements, Letter</description>
+			<author>TerraPower, LLC</author>
+			<pubDate>2026-10-06 15:04:00</pubDate>
+		</item>
+	</channel>
 </rss>

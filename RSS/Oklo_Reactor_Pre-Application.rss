@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Oct 2026 02:06:05 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Oct 2026 02:06:05 GMT</lastBuildDate>
+		<pubDate>Tue, 06 Oct 2026 19:22:32 GMT</pubDate>
+		<lastBuildDate>Tue, 06 Oct 2026 19:22:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Oklo, Inc - Topical Report AUR-PDD-001, "Nuclear Quality Assurance Program (N-QAP) for Aurora Powerhouses," Revision 0 Audit Plan (EPID NO. L-2026-TOP-0024)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26222A013</link>
+			<description>Audit Plan</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
+			<pubDate>2026-10-06 12:16:00</pubDate>
+		</item>
+		<item>
+			<title>NON-PROP - Oklo, Inc. - Topical Report AUR-PDD-001, "Nuclear Quality Assurance Program (N-QAP) for Aurora Powerhouses," Revision 0 Audit Plan Enclosure (EPID NO. L-2026-TOP-0024)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26251A175</link>
+			<description>- No Document Type Applies</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
+			<pubDate>2026-10-06 12:15:00</pubDate>
+		</item>
+	</channel>
 </rss>

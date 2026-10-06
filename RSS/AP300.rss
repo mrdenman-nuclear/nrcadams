@@ -5,11 +5,46 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Oct 2026 02:06:04 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Oct 2026 02:06:04 GMT</lastBuildDate>
+		<pubDate>Tue, 06 Oct 2026 19:22:31 GMT</pubDate>
+		<lastBuildDate>Tue, 06 Oct 2026 19:22:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Enclosure 1: Affidavit AW-26-063</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26258A055</link>
+			<description>Legal-Affidavit</description>
+			<author>Westinghouse Electric Co, LLC</author>
+			<pubDate>2026-10-06 12:15:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 7: SAPP-GW-GLR-024NP, Revision 0 "AP300 SMR Human Factors Engineering Operating Experience Review Topical Report"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26258A061</link>
+			<description>Topical Report</description>
+			<author>Westinghouse Electric Co, LLC</author>
+			<pubDate>2026-10-06 12:15:00</pubDate>
+		</item>
+		<item>
+			<title>Submittal of the Westinghouse AP300 Small Modular Reactor Human Factors Engineering Topical Reports (SAPP-GW-GLR-022/NP, SAPP-GW-GLR-023/NP, and SAPP-GW-GLR-024/NP)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26258A054</link>
+			<description>Letter</description>
+			<author>Westinghouse Electric Co, LLC</author>
+			<pubDate>2026-10-06 12:15:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 3: SAPP-GW-GLR-022NP, Revision 0 "AP300 SMR Human Factors Engineering Program Plan Framework Topical Report"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26258A057</link>
+			<description>Topical Report</description>
+			<author>Westinghouse Electric Co, LLC</author>
+			<pubDate>2026-10-06 12:15:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 5: SAPP-GW-GLR-023NP, Revision 0 "AP300 SMR Human Factors Engineering Verification and Validation Methodology Topical Report"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26258A059</link>
+			<description>Topical Report</description>
+			<author>Westinghouse Electric Co, LLC</author>
+			<pubDate>2026-10-06 12:15:00</pubDate>
+		</item>
+	</channel>
 </rss>

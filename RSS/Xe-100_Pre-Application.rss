@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Oct 2026 02:06:04 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Oct 2026 02:06:04 GMT</lastBuildDate>
+		<pubDate>Tue, 06 Oct 2026 19:22:31 GMT</pubDate>
+		<lastBuildDate>Tue, 06 Oct 2026 19:22:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>NRC 897 - Withholding Determination for Xe-100 Licensing Report on Plume Exposure Pathway Emergency Planning Zone Sizing Methodology Approved Version</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26274A013</link>
+			<description>Topical Report Evaluation</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
+			<pubDate>2026-10-06 18:14:00</pubDate>
+		</item>
+		<item>
+			<title>E-mail - Withholding Determination for Xe-100 Licensing Report on Plume Exposure Pathway Emergency Planning Zone Sizing Methodology Approved Version</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26274A012</link>
+			<description>E-Mail</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
+			<pubDate>2026-10-06 18:14:00</pubDate>
+		</item>
+	</channel>
 </rss>
