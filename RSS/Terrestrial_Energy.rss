@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 05 Oct 2026 21:25:24 GMT</pubDate>
-		<lastBuildDate>Mon, 05 Oct 2026 21:25:24 GMT</lastBuildDate>
+		<pubDate>Tue, 06 Oct 2026 02:06:14 GMT</pubDate>
+		<lastBuildDate>Tue, 06 Oct 2026 02:06:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -136,13 +136,6 @@
 			<description>Report, Technical</description>
 			<author>Long Mott Energy, LLC</author>
 			<pubDate>2026-09-22 19:08:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - 2026-09-16 Eden Information Needs for NRC</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26260A283</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/OAR/DDLP/DARP/ARERB</author>
-			<pubDate>2026-09-21 15:31:00</pubDate>
 		</item>
 	</channel>
 </rss>
