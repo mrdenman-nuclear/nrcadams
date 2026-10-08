@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Oct 2026 23:38:24 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Oct 2026 23:38:24 GMT</lastBuildDate>
+		<pubDate>Thu, 08 Oct 2026 19:44:05 GMT</pubDate>
+		<lastBuildDate>Thu, 08 Oct 2026 19:44:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 2: "Xe-100 Licensing Topical Report Plume Exposure Pathway Emergency Planning Zone Sizing Methodology," Revision 2 Accepted Version (Public)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075E859</link>
+			<description>Topical Report</description>
+			<author>X-Energy, LLC</author>
+			<pubDate>2026-10-07 17:08:00</pubDate>
+		</item>
 		<item>
 			<title>Tennessee Valley Authority - License Amendment Request to Adopt Emergency Action Level Schemes Pursuant to NEI 99-01, Revision 7, "Development of Emergency Action Levels for Non-Passive Reactors" (BFN-TS-564, SQN-26-02, and WBN-TS-26-02)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26271A052</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26266A240</link>
 			<description>Letter, License-Operator, Part 55 Examination Related Material, Schedule and Calendars</description>
 			<author>Pacific Gas and Electric Co</author>
-			<pubDate>2026-10-01 12:20:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG/CP-0152, Vol.12, "Proceedings of the Fifteenth NRC/ASME OM Code Symposium, July 28-30, 2025"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26273A321</link>
-			<description>NUREG</description>
-			<author>American Society of Mechanical Engineers (ASME), NRC/NRR</author>
 			<pubDate>2026-10-01 12:20:00</pubDate>
 		</item>
 	</channel>

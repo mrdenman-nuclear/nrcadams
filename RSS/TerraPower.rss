@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Oct 2026 23:38:18 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Oct 2026 23:38:18 GMT</lastBuildDate>
+		<pubDate>Thu, 08 Oct 2026 19:44:01 GMT</pubDate>
+		<lastBuildDate>Thu, 08 Oct 2026 19:44:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Response to NRC Staff Feedback on ARC-100 SMR Seismic Isolation Meeting on February 18, 2026 Related to Preliminary SSI Analysis Studies</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26273A000</link>
+			<description>Slides and Viewgraphs</description>
+			<author>ARC Clean Technology, Ghiocel Predictive Technologies, Inc</author>
+			<pubDate>2026-10-08 12:10:00</pubDate>
+		</item>
 		<item>
 			<title>Allegations Open Aug 2026</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26275A132</link>
@@ -94,34 +101,6 @@
 			<description>Rulemaking-Comment</description>
 			<author>Nuclear Free Hawaii</author>
 			<pubDate>2026-09-28 18:51:00</pubDate>
-		</item>
-		<item>
-			<title>Understanding Functional Containment Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26265A234</link>
-			<description>Report, Technical</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-09-23 19:25:00</pubDate>
-		</item>
-		<item>
-			<title>Blue Energy - Enclosure 2, BE-POV-LCNRG-LIC-5009, Rev. 0, Construction Permit Application Part 1 Blue Energy Center - Port of Victoria Nuclear, Unit 1: Preliminary Safety Analysis Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26259A138</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Blue Energy</author>
-			<pubDate>2026-09-23 12:11:00</pubDate>
-		</item>
-		<item>
-			<title>Blue Energy - BE-POV-LCNRG-LIC-5004-NP, Rev. 0, "Exemption Request from Activities Defined as Construction in 10 CFR 50.10(a)(1)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26258A357</link>
-			<description>Report, Technical</description>
-			<author>Blue Energy</author>
-			<pubDate>2026-09-23 12:10:00</pubDate>
-		</item>
-		<item>
-			<title>Blue Energy - Enclosure 9, BE-POV-LCNRG-LIC-5001-NP, Rev. 0, Limited Work Authorization Request and General and Financial Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26258A347</link>
-			<description>Financial Assurance Document</description>
-			<author>Blue Energy</author>
-			<pubDate>2026-09-23 12:10:00</pubDate>
 		</item>
 	</channel>
 </rss>

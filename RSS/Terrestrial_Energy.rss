@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Oct 2026 23:38:18 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Oct 2026 23:38:18 GMT</lastBuildDate>
+		<pubDate>Thu, 08 Oct 2026 19:44:01 GMT</pubDate>
+		<lastBuildDate>Thu, 08 Oct 2026 19:44:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Responsive Records FOIA-2025-000530 - Redacted</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26281A269</link>
+			<description>- No Document Type Applies</description>
+			<author>NRC/OCIO</author>
+			<pubDate>2026-10-08 16:37:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2: Duke Energy Carolinas, LLC, Belews Creek, NC Site, Early Site Permit Application, Revision 2 (Redacted Public Version). Part 2 of 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26274A443</link>
+			<description>License-Application for Early Site Permit (ESP)</description>
+			<author>Duke Energy Carolinas, LLC</author>
+			<pubDate>2026-10-07 18:07:00</pubDate>
+		</item>
+		<item>
+			<title>Nine Mile - NRC Email Information Submittal to Seneca Nation</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26280A034</link>
+			<description>E-Mail</description>
+			<author>NRC/NMSS/DDFSTE/DSFST/ERMB</author>
+			<pubDate>2026-10-07 13:35:00</pubDate>
+		</item>
 		<item>
 			<title>COMIDA Food Chain Theory Manual</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26243A355</link>
@@ -129,34 +150,6 @@
 			<description>Environmental Monitoring Report</description>
 			<author>US Dept of Commerce, National Marine Fisheries Service</author>
 			<pubDate>2026-09-25 12:11:00</pubDate>
-		</item>
-		<item>
-			<title>Blue Energy - Enclosure 3, BE-POV-LCNRG-LIC-5000, Rev. 0, Construction Permit Application Part 1 Blue Energy Center - Port of Victoria Limited Work Authorization Environmental Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26258A350</link>
-			<description>Environmental Report</description>
-			<author>Blue Energy</author>
-			<pubDate>2026-09-23 12:11:00</pubDate>
-		</item>
-		<item>
-			<title>Blue Energy - Enclosure 10, BE-POV-LCNRG-LIC-5006-NP, Rev. 0, Exemption Request to Allow Installation of Permanent In-Ground Support Structures Required for Safe Reactor Building Shaft Excavation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26258A348</link>
-			<description>Report, Technical</description>
-			<author>Blue Energy</author>
-			<pubDate>2026-09-23 12:11:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Energy, LLC, Rev. 1, Construction Permit Application, Part III, Environmental Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26261A425</link>
-			<description>Environmental Report</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2026-09-22 19:08:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Energy, LLC, Rev. 1, Construction Permit Application, Part VI, Supplemental Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26261A428</link>
-			<description>Report, Technical</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2026-09-22 19:08:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 06 Oct 2026 23:38:08 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Oct 2026 23:38:08 GMT</lastBuildDate>
+		<pubDate>Thu, 08 Oct 2026 19:43:52 GMT</pubDate>
+		<lastBuildDate>Thu, 08 Oct 2026 19:43:52 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Examination Report Letter No. 50-607/OL-26-01, The Regents of the University of California</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26155A185</link>
+			<description>License-Operator Examination Report (Non-Power Reactors Only), License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/NRR/DDLP/DLP2/NPUFB</author>
+			<pubDate>2026-10-07 20:14:00</pubDate>
+		</item>
+		<item>
+			<title>Examination Results Letter No. 50-607/OL-26-01, The Regents of the University of California</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26155A186</link>
+			<description>License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/NRR/DDLP/DLP2/NPUFB</author>
+			<pubDate>2026-10-07 20:14:00</pubDate>
+		</item>
+	</channel>
 </rss>
