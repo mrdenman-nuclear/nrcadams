@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 09 Oct 2026 00:12:02 GMT</pubDate>
-		<lastBuildDate>Fri, 09 Oct 2026 00:12:02 GMT</lastBuildDate>
+		<pubDate>Fri, 09 Oct 2026 19:18:33 GMT</pubDate>
+		<lastBuildDate>Fri, 09 Oct 2026 19:18:33 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NUREG/CR-1998, "RELAP4/MOD7, A Best Estimate Computer Program to Calculate Thermal and Hydraulic Phenomena in a Nuclear Reactor or Related System."</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML092360066</link>
+			<description>NUREG</description>
+			<author>EGandG Idaho, Inc, Idaho National Engineering Lab (INEL), NRC/RES, US Dept of Energy, Idaho Operations Office</author>
+			<pubDate>2026-10-09 15:17:00</pubDate>
+		</item>
 		<item>
 			<title>2018/04/24 Clinch River ESP - [External_Sender] FW: SER 2.1, 3.5, 15.0 Comments</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML18137A360</link>
@@ -178,13 +185,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC/NRR</author>
 			<pubDate>2026-10-07 13:35:00</pubDate>
-		</item>
-		<item>
-			<title>Tennessee Valley Authority - License Amendment Request to Adopt Emergency Action Level Schemes Pursuant to NEI 99-01, Revision 7, "Development of Emergency Action Levels for Non-Passive Reactors" (BFN-TS-564, SQN-26-02, and WBN-TS-26-02)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26271A052</link>
-			<description>Emergency Preparedness-Emergency Plan, Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-10-06 19:33:00</pubDate>
 		</item>
 		<item>
 			<title>Tennessee Valley Authority - License Amendment Request to Adopt Emergency Action Level Schemes Pursuant to NEI 99-01, Revision 7, "Development of Emergency Action Levels for Non-Passive Reactors" (BFN-TS-564, SQN-26-02, and WBN-TS-26-02)</title>
