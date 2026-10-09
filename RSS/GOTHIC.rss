@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 08 Oct 2026 19:44:03 GMT</pubDate>
-		<lastBuildDate>Thu, 08 Oct 2026 19:44:03 GMT</lastBuildDate>
+		<pubDate>Fri, 09 Oct 2026 00:12:03 GMT</pubDate>
+		<lastBuildDate>Fri, 09 Oct 2026 00:12:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,27 +38,6 @@
 			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2026-10-05 19:05:00</pubDate>
-		</item>
-		<item>
-			<title>St. Lucie, Unit 1 - Updated Final Safety Analysis Report Amendment No. 34(a), Chapter 6, Engineered Safety Features</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26240A076</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Florida Power and Light Co</author>
-			<pubDate>2026-10-01 14:05:00</pubDate>
-		</item>
-		<item>
-			<title>St. Lucie, Unit 1 - Updated Final Safety Analysis Report Amendment No. 34(a), Chapter 11, Radioactive Waste Management System</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26240A125</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Florida Power and Light Co</author>
-			<pubDate>2026-10-01 14:05:00</pubDate>
-		</item>
-		<item>
-			<title>St. Lucie, Unit 1 - Updated Final Safety Analysis Report Amendment No. 34(a), Chapter 15, Section 15.3, Postulated Accidents (Class 2 Accidents)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26240A166</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Florida Power and Light Co</author>
-			<pubDate>2026-10-01 14:05:00</pubDate>
 		</item>
 	</channel>
 </rss>
