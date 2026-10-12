@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 09 Oct 2026 23:51:42 GMT</pubDate>
-		<lastBuildDate>Fri, 09 Oct 2026 23:51:42 GMT</lastBuildDate>
+		<pubDate>Mon, 12 Oct 2026 22:01:43 GMT</pubDate>
+		<lastBuildDate>Mon, 12 Oct 2026 22:01:43 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,13 +24,6 @@
 			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2026-10-05 19:05:00</pubDate>
-		</item>
-		<item>
-			<title>Confirmatory Information Regarding 95th Percentile Consequences for the Long Mott Generating Station Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26260C204</link>
-			<description>Letter</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2026-09-25 12:11:00</pubDate>
 		</item>
 	</channel>
 </rss>
