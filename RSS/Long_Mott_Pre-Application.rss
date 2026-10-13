@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 13 Oct 2026 02:56:32 GMT</pubDate>
-		<lastBuildDate>Tue, 13 Oct 2026 02:56:32 GMT</lastBuildDate>
+		<pubDate>Tue, 13 Oct 2026 20:07:59 GMT</pubDate>
+		<lastBuildDate>Tue, 13 Oct 2026 20:07:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Submittal of Letter from the Department of Energy to Long Mott Energy, LLC Confirmation of Active and Good Faith Negotiations for Disposal Contract with Long Mott Energy, LLC for Project Long Mott, X-energy Xe-100 Reactors, to be located at Dow Chemical</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26275A166</link>
+			<description>Letter</description>
+			<author>Long Mott Energy, LLC</author>
+			<pubDate>2026-10-13 12:24:00</pubDate>
+		</item>
+		<item>
+			<title>Confirmation of Active and Good Faith Negotiations for Disposal Contract with Long Mott Energy, LLC for Project Long Mott, X-energy Xe-100 Reactors, to be located at Dow Chemical Company's Seadrift, Texas facility</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26275A167</link>
+			<description>Letter</description>
+			<author>US Dept of Energy, Office of General Counsel</author>
+			<pubDate>2026-10-13 12:24:00</pubDate>
+		</item>
+	</channel>
 </rss>
