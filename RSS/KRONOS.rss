@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 13 Oct 2026 20:07:59 GMT</pubDate>
-		<lastBuildDate>Tue, 13 Oct 2026 20:07:59 GMT</lastBuildDate>
+		<pubDate>Wed, 14 Oct 2026 00:08:47 GMT</pubDate>
+		<lastBuildDate>Wed, 14 Oct 2026 00:08:47 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -40,20 +40,6 @@
 			<pubDate>2026-10-13 12:24:00</pubDate>
 		</item>
 		<item>
-			<title>University of Illinois Urbana-Champaign - Transmittal of General Audit Questions for PSAR Chapter 6</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26279A225</link>
-			<description>E-Mail</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
-			<pubDate>2026-10-09 11:56:00</pubDate>
-		</item>
-		<item>
-			<title>University of Illinois Urbana-Champaign - Transmittal of General Audit Questions for PSAR Chapter 13</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26279A289</link>
-			<description>E-Mail</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
-			<pubDate>2026-10-09 11:56:00</pubDate>
-		</item>
-		<item>
 			<title>University of Illinois Urbana-Champaign - Email Transmittal of General Audit Questions for PSAR Chapter 14</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26279A245</link>
 			<description>E-Mail</description>
@@ -64,6 +50,20 @@
 			<title>U. of I. CP Safety Review General Audit Questions - Chapter 14</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26279A248</link>
 			<description>Audit Plan, Request for Additional Information (RAI)</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
+			<pubDate>2026-10-09 11:56:00</pubDate>
+		</item>
+		<item>
+			<title>University of Illinois Urbana-Champaign - Transmittal of General Audit Questions for PSAR Chapter 6</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26279A225</link>
+			<description>E-Mail</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
+			<pubDate>2026-10-09 11:56:00</pubDate>
+		</item>
+		<item>
+			<title>University of Illinois Urbana-Champaign - Transmittal of General Audit Questions for PSAR Chapter 13</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26279A289</link>
+			<description>E-Mail</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
 			<pubDate>2026-10-09 11:56:00</pubDate>
 		</item>
@@ -138,15 +138,15 @@
 			<pubDate>2026-10-06 12:16:00</pubDate>
 		</item>
 		<item>
-			<title>University of Illinois Urbana-Champaign - Transmittal of General Audit Questions for PSAR Sections 9.1, 9.3, and 9.7</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26276A009</link>
+			<title>University of Illinois Urbana-Champaign - Transmittal of General Audit Question for PSAR Section 4.4.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26276A006</link>
 			<description>E-Mail</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
 			<pubDate>2026-10-05 15:24:00</pubDate>
 		</item>
 		<item>
-			<title>University of Illinois Urbana-Champaign - Transmittal of General Audit Question for PSAR Section 4.4.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26276A006</link>
+			<title>University of Illinois Urbana-Champaign - Transmittal of General Audit Questions for PSAR Sections 9.1, 9.3, and 9.7</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26276A009</link>
 			<description>E-Mail</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
 			<pubDate>2026-10-05 15:24:00</pubDate>
