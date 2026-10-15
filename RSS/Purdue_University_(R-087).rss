@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 15 Oct 2026 01:15:40 GMT</pubDate>
-		<lastBuildDate>Thu, 15 Oct 2026 01:15:40 GMT</lastBuildDate>
+		<pubDate>Thu, 15 Oct 2026 18:02:41 GMT</pubDate>
+		<lastBuildDate>Thu, 15 Oct 2026 18:02:41 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Examination Confirmation Letter No. 50-182/OL-27-01, Purdue University</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26265A355</link>
+			<description>License-Operator, Part 55 Examination Related Material</description>
+			<author>NRC/NRR/DDLP/DLP2/NPUFB</author>
+			<pubDate>2026-10-15 12:15:00</pubDate>
+		</item>
+	</channel>
 </rss>
