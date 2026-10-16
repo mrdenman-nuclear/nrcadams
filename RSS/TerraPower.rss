@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 15 Oct 2026 23:40:04 GMT</pubDate>
-		<lastBuildDate>Thu, 15 Oct 2026 23:40:04 GMT</lastBuildDate>
+		<pubDate>Fri, 16 Oct 2026 20:32:21 GMT</pubDate>
+		<lastBuildDate>Fri, 16 Oct 2026 20:32:21 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -108,20 +108,6 @@
 			<description>Environmental Report</description>
 			<author>General Matter, Inc</author>
 			<pubDate>2026-10-05 12:16:00</pubDate>
-		</item>
-		<item>
-			<title>Comment (4) of Ian Gifford on Draft Regulatory Guide: Comprehensive Risk Metrics and Associated Risk Performance Objectives for Commercial Nuclear Plants</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26267A079</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>TerraPower, LLC</author>
-			<pubDate>2026-10-01 12:20:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG/CP-0152, Vol.12, "Proceedings of the Fifteenth NRC/ASME OM Code Symposium, July 28-30, 2025"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26273A321</link>
-			<description>NUREG</description>
-			<author>American Society of Mechanical Engineers (ASME), NRC/NRR</author>
-			<pubDate>2026-10-01 12:20:00</pubDate>
 		</item>
 	</channel>
 </rss>

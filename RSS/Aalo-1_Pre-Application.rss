@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 15 Oct 2026 23:39:57 GMT</pubDate>
-		<lastBuildDate>Thu, 15 Oct 2026 23:39:57 GMT</lastBuildDate>
+		<pubDate>Fri, 16 Oct 2026 20:32:14 GMT</pubDate>
+		<lastBuildDate>Fri, 16 Oct 2026 20:32:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Letter - ESP Methodology White Paper Feedback</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26272A315</link>
+			<description>Letter</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
+			<pubDate>2026-10-16 12:05:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 2 - ESP Methodology White Paper Feedback</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26272A317</link>
+			<description>Technical Paper</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
+			<pubDate>2026-10-16 12:05:00</pubDate>
+		</item>
+	</channel>
 </rss>

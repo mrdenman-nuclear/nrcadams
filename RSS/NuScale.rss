@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 15 Oct 2026 23:40:04 GMT</pubDate>
-		<lastBuildDate>Thu, 15 Oct 2026 23:40:04 GMT</lastBuildDate>
+		<pubDate>Fri, 16 Oct 2026 20:32:21 GMT</pubDate>
+		<lastBuildDate>Fri, 16 Oct 2026 20:32:21 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>October 21, 2026 Digital Instrumentation and Controls Operating Reactor Lessons Learned Public Meeting Presentations</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26289A126</link>
+			<description>Meeting Agenda, Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
+			<author>NRC/NRR/DDLP/DLP1</author>
+			<pubDate>2026-10-16 20:18:00</pubDate>
+		</item>
+		<item>
+			<title>Day 2 Session B-D2-B-4, NPH Workshop, B. Haley: External Event Considerations in SMR RA</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26286A166</link>
+			<description>Slides and Viewgraphs, Meeting Briefing Package/Handouts, Conference/Symposium/Workshop Paper</description>
+			<author>NuScale Power, Inc</author>
+			<pubDate>2026-10-16 16:26:00</pubDate>
+		</item>
+		<item>
+			<title>Day 2-Session A D2-A-8 GWM Applications_Graizer_Nie - v2.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26286A112</link>
+			<description>Slides and Viewgraphs, Meeting Briefing Package/Handouts, Conference/Symposium/Workshop Paper</description>
+			<author>NRC/RES, US Dept of Energy (DOE)</author>
+			<pubDate>2026-10-16 16:26:00</pubDate>
+		</item>
+		<item>
+			<title>Day 2 Session B-D2-B-2, NPH Workshop, M. Kumar: Integrated Extreme Event Analysis for MHRA and NF Protection</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26286A164</link>
+			<description>Slides and Viewgraphs, Meeting Briefing Package/Handouts, Conference/Symposium/Workshop Paper</description>
+			<author>Vysus Group</author>
+			<pubDate>2026-10-16 16:26:00</pubDate>
+		</item>
 		<item>
 			<title>SECY-26-0123: Weekly Information Report Week Ending September 25, 2026</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26282B084</link>
@@ -73,13 +101,6 @@
 			<description>Environmental Report</description>
 			<author>General Matter, Inc</author>
 			<pubDate>2026-10-05 12:16:00</pubDate>
-		</item>
-		<item>
-			<title>NUREG/CP-0152, Vol.12, "Proceedings of the Fifteenth NRC/ASME OM Code Symposium, July 28-30, 2025"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26273A321</link>
-			<description>NUREG</description>
-			<author>American Society of Mechanical Engineers (ASME), NRC/NRR</author>
-			<pubDate>2026-10-01 12:20:00</pubDate>
 		</item>
 	</channel>
 </rss>

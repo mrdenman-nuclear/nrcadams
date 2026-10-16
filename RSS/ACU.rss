@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 15 Oct 2026 23:40:04 GMT</pubDate>
-		<lastBuildDate>Thu, 15 Oct 2026 23:40:04 GMT</lastBuildDate>
+		<pubDate>Fri, 16 Oct 2026 20:32:20 GMT</pubDate>
+		<lastBuildDate>Fri, 16 Oct 2026 20:32:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Inspection Report, Letter, Notice of Violation</description>
 			<author>NRC/NMSS/DDCNMI/DFMP/ILB2</author>
 			<pubDate>2026-10-13 12:25:00</pubDate>
-		</item>
-		<item>
-			<title>St. Lucie, Unit 1 - Updated Final Safety Analysis Report Amendment No. 34(a), Chapter 8, Electric Power</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26240A090</link>
-			<description>Updated Final Safety Analysis Report (UFSAR)</description>
-			<author>Florida Power and Light Co</author>
-			<pubDate>2026-10-01 14:05:00</pubDate>
 		</item>
 	</channel>
 </rss>
