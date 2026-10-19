@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 16 Oct 2026 23:17:51 GMT</pubDate>
-		<lastBuildDate>Fri, 16 Oct 2026 23:17:51 GMT</lastBuildDate>
+		<pubDate>Mon, 19 Oct 2026 19:41:11 GMT</pubDate>
+		<lastBuildDate>Mon, 19 Oct 2026 19:41:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 2: SSI LTR Audit Question Responses for Docketing (Non-Proprietary)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26281A293</link>
+			<description>Response to Request for Additional Information (RAI), Topical Report</description>
+			<author>Holtec International SMR, LLC, SMR, LLC</author>
+			<pubDate>2026-10-19 12:05:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 3: Affidavit Pursuant to 10 CFR 2.390 to Withhold Information from Public Disclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26281A294</link>
+			<description>Legal-Affidavit</description>
+			<author>Holtec International SMR, LLC, SMR, LLC</author>
+			<pubDate>2026-10-19 12:05:00</pubDate>
+		</item>
+		<item>
+			<title>SMR, LLC. A Holtec International Company, Letter Regarding Submittal of the SMR-300 Time-Domain LS-DYNA Soil Structure Interaction Analysis Methodology Licensing Topical Report Audit Question Responses Necessary for Docket Submission (Project 99902049)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26281A291</link>
+			<description>Letter</description>
+			<author>Holtec International SMR, LLC, SMR, LLC</author>
+			<pubDate>2026-10-19 12:05:00</pubDate>
+		</item>
 		<item>
 			<title>Email to Holtec Subject Re; Request for Withholding Determination from Public Disclosure - Revision 1 of CSS Structures Licensing Topical Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26287A028</link>
@@ -101,13 +122,6 @@
 			<description>E-Mail</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB2</author>
 			<pubDate>2026-10-05 15:24:00</pubDate>
-		</item>
-		<item>
-			<title>Email to Holtec Subject "Request for Withholding Information from Public Disclosure - Holtec Topical Report HI-2251837 Rev. 1 and Enclosures 3 and 4"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26272A312</link>
-			<description>E-Mail</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB2</author>
-			<pubDate>2026-10-02 12:14:00</pubDate>
 		</item>
 	</channel>
 </rss>

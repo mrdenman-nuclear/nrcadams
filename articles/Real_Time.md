@@ -1,7 +1,7 @@
 # Last Week in Dockets
 
 This page is updated Monday through Friday, hourly between 9AM ET and 5
-PM ET. The last update was at 2026-10-16 19:18:06.053002 ET.
+PM ET. The last update was at 2026-10-19 15:41:25.335698 ET.
 
 ``` r
 
@@ -10,8 +10,12 @@ last_week_in_dockets <- nrcadams::docket_codex |>
   nrcadams::search_docket(days_back = 7) |>
   dplyr::left_join(nrcadams::docket_codex) |>
   dplyr::filter(!is.na(Project))
+#> Warning: There was 1 warning in `dplyr::mutate()`.
+#> i In argument: `DocketNumber = as.double(DocketNumber)`.
+#> Caused by warning:
+#> ! NAs introduced by coercion
 #> 
-#>  This search returned: 95 files.
+#>  This search returned: 94 files.
 #> Joining with `by = join_by(DocketNumber)`
 
 build_html_table <- function(docket_tbl, LWR) {
