@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 20 Oct 2026 18:20:11 GMT</pubDate>
-		<lastBuildDate>Tue, 20 Oct 2026 18:20:11 GMT</lastBuildDate>
+		<pubDate>Tue, 20 Oct 2026 22:06:05 GMT</pubDate>
+		<lastBuildDate>Tue, 20 Oct 2026 22:06:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 2: NEDO-34403, Revision 1, BWRX-300 Expedited Construction of Certain Structures, Systems, and Components Licensing Topical Report, GVH - Non-Proprietary Information - Public</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26289A158</link>
+			<description>Topical Report</description>
+			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
+			<pubDate>2026-10-20 18:39:00</pubDate>
+		</item>
+		<item>
+			<title>Submittal of NEDC-34403P/NEDO-34403, Revision 1, BWRX-300 Expedited Construction of Certain Structures, Systems, and Components Licensing Topical Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26289A156</link>
+			<description>Letter</description>
+			<author>GE Hitachi Nuclear Energy Americas, LLC</author>
+			<pubDate>2026-10-20 18:39:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 3: Affidavit, GVH - Non-Proprietary Information</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26289A159</link>
+			<description>Legal-Affidavit</description>
+			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
+			<pubDate>2026-10-20 18:39:00</pubDate>
+		</item>
 		<item>
 			<title>Long Mott Energy, LLC, Rev. 1, Construction Permit Application, Part II, Preliminary Safety Analysis Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26261A423</link>
@@ -199,27 +220,6 @@
 			<description>Slides and Viewgraphs, Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts</description>
 			<author>Univ of Alabama</author>
 			<pubDate>2026-10-16 12:05:00</pubDate>
-		</item>
-		<item>
-			<title>FRN - Pioneer Units 1 and 2 Limited Work Authorization Application - Third Notice</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26028A022</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/NRR/DNRL/NLIB</author>
-			<pubDate>2026-10-15 21:55:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure IV: Pioneer Units 1 and 2 Preliminary Safety Analysis Report R1 Redacted Version (Non-Proprietary)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26272A336</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2026-10-15 15:05:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure VI: Exemption Requests R 1 Redacted Version (Non-Proprietary)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26272A338</link>
-			<description>Exemption from NRC Requirements</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2026-10-15 15:05:00</pubDate>
 		</item>
 	</channel>
 </rss>
