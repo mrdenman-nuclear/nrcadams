@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 19 Oct 2026 23:20:28 GMT</pubDate>
-		<lastBuildDate>Mon, 19 Oct 2026 23:20:28 GMT</lastBuildDate>
+		<pubDate>Tue, 20 Oct 2026 18:20:18 GMT</pubDate>
+		<lastBuildDate>Tue, 20 Oct 2026 18:20:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Report, Technical</description>
 			<author>AMPERA, Inc, North Carolina State Univ, Univ of California - Berkeley, Univ of Illinois - Urbana - Champaign</author>
 			<pubDate>2026-10-19 12:05:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Safety Evaluation Report Model No. 9979 Package Certificate of Compliance (CoC) No. 9979, Rev. 3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26211A202</link>
-			<description>Safety Evaluation Report</description>
-			<author>NRC/NMSS/DDFSTE/DSFST/STMLB</author>
-			<pubDate>2026-10-05 12:16:00</pubDate>
 		</item>
 	</channel>
 </rss>

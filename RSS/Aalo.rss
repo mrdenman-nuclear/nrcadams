@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 19 Oct 2026 23:20:28 GMT</pubDate>
-		<lastBuildDate>Mon, 19 Oct 2026 23:20:28 GMT</lastBuildDate>
+		<pubDate>Tue, 20 Oct 2026 18:20:18 GMT</pubDate>
+		<lastBuildDate>Tue, 20 Oct 2026 18:20:18 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description></description>
 			<author></author>
 			<pubDate>2026-10-16 12:04:00</pubDate>
-		</item>
-		<item>
-			<title>Request for Preapplication Readiness Assessment of the Aalo Atomics RELLIS Early Site Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26268A000</link>
-			<description>Letter</description>
-			<author>Aalo Holdings, Inc</author>
-			<pubDate>2026-10-05 12:16:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 01 of 14, GMPEF ER (Public).</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26273A150</link>
-			<description>Environmental Report</description>
-			<author>General Matter, Inc</author>
-			<pubDate>2026-10-05 12:16:00</pubDate>
 		</item>
 	</channel>
 </rss>

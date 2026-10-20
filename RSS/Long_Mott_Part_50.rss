@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 19 Oct 2026 23:20:20 GMT</pubDate>
-		<lastBuildDate>Mon, 19 Oct 2026 23:20:20 GMT</lastBuildDate>
+		<pubDate>Tue, 20 Oct 2026 18:20:10 GMT</pubDate>
+		<lastBuildDate>Tue, 20 Oct 2026 18:20:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Long Mott Energy, LLC, Rev. 1, Construction Permit Application, Part II, Preliminary Safety Analysis Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26261A423</link>
+			<description>Preliminary Safety Analysis Report (PSAR)</description>
+			<author>Long Mott Energy, LLC</author>
+			<pubDate>2026-10-20 13:31:00</pubDate>
+		</item>
 		<item>
 			<title>2026/10/06 - Comment (4) E-mail regarding LMGS CP Hearing</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26281A233</link>
@@ -26,9 +33,9 @@
 			<pubDate>2026-10-19 12:05:00</pubDate>
 		</item>
 		<item>
-			<title>Report on the Safety Aspects of the Long Mott Generating Station Construction Permit Application</title>
+			<title>LTR-26-0245 Gregory Halnon, Chairman, NRC/ACRS, Letter re: Report on the Safety Aspects of the Long Mott Generating Station Construction Permit Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26289A141</link>
-			<description>Letter, Report, Miscellaneous</description>
+			<description>- No Document Type Applies</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2026-10-16 20:18:00</pubDate>
 		</item>
@@ -96,16 +103,16 @@
 			<pubDate>2026-10-13 14:02:00</pubDate>
 		</item>
 		<item>
-			<title>(PUBLIC) DRAFT SE Chapter 12 - LMGS CPA - Initial Test Program</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26281A402</link>
-			<description>Safety Evaluation</description>
+			<title>(PUBLIC) DRAFT SE Chapter 3 - LMGS CPA - Methodologies Analyses and Licensing Basis Events</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26282B004</link>
+			<description>Graphics incl Charts and Tables, Safety Evaluation</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
 			<pubDate>2026-10-13 14:02:00</pubDate>
 		</item>
 		<item>
-			<title>(PUBLIC) DRAFT SE Chapter 3 - LMGS CPA - Methodologies Analyses and Licensing Basis Events</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26282B004</link>
-			<description>Graphics incl Charts and Tables, Safety Evaluation</description>
+			<title>(PUBLIC) DRAFT SE Chapter 12 - LMGS CPA - Initial Test Program</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26281A402</link>
+			<description>Safety Evaluation</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
 			<pubDate>2026-10-13 14:02:00</pubDate>
 		</item>
@@ -185,13 +192,6 @@
 			<description>Letter</description>
 			<author>NRC/OAR/DDES/DARE/AREB1</author>
 			<pubDate>2026-10-06 12:16:00</pubDate>
-		</item>
-		<item>
-			<title>Transcript of the Advisory Committee on Reactor Safeguards - Long Mott Generating Station Xe-100 Power Reactor Construction Permit Application Subcommittee Meeting, September 15, 2026, Pages 1-291 (Open)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26278A322</link>
-			<description>Meeting Briefing Package/Handouts, Meeting Transcript, Slides and Viewgraphs</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-10-05 19:05:00</pubDate>
 		</item>
 	</channel>
 </rss>
