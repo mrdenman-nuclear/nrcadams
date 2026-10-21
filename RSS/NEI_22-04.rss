@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 21 Oct 2026 01:18:38 GMT</pubDate>
-		<lastBuildDate>Wed, 21 Oct 2026 01:18:38 GMT</lastBuildDate>
+		<pubDate>Wed, 21 Oct 2026 18:26:25 GMT</pubDate>
+		<lastBuildDate>Wed, 21 Oct 2026 18:26:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>OEDO-25-00290 2.206 Petition - Palisades Restart - Mr. Alan Blind - Initial Assessment (EPID L-2025-CRS-0000)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26282B022</link>
+			<description>2.206 Petition, E-Mail</description>
+			<author>NRC/NRR/DDLP/DLP1/ORLB2</author>
+			<pubDate>2026-10-21 17:22:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Regulatory Update: NUPIC General Membership Meeting October 21 & 22, 2026 Minneapolis MN</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26294A132</link>
+			<description>Meeting Briefing Package/Handouts</description>
+			<author>NRC/CNRI/DDII/DRIS/VQAB</author>
+			<pubDate>2026-10-21 16:08:00</pubDate>
+		</item>
 		<item>
 			<title>South Texas Project, Unit 1, Current Facility Operating License NPF-76, Tech Specs, Revised 10/20/2026.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML053140360</link>
@@ -206,20 +220,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2026-10-16 20:18:00</pubDate>
-		</item>
-		<item>
-			<title>Day 2-Session A D2-A-13 Salehi NPH_2026_Salehi_et_al_v5.</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26286A117</link>
-			<description>Slides and Viewgraphs, Meeting Briefing Package/Handouts, Conference/Symposium/Workshop Paper</description>
-			<author>Simpson Gumpertz and Heger</author>
-			<pubDate>2026-10-16 16:26:00</pubDate>
-		</item>
-		<item>
-			<title>Diablo Canyon 50.69/EPRI Amendment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26279A207</link>
-			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation</description>
-			<author>NRC/NRR/DDLP/DLP1/ORLB4</author>
-			<pubDate>2026-10-16 13:08:00</pubDate>
 		</item>
 	</channel>
 </rss>
