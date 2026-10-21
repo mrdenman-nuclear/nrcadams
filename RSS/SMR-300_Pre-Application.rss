@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 20 Oct 2026 22:06:05 GMT</pubDate>
-		<lastBuildDate>Tue, 20 Oct 2026 22:06:05 GMT</lastBuildDate>
+		<pubDate>Wed, 21 Oct 2026 01:18:27 GMT</pubDate>
+		<lastBuildDate>Wed, 21 Oct 2026 01:18:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -94,27 +94,6 @@
 			<description>E-Mail, Proprietary Information Review</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB2</author>
 			<pubDate>2026-10-09 11:56:00</pubDate>
-		</item>
-		<item>
-			<title>Email to Holtec Subject "Holtec SMR-300 CSS Structures LTR - Schedule Update" dated October 5, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26278A417</link>
-			<description>E-Mail</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB2</author>
-			<pubDate>2026-10-06 16:35:00</pubDate>
-		</item>
-		<item>
-			<title>Correction Email to Holtec Subject "RE: Holtec SMR-300 CSS Structures LTR - Schedule and Resource Estimate Update" dated September 28, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26272A325</link>
-			<description>E-Mail</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB2</author>
-			<pubDate>2026-10-06 12:16:00</pubDate>
-		</item>
-		<item>
-			<title>Email to Holtec Subject "Withholding Information Determination - Insufficient Markings - Audit Question Responses for SSI LTR"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26271A005</link>
-			<description>E-Mail</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB2</author>
-			<pubDate>2026-10-06 12:15:00</pubDate>
 		</item>
 	</channel>
 </rss>

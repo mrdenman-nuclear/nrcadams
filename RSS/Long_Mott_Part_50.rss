@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 20 Oct 2026 22:06:05 GMT</pubDate>
-		<lastBuildDate>Tue, 20 Oct 2026 22:06:05 GMT</lastBuildDate>
+		<pubDate>Wed, 21 Oct 2026 01:18:27 GMT</pubDate>
+		<lastBuildDate>Wed, 21 Oct 2026 01:18:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -185,13 +185,6 @@
 			<description>General FR Notice Comment Letter</description>
 			<author>Public Commenter</author>
 			<pubDate>2026-10-13 12:24:00</pubDate>
-		</item>
-		<item>
-			<title>U.S. Nuclear Regulatory Commission Establishing Fixed Fee Cap for Ongoing Long Mott Generating Station Construction Permit Application Review (EPIDs: L-2025-CPS-0000, L-2025-CPE-0000, and L-2026-HRG-0002)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26271A096</link>
-			<description>Letter</description>
-			<author>NRC/OAR/DDES/DARE/AREB1</author>
-			<pubDate>2026-10-06 12:16:00</pubDate>
 		</item>
 	</channel>
 </rss>

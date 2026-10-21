@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 20 Oct 2026 22:06:05 GMT</pubDate>
-		<lastBuildDate>Tue, 20 Oct 2026 22:06:05 GMT</lastBuildDate>
+		<pubDate>Wed, 21 Oct 2026 01:18:27 GMT</pubDate>
+		<lastBuildDate>Wed, 21 Oct 2026 01:18:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,27 +17,6 @@
 			<description>Slides and Viewgraphs, Conference/Symposium/Workshop Paper, Meeting Briefing Package/Handouts</description>
 			<author>Univ of Alabama</author>
 			<pubDate>2026-10-16 12:05:00</pubDate>
-		</item>
-		<item>
-			<title>FRN - Issuance of TVA Construction Permit and Record of Decision</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26259A102</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/OAR</author>
-			<pubDate>2026-10-06 15:04:00</pubDate>
-		</item>
-		<item>
-			<title>Transmittal of Tennessee Valley Authority (TVA) New Nuclear Quality Assurance Program (NNQAP) Revision 3 and Notification of NNQAP Implementation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26271A113</link>
-			<description>Letter</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-10-06 12:15:00</pubDate>
-		</item>
-		<item>
-			<title>Tennessee Valley Authority Quality Assurance Program Description for TVA New Nuclear Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26271A114</link>
-			<description>Quality Assurance Program, Topical Report</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-10-06 12:15:00</pubDate>
 		</item>
 	</channel>
 </rss>
