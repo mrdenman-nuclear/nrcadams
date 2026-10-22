@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 22 Oct 2026 01:14:23 GMT</pubDate>
-		<lastBuildDate>Thu, 22 Oct 2026 01:14:23 GMT</lastBuildDate>
+		<pubDate>Thu, 22 Oct 2026 22:11:00 GMT</pubDate>
+		<lastBuildDate>Thu, 22 Oct 2026 22:11:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Oregon State University TRIGA Reactor (OSTR) - Annual Report for the period July 1, 2025, through June 30, 2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26287A156</link>
+			<description>Annual Operating Report, Letter</description>
+			<author>Oregon State Univ</author>
+			<pubDate>2026-10-22 12:17:00</pubDate>
+		</item>
+	</channel>
 </rss>

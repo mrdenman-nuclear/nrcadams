@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 22 Oct 2026 01:14:31 GMT</pubDate>
-		<lastBuildDate>Thu, 22 Oct 2026 01:14:31 GMT</lastBuildDate>
+		<pubDate>Thu, 22 Oct 2026 22:11:08 GMT</pubDate>
+		<lastBuildDate>Thu, 22 Oct 2026 22:11:08 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Palisades - Audit Report to support Exigent Amendment for the Fuel Assembly</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26281A247</link>
+			<description>Audit Report, Letter</description>
+			<author>NRC/NRR/DDLP/DLP1/ORLB3</author>
+			<pubDate>2026-10-22 19:15:00</pubDate>
+		</item>
+	</channel>
 </rss>
