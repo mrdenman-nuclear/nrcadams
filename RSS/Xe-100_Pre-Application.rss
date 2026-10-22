@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 21 Oct 2026 22:09:47 GMT</pubDate>
-		<lastBuildDate>Wed, 21 Oct 2026 22:09:47 GMT</lastBuildDate>
+		<pubDate>Thu, 22 Oct 2026 01:14:22 GMT</pubDate>
+		<lastBuildDate>Thu, 22 Oct 2026 01:14:22 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -24,27 +24,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2026-10-16 20:18:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: "Xe-100 Licensing Topical Report Plume Exposure Pathway Emergency Planning Zone Sizing Methodology," Revision 2 Accepted Version (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075E859</link>
-			<description>Topical Report</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2026-10-07 17:08:00</pubDate>
-		</item>
-		<item>
-			<title>X Energy, LLC (X-energy) - Submittal of Xe-100 Licensing Topical Report Plume Exposure Pathway Emergency Planning Zone Sizing Methodology, Revision 2 Accepted Version</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075E857</link>
-			<description>Letter</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2026-10-07 17:08:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Affidavit Supporting Request for Withholding from Public Disclosure (10 CFR 2.390)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26075E858</link>
-			<description>Legal-Affidavit</description>
-			<author>X-Energy, LLC</author>
-			<pubDate>2026-10-07 17:08:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 21 Oct 2026 22:09:55 GMT</pubDate>
-		<lastBuildDate>Wed, 21 Oct 2026 22:09:55 GMT</lastBuildDate>
+		<pubDate>Thu, 22 Oct 2026 01:14:31 GMT</pubDate>
+		<lastBuildDate>Thu, 22 Oct 2026 01:14:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -52,20 +52,6 @@
 			<description>General FR Notice Comment Letter</description>
 			<author>Nuclear Energy Institute (NEI)</author>
 			<pubDate>2026-10-15 12:15:00</pubDate>
-		</item>
-		<item>
-			<title>Salem Nuclear Generating Station, Unit Nos. 1 And 2 - Issuance Of Amendment Nos. 357 And 339 Regarding Cobalt-60 Production (EPID L 2025 LLA-0154) (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26257A516</link>
-			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation</description>
-			<author>NRC/NRR/DDLP/DLP1/ORLB1</author>
-			<pubDate>2026-10-14 12:26:00</pubDate>
-		</item>
-		<item>
-			<title>Salem Nuclear Generating Station, Unit Nos. 1 And 2 - Issuance Of Amendment Nos. 357 And 339 Regarding Cobalt-60 Production (EPID L 2025 LLA-0154) (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26257A516</link>
-			<description>Letter, License-Operating (New/Renewal/Amendments) DKT 50, Safety Evaluation</description>
-			<author>NRC/NRR/DDLP/DLP1/ORLB1</author>
-			<pubDate>2026-10-14 12:26:00</pubDate>
 		</item>
 	</channel>
 </rss>
