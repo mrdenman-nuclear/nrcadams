@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 22 Oct 2026 22:11:06 GMT</pubDate>
-		<lastBuildDate>Thu, 22 Oct 2026 22:11:06 GMT</lastBuildDate>
+		<pubDate>Fri, 23 Oct 2026 01:14:02 GMT</pubDate>
+		<lastBuildDate>Fri, 23 Oct 2026 01:14:02 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>R.E. Ginna Nuclear Power Plant, Subsequent License Renewal Environmental Review, Response to NRC Request for Additional Information (RAI)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26294A032</link>
+			<description>Letter, Response to Request for Additional Information (RAI)</description>
+			<author>Constellation Energy Generation, LLC</author>
+			<pubDate>2026-10-22 19:15:00</pubDate>
+		</item>
+		<item>
+			<title>SRM-M261022A: Enclosure - Federal Register Notice</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26295A067</link>
+			<description>Commission Staff Requirements Memo (SRM)</description>
+			<author>NRC/SECY</author>
+			<pubDate>2026-10-22 18:11:00</pubDate>
+		</item>
 		<item>
 			<title>Letter to EB Requesting Views for Export License Application, XSNM3867</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26295A091</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26287A074</link>
 			<description>General FR Notice Comment Letter, Newsletter</description>
 			<author>- No Known Affiliation</author>
-			<pubDate>2026-10-21 12:15:00</pubDate>
-		</item>
-		<item>
-			<title>Proposed Consolidated NRC and U.S. Coast Guard RAI Responses Scoping Study Transportable Nuclear Power Plant Shipment (Docket No. 71-9409)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26292A234</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>Pacific Northwest National Lab</author>
-			<pubDate>2026-10-21 12:15:00</pubDate>
-		</item>
-		<item>
-			<title>Safety Evaluation by the Office of Advanced Reactors Regarding Japan Atomic Energy Agency Licensing Topical Report, Quality Assurance Program Description for Floating Seismic Isolation System (FSIS) Design Activities, Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26268A043</link>
-			<description>Safety Evaluation</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
 			<pubDate>2026-10-21 12:15:00</pubDate>
 		</item>
 	</channel>
