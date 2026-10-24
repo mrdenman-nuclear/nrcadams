@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 23 Oct 2026 18:08:54 GMT</pubDate>
-		<lastBuildDate>Fri, 23 Oct 2026 18:08:54 GMT</lastBuildDate>
+		<pubDate>Sat, 24 Oct 2026 00:16:35 GMT</pubDate>
+		<lastBuildDate>Sat, 24 Oct 2026 00:16:35 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,20 +73,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2026-09-29 18:12:00</pubDate>
-		</item>
-		<item>
-			<title>Understanding Functional Containment Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26265A234</link>
-			<description>Report, Technical</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-09-23 19:25:00</pubDate>
-		</item>
-		<item>
-			<title>Completion on Report Understanding of Functional Containment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26265A233</link>
-			<description>Memoranda</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-09-23 16:23:00</pubDate>
 		</item>
 	</channel>
 </rss>

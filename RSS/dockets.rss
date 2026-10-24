@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 23 Oct 2026 18:08:53 GMT</pubDate>
-		<lastBuildDate>Fri, 23 Oct 2026 18:08:53 GMT</lastBuildDate>
+		<pubDate>Sat, 24 Oct 2026 00:16:34 GMT</pubDate>
+		<lastBuildDate>Sat, 24 Oct 2026 00:16:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>LMGS CPA Audit Report Cover Letter</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26293A341</link>
+			<description>Audit Report, Letter</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
+			<pubDate>2026-10-23 20:33:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1_LMGS CPA Audit Report Summary</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26293A342</link>
+			<description>Audit Report</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
+			<pubDate>2026-10-23 20:33:00</pubDate>
+		</item>
+		<item>
+			<title>LMGS CPA Audit_List of Documents Reviewed in ERR</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26293A343</link>
+			<description>Audit Report</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
+			<pubDate>2026-10-23 20:33:00</pubDate>
+		</item>
+		<item>
+			<title>U.S. Nuclear Regulatory Commission Public Meeting Summary - Mandatory Hearing for Long Mott Energy, LLC Construction Permit Application for the Long Mott Generating Station</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26288A056</link>
+			<description>Meeting Summary</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
+			<pubDate>2026-10-23 19:08:00</pubDate>
+		</item>
 		<item>
 			<title>Long Mott Energy, LLC, Rev. 1, Construction Permit Application, Part II, Preliminary Safety Analysis Report</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26261A423</link>
@@ -192,34 +220,6 @@
 			<description>Meeting Notice, Meeting Agenda</description>
 			<author>NRC</author>
 			<pubDate>2026-10-19 16:00:00</pubDate>
-		</item>
-		<item>
-			<title>GE Vernova Hitachi Nuclear Energy Americas, LLC - Submittal of Revision 0 of Advanced ODYSY Application for Stability Licensing Calculations Licensing Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26226A187</link>
-			<description>Letter</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2026-10-19 14:57:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: GVH Affidavit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26226A190</link>
-			<description>Legal-Affidavit</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2026-10-19 14:57:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: Advanced ODYSY Application for Stability Licensing Calculations, NEDO-34414, Revision 0, August 2026 - Non-Proprietary Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26226A189</link>
-			<description>Topical Report</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2026-10-19 14:57:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo Inc., Submittal of the "Staffing Plan Validation Methodology" Topical Report, Rev. 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26281A475</link>
-			<description>Letter</description>
-			<author>Oklo Inc</author>
-			<pubDate>2026-10-19 12:05:00</pubDate>
 		</item>
 	</channel>
 </rss>

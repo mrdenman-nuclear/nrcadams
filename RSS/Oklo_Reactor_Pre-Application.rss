@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 23 Oct 2026 18:08:53 GMT</pubDate>
-		<lastBuildDate>Fri, 23 Oct 2026 18:08:53 GMT</lastBuildDate>
+		<pubDate>Sat, 24 Oct 2026 00:16:34 GMT</pubDate>
+		<lastBuildDate>Sat, 24 Oct 2026 00:16:34 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,13 +59,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Oklo Inc</author>
 			<pubDate>2026-10-15 12:14:00</pubDate>
-		</item>
-		<item>
-			<title>Schedule Extension - Oklo Operator Licensing Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26278A349</link>
-			<description>E-Mail</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
-			<pubDate>2026-10-09 11:56:00</pubDate>
 		</item>
 	</channel>
 </rss>

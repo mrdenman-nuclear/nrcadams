@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 23 Oct 2026 18:09:01 GMT</pubDate>
-		<lastBuildDate>Fri, 23 Oct 2026 18:09:01 GMT</lastBuildDate>
+		<pubDate>Sat, 24 Oct 2026 00:16:42 GMT</pubDate>
+		<lastBuildDate>Sat, 24 Oct 2026 00:16:42 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>LMGS CPA Audit_List of Documents Reviewed in ERR</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26293A343</link>
+			<description>Audit Report</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
+			<pubDate>2026-10-23 20:33:00</pubDate>
+		</item>
 		<item>
 			<title>Final EIS for Global Laser Enrichment in Paducah, KY</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26286A042</link>
@@ -24,34 +31,6 @@
 			<description>Preliminary Safety Analysis Report (PSAR)</description>
 			<author>Long Mott Energy, LLC</author>
 			<pubDate>2026-10-23 14:48:00</pubDate>
-		</item>
-		<item>
-			<title>LTR-26-0245 Gregory Halnon, Chairman, NRC/ACRS, Letter re: Report on the Safety Aspects of the Long Mott Generating Station Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26289A141</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-10-16 20:18:00</pubDate>
-		</item>
-		<item>
-			<title>LTR-26-0245 Gregory Halnon, Chairman, NRC/ACRS, Letter re: Report on the Safety Aspects of the Long Mott Generating Station Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26289A141</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-10-16 20:18:00</pubDate>
-		</item>
-		<item>
-			<title>LTR-26-0245 Gregory Halnon, Chairman, NRC/ACRS, Letter re: Report on the Safety Aspects of the Long Mott Generating Station Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26289A141</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/ACRS</author>
-			<pubDate>2026-10-16 20:18:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2 - NEDO-33934, Revision 3, BWRX-300 Safety Strategy, Licensing Topical Report - GVH Non-Proprietary Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26278A414</link>
-			<description>Topical Report</description>
-			<author>GE Vernova Hitachi Nuclear Energy Americas, LLC (GVHA)</author>
-			<pubDate>2026-10-16 13:08:00</pubDate>
 		</item>
 	</channel>
 </rss>
