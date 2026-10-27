@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 26 Oct 2026 23:38:12 GMT</pubDate>
-		<lastBuildDate>Mon, 26 Oct 2026 23:38:12 GMT</lastBuildDate>
+		<pubDate>Tue, 27 Oct 2026 19:16:20 GMT</pubDate>
+		<lastBuildDate>Tue, 27 Oct 2026 19:16:20 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>September 30, 2026 Summary of License to Launch Workshop Session 1.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26299A332</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB2</author>
+			<pubDate>2026-10-27 12:20:00</pubDate>
+		</item>
 		<item>
 			<title>Withdrawal Request for NRC Confirmatory Orders EA-09-009, EA-09-203, and EA-17-022 Issued to TVA REDACTED</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26289A168</link>
@@ -213,13 +220,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>Tennessee Valley Authority</author>
 			<pubDate>2026-10-20 17:39:00</pubDate>
-		</item>
-		<item>
-			<title>Sequoyah Nuclear Plant, Units 1 and 2, Response to RAI and Request for Confirmatory Information - Alternative and Relief Requests for Next Inservice Testing Intervals</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26281A443</link>
-			<description>Letter</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-10-19 12:05:00</pubDate>
 		</item>
 	</channel>
 </rss>

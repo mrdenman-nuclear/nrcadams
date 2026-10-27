@@ -5,28 +5,42 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 26 Oct 2026 23:38:05 GMT</pubDate>
-		<lastBuildDate>Mon, 26 Oct 2026 23:38:05 GMT</lastBuildDate>
+		<pubDate>Tue, 27 Oct 2026 19:16:13 GMT</pubDate>
+		<lastBuildDate>Tue, 27 Oct 2026 19:16:13 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
 		<item>
-			<title>LMGS CPA Audit Report Cover Letter</title>
+			<title>Enclosure 2: SMR-300 LWA/CPA1 Select NRC Audit Question Responses (Non-Proprietary)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26286A325</link>
+			<description>Request for Additional Information (RAI)</description>
+			<author>Holtec International SMR, LLC</author>
+			<pubDate>2026-10-27 18:44:00</pubDate>
+		</item>
+		<item>
+			<title>Holtec International, LLC - Preappication Readiness Summary Report on CP2 Pioneer Units 1 and 2</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26264A187</link>
+			<description>Letter</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB2</author>
+			<pubDate>2026-10-27 12:20:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Audit Report for LMGS CPA - Cover Letter</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26293A341</link>
 			<description>Audit Report, Letter</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
 			<pubDate>2026-10-23 20:33:00</pubDate>
 		</item>
 		<item>
-			<title>Enclosure 1_LMGS CPA Audit Report Summary</title>
+			<title>ENRC Audit Report for LMGS CPA - Enclosure 1 (Summary)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26293A342</link>
 			<description>Audit Report</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
 			<pubDate>2026-10-23 20:33:00</pubDate>
 		</item>
 		<item>
-			<title>LMGS CPA Audit_List of Documents Reviewed in ERR</title>
+			<title>NRC Audit Report for LMGS CPA - Enclosure 5 (eRR Documents)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26293A343</link>
 			<description>Audit Report</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
@@ -131,13 +145,6 @@
 			<pubDate>2026-10-21 12:15:00</pubDate>
 		</item>
 		<item>
-			<title>Enclosure 2: SMR-300 LWA/CPA1 Select NRC Audit Question Responses (Non-Proprietary)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26286A325</link>
-			<description>Request for Additional Information (RAI)</description>
-			<author>Holtec International SMR, LLC</author>
-			<pubDate>2026-10-21 12:15:00</pubDate>
-		</item>
-		<item>
 			<title>Holtec International - Submittal of "Pioneer Units 1 and 2 Limited Work Authorization Application" Audit Question and Responses (Project No. 99902049)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26286A323</link>
 			<description>Letter</description>
@@ -213,13 +220,6 @@
 			<description>Legal-Affidavit</description>
 			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
 			<pubDate>2026-10-20 18:39:00</pubDate>
-		</item>
-		<item>
-			<title>Meeting with X-energy LLC -  Fire Protection  White Paper Presubmittal meeting 11/12/2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26292A224</link>
-			<description>Meeting Notice, Meeting Agenda</description>
-			<author>NRC</author>
-			<pubDate>2026-10-19 16:00:00</pubDate>
 		</item>
 	</channel>
 </rss>
