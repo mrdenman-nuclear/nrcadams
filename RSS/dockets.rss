@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 27 Oct 2026 23:32:46 GMT</pubDate>
-		<lastBuildDate>Tue, 27 Oct 2026 23:32:46 GMT</lastBuildDate>
+		<pubDate>Wed, 28 Oct 2026 19:24:56 GMT</pubDate>
+		<lastBuildDate>Wed, 28 Oct 2026 19:24:56 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Enclosure 1 - Summary Report on the Regulatory Audit of Topical Report, Oklo, Inc - Staffing Plan Validation methodology (Public)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26271A018</link>
+			<description>Audit Report</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
+			<pubDate>2026-10-28 12:17:00</pubDate>
+		</item>
+		<item>
+			<title>Summary Report on the Regulatory Audit of Topical Report, Oklo, Inc - Staffing Plan Validation methodology</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26271A017</link>
+			<description>Letter</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
+			<pubDate>2026-10-28 12:17:00</pubDate>
+		</item>
+		<item>
+			<title>Email to SMR (Holtec) Subject "SMR-300 Time-Domain LS-DYNA Soil Structure Interaction Analysis Methodology LTR - Schedule Update" dated October 19, 2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26293A006</link>
+			<description>E-Mail</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB2</author>
+			<pubDate>2026-10-28 12:17:00</pubDate>
+		</item>
 		<item>
 			<title>Enclosure 2: SMR-300 LWA/CPA1 Select NRC Audit Question Responses (Non-Proprietary)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26286A325</link>
@@ -199,27 +220,6 @@
 			<description>Press Release</description>
 			<author>NRC/OPA</author>
 			<pubDate>2026-10-21 12:15:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: NEDO-34403, Revision 1, BWRX-300 Expedited Construction of Certain Structures, Systems, and Components Licensing Topical Report, GVH - Non-Proprietary Information - Public</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26289A158</link>
-			<description>Topical Report</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2026-10-20 18:39:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of NEDC-34403P/NEDO-34403, Revision 1, BWRX-300 Expedited Construction of Certain Structures, Systems, and Components Licensing Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26289A156</link>
-			<description>Letter</description>
-			<author>GE Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2026-10-20 18:39:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Affidavit, GVH - Non-Proprietary Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26289A159</link>
-			<description>Legal-Affidavit</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2026-10-20 18:39:00</pubDate>
 		</item>
 	</channel>
 </rss>

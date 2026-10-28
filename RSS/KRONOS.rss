@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 27 Oct 2026 23:32:45 GMT</pubDate>
-		<lastBuildDate>Tue, 27 Oct 2026 23:32:45 GMT</lastBuildDate>
+		<pubDate>Wed, 28 Oct 2026 19:24:55 GMT</pubDate>
+		<lastBuildDate>Wed, 28 Oct 2026 19:24:55 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -73,34 +73,6 @@
 			<description>E-Mail</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
 			<pubDate>2026-10-16 12:05:00</pubDate>
-		</item>
-		<item>
-			<title>U. of I. CP Safety Review General Audit Questions - Chapter 4</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26278A006</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
-			<pubDate>2026-10-13 12:24:00</pubDate>
-		</item>
-		<item>
-			<title>U. of I. CP Safety Review General Audit Questions - Chapter 11</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26278A013</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
-			<pubDate>2026-10-13 12:24:00</pubDate>
-		</item>
-		<item>
-			<title>University of Illinois Urbana-Champaign - Transmittal of General Audit Questions for PSAR Chapter 4</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26278A007</link>
-			<description>E-Mail</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
-			<pubDate>2026-10-13 12:24:00</pubDate>
-		</item>
-		<item>
-			<title>University of Illinois Urbana-Champaign - Transmittal of General Audit Questions for PSAR Chapter 11</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26278A014</link>
-			<description>E-Mail</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
-			<pubDate>2026-10-13 12:24:00</pubDate>
 		</item>
 	</channel>
 </rss>

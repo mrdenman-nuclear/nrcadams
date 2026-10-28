@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 27 Oct 2026 23:32:54 GMT</pubDate>
-		<lastBuildDate>Tue, 27 Oct 2026 23:32:54 GMT</lastBuildDate>
+		<pubDate>Wed, 28 Oct 2026 19:25:04 GMT</pubDate>
+		<lastBuildDate>Wed, 28 Oct 2026 19:25:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NUREG-1650, Rev. 9, Supp. 1, "Answers to Questions From the Peer Review By Contracting Parties on the United States of America Tenth National Report For the Convention on Nuclear Safety"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26300A120</link>
+			<description>NUREG</description>
+			<author>NRC/NRR</author>
+			<pubDate>2026-10-28 12:17:00</pubDate>
+		</item>
 		<item>
 			<title>September 30, 2026 Summary of License to Launch Workshop Session 1.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26299A332</link>
@@ -38,13 +45,6 @@
 			<description>Environmental Report</description>
 			<author>Orano Enrichment USA, LLC</author>
 			<pubDate>2026-10-14 14:41:00</pubDate>
-		</item>
-		<item>
-			<title>Eden Radioisotopes, LLC's Answer to Nicholas R. Maxwell's Request for Hearing and Petition for Leave to Intervene</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26282B086</link>
-			<description>Legal-Pleading</description>
-			<author>Eden Radioisotopes, LLC, Morgan, Lewis and Bockius, LLP</author>
-			<pubDate>2026-10-13 14:09:00</pubDate>
 		</item>
 	</channel>
 </rss>
