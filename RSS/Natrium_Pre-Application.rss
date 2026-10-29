@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 28 Oct 2026 23:55:10 GMT</pubDate>
-		<lastBuildDate>Wed, 28 Oct 2026 23:55:10 GMT</lastBuildDate>
+		<pubDate>Thu, 29 Oct 2026 19:27:57 GMT</pubDate>
+		<lastBuildDate>Thu, 29 Oct 2026 19:27:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Terrapower LLC-Audit Summary Report Topical Report Nat-21522 Natrium Generic Dual Unit Topical Report Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26293A230</link>
+			<description>Audit Report, Response to Request for Additional Information (RAI), Topical Report</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
+			<pubDate>2026-10-29 14:46:00</pubDate>
+		</item>
+	</channel>
 </rss>
