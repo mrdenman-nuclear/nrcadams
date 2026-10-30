@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 29 Oct 2026 23:50:50 GMT</pubDate>
-		<lastBuildDate>Thu, 29 Oct 2026 23:50:50 GMT</lastBuildDate>
+		<pubDate>Fri, 30 Oct 2026 19:03:04 GMT</pubDate>
+		<lastBuildDate>Fri, 30 Oct 2026 19:03:04 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -17,13 +17,6 @@
 			<description>Spreadsheet File</description>
 			<author>NRC/NRR/DDLP/DLP2</author>
 			<pubDate>2026-10-23 18:14:00</pubDate>
-		</item>
-		<item>
-			<title>NIST NRAN Thank you Letter to NIST for the August 27 2026 Tour</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26271A297</link>
-			<description>Letter</description>
-			<author>NRC/NRR/DDLP/DLP2</author>
-			<pubDate>2026-10-15 13:29:00</pubDate>
 		</item>
 	</channel>
 </rss>

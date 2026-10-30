@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 29 Oct 2026 23:50:49 GMT</pubDate>
-		<lastBuildDate>Thu, 29 Oct 2026 23:50:49 GMT</lastBuildDate>
+		<pubDate>Fri, 30 Oct 2026 19:03:03 GMT</pubDate>
+		<lastBuildDate>Fri, 30 Oct 2026 19:03:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC Final Safety Evaluation for Long Mott Energy, LLC., Long Mott Generating Station Construction Permit Application (PUBLIC)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26295A007</link>
+			<description>Final Safety Evaluation Report (FSER)</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
+			<pubDate>2026-10-30 16:20:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Final Safety Evaluation for Long Mott Energy, LLC., Long Mott Generating Station Construction Permit Application (PUBLIC) - Transmittal letter</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26295A006</link>
+			<description>Letter</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
+			<pubDate>2026-10-30 16:20:00</pubDate>
+		</item>
 		<item>
 			<title>Proprietary Determination - Construction Permit Application Revision 1</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26302A030</link>
@@ -80,20 +94,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/ACRS</author>
 			<pubDate>2026-10-16 20:18:00</pubDate>
-		</item>
-		<item>
-			<title>2026/09/29 - Comment (3) E-mail regarding LMGS CP Hearing</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26278A307</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>Public Commenter</author>
-			<pubDate>2026-10-15 12:14:00</pubDate>
-		</item>
-		<item>
-			<title>2026/10/02 - Comment (2) E-mail regarding LMGS CP Hearing</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26278A281</link>
-			<description>General FR Notice Comment Letter</description>
-			<author>Public Commenter</author>
-			<pubDate>2026-10-15 12:14:00</pubDate>
 		</item>
 	</channel>
 </rss>

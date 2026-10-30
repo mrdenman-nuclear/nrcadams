@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 29 Oct 2026 23:50:50 GMT</pubDate>
-		<lastBuildDate>Thu, 29 Oct 2026 23:50:50 GMT</lastBuildDate>
+		<pubDate>Fri, 30 Oct 2026 19:03:03 GMT</pubDate>
+		<lastBuildDate>Fri, 30 Oct 2026 19:03:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC Final Safety Evaluation for Long Mott Energy, LLC., Long Mott Generating Station Construction Permit Application (PUBLIC)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26295A007</link>
+			<description>Final Safety Evaluation Report (FSER)</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
+			<pubDate>2026-10-30 16:20:00</pubDate>
+		</item>
+		<item>
+			<title>NRC Final Safety Evaluation for Long Mott Energy, LLC., Long Mott Generating Station Construction Permit Application (PUBLIC) - Transmittal letter</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26295A006</link>
+			<description>Letter</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
+			<pubDate>2026-10-30 16:20:00</pubDate>
+		</item>
 		<item>
 			<title>Terrapower LLC-Audit Summary Report Topical Report Nat-21522 Natrium Generic Dual Unit Topical Report Revision 0</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26293A230</link>
@@ -205,20 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26292A350</link>
 			<description>E-Mail, Proprietary Information Review</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB2</author>
-			<pubDate>2026-10-21 12:15:00</pubDate>
-		</item>
-		<item>
-			<title>Holtec International - Submittal of "Pioneer Units 1 and 2 Limited Work Authorization Application" Audit Question and Responses (Project No. 99902049)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26286A323</link>
-			<description>Letter</description>
-			<author>Holtec International SMR, LLC, SMR, LLC</author>
-			<pubDate>2026-10-21 12:15:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Affidavit Pursuant to 10 CFR 2.390 to Withhold Information from Public Disclosure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26286A326</link>
-			<description>Legal-Affidavit</description>
-			<author>Holtec International SMR, LLC</author>
 			<pubDate>2026-10-21 12:15:00</pubDate>
 		</item>
 	</channel>
