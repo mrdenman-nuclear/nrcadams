@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 30 Oct 2026 22:52:31 GMT</pubDate>
-		<lastBuildDate>Fri, 30 Oct 2026 22:52:31 GMT</lastBuildDate>
+		<pubDate>Sat, 31 Oct 2026 02:04:45 GMT</pubDate>
+		<lastBuildDate>Sat, 31 Oct 2026 02:04:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -66,13 +66,6 @@
 			<description>E-Mail</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
 			<pubDate>2026-10-21 12:15:00</pubDate>
-		</item>
-		<item>
-			<title>U. of I. - Transmittal email for General Audit Question for PSAR Chapter 7 for Construction Permit Application</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26282A995</link>
-			<description>E-Mail</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
-			<pubDate>2026-10-16 12:05:00</pubDate>
 		</item>
 	</channel>
 </rss>

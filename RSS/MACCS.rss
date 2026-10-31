@@ -5,25 +5,11 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 30 Oct 2026 22:52:41 GMT</pubDate>
-		<lastBuildDate>Fri, 30 Oct 2026 22:52:41 GMT</lastBuildDate>
+		<pubDate>Sat, 31 Oct 2026 02:04:54 GMT</pubDate>
+		<lastBuildDate>Sat, 31 Oct 2026 02:04:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-		<item>
-			<title>Long Mott Energy, LLC, Rev. 1, Construction Permit Application, Part II, Preliminary Safety Analysis Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26261A423</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2026-10-23 14:48:00</pubDate>
-		</item>
-		<item>
-			<title>Aging Management NRC for EPRI ESCP 2026 - DDunn</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26281A338</link>
-			<description>Slides and Viewgraphs</description>
-			<author>NRC/NMSS/DDFSTE/DSFST/QMSB</author>
-			<pubDate>2026-10-23 13:09:00</pubDate>
-		</item>
-	</channel>
+</channel>
 </rss>

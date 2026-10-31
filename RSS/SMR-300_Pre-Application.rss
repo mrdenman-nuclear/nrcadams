@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 30 Oct 2026 22:52:31 GMT</pubDate>
-		<lastBuildDate>Fri, 30 Oct 2026 22:52:31 GMT</lastBuildDate>
+		<pubDate>Sat, 31 Oct 2026 02:04:45 GMT</pubDate>
+		<lastBuildDate>Sat, 31 Oct 2026 02:04:45 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -80,13 +80,6 @@
 			<description>Letter</description>
 			<author>Holtec International SMR, LLC, SMR, LLC</author>
 			<pubDate>2026-10-19 12:05:00</pubDate>
-		</item>
-		<item>
-			<title>Email to Holtec Subject Re; Request for Withholding Determination from Public Disclosure - Revision 1 of CSS Structures Licensing Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26287A028</link>
-			<description>E-Mail, Proprietary Information Review</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB2</author>
-			<pubDate>2026-10-16 12:05:00</pubDate>
 		</item>
 	</channel>
 </rss>
