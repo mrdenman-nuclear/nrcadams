@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Sat, 31 Oct 2026 02:04:45 GMT</pubDate>
-		<lastBuildDate>Sat, 31 Oct 2026 02:04:45 GMT</lastBuildDate>
+		<pubDate>Mon, 02 Nov 2026 22:38:15 GMT</pubDate>
+		<lastBuildDate>Mon, 02 Nov 2026 22:38:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Draft Safety Evaluation Of Topical Report NAT-21522, "Natrium Generic Dual Unit Topical Report," Revision 0 (EPID No. L-2026-TOP-0010)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26287A169</link>
+			<description>Draft Safety Evaluation Report (DSER)</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
+			<pubDate>2026-11-02 14:12:00</pubDate>
+		</item>
 		<item>
 			<title>NRC Final Safety Evaluation for Long Mott Energy, LLC., Long Mott Generating Station Construction Permit Application (PUBLIC)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26295A007</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26281A094</link>
 			<description>Acceptance Review Letter, E-Mail</description>
 			<author>NRC/NRR/DDLP/DLP2/ORTRB</author>
-			<pubDate>2026-10-21 12:15:00</pubDate>
-		</item>
-		<item>
-			<title>Email to Holtec Subject "Request for Withholding Determination from Public Disclosure - Responses to Audit Questions for LS-DYNA SSI Licensing Topical Report" dated October 15, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26292A350</link>
-			<description>E-Mail, Proprietary Information Review</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB2</author>
 			<pubDate>2026-10-21 12:15:00</pubDate>
 		</item>
 	</channel>
