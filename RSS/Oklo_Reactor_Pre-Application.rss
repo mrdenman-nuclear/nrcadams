@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 02 Nov 2026 22:38:15 GMT</pubDate>
-		<lastBuildDate>Mon, 02 Nov 2026 22:38:15 GMT</lastBuildDate>
+		<pubDate>Tue, 03 Nov 2026 03:54:05 GMT</pubDate>
+		<lastBuildDate>Tue, 03 Nov 2026 03:54:05 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,27 +31,6 @@
 			<description>Letter</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
 			<pubDate>2026-10-22 12:17:00</pubDate>
-		</item>
-		<item>
-			<title>Oklo Inc., Submittal of the "Staffing Plan Validation Methodology" Topical Report, Rev. 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26281A475</link>
-			<description>Letter</description>
-			<author>Oklo Inc</author>
-			<pubDate>2026-10-19 12:05:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: "Staffing Plan Validation Methodology" Topical Report, Rev. 1 (Non-proprietary)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26284A001</link>
-			<description>Topical Report</description>
-			<author>Oklo Inc</author>
-			<pubDate>2026-10-19 12:05:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: Affidavit and Request for Withholding Proprietary Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26281A476</link>
-			<description>Legal-Affidavit</description>
-			<author>Oklo Inc</author>
-			<pubDate>2026-10-19 12:05:00</pubDate>
 		</item>
 	</channel>
 </rss>
