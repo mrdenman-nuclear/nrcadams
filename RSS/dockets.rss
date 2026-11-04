@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 03 Nov 2026 20:29:14 GMT</pubDate>
-		<lastBuildDate>Tue, 03 Nov 2026 20:29:14 GMT</lastBuildDate>
+		<pubDate>Wed, 04 Nov 2026 01:08:12 GMT</pubDate>
+		<lastBuildDate>Wed, 04 Nov 2026 01:08:12 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>X Energy, LLC (X-energy), Letter Regarding Presentation Materials: Xe-100 Fire Protection Program Approach, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26299A095</link>
+			<description>Letter</description>
+			<author>Dow Chemical Co, Long Mott Energy, LLC, X-Energy, LLC</author>
+			<pubDate>2026-11-03 20:16:00</pubDate>
+		</item>
+		<item>
+			<title>X Energy, LLC (X-energy), Presentation Materials: Xe-100 Fire Protection Program Approach, Revision 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26299A096</link>
+			<description>Meeting Agenda, Slides and Viewgraphs</description>
+			<author>Dow Chemical Co, Long Mott Energy, LLC, X-Energy, LLC</author>
+			<pubDate>2026-11-03 20:16:00</pubDate>
+		</item>
 		<item>
 			<title>Draft Safety Evaluation Of Topical Report NAT-21522, "Natrium Generic Dual Unit Topical Report," Revision 0 (EPID No. L-2026-TOP-0010)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26287A169</link>
@@ -206,20 +220,6 @@
 			<description>Audit Plan, Response to Request for Additional Information (RAI)</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
 			<pubDate>2026-10-22 12:18:00</pubDate>
-		</item>
-		<item>
-			<title>Cover Letter - NRC Staff Observations Regarding Oklo Activities Under DOE Pilot Program -</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26238A237</link>
-			<description>Letter</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
-			<pubDate>2026-10-22 12:17:00</pubDate>
-		</item>
-		<item>
-			<title>U.S. Nuclear Regulatory Commission Acceptance Review for The GVH Topical Report Revision 0 of Advanced ODYSY Application for Stability Licensing Calculations (EPID L-2026-TOP-0032) (Acceptance Review)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26281A094</link>
-			<description>Acceptance Review Letter, E-Mail</description>
-			<author>NRC/NRR/DDLP/DLP2/ORTRB</author>
-			<pubDate>2026-10-21 12:15:00</pubDate>
 		</item>
 	</channel>
 </rss>

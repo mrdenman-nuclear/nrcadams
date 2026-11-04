@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 03 Nov 2026 20:29:14 GMT</pubDate>
-		<lastBuildDate>Tue, 03 Nov 2026 20:29:14 GMT</lastBuildDate>
+		<pubDate>Wed, 04 Nov 2026 01:08:11 GMT</pubDate>
+		<lastBuildDate>Wed, 04 Nov 2026 01:08:11 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,27 +31,6 @@
 			<description>Acceptance Review Letter, E-Mail</description>
 			<author>NRC/NRR/DDLP/DLP2/ORTRB</author>
 			<pubDate>2026-10-21 12:15:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 2: NEDO-34403, Revision 1, BWRX-300 Expedited Construction of Certain Structures, Systems, and Components Licensing Topical Report, GVH - Non-Proprietary Information - Public</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26289A158</link>
-			<description>Topical Report</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2026-10-20 18:39:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of NEDC-34403P/NEDO-34403, Revision 1, BWRX-300 Expedited Construction of Certain Structures, Systems, and Components Licensing Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26289A156</link>
-			<description>Letter</description>
-			<author>GE Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2026-10-20 18:39:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Affidavit, GVH - Non-Proprietary Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26289A159</link>
-			<description>Legal-Affidavit</description>
-			<author>GE-Hitachi Nuclear Energy Americas, LLC</author>
-			<pubDate>2026-10-20 18:39:00</pubDate>
 		</item>
 	</channel>
 </rss>
