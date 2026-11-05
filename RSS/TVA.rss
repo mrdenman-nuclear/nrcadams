@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 05 Nov 2026 01:21:10 GMT</pubDate>
-		<lastBuildDate>Thu, 05 Nov 2026 01:21:10 GMT</lastBuildDate>
+		<pubDate>Thu, 05 Nov 2026 21:02:27 GMT</pubDate>
+		<lastBuildDate>Thu, 05 Nov 2026 21:02:27 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SECY-26-0128: Weekly Information Report Week Ending October 2, 2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26300A317</link>
+			<description>Commission SECY Paper</description>
+			<author>NRC/EDO/AO</author>
+			<pubDate>2026-11-05 12:12:00</pubDate>
+		</item>
+		<item>
+			<title>Comment (6) of Anonymous on Biweekly Notice; Applications and Amendments to Facility Operating Licenses and Combined Licenses Involving No Significant Hazards Considerations</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26303A096</link>
+			<description>General FR Notice Comment Letter</description>
+			<author>- No Known Affiliation</author>
+			<pubDate>2026-11-05 12:12:00</pubDate>
+		</item>
+		<item>
+			<title>Comment (6) of Anonymous on Biweekly Notice; Applications and Amendments to Facility Operating Licenses and Combined Licenses Involving No Significant Hazards Considerations</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26303A096</link>
+			<description>General FR Notice Comment Letter</description>
+			<author>- No Known Affiliation</author>
+			<pubDate>2026-11-05 12:12:00</pubDate>
+		</item>
 		<item>
 			<title>09/24/2026 Summary of Bimonthly Public Meeting with NEI, Industry Representatives and External Stakeholders to Discuss Staff's Progress on Initiatives Related to Reactor Oversight Progress (ROP).</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26299A358</link>
@@ -199,27 +220,6 @@
 			<description>License-Operator, Part 55 Examination Related Material</description>
 			<author>NRC/RGN-II/DORS/OB</author>
 			<pubDate>2026-11-02 12:52:00</pubDate>
-		</item>
-		<item>
-			<title>WB 2024-301 2A-2 Exam Final Items (Delayed Release)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26043A003</link>
-			<description>License-Operator, Part 55 Examination Related Material</description>
-			<author>NRC/RGN-II/DORS/OB</author>
-			<pubDate>2026-11-02 12:52:00</pubDate>
-		</item>
-		<item>
-			<title>Nuclear Regulatory Commission Inspection Report of Henry Pratt Company, LLC, No. 99902116/2026-201, and Notice of Nonconformance</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26286A320</link>
-			<description>Inspection Report, Letter, Notice of Non-Conformance</description>
-			<author>NRC/CNRI/DDII/DRIS/VQAB</author>
-			<pubDate>2026-11-02 12:52:00</pubDate>
-		</item>
-		<item>
-			<title>Summary of September 28, 2026, Public Teleconference with Tennessee Valley Authority to Discuss Contingencies Related to Inoperable Instruments during the Upcoming Refueling Outage and Operating Cycle (EPID L-2026-LRM-0132)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26281A054</link>
-			<description>Meeting Summary</description>
-			<author>NRC/NRR/DDLP/DLP1/ORLB4</author>
-			<pubDate>2026-10-30 12:12:00</pubDate>
 		</item>
 	</channel>
 </rss>

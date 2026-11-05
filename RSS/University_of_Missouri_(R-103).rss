@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 05 Nov 2026 01:21:03 GMT</pubDate>
-		<lastBuildDate>Thu, 05 Nov 2026 01:21:03 GMT</lastBuildDate>
+		<pubDate>Thu, 05 Nov 2026 21:02:21 GMT</pubDate>
+		<lastBuildDate>Thu, 05 Nov 2026 21:02:21 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>University of Missouri, Written communication as specified by 10 CFR 73.4 regarding changes to the University of Missouri-Columbia Research Reactor Physical Security Plan, without prior Commission approval pursuant to 10 CFR 50.54(p)(2)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26309A052</link>
+			<description>Letter</description>
+			<author>Univ of Missouri - Columbia</author>
+			<pubDate>2026-11-05 18:36:00</pubDate>
+		</item>
+	</channel>
 </rss>
