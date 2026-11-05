@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 04 Nov 2026 20:44:56 GMT</pubDate>
-		<lastBuildDate>Wed, 04 Nov 2026 20:44:56 GMT</lastBuildDate>
+		<pubDate>Thu, 05 Nov 2026 01:21:01 GMT</pubDate>
+		<lastBuildDate>Thu, 05 Nov 2026 01:21:01 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,34 +38,6 @@
 			<description>Audit Plan, Response to Request for Additional Information (RAI)</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
 			<pubDate>2026-10-22 12:18:00</pubDate>
-		</item>
-		<item>
-			<title>EMAIL August 7, 2026, University of Illinois Urbana-Champaign - General Audit Questions for PSAR Section 2.3 - Meteorology</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26292A371</link>
-			<description>E-Mail</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
-			<pubDate>2026-10-21 12:15:00</pubDate>
-		</item>
-		<item>
-			<title>U. of I. CP Safety Review General Audit Questions Sections 3.2, 3.4, and 3.5 - Structural and Seismic</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26292A375</link>
-			<description>Audit Plan, Request for Additional Information (RAI)</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
-			<pubDate>2026-10-21 12:15:00</pubDate>
-		</item>
-		<item>
-			<title>U. of I. CP Safety Review General Audit Questions Section 2.3</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26292A372</link>
-			<description>Audit Plan, Request for Additional Information (RAI)</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
-			<pubDate>2026-10-21 12:15:00</pubDate>
-		</item>
-		<item>
-			<title>Email August 28, 2026, University of Illinois Urbana-Champaign - General Audit Question for PSAR Sections 3.2, 3.4, and 3.5 - Structural and Seismic</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26292A376</link>
-			<description>E-Mail</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
-			<pubDate>2026-10-21 12:15:00</pubDate>
 		</item>
 	</channel>
 </rss>
