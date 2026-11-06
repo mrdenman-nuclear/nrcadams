@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 05 Nov 2026 21:02:20 GMT</pubDate>
-		<lastBuildDate>Thu, 05 Nov 2026 21:02:20 GMT</lastBuildDate>
+		<pubDate>Fri, 06 Nov 2026 01:25:03 GMT</pubDate>
+		<lastBuildDate>Fri, 06 Nov 2026 01:25:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -199,27 +199,6 @@
 			<description>Letter</description>
 			<author>NRC/NMSS/DDCNMI/DFCMO/FOB2</author>
 			<pubDate>2026-10-23 12:19:00</pubDate>
-		</item>
-		<item>
-			<title>IMSR Graphite Methodology Topical Report Completeness Email</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26271A249</link>
-			<description>E-Mail, Topical Report</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB3</author>
-			<pubDate>2026-10-22 18:11:00</pubDate>
-		</item>
-		<item>
-			<title>NRC 898 Graphite Qualification Methodology Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26271A251</link>
-			<description>Topical Report</description>
-			<author>NRC/OAR/DDES/DARS/ARSB3</author>
-			<pubDate>2026-10-22 18:11:00</pubDate>
-		</item>
-		<item>
-			<title>FRN - Pioneer Units 1 and 2 Limited Work Authorization Application - Fourth Notice</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26028A023</link>
-			<description>Federal Register Notice</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB2</author>
-			<pubDate>2026-10-22 15:07:00</pubDate>
 		</item>
 	</channel>
 </rss>
