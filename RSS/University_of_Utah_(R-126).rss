@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 06 Nov 2026 20:17:31 GMT</pubDate>
-		<lastBuildDate>Fri, 06 Nov 2026 20:17:31 GMT</lastBuildDate>
+		<pubDate>Sat, 07 Nov 2026 00:39:07 GMT</pubDate>
+		<lastBuildDate>Sat, 07 Nov 2026 00:39:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>University of Utah TRIGA Reactor - U.S. Nuclear Regulatory Commission Safety Inspection Report No. 05000407/2026201</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26279A142</link>
+			<description>Inspection Report, Letter</description>
+			<author>NRC/NRR/DDLP/DLP2</author>
+			<pubDate>2026-11-06 19:23:00</pubDate>
+		</item>
+	</channel>
 </rss>

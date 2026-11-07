@@ -2,7 +2,7 @@
 
 This page is updated Monday through Friday, hourly between 9AM ET and 5
 PM ET. It presents RSS files for the various dockets tracked by the
-`nrcadams` package. The last update was at 2026-11-06 15:17:29.324779
+`nrcadams` package. The last update was at 2026-11-06 19:39:05.519312
 ET.
 
 ## Using the RSS Feeds
@@ -32,7 +32,7 @@ last_week_in_dockets = nrcadams::docket_codex |>
   dplyr::left_join(nrcadams::docket_codex) |>
   dplyr::filter(!is.na(Project))
 #> 
-#>  This search returned: 31 files.
+#>  This search returned: 24 files.
 #> Joining with `by = join_by(DocketNumber)`
 
 
@@ -360,8 +360,13 @@ nrcadams::docket_codex |>
     #> Warning in max(current_tbl$count): no non-missing arguments to max; returning
     #> -Inf
     #> Warning: Unknown or uninitialised column: `ML Number`.
-    #> Joining with `by = join_by(DocketNumber, `ML Number`, Title, `Document Date`,
-    #> `Publish Date`, Type, Affiliation, URL, count, tag)`
+    #> Warning: Unknown or uninitialised column: `DocumentTitle`.
+    #> Warning in nrcadams:::decode_resp(resp): 
+    #> The search return no results.
+    #> Warning: Unknown or uninitialised column: `count`.
+    #> Warning in max(current_tbl$count): no non-missing arguments to max; returning
+    #> -Inf
+    #> Warning: Unknown or uninitialised column: `ML Number`.
     #> Joining with `by = join_by(DocketNumber, `ML Number`, Title, `Document Date`,
     #> `Publish Date`, Type, Affiliation, URL, count, tag)`
     #> Joining with `by = join_by(DocketNumber, `ML Number`, Title, `Document Date`,
