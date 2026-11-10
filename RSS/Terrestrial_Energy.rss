@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Sat, 07 Nov 2026 00:39:12 GMT</pubDate>
-		<lastBuildDate>Sat, 07 Nov 2026 00:39:12 GMT</lastBuildDate>
+		<pubDate>Tue, 10 Nov 2026 20:46:32 GMT</pubDate>
+		<lastBuildDate>Tue, 10 Nov 2026 20:46:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Long Mott Energy, LLC, Long Mott Generating Station - Construction Permit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26301A133</link>
+			<description>License-Construction Permit (CP)(New/Extension/Amendment) DKT 50</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
+			<pubDate>2026-11-09 19:39:00</pubDate>
+		</item>
+		<item>
+			<title>Cascade Advanced Energy Facility Site Construction Permit Preapplication Readiness Assessment Report for the Draft Environmental Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26310A341</link>
+			<description>- No Document Type Applies</description>
+			<author>NRC/OAR/DDLP/DARP/ARERB</author>
+			<pubDate>2026-11-09 14:20:00</pubDate>
+		</item>
+		<item>
+			<title>Environmental Protection Plan for the Long Mott Generating Station Construction Permit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26302A310</link>
+			<description>Environmental Protection Plan</description>
+			<author>NRC/OAR/DDLP/DARP/ARERB</author>
+			<pubDate>2026-11-09 12:28:00</pubDate>
+		</item>
+		<item>
+			<title>Ocean Atomics LLC - Letter of Intent to Submit Applications for a Standardized Maritime Nuclear Power Plant and a Nuclear Lifecycle Dockyard, and Request for Project Number</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26306A004</link>
+			<description>Letter</description>
+			<author>Ocean Atomics, LLC</author>
+			<pubDate>2026-11-09 12:28:00</pubDate>
+		</item>
 		<item>
 			<title>Dominion North Anna ESP Renewal NRC Audit Plan</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26189A087</link>
@@ -94,20 +122,6 @@
 			<description>Environmental Impact Statement</description>
 			<author>US Dept of the Navy</author>
 			<pubDate>2026-10-27 12:19:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure II: Pioneer Units 1 and 2 Preliminary Safety Analysis Report Redacted Version (Non-Proprietary)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26273A418</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2026-10-26 19:10:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure II: Pioneer Units 1 and 2 Preliminary Safety Analysis Report Redacted Version (Non-Proprietary)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26273A418</link>
-			<description>Preliminary Safety Analysis Report (PSAR)</description>
-			<author>Holtec International, SMR, LLC</author>
-			<pubDate>2026-10-26 19:10:00</pubDate>
 		</item>
 	</channel>
 </rss>
