@@ -2,7 +2,7 @@
 
 This page is updated Monday through Friday, hourly between 9AM ET and 5
 PM ET. It presents RSS files for the various dockets tracked by the
-`nrcadams` package. The last update was at 2026-11-11 21:44:52.755335
+`nrcadams` package. The last update was at 2026-11-12 16:25:09.737063
 ET.
 
 ## Using the RSS Feeds
@@ -272,6 +272,10 @@ burning_ears <- nrcadams::docket_codex |>
 #> Warning in nrcadams::search_public_ADAMS(search_term = paste0("'", .x, "'"), :
 #> Negative docket numbers detected. These will be used to excludedocuments from
 #> the search results.
+#> Warning: There was 1 warning in `dplyr::mutate()`.
+#> i In argument: `DocketNumber = as.double(DocketNumber)`.
+#> Caused by warning:
+#> ! NAs introduced by coercion
 #> Warning in nrcadams::search_public_ADAMS(search_term = paste0("'", .x, "'"), :
 #> Negative docket numbers detected. These will be used to excludedocuments from
 #> the search results.
