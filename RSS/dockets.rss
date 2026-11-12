@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 11 Nov 2026 21:06:53 GMT</pubDate>
-		<lastBuildDate>Wed, 11 Nov 2026 21:06:53 GMT</lastBuildDate>
+		<pubDate>Thu, 12 Nov 2026 02:44:54 GMT</pubDate>
+		<lastBuildDate>Thu, 12 Nov 2026 02:44:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -157,27 +157,6 @@
 			<description>E-Mail</description>
 			<author>NRC</author>
 			<pubDate>2026-10-29 12:10:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1 - Summary Report on the Regulatory Audit of Topical Report, Oklo, Inc - Staffing Plan Validation methodology (Public)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26271A018</link>
-			<description>Audit Report</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
-			<pubDate>2026-10-28 12:17:00</pubDate>
-		</item>
-		<item>
-			<title>Summary Report on the Regulatory Audit of Topical Report, Oklo, Inc - Staffing Plan Validation methodology</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26271A017</link>
-			<description>Letter</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
-			<pubDate>2026-10-28 12:17:00</pubDate>
-		</item>
-		<item>
-			<title>Email to SMR (Holtec) Subject "SMR-300 Time-Domain LS-DYNA Soil Structure Interaction Analysis Methodology LTR - Schedule Update" dated October 19, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26293A006</link>
-			<description>E-Mail</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB2</author>
-			<pubDate>2026-10-28 12:17:00</pubDate>
 		</item>
 	</channel>
 </rss>
