@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 12 Nov 2026 21:25:16 GMT</pubDate>
-		<lastBuildDate>Thu, 12 Nov 2026 21:25:16 GMT</lastBuildDate>
+		<pubDate>Fri, 13 Nov 2026 02:25:19 GMT</pubDate>
+		<lastBuildDate>Fri, 13 Nov 2026 02:25:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>SRM-M261112: Enclosure 1 - Direct Final Rule Federal Register Notice</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26316A157</link>
+			<description>Commission Staff Requirements Memo (SRM)</description>
+			<author>NRC/SECY</author>
+			<pubDate>2026-11-12 20:48:00</pubDate>
+		</item>
 		<item>
 			<title>2026 DANU-ISG-2023-01 Public Meeting Summary.</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26316A203</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26300A117</link>
 			<description>Letter, Safety Evaluation</description>
 			<author>NRC/NRR/DDLP/DLP1/ORLB2</author>
-			<pubDate>2026-11-09 14:20:00</pubDate>
-		</item>
-		<item>
-			<title>NEI 26-03: An Approach for the Assessment of Low Frequency Seismic Events as Part of a Risk-Informed Performance-Based Licensing Pathway</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26310A287</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>Nuclear Energy Institute (NEI)</author>
 			<pubDate>2026-11-09 14:20:00</pubDate>
 		</item>
 	</channel>

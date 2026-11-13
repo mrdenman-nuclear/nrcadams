@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 12 Nov 2026 21:25:11 GMT</pubDate>
-		<lastBuildDate>Thu, 12 Nov 2026 21:25:11 GMT</lastBuildDate>
+		<pubDate>Fri, 13 Nov 2026 02:25:15 GMT</pubDate>
+		<lastBuildDate>Fri, 13 Nov 2026 02:25:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -115,48 +115,6 @@
 			<description>Letter</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
 			<pubDate>2026-10-30 16:20:00</pubDate>
-		</item>
-		<item>
-			<title>Terrapower LLC-Audit Summary Report Topical Report Nat-21522 Natrium Generic Dual Unit Topical Report Revision 0</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26293A230</link>
-			<description>Audit Report, Response to Request for Additional Information (RAI), Topical Report</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
-			<pubDate>2026-10-29 14:46:00</pubDate>
-		</item>
-		<item>
-			<title>E-mail - Transmittal of Verification Form for Aalo QAPD Topical Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26300A382</link>
-			<description>E-Mail</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
-			<pubDate>2026-10-29 13:14:00</pubDate>
-		</item>
-		<item>
-			<title>NRC 896 - Aalo Quality Assurance Program TR Verification</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26294A186</link>
-			<description>Topical Report Evaluation</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB4</author>
-			<pubDate>2026-10-29 13:14:00</pubDate>
-		</item>
-		<item>
-			<title>Proprietary Determination - Construction Permit Application Revision 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26302A030</link>
-			<description>E-Mail</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
-			<pubDate>2026-10-29 13:14:00</pubDate>
-		</item>
-		<item>
-			<title>2026/10/15 GEH BWRX-300 SMR - GE Vernova Hitachi Request for Withholding Information from Public Disclosure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26288A280</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-10-29 12:10:00</pubDate>
-		</item>
-		<item>
-			<title>2026/10/15 GEH BWRX-300 SMR - GE Vernova Hitachi Request for Withholding Information from Public Disclosure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26288A282</link>
-			<description>E-Mail</description>
-			<author>NRC</author>
-			<pubDate>2026-10-29 12:10:00</pubDate>
 		</item>
 	</channel>
 </rss>

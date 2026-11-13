@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 12 Nov 2026 21:25:16 GMT</pubDate>
-		<lastBuildDate>Thu, 12 Nov 2026 21:25:16 GMT</lastBuildDate>
+		<pubDate>Fri, 13 Nov 2026 02:25:19 GMT</pubDate>
+		<lastBuildDate>Fri, 13 Nov 2026 02:25:19 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>Final Safety Evaluation Report (FSER)</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
 			<pubDate>2026-10-30 16:20:00</pubDate>
-		</item>
-		<item>
-			<title>Morrow Presentation, "Humans and Automation in Nuclear Operations " in HFES ASPIRE Panel, "Shared Safety: Humans and Automation in High-Consequence Industries"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26299A302</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/RES/DERA/ISEB</author>
-			<pubDate>2026-10-29 12:11:00</pubDate>
 		</item>
 	</channel>
 </rss>
