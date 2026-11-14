@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 13 Nov 2026 20:49:47 GMT</pubDate>
-		<lastBuildDate>Fri, 13 Nov 2026 20:49:47 GMT</lastBuildDate>
+		<pubDate>Sat, 14 Nov 2026 01:17:21 GMT</pubDate>
+		<lastBuildDate>Sat, 14 Nov 2026 01:17:21 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>University of Florida - U.S. Nuclear Regulatory Commission Safety Inspection Report No. 05000083/2026201</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26302A169</link>
+			<description>Inspection Report, Letter</description>
+			<author>NRC/NRR/DDLP/DLP2/NPUFB</author>
+			<pubDate>2026-11-13 20:14:00</pubDate>
+		</item>
+	</channel>
 </rss>

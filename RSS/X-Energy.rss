@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 13 Nov 2026 20:49:51 GMT</pubDate>
-		<lastBuildDate>Fri, 13 Nov 2026 20:49:51 GMT</lastBuildDate>
+		<pubDate>Sat, 14 Nov 2026 01:17:24 GMT</pubDate>
+		<lastBuildDate>Sat, 14 Nov 2026 01:17:24 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NRC FOIA Request Logs (10/01/2026 - 11/13/2026)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26317A251</link>
+			<description>- No Document Type Applies</description>
+			<author>NRC/OCIO</author>
+			<pubDate>2026-11-13 20:15:00</pubDate>
+		</item>
 		<item>
 			<title>NRC Completeness Determination response- for X-Energy LLC XENITH Parametric Source Term Topical Report Revision 2</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26303A078</link>
@@ -212,13 +219,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26308A197</link>
 			<description>E-Mail</description>
 			<author>- No Known Affiliation</author>
-			<pubDate>2026-11-12 12:21:00</pubDate>
-		</item>
-		<item>
-			<title>OEDO-26-02609 2.206 Petition - Palisades Refueling Operations - Alan Blind - NRC Screening Email (EPID L-2026-CRS-0005)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26308A176</link>
-			<description>E-Mail</description>
-			<author>NRC/NRR/DDLP/DLP1/ORLB2</author>
 			<pubDate>2026-11-12 12:21:00</pubDate>
 		</item>
 	</channel>
