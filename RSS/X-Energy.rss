@@ -5,12 +5,40 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Sat, 14 Nov 2026 01:17:24 GMT</pubDate>
-		<lastBuildDate>Sat, 14 Nov 2026 01:17:24 GMT</lastBuildDate>
+		<pubDate>Mon, 16 Nov 2026 23:16:07 GMT</pubDate>
+		<lastBuildDate>Mon, 16 Nov 2026 23:16:07 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>NP-Aquatic Resources and Determination Report</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26309A271</link>
+			<description>Environmental Report</description>
+			<author>Environmental Services, Inc, Last Energy</author>
+			<pubDate>2026-11-16 12:32:00</pubDate>
+		</item>
+		<item>
+			<title>EGM Uncoordinated circuit interruption - Revision 1 - 02OCT2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26293A133</link>
+			<description>Enforcement Guidance Memorandum, Memoranda</description>
+			<author>NRC/CNRI/DDII/DOCP/AEB</author>
+			<pubDate>2026-11-16 12:32:00</pubDate>
+		</item>
+		<item>
+			<title>NP-Phase I Environmental Site Assessment Report.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26309A273</link>
+			<description>Report, Technical</description>
+			<author>LJA Environmental Service, LLC</author>
+			<pubDate>2026-11-16 12:31:00</pubDate>
+		</item>
+		<item>
+			<title>LER 2026-001-00 for North Anna Power Station, Unit 2 Inside Recirculation Spray Heat Exchangers Inoperable due to Tube Blockage</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26309A307</link>
+			<description>Letter, Licensee Event Report (LER)</description>
+			<author>Dominion Energy, Virginia Electric and Power Co (VEPCO)</author>
+			<pubDate>2026-11-16 12:31:00</pubDate>
+		</item>
 		<item>
 			<title>NRC FOIA Request Logs (10/01/2026 - 11/13/2026)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26317A251</link>
@@ -79,13 +107,6 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26310A097</link>
 			<description>General FR Notice Comment Letter</description>
 			<author>X-Energy, LLC</author>
-			<pubDate>2026-11-13 12:34:00</pubDate>
-		</item>
-		<item>
-			<title>Nuclear Regulatory Commission Inspection Report Of The Electric Power Research Institute No. 99902181/2026201</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26307A079</link>
-			<description>Inspection Report, Letter</description>
-			<author>NRC/CNRI/DDII/DRIS/VQAB</author>
 			<pubDate>2026-11-13 12:34:00</pubDate>
 		</item>
 		<item>
@@ -199,27 +220,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/OCIO</author>
 			<pubDate>2026-11-12 12:22:00</pubDate>
-		</item>
-		<item>
-			<title>Columbia Generating Station - Fourth Interval Inservice Inspection Program Relief Request 4ISI-12 for Limited Coverage Examinations</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26307A246</link>
-			<description>Letter, Request for Code Relief or Alternative</description>
-			<author>Energy Northwest</author>
-			<pubDate>2026-11-12 12:21:00</pubDate>
-		</item>
-		<item>
-			<title>Clinton Power Station, Unit 1 - License Amendment Request - Relocation of the Pressure and Temperature Limit Curves to the Pressure and Temperature Limits Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26307A259</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2026-11-12 12:21:00</pubDate>
-		</item>
-		<item>
-			<title>OEDO-26-02609 2.206 Petition - Palisades Refueling Operations - Alan Blind - Petitioner Acknowledgment of Receipt of Screening Email (EPID L-2026-CRS-0005)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26308A197</link>
-			<description>E-Mail</description>
-			<author>- No Known Affiliation</author>
-			<pubDate>2026-11-12 12:21:00</pubDate>
 		</item>
 	</channel>
 </rss>
