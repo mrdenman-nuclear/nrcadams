@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 16 Nov 2026 23:16:07 GMT</pubDate>
-		<lastBuildDate>Mon, 16 Nov 2026 23:16:07 GMT</lastBuildDate>
+		<pubDate>Wed, 18 Nov 2026 03:34:30 GMT</pubDate>
+		<lastBuildDate>Wed, 18 Nov 2026 03:34:30 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>10/28/2026 Summary Of Advanced Reactor Oversight Process Public Workshop # 1</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26310A063</link>
+			<description>Meeting Summary, Memoranda</description>
+			<author>NRC/CNRI/DDII/DOCP/RAB</author>
+			<pubDate>2026-11-17 13:08:00</pubDate>
+		</item>
 		<item>
 			<title>10/20/20206 Summary of Observation Pre-Submittal Meeting held with Southern Nuclear Operating Company, Inc., Regarding a Proposed LAR Regarding Deletion of Technical Specification 3.3.12, for Vogtle Electric Generating Plant, Units 3 and 4</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26306A008</link>
@@ -59,13 +66,6 @@
 			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
 			<pubDate>2026-11-09 14:20:00</pubDate>
-		</item>
-		<item>
-			<title>1st American Nuclear Co., Justification that Installation of Conventional Island Structures, Systems, and Components for the EAGL-1 are Preconstruction Activities</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26299A397</link>
-			<description>Letter</description>
-			<author>1st American Nuclear Co</author>
-			<pubDate>2026-11-03 12:10:00</pubDate>
 		</item>
 	</channel>
 </rss>

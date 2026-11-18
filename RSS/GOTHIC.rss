@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Mon, 16 Nov 2026 23:16:09 GMT</pubDate>
-		<lastBuildDate>Mon, 16 Nov 2026 23:16:09 GMT</lastBuildDate>
+		<pubDate>Wed, 18 Nov 2026 03:34:31 GMT</pubDate>
+		<lastBuildDate>Wed, 18 Nov 2026 03:34:31 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>POW028 - National Register Bulletin 15</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26320A651</link>
+			<description>Legal-Pre-Filed Exhibits</description>
+			<author>Powertech (USA), Inc, Holland and Knight, LLP</author>
+			<pubDate>2026-11-17 18:35:00</pubDate>
+		</item>
+		<item>
+			<title>NRC068 - South Dakota SHPO Guidance Federal and State Preservation Laws 2023</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26320A573</link>
+			<description>Legal-Pre-Filed Exhibits</description>
+			<author>NRC/OGC</author>
+			<pubDate>2026-11-17 17:02:00</pubDate>
+		</item>
 		<item>
 			<title>Summary of September 17, 2026, Public Meeting with Constellation Energy Generation, LLC, to Discuss Implementation of the Risk Informed High Energy Line Break Methodology for a Measurement Uncertainty Recapture Power Uprate (EPID L-2026-LRM-0128)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26306A171</link>
@@ -80,13 +94,6 @@
 			<description>Inspection Report, Letter</description>
 			<author>NRC/CNRI/ORAR4/R4DRP/RPBB</author>
 			<pubDate>2026-11-12 12:22:00</pubDate>
-		</item>
-		<item>
-			<title>Palisades Nuclear Plant - Integrated Inspection Report 05000255/2026003 and Assessment Follow-Up Letter</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26313A389</link>
-			<description>Inspection Report, Letter</description>
-			<author>NRC/CNRI/ORAR3/R3DRP/RPBD</author>
-			<pubDate>2026-11-10 13:24:00</pubDate>
 		</item>
 	</channel>
 </rss>
