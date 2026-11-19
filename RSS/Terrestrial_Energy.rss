@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 18 Nov 2026 03:34:30 GMT</pubDate>
-		<lastBuildDate>Wed, 18 Nov 2026 03:34:30 GMT</lastBuildDate>
+		<pubDate>Thu, 19 Nov 2026 22:03:58 GMT</pubDate>
+		<lastBuildDate>Thu, 19 Nov 2026 22:03:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Ocean Atomics - NRC Regulatory Engagement Plan - PLC-PLAN-0001, Revision 0</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26314A077</link>
+			<description>Report, Technical</description>
+			<author>Ocean Atomics, LLC</author>
+			<pubDate>2026-11-19 12:02:00</pubDate>
+		</item>
 		<item>
 			<title>NRC097 - NUREG-1748 Environmental Review Guidance for NMSS Licensing</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26320A607</link>
@@ -150,13 +157,6 @@
 			<description>Audit Plan, Memoranda</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
 			<pubDate>2026-11-06 12:10:00</pubDate>
-		</item>
-		<item>
-			<title>Radiant Industries, Inc., Final Environmental Assessment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26258A146</link>
-			<description>Environmental Assessment, Environmental Report</description>
-			<author>NRC/NMSS/DDFSTE/DSFST/ERMB</author>
-			<pubDate>2026-11-04 17:02:00</pubDate>
 		</item>
 	</channel>
 </rss>

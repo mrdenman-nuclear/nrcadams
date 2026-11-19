@@ -5,32 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Wed, 18 Nov 2026 03:34:30 GMT</pubDate>
-		<lastBuildDate>Wed, 18 Nov 2026 03:34:30 GMT</lastBuildDate>
+		<pubDate>Thu, 19 Nov 2026 22:03:58 GMT</pubDate>
+		<lastBuildDate>Thu, 19 Nov 2026 22:03:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Comments on Regulatory Enhancements for Reactor Licensing, Decommissioning, and Operational Oversight</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26320A395</link>
+			<description>Rulemaking-Comment</description>
+			<author>- No Known Affiliation</author>
+			<pubDate>2026-11-18 12:17:00</pubDate>
+		</item>
 		<item>
 			<title>Commission Memorandum and Order (CLI-26-15)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26310A312</link>
 			<description>Legal-Order</description>
 			<author>NRC/SECY</author>
 			<pubDate>2026-11-06 18:30:00</pubDate>
-		</item>
-		<item>
-			<title>Radiant Industries, Inc., Final Environmental Assessment</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26258A146</link>
-			<description>Environmental Assessment, Environmental Report</description>
-			<author>NRC/NMSS/DDFSTE/DSFST/ERMB</author>
-			<pubDate>2026-11-04 17:02:00</pubDate>
-		</item>
-		<item>
-			<title>09/24/2026 Summary of Bimonthly Public Meeting with NEI, Industry Representatives and External Stakeholders to Discuss Staff's Progress on Initiatives Related to Reactor Oversight Progress (ROP).</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26299A358</link>
-			<description>Meeting Summary, Memoranda</description>
-			<author>NRC/CNRI/DDII/DOCP/RAB</author>
-			<pubDate>2026-11-04 16:02:00</pubDate>
 		</item>
 	</channel>
 </rss>
