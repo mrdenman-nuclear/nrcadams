@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 19 Nov 2026 22:03:51 GMT</pubDate>
-		<lastBuildDate>Thu, 19 Nov 2026 22:03:51 GMT</lastBuildDate>
+		<pubDate>Fri, 20 Nov 2026 03:01:17 GMT</pubDate>
+		<lastBuildDate>Fri, 20 Nov 2026 03:01:17 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -87,13 +87,6 @@
 			<description>Response to Request for Additional Information (RAI)</description>
 			<author>Holtec International SMR, LLC</author>
 			<pubDate>2026-11-17 13:08:00</pubDate>
-		</item>
-		<item>
-			<title>Holtec Soil Structure Interaction Analysis Methodology LTR Audit Summary</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26306A160</link>
-			<description>Audit Report</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB2</author>
-			<pubDate>2026-11-05 16:07:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 19 Nov 2026 22:03:58 GMT</pubDate>
-		<lastBuildDate>Thu, 19 Nov 2026 22:03:58 GMT</lastBuildDate>
+		<pubDate>Fri, 20 Nov 2026 03:01:25 GMT</pubDate>
+		<lastBuildDate>Fri, 20 Nov 2026 03:01:25 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Systems of Records Notices - FRN -OMB - FINAL 3-18-2025</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML25070A116</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/OCIO/CRED/CSEB</author>
+			<pubDate>2026-11-19 17:39:00</pubDate>
+		</item>
+		<item>
+			<title>Federal Register Notice-Confirmatory Order TRISO-X (EAF-RII-2026-0052)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26308A124</link>
+			<description>Federal Register Notice</description>
+			<author>NRC/NMSS/DDCNMI/DFMP/PSB</author>
+			<pubDate>2026-11-19 15:27:00</pubDate>
+		</item>
 		<item>
 			<title>SECY-26-0135: Weekly Information Report Week Ending October 30, 2026</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26320A179</link>
@@ -58,6 +72,13 @@
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26314A387</link>
 			<description>Inspection Report, Letter, Enforcement Action</description>
 			<author>NRC/CNRI/ORAR3/R3DRP/RPBA</author>
+			<pubDate>2026-11-19 12:02:00</pubDate>
+		</item>
+		<item>
+			<title>LTR-26-0238 Diane Curran, Harmon, Curran, Spielberg & Eisenberg, LLP, Counsel for C-10, Letter re: Request for Commission Intervention and Oversight of Alkali-Silica Reaction Testing for Seabrook Station Unit 1, Docket No. 50-443</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26282B038</link>
+			<description>E-Mail, Legal-Affidavit, Letter, Resume, Technical Paper</description>
+			<author>C-10 Research and Education Foundation, Inc, Harmon, Curran, Spielberg & Eisenberg, LLP</author>
 			<pubDate>2026-11-19 12:02:00</pubDate>
 		</item>
 		<item>
@@ -199,27 +220,6 @@
 			<description>Legal-Pre-Filed Exhibits</description>
 			<author>NRC/OGC</author>
 			<pubDate>2026-11-17 17:02:00</pubDate>
-		</item>
-		<item>
-			<title>NRC065 - 2014 SEIS for Dewey-Burdock Project Chp 6-11 and Appendices</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26320A570</link>
-			<description>Legal-Pre-Filed Exhibits</description>
-			<author>NRC/OGC</author>
-			<pubDate>2026-11-17 16:04:00</pubDate>
-		</item>
-		<item>
-			<title>NRC099 - Evaluative Testing of 20 Sites Powertech Project Volume 1 Part 1</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26320A597</link>
-			<description>Legal-Pre-Filed Exhibits</description>
-			<author>NRC/OGC</author>
-			<pubDate>2026-11-17 16:04:00</pubDate>
-		</item>
-		<item>
-			<title>TVA Categorical Exclusion Transmission Line</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26321A094</link>
-			<description>Environmental Assessment</description>
-			<author>NRC/NMSS/DDFSTE/DFC/FLB1</author>
-			<pubDate>2026-11-17 15:21:00</pubDate>
 		</item>
 	</channel>
 </rss>
