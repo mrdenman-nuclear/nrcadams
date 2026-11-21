@@ -5,25 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 20 Nov 2026 03:01:25 GMT</pubDate>
-		<lastBuildDate>Fri, 20 Nov 2026 03:01:25 GMT</lastBuildDate>
+		<pubDate>Sat, 21 Nov 2026 03:01:58 GMT</pubDate>
+		<lastBuildDate>Sat, 21 Nov 2026 03:01:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Draft Environmental Impact Statement for Project IKE Enrichment Facility in Roane County, Tennessee</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26317A254</link>
+			<description>Environmental Analysis Statement, Draft</description>
+			<author>NRC/NMSS/DDFSTE/DSFST/ERMB</author>
+			<pubDate>2026-11-20 14:42:00</pubDate>
+		</item>
 		<item>
 			<title>Comments on Regulatory Enhancements for Reactor Licensing, Decommissioning, and Operational Oversight</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26320A395</link>
 			<description>Rulemaking-Comment</description>
 			<author>- No Known Affiliation</author>
 			<pubDate>2026-11-18 12:17:00</pubDate>
-		</item>
-		<item>
-			<title>Commission Memorandum and Order (CLI-26-15)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26310A312</link>
-			<description>Legal-Order</description>
-			<author>NRC/SECY</author>
-			<pubDate>2026-11-06 18:30:00</pubDate>
 		</item>
 	</channel>
 </rss>

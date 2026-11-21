@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 20 Nov 2026 03:01:27 GMT</pubDate>
-		<lastBuildDate>Fri, 20 Nov 2026 03:01:27 GMT</lastBuildDate>
+		<pubDate>Sat, 21 Nov 2026 03:01:59 GMT</pubDate>
+		<lastBuildDate>Sat, 21 Nov 2026 03:01:59 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Draft Environmental Impact Statement for Project IKE Enrichment Facility in Roane County, Tennessee</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26317A254</link>
+			<description>Environmental Analysis Statement, Draft</description>
+			<author>NRC/NMSS/DDFSTE/DSFST/ERMB</author>
+			<pubDate>2026-11-20 14:42:00</pubDate>
+		</item>
+	</channel>
 </rss>

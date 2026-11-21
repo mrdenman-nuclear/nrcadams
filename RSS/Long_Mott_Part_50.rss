@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 20 Nov 2026 03:01:17 GMT</pubDate>
-		<lastBuildDate>Fri, 20 Nov 2026 03:01:17 GMT</lastBuildDate>
+		<pubDate>Sat, 21 Nov 2026 03:01:50 GMT</pubDate>
+		<lastBuildDate>Sat, 21 Nov 2026 03:01:50 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>Environmental Protection Plan</description>
 			<author>NRC/OAR/DDLP/DARP/ARERB</author>
 			<pubDate>2026-11-09 12:28:00</pubDate>
-		</item>
-		<item>
-			<title>Commission Memorandum and Order (CLI-26-15)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26310A312</link>
-			<description>Legal-Order</description>
-			<author>NRC/SECY</author>
-			<pubDate>2026-11-06 18:30:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Supplemental Information to Support the Long Mott Generating Station Construction Permit Application Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26302A296</link>
-			<description>Letter</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2026-11-06 12:09:00</pubDate>
 		</item>
 	</channel>
 </rss>

@@ -5,12 +5,26 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 20 Nov 2026 03:01:18 GMT</pubDate>
-		<lastBuildDate>Fri, 20 Nov 2026 03:01:18 GMT</lastBuildDate>
+		<pubDate>Sat, 21 Nov 2026 03:01:51 GMT</pubDate>
+		<lastBuildDate>Sat, 21 Nov 2026 03:01:51 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>meeting with Oklo on Safety Classification for the Aurora Powerhouse 12/10/2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26324A220</link>
+			<description>Meeting Notice, Meeting Agenda</description>
+			<author>NRC</author>
+			<pubDate>2026-11-20 18:22:00</pubDate>
+		</item>
+		<item>
+			<title>Email to Holtec Subject "Request for Withholding Determination from Public Disclosure - Response to I&C LTR Audit Question 59" dated November 13, 2026</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26320A024</link>
+			<description>E-Mail, Proprietary Information Review</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB2</author>
+			<pubDate>2026-11-20 12:11:00</pubDate>
+		</item>
 		<item>
 			<title>Federal Register Notice-Confirmatory Order TRISO-X (EAF-RII-2026-0052)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26308A124</link>
@@ -185,20 +199,6 @@
 			<description>Environmental Protection Plan</description>
 			<author>NRC/OAR/DDLP/DARP/ARERB</author>
 			<pubDate>2026-11-09 12:28:00</pubDate>
-		</item>
-		<item>
-			<title>Commission Memorandum and Order (CLI-26-15)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26310A312</link>
-			<description>Legal-Order</description>
-			<author>NRC/SECY</author>
-			<pubDate>2026-11-06 18:30:00</pubDate>
-		</item>
-		<item>
-			<title>Submittal of Supplemental Information to Support the Long Mott Generating Station Construction Permit Application Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26302A296</link>
-			<description>Letter</description>
-			<author>Long Mott Energy, LLC</author>
-			<pubDate>2026-11-06 12:09:00</pubDate>
 		</item>
 	</channel>
 </rss>
