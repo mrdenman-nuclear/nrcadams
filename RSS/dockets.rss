@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 24 Nov 2026 01:32:02 GMT</pubDate>
-		<lastBuildDate>Tue, 24 Nov 2026 01:32:02 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Nov 2026 23:27:14 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Nov 2026 23:27:14 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Acceptance Review of the Pioneer Units 1 and 2 Construction Permit Application</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26324A019</link>
+			<description>Letter, Request for Additional Information (RAI)</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB2</author>
+			<pubDate>2026-11-24 12:14:00</pubDate>
+		</item>
 		<item>
 			<title>Email to Holtec Subject "Request for Withholding Determination from Public Disclosure - Responses to Audit Questions for CSS Structures Licensing Topical Report" dated October 15, 2026</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26289A002</link>
@@ -213,13 +220,6 @@
 			<description>E-Mail</description>
 			<author>Natura Resources, LLC</author>
 			<pubDate>2026-11-13 14:00:00</pubDate>
-		</item>
-		<item>
-			<title>Withholding Proprietary Information From Public Disclosure -OKLO INC. slides for October 14 2026 meeting</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26300A372</link>
-			<description>Letter, Proprietary Information Review</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
-			<pubDate>2026-11-10 12:27:00</pubDate>
 		</item>
 	</channel>
 </rss>

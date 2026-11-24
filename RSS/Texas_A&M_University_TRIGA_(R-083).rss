@@ -5,11 +5,18 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 24 Nov 2026 01:32:02 GMT</pubDate>
-		<lastBuildDate>Tue, 24 Nov 2026 01:32:02 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Nov 2026 23:27:15 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Nov 2026 23:27:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Texas Engineering Experiment Station/Texas A&M University System - U.S. Nuclear Regulatory Commission Safety Inspection Report No. 05000128/2026202</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26316A424</link>
+			<description>Inspection Report, Letter</description>
+			<author>NRC/NRR/DDLP/DLP2/ORTRB</author>
+			<pubDate>2026-11-24 12:14:00</pubDate>
+		</item>
+	</channel>
 </rss>

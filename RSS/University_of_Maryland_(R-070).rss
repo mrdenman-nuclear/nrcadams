@@ -5,11 +5,25 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 24 Nov 2026 01:32:03 GMT</pubDate>
-		<lastBuildDate>Tue, 24 Nov 2026 01:32:03 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Nov 2026 23:27:15 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Nov 2026 23:27:15 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>Division Director Thank You Letter - NRC UMD Tour</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26273A433</link>
+			<description>Letter</description>
+			<author>NRC/NRR/DDLP/DLP2</author>
+			<pubDate>2026-11-24 12:39:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 1 for Thank you Letter to UMD for April 14 2026 Tour</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26273A435</link>
+			<description>Letter, Photograph</description>
+			<author>NRC/NRR/DDLP/DLP2/NPUFB</author>
+			<pubDate>2026-11-24 12:39:00</pubDate>
+		</item>
+	</channel>
 </rss>
