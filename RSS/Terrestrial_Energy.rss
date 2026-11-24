@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Sat, 21 Nov 2026 03:01:58 GMT</pubDate>
-		<lastBuildDate>Sat, 21 Nov 2026 03:01:58 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Nov 2026 01:32:09 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Nov 2026 01:32:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Comments on the Proposed Rule - Modernizing Requirements Relating to Physical Protection of Category 1 and Category 2 Quantities of Radioactive Material</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26327A334</link>
+			<description>Rulemaking-Comment</description>
+			<author>Nuclear Free Hawaii</author>
+			<pubDate>2026-11-23 20:06:00</pubDate>
+		</item>
+		<item>
+			<title>Callaway, Unit 1, Final Safety Analysis Report, Revision OL-28, Text and Tables</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26008A255</link>
+			<description>Final Safety Analysis Report (FSAR), Graphics incl Charts and Tables</description>
+			<author>Ameren Missouri, Union Electric Co</author>
+			<pubDate>2026-11-23 18:28:00</pubDate>
+		</item>
+		<item>
+			<title>Callaway, Unit 1, Final Safety Analysis Report, Revision OL-28, Site Addendum, Chapters 2 -13 and NRC QR, Text and Tables</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26008A259</link>
+			<description>Final Safety Analysis Report (FSAR), Graphics incl Charts and Tables</description>
+			<author>Ameren Missouri, Union Electric Co</author>
+			<pubDate>2026-11-23 18:28:00</pubDate>
+		</item>
 		<item>
 			<title>Brunswick Steam Electric Plant Units 1 and 2, SLRA Appendix E</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26323A115</link>
@@ -47,11 +68,25 @@
 			<pubDate>2026-11-20 12:11:00</pubDate>
 		</item>
 		<item>
+			<title>Environmental Assessment and Finding of No Significant Impact for the Construction Permit and Environmental Review Exemptions for the Long Mott Generating Station</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26112A016</link>
+			<description>Environmental Assessment</description>
+			<author>NRC/NMSS</author>
+			<pubDate>2026-11-19 20:16:00</pubDate>
+		</item>
+		<item>
 			<title>Eden Request for Confirmatory Information</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26323A406</link>
 			<description>Request for Additional Information (RAI), Schedule and Calendars</description>
 			<author>NRC/OAR/DDLP/DARP/ARERB</author>
 			<pubDate>2026-11-19 20:07:00</pubDate>
+		</item>
+		<item>
+			<title>Environmental Protection Plan for the Long Mott Generating Station Construction Permit</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26302A310</link>
+			<description>Environmental Protection Plan</description>
+			<author>NRC/OAR/DDLP/DARP/ARERB</author>
+			<pubDate>2026-11-19 16:22:00</pubDate>
 		</item>
 		<item>
 			<title>Ocean Atomics - NRC Regulatory Engagement Plan - PLC-PLAN-0001, Revision 0</title>
@@ -164,34 +199,6 @@
 			<description>Response to Request for Additional Information (RAI)</description>
 			<author>Constellation Energy Generation, LLC</author>
 			<pubDate>2026-11-12 12:21:00</pubDate>
-		</item>
-		<item>
-			<title>Long Mott Energy, LLC, Long Mott Generating Station - Construction Permit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26301A133</link>
-			<description>License-Construction Permit (CP)(New/Extension/Amendment) DKT 50</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB5</author>
-			<pubDate>2026-11-09 19:39:00</pubDate>
-		</item>
-		<item>
-			<title>Cascade Advanced Energy Facility Site Construction Permit Preapplication Readiness Assessment Report for the Draft Environmental Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26310A341</link>
-			<description>- No Document Type Applies</description>
-			<author>NRC/OAR/DDLP/DARP/ARERB</author>
-			<pubDate>2026-11-09 14:20:00</pubDate>
-		</item>
-		<item>
-			<title>Environmental Protection Plan for the Long Mott Generating Station Construction Permit</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26302A310</link>
-			<description>Environmental Protection Plan</description>
-			<author>NRC/OAR/DDLP/DARP/ARERB</author>
-			<pubDate>2026-11-09 12:28:00</pubDate>
-		</item>
-		<item>
-			<title>Ocean Atomics LLC - Letter of Intent to Submit Applications for a Standardized Maritime Nuclear Power Plant and a Nuclear Lifecycle Dockyard, and Request for Project Number</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26306A004</link>
-			<description>Letter</description>
-			<author>Ocean Atomics, LLC</author>
-			<pubDate>2026-11-09 12:28:00</pubDate>
 		</item>
 	</channel>
 </rss>

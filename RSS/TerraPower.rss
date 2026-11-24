@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Sat, 21 Nov 2026 03:01:58 GMT</pubDate>
-		<lastBuildDate>Sat, 21 Nov 2026 03:01:58 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Nov 2026 01:32:09 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Nov 2026 01:32:09 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -101,13 +101,6 @@
 			<description>Annual Report</description>
 			<author>NRC/OIG</author>
 			<pubDate>2026-11-10 12:27:00</pubDate>
-		</item>
-		<item>
-			<title>NRC Slides for the November 10, 2026, Workshop with NEI and ANS on Graded Structural Design and Site Characterization</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26310A388</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB1</author>
-			<pubDate>2026-11-09 14:20:00</pubDate>
 		</item>
 	</channel>
 </rss>

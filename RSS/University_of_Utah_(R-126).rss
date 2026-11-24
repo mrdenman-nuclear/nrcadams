@@ -5,11 +5,67 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Sat, 21 Nov 2026 03:01:52 GMT</pubDate>
-		<lastBuildDate>Sat, 21 Nov 2026 03:01:52 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Nov 2026 01:32:03 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Nov 2026 01:32:03 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
-</channel>
+		<item>
+			<title>University of Utah, TRIGA Reactor (UUTR), Draft Technical Specifications and Bases</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26318A010</link>
+			<description>Technical Specification, Amendment, Technical Specification, Bases Change</description>
+			<author>Univ of Utah, Salt Lake City</author>
+			<pubDate>2026-11-23 12:17:00</pubDate>
+		</item>
+		<item>
+			<title>University of Utah, Letter Requesting Withdrawal of Amendment Request and Associated Documents Regarding Modification of pH Limiting Condition for Operation in Technical Specifications 5.5-7.5 to 5.0-7.5.</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26318A002</link>
+			<description>Letter</description>
+			<author>Univ of Utah</author>
+			<pubDate>2026-11-23 12:16:00</pubDate>
+		</item>
+		<item>
+			<title>University of Utah TRIGA Reactor - Technical Specifications And Bases</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26318A005</link>
+			<description>Technical Specification, Bases Change</description>
+			<author>Univ of Utah</author>
+			<pubDate>2026-11-23 12:16:00</pubDate>
+		</item>
+		<item>
+			<title>University of Utah, TRIGA Reactor (UUTR), License Amendment Request Supporting Documentation for Changing Periodicity of Fuel Inspection</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26318A008</link>
+			<description>License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>Univ of Utah, Salt Lake City</author>
+			<pubDate>2026-11-23 12:16:00</pubDate>
+		</item>
+		<item>
+			<title>University of Utah, TRIGA Reactor (UUTR), Technical Specifications and Bases</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26318A009</link>
+			<description>Technical Specification, Amendment, Technical Specification, Bases Change</description>
+			<author>Univ of Utah, Salt Lake City</author>
+			<pubDate>2026-11-23 12:16:00</pubDate>
+		</item>
+		<item>
+			<title>University of Utah, TRIGA Reactor (UUTR), Administrative License Amendment Request for License Number R-126, Docket Number 05000497</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26318A007</link>
+			<description>Letter</description>
+			<author>Univ of Utah, Salt Lake City</author>
+			<pubDate>2026-11-23 12:16:00</pubDate>
+		</item>
+		<item>
+			<title>2026 University of Utah TRIGA Reactor - License Amendment Request Supporting Removal of pH Limit from UUTR Technical Specifications</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26318A003</link>
+			<description>License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
+			<author>Univ of Utah</author>
+			<pubDate>2026-11-23 12:16:00</pubDate>
+		</item>
+		<item>
+			<title>University of Utah TRIGA Reactor - Technical Specifications And Bases</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26318A004</link>
+			<description>Technical Specification, Bases Change</description>
+			<author>Univ of Utah</author>
+			<pubDate>2026-11-23 12:16:00</pubDate>
+		</item>
+	</channel>
 </rss>

@@ -5,12 +5,33 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Sat, 21 Nov 2026 03:01:58 GMT</pubDate>
-		<lastBuildDate>Sat, 21 Nov 2026 03:01:58 GMT</lastBuildDate>
+		<pubDate>Tue, 24 Nov 2026 01:32:10 GMT</pubDate>
+		<lastBuildDate>Tue, 24 Nov 2026 01:32:10 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Callaway, Unit 1, Final Safety Analysis Report, Revision OL-28, Site Addendum, Chapters 2 -13 and NRC QR, Text and Tables</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26008A259</link>
+			<description>Final Safety Analysis Report (FSAR), Graphics incl Charts and Tables</description>
+			<author>Ameren Missouri, Union Electric Co</author>
+			<pubDate>2026-11-23 18:28:00</pubDate>
+		</item>
+		<item>
+			<title>Callaway, Unit 1, Final Safety Analysis Report, Revision OL-28, Text and Tables</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26008A255</link>
+			<description>Final Safety Analysis Report (FSAR), Graphics incl Charts and Tables</description>
+			<author>Ameren Missouri, Union Electric Co</author>
+			<pubDate>2026-11-23 18:28:00</pubDate>
+		</item>
+		<item>
+			<title>Callaway, Unit 1, Final Safety Analysis Report, Revision OL-28, Site Addendum, Chapter 2 Through 13, Figures</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26008A252</link>
+			<description>Drawing, Final Safety Analysis Report (FSAR), Graphics incl Charts and Tables, Map</description>
+			<author>Ameren Missouri, Union Electric Co</author>
+			<pubDate>2026-11-23 18:19:00</pubDate>
+		</item>
 		<item>
 			<title>Brunswick Steam Electric Plant Units 1 and 2, SLRA Appendix E</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26323A115</link>
@@ -199,27 +220,6 @@
 			<description>E-Mail</description>
 			<author>NRC/NRR/DDLP/DLP1/ORLB4</author>
 			<pubDate>2026-11-19 12:02:00</pubDate>
-		</item>
-		<item>
-			<title>Duane Arnold Energy Center, License Amendment Request (TSCR-195): Application to Adopt 10 CFR 50.69, "Risk-informed Categorization and Treatment of Structures, Systems and Components for Nuclear Power Reactors"'</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26315A002</link>
-			<description>Letter, License-Application for Facility Operating License (Amend/Renewal) DKT 50</description>
-			<author>NextEra Energy Duane Arnold, LLC</author>
-			<pubDate>2026-11-19 12:02:00</pubDate>
-		</item>
-		<item>
-			<title>LER 2026-004-00 for Browns Ferry Nuclear Plant, Unit 1, Reactor Core Isolation Cooling Turbine Exhaust Stop Check Valve Disc Found Stuck Open</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26313A020</link>
-			<description>Letter, Licensee Event Report (LER)</description>
-			<author>Tennessee Valley Authority</author>
-			<pubDate>2026-11-18 12:16:00</pubDate>
-		</item>
-		<item>
-			<title>POW024 - Responses to Request for Additional Information</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26320A647</link>
-			<description>Legal-Pre-Filed Exhibits</description>
-			<author>Powertech (USA), Inc, Holland and Knight, LLP</author>
-			<pubDate>2026-11-17 18:35:00</pubDate>
 		</item>
 	</channel>
 </rss>
