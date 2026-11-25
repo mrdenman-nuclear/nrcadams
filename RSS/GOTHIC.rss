@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 24 Nov 2026 23:27:24 GMT</pubDate>
-		<lastBuildDate>Tue, 24 Nov 2026 23:27:24 GMT</lastBuildDate>
+		<pubDate>Wed, 25 Nov 2026 22:59:00 GMT</pubDate>
+		<lastBuildDate>Wed, 25 Nov 2026 22:59:00 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -31,20 +31,6 @@
 			<description>Final Safety Analysis Report (FSAR)</description>
 			<author>Ameren Missouri, Union Electric Co</author>
 			<pubDate>2026-11-23 18:19:00</pubDate>
-		</item>
-		<item>
-			<title>POW028 - National Register Bulletin 15</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26320A651</link>
-			<description>Legal-Pre-Filed Exhibits</description>
-			<author>Powertech (USA), Inc, Holland and Knight, LLP</author>
-			<pubDate>2026-11-17 18:35:00</pubDate>
-		</item>
-		<item>
-			<title>NRC068 - South Dakota SHPO Guidance Federal and State Preservation Laws 2023</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26320A573</link>
-			<description>Legal-Pre-Filed Exhibits</description>
-			<author>NRC/OGC</author>
-			<pubDate>2026-11-17 17:02:00</pubDate>
 		</item>
 	</channel>
 </rss>

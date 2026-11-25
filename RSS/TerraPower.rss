@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 24 Nov 2026 23:27:22 GMT</pubDate>
-		<lastBuildDate>Tue, 24 Nov 2026 23:27:22 GMT</lastBuildDate>
+		<pubDate>Wed, 25 Nov 2026 22:58:58 GMT</pubDate>
+		<lastBuildDate>Wed, 25 Nov 2026 22:58:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Terra Innovatum Request For Withholding Information From Public Disclosure Related To Submittal Of Regulatory Engagement Plan Revision 5</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26328A002</link>
+			<description>E-Mail, Proprietary Information Review</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB2</author>
+			<pubDate>2026-11-25 12:17:00</pubDate>
+		</item>
 		<item>
 			<title>Reactor Open Allegations by CY Received: January 2022 - October 2026</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26322A408</link>
@@ -87,20 +94,6 @@
 			<description>General FR Notice Comment Letter</description>
 			<author>Nuclear Energy Institute (NEI)</author>
 			<pubDate>2026-11-12 12:22:00</pubDate>
-		</item>
-		<item>
-			<title>Global Laser Enrichment LLC., Submitting 2025 Cameco Annual Report</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26203A121</link>
-			<description>Annual Report</description>
-			<author>Cameco Corp</author>
-			<pubDate>2026-11-10 14:40:00</pubDate>
-		</item>
-		<item>
-			<title>OIG-NRC-27-M-01:  The Inspector Generals Assessment of the Most Serious Management and Performance Challenges Facing the U.S. Nuclear Regulatory Commission in Fiscal Year 2027, dated November 9, 2026</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26313A239</link>
-			<description>Annual Report</description>
-			<author>NRC/OIG</author>
-			<pubDate>2026-11-10 12:27:00</pubDate>
 		</item>
 	</channel>
 </rss>

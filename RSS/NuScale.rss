@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Tue, 24 Nov 2026 23:27:22 GMT</pubDate>
-		<lastBuildDate>Tue, 24 Nov 2026 23:27:22 GMT</lastBuildDate>
+		<pubDate>Wed, 25 Nov 2026 22:58:58 GMT</pubDate>
+		<lastBuildDate>Wed, 25 Nov 2026 22:58:58 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -38,13 +38,6 @@
 			<description>- No Document Type Applies</description>
 			<author>NRC/OCIO</author>
 			<pubDate>2026-11-13 20:15:00</pubDate>
-		</item>
-		<item>
-			<title>Sixth REAC/TS International Symposium NRC Presentation</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26314A272</link>
-			<description>Meeting Briefing Package/Handouts, Slides and Viewgraphs</description>
-			<author>NRC/NRR/DDNSIR/DEPR</author>
-			<pubDate>2026-11-10 19:06:00</pubDate>
 		</item>
 	</channel>
 </rss>
