@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 26 Nov 2026 22:53:56 GMT</pubDate>
-		<lastBuildDate>Thu, 26 Nov 2026 22:53:56 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Nov 2026 04:53:57 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Nov 2026 04:53:57 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -59,20 +59,6 @@
 			<description>Environmental Analysis Statement, Draft</description>
 			<author>NRC/NMSS/DDFSTE/DSFST/ERMB</author>
 			<pubDate>2026-11-20 14:42:00</pubDate>
-		</item>
-		<item>
-			<title>Environmental Assessment and Finding of No Significant Impact for the Construction Permit and Environmental Review Exemptions for the Long Mott Generating Station</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26112A016</link>
-			<description>Environmental Assessment</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2026-11-19 20:16:00</pubDate>
-		</item>
-		<item>
-			<title>Environmental Assessment and Finding of No Significant Impact for the Construction Permit and Environmental Review Exemptions for the Long Mott Generating Station</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26112A016</link>
-			<description>Environmental Assessment</description>
-			<author>NRC/NMSS</author>
-			<pubDate>2026-11-19 20:16:00</pubDate>
 		</item>
 	</channel>
 </rss>

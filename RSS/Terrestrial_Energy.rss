@@ -5,8 +5,8 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Thu, 26 Nov 2026 22:53:55 GMT</pubDate>
-		<lastBuildDate>Thu, 26 Nov 2026 22:53:55 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Nov 2026 04:53:54 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Nov 2026 04:53:54 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
@@ -199,13 +199,6 @@
 			<description>Environmental Assessment</description>
 			<author>NRC/NMSS</author>
 			<pubDate>2026-11-13 12:34:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 1: R.E. Ginna Nuclear Plant: Response to NRC RAI/RCI Environmental Review</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26307A316</link>
-			<description>Response to Request for Additional Information (RAI)</description>
-			<author>Constellation Energy Generation, LLC</author>
-			<pubDate>2026-11-12 12:21:00</pubDate>
 		</item>
 	</channel>
 </rss>
