@@ -5,12 +5,19 @@
 		<link>https://mrdenman-nuclear.github.io/nrcadams/</link>
 		<description>NRC ADAMS Docket Update</description>
 		<language>en-us</language>
-		<pubDate>Fri, 27 Nov 2026 04:53:41 GMT</pubDate>
-		<lastBuildDate>Fri, 27 Nov 2026 04:53:41 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Nov 2026 22:32:32 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Nov 2026 22:32:32 GMT</lastBuildDate>
 		<docs>https://mrdenman-nuclear.github.io/nrcadams/</docs>
 		<generator>Function write_rss() in R package nrcadams</generator>
 		<managingEditor>mrdenman@gmail.com</managingEditor>
 		<webMaster>mrdenman@gmail.com</webMaster>
+		<item>
+			<title>Holtec Str Mod LTR Schedule Revision Email 112326</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26328A310</link>
+			<description>E-Mail</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB2</author>
+			<pubDate>2026-11-27 16:56:00</pubDate>
+		</item>
 		<item>
 			<title>Acceptance Review of the Pioneer Units 1 and 2 Construction Permit Application</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26324A019</link>
@@ -47,16 +54,16 @@
 			<pubDate>2026-11-18 12:17:00</pubDate>
 		</item>
 		<item>
-			<title>Enclosure 3: Affidavit Pursuant to 10 CFR 2.390 to Withhold Information from Public Disclosure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26313A174</link>
-			<description>Legal-Affidavit</description>
+			<title>Enclosure 2: SMR-300 Instrumentation & Control Architecture Licensing Topical Report Audit Question Response Q-59 (Non-Proprietary)</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26313A173</link>
+			<description>Response to Request for Additional Information (RAI)</description>
 			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2026-11-18 12:17:00</pubDate>
 		</item>
 		<item>
-			<title>Enclosure 2: SMR-300 Instrumentation & Control Architecture Licensing Topical Report Audit Question Response Q-59 (Non-Proprietary)</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26313A173</link>
-			<description>Response to Request for Additional Information (RAI)</description>
+			<title>Enclosure 3: Affidavit Pursuant to 10 CFR 2.390 to Withhold Information from Public Disclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26313A174</link>
+			<description>Legal-Affidavit</description>
 			<author>Holtec International, SMR, LLC</author>
 			<pubDate>2026-11-18 12:17:00</pubDate>
 		</item>
@@ -73,20 +80,6 @@
 			<description>Audit Plan</description>
 			<author>NRC/OAR/DDLP/DARL/ARLB2</author>
 			<pubDate>2026-11-17 20:26:00</pubDate>
-		</item>
-		<item>
-			<title>Summary Report for the Regulatory Audit of "SMR-300 Concrete Strengthened Steel Structures Design and Analysis Methodology Licensing Topical Report"</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26258A237</link>
-			<description>Audit Report</description>
-			<author>NRC/OAR/DDLP/DARL/ARLB2</author>
-			<pubDate>2026-11-17 13:08:00</pubDate>
-		</item>
-		<item>
-			<title>Enclosure 3: Affidavit Pursuant to 10 CFR 2.390 to Withhold Information from Public Disclosure</title>
-			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26310A435</link>
-			<description>Legal-Affidavit</description>
-			<author>Holtec International SMR, LLC</author>
-			<pubDate>2026-11-17 13:08:00</pubDate>
 		</item>
 		<item>
 			<title>Email to Holtec Subject "Request for Withholding Determination from Public Disclosure - Responses to SSI LTR Audit Questions 7.1, 7.2, and 7.4" dated November 9, 2026</title>
@@ -106,6 +99,20 @@
 			<title>Enclosure 2: SSI LTR Audit Question Responses 7.1, 7.2, 7.4 (Non-Proprietary)</title>
 			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26310A434</link>
 			<description>Response to Request for Additional Information (RAI)</description>
+			<author>Holtec International SMR, LLC</author>
+			<pubDate>2026-11-17 13:08:00</pubDate>
+		</item>
+		<item>
+			<title>Summary Report for the Regulatory Audit of "SMR-300 Concrete Strengthened Steel Structures Design and Analysis Methodology Licensing Topical Report"</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26258A237</link>
+			<description>Audit Report</description>
+			<author>NRC/OAR/DDLP/DARL/ARLB2</author>
+			<pubDate>2026-11-17 13:08:00</pubDate>
+		</item>
+		<item>
+			<title>Enclosure 3: Affidavit Pursuant to 10 CFR 2.390 to Withhold Information from Public Disclosure</title>
+			<link>https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML26310A435</link>
+			<description>Legal-Affidavit</description>
 			<author>Holtec International SMR, LLC</author>
 			<pubDate>2026-11-17 13:08:00</pubDate>
 		</item>
